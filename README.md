@@ -169,11 +169,15 @@ The `BoilerplateApp` demonstrates:
 
 - ✅ React Native Paper integration
 - ✅ React Native Vector Icons (Material Community Icons)
-- ✅ React Navigation setup
+- ✅ React Navigation with bottom tabs
+- ✅ React Query for state management
+- ✅ Swipeable cards with gesture handling
 - ✅ TypeScript with strict mode
 - ✅ Monorepo workspace packages
-- ✅ Shared UI components from `@monorepo/ui-components`
-- ✅ Hello screen with icon (customizable starting point)
+- ✅ Industry-standard folder structure
+- ✅ **E2E testing with Detox** - Complete test suites for iOS and Android
+- ✅ Test IDs on all major UI components
+- ✅ Helper utilities for testing
 
 ## 📦 Shared Packages
 
@@ -249,7 +253,49 @@ npx yarn test
 
 # Lint the app
 npx yarn lint
+
+# E2E tests (iOS)
+npm run e2e:build:ios
+npm run e2e:test:ios
+
+# E2E tests (Android)
+npm run e2e:build:android
+npm run e2e:test:android
 ```
+
+## 🧪 E2E Testing
+
+Complete end-to-end testing with [Detox](https://wix.github.io/Detox/) is included in BoilerplateApp.
+
+### Quick Start
+
+**iOS**:
+```bash
+cd apps/BoilerplateApp
+npm run e2e:build:ios
+npm run e2e:test:ios
+```
+
+**Android**:
+```bash
+cd apps/BoilerplateApp
+# Start emulator first
+emulator -avd Pixel_7_API_34
+# Then run tests
+npm run e2e:build:android
+npm run e2e:test:android
+```
+
+### Test Coverage
+
+- ✅ Hello Screen (swipeable cards, deletion)
+- ✅ Second Screen (React Query, data fetching)
+- ✅ Navigation (tab switching, state preservation)
+
+### Documentation
+
+- Complete guide: [E2E_TESTING.md](apps/BoilerplateApp/E2E_TESTING.md)
+- Docs folder: [docs/product/E2E_TESTING_GUIDE.md](docs/product/E2E_TESTING_GUIDE.md)
 
 ## 🏗️ Adding New Apps
 
@@ -293,6 +339,7 @@ All packages use strict TypeScript mode for maximum type safety:
 - **ESLint**: Configured with React Native and TypeScript rules
 - **Prettier**: Consistent code formatting across the monorepo
 - **TypeScript**: Strict mode enabled for all packages
+- **Detox E2E Testing**: Comprehensive end-to-end test suites for iOS and Android
 
 ## 🚧 Troubleshooting
 
@@ -337,6 +384,7 @@ All documentation is organized in the [docs/](docs/) folder:
 ### Product & Features
 - [CREATE_APP_GUIDE.md](docs/product/CREATE_APP_GUIDE.md) - Complete guide for creating new apps
 - [APP_GENERATOR_COMPLETE.md](docs/product/APP_GENERATOR_COMPLETE.md) - App generator implementation details
+- [E2E_TESTING_GUIDE.md](docs/product/E2E_TESTING_GUIDE.md) - End-to-end testing with Detox
 - [QUICK_REFERENCE.md](docs/product/QUICK_REFERENCE.md) - Quick command reference
 - [CURRENT_STATUS.md](docs/product/CURRENT_STATUS.md) - Project status overview
 

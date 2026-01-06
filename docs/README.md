@@ -7,10 +7,15 @@ Complete documentation for the React Native Turbo Monorepo project, organized by
 ```
 docs/
 ├── README.md (this file)
-├── product/          # Product features and guides
-├── setup/            # Environment setup and configuration
-└── bugfixes/         # Bug fix documentation
+├── DOCUMENTATION_ORGANIZATION.md  # Organization guidelines
+├── product/          # Product features and guides (8 files)
+├── setup/            # Environment setup and configuration (6 files)
+└── bugfixes/         # Bug fix documentation (4 files)
 ```
+
+**Total**: 19 documentation files organized by category
+
+See [DOCUMENTATION_ORGANIZATION.md](DOCUMENTATION_ORGANIZATION.md) for organization guidelines and rules.
 
 ---
 
@@ -59,6 +64,65 @@ Quick command reference card for common tasks.
 - Tech stack summary
 
 **For:** Quick lookups during development
+
+---
+
+### [E2E_TESTING_GUIDE.md](product/E2E_TESTING_GUIDE.md)
+Complete guide for end-to-end testing with Detox framework.
+
+**Topics covered:**
+- Detox setup and configuration
+- Running iOS and Android tests
+- Writing E2E tests
+- Test IDs and best practices
+- Troubleshooting
+- CI/CD integration
+
+**For:** Implementing and running E2E tests
+
+---
+
+### [E2E_TESTING_COMPLETE.md](product/E2E_TESTING_COMPLETE.md)
+Complete implementation summary of E2E testing with Detox.
+
+**Topics covered:**
+- What was implemented
+- Test infrastructure details
+- Test IDs and coverage
+- Configuration details
+- Best practices implemented
+- Integration with app generator
+
+**For:** Understanding the E2E testing implementation
+
+---
+
+### [STRUCTURE_GUIDE.md](product/STRUCTURE_GUIDE.md)
+BoilerplateApp folder structure and organization guide.
+
+**Topics covered:**
+- Industry-standard folder structure
+- Component organization
+- Screen structure
+- Navigation setup
+- State management
+- Best practices
+
+**For:** Understanding the app architecture
+
+---
+
+### [BOILERPLATE_IMPLEMENTATION.md](product/BOILERPLATE_IMPLEMENTATION.md)
+Complete implementation details of BoilerplateApp features.
+
+**Topics covered:**
+- Features implemented
+- React Query setup
+- Navigation configuration
+- Swipeable cards
+- Component structure
+
+**For:** Understanding what's included in BoilerplateApp
 
 ---
 
@@ -122,6 +186,48 @@ Instructions for rebuilding the project from scratch.
 
 ---
 
+### [E2E_MONOREPO_SETUP.md](setup/E2E_MONOREPO_SETUP.md)
+E2E testing configuration for Yarn Workspaces monorepo.
+
+**Topics covered:**
+- Monorepo hoisting explanation
+- Detox CLI configuration
+- Why special setup is needed
+- Alternative approaches
+- Troubleshooting monorepo issues
+- CI/CD considerations
+
+**For:** Understanding E2E testing in monorepo context
+
+---
+
+### [DETOX_SIMULATOR_FIX.md](setup/DETOX_SIMULATOR_FIX.md)
+Fix for Detox iOS simulator configuration issues.
+
+**Topics covered:**
+- Simulator configuration problem
+- Finding available simulators
+- Updating configuration
+- Common simulators by Xcode version
+- Quick reference commands
+
+**For:** Fixing simulator-related E2E testing errors
+
+---
+
+### [RUN_GUIDE.md](setup/RUN_GUIDE.md)
+Step-by-step guide for running the app.
+
+**Topics covered:**
+- Running on iOS
+- Running on Android
+- Starting Metro bundler
+- Development workflow
+
+**For:** Day-to-day development tasks
+
+---
+
 ## 🐛 Bug Fixes
 
 Documentation of bugs that were encountered and fixed during development.
@@ -168,6 +274,19 @@ Summary of all fixes applied to the project.
 
 ---
 
+### [IOS_FIX_GESTURE_HANDLER.md](bugfixes/IOS_FIX_GESTURE_HANDLER.md)
+iOS gesture handler codegen fix documentation.
+
+**Topics covered:**
+- Gesture handler error details
+- Root cause analysis
+- Fix implementation (pod install)
+- Verification steps
+
+**For:** Understanding the gesture handler fix
+
+---
+
 ## 🚀 Quick Navigation
 
 ### I want to...
@@ -183,6 +302,21 @@ Summary of all fixes applied to the project.
 
 **...understand how the generator works**
 → [APP_GENERATOR_COMPLETE.md](product/APP_GENERATOR_COMPLETE.md)
+
+**...set up E2E testing**
+→ [E2E_TESTING_GUIDE.md](product/E2E_TESTING_GUIDE.md)
+
+**...write E2E tests**
+→ [E2E_TESTING_GUIDE.md](product/E2E_TESTING_GUIDE.md)
+
+**...fix simulator errors**
+→ [DETOX_SIMULATOR_FIX.md](setup/DETOX_SIMULATOR_FIX.md)
+
+**...understand the folder structure**
+→ [STRUCTURE_GUIDE.md](product/STRUCTURE_GUIDE.md)
+
+**...see what's in BoilerplateApp**
+→ [BOILERPLATE_IMPLEMENTATION.md](product/BOILERPLATE_IMPLEMENTATION.md)
 
 **...look up a command quickly**
 → [QUICK_REFERENCE.md](product/QUICK_REFERENCE.md)
