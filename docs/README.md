@@ -8,12 +8,12 @@ Complete documentation for the React Native Turbo Monorepo project, organized by
 docs/
 ├── README.md (this file)
 ├── DOCUMENTATION_ORGANIZATION.md  # Organization guidelines
-├── product/          # Product features and guides (8 files)
+├── product/          # Product features and guides (11 files)
 ├── setup/            # Environment setup and configuration (6 files)
-└── bugfixes/         # Bug fix documentation (4 files)
+└── bugfixes/         # Bug fix documentation (5 files)
 ```
 
-**Total**: 19 documentation files organized by category
+**Total**: 23 documentation files organized by category
 
 See [DOCUMENTATION_ORGANIZATION.md](DOCUMENTATION_ORGANIZATION.md) for organization guidelines and rules.
 
@@ -22,6 +22,51 @@ See [DOCUMENTATION_ORGANIZATION.md](DOCUMENTATION_ORGANIZATION.md) for organizat
 ## 🎯 Product & Features
 
 Core product documentation, feature guides, and usage instructions.
+
+### [THEME_SYSTEM.md](product/THEME_SYSTEM.md)
+Complete design system guide with Material Design 3 theming, colors, typography, and spacing.
+
+**Topics covered:**
+- Warm, professional color palette
+- Typography system (Display, Headline, Title, Body, Label)
+- 8px base unit spacing system
+- Border radius tokens
+- Shadows and elevation
+- React Native Paper integration
+- Best practices and migration guide
+
+**For:** Implementing consistent, professional UI across all apps
+
+---
+
+### [THEME_IMPLEMENTATION_COMPLETE.md](product/THEME_IMPLEMENTATION_COMPLETE.md)
+Complete implementation summary of the theme system.
+
+**Topics covered:**
+- What was implemented (design tokens, integration, documentation)
+- Theme infrastructure details
+- BoilerplateApp integration
+- Usage examples
+- Benefits and features
+- Migration guide from hardcoded values
+
+**For:** Understanding the theme system implementation
+
+---
+
+### [COLOR_THEME_UPDATE.md](product/COLOR_THEME_UPDATE.md)
+Color palette update from warm red theme to professional bluish theme.
+
+**Topics covered:**
+- Color changes (red to blue, amber to cyan, warm to cool)
+- Visual impact and color psychology
+- Before and after comparison
+- No code changes required
+- Benefits of centralized theme
+
+**For:** Understanding the bluish color palette update
+
+---
 
 ### [CREATE_APP_GUIDE.md](product/CREATE_APP_GUIDE.md)
 Complete guide for using the `create-app` command to generate new React Native apps from the BoilerplateApp template.
@@ -287,6 +332,19 @@ iOS gesture handler codegen fix documentation.
 
 ---
 
+### [PACKAGE_NAME_FIX.md](bugfixes/PACKAGE_NAME_FIX.md)
+Fix for package name mismatch in theme system imports.
+
+**Topics covered:**
+- Cannot find module error
+- Package name mismatch (@repo vs @monorepo)
+- Updated all imports to use correct package name
+- Reinstalled dependencies and pods
+
+**For:** Fixing module resolution errors with ui-components package
+
+---
+
 ## 🚀 Quick Navigation
 
 ### I want to...
@@ -296,6 +354,9 @@ iOS gesture handler codegen fix documentation.
 
 **...set up my environment**
 → [QUICK_START.md](setup/QUICK_START.md)
+
+**...use the theme system (colors, fonts, spacing)**
+→ [THEME_SYSTEM.md](product/THEME_SYSTEM.md)
 
 **...fix a build error**
 → [TROUBLESHOOTING.md](setup/TROUBLESHOOTING.md)

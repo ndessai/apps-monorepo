@@ -3,6 +3,7 @@ import { View, StyleSheet, ScrollView } from 'react-native';
 import { Text, Card, Button } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { useQuery } from '@tanstack/react-query';
+import { colors, spacing, elevation } from '@monorepo/ui-components';
 
 // Mock API call
 const fetchData = async () => {
@@ -23,7 +24,7 @@ export const SecondScreen: React.FC = () => {
   return (
     <ScrollView style={styles.container} testID="second-screen">
       <View style={styles.content}>
-        <Icon name="chart-line" size={80} color="#2196F3" testID="chart-icon" />
+        <Icon name="chart-line" size={80} color={colors.secondary.main} testID="chart-icon" />
         <Text variant="displayMedium" style={styles.title} testID="second-title">
           Second Screen
         </Text>
@@ -73,25 +74,25 @@ export const SecondScreen: React.FC = () => {
               Features
             </Text>
             <View style={styles.featureItem} testID="feature-1">
-              <Icon name="check-circle" size={20} color="#4CAF50" />
+              <Icon name="check-circle" size={20} color={colors.success.main} />
               <Text variant="bodyMedium" style={styles.featureText}>
                 Bottom Tab Navigation
               </Text>
             </View>
             <View style={styles.featureItem} testID="feature-2">
-              <Icon name="check-circle" size={20} color="#4CAF50" />
+              <Icon name="check-circle" size={20} color={colors.success.main} />
               <Text variant="bodyMedium" style={styles.featureText}>
                 React Query for State Management
               </Text>
             </View>
             <View style={styles.featureItem} testID="feature-3">
-              <Icon name="check-circle" size={20} color="#4CAF50" />
+              <Icon name="check-circle" size={20} color={colors.success.main} />
               <Text variant="bodyMedium" style={styles.featureText}>
                 Swipeable Cards with Gestures
               </Text>
             </View>
             <View style={styles.featureItem} testID="feature-4">
-              <Icon name="check-circle" size={20} color="#4CAF50" />
+              <Icon name="check-circle" size={20} color={colors.success.main} />
               <Text variant="bodyMedium" style={styles.featureText}>
                 Industry Standard Folder Structure
               </Text>
@@ -106,52 +107,53 @@ export const SecondScreen: React.FC = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f5f5f5',
+    backgroundColor: colors.background.default,
   },
   content: {
     flex: 1,
     alignItems: 'center',
-    padding: 20,
-    paddingTop: 40,
+    padding: spacing.lg,
+    paddingTop: spacing['2xl'],
   },
   title: {
-    marginTop: 20,
+    marginTop: spacing.lg,
     fontWeight: 'bold',
   },
   subtitle: {
-    marginTop: 10,
-    color: '#666',
+    marginTop: spacing.sm,
+    color: colors.text.secondary,
     textAlign: 'center',
-    marginBottom: 20,
+    marginBottom: spacing.lg,
   },
   card: {
     width: '100%',
-    marginTop: 16,
+    marginTop: spacing.md,
+    ...elevation.level1,
   },
   cardTitle: {
     fontWeight: 'bold',
-    marginBottom: 12,
+    marginBottom: spacing.md,
   },
   cardText: {
-    color: '#333',
-    marginTop: 8,
+    color: colors.text.primary,
+    marginTop: spacing.sm,
   },
   timestamp: {
-    color: '#999',
-    marginTop: 8,
+    color: colors.text.disabled,
+    marginTop: spacing.sm,
     fontSize: 12,
   },
   errorText: {
-    color: '#f44336',
-    marginTop: 8,
+    color: colors.error.main,
+    marginTop: spacing.sm,
   },
   featureItem: {
     flexDirection: 'row',
     alignItems: 'center',
-    marginTop: 12,
+    marginTop: spacing.md,
   },
   featureText: {
-    marginLeft: 12,
+    marginLeft: spacing.md,
     flex: 1,
   },
 });

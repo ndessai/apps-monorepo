@@ -3,6 +3,7 @@ import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { HelloScreen } from '../screens/HelloScreen';
 import { SecondScreen } from '../screens/SecondScreen';
+import { colors, spacing } from '@monorepo/ui-components';
 
 export type BottomTabParamList = {
   Home: undefined;
@@ -15,15 +16,19 @@ export const BottomTabNavigator: React.FC = () => {
   return (
     <Tab.Navigator
       screenOptions={{
-        tabBarActiveTintColor: '#6200ee',
-        tabBarInactiveTintColor: '#999',
+        tabBarActiveTintColor: colors.primary.main,
+        tabBarInactiveTintColor: colors.text.disabled,
         headerShown: true,
+        headerStyle: {
+          backgroundColor: colors.surface.default,
+        },
+        headerTintColor: colors.text.primary,
         tabBarStyle: {
-          backgroundColor: '#fff',
+          backgroundColor: colors.surface.default,
           borderTopWidth: 1,
-          borderTopColor: '#e0e0e0',
-          paddingBottom: 5,
-          paddingTop: 5,
+          borderTopColor: colors.divider,
+          paddingBottom: spacing.xs,
+          paddingTop: spacing.xs,
           height: 60,
         },
         tabBarLabelStyle: {

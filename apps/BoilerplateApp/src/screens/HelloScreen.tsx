@@ -3,6 +3,7 @@ import { View, StyleSheet, Alert } from 'react-native';
 import { Text, Card } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { SwipeableCard } from '../components/SwipeableCard';
+import { colors, spacing, elevation } from '@monorepo/ui-components';
 
 export const HelloScreen: React.FC = () => {
   const [cards, setCards] = useState([
@@ -29,7 +30,7 @@ export const HelloScreen: React.FC = () => {
 
   return (
     <View style={styles.container} testID="hello-screen">
-      <Icon name="rocket-launch" size={80} color="#6200ee" testID="rocket-icon" />
+      <Icon name="rocket-launch" size={80} color={colors.primary.main} testID="rocket-icon" />
       <Text variant="displayMedium" style={styles.title} testID="hello-title">
         Hello!
       </Text>
@@ -66,27 +67,28 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: '#f5f5f5',
-    padding: 20,
+    backgroundColor: colors.background.default,
+    padding: spacing.lg,
   },
   title: {
-    marginTop: 20,
+    marginTop: spacing.lg,
     fontWeight: 'bold',
   },
   subtitle: {
-    marginTop: 10,
-    color: '#666',
+    marginTop: spacing.sm,
+    color: colors.text.secondary,
     textAlign: 'center',
   },
   cardsContainer: {
-    marginTop: 30,
+    marginTop: spacing.xl,
     width: '100%',
   },
   card: {
-    marginBottom: 12,
+    marginBottom: spacing.md,
+    ...elevation.level1,
   },
   cardDescription: {
-    marginTop: 8,
-    color: '#666',
+    marginTop: spacing.sm,
+    color: colors.text.secondary,
   },
 });

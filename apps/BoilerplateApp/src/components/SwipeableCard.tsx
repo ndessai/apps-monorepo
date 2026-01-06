@@ -3,6 +3,7 @@ import { View, StyleSheet, Animated, TouchableOpacity } from 'react-native';
 import { Text } from 'react-native-paper';
 import { Swipeable } from 'react-native-gesture-handler';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
+import { colors, spacing, radius } from '@monorepo/ui-components';
 
 interface SwipeableCardProps {
   children: ReactNode;
@@ -49,20 +50,20 @@ export const SwipeableCard: React.FC<SwipeableCardProps> = ({
 
 const styles = StyleSheet.create({
   deleteButton: {
-    backgroundColor: '#f44336',
+    backgroundColor: colors.error.main,
     justifyContent: 'center',
     alignItems: 'center',
     width: 100,
-    marginBottom: 12,
-    borderRadius: 8,
+    marginBottom: spacing.md,
+    borderRadius: radius.sm,
   },
   deleteContent: {
     alignItems: 'center',
   },
   deleteText: {
-    color: '#fff',
+    color: colors.error.onError,
     fontSize: 12,
     fontWeight: '600',
-    marginTop: 4,
+    marginTop: spacing.xs,
   },
 });
