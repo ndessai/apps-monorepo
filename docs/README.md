@@ -9,11 +9,11 @@ docs/
 ├── README.md (this file)
 ├── DOCUMENTATION_ORGANIZATION.md  # Organization guidelines
 ├── product/          # Product features and guides (11 files)
-├── setup/            # Environment setup and configuration (6 files)
-└── bugfixes/         # Bug fix documentation (5 files)
+├── setup/            # Environment setup and configuration (8 files)
+└── bugfixes/         # Bug fix documentation (6 files)
 ```
 
-**Total**: 23 documentation files organized by category
+**Total**: 26 documentation files organized by category
 
 See [DOCUMENTATION_ORGANIZATION.md](DOCUMENTATION_ORGANIZATION.md) for organization guidelines and rules.
 
@@ -273,6 +273,36 @@ Step-by-step guide for running the app.
 
 ---
 
+### [LOCAL_STORAGE_SETUP.md](setup/LOCAL_STORAGE_SETUP.md)
+Complete setup guide for WatermelonDB and React Native FS.
+
+**Topics covered:**
+- WatermelonDB installation and configuration
+- React Native FS setup
+- Database models and schema
+- Storage utilities
+- Usage examples
+- Troubleshooting
+
+**For:** Adding local persistent storage to apps
+
+---
+
+### [KEY_VALUE_STORAGE_SETUP.md](setup/KEY_VALUE_STORAGE_SETUP.md)
+Complete setup guide for React Native MMKV key-value storage.
+
+**Topics covered:**
+- MMKV installation and configuration (fastest storage for React Native)
+- Type-safe abstraction layer
+- React hooks for reactive storage
+- Authentication, preferences, and app state helpers
+- Performance benchmarks (10-30x faster than AsyncStorage)
+- Migration from AsyncStorage
+
+**For:** Fast, synchronous key-value storage for settings, tokens, and preferences
+
+---
+
 ## 🐛 Bug Fixes
 
 Documentation of bugs that were encountered and fixed during development.
@@ -387,6 +417,12 @@ Fix for package name mismatch in theme system imports.
 
 **...see what bugs were fixed**
 → [FIXES_APPLIED.md](bugfixes/FIXES_APPLIED.md)
+
+**...add local storage (database or files)**
+→ [LOCAL_STORAGE_SETUP.md](setup/LOCAL_STORAGE_SETUP.md)
+
+**...add key-value storage (settings, tokens, preferences)**
+→ [KEY_VALUE_STORAGE_SETUP.md](setup/KEY_VALUE_STORAGE_SETUP.md)
 
 ---
 
