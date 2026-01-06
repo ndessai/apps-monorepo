@@ -1,0 +1,11 @@
+{
+  "name": "@monorepo/config",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "files": [
+    "eslint-preset.js",
+    "tsconfig-base.json",
+    "tsconfig-react-native.json"
+  ]
+}

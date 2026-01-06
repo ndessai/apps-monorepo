@@ -1,0 +1,9 @@
+{
+  "name": "@monorepo/metro-config",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "dependencies": {
+    "metro-config": "^0.81.0"
+  }
+}
