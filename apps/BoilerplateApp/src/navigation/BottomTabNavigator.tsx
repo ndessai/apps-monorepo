@@ -1,16 +1,48 @@
 import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
+import { createNativeStackNavigator } from '@react-navigation/native-stack';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { HelloScreen } from '../screens/HelloScreen';
 import { SecondScreen } from '../screens/SecondScreen';
+import { ProfileScreen } from '../screens/ProfileScreen';
 import { colors, spacing } from '@monorepo/ui-components';
 
+export type HomeStackParamList = {
+  Hello: undefined;
+  Profile: undefined;
+};
+
 export type BottomTabParamList = {
-  Home: undefined;
+  HomeStack: undefined;
   Second: undefined;
 };
 
+const HomeStack = createNativeStackNavigator<HomeStackParamList>();
 const Tab = createBottomTabNavigator<BottomTabParamList>();
+
+function HomeStackNavigator() {
+  return (
+    <HomeStack.Navigator>
+      <HomeStack.Screen
+        name="Hello"
+        component={HelloScreen}
+        options={{ headerShown: false }}
+      />
+      <HomeStack.Screen
+        name="Profile"
+        component={ProfileScreen}
+        options={{
+          title: 'Profile',
+          presentation: 'modal',
+          headerStyle: {
+            backgroundColor: colors.surface.default,
+          },
+          headerTintColor: colors.text.primary,
+        }}
+      />
+    </HomeStack.Navigator>
+  );
+}
 
 export const BottomTabNavigator: React.FC = () => {
   return (
@@ -38,11 +70,12 @@ export const BottomTabNavigator: React.FC = () => {
       }}
     >
       <Tab.Screen
-        name="Home"
-        component={HelloScreen}
+        name="HomeStack"
+        component={HomeStackNavigator}
         options={{
           title: 'Home',
           tabBarLabel: 'Home',
+          headerShown: false,
           tabBarIcon: ({ color, size }) => (
             <Icon name="home" size={size} color={color} />
           ),

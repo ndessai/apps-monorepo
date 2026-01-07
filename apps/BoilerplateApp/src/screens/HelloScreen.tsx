@@ -1,15 +1,40 @@
-import React, { useState } from 'react';
-import { View, StyleSheet, Alert } from 'react-native';
+import React, { useState, useLayoutEffect } from 'react';
+import { View, StyleSheet, Alert, TouchableOpacity } from 'react-native';
 import { Text, Card } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
+import { useNavigation } from '@react-navigation/native';
+import { NativeStackNavigationProp } from '@react-navigation/native-stack';
 import { SwipeableCard } from '../components/SwipeableCard';
 import { colors, spacing, elevation } from '@monorepo/ui-components';
+import { HomeStackParamList } from '../navigation/BottomTabNavigator';
+
+type HelloScreenNavigationProp = NativeStackNavigationProp<HomeStackParamList, 'Hello'>;
 
 export const HelloScreen: React.FC = () => {
+  const navigation = useNavigation<HelloScreenNavigationProp>();
   const [cards, setCards] = useState([
     { id: '1', title: 'Swipeable Card', description: 'Swipe left to delete' },
     { id: '2', title: 'Another Card', description: 'Try swiping this one too!' },
   ]);
+
+  useLayoutEffect(() => {
+    navigation.setOptions({
+      headerShown: true,
+      title: 'Home',
+      headerStyle: {
+        backgroundColor: colors.surface.default,
+      },
+      headerTintColor: colors.text.primary,
+      headerRight: () => (
+        <TouchableOpacity
+          onPress={() => navigation.navigate('Profile')}
+          style={styles.headerButton}
+        >
+          <Icon name="account-circle" size={28} color={colors.primary.main} />
+        </TouchableOpacity>
+      ),
+    });
+  }, [navigation]);
 
   const handleDelete = (id: string) => {
     Alert.alert(
@@ -90,5 +115,8 @@ const styles = StyleSheet.create({
   cardDescription: {
     marginTop: spacing.sm,
     color: colors.text.secondary,
+  },
+  headerButton: {
+    marginRight: spacing.md,
   },
 });

@@ -73,5 +73,16 @@
 		<string>FontAwesome6_Brands.ttf</string>
 		<string>MaterialIcons.ttf</string>
 	</array>
+	<key>CFBundleURLTypes</key>
+	<array>
+		<dict>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<!-- TODO: Replace with your reversed iOS Client ID from Google Cloud Console -->
+				<!-- Example: com.googleusercontent.apps.123456789-abcdefg -->
+				<string>com.googleusercontent.apps.YOUR_REVERSED_IOS_CLIENT_ID</string>
+			</array>
+		</dict>
+	</array>
 </dict>
 </plist>
