@@ -13,7 +13,7 @@ import { NavigationContainer } from '@react-navigation/native';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { QueryProvider } from './src/providers/QueryProvider';
 import { DatabaseProvider } from './src/providers/DatabaseProvider';
-import { BottomTabNavigator } from './src/navigation/BottomTabNavigator';
+import { QuizStackNavigator } from './src/navigation/QuizStackNavigator';
 import { paperTheme } from '@monorepo/ui-components';
 import { configureGoogleSignIn } from './src/services/googleSignIn';
 
@@ -29,7 +29,7 @@ function App() {
             <PaperProvider theme={paperTheme}>
               <NavigationContainer>
                 <StatusBar barStyle="dark-content" />
-                <BottomTabNavigator />
+                <QuizStackNavigator />
               </NavigationContainer>
             </PaperProvider>
           </SafeAreaProvider>

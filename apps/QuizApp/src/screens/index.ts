@@ -1,2 +1,3 @@
-export { HelloScreen } from './HelloScreen';
-export { SecondScreen } from './SecondScreen';
+export { QuizLaunchScreen } from './QuizLaunchScreen';
+export { QuizScreen } from './QuizScreen';
+export { QuizResultsScreen } from './QuizResultsScreen';

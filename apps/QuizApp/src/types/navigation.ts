@@ -1,9 +1,17 @@
-import { BottomTabParamList } from '../navigation/BottomTabNavigator';
+import { QuizSession } from './quiz';
+
+// Quiz Stack navigation
+export type QuizStackParamList = {
+  QuizLaunch: undefined;
+  Quiz: undefined;
+  QuizResults: {
+    session: QuizSession;
+  };
+  Profile: undefined;
+};
 
 declare global {
   namespace ReactNavigation {
-    interface RootParamList extends BottomTabParamList {}
+    interface RootParamList extends QuizStackParamList {}
   }
 }
-
-export type { BottomTabParamList };

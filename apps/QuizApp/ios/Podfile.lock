@@ -2856,6 +2856,8 @@ PODS:
     - Yoga
   - simdjson (3.9.4)
   - SocketRocket (0.7.1)
+  - TextToSpeech (4.1.1):
+    - React-Core
   - WatermelonDB (0.28.0):
     - React
     - simdjson
@@ -2952,6 +2954,7 @@ DEPENDENCIES:
   - RNVectorIcons (from `../../../node_modules/react-native-vector-icons`)
   - "simdjson (from `../../../node_modules/@nozbe/simdjson`)"
   - SocketRocket (~> 0.7.1)
+  - TextToSpeech (from `../../../node_modules/react-native-tts`)
   - "WatermelonDB (from `../../../node_modules/@nozbe/watermelondb`)"
   - Yoga (from `../../../node_modules/react-native/ReactCommon/yoga`)
 
@@ -3144,6 +3147,8 @@ EXTERNAL SOURCES:
     :path: "../../../node_modules/react-native-vector-icons"
   simdjson:
     :path: "../../../node_modules/@nozbe/simdjson"
+  TextToSpeech:
+    :path: "../../../node_modules/react-native-tts"
   WatermelonDB:
     :path: "../../../node_modules/@nozbe/watermelondb"
   Yoga:
@@ -3246,9 +3251,10 @@ SPEC CHECKSUMS:
   RNVectorIcons: 791f13226ec4a3fd13062eda9e892159f0981fae
   simdjson: 7bb9e33d87737cec966e7b427773c67baa4458fe
   SocketRocket: d4aabe649be1e368d1318fdf28a022d714d65748
+  TextToSpeech: 89b239221ec378d213af422d14789a729705360b
   WatermelonDB: 75e467adbaf2cb2809780fb3eda7ce4964e11778
   Yoga: 5456bb010373068fc92221140921b09d126b116e
 
 PODFILE CHECKSUM: be09d48882a850a1ce47f119aedf6b368e7ed9a4
 
-COCOAPODS: 1.16.2
+COCOAPODS: 1.15.2
