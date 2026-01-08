@@ -13,10 +13,12 @@ const DEFAULT_RATE = 0.5; // TTS rate to achieve ~150 WPM (adjust based on testi
 
 // Progress callback type
 export type TTSProgressCallback = (charIndex: number) => void;
+export type TTSFinishCallback = () => void;
 
 // Current TTS state
 let isSpeaking = false;
 let currentProgressCallback: TTSProgressCallback | null = null;
+let currentFinishCallback: TTSFinishCallback | null = null;
 let currentText = '';
 let startTime = 0;
 
@@ -27,27 +29,45 @@ let startTime = 0;
 export async function initializeTTS(): Promise<void> {
   try {
     // Set default language
-    await Tts.setDefaultLanguage('en-US');
+    try {
+      await Tts.setDefaultLanguage('en-US');
+    } catch (error) {
+      console.warn('Failed to set default language:', error);
+    }
 
     // Set default rate to achieve ~150 WPM
-    await Tts.setDefaultRate(DEFAULT_RATE);
+    // Note: setDefaultRate has issues on iOS simulator, so we skip it
+    // The rate can be set per-speak call if needed
+    // try {
+    //   await Tts.setDefaultRate(DEFAULT_RATE);
+    // } catch (error) {
+    //   console.warn('Failed to set default rate:', error);
+    // }
 
     // Set default pitch
-    await Tts.setDefaultPitch(1.0);
+    try {
+      await Tts.setDefaultPitch(1.0);
+    } catch (error) {
+      console.warn('Failed to set default pitch:', error);
+    }
 
     // Get available voices and select a high-quality one
-    const voices = await Tts.voices();
-    const enVoices = voices.filter((v) => v.language === 'en-US');
+    try {
+      const voices = await Tts.voices();
+      const enVoices = voices.filter((v) => v.language === 'en-US');
 
-    // Prefer enhanced/premium voices if available
-    const goodVoice = enVoices.find((v) =>
-      v.name.toLowerCase().includes('enhanced') ||
-      v.name.toLowerCase().includes('premium') ||
-      v.quality >= 300
-    );
+      // Prefer enhanced/premium voices if available
+      const goodVoice = enVoices.find((v) =>
+        v.name.toLowerCase().includes('enhanced') ||
+        v.name.toLowerCase().includes('premium') ||
+        (v.quality && v.quality >= 300)
+      );
 
-    if (goodVoice) {
-      await Tts.setDefaultVoice(goodVoice.id);
+      if (goodVoice) {
+        await Tts.setDefaultVoice(goodVoice.id);
+      }
+    } catch (error) {
+      console.warn('Failed to set voice:', error);
     }
 
     // Set up event listeners
@@ -59,7 +79,8 @@ export async function initializeTTS(): Promise<void> {
     console.log('TTS initialized successfully');
   } catch (error) {
     console.error('Failed to initialize TTS:', error);
-    throw error;
+    // Don't throw - allow app to continue without TTS
+    console.warn('Continuing without full TTS support');
   }
 }
 
@@ -78,14 +99,17 @@ export function cleanupTTS(): void {
  * Speak text with word-by-word progress tracking
  * @param text Text to speak
  * @param onProgress Callback for character position updates
+ * @param onFinish Callback when speech finishes
  */
 export async function speakText(
   text: string,
-  onProgress?: TTSProgressCallback
+  onProgress?: TTSProgressCallback,
+  onFinish?: TTSFinishCallback
 ): Promise<void> {
   try {
     currentText = text;
     currentProgressCallback = onProgress || null;
+    currentFinishCallback = onFinish || null;
     startTime = Date.now();
 
     isSpeaking = true;
@@ -101,10 +125,44 @@ export async function speakText(
  * Stop speaking immediately
  */
 export function stopSpeaking(): void {
-  if (isSpeaking) {
-    Tts.stop();
+  try {
+    // Clear progress interval first to stop updates
+    if (progressInterval) {
+      clearInterval(progressInterval);
+      progressInterval = null;
+    }
+
+    if (isSpeaking) {
+      // iOS TTS stop is unreliable, use multiple strategies
+      try {
+        // Strategy 1: Call stop without await (synchronous call)
+        Tts.stop();
+      } catch (stopError) {
+        console.warn('Stop call failed, trying pause:', stopError);
+        // Strategy 2: Try pause instead
+        try {
+          Tts.pause();
+        } catch (pauseError) {
+          console.warn('Pause failed, force stopping by speaking silence:', pauseError);
+          // Strategy 3: Interrupt with a very short silence
+          try {
+            Tts.speak(' ', {
+              iosVoiceId: 'com.apple.ttsbundle.Samantha-compact',
+              rate: 10.0, // Very fast to finish quickly
+            });
+          } catch (silenceError) {
+            console.warn('All stop strategies failed:', silenceError);
+          }
+        }
+      }
+    }
+  } catch (error) {
+    console.warn('Failed to stop TTS:', error);
+  } finally {
+    // Always clean up state regardless of stop() success
     isSpeaking = false;
     currentProgressCallback = null;
+    currentFinishCallback = null;
   }
 }
 
@@ -164,13 +222,18 @@ export async function setRate(rate: number): Promise<void> {
 
 /**
  * Calculate character position from elapsed time
- * Uses a linear approximation based on TARGET_WPM
+ * Uses a linear approximation based on actual TTS speed
+ * Calibrated to match actual iOS TTS reading speed
  */
 function calculateCharPosition(elapsedMs: number, totalText: string): number {
   if (!totalText) return 0;
 
+  // Adjust duration to match actual TTS speed
+  // Fine-tuned factor to synchronize text reveal with speech
   const totalDuration = calculateReadingDuration(totalText);
-  const progress = Math.min(elapsedMs / totalDuration, 1);
+  const adjustedDuration = totalDuration * 0.85; // Slightly faster than estimated
+
+  const progress = Math.min(elapsedMs / adjustedDuration, 1);
   return Math.floor(progress * totalText.length);
 }
 
@@ -189,7 +252,25 @@ function handleTTSStart(_event: any): void {
 function handleTTSFinish(_event: any): void {
   console.log('TTS finished');
   isSpeaking = false;
+
+  // Ensure text is fully revealed
+  if (currentProgressCallback && currentText) {
+    currentProgressCallback(currentText.length);
+  }
+
+  // Call finish callback
+  if (currentFinishCallback) {
+    currentFinishCallback();
+  }
+
   currentProgressCallback = null;
+  currentFinishCallback = null;
+
+  // Clear progress interval
+  if (progressInterval) {
+    clearInterval(progressInterval);
+    progressInterval = null;
+  }
 }
 
 function handleTTSCancel(_event: any): void {
@@ -229,5 +310,5 @@ function startProgressTracking(): void {
     const elapsed = Date.now() - startTime;
     const charIndex = calculateCharPosition(elapsed, currentText);
     currentProgressCallback(charIndex);
-  }, 100); // Update every 100ms for smooth highlighting
+  }, 50); // Update every 50ms for smoother text reveal
 }

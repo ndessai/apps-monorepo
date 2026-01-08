@@ -2064,6 +2064,8 @@ PODS:
     - ReactCommon/turbomodule/core
     - SocketRocket
     - Yoga
+  - react-native-voice (3.2.4):
+    - React-Core
   - React-NativeModulesApple (0.83.1):
     - boost
     - DoubleConversion
@@ -2911,6 +2913,7 @@ DEPENDENCIES:
   - react-native-get-random-values (from `../../../node_modules/react-native-get-random-values`)
   - react-native-mmkv (from `../../../node_modules/react-native-mmkv`)
   - react-native-safe-area-context (from `../../../node_modules/react-native-safe-area-context`)
+  - "react-native-voice (from `../../../node_modules/@react-native-voice/voice`)"
   - React-NativeModulesApple (from `../../../node_modules/react-native/ReactCommon/react/nativemodule/core/platform/ios`)
   - React-networking (from `../../../node_modules/react-native/ReactCommon/react/networking`)
   - React-oscompat (from `../../../node_modules/react-native/ReactCommon/oscompat`)
@@ -3063,6 +3066,8 @@ EXTERNAL SOURCES:
     :path: "../../../node_modules/react-native-mmkv"
   react-native-safe-area-context:
     :path: "../../../node_modules/react-native-safe-area-context"
+  react-native-voice:
+    :path: "../../../node_modules/@react-native-voice/voice"
   React-NativeModulesApple:
     :path: "../../../node_modules/react-native/ReactCommon/react/nativemodule/core/platform/ios"
   React-networking:
@@ -3208,6 +3213,7 @@ SPEC CHECKSUMS:
   react-native-get-random-values: e2acf4070fe4b7325705a05af047449637a27a21
   react-native-mmkv: ac7507625cd74bac0eb5333604a7cd7b08fe9e3e
   react-native-safe-area-context: c00143b4823773bba23f2f19f85663ae89ceb460
+  react-native-voice: 908a0eba96c8c3d643e4f98b7232c6557d0a6f9c
   React-NativeModulesApple: a2c3d2cbec893956a5b3e4060322db2984fff75b
   React-networking: 3f98bd96893a294376e7e03730947a08d474c380
   React-oscompat: 80166b66da22e7af7fad94474e9997bd52d4c8c6

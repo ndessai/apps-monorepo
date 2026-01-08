@@ -64,9 +64,9 @@ export const BuzzButton: React.FC<BuzzButtonProps> = ({
 
 const styles = StyleSheet.create({
   container: {
-    width: 200,
-    height: 200,
-    borderRadius: 100,
+    width: 100,
+    height: 100,
+    borderRadius: 50,
     backgroundColor: colors.primary.main,
     justifyContent: 'center',
     alignItems: 'center',
@@ -75,14 +75,14 @@ const styles = StyleSheet.create({
   button: {
     width: '100%',
     height: '100%',
-    borderRadius: 100,
+    borderRadius: 50,
     justifyContent: 'center',
     alignItems: 'center',
   },
   text: {
     color: colors.surface.default,
     fontWeight: 'bold',
-    fontSize: 32,
+    fontSize: 20,
   },
   disabled: {
     backgroundColor: colors.text.disabled,

@@ -41,6 +41,7 @@ export interface BonusPart {
   text: string;
   answer: string;
   acceptableAnswers: string[];
+  pointValue?: number; // Points for this part (defaults to 10)
 }
 
 // Bonus question structure (always 3 parts)

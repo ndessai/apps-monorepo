@@ -21,7 +21,7 @@ import type {
 } from '../types/quiz';
 import {
   BuzzButton,
-  QuestionDisplay,
+  TossupReader,
   AnswerInput,
   ScoreDisplay,
   ProgressIndicator,
@@ -37,7 +37,7 @@ import {
 type Props = NativeStackScreenProps<QuizStackParamList, 'Quiz'>;
 
 const BUZZ_WINDOW_DURATION = 3000; // 3 seconds
-const ANSWER_DURATION = 3000; // 3 seconds
+const ANSWER_DURATION = 8000; // 8 seconds to answer after buzzing
 const BONUS_ANSWER_DURATION = 5000; // 5 seconds per part
 const REVIEW_DURATION = 2000; // 2 seconds to show result
 
@@ -71,15 +71,23 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   useEffect(() => {
     const initialize = async () => {
       try {
+        console.log('Initializing TTS...');
         await ttsService.initializeTTS();
+        console.log('TTS initialized, loading questions...');
+
         const data = await loadQuestions();
+        console.log('Questions loaded successfully:', data);
+
         setQuizData(data);
         setQuizState('idle');
       } catch (error) {
         console.error('Failed to initialize quiz:', error);
-        Alert.alert('Error', 'Failed to load quiz questions', [
-          { text: 'OK', onPress: () => navigation.goBack() },
-        ]);
+        const errorMessage = error instanceof Error ? error.message : 'Unknown error occurred';
+        Alert.alert(
+          'Initialization Error',
+          `Failed to initialize quiz: ${errorMessage}`,
+          [{ text: 'OK', onPress: () => navigation.goBack() }]
+        );
       }
     };
 
@@ -129,18 +137,17 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     setCurrentCharIndex(0);
     setQuizState('reading');
 
-    // Start TTS
-    ttsService.speakText(nextQuestion.text, (charIndex) => {
-      setCurrentCharIndex(charIndex);
-    });
-
-    // Start buzz window after reading completes
-    const readingDuration = ttsService.calculateReadingDuration(
-      nextQuestion.text
+    // Start TTS with progress and finish callbacks
+    ttsService.speakText(
+      nextQuestion.text,
+      (charIndex) => {
+        setCurrentCharIndex(charIndex);
+      },
+      () => {
+        // When TTS finishes, start buzz window
+        startBuzzWindow();
+      }
     );
-    buzzWindowRef.current = setTimeout(() => {
-      startBuzzWindow();
-    }, readingDuration);
   };
 
   // Start buzz window (3s after question finishes)
@@ -172,6 +179,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       setWasBeforePowerMark(currentCharIndex < powerPos);
     }
 
+    // Keep text revealed only up to the current position
+    // currentCharIndex remains at its current value (where user buzzed)
+
     setQuizState('buzzed');
     startAnswerTimer();
   };
@@ -179,9 +189,10 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   // Start answer timer
   const startAnswerTimer = () => {
     setQuizState('answering');
-    setTimeRemaining(3);
+    const answerSeconds = ANSWER_DURATION / 1000;
+    setTimeRemaining(answerSeconds);
 
-    let remaining = 3;
+    let remaining = answerSeconds;
     timerRef.current = setInterval(() => {
       remaining -= 1;
       setTimeRemaining(remaining);
@@ -274,25 +285,26 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     const part = bonus.parts[partIndex];
     setCurrentCharIndex(0);
 
-    // Read the part
-    ttsService.speakText(part.text, (charIndex) => {
-      setCurrentCharIndex(charIndex);
-    });
+    // Read the part with progress and finish callbacks
+    ttsService.speakText(
+      part.text,
+      (charIndex) => {
+        setCurrentCharIndex(charIndex);
+      },
+      () => {
+        // When TTS finishes, start answer timer
+        setTimeRemaining(5);
+        let remaining = 5;
+        timerRef.current = setInterval(() => {
+          remaining -= 1;
+          setTimeRemaining(remaining);
 
-    // Start answer timer after reading
-    const readingDuration = ttsService.calculateReadingDuration(part.text);
-    setTimeout(() => {
-      setTimeRemaining(5);
-      let remaining = 5;
-      timerRef.current = setInterval(() => {
-        remaining -= 1;
-        setTimeRemaining(remaining);
-
-        if (remaining <= 0) {
-          handleBonusTimeout(bonus, partIndex);
-        }
-      }, 1000);
-    }, readingDuration);
+          if (remaining <= 0) {
+            handleBonusTimeout(bonus, partIndex);
+          }
+        }, 1000);
+      }
+    );
   };
 
   // Handle bonus answer
@@ -303,7 +315,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     const part = bonus.parts[currentBonusPartIndex];
 
     const isCorrect = validateAnswer(answer, part.acceptableAnswers);
-    const points = isCorrect ? part.pointValue : 0;
+    const points = isCorrect ? (part.pointValue || 10) : 0; // Default to 10 points per part
 
     // Store bonus result (accumulate for all parts)
     const existingResult = bonusResults.find(
@@ -386,12 +398,12 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   const completeQuiz = () => {
     setQuizState('completed');
 
-    const session: QuizSession = {
+    const session = {
       tossupResults,
       bonusResults,
       totalScore: currentScore,
       maxScore: calculateMaxScore(),
-      completedAt: new Date(),
+      completedAt: new Date().toISOString(),
     };
 
     navigation.replace('QuizResults', { session });
@@ -460,7 +472,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
 
       {/* Question Display */}
       <View style={styles.questionContainer}>
-        <QuestionDisplay
+        <TossupReader
           text={getCurrentQuestionText()}
           currentCharIndex={currentCharIndex}
           powerMarkPosition={getPowerMarkPosition()}

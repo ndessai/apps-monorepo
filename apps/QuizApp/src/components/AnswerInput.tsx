@@ -1,12 +1,14 @@
 /**
  * AnswerInput Component
  *
- * Bottom tray for entering answers with countdown timer
+ * Bottom tray for entering answers with countdown timer and speech-to-text
  */
 
 import React, { useEffect, useRef } from 'react';
-import { StyleSheet, View, TextInput as RNTextInput, KeyboardAvoidingView, Platform } from 'react-native';
+import { StyleSheet, View, TextInput as RNTextInput, KeyboardAvoidingView, Platform, TouchableOpacity, Alert } from 'react-native';
 import { Text, TextInput } from 'react-native-paper';
+import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
+import Voice from '@react-native-voice/voice';
 import { colors, spacing, elevation, radius } from '@monorepo/ui-components';
 
 interface AnswerInputProps {
@@ -23,6 +25,7 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
   testID = 'answer-input',
 }) => {
   const [answer, setAnswer] = React.useState('');
+  const [isListening, setIsListening] = React.useState(false);
   const inputRef = useRef<RNTextInput>(null);
 
   // Auto-focus input when component mounts
@@ -32,6 +35,62 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     }, 100);
     return () => clearTimeout(timer);
   }, []);
+
+  // Setup voice recognition listeners
+  useEffect(() => {
+    Voice.onSpeechResults = onSpeechResults;
+    Voice.onSpeechError = onSpeechError;
+    Voice.onSpeechEnd = onSpeechEnd;
+
+    return () => {
+      Voice.destroy().then(Voice.removeAllListeners);
+    };
+  }, []);
+
+  const onSpeechResults = (e: any) => {
+    if (e.value && e.value.length > 0) {
+      setAnswer(e.value[0]);
+    }
+  };
+
+  const onSpeechError = (e: any) => {
+    console.error('Speech recognition error:', e);
+    setIsListening(false);
+    Alert.alert('Speech Recognition Error', 'Failed to recognize speech. Please try again.');
+  };
+
+  const onSpeechEnd = () => {
+    setIsListening(false);
+  };
+
+  const startListening = async () => {
+    try {
+      setIsListening(true);
+      await Voice.start('en-US');
+    } catch (error) {
+      console.error('Failed to start voice recognition:', error);
+      setIsListening(false);
+      Alert.alert('Error', 'Failed to start speech recognition. Please check microphone permissions.');
+    }
+  };
+
+  const stopListening = async () => {
+    try {
+      await Voice.stop();
+      setIsListening(false);
+    } catch (error) {
+      console.error('Failed to stop voice recognition:', error);
+      setIsListening(false);
+    }
+  };
+
+  const toggleListening = () => {
+    if (isListening) {
+      stopListening();
+    } else {
+      startListening();
+    }
+  };
 
   const handleSubmit = () => {
     if (answer.trim().length > 0) {
@@ -77,6 +136,19 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
             autoCapitalize="none"
             autoCorrect={false}
             testID={`${testID}-field`}
+            right={
+              <TextInput.Icon
+                icon={() => (
+                  <TouchableOpacity onPress={toggleListening} testID={`${testID}-mic-button`}>
+                    <Icon
+                      name={isListening ? 'microphone' : 'microphone-outline'}
+                      size={24}
+                      color={isListening ? colors.error.main : colors.primary.main}
+                    />
+                  </TouchableOpacity>
+                )}
+              />
+            }
           />
         </View>
       </View>

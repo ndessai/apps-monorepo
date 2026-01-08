@@ -1,6 +1,7 @@
 export { SwipeableCard } from './SwipeableCard';
 export { BuzzButton } from './BuzzButton';
 export { QuestionDisplay } from './QuestionDisplay';
+export { TossupReader } from './TossupReader';
 export { AnswerInput } from './AnswerInput';
 export { ScoreDisplay } from './ScoreDisplay';
 export { ProgressIndicator } from './ProgressIndicator';

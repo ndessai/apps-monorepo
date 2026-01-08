@@ -113,6 +113,12 @@ export const QuestionDisplay: React.FC<QuestionDisplayProps> = ({
           {words.map((word, index) => {
             const isHighlighted = index === currentWordIndex;
             const hasPowerMark = getPowerMarkForWord(index);
+            const isRevealed = index <= currentWordIndex || currentCharIndex >= text.length;
+
+            // Don't render words that haven't been revealed yet
+            if (!isRevealed) {
+              return null;
+            }
 
             return (
               <View
