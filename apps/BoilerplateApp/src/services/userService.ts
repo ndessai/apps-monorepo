@@ -159,3 +159,15 @@ export async function getOrCreateGoogleUser(
 
   return newUser;
 }
+
+/**
+ * Delete the current user from the database
+ */
+export async function deleteUser(
+  database: Database,
+  user: User
+): Promise<void> {
+  await database.write(async () => {
+    await user.markAsDeleted();
+  });
+}

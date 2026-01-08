@@ -8,6 +8,7 @@ import {
 import { Text, TextInput, Button } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { AvatarIconPicker } from './AvatarIconPicker';
+import { GoogleLogo } from './GoogleLogo';
 import { colors, spacing, elevation, radius } from './theme';
 
 export interface ProfileFormData {
@@ -21,6 +22,7 @@ interface ProfileFormProps {
   initialData?: Partial<ProfileFormData>;
   onSave: (data: ProfileFormData) => void;
   onGoogleSignIn?: () => void;
+  onLogout?: () => void;
   isGoogleSignedIn?: boolean;
   isSaving?: boolean;
 }
@@ -31,6 +33,7 @@ export function ProfileForm({
   initialData,
   onSave,
   onGoogleSignIn,
+  onLogout,
   isGoogleSignedIn = false,
   isSaving = false,
 }: ProfileFormProps) {
@@ -169,9 +172,9 @@ export function ProfileForm({
             <Button
               mode="outlined"
               onPress={onGoogleSignIn}
-              icon={() => <Icon name="google" size={20} color={colors.primary.main} />}
+              icon={() => <GoogleLogo size={20} />}
               style={styles.googleButton}
-              textColor={colors.primary.main}
+              textColor={colors.text.primary}
             >
               Sign in with Google
             </Button>
@@ -179,11 +182,25 @@ export function ProfileForm({
         )}
 
         {isGoogleSignedIn && (
-          <View style={styles.googleSignedInBadge}>
-            <Icon name="check-circle" size={20} color={colors.success.main} />
-            <Text variant="bodyMedium" style={styles.googleSignedInText}>
-              Signed in with Google
-            </Text>
+          <View style={styles.googleSignedInContainer}>
+            <View style={styles.googleSignedInBadge}>
+              <Icon name="check-circle" size={20} color={colors.success.main} />
+              <Text variant="bodyMedium" style={styles.googleSignedInText}>
+                Signed in with Google
+              </Text>
+            </View>
+            {onLogout && (
+              <Button
+                mode="outlined"
+                onPress={onLogout}
+                icon="logout"
+                style={styles.logoutButton}
+                textColor={colors.error.main}
+                buttonColor="transparent"
+              >
+                Logout
+              </Button>
+            )}
           </View>
         )}
       </View>
@@ -262,9 +279,12 @@ const styles = StyleSheet.create({
     color: colors.text.secondary,
   },
   googleButton: {
-    borderColor: colors.primary.main,
+    borderColor: colors.divider,
     borderWidth: 1,
     paddingVertical: spacing.xs,
+  },
+  googleSignedInContainer: {
+    gap: spacing.md,
   },
   googleSignedInBadge: {
     flexDirection: 'row',
@@ -278,5 +298,10 @@ const styles = StyleSheet.create({
   googleSignedInText: {
     color: colors.success.dark,
     fontWeight: '600',
+  },
+  logoutButton: {
+    borderColor: colors.error.main,
+    borderWidth: 1,
+    paddingVertical: spacing.xs,
   },
 });

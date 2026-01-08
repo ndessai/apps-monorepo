@@ -8,8 +8,9 @@ import {
   createUser,
   updateUser,
   getOrCreateGoogleUser,
+  deleteUser,
 } from '../services/userService';
-import { signInWithGoogle, isSignedIn } from '../services/googleSignIn';
+import { signInWithGoogle, isSignedIn, signOut } from '../services/googleSignIn';
 import { User } from '../models/User';
 
 export const ProfileScreen: React.FC = () => {
@@ -102,6 +103,27 @@ export const ProfileScreen: React.FC = () => {
     }
   };
 
+  const handleLogout = async () => {
+    try {
+      // Sign out from Google
+      await signOut();
+
+      // Delete user from local database
+      if (user) {
+        await deleteUser(database, user);
+      }
+
+      // Reset state
+      setUser(null);
+      setIsGoogleSignedIn(false);
+
+      Alert.alert('Success', 'Logged out successfully');
+    } catch (error) {
+      console.error('Error logging out:', error);
+      Alert.alert('Error', 'Failed to logout');
+    }
+  };
+
   if (isLoading) {
     return (
       <View style={styles.loadingContainer}>
@@ -124,6 +146,7 @@ export const ProfileScreen: React.FC = () => {
       }
       onSave={handleSave}
       onGoogleSignIn={handleGoogleSignIn}
+      onLogout={handleLogout}
       isGoogleSignedIn={isGoogleSignedIn}
       isSaving={isSaving}
     />
