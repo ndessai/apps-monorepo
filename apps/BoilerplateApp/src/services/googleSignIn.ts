@@ -14,8 +14,8 @@ export interface GoogleUserData {
 
 // TODO: Replace with your actual Google Cloud Console Client IDs
 // Instructions: https://github.com/react-native-google-signin/google-signin/blob/master/docs/get-config-file.md
-const WEB_CLIENT_ID = 'YOUR_WEB_CLIENT_ID.apps.googleusercontent.com';
-const IOS_CLIENT_ID = 'YOUR_IOS_CLIENT_ID.apps.googleusercontent.com';
+const WEB_CLIENT_ID = '750577756888-103oggmsrt8jbaeua15gbfjq79evl3l9.apps.googleusercontent.com';
+const IOS_CLIENT_ID = '750577756888-gfb9nrmkuvqi5805uk9l8eab3qvo77bl.apps.googleusercontent.com';
 
 export function configureGoogleSignIn() {
   GoogleSignin.configure({
@@ -30,25 +30,31 @@ export async function signInWithGoogle(): Promise<GoogleUserData | null> {
     await GoogleSignin.hasPlayServices();
     const userInfo = await GoogleSignin.signIn();
 
-    if (!userInfo.data?.user) {
-      throw new Error('No user data returned from Google Sign-In');
+    // Check if user cancelled
+    if (userInfo.type === 'cancelled') {
+      console.log('User cancelled Google Sign-In');
+      return null;
     }
 
-    const user = userInfo.data.user;
+    // Success response
+    if (userInfo.type === 'success' && userInfo.data) {
+      const userData = userInfo.data.user;
 
-    // Parse first and last name from full name
-    const nameParts = (user.name || '').trim().split(' ');
-    const firstName = nameParts[0] || '';
-    const lastName = nameParts.length > 1 ? nameParts.slice(1).join(' ') : '';
+      // Use givenName and familyName if available
+      const firstName = userData.givenName || '';
+      const lastName = userData.familyName || '';
 
-    return {
-      id: user.id,
-      email: user.email || '',
-      firstName,
-      lastName,
-      fullName: user.name || '',
-      photo: user.photo || undefined,
-    };
+      return {
+        id: userData.id,
+        email: userData.email || '',
+        firstName,
+        lastName,
+        fullName: userData.name || '',
+        photo: userData.photo || undefined,
+      };
+    }
+
+    throw new Error('No user data returned from Google Sign-In');
   } catch (error: any) {
     if (error.code === statusCodes.SIGN_IN_CANCELLED) {
       console.log('User cancelled Google Sign-In');
@@ -75,31 +81,37 @@ export async function signOut(): Promise<void> {
 }
 
 export async function isSignedIn(): Promise<boolean> {
-  return await GoogleSignin.isSignedIn();
+  return GoogleSignin.hasPreviousSignIn();
 }
 
 export async function getCurrentUser(): Promise<GoogleUserData | null> {
   try {
     const userInfo = await GoogleSignin.signInSilently();
 
-    if (!userInfo.data?.user) {
+    // Check response type
+    if (userInfo.type === 'noSavedCredentialFound') {
       return null;
     }
 
-    const user = userInfo.data.user;
-    const nameParts = (user.name || '').trim().split(' ');
-    const firstName = nameParts[0] || '';
-    const lastName = nameParts.length > 1 ? nameParts.slice(1).join(' ') : '';
+    if (userInfo.type === 'success' && userInfo.data) {
+      const userData = userInfo.data.user;
 
-    return {
-      id: user.id,
-      email: user.email || '',
-      firstName,
-      lastName,
-      fullName: user.name || '',
-      photo: user.photo || undefined,
-    };
+      const firstName = userData.givenName || '';
+      const lastName = userData.familyName || '';
+
+      return {
+        id: userData.id,
+        email: userData.email || '',
+        firstName,
+        lastName,
+        fullName: userData.name || '',
+        photo: userData.photo || undefined,
+      };
+    }
+
+    return null;
   } catch (error) {
+    console.error('Error getting current user:', error);
     return null;
   }
 }

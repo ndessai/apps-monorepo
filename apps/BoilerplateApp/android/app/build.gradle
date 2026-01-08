@@ -80,7 +80,7 @@ android {
 
     namespace "com.boilerplateapp"
     defaultConfig {
-        applicationId "com.boilerplateapp"
+        applicationId "com.zerogravity.boilerplateapp"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

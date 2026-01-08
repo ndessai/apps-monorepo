@@ -80,7 +80,7 @@
 			<array>
 				<!-- TODO: Replace with your reversed iOS Client ID from Google Cloud Console -->
 				<!-- Example: com.googleusercontent.apps.123456789-abcdefg -->
-				<string>com.googleusercontent.apps.YOUR_REVERSED_IOS_CLIENT_ID</string>
+				<string>com.googleusercontent.apps.750577756888-gfb9nrmkuvqi5805uk9l8eab3qvo77bl</string>
 			</array>
 		</dict>
 	</array>

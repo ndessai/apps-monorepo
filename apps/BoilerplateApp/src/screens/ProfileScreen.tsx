@@ -26,14 +26,24 @@ export const ProfileScreen: React.FC = () => {
   const loadUser = async () => {
     try {
       setIsLoading(true);
-      const existingUser = await getCurrentUser(database);
-      setUser(existingUser);
 
-      const googleSignedIn = await isSignedIn();
-      setIsGoogleSignedIn(googleSignedIn);
-    } catch (error) {
-      console.error('Error loading user:', error);
-      Alert.alert('Error', 'Failed to load profile');
+      // Try to load existing user from database
+      try {
+        const existingUser = await getCurrentUser(database);
+        setUser(existingUser);
+      } catch (dbError) {
+        console.error('Error loading user from database:', dbError);
+        setUser(null);
+      }
+
+      // Try to check Google Sign-In status
+      try {
+        const googleSignedIn = await isSignedIn();
+        setIsGoogleSignedIn(googleSignedIn);
+      } catch (googleError) {
+        console.error('Error checking Google Sign-In status:', googleError);
+        setIsGoogleSignedIn(false);
+      }
     } finally {
       setIsLoading(false);
     }
