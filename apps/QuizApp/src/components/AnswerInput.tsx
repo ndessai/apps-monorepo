@@ -26,27 +26,10 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
 }) => {
   const [answer, setAnswer] = React.useState('');
   const [isListening, setIsListening] = React.useState(false);
+  const [voiceAvailable, setVoiceAvailable] = React.useState(false);
   const inputRef = useRef<RNTextInput>(null);
 
-  // Auto-focus input when component mounts
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      inputRef.current?.focus();
-    }, 100);
-    return () => clearTimeout(timer);
-  }, []);
-
-  // Setup voice recognition listeners
-  useEffect(() => {
-    Voice.onSpeechResults = onSpeechResults;
-    Voice.onSpeechError = onSpeechError;
-    Voice.onSpeechEnd = onSpeechEnd;
-
-    return () => {
-      Voice.destroy().then(Voice.removeAllListeners);
-    };
-  }, []);
-
+  // Define callback functions first
   const onSpeechResults = (e: any) => {
     if (e.value && e.value.length > 0) {
       setAnswer(e.value[0]);
@@ -63,7 +46,52 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     setIsListening(false);
   };
 
+  // Auto-focus input when component mounts
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      inputRef.current?.focus();
+    }, 100);
+    return () => clearTimeout(timer);
+  }, []);
+
+  // Setup voice recognition listeners
+  useEffect(() => {
+    const initVoice = async () => {
+      try {
+        // Check if Voice is available
+        const isAvailable = await Voice.isAvailable();
+        if (isAvailable) {
+          setVoiceAvailable(true);
+
+          // Set up event listeners
+          Voice.onSpeechResults = onSpeechResults;
+          Voice.onSpeechError = onSpeechError;
+          Voice.onSpeechEnd = onSpeechEnd;
+        } else {
+          console.warn('Voice recognition not available on this device');
+          setVoiceAvailable(false);
+        }
+      } catch (error) {
+        console.warn('Failed to initialize voice recognition:', error);
+        setVoiceAvailable(false);
+      }
+    };
+
+    initVoice();
+
+    return () => {
+      Voice.destroy().then(Voice.removeAllListeners).catch((error) => {
+        console.warn('Failed to cleanup voice recognition:', error);
+      });
+    };
+  }, []);
+
   const startListening = async () => {
+    if (!voiceAvailable) {
+      Alert.alert('Not Available', 'Speech recognition is not available on this device.');
+      return;
+    }
+
     try {
       setIsListening(true);
       await Voice.start('en-US');
@@ -139,11 +167,21 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
             right={
               <TextInput.Icon
                 icon={() => (
-                  <TouchableOpacity onPress={toggleListening} testID={`${testID}-mic-button`}>
+                  <TouchableOpacity
+                    onPress={toggleListening}
+                    testID={`${testID}-mic-button`}
+                    disabled={!voiceAvailable}
+                  >
                     <Icon
                       name={isListening ? 'microphone' : 'microphone-outline'}
                       size={24}
-                      color={isListening ? colors.error.main : colors.primary.main}
+                      color={
+                        !voiceAvailable
+                          ? colors.text.disabled
+                          : isListening
+                          ? colors.error.main
+                          : colors.primary.main
+                      }
                     />
                   </TouchableOpacity>
                 )}

@@ -243,8 +243,10 @@ function handleTTSStart(_event: any): void {
   isSpeaking = true;
   startTime = Date.now();
 
-  // Start progress updates
+  // Start progress updates immediately
   if (currentProgressCallback) {
+    // Give an immediate progress update to show first character
+    currentProgressCallback(1);
     startProgressTracking();
   }
 }

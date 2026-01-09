@@ -141,13 +141,18 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     ttsService.speakText(
       nextQuestion.text,
       (charIndex) => {
+        console.log('TTS Progress - char index:', charIndex);
         setCurrentCharIndex(charIndex);
       },
       () => {
+        console.log('TTS Finished - starting buzz window');
         // When TTS finishes, start buzz window
         startBuzzWindow();
       }
-    );
+    ).catch((error) => {
+      console.error('TTS speakText failed:', error);
+      Alert.alert('Error', 'Failed to read question. Please try again.');
+    });
   };
 
   // Start buzz window (3s after question finishes)
@@ -289,9 +294,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     ttsService.speakText(
       part.text,
       (charIndex) => {
+        console.log('Bonus TTS Progress - char index:', charIndex);
         setCurrentCharIndex(charIndex);
       },
       () => {
+        console.log('Bonus TTS Finished - starting answer timer');
         // When TTS finishes, start answer timer
         setTimeRemaining(5);
         let remaining = 5;
@@ -304,7 +311,10 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
           }
         }, 1000);
       }
-    );
+    ).catch((error) => {
+      console.error('Bonus TTS speakText failed:', error);
+      Alert.alert('Error', 'Failed to read bonus question. Please try again.');
+    });
   };
 
   // Handle bonus answer

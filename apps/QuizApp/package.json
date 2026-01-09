@@ -8,6 +8,7 @@
     "lint": "eslint .",
     "start": "react-native start",
     "test": "jest",
+    "postinstall": "patch-package",
     "e2e:build:ios": "node ../../node_modules/detox/local-cli/cli.js build --configuration ios.sim.debug",
     "e2e:test:ios": "node ../../node_modules/detox/local-cli/cli.js test --configuration ios.sim.debug",
     "e2e:build:android": "node ../../node_modules/detox/local-cli/cli.js build --configuration android.emu.debug",

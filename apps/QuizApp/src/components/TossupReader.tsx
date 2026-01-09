@@ -30,7 +30,9 @@ export const TossupReader: React.FC<TossupReaderProps> = ({
     if (currentCharIndex >= text.length) {
       return text;
     }
-    return text.substring(0, currentCharIndex);
+    // Show at least first character to indicate text is present
+    const minIndex = Math.max(1, currentCharIndex);
+    return text.substring(0, minIndex);
   }, [text, currentCharIndex]);
 
   // Check if power mark has been revealed
