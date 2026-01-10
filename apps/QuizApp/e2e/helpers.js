@@ -215,3 +215,225 @@ export const reloadApp = async () => {
   await device.reloadReactNative();
   await wait(1000); // Wait for app to stabilize
 };
+
+/**
+ * Submit an answer using the submit button
+ * @param {string} answer - The answer to submit
+ */
+export const submitAnswer = async (answer) => {
+  await waitForElement('quiz-answer-bottom-sheet-submitter-input-field', 8000);
+  await typeText('quiz-answer-bottom-sheet-submitter-input-field', answer);
+  await wait(200);
+  await tapElement('quiz-answer-bottom-sheet-submitter-input-submit-button');
+};
+
+/**
+ * Wait for answer feedback to appear
+ */
+export const waitForAnswerFeedback = async () => {
+  await waitFor(element(by.id('quiz-answer-feedback')))
+    .toBeVisible()
+    .withTimeout(10000);
+};
+
+/**
+ * Wait for the bottom sheet to appear
+ */
+export const waitForBottomSheet = async () => {
+  await waitFor(element(by.id('quiz-answer-bottom-sheet')))
+    .toBeVisible()
+    .withTimeout(10000);
+};
+
+/**
+ * Check if the feedback shows correct answer
+ */
+export const expectCorrectFeedback = async () => {
+  await waitFor(element(by.text('Correct!')))
+    .toBeVisible()
+    .withTimeout(5000);
+};
+
+/**
+ * Check if the feedback shows incorrect answer
+ */
+export const expectIncorrectFeedback = async () => {
+  await waitFor(element(by.text('Incorrect')))
+    .toBeVisible()
+    .withTimeout(5000);
+};
+
+/**
+ * Wait for quiz to transition to next question
+ * @param {number} questionNumber - Expected question number
+ */
+export const waitForQuestion = async (questionNumber) => {
+  await waitFor(element(by.text(`Question ${questionNumber}`)))
+    .toBeVisible()
+    .withTimeout(20000);
+};
+
+/**
+ * Get score display value (returns the element for assertions)
+ */
+export const getScoreDisplay = async () => {
+  await waitForElement('score-display');
+  return element(by.id('score-display'));
+};
+
+/**
+ * Toggle microphone settings
+ */
+export const toggleMicrophoneSetting = async () => {
+  await waitForElement('microphone-enabled-toggle');
+  await tapElement('microphone-enabled-toggle');
+};
+
+/**
+ * Toggle auto-submit on silence
+ */
+export const toggleAutoSubmitSilence = async () => {
+  await waitForElement('auto-submit-silence-toggle');
+  await tapElement('auto-submit-silence-toggle');
+};
+
+/**
+ * Scroll down on a scrollable element
+ * @param {string} testID - The test ID of the scrollable element
+ */
+export const scrollDown = async (testID) => {
+  await element(by.id(testID)).swipe('up', 'slow', 0.5);
+  await wait(300);
+};
+
+/**
+ * Scroll up on a scrollable element
+ * @param {string} testID - The test ID of the scrollable element
+ */
+export const scrollUp = async (testID) => {
+  await element(by.id(testID)).swipe('down', 'slow', 0.5);
+  await wait(300);
+};
+
+/**
+ * Wait for loading to complete (wait for ActivityIndicator to disappear)
+ */
+export const waitForLoadingComplete = async () => {
+  await waitFor(element(by.type('ActivityIndicator')))
+    .not.toBeVisible()
+    .withTimeout(10000);
+};
+
+/**
+ * Check if a score is displayed with expected format
+ * @param {number} currentScore - Expected current score
+ * @param {number} maxScore - Expected max score
+ */
+export const expectScore = async (currentScore, maxScore) => {
+  await waitFor(element(by.text(`${currentScore} / ${maxScore}`)))
+    .toBeVisible()
+    .withTimeout(5000);
+};
+
+/**
+ * Complete a full quiz question cycle (buzz, answer, wait for feedback)
+ * @param {string} answer - The answer to submit
+ */
+export const completeQuizQuestion = async (answer) => {
+  await tapBuzzButton();
+  await waitForBottomSheet();
+  await submitAnswer(answer);
+  await wait(3000); // Wait for feedback and next question transition
+};
+
+/**
+ * Navigate through all settings tabs to verify they load
+ */
+export const verifyAllSettingsTabs = async () => {
+  const tabs = ['Profile', 'Teams', 'Badges', 'History', 'Setup'];
+  for (const tab of tabs) {
+    await navigateToTab(tab);
+    await wait(500);
+  }
+};
+
+/**
+ * Get the current accuracy percentage text
+ */
+export const getAccuracyText = async () => {
+  return element(by.text(/\d+% Accuracy/));
+};
+
+/**
+ * Wait for specific text containing points
+ * @param {string} pointsText - e.g. '+10' or '+15'
+ */
+export const expectPointsDisplayed = async (pointsText) => {
+  await waitFor(element(by.text(pointsText)))
+    .toBeVisible()
+    .withTimeout(5000);
+};
+
+/**
+ * Verify the tossup reader is displaying text
+ */
+export const verifyTossupReaderVisible = async () => {
+  await waitForElement('tossup-reader', 10000);
+  await expectElementVisible('tossup-reader');
+};
+
+/**
+ * Wait for buzz window countdown
+ */
+export const waitForBuzzWindow = async () => {
+  // Buzz window shows countdown when TTS finishes
+  await waitFor(element(by.id('buzz-button')))
+    .toBeVisible()
+    .withTimeout(30000);
+};
+
+/**
+ * Adjust slider value (approximate - slides to right by percentage)
+ * @param {string} testID - The test ID of the slider
+ * @param {string} direction - 'left' or 'right'
+ * @param {number} percentage - How far to slide (0-1)
+ */
+export const adjustSlider = async (testID, direction, percentage = 0.5) => {
+  await element(by.id(testID)).swipe(direction, 'slow', percentage);
+  await wait(200);
+};
+
+/**
+ * Wait for and verify quiz complete text
+ */
+export const expectQuizComplete = async () => {
+  await waitFor(element(by.text('Quiz Complete!')))
+    .toBeVisible()
+    .withTimeout(10000);
+};
+
+/**
+ * Verify the accuracy percentage is displayed
+ * @param {number} expectedAccuracy - Expected accuracy percentage
+ */
+export const verifyAccuracy = async (expectedAccuracy) => {
+  await waitFor(element(by.text(`${expectedAccuracy}% Accuracy`)))
+    .toBeVisible()
+    .withTimeout(5000);
+};
+
+/**
+ * Wait for timer display in answer submitter
+ */
+export const waitForAnswerTimer = async () => {
+  await waitFor(element(by.id('quiz-answer-bottom-sheet-submitter-timer')))
+    .toBeVisible()
+    .withTimeout(10000);
+};
+
+/**
+ * Verify input field has correct placeholder
+ */
+export const verifyAnswerInputPlaceholder = async () => {
+  await waitForElement('quiz-answer-bottom-sheet-submitter-input-field');
+};
