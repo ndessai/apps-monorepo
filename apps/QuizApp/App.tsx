@@ -13,25 +13,38 @@ import { NavigationContainer } from '@react-navigation/native';
 import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { QueryProvider } from './src/providers/QueryProvider';
 import { DatabaseProvider } from './src/providers/DatabaseProvider';
+import { ThemeProvider, useTheme } from './src/providers/ThemeProvider';
 import { QuizStackNavigator } from './src/navigation/QuizStackNavigator';
-import { paperTheme } from '@monorepo/ui-components';
+import { getPaperTheme } from '@monorepo/ui-components';
 import { configureGoogleSignIn } from './src/services/googleSignIn';
+
+function AppContent() {
+  const { theme } = useTheme();
+  const paperTheme = getPaperTheme(theme);
+
+  return (
+    <PaperProvider theme={paperTheme}>
+      <NavigationContainer>
+        <StatusBar barStyle={theme === 'dark' ? 'light-content' : 'dark-content'} />
+        <QuizStackNavigator />
+      </NavigationContainer>
+    </PaperProvider>
+  );
+}
 
 function App() {
   useEffect(() => {
     configureGoogleSignIn();
   }, []);
+
   return (
     <GestureHandlerRootView style={{ flex: 1 }}>
       <QueryProvider>
         <DatabaseProvider>
           <SafeAreaProvider>
-            <PaperProvider theme={paperTheme}>
-              <NavigationContainer>
-                <StatusBar barStyle="dark-content" />
-                <QuizStackNavigator />
-              </NavigationContainer>
-            </PaperProvider>
+            <ThemeProvider>
+              <AppContent />
+            </ThemeProvider>
           </SafeAreaProvider>
         </DatabaseProvider>
       </QueryProvider>

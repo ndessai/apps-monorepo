@@ -5,7 +5,7 @@
  * - QuizLaunch: Entry screen with options
  * - Quiz: Main quiz gameplay (no back button)
  * - QuizResults: Results screen (no back button, use action buttons)
- * - Profile: User profile screen
+ * - Settings: Settings screen with nested bottom tabs
  */
 
 import React from 'react';
@@ -17,7 +17,7 @@ import {
   QuizScreen,
   QuizResultsScreen,
 } from '../screens';
-import { ProfileScreen } from '../screens/ProfileScreen';
+import { SettingsTabNavigator } from './SettingsTabNavigator';
 
 const Stack = createNativeStackNavigator<QuizStackParamList>();
 
@@ -33,8 +33,11 @@ export const QuizStackNavigator: React.FC = () => {
         name="QuizLaunch"
         component={QuizLaunchScreen}
         options={{
-          title: 'Quiz Bowl',
-          headerLargeTitle: true,
+          title: '',
+          headerShadowVisible: false,
+          headerStyle: {
+            backgroundColor: colors.background.default,
+          },
         }}
       />
 
@@ -59,11 +62,10 @@ export const QuizStackNavigator: React.FC = () => {
       />
 
       <Stack.Screen
-        name="Profile"
-        component={ProfileScreen}
+        name="Settings"
+        component={SettingsTabNavigator}
         options={{
-          title: 'Profile',
-          presentation: 'modal',
+          title: 'Settings',
           headerStyle: {
             backgroundColor: colors.surface.default,
           },

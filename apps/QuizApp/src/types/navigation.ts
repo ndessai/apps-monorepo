@@ -1,3 +1,4 @@
+import { NavigatorScreenParams } from '@react-navigation/native';
 import { TossupResult, BonusResult } from './quiz';
 
 // Serializable version of QuizSession for navigation
@@ -9,6 +10,15 @@ export interface SerializableQuizSession {
   completedAt: string; // ISO date string instead of Date
 }
 
+// Settings Tab Navigator param list
+export type SettingsTabParamList = {
+  Profile: undefined;
+  Teams: undefined;
+  Badges: undefined;
+  History: undefined;
+  QuizSetup: undefined;
+};
+
 // Quiz Stack navigation
 export type QuizStackParamList = {
   QuizLaunch: undefined;
@@ -16,7 +26,7 @@ export type QuizStackParamList = {
   QuizResults: {
     session: SerializableQuizSession;
   };
-  Profile: undefined;
+  Settings: NavigatorScreenParams<SettingsTabParamList>;
 };
 
 declare global {

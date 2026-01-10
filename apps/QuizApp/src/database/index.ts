@@ -3,6 +3,12 @@ import SQLiteAdapter from '@nozbe/watermelondb/adapters/sqlite';
 import { schema } from './schema';
 import { migrations } from './migrations';
 import { User } from '../models/User';
+import { Team } from '../models/Team';
+import { TeamMember } from '../models/TeamMember';
+import { TeamInvitation } from '../models/TeamInvitation';
+import { Badge } from '../models/Badge';
+import { QuizHistory } from '../models/QuizHistory';
+import { QuizSettings } from '../models/QuizSettings';
 
 const adapter = new SQLiteAdapter({
   schema,
@@ -15,5 +21,13 @@ const adapter = new SQLiteAdapter({
 
 export const database = new Database({
   adapter,
-  modelClasses: [User],
+  modelClasses: [
+    User,
+    Team,
+    TeamMember,
+    TeamInvitation,
+    Badge,
+    QuizHistory,
+    QuizSettings,
+  ],
 });

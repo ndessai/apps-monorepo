@@ -6,9 +6,12 @@
 
 import { MD3LightTheme, MD3DarkTheme, configureFonts } from 'react-native-paper';
 import type { MD3Theme } from 'react-native-paper';
-import { colors } from './colors';
+import { lightColors, darkColors, type ThemeMode } from './colors';
 import { fontFamily, fontWeight } from './typography';
 import { radius } from './radius';
+
+// For backwards compatibility
+const colors = lightColors;
 
 /**
  * Font configuration for React Native Paper
@@ -163,7 +166,7 @@ export const paperLightTheme: MD3Theme = {
     onSurface: colors.text.primary,
     onSurfaceVariant: colors.text.secondary,
 
-    outline: colors.border.default,
+    outline: colors.border.main,
     outlineVariant: colors.divider,
 
     shadow: colors.overlay.dark,
@@ -197,59 +200,66 @@ export const paperDarkTheme: MD3Theme = {
   ...MD3DarkTheme,
   colors: {
     ...MD3DarkTheme.colors,
-    primary: colors.primary.light,
-    primaryContainer: colors.primary.dark,
-    onPrimary: colors.neutral[900],
-    onPrimaryContainer: colors.primary.container,
+    primary: darkColors.primary.main,
+    primaryContainer: darkColors.primary.container,
+    onPrimary: darkColors.primary.onPrimary,
+    onPrimaryContainer: darkColors.primary.onContainer,
 
-    secondary: colors.secondary.light,
-    secondaryContainer: colors.secondary.dark,
-    onSecondary: colors.neutral[900],
-    onSecondaryContainer: colors.secondary.container,
+    secondary: darkColors.secondary.main,
+    secondaryContainer: darkColors.secondary.container,
+    onSecondary: darkColors.secondary.onSecondary,
+    onSecondaryContainer: darkColors.secondary.onContainer,
 
-    tertiary: colors.tertiary.light,
-    tertiaryContainer: colors.tertiary.dark,
-    onTertiary: colors.neutral[900],
-    onTertiaryContainer: colors.tertiary.container,
+    tertiary: darkColors.tertiary.main,
+    tertiaryContainer: darkColors.tertiary.container,
+    onTertiary: darkColors.tertiary.onTertiary,
+    onTertiaryContainer: darkColors.tertiary.onContainer,
 
-    error: colors.error.light,
-    errorContainer: colors.error.dark,
-    onError: colors.neutral[900],
-    onErrorContainer: colors.error.container,
+    error: darkColors.error.main,
+    errorContainer: darkColors.error.container,
+    onError: darkColors.error.onError,
+    onErrorContainer: darkColors.error.onContainer,
 
-    background: colors.neutral[900],
-    onBackground: colors.neutral[50],
+    background: darkColors.background.default,
+    onBackground: darkColors.text.onBackground,
 
-    surface: colors.neutral[900],
-    surfaceVariant: colors.neutral[800],
-    onSurface: colors.neutral[50],
-    onSurfaceVariant: colors.neutral[200],
+    surface: darkColors.surface.default,
+    surfaceVariant: darkColors.surface.variant,
+    onSurface: darkColors.text.onSurface,
+    onSurfaceVariant: darkColors.text.secondary,
 
-    outline: colors.neutral[600],
-    outlineVariant: colors.neutral[700],
+    outline: darkColors.border.main,
+    outlineVariant: darkColors.divider,
 
     shadow: '#000000',
     scrim: '#000000',
 
-    inverseSurface: colors.neutral[100],
-    inverseOnSurface: colors.neutral[900],
-    inversePrimary: colors.primary.main,
+    inverseSurface: darkColors.neutral[800],
+    inverseOnSurface: darkColors.neutral[100],
+    inversePrimary: lightColors.primary.main,
 
     elevation: {
       level0: 'transparent',
-      level1: colors.neutral[850],
-      level2: colors.neutral[800],
-      level3: colors.neutral[750],
-      level4: colors.neutral[700],
-      level5: colors.neutral[650],
+      level1: darkColors.surface.default,
+      level2: darkColors.surface.variant,
+      level3: darkColors.surface.elevated,
+      level4: darkColors.surface.elevated,
+      level5: darkColors.surface.elevated,
     },
 
-    surfaceDisabled: `${colors.neutral[50]}1F`, // 12% opacity
-    onSurfaceDisabled: colors.neutral[500],
-    backdrop: 'rgba(0, 0, 0, 0.5)',
+    surfaceDisabled: `${darkColors.text.disabled}1F`, // 12% opacity
+    onSurfaceDisabled: darkColors.text.disabled,
+    backdrop: darkColors.overlay.dark,
   },
   fonts: configureFonts({ config: fontConfig }),
   roundness: radius.md,
+};
+
+/**
+ * Get Paper theme based on theme mode
+ */
+export const getPaperTheme = (themeMode: ThemeMode): MD3Theme => {
+  return themeMode === 'dark' ? paperDarkTheme : paperLightTheme;
 };
 
 /**

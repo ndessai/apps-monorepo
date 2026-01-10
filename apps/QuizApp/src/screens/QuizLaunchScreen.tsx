@@ -22,10 +22,11 @@ export const QuizLaunchScreen: React.FC<Props> = ({ navigation }) => {
     navigation.setOptions({
       headerRight: () => (
         <TouchableOpacity
-          onPress={() => navigation.navigate('Profile')}
+          onPress={() => navigation.navigate('Settings')}
           style={styles.headerButton}
+          testID="settings-button"
         >
-          <Icon name="account-circle" size={28} color={colors.primary.main} />
+          <Icon name="cog" size={28} color={colors.primary.main} />
         </TouchableOpacity>
       ),
     });
@@ -104,16 +105,12 @@ const styles = StyleSheet.create({
   },
   header: {
     alignItems: 'center',
-    marginBottom: spacing.xxl,
-  },
-  title: {
-    color: colors.primary.main,
-    fontWeight: 'bold',
-    marginBottom: spacing.sm,
+    marginBottom: spacing['2xl'],
   },
   subtitle: {
-    color: colors.text.secondary,
+    color: colors.text.primary,
     textAlign: 'center',
+    fontWeight: '500',
   },
   buttonContainer: {
     width: '100%',
@@ -143,6 +140,6 @@ const styles = StyleSheet.create({
     fontStyle: 'italic',
   },
   headerButton: {
-    marginRight: spacing.md,
+    marginRight: spacing.xs,
   },
 });
