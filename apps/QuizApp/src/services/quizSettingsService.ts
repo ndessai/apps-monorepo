@@ -8,6 +8,9 @@ import type { QuizSettingsData, NAQTDifficulty, ThemeMode } from '../types/setti
 const DEFAULT_SETTINGS: QuizSettingsData = {
   buzzerTimeMs: 3000,
   answerTimeMs: 3000,
+  tossupAnswerTimeMs: 8000,
+  bonusAnswerTimeMs: 5000,
+  microphoneEnabled: true,
   difficulty: 'varsity',
   theme: 'light',
 };
@@ -33,6 +36,9 @@ export async function getQuizSettings(
   return {
     buzzerTimeMs: s.buzzerTimeMs,
     answerTimeMs: s.answerTimeMs,
+    tossupAnswerTimeMs: s.tossupAnswerTimeMs ?? DEFAULT_SETTINGS.tossupAnswerTimeMs,
+    bonusAnswerTimeMs: s.bonusAnswerTimeMs ?? DEFAULT_SETTINGS.bonusAnswerTimeMs,
+    microphoneEnabled: s.microphoneEnabled ?? DEFAULT_SETTINGS.microphoneEnabled,
     difficulty: s.difficulty as NAQTDifficulty,
     theme: (s.theme as ThemeMode) || 'light',
   };
@@ -62,6 +68,9 @@ export async function updateQuizSettings(
         s.userId = userId;
         s.buzzerTimeMs = merged.buzzerTimeMs;
         s.answerTimeMs = merged.answerTimeMs;
+        s.tossupAnswerTimeMs = merged.tossupAnswerTimeMs;
+        s.bonusAnswerTimeMs = merged.bonusAnswerTimeMs;
+        s.microphoneEnabled = merged.microphoneEnabled;
         s.difficulty = merged.difficulty;
         s.theme = merged.theme;
       });
@@ -76,6 +85,15 @@ export async function updateQuizSettings(
         if (newSettings.answerTimeMs !== undefined) {
           s.answerTimeMs = newSettings.answerTimeMs;
         }
+        if (newSettings.tossupAnswerTimeMs !== undefined) {
+          s.tossupAnswerTimeMs = newSettings.tossupAnswerTimeMs;
+        }
+        if (newSettings.bonusAnswerTimeMs !== undefined) {
+          s.bonusAnswerTimeMs = newSettings.bonusAnswerTimeMs;
+        }
+        if (newSettings.microphoneEnabled !== undefined) {
+          s.microphoneEnabled = newSettings.microphoneEnabled;
+        }
         if (newSettings.difficulty !== undefined) {
           s.difficulty = newSettings.difficulty;
         }
@@ -86,6 +104,9 @@ export async function updateQuizSettings(
       updatedSettings = {
         buzzerTimeMs: newSettings.buzzerTimeMs ?? existing.buzzerTimeMs,
         answerTimeMs: newSettings.answerTimeMs ?? existing.answerTimeMs,
+        tossupAnswerTimeMs: newSettings.tossupAnswerTimeMs ?? existing.tossupAnswerTimeMs ?? DEFAULT_SETTINGS.tossupAnswerTimeMs,
+        bonusAnswerTimeMs: newSettings.bonusAnswerTimeMs ?? existing.bonusAnswerTimeMs ?? DEFAULT_SETTINGS.bonusAnswerTimeMs,
+        microphoneEnabled: newSettings.microphoneEnabled ?? existing.microphoneEnabled ?? DEFAULT_SETTINGS.microphoneEnabled,
         difficulty: (newSettings.difficulty ?? existing.difficulty) as NAQTDifficulty,
         theme: (newSettings.theme ?? existing.theme ?? 'light') as ThemeMode,
       };
@@ -114,6 +135,9 @@ export async function resetQuizSettings(
       await existing.update((s) => {
         s.buzzerTimeMs = DEFAULT_SETTINGS.buzzerTimeMs;
         s.answerTimeMs = DEFAULT_SETTINGS.answerTimeMs;
+        s.tossupAnswerTimeMs = DEFAULT_SETTINGS.tossupAnswerTimeMs;
+        s.bonusAnswerTimeMs = DEFAULT_SETTINGS.bonusAnswerTimeMs;
+        s.microphoneEnabled = DEFAULT_SETTINGS.microphoneEnabled;
         s.difficulty = DEFAULT_SETTINGS.difficulty;
         s.theme = DEFAULT_SETTINGS.theme;
       });
@@ -122,6 +146,9 @@ export async function resetQuizSettings(
         s.userId = userId;
         s.buzzerTimeMs = DEFAULT_SETTINGS.buzzerTimeMs;
         s.answerTimeMs = DEFAULT_SETTINGS.answerTimeMs;
+        s.tossupAnswerTimeMs = DEFAULT_SETTINGS.tossupAnswerTimeMs;
+        s.bonusAnswerTimeMs = DEFAULT_SETTINGS.bonusAnswerTimeMs;
+        s.microphoneEnabled = DEFAULT_SETTINGS.microphoneEnabled;
         s.difficulty = DEFAULT_SETTINGS.difficulty;
         s.theme = DEFAULT_SETTINGS.theme;
       });
@@ -142,5 +169,19 @@ export function validateBuzzerTime(ms: number): number {
  * Validate answer time is within acceptable range
  */
 export function validateAnswerTime(ms: number): number {
+  return Math.max(1000, Math.min(10000, ms));
+}
+
+/**
+ * Validate tossup answer time is within acceptable range
+ */
+export function validateTossupAnswerTime(ms: number): number {
+  return Math.max(1000, Math.min(10000, ms));
+}
+
+/**
+ * Validate bonus answer time is within acceptable range
+ */
+export function validateBonusAnswerTime(ms: number): number {
   return Math.max(1000, Math.min(10000, ms));
 }

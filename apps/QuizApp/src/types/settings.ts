@@ -34,7 +34,10 @@ export const NAQT_DIFFICULTIES: NAQTDifficulty[] = [
 // Quiz Settings interface
 export interface QuizSettingsData {
   buzzerTimeMs: number; // 1000-10000ms
-  answerTimeMs: number; // 1000-10000ms
+  answerTimeMs: number; // 1000-10000ms (deprecated, kept for compatibility)
+  tossupAnswerTimeMs: number; // 1000-10000ms - Answer time for tossup questions
+  bonusAnswerTimeMs: number; // 1000-10000ms - Answer time for bonus questions
+  microphoneEnabled: boolean; // Whether mic is auto-enabled when answering
   difficulty: NAQTDifficulty;
   theme: ThemeMode;
 }
@@ -42,6 +45,9 @@ export interface QuizSettingsData {
 export const DEFAULT_QUIZ_SETTINGS: QuizSettingsData = {
   buzzerTimeMs: 3000,
   answerTimeMs: 3000,
+  tossupAnswerTimeMs: 8000, // 8 seconds for tossup answers
+  bonusAnswerTimeMs: 5000, // 5 seconds for bonus answers
+  microphoneEnabled: true, // Microphone enabled by default
   difficulty: 'varsity',
   theme: 'light',
 };

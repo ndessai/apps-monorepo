@@ -59,6 +59,9 @@ export const QuizSetupTab: React.FC = () => {
     return (
       settings.buzzerTimeMs !== originalSettings.buzzerTimeMs ||
       settings.answerTimeMs !== originalSettings.answerTimeMs ||
+      settings.tossupAnswerTimeMs !== originalSettings.tossupAnswerTimeMs ||
+      settings.bonusAnswerTimeMs !== originalSettings.bonusAnswerTimeMs ||
+      settings.microphoneEnabled !== originalSettings.microphoneEnabled ||
       settings.difficulty !== originalSettings.difficulty
     );
   };
@@ -176,6 +179,31 @@ export const QuizSetupTab: React.FC = () => {
         </Card.Content>
       </Card>
 
+      {/* Microphone Auto-Enable */}
+      <Card style={[styles.card, { backgroundColor: themeColors.surface.default }]}>
+        <Card.Content>
+          <View style={styles.settingHeader}>
+            <Icon name="microphone" size={24} color={themeColors.primary.main} />
+            <View style={styles.settingTitleContainer}>
+              <Text variant="titleMedium" style={[styles.settingTitle, { color: themeColors.text.primary }]}>
+                Auto-Enable Microphone
+              </Text>
+              <Text variant="bodySmall" style={[styles.settingDescription, { color: themeColors.text.secondary }]}>
+                Automatically start listening when answering
+              </Text>
+            </View>
+            <Switch
+              value={settings.microphoneEnabled}
+              onValueChange={(value) =>
+                setSettings((prev) => ({ ...prev, microphoneEnabled: value }))
+              }
+              color={themeColors.primary.main}
+              testID="microphone-enabled-toggle"
+            />
+          </View>
+        </Card.Content>
+      </Card>
+
       {/* Buzzer Time */}
       <Card style={[styles.card, { backgroundColor: themeColors.surface.default }]}>
         <Card.Content>
@@ -244,6 +272,82 @@ export const QuizSetupTab: React.FC = () => {
             maximumTrackTintColor={themeColors.divider}
             thumbTintColor={themeColors.primary.main}
             testID="answer-time-slider"
+          />
+          <View style={styles.sliderLabels}>
+            <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatTime(MIN_TIME_MS)}</Text>
+            <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatTime(MAX_TIME_MS)}</Text>
+          </View>
+        </Card.Content>
+      </Card>
+
+      {/* Tossup Answer Time */}
+      <Card style={[styles.card, { backgroundColor: themeColors.surface.default }]}>
+        <Card.Content>
+          <View style={styles.settingHeader}>
+            <Icon name="timer-sand" size={24} color={themeColors.primary.main} />
+            <View style={styles.settingTitleContainer}>
+              <Text variant="titleMedium" style={[styles.settingTitle, { color: themeColors.text.primary }]}>
+                Tossup Answer Time
+              </Text>
+              <Text variant="bodySmall" style={[styles.settingDescription, { color: themeColors.text.secondary }]}>
+                Time to answer tossup questions after buzzing
+              </Text>
+            </View>
+            <Text variant="titleMedium" style={[styles.settingValue, { color: themeColors.primary.main }]}>
+              {formatTime(settings.tossupAnswerTimeMs)}
+            </Text>
+          </View>
+          <Slider
+            style={styles.slider}
+            minimumValue={MIN_TIME_MS}
+            maximumValue={MAX_TIME_MS}
+            step={500}
+            value={settings.tossupAnswerTimeMs}
+            onValueChange={(value: number) =>
+              setSettings((prev) => ({ ...prev, tossupAnswerTimeMs: value }))
+            }
+            minimumTrackTintColor={themeColors.primary.main}
+            maximumTrackTintColor={themeColors.divider}
+            thumbTintColor={themeColors.primary.main}
+            testID="tossup-answer-time-slider"
+          />
+          <View style={styles.sliderLabels}>
+            <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatTime(MIN_TIME_MS)}</Text>
+            <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatTime(MAX_TIME_MS)}</Text>
+          </View>
+        </Card.Content>
+      </Card>
+
+      {/* Bonus Answer Time */}
+      <Card style={[styles.card, { backgroundColor: themeColors.surface.default }]}>
+        <Card.Content>
+          <View style={styles.settingHeader}>
+            <Icon name="timer-sand-complete" size={24} color={themeColors.primary.main} />
+            <View style={styles.settingTitleContainer}>
+              <Text variant="titleMedium" style={[styles.settingTitle, { color: themeColors.text.primary }]}>
+                Bonus Answer Time
+              </Text>
+              <Text variant="bodySmall" style={[styles.settingDescription, { color: themeColors.text.secondary }]}>
+                Time to answer each bonus part
+              </Text>
+            </View>
+            <Text variant="titleMedium" style={[styles.settingValue, { color: themeColors.primary.main }]}>
+              {formatTime(settings.bonusAnswerTimeMs)}
+            </Text>
+          </View>
+          <Slider
+            style={styles.slider}
+            minimumValue={MIN_TIME_MS}
+            maximumValue={MAX_TIME_MS}
+            step={500}
+            value={settings.bonusAnswerTimeMs}
+            onValueChange={(value: number) =>
+              setSettings((prev) => ({ ...prev, bonusAnswerTimeMs: value }))
+            }
+            minimumTrackTintColor={themeColors.primary.main}
+            maximumTrackTintColor={themeColors.divider}
+            thumbTintColor={themeColors.primary.main}
+            testID="bonus-answer-time-slider"
           />
           <View style={styles.sliderLabels}>
             <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatTime(MIN_TIME_MS)}</Text>

@@ -19,13 +19,16 @@ import type {
   BonusResult,
   QuizSession,
 } from '../types/quiz';
+import type { QuizSettingsData } from '../types/settings';
+import { DEFAULT_QUIZ_SETTINGS } from '../types/settings';
 import {
   BuzzButton,
   TossupReader,
-  AnswerInput,
+  AnswerBottomSheet,
   ScoreDisplay,
   ProgressIndicator,
 } from '../components';
+import type { TimerState, QuestionType } from '../components';
 import { loadQuestions } from '../services/questionService';
 import * as ttsService from '../services/ttsService';
 import { validateAnswer } from '../services/answerValidator';
@@ -33,6 +36,9 @@ import {
   calculateTossupPoints,
   calculateBonusPoints,
 } from '../services/quizScoring';
+import { useDatabase } from '../providers/DatabaseProvider';
+import { getCurrentUser } from '../services/userService';
+import { getQuizSettings } from '../services/quizSettingsService';
 
 type Props = NativeStackScreenProps<QuizStackParamList, 'Quiz'>;
 
@@ -42,6 +48,8 @@ const BONUS_ANSWER_DURATION = 5000; // 5 seconds per part
 const REVIEW_DURATION = 2000; // 2 seconds to show result
 
 export const QuizScreen: React.FC<Props> = ({ navigation }) => {
+  const database = useDatabase();
+
   // Quiz data
   const [quizData, setQuizData] = useState<QuizData | null>(null);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -64,8 +72,16 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
 
   // Timers
   const [timeRemaining, setTimeRemaining] = useState(0);
-  const timerRef = useRef<NodeJS.Timeout | null>(null);
-  const buzzWindowRef = useRef<NodeJS.Timeout | null>(null);
+  const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
+  const buzzWindowRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+
+  // User settings
+  const [settings, setSettings] = useState<QuizSettingsData>(DEFAULT_QUIZ_SETTINGS);
+
+  // Bottom sheet state
+  const [bottomSheetVisible, setBottomSheetVisible] = useState(false);
+  const [bottomSheetTimerState, setBottomSheetTimerState] = useState<TimerState>('idle');
+  const [bottomSheetQuestionType, setBottomSheetQuestionType] = useState<QuestionType>('tossup');
 
   // Initialize quiz
   useEffect(() => {
@@ -74,6 +90,14 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
         console.log('Initializing TTS...');
         await ttsService.initializeTTS();
         console.log('TTS initialized, loading questions...');
+
+        // Load user settings
+        const user = await getCurrentUser(database);
+        if (user) {
+          const userSettings = await getQuizSettings(database, user.userId);
+          setSettings(userSettings);
+          console.log('User settings loaded:', userSettings);
+        }
 
         const data = await loadQuestions();
         console.log('Questions loaded successfully:', data);
@@ -98,7 +122,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       ttsService.cleanupTTS();
       clearAllTimers();
     };
-  }, [navigation]);
+  }, [navigation, database]);
 
   // Start quiz when data is loaded
   useEffect(() => {
@@ -188,6 +212,12 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     // currentCharIndex remains at its current value (where user buzzed)
 
     setQuizState('buzzed');
+
+    // Show bottom sheet with timer counting for tossup
+    setBottomSheetQuestionType('tossup');
+    setBottomSheetVisible(true);
+    setBottomSheetTimerState('counting');
+
     startAnswerTimer();
   };
 
@@ -212,6 +242,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   const handleAnswerSubmit = (answer: string) => {
     clearAllTimers();
 
+    // Hide bottom sheet on submit
+    setBottomSheetVisible(false);
+
     if (!currentQuestion) return;
 
     const isTossup = 'powerMarkPosition' in currentQuestion;
@@ -220,6 +253,24 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       handleTossupAnswer(answer, currentQuestion as TossupQuestion);
     } else {
       handleBonusAnswer(answer);
+    }
+  };
+
+  // Handle answer timeout from bottom sheet
+  const handleAnswerTimeUp = () => {
+    clearAllTimers();
+    setBottomSheetVisible(false);
+
+    if (!currentQuestion) return;
+
+    const isTossup = 'powerMarkPosition' in currentQuestion;
+
+    if (isTossup) {
+      handleAnswerSubmit(''); // Empty answer = incorrect
+    } else {
+      // For bonus, move to next part
+      const bonus = currentQuestion as BonusQuestion;
+      handleBonusTimeout(bonus, currentBonusPartIndex);
     }
   };
 
@@ -281,6 +332,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   const startBonusPart = (bonus: BonusQuestion, partIndex: number) => {
     if (partIndex >= bonus.parts.length) {
       // All parts done, move to next question
+      setBottomSheetVisible(false);
       setCurrentQuestionIndex(currentQuestionIndex + 1);
       setCurrentBonusPartIndex(0);
       setQuizState('idle');
@@ -289,6 +341,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
 
     const part = bonus.parts[partIndex];
     setCurrentCharIndex(0);
+
+    // Show bottom sheet for bonus with idle timer (shows "--")
+    setBottomSheetQuestionType('bonus');
+    setBottomSheetVisible(true);
+    setBottomSheetTimerState('idle');
 
     // Read the part with progress and finish callbacks
     ttsService.speakText(
@@ -299,9 +356,12 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       },
       () => {
         console.log('Bonus TTS Finished - starting answer timer');
-        // When TTS finishes, start answer timer
-        setTimeRemaining(5);
-        let remaining = 5;
+        // When TTS finishes, start countdown timer
+        setBottomSheetTimerState('counting');
+
+        const bonusAnswerSeconds = Math.ceil(settings.bonusAnswerTimeMs / 1000);
+        setTimeRemaining(bonusAnswerSeconds);
+        let remaining = bonusAnswerSeconds;
         timerRef.current = setInterval(() => {
           remaining -= 1;
           setTimeRemaining(remaining);
@@ -496,13 +556,21 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
         </View>
       )}
 
-      {/* Answer Input */}
-      {(quizState === 'answering' || quizState === 'bonus') && (
-        <AnswerInput
-          onSubmit={handleAnswerSubmit}
-          timeRemaining={timeRemaining}
-        />
-      )}
+      {/* Answer Bottom Sheet */}
+      <AnswerBottomSheet
+        visible={bottomSheetVisible}
+        onSubmit={handleAnswerSubmit}
+        onTimeUp={handleAnswerTimeUp}
+        questionType={bottomSheetQuestionType}
+        timerState={bottomSheetTimerState}
+        answerTimeMs={
+          bottomSheetQuestionType === 'tossup'
+            ? settings.tossupAnswerTimeMs
+            : settings.bonusAnswerTimeMs
+        }
+        microphoneEnabledByDefault={settings.microphoneEnabled}
+        testID="quiz-answer-bottom-sheet"
+      />
     </View>
   );
 };

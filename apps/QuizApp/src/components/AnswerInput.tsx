@@ -1,33 +1,35 @@
 /**
  * AnswerInput Component
  *
- * Bottom tray for entering answers with countdown timer and speech-to-text
+ * Text input with microphone button and Submit CTA for entering answers.
+ * Supports speech-to-text for voice input.
  */
 
 import React, { useEffect, useRef } from 'react';
-import { StyleSheet, View, TextInput as RNTextInput, KeyboardAvoidingView, Platform, TouchableOpacity, Alert } from 'react-native';
-import { Text, TextInput } from 'react-native-paper';
+import { StyleSheet, View, TextInput as RNTextInput, TouchableOpacity, Alert } from 'react-native';
+import { TextInput, Button } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import Voice from '@react-native-voice/voice';
-import { colors, spacing, elevation, radius } from '@monorepo/ui-components';
+import { colors, spacing } from '@monorepo/ui-components';
 
 interface AnswerInputProps {
   onSubmit: (answer: string) => void;
-  timeRemaining: number;
   placeholder?: string;
+  microphoneEnabledByDefault?: boolean;
   testID?: string;
 }
 
 export const AnswerInput: React.FC<AnswerInputProps> = ({
   onSubmit,
-  timeRemaining,
   placeholder = 'Enter your answer...',
+  microphoneEnabledByDefault = false,
   testID = 'answer-input',
 }) => {
   const [answer, setAnswer] = React.useState('');
   const [isListening, setIsListening] = React.useState(false);
   const [voiceAvailable, setVoiceAvailable] = React.useState(false);
   const inputRef = useRef<RNTextInput>(null);
+  const hasAutoStartedRef = useRef(false);
 
   // Define callback functions first
   const onSpeechResults = (e: any) => {
@@ -72,6 +74,17 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
           Voice.onSpeechResults = onSpeechResults;
           Voice.onSpeechError = onSpeechError;
           Voice.onSpeechEnd = onSpeechEnd;
+
+          // Auto-start microphone if enabled by default
+          if (microphoneEnabledByDefault && !hasAutoStartedRef.current) {
+            hasAutoStartedRef.current = true;
+            // Small delay to ensure component is fully mounted
+            setTimeout(() => {
+              if (isMounted) {
+                startListeningInternal();
+              }
+            }, 300);
+          }
         } else {
           setVoiceAvailable(false);
         }
@@ -90,17 +103,23 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
       isMounted = false;
       // Clean up Voice recognition on unmount
       try {
-        Voice.onSpeechResults = undefined;
-        Voice.onSpeechError = undefined;
-        Voice.onSpeechEnd = undefined;
-        Voice.onSpeechStart = undefined;
-        Voice.onSpeechPartialResults = undefined;
+        Voice.removeAllListeners();
         Voice.destroy().catch(() => {});
       } catch {
         // Ignore cleanup errors
       }
     };
-  }, []);
+  }, [microphoneEnabledByDefault]);
+
+  const startListeningInternal = async () => {
+    try {
+      setIsListening(true);
+      await Voice.start('en-US');
+    } catch (error) {
+      console.error('Failed to start voice recognition:', error);
+      setIsListening(false);
+    }
+  };
 
   const startListening = async () => {
     if (!voiceAvailable) {
@@ -138,119 +157,87 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
 
   const handleSubmit = () => {
     if (answer.trim().length > 0) {
+      // Stop listening if active before submitting
+      if (isListening) {
+        stopListening();
+      }
       onSubmit(answer.trim());
       setAnswer('');
     }
   };
 
-  // Get timer color based on time remaining
-  const getTimerColor = () => {
-    if (timeRemaining <= 1) return colors.error.main;
-    if (timeRemaining <= 2) return colors.warning.main;
-    return colors.success.main;
-  };
+  const isSubmitDisabled = answer.trim().length === 0;
 
   return (
-    <KeyboardAvoidingView
-      behavior={Platform.OS === 'ios' ? 'padding' : 'height'}
-      style={styles.keyboardAvoid}
-    >
-      <View style={styles.container} testID={testID}>
-        <View style={styles.header}>
-          <Text variant="labelMedium" style={styles.label}>
-            Answer
-          </Text>
-          <View style={[styles.timer, { backgroundColor: getTimerColor() }]}>
-            <Text variant="labelLarge" style={styles.timerText}>
-              {timeRemaining}s
-            </Text>
-          </View>
-        </View>
-
-        <View style={styles.inputContainer}>
-          <TextInput
-            ref={inputRef}
-            value={answer}
-            onChangeText={setAnswer}
-            onSubmitEditing={handleSubmit}
-            placeholder={placeholder}
-            mode="outlined"
-            style={styles.input}
-            returnKeyType="done"
-            autoCapitalize="none"
-            autoCorrect={false}
-            testID={`${testID}-field`}
-            right={
-              <TextInput.Icon
-                icon={() => (
-                  <TouchableOpacity
-                    onPress={toggleListening}
-                    testID={`${testID}-mic-button`}
-                    disabled={!voiceAvailable}
-                  >
-                    <Icon
-                      name={isListening ? 'microphone' : 'microphone-outline'}
-                      size={24}
-                      color={
-                        !voiceAvailable
-                          ? colors.text.disabled
-                          : isListening
-                          ? colors.error.main
-                          : colors.primary.main
-                      }
-                    />
-                  </TouchableOpacity>
-                )}
-              />
-            }
-          />
-        </View>
+    <View style={styles.container} testID={testID}>
+      <View style={styles.inputContainer}>
+        <TextInput
+          ref={inputRef}
+          value={answer}
+          onChangeText={setAnswer}
+          onSubmitEditing={handleSubmit}
+          placeholder={placeholder}
+          mode="outlined"
+          style={styles.input}
+          returnKeyType="done"
+          autoCapitalize="none"
+          autoCorrect={false}
+          testID={`${testID}-field`}
+          right={
+            <TextInput.Icon
+              icon={() => (
+                <TouchableOpacity
+                  onPress={toggleListening}
+                  testID={`${testID}-mic-button`}
+                  disabled={!voiceAvailable}
+                >
+                  <Icon
+                    name={isListening ? 'microphone' : 'microphone-outline'}
+                    size={24}
+                    color={
+                      !voiceAvailable
+                        ? colors.text.disabled
+                        : isListening
+                        ? colors.error.main
+                        : colors.primary.main
+                    }
+                  />
+                </TouchableOpacity>
+              )}
+            />
+          }
+        />
       </View>
-    </KeyboardAvoidingView>
+
+      <View style={styles.submitContainer}>
+        <Button
+          mode="contained"
+          onPress={handleSubmit}
+          disabled={isSubmitDisabled}
+          style={styles.submitButton}
+          testID={`${testID}-submit-button`}
+        >
+          Submit
+        </Button>
+      </View>
+    </View>
   );
 };
 
 const styles = StyleSheet.create({
-  keyboardAvoid: {
-    position: 'absolute',
-    bottom: 0,
-    left: 0,
-    right: 0,
-  },
   container: {
-    backgroundColor: colors.surface.default,
-    paddingHorizontal: spacing.lg,
-    paddingTop: spacing.md,
-    paddingBottom: spacing.xl,
-    borderTopLeftRadius: radius.lg,
-    borderTopRightRadius: radius.lg,
-    ...elevation.level4,
-  },
-  header: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    marginBottom: spacing.sm,
-  },
-  label: {
-    color: colors.text.secondary,
-    fontWeight: '600',
-  },
-  timer: {
-    paddingHorizontal: spacing.md,
-    paddingVertical: spacing.xs,
-    borderRadius: radius.full,
-    minWidth: 50,
-    alignItems: 'center',
-  },
-  timerText: {
-    color: colors.surface.default,
-    fontWeight: 'bold',
+    width: '100%',
   },
   inputContainer: {
-    marginBottom: spacing.xs,
+    marginBottom: spacing.sm,
   },
   input: {
     backgroundColor: colors.surface.default,
+  },
+  submitContainer: {
+    alignItems: 'center',
+  },
+  submitButton: {
+    minWidth: 120,
   },
 });
