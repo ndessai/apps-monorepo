@@ -88,3 +88,130 @@ export const clearText = async (testID) => {
 export const wait = (ms) => {
   return new Promise((resolve) => setTimeout(resolve, ms));
 };
+
+// ============================================
+// Quiz App Specific Helpers
+// ============================================
+
+/**
+ * Navigate to Settings from QuizLaunchScreen
+ */
+export const navigateToSettings = async () => {
+  await waitForElement('settings-button');
+  await tapElement('settings-button');
+  await wait(500); // Wait for navigation animation
+};
+
+/**
+ * Navigate to a specific tab in Settings
+ * @param {string} tabName - The name of the tab: 'Profile', 'Teams', 'Badges', 'History', 'Setup'
+ */
+export const navigateToTab = async (tabName) => {
+  await waitFor(element(by.text(tabName)))
+    .toBeVisible()
+    .withTimeout(5000);
+  await element(by.text(tabName)).tap();
+  await wait(300); // Wait for tab switch animation
+};
+
+/**
+ * Start a quiz from QuizLaunchScreen
+ */
+export const startQuiz = async () => {
+  await waitForElement('start-quiz-button');
+  await tapElement('start-quiz-button');
+  await wait(500); // Wait for navigation
+};
+
+/**
+ * Select a difficulty level in Quiz Setup
+ * @param {string} difficulty - The difficulty: 'middle_school', 'jv_high_school', 'varsity', 'college', 'open'
+ */
+export const selectDifficulty = async (difficulty) => {
+  const testID = `difficulty-${difficulty}`;
+  await waitForElement(testID);
+  await tapElement(testID);
+};
+
+/**
+ * Toggle the theme switch
+ */
+export const toggleTheme = async () => {
+  await waitForElement('theme-toggle');
+  await tapElement('theme-toggle');
+  await wait(300); // Wait for theme transition
+};
+
+/**
+ * Tap the buzz button during quiz
+ */
+export const tapBuzzButton = async () => {
+  await waitForElement('buzz-button', 15000); // Quiz may take time to start reading
+  await tapElement('buzz-button');
+};
+
+/**
+ * Type an answer in the quiz answer input
+ * @param {string} answer - The answer text
+ */
+export const typeAnswer = async (answer) => {
+  await waitForElement('answer-input-field');
+  await typeText('answer-input-field', answer);
+};
+
+/**
+ * Wait for quiz results screen to appear
+ */
+export const waitForQuizResults = async () => {
+  await waitFor(element(by.id('play-again-button')))
+    .toBeVisible()
+    .withTimeout(60000); // Quiz may take a while
+};
+
+/**
+ * Dismiss an alert (platform-specific)
+ * @param {string} buttonText - The alert button text to tap
+ */
+export const dismissAlert = async (buttonText = 'OK') => {
+  if (device.getPlatform() === 'ios') {
+    await element(by.label(buttonText)).atIndex(0).tap();
+  } else {
+    await element(by.text(buttonText)).tap();
+  }
+};
+
+/**
+ * Check if element exists (doesn't throw if not found)
+ * @param {string} testID - The test ID of the element
+ * @returns {Promise<boolean>}
+ */
+export const elementExists = async (testID) => {
+  try {
+    await expect(element(by.id(testID))).toExist();
+    return true;
+  } catch {
+    return false;
+  }
+};
+
+/**
+ * Go back using the header back button
+ */
+export const goBack = async () => {
+  if (device.getPlatform() === 'ios') {
+    await element(by.traits(['button']))
+      .atIndex(0)
+      .tap();
+  } else {
+    await device.pressBack();
+  }
+  await wait(300);
+};
+
+/**
+ * Reload the app to a fresh state
+ */
+export const reloadApp = async () => {
+  await device.reloadReactNative();
+  await wait(1000); // Wait for app to stabilize
+};
