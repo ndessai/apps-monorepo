@@ -6,9 +6,10 @@
  */
 
 import React, { useEffect, useRef, useState } from 'react';
-import { StyleSheet, View, Alert } from 'react-native';
+import { StyleSheet, View, Alert, TouchableOpacity } from 'react-native';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { colors } from '@monorepo/ui-components';
+import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import type { QuizStackParamList } from '../types/navigation';
 import type {
   QuizState,
@@ -40,6 +41,7 @@ import {
 import { useDatabase } from '../providers/DatabaseProvider';
 import { getCurrentUser } from '../services/userService';
 import { getQuizSettings } from '../services/quizSettingsService';
+import * as audioActionsService from '../services/audioActionsService';
 
 type Props = NativeStackScreenProps<QuizStackParamList, 'Quiz'>;
 
@@ -97,6 +99,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   // Pending action after feedback review completes
   const pendingActionRef = useRef<(() => void) | null>(null);
 
+  // Audio actions state
+  const audioActionsActiveRef = useRef(false);
+  const pendingVoiceAnswerRef = useRef<string | null>(null);
+  const quizStateRef = useRef<QuizState>('idle');
+
   // Initialize quiz
   useEffect(() => {
     const initialize = async () => {
@@ -135,6 +142,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       ttsService.stopSpeaking();
       ttsService.cleanupTTS();
       clearAllTimers();
+      // Stop audio actions on cleanup
+      if (audioActionsActiveRef.current) {
+        audioActionsService.stopAudioActions();
+        audioActionsActiveRef.current = false;
+      }
     };
   }, [navigation, database]);
 
@@ -144,6 +156,75 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       startNextQuestion();
     }
   }, [quizData, quizState]);
+
+  // Keep quizStateRef in sync with quizState
+  useEffect(() => {
+    quizStateRef.current = quizState;
+  }, [quizState]);
+
+  // Manage audio actions based on settings and quiz state
+  useEffect(() => {
+    const manageAudioActions = async () => {
+      // Only activate if audioActionsEnabled setting is on
+      if (!settings.audioActionsEnabled) {
+        if (audioActionsActiveRef.current) {
+          await audioActionsService.stopAudioActions();
+          audioActionsActiveRef.current = false;
+        }
+        return;
+      }
+
+      // Start audio actions during reading or buzz_window for tossups
+      const shouldBeActive = quizState === 'reading' || quizState === 'buzz_window';
+
+      if (shouldBeActive && !audioActionsActiveRef.current) {
+        // Start listening for "Buzz" command
+        const started = await audioActionsService.startAudioActions({
+          onBuzzDetected: () => {
+            console.log('[QuizScreen] Voice buzz detected!');
+            // Trigger buzz if in valid state - use ref to get current state
+            const currentState = quizStateRef.current;
+            if (currentState === 'reading' || currentState === 'buzz_window') {
+              handleBuzz();
+            }
+          },
+          onSpeechResult: (text: string) => {
+            console.log('[QuizScreen] Voice speech result:', text);
+            // Store the speech result for when bottom sheet is shown
+            // This handles the case where user speaks answer right after buzzing
+            const currentState = quizStateRef.current;
+            if (currentState === 'answering' || currentState === 'buzzed') {
+              pendingVoiceAnswerRef.current = text;
+            }
+          },
+          onError: (error: string) => {
+            console.error('[QuizScreen] Audio actions error:', error);
+          },
+        });
+
+        if (started) {
+          audioActionsActiveRef.current = true;
+
+          // Set question text for filtering if we have a current question
+          if (currentQuestion && 'text' in currentQuestion) {
+            audioActionsService.setQuestionTextForFiltering(currentQuestion.text);
+          }
+        }
+      } else if (!shouldBeActive && audioActionsActiveRef.current) {
+        // Stop audio actions when not in reading/buzz_window state
+        // But keep it active during answering for voice answer input
+        if (quizState !== 'answering' && quizState !== 'buzzed') {
+          await audioActionsService.stopAudioActions();
+          audioActionsActiveRef.current = false;
+        } else {
+          // Clear the question text filter when buzzing in
+          audioActionsService.clearQuestionTextFilter();
+        }
+      }
+    };
+
+    manageAudioActions();
+  }, [settings.audioActionsEnabled, quizState, currentQuestion]);
 
   // Clear all timers
   const clearAllTimers = () => {
@@ -174,6 +255,12 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     setCurrentQuestion(nextQuestion);
     setCurrentCharIndex(0);
     setQuizState('reading');
+
+    // Set question text for filtering in audio actions mode
+    // This prevents the TTS audio from being picked up as user speech
+    if (settings.audioActionsEnabled) {
+      audioActionsService.setQuestionTextForFiltering(nextQuestion.text);
+    }
 
     // Start TTS with progress and finish callbacks
     ttsService.speakText(
@@ -221,6 +308,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
 
     clearAllTimers();
     ttsService.stopSpeaking();
+
+    // Clear question text filter when buzzing (user is now answering, not listening to question)
+    if (settings.audioActionsEnabled) {
+      audioActionsService.clearQuestionTextFilter();
+    }
 
     // Check if buzzed before power mark
     if (currentQuestion && 'powerMarkPosition' in currentQuestion) {
@@ -381,6 +473,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     setBottomSheetVisible(true);
     setBottomSheetTimerState('idle');
 
+    // Set bonus part text for filtering in audio actions mode
+    if (settings.audioActionsEnabled) {
+      audioActionsService.setQuestionTextForFiltering(part.text);
+    }
+
     // Read the part with progress and finish callbacks
     ttsService.speakText(
       part.text,
@@ -390,8 +487,13 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       },
       () => {
         console.log('Bonus TTS Finished - starting answer timer');
-        // When TTS finishes, start countdown timer
+        // When TTS finishes, start countdown timer and clear filter
         setBottomSheetTimerState('counting');
+
+        // Clear filter when TTS finishes - user can now speak answer
+        if (settings.audioActionsEnabled) {
+          audioActionsService.clearQuestionTextFilter();
+        }
 
         const bonusAnswerSeconds = Math.ceil(settings.bonusAnswerTimeMs / 1000);
         setTimeRemaining(bonusAnswerSeconds);
@@ -557,6 +659,44 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     }
   };
 
+  // Handle quit button press
+  const handleQuit = () => {
+    Alert.alert(
+      'Quit Quiz',
+      'Are you sure you want to quit? Your progress will be saved.',
+      [
+        { text: 'Cancel', style: 'cancel' },
+        {
+          text: 'Quit',
+          style: 'destructive',
+          onPress: () => {
+            // Stop all ongoing activities
+            clearAllTimers();
+            ttsService.stopSpeaking();
+            setBottomSheetVisible(false);
+
+            // Stop audio actions
+            if (audioActionsActiveRef.current) {
+              audioActionsService.stopAudioActions();
+              audioActionsActiveRef.current = false;
+            }
+
+            // Navigate to results with current progress
+            const session = {
+              tossupResults,
+              bonusResults,
+              totalScore: currentScore,
+              maxScore: calculateMaxScore(),
+              completedAt: new Date().toISOString(),
+            };
+
+            navigation.replace('QuizResults', { session });
+          },
+        },
+      ]
+    );
+  };
+
   // Complete quiz
   const completeQuiz = () => {
     setQuizState('completed');
@@ -630,7 +770,16 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
           totalQuestions={getTotalQuestions()}
           questionType={getQuestionType()}
         />
-        <ScoreDisplay currentScore={currentScore} maxScore={calculateMaxScore()} />
+        <View style={styles.headerRight}>
+          <ScoreDisplay currentScore={currentScore} maxScore={calculateMaxScore()} />
+          <TouchableOpacity
+            style={styles.quitButton}
+            onPress={handleQuit}
+            testID="quiz-quit-button"
+          >
+            <Icon name="close" size={24} color={colors.error.main} />
+          </TouchableOpacity>
+        </View>
       </View>
 
       {/* Question Display */}
@@ -710,6 +859,15 @@ const styles = StyleSheet.create({
     backgroundColor: colors.surface.default,
     borderBottomWidth: 1,
     borderBottomColor: colors.divider,
+  },
+  headerRight: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 12,
+  },
+  quitButton: {
+    padding: 8,
+    marginLeft: 4,
   },
   questionContainer: {
     flex: 1,

@@ -91,6 +91,7 @@ export const schema = appSchema({
         { name: 'microphone_enabled', type: 'boolean' },
         { name: 'auto_submit_on_silence', type: 'boolean' },
         { name: 'auto_submit_silence_ms', type: 'number' },
+        { name: 'audio_actions_enabled', type: 'boolean' },
         { name: 'difficulty', type: 'string' },
         { name: 'theme', type: 'string', isOptional: true },
         { name: 'updated_at', type: 'number' },

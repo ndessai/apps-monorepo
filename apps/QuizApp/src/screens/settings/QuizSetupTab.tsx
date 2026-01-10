@@ -68,6 +68,7 @@ export const QuizSetupTab: React.FC = () => {
       settings.microphoneEnabled !== originalSettings.microphoneEnabled ||
       settings.autoSubmitOnSilence !== originalSettings.autoSubmitOnSilence ||
       settings.autoSubmitSilenceMs !== originalSettings.autoSubmitSilenceMs ||
+      settings.audioActionsEnabled !== originalSettings.audioActionsEnabled ||
       settings.difficulty !== originalSettings.difficulty
     );
   };
@@ -269,6 +270,40 @@ export const QuizSetupTab: React.FC = () => {
                 <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatSilenceTime(MAX_SILENCE_MS)}</Text>
               </View>
             </>
+          )}
+        </Card.Content>
+      </Card>
+
+      {/* Audio Actions (Hands-Free Mode) */}
+      <Card style={[styles.card, { backgroundColor: themeColors.surface.default }]}>
+        <Card.Content>
+          <View style={styles.settingHeader}>
+            <Icon name="account-voice" size={24} color={themeColors.primary.main} />
+            <View style={styles.settingTitleContainer}>
+              <Text variant="titleMedium" style={[styles.settingTitle, { color: themeColors.text.primary }]}>
+                Hands-Free Mode
+              </Text>
+              <Text variant="bodySmall" style={[styles.settingDescription, { color: themeColors.text.secondary }]}>
+                Say "Buzz" to buzz in, speak answer to submit
+              </Text>
+            </View>
+            <Switch
+              value={settings.audioActionsEnabled}
+              onValueChange={(value) =>
+                setSettings((prev) => ({ ...prev, audioActionsEnabled: value }))
+              }
+              color={themeColors.primary.main}
+              testID="audio-actions-enabled-toggle"
+            />
+          </View>
+          {settings.audioActionsEnabled && (
+            <View style={styles.handsFreeInfo}>
+              <Icon name="information-outline" size={16} color={themeColors.text.secondary} />
+              <Text variant="bodySmall" style={[styles.handsFreeInfoText, { color: themeColors.text.secondary }]}>
+                Microphone listens continuously. Say "Buzz" during tossup to buzz in.
+                Your spoken answer will be auto-submitted after silence.
+              </Text>
+            </View>
           )}
         </Card.Content>
       </Card>
@@ -638,5 +673,18 @@ const styles = StyleSheet.create({
   saveButton: {
     flex: 1,
     marginLeft: spacing.sm,
+  },
+  handsFreeInfo: {
+    flexDirection: 'row',
+    alignItems: 'flex-start',
+    backgroundColor: colors.background.default,
+    padding: spacing.sm,
+    borderRadius: 8,
+    marginTop: spacing.sm,
+  },
+  handsFreeInfoText: {
+    flex: 1,
+    marginLeft: spacing.xs,
+    lineHeight: 18,
   },
 });

@@ -14,6 +14,7 @@ export class QuizSettings extends Model {
   @field('microphone_enabled') microphoneEnabled!: boolean;
   @field('auto_submit_on_silence') autoSubmitOnSilence!: boolean;
   @field('auto_submit_silence_ms') autoSubmitSilenceMs!: number;
+  @field('audio_actions_enabled') audioActionsEnabled!: boolean;
   @field('difficulty') difficulty!: string;
   @field('theme') theme!: string;
   @date('updated_at') updatedAt!: Date;

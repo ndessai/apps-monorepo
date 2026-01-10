@@ -15,6 +15,7 @@ const DEFAULT_SETTINGS: QuizSettingsData = {
   microphoneEnabled: true,
   autoSubmitOnSilence: true,
   autoSubmitSilenceMs: 1500,
+  audioActionsEnabled: false,
   difficulty: 'varsity',
   theme: 'light',
 };
@@ -47,6 +48,7 @@ export async function getQuizSettings(
     microphoneEnabled: s.microphoneEnabled ?? DEFAULT_SETTINGS.microphoneEnabled,
     autoSubmitOnSilence: s.autoSubmitOnSilence ?? DEFAULT_SETTINGS.autoSubmitOnSilence,
     autoSubmitSilenceMs: s.autoSubmitSilenceMs ?? DEFAULT_SETTINGS.autoSubmitSilenceMs,
+    audioActionsEnabled: s.audioActionsEnabled ?? DEFAULT_SETTINGS.audioActionsEnabled,
     difficulty: s.difficulty as NAQTDifficulty,
     theme: (s.theme as ThemeMode) || 'light',
   };
@@ -83,6 +85,7 @@ export async function updateQuizSettings(
         s.microphoneEnabled = merged.microphoneEnabled;
         s.autoSubmitOnSilence = merged.autoSubmitOnSilence;
         s.autoSubmitSilenceMs = merged.autoSubmitSilenceMs;
+        s.audioActionsEnabled = merged.audioActionsEnabled;
         s.difficulty = merged.difficulty;
         s.theme = merged.theme;
       });
@@ -118,6 +121,9 @@ export async function updateQuizSettings(
         if (newSettings.autoSubmitSilenceMs !== undefined) {
           s.autoSubmitSilenceMs = newSettings.autoSubmitSilenceMs;
         }
+        if (newSettings.audioActionsEnabled !== undefined) {
+          s.audioActionsEnabled = newSettings.audioActionsEnabled;
+        }
         if (newSettings.difficulty !== undefined) {
           s.difficulty = newSettings.difficulty;
         }
@@ -135,6 +141,7 @@ export async function updateQuizSettings(
         microphoneEnabled: newSettings.microphoneEnabled ?? existing.microphoneEnabled ?? DEFAULT_SETTINGS.microphoneEnabled,
         autoSubmitOnSilence: newSettings.autoSubmitOnSilence ?? existing.autoSubmitOnSilence ?? DEFAULT_SETTINGS.autoSubmitOnSilence,
         autoSubmitSilenceMs: newSettings.autoSubmitSilenceMs ?? existing.autoSubmitSilenceMs ?? DEFAULT_SETTINGS.autoSubmitSilenceMs,
+        audioActionsEnabled: newSettings.audioActionsEnabled ?? existing.audioActionsEnabled ?? DEFAULT_SETTINGS.audioActionsEnabled,
         difficulty: (newSettings.difficulty ?? existing.difficulty) as NAQTDifficulty,
         theme: (newSettings.theme ?? existing.theme ?? 'light') as ThemeMode,
       };
@@ -170,6 +177,7 @@ export async function resetQuizSettings(
         s.microphoneEnabled = DEFAULT_SETTINGS.microphoneEnabled;
         s.autoSubmitOnSilence = DEFAULT_SETTINGS.autoSubmitOnSilence;
         s.autoSubmitSilenceMs = DEFAULT_SETTINGS.autoSubmitSilenceMs;
+        s.audioActionsEnabled = DEFAULT_SETTINGS.audioActionsEnabled;
         s.difficulty = DEFAULT_SETTINGS.difficulty;
         s.theme = DEFAULT_SETTINGS.theme;
       });
@@ -185,6 +193,7 @@ export async function resetQuizSettings(
         s.microphoneEnabled = DEFAULT_SETTINGS.microphoneEnabled;
         s.autoSubmitOnSilence = DEFAULT_SETTINGS.autoSubmitOnSilence;
         s.autoSubmitSilenceMs = DEFAULT_SETTINGS.autoSubmitSilenceMs;
+        s.audioActionsEnabled = DEFAULT_SETTINGS.audioActionsEnabled;
         s.difficulty = DEFAULT_SETTINGS.difficulty;
         s.theme = DEFAULT_SETTINGS.theme;
       });

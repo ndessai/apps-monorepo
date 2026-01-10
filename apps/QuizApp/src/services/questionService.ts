@@ -2,13 +2,17 @@
  * Question Service
  *
  * Loads and validates NAQT-format quiz questions
- * Supports multiple packet files and category-based loading
+ * For MVP/testing, uses bundled sample questions (2 tossups + bonuses)
+ *
+ * To enable full packet system with 5000+ questions:
+ * 1. Set USE_PACKET_SYSTEM to true
+ * 2. Uncomment the dynamic import functions below
  */
 
 import { QuizData, TossupQuestion, BonusQuestion, QuestionCategory, QuestionDifficulty } from '../types/quiz';
 import sampleQuestions from '../assets/sample-questions.json';
 
-// Types for packet system
+// Types for packet system (kept for future use)
 interface PacketMetadata {
   id: string;
   file: string;
@@ -34,28 +38,19 @@ interface QuizFilters {
   packetId?: string;
 }
 
-// Cache for loaded packets
-const packetCache = new Map<string, QuizData>();
-let metadataCache: QuestionsMetadata | null = null;
+/**
+ * Configuration flag for packet system
+ * Set to true to enable loading from 5000+ question packets
+ * When false, uses bundled sample questions (2 tossups + bonuses) for testing
+ */
+const USE_PACKET_SYSTEM = false;
 
 /**
  * Load questions from JSON file
- * For MVP, loads from bundled sample questions
- * When packets are available, loads from packet system
+ * Returns sample questions for testing (2 tossups + bonuses)
  */
 export async function loadQuestions(): Promise<QuizData> {
-  // Try to load from packet system first
-  try {
-    const metadata = await getPacketList();
-    if (metadata && metadata.packets.length > 0) {
-      // Load a random packet
-      return loadRandomPacket();
-    }
-  } catch {
-    // Fall back to sample questions
-  }
-
-  // Fallback: Load from bundled sample questions
+  // Load from bundled sample questions (2 tossups + bonuses for testing)
   return new Promise((resolve, reject) => {
     setTimeout(() => {
       try {
@@ -76,141 +71,63 @@ export async function loadQuestions(): Promise<QuizData> {
 
 /**
  * Get list of available packets
+ * Returns null when packet system is disabled
  */
 export async function getPacketList(): Promise<QuestionsMetadata | null> {
-  if (metadataCache) {
-    return metadataCache;
-  }
-
-  try {
-    // Dynamic import of metadata
-    const metadata = await import('../assets/questions/metadata.json');
-    metadataCache = metadata.default as QuestionsMetadata;
-    return metadataCache;
-  } catch {
+  if (!USE_PACKET_SYSTEM) {
     return null;
   }
+  // Packet system disabled - return null
+  return null;
 }
 
 /**
  * Load a specific packet by ID
+ * Throws error when packet system is disabled
  */
-export async function loadPacket(packetId: string): Promise<QuizData> {
-  // Check cache
-  if (packetCache.has(packetId)) {
-    return packetCache.get(packetId)!;
+export async function loadPacket(_packetId: string): Promise<QuizData> {
+  if (!USE_PACKET_SYSTEM) {
+    throw new Error('Packet system is disabled. Set USE_PACKET_SYSTEM to true to enable.');
   }
-
-  try {
-    // Dynamic import of packet file
-    const packet = await import(`../assets/questions/packets/${packetId}.json`);
-    const quizData: QuizData = {
-      tossups: packet.tossups || packet.default?.tossups || [],
-      bonuses: packet.bonuses || packet.default?.bonuses || [],
-    };
-
-    if (!validateQuizData(quizData)) {
-      throw new Error(`Invalid packet data: ${packetId}`);
-    }
-
-    // Cache for future use
-    packetCache.set(packetId, quizData);
-    return quizData;
-  } catch (error) {
-    throw new Error(`Failed to load packet ${packetId}: ${error}`);
-  }
+  throw new Error('Packet system is disabled');
 }
 
 /**
  * Load a random packet, optionally filtered by criteria
+ * Falls back to sample questions when packet system is disabled
  */
-export async function loadRandomPacket(filters?: QuizFilters): Promise<QuizData> {
-  const metadata = await getPacketList();
-
-  if (!metadata || metadata.packets.length === 0) {
-    // Fall back to sample questions
+export async function loadRandomPacket(_filters?: QuizFilters): Promise<QuizData> {
+  if (!USE_PACKET_SYSTEM) {
     return loadQuestions();
   }
-
-  // Filter packets based on criteria
-  let eligiblePackets = metadata.packets;
-
-  if (filters?.difficulty && filters.difficulty !== 'mixed' as any) {
-    eligiblePackets = eligiblePackets.filter(
-      p => p.difficulty === filters.difficulty || p.difficulty === 'mixed'
-    );
-  }
-
-  if (filters?.categories && filters.categories.length > 0) {
-    eligiblePackets = eligiblePackets.filter(p =>
-      filters.categories!.some(c => p.categories.includes(c))
-    );
-  }
-
-  if (eligiblePackets.length === 0) {
-    throw new Error('No packets match the specified filters');
-  }
-
-  // Select random packet
-  const randomIndex = Math.floor(Math.random() * eligiblePackets.length);
-  const selectedPacket = eligiblePackets[randomIndex];
-
-  return loadPacket(selectedPacket.id);
+  return loadQuestions();
 }
 
 /**
  * Load questions by category
+ * Throws error when packet system is disabled
  */
-export async function loadByCategory(category: QuestionCategory): Promise<QuizData> {
-  try {
-    const categoryFileName = category.toLowerCase().replace(/\s+/g, '-');
-    const categoryData = await import(`../assets/questions/by-category/${categoryFileName}.json`);
-
-    const quizData: QuizData = {
-      tossups: categoryData.tossups || categoryData.default?.tossups || [],
-      bonuses: categoryData.bonuses || categoryData.default?.bonuses || [],
-    };
-
-    if (!validateQuizData(quizData)) {
-      throw new Error(`Invalid category data: ${category}`);
-    }
-
-    return quizData;
-  } catch (error) {
-    throw new Error(`Failed to load category ${category}: ${error}`);
+export async function loadByCategory(_category: QuestionCategory): Promise<QuizData> {
+  if (!USE_PACKET_SYSTEM) {
+    throw new Error('Packet system is disabled. Set USE_PACKET_SYSTEM to true to enable.');
   }
+  throw new Error('Packet system is disabled');
 }
 
 /**
  * Load questions filtered by multiple criteria
+ * Falls back to sample questions when packet system is disabled
  */
-export async function loadFilteredQuestions(filters: QuizFilters): Promise<QuizData> {
-  // If specific packet requested
-  if (filters.packetId) {
-    return loadPacket(filters.packetId);
+export async function loadFilteredQuestions(_filters: QuizFilters): Promise<QuizData> {
+  if (!USE_PACKET_SYSTEM) {
+    return loadQuestions();
   }
-
-  // If single category requested, use category file
-  if (filters.categories?.length === 1) {
-    const categoryData = await loadByCategory(filters.categories[0]);
-
-    // Apply difficulty filter if specified
-    if (filters.difficulty) {
-      return {
-        tossups: categoryData.tossups.filter(t => t.difficulty === filters.difficulty),
-        bonuses: categoryData.bonuses.filter(b => b.difficulty === filters.difficulty),
-      };
-    }
-
-    return categoryData;
-  }
-
-  // Otherwise load a random packet matching filters
-  return loadRandomPacket(filters);
+  return loadQuestions();
 }
 
 /**
  * Get statistics about available questions
+ * Returns null when packet system is disabled
  */
 export async function getQuestionStats(): Promise<{
   totalPackets: number;
@@ -219,27 +136,17 @@ export async function getQuestionStats(): Promise<{
   categories: QuestionCategory[];
   categoryStats: Record<string, { tossups: number; bonuses: number }>;
 } | null> {
-  const metadata = await getPacketList();
-
-  if (!metadata) {
+  if (!USE_PACKET_SYSTEM) {
     return null;
   }
-
-  return {
-    totalPackets: metadata.totalPackets,
-    totalTossups: metadata.totalTossups,
-    totalBonuses: metadata.totalBonuses,
-    categories: Object.keys(metadata.categoryStats) as QuestionCategory[],
-    categoryStats: metadata.categoryStats,
-  };
+  return null;
 }
 
 /**
- * Clear the packet cache (useful for testing or refreshing data)
+ * Clear the packet cache (no-op when packet system is disabled)
  */
 export function clearCache(): void {
-  packetCache.clear();
-  metadataCache = null;
+  // No-op when packet system is disabled
 }
 
 /**

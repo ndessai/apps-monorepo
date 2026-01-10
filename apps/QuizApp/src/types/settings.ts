@@ -42,6 +42,7 @@ export interface QuizSettingsData {
   microphoneEnabled: boolean; // Whether mic is auto-enabled when answering
   autoSubmitOnSilence: boolean; // Whether to auto-submit after silence when speaking
   autoSubmitSilenceMs: number; // 500-3000ms - Silence duration before auto-submit
+  audioActionsEnabled: boolean; // Whether to enable hands-free voice commands (say "Buzz" to buzz, auto-submit answers)
   difficulty: NAQTDifficulty;
   theme: ThemeMode;
 }
@@ -56,6 +57,7 @@ export const DEFAULT_QUIZ_SETTINGS: QuizSettingsData = {
   microphoneEnabled: true, // Microphone enabled by default
   autoSubmitOnSilence: true, // Auto-submit spoken answers by default
   autoSubmitSilenceMs: 1500, // 1.5 seconds of silence before auto-submit
+  audioActionsEnabled: false, // Hands-free mode disabled by default
   difficulty: 'varsity',
   theme: 'light',
 };

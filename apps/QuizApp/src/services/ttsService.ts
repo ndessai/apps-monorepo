@@ -153,9 +153,11 @@ export function stopSpeaking(): void {
           console.warn('Pause failed, force stopping by speaking silence:', pauseError);
           // Strategy 3: Interrupt with a very short silence
           try {
+            // On iOS, rate must be between 0.0 and 1.0 (or up to 2.0 on some versions)
+            // Use maximum allowed rate to finish quickly
             Tts.speak(' ', {
               iosVoiceId: 'com.apple.ttsbundle.Samantha-compact',
-              rate: 10.0, // Very fast to finish quickly
+              rate: 1.0,
             });
           } catch (silenceError) {
             console.warn('All stop strategies failed:', silenceError);
