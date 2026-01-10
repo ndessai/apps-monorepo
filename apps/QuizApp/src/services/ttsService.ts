@@ -282,9 +282,13 @@ function handleTTSCancel(_event: any): void {
 }
 
 function handleTTSProgress(event: any): void {
-  // On some platforms, this event provides position/offset
-  // Fall back to time-based calculation if not available
-  if (event && event.offset !== undefined) {
+  // Android provides 'start' and 'end' properties from onRangeStart callback
+  // iOS does not provide progress events with character positions
+  if (event && event.start !== undefined) {
+    // Android: use the 'start' property which contains the character position
+    currentProgressCallback?.(event.start);
+  } else if (event && event.offset !== undefined) {
+    // Fallback for any platform that might use 'offset'
     currentProgressCallback?.(event.offset);
   }
 }
