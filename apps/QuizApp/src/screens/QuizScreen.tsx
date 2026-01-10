@@ -558,6 +558,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
 
       {/* Answer Bottom Sheet */}
       <AnswerBottomSheet
+        key={`answer-sheet-${currentQuestionIndex}-${currentBonusPartIndex}`}
         visible={bottomSheetVisible}
         onSubmit={handleAnswerSubmit}
         onTimeUp={handleAnswerTimeUp}
