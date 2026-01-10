@@ -1,0 +1,1157 @@
+{
+  "packetId": "packet-144",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Literature",
+    "History",
+    "Science",
+    "Philosophy",
+    "Social Science",
+    "Human Body",
+    "Geography",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "e8a0e20c-6f18-483b-9922-490c991c4fbb",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "One character in this play starts to tell a joke about a brothel but has to leave the stage to urinate and never completes the joke when he returns. Another character in this play, a slave who previously did not speak, begins a five-page stream of consciousness soliloquy after being patted on the head. At the end of each of the two acts in this play, the Boy arrives and tells the two central characters that the title figure will not be coming this \"evening, but surely tomorrow.\" For 10 points, identify this absurdist play featuring the characters Lucky, Pozzo, Vladimir, and Estragon, the best known work of Samuel Beckett.",
+      "powerMarkPosition": 303,
+      "answer": "Waiting for Godot",
+      "acceptableAnswers": [
+        "Waiting for Godot",
+        "The Waiting for Godot"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0909"
+    },
+    {
+      "id": "c92d6b20-a572-4e9b-a0bf-7a87d0656c06",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "In 2013, this government agency was accused of unfairly targeting conservative groups seeking an exempt status. The first 1040 form from this agency was printed after the ratification of the 16th amendment in 1913. For 10 points, name this government agency which collects taxes each year by April 15th.",
+      "powerMarkPosition": 111,
+      "answer": "Internal Revenue Service",
+      "acceptableAnswers": [
+        "Internal Revenue Service",
+        "IRS",
+        "The Internal Revenue Service"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c7e0"
+    },
+    {
+      "id": "b294cb5d-4752-4abf-9eaf-c1ae74157e05",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "Half the sum of the side lengths times the inradius gives this quantity. This value is equal to half the product of two side lengths with the sine of the opposite angle. It is also given by the square root of the semiperimeter times the difference between the semiperimeter and each side, which is called Heron's formula. The most common formula to find this value uses an altitude of the shape. For 10 points, name this quantity equal to one-half base times height.",
+      "powerMarkPosition": 212,
+      "answer": "area",
+      "acceptableAnswers": [
+        "area",
+        "The area"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318aca4e"
+    },
+    {
+      "id": "2ed57874-70fd-4e83-b483-7cf724f74d55",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "This work suggests that all history is \"the history of class struggles,\" and discusses the opposing classes of bourgeoisie [BOO'r-jwah-zee] and proletariat. A new ideology based on workers owning the means of production is described in, for 10 points, what revolutionary pamphlet by Friedrich Engels and Karl Marx that inspired the politics of Soviet Russia?",
+      "powerMarkPosition": 110,
+      "answer": "Communist Manifesto",
+      "acceptableAnswers": [
+        "Communist Manifesto",
+        "The Communist Manifesto"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f07cea5295951080e2cc3b"
+    },
+    {
+      "id": "b081ea1f-435f-4330-ab6a-a2e5f86e40cd",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "This computer scientist wrote in one communication that a computer system that employed the \"end of line\" character violated the principles of general purpose computing. He designed the shunting yard algorithm for converting infix notation to postfix notation, which he proposed along with F.L. Bauer. The Bellman-Ford algorithm replaces his namesake algorithm for graphs with negative edge weights, and applying that algorithm repeatedly can solve the all-pairs shortest path problem. For 10 points, name this computer scientist whose namesake algorithm provides the shortest path between any two vertices in a directed graph with nonnegative edge weights.",
+      "powerMarkPosition": 305,
+      "answer": "Dijkstra",
+      "acceptableAnswers": [
+        "Dijkstra",
+        "The Dijkstra"
+      ],
+      "source": "qbreader",
+      "sourceId": "64683d300d0d0e5f184a3821"
+    },
+    {
+      "id": "77c3070f-92b4-4176-961a-ad214c74bf12",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "Most languages fulfill Optimality Theory's HNuc (\"H-nuke\") constraint by making these constructs obligatory, unlike Czech and Tashelhiyt (\"ta-shill-HEET\") Berber. Back mutation in Old English is an example of the \"breaking\" of these constructs. In one Salishan language, the phrase \"then he had in his possession a bunchberry plant\" entirely lacks these constructs. Unlike standard Italian's seven, Sardinian only distinguishes five of these constructs' qualities. The transition from Middle to Early Modern English brought about a \"Great\" shift of these constructs. Two of these constructs are undergoing the \"cot-caught\" merger in American English. For 10 points, name these linguistic sounds contrasted with consonants.",
+      "powerMarkPosition": 365,
+      "answer": "vowel",
+      "acceptableAnswers": [
+        "vowel",
+        "vocoids",
+        "accept vowel breaking",
+        "prompt on phonemes",
+        "The vowel"
+      ],
+      "source": "qbreader",
+      "sourceId": "692330ebf1f28d19289b7f71"
+    },
+    {
+      "id": "b7da75d8-5e1d-47a9-b37b-37b41c598a5d",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "During this dynasty, the craftsman Ding Huan invented a device that simulates motion, the zoetrope. When a rival general threatened to boil alive the father of this dynasty's founder, that man replied, \"Send me a cup of the soup.\" This dynasty, which was interrupted by the Xin [sheen] Dynasty of Wang Mang, faced two Daoist revolts near the end of its dominance, including the Yellow Turban Revolt. Buddhism was introduced into China during this dynasty's \"Eastern\" period. FTP, name this dynasty contemporaneous to the Roman Empire that names the majority ethnic group of China.",
+      "powerMarkPosition": 377,
+      "answer": "Han",
+      "acceptableAnswers": [
+        "Han",
+        "The Han"
+      ],
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b88e31"
+    },
+    {
+      "id": "9d6b891a-dc03-4b35-a251-bdaac0ba3964",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "This man worked at Mailu before his more famous work. This man argued that most psychological complexes are cultural rather than universal, most prominently the Oedipus complex, and while he was a functionalist, this man's work focused on culture meeting the needs of individuals. This man served as an advisor to Jomo Kenyatta and spent a decade conducting ethnographic research in the Trobriand Islands, writing Sex and Repression in a Savage Society and detailing the Kula Ring. For 10 points, name this Polish-American sociologist, author of Argonauts of the Western Pacific.",
+      "powerMarkPosition": 386,
+      "answer": "Malinowski",
+      "acceptableAnswers": [
+        "Malinowski",
+        "The Malinowski"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144c7a"
+    },
+    {
+      "id": "d7939d62-4958-46c4-872d-ccd8ab997034",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "At one point, this character is discovered reading a Bradshaw's Guide the night after he marks a will-o'-the-wisp's location with a pile of stones. This character requests that his guest send three differently-dated letters and runs the Demeter aground at Whitby. That guest had been sent to finalize the purchase of Carfax Abbey for this character, but he sees that this figure looks unusually flushed after the disappearance of a gypsy child. This character reprimands his three seductive \"Brides\" and drives Renfield insane before being beheaded by Jonathan Harker. For 10 points, name this Transylvanian count who enjoys sucking people's blood.",
+      "powerMarkPosition": 263,
+      "answer": "Dracula",
+      "acceptableAnswers": [
+        "Dracula",
+        "The Dracula"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfea6f"
+    },
+    {
+      "id": "e6c83f04-67a8-44f5-a9bf-0f282f01fa91",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "Their walls, which can be characterized as tight, continuous, discontinuous, or fenestrated depending on porosity, facilitate the exchange of cells, chemicals, and nutrients. For 10 points-name these eight-to-ten-micron-diameter conduits lined by a single layer of endothelium which carry blood from the arterioles to the tissues.",
+      "powerMarkPosition": 174,
+      "answer": "capillaries",
+      "acceptableAnswers": [
+        "capillaries",
+        "capillary",
+        "The capillaries"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841d06"
+    },
+    {
+      "id": "e010ca7d-30b6-4e9d-9464-68b3f83e41b3",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "One concept created by this thinker says that ordinary objections are created by matter and forms is known as his hylomorphism. The teleology of this philosopher says that nothing can exist without an acting efficient cause. This thinker said that mimesis was the perfection of nature and that tragedies achieve catharsis in one work. In one work, this author advocated for virtue ethics and said that ethical theory describes the best form of human while political theory described realized social organizations. For 10 points, identify this author of the Poetics and The Nicomachean Ethics who taught Alexander the Great.",
+      "powerMarkPosition": 224,
+      "answer": "Aristotle",
+      "acceptableAnswers": [
+        "Aristotle",
+        "The Aristotle"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31d1f"
+    },
+    {
+      "id": "6a47f2ce-b155-44ba-b895-89253be67846",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "In a novel by this author, Fleur-de-Lys [flure duh LEE] is frightened by Djali's [\"jolly's] spelling trick. In another of this man's novels, Enjolras [on-zhol-RAH] leads the Friends of the ABC, who fight alongside Gavroche [ga-VROSH] and Marius. In novels about the misfortune of Esméralda and Fantine [fon-TEEN], this author wrote about a conflict between Frollo and Quasimodo [kwah-see-moh-doh] and one between Javert [jah-VAYR] and Jean Valjean [jon val-JON]. For 10 points, name this French author of The Hunchback of Notre Dame and Les Misérables [lay mis-ay-RAHB].",
+      "powerMarkPosition": 279,
+      "answer": "Hugo",
+      "acceptableAnswers": [
+        "Hugo",
+        "The Hugo"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eea0924256318acea6"
+    },
+    {
+      "id": "9487cd21-1abf-433a-b795-2c05fc4bd407",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "This man wrote a novel where a nobleman spying on an English project to research longitude becomes shipwrecked on the International Date Line. He wrote another work in which characters use the phrase \"Minnie Mouse is Mickey Mouse's fiancée\" as an example of neutral data. This author created a character who believes laughter to be the worst heresy and is named Jorge of Burgos. This author of The Island of the Day Before wrote about three friends who invent a fictional conspiracy theory called \"The Plan,\" while another sees William of Baskerville investigate a murder at a monastery. For 10 points, name this Italian author of Foucault's Pendulum and The Name of the Rose.",
+      "powerMarkPosition": 271,
+      "answer": "Eco",
+      "acceptableAnswers": [
+        "Eco",
+        "The Eco"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bcab6bc6fadbe6166da2a8"
+    },
+    {
+      "id": "091eb4e2-039f-4ed0-8ca0-2eda0d936347",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for dermis components. It plays a key role in the integumentary system and is one of the most studied parts of human anatomy. For ten points, name this epidermis-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Epidermis",
+      "acceptableAnswers": [
+        "epidermis",
+        "Epidermis"
+      ],
+      "explanation": "The epidermis is a key component of the Integumentary system, involved in dermis components.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ce5277c2-ecbd-4332-8171-89d5f3567be2",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "In addition to its chief religious edifices, this mountain hosts the church of St. Urael, who led its founding emperor to discover it. The first European description of this mountain stated the only portal accessing its summit was known as Macaraquer, through which the church Egzyabeher Ab could be reached. Historically, nobility that watched over this mountain bore the title Jantirar. The ascent from the canyon of the river Bashilo is the last leg of a pilgrimage to this mountain, which houses the sacred text Mashafa Tefut and becomes especially crowded during the festival of Meskel. Carl Jung identifies one representation of this mountain as mythical and a symbol of the collective unconscious, but this home of the southern third of the true cross, which is itself cross-shaped, is very much real, like the similar Debre Damo and Wehni being a keep first perhaps used by the Zagwe Dynasty. Ahmad Gran ended its use by murdering its imprisoned princes under the negus Na'od. FTP, name this mountain located in the woreda of Ambassel, best known as the subject of a song sung by an \"Abyssinian Maid\" in Samuel Taylor Coleridge's poem \"Kublai Khan,\" the former home to the Ethiopian treasury.",
+      "powerMarkPosition": 583,
+      "answer": "Abora",
+      "acceptableAnswers": [
+        "Abora",
+        "The Abora"
+      ],
+      "source": "qbreader",
+      "sourceId": "67e9a3e560d5e2502471201c"
+    },
+    {
+      "id": "1b5ce642-89ae-4d33-9239-179914212492",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "In the beginning of this novel the protagonist's sister Thomasin is in Diggory Venn's van, after her marriage license to Damon Wildeve is rejected. Bonfires feature prominently in the opening, as the work begins and ends on Guy Fawkes Day, and the title character is a diamond merchant who has just returned from Paris. His wife drowns in a lake after trying to meet Damon in the middle of the night, and the protagonist goes blind by the end. Following the romantic life of Eustachia Vye, this is, For 10 points, what novel set in Wessex about Clym Yeobright, a work by Thomas Hardy?",
+      "powerMarkPosition": 345,
+      "answer": "Return of the Native",
+      "acceptableAnswers": [
+        "Return of the Native",
+        "The Return of the Native"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1381"
+    },
+    {
+      "id": "92de248c-5535-4495-adc2-7f7dc1579931",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "In a painting by Gustave Courbet, a person of this profession is depicted seated in the center with a nude woman clutching a sheet on his right and a child and a white cat to his left. A John Singer Sargent work depicts a man of this profession in blue and yellow at on the right of the canvas \"by The Edge of a Wood\". Parmigianino famously depicted one of these people in a convex mirror. One depiction of one of member of this profession features a man in a blue hat with a bandage over one ear. For 10 points, identify this profession of most people depicted in self-portraits, exemplified by Claude Monet and Vincent van Gogh.",
+      "powerMarkPosition": 475,
+      "answer": "painter",
+      "acceptableAnswers": [
+        "painter",
+        "artists",
+        "The painter"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289caecb"
+    },
+    {
+      "id": "b2310e56-c15f-4ad6-8e29-8e935b95e4fb",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "In 2017, Los Angeles unveiled Cecil Balmond's Freedom Sculpture, whose design is based on this object. It's not the Quran, but the fact that Thomas Jefferson owned two copies of a largely-fictionalized Greek biography of this object's creator could suggest its influence on the Declaration of Independence. Henry Rawlinson and Irving Finkel have both made influential translations of this object. Mohammad Reza Pahlavi brought this object to the Azadi Tower in 1971, which he declared to be a year dedicated to its creator, and also donated a replica of this object to the U.N. This object was unearthed by Hormuzd Rassam in 1879 during excavations at the Ésagila temple. This object, currently housed in the British Museum, displays cuneiform text explaining how its creator was chosen by Marduk to conquer Babylon in 539. For 10 points, what artifact, considered the \"first charter of human rights,\" was created by the founder of the Achaemenid empire?",
+      "powerMarkPosition": 572,
+      "answer": "Cyrus Cylinder",
+      "acceptableAnswers": [
+        "Cyrus Cylinder",
+        "The Cyrus Cylinder"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a5c9"
+    },
+    {
+      "id": "f422e2a0-d674-4de3-9654-c30caaf07023",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "college",
+      "text": "This territory's segregation, as discussed in the books Dying to Better Themselves and Sovereign Acts, was enforced with gold and silver rolls. The West Indian Employees Association organized after a 1920 strike of this territory's Martinican and Jamaican ICC workers. Deadly 1964 riots protested this territory's occupiers after they tore a two-starred, red, white, and blue flag. William C. Gorgas fumigated this territory to control yellow fever and malaria during a project celebrated by 1915 expos in San Diego and San Francisco. Under the Hay-Bunau-Varilla Treaty, the US governed this territory from Balboa until the Torrijos-Carter Treaties enacted its 1999 transfer to a country that, in 1903, separated from Colombia. For 10 points, what territory controlled a waterway between the Atlantic and Pacific?",
+      "powerMarkPosition": 381,
+      "answer": "Panama Canal",
+      "acceptableAnswers": [
+        "Panama Canal",
+        "Panama Canal Zone",
+        "Zona del Canal de Panamá",
+        "accept Panama Canal West Indian Employees Association",
+        "prompt on Panama",
+        "Republic of Panama",
+        "República de Panamá",
+        "prompt on Isthmus of Panama",
+        "Istmo de Panamá",
+        "Istmo de Darién",
+        "prompt on Panama–Pacific International Exposition",
+        "Panama–California Exposition",
+        "The Panama Canal"
+      ],
+      "source": "qbreader",
+      "sourceId": "63682fe4906588de785565bd"
+    },
+    {
+      "id": "844f7265-444e-470d-9aef-802293317222",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "This country was ruled by the Qajar (kuh-jer) Dynasty, which was overthrown in the White Revolution. After this country's eponymous revolution, the failed Operation Eagle Claw attempted to free 66 American diplomatic hostages. Those hostages were held for 444 days after an attack on the US embassy from students under Ayatollah Khomeini. For 10 points, name this country led by Hassan Rhouani from Tehran.",
+      "powerMarkPosition": 290,
+      "answer": "Iran",
+      "acceptableAnswers": [
+        "Iran",
+        "the Islamic Republic of Iran",
+        "The Iran"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a50362"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "6bfea56e-bb6f-46c9-94c4-43e325a29396",
+      "linkedTossupId": "e8a0e20c-6f18-483b-9922-490c991c4fbb",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this poem whose title character represents Abraham Lincoln and lies \"fallen cold and dead.\"",
+          "answer": "O Captain! My Captain!",
+          "acceptableAnswers": [
+            "O Captain! My Captain!",
+            "The O Captain! My Captain!"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This poet who celebrates himself and sings himself in \"Song of Myself\" wrote about Lincoln in \"O Captain! My Captain!\" and \"When Lilacs Last in the Dooryard Bloom'd.\"",
+          "answer": "Whitman",
+          "acceptableAnswers": [
+            "Whitman",
+            "The Whitman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The aforementioned poems by Whitman appear in this collection, revised a number of times, which also includes a poem describing a variety of forms, \"I Sing the Body Electric.\"",
+          "answer": "Leaves of Grass",
+          "acceptableAnswers": [
+            "Leaves of Grass",
+            "The Leaves of Grass"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This poem exults that \"our fearful trip is done\" and encourages the title figure to \"rise up and hear the bells.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4399a"
+    },
+    {
+      "id": "2fbe9275-3046-4c6e-b8fc-f86028516e08",
+      "linkedTossupId": "c92d6b20-a572-4e9b-a0bf-7a87d0656c06",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these places. Abraham Lincoln was assassinated at the \"Ford's\" one of these places while watching Our American Cousin with his wife.",
+          "answer": "theater",
+          "acceptableAnswers": [
+            "theater",
+            "cinema",
+            "movie theater",
+            "movie theatre",
+            "movie cinema",
+            "obvious equivalents",
+            "accept Corvin Cinema",
+            "Ford's Theatre",
+            "The theater"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Olof Palme, a prime minister of this country, was assassinated while walking back from a movie theater with his wife. A king of this Northern European country, Gustavus Adolphus, was killed at the Battle of Lützen.",
+          "answer": "Sweden",
+          "acceptableAnswers": [
+            "Sweden",
+            "Kingdom of Sweden",
+            "Konungariket Sverige",
+            "The Sweden"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While returning home from a movie theatre, Ahmed Bouchikhi was misidentified and killed by members of this Israeli intelligence agency in Operation Wrath of God.",
+          "answer": "Mossad",
+          "acceptableAnswers": [
+            "Mossad",
+            "Institute for Intelligence and Special Operations",
+            "The Mossad"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Hungarian rebels used the \"Corvin\" one of these places as a holdout during the 1956 Hungarian revolution. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65666dfd443a0a5dea0043e4"
+    },
+    {
+      "id": "ebec23cc-71c0-4844-a99c-f495858aee6c",
+      "linkedTossupId": "b294cb5d-4752-4abf-9eaf-c1ae74157e05",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these cyclonic storms formed over warm oceans and measured by the Saffir-Simpson scale, which rates them from Category 1 to Category 5.",
+          "answer": "hurricane",
+          "acceptableAnswers": [
+            "hurricane",
+            "tropical storms",
+            "typhoons",
+            "cyclones",
+            "The hurricane"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hurricanes in the Northern and Southern hemispheres rotate in different directions as a result of this inertial effect. Contrary to popular belief, this effect does not cause toilets to flush in opposite directions in different hemispheres.",
+          "answer": "Coriolis",
+          "acceptableAnswers": [
+            "Coriolis",
+            "Coriolis force",
+            "The Coriolis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The aforementioned \"stadium effect\" causes the wall of this part of a hurricane to be slanted. This part of a hurricane typically has no cloud cover and low winds.",
+          "answer": "eye",
+          "acceptableAnswers": [
+            "eye",
+            "The eye"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The \"stadium effect\" commonly occurs in the center of large examples of these storms. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae078"
+    },
+    {
+      "id": "4198a46b-097a-4470-83f5-25529ed8d43b",
+      "linkedTossupId": "2ed57874-70fd-4e83-b483-7cf724f74d55",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this woman, an aspect of whom appeared before Juan Diego on Tepeyac Hill in 1531. December 8th is the \"Feast of the Immaculate Conception\" in honor of one characteristic of this figure.",
+          "answer": "Lady of Guadalupe",
+          "acceptableAnswers": [
+            "Lady of Guadalupe",
+            "Virgin of Guadalupe",
+            "accept Virgin Mary",
+            "do NOT accept",
+            "prompt on “Mary Magdalene”",
+            "The Lady of Guadalupe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The tradition of the Virgin of Guadalupe may be a tradition of this sort, in which multiple religious traditions and beliefs are blended. Santeria is another tradition of this sort, which combines Catholic and Yoruba beliefs.",
+          "answer": "syncretic",
+          "acceptableAnswers": [
+            "syncretic",
+            "syncretism",
+            "The syncretic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Virgin of Guadalupe appeared to Juan Diego in this modern-day country. The Templo Mayor in this country was the center of Aztec religion.",
+          "answer": "Mexico",
+          "acceptableAnswers": [
+            "Mexico",
+            "United Mexican States",
+            "The Mexico"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The largest Catholic pilgrimage is to a basilica dedicated to an aspect of this woman on December 12th. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7ded63"
+    },
+    {
+      "id": "8f38ead3-9bcf-4ff8-8cc6-1ab736e97185",
+      "linkedTossupId": "b081ea1f-435f-4330-ab6a-a2e5f86e40cd",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Fluid moves toward the rotating disk to replace the fluid pushed outward by this fictitious force, whose magnitude is proportional to angular speed squared times radius.",
+          "answer": "centrifugal",
+          "acceptableAnswers": [
+            "centrifugal",
+            "The centrifugal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This scientist's equation predicts the electrode's limiting current density to be proportional to the square root of rotation speed. With his teacher Lev Landau, he names the thin film flow resulting from pulling a flat plate out of a container of fluid.",
+          "answer": "Levich",
+          "acceptableAnswers": [
+            "Levich",
+            "Veniamin Grigorievich Levich",
+            "Benjamin Grigorievich Levich",
+            "accept Landau–Levich flow",
+            "accept Levich equation",
+            "The Levich"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The fluid flow near the rotating disk is modeled as this scientist's namesake swirling flow. This scientist also names a repeating pattern formed behind bodies in a fluid, which is created by vortex shedding.",
+          "answer": "Kármán",
+          "acceptableAnswers": [
+            "Kármán",
+            "szőllőskislaki Kármán Tódor",
+            "szőllőskislaki Kármán Tivadar",
+            "accept Kármán vortex street",
+            "accept Kármán swirling flow",
+            "The Kármán"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the fluid dynamics behind the rotating disk electrode, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "66307b06f089611172b05054"
+    },
+    {
+      "id": "8dd03291-69c2-4012-b8f7-a44a44c8902e",
+      "linkedTossupId": "77c3070f-92b4-4176-961a-ad214c74bf12",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this type of lawsuit, commonly known by its acronym, that is defined as when a plaintiff, who has little intention of winning, frivolously sues the defendant to burden them with legal costs and silence criticism.",
+          "answer": "SLAPP",
+          "acceptableAnswers": [
+            "SLAPP",
+            "Strategic Lawsuit Against Public Participation",
+            "The SLAPP"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a 2003 ruling citing anti-SLAPP laws, this actress lost her case to remove a photo of her house from the Internet. The case led to a namesake effect in which attempts to hide information bring more attention to it.",
+          "answer": "Streisand",
+          "acceptableAnswers": [
+            "Streisand",
+            "The Streisand"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Situations in which a speaker is silenced based on the anticipation of disruptive reactions are known as \"heckler's [this action].\" When done by the President to a bill, this action can be overruled by ⅔ vote in Congress.",
+          "answer": "veto",
+          "acceptableAnswers": [
+            "veto",
+            "The veto"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Twenty-nine US states have laws protecting against this type of lawsuit on the grounds they violate the 1st Amendment. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f1bd4b1d1753da7fbbfad8"
+    },
+    {
+      "id": "f9ab241a-ffd4-4288-b260-7d8ddb03e4bb",
+      "linkedTossupId": "b7da75d8-5e1d-47a9-b37b-37b41c598a5d",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these horse-drawn objects used prominently in ancient warfare such as at the Battle of Kadesh.",
+          "answer": "chariot",
+          "acceptableAnswers": [
+            "chariot",
+            "chariot warriors",
+            "accept scythed chariots",
+            "The chariot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This group is often credited with introducing chariot warfare to ancient Egypt. This group ruled over the Fifteenth Dynasty of Egypt from the city of Avaris.",
+          "answer": "Hyksos",
+          "acceptableAnswers": [
+            "Hyksos",
+            "The Hyksos"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Hyksos may have been the first to designate a class of chariot-owning nobility known as the maryannu, who were described by Haapi in one of these texts. One of these texts includes a parable about an ant that bites the hand of the man who \"pinches\" it.",
+          "answer": "Amarna",
+          "acceptableAnswers": [
+            "Amarna",
+            "Amarna tablets",
+            "Amarna correspondence",
+            "accept EA",
+            "The Amarna"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Ancient Persian armies attached scythes to the sides of these objects in order to cut through Greek foot soldiers. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "644dff39de0b658d0841ae52"
+    },
+    {
+      "id": "1e78adb7-847c-4ef1-b35f-e88903086e26",
+      "linkedTossupId": "9d6b891a-dc03-4b35-a251-bdaac0ba3964",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this scientist. Sexual Behavior in the Human Male and Sexual Behavior in the Human Female make up his namesake Reports.",
+          "answer": "Kinsey",
+          "acceptableAnswers": [
+            "Kinsey",
+            "The Kinsey"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Kinsey's namesake scale ranks subjects from 0 to 6 based on the frequency in which they participate in this activity. This activity was made illegal through sodomy laws.",
+          "answer": "homosexuality",
+          "acceptableAnswers": [
+            "homosexuality",
+            "clear equivalents",
+            "The homosexuality"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Homosexuality was removed from the III-R edition of this publication, partially due to Evelyn Hooker's experiments. The APA produces this text, whose rivals include the ICD, to standardize the classification of mental disorders.",
+          "answer": "DSM",
+          "acceptableAnswers": [
+            "DSM",
+            "The Diagnostic and Statistical Manualof Mental Disorders",
+            "The DSM"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This scientist's mentor Robert Dickinson connected him to a pedophile named Rex King to gather data on children. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b522c4"
+    },
+    {
+      "id": "259fa3fa-cb42-4c7d-ba33-4d323040503b",
+      "linkedTossupId": "d7939d62-4958-46c4-872d-ccd8ab997034",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this play in which Boy Willie confronts Sutter's ghost, who is exorcized by Berniece using the title object.",
+          "answer": "Piano Lesson",
+          "acceptableAnswers": [
+            "Piano Lesson",
+            "The Piano Lesson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Piano Lesson was written by this American playwright, who depicted Troy Maxson's disapproval of his son Cory's dream to become a football player in Fences.",
+          "answer": "Wilson",
+          "acceptableAnswers": [
+            "Wilson",
+            "Frederick August Kittlel Jr.",
+            "The Wilson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Wilson included the plays Fences and the Piano Lesson in this ten play cycle named for a Mid-Atlantic city.",
+          "answer": "Pittsburgh",
+          "acceptableAnswers": [
+            "Pittsburgh",
+            "The Pittsburgh"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this play, mysterious deaths are blamed on a group of four hobos who died in a boxcar fire called the Ghosts of the Yellow Dog. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68846987641a9dc975af8708"
+    },
+    {
+      "id": "139fa7a6-9530-4807-93a6-d4d5c63c7b1c",
+      "linkedTossupId": "e6c83f04-67a8-44f5-a9bf-0f282f01fa91",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these aquatic creatures, subdivided into classes thaliacea, sorberacea, and appendicularia, whose name refers to the cloak-like covering they develop upon reaching maturity.",
+          "answer": "Tunicates",
+          "acceptableAnswers": [
+            "Tunicates",
+            "The Tunicates"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tunicates are members of this phylum, which is distinguished by possession of pharyngeal slits, a postnatal tail, and its eponymous skeletal structure.",
+          "answer": "Chordata",
+          "acceptableAnswers": [
+            "Chordata",
+            "The Chordata"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In some tunicates, this supporting structure consists of 40 cells in a single file axial line along the larval tail. In higher vertebrates, it is supplanted by a spine.",
+          "answer": "notochord",
+          "acceptableAnswers": [
+            "notochord",
+            "The notochord"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Their blood contains an abnormally high amount of vanadium. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9841243"
+    },
+    {
+      "id": "7d72f923-c23f-4997-b462-8e976dcc78a9",
+      "linkedTossupId": "e010ca7d-30b6-4e9d-9464-68b3f83e41b3",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Gilbert Harman proposed the \"brain in a vat\" scenario, which is often considered a modern variety of this philosopher's \"evil demon\" thought experiment. This thinker notably stated \"I think therefore I am\" to prove his own existence.",
+          "answer": "Descartes",
+          "acceptableAnswers": [
+            "Descartes",
+            "The Descartes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Brain-in-a-vat scenarios are often used to argue for this skepticist philosophical idea. Derived from the Latin for \"alone,\" this position notes that the external world and other minds cannot be known and thus may not exist.",
+          "answer": "solipsism",
+          "acceptableAnswers": [
+            "solipsism",
+            "The solipsism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 1796, this German physician founded the discipline of phrenology, a pseudoscientific theory involving measurements of bumps on the skull to determine personality or other mental traits.",
+          "answer": "Gall",
+          "acceptableAnswers": [
+            "Gall",
+            "The Gall"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Humans spend a lot of time using their brains, but sometimes not so much. Answer the following about brains in philosophy. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65d8486c56d3474dcdac24a9"
+    },
+    {
+      "id": "71f78483-d6c6-4a39-89ed-b5963e7111bf",
+      "linkedTossupId": "6a47f2ce-b155-44ba-b895-89253be67846",
+      "category": "Literature",
+      "subcategory": "Other Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this author of Eragon and Brisingr (bri-ZING-uhr), both part of his Inheritance Cycle. This author published his first book at age 19 and set most of his works in the fictional land of Alagaësia (AL-uh-GAY-zee-uh).",
+          "answer": "Paolini",
+          "acceptableAnswers": [
+            "Paolini",
+            "The Paolini"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Paolini's Inheritance Cycle focuses on the almost-extinct race of these mythical creatures. Companions of these creatures are called Riders and Saphira and Thorn are two examples of these creatures.",
+          "answer": "dragon",
+          "acceptableAnswers": [
+            "dragon",
+            "The dragon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another childrens' series about dragons is titled Wings of [this substance]. In most depictions of dragons, they are said to be able to blow this hot substance out of their nostrils or mouth.",
+          "answer": "fire",
+          "acceptableAnswers": [
+            "fire",
+            "logical equivalents like flames",
+            "The fire"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a novel by this author, the protagonist travels to the Vault of Souls, where a massive number of Eldunarí remain hidden from the tyrant king Galbatorix. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a503fb"
+    },
+    {
+      "id": "229ea795-0d23-4250-aa71-502eac65dfed",
+      "linkedTossupId": "9487cd21-1abf-433a-b795-2c05fc4bd407",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this novel, which contains many names and places with the initials \"HCE.\" This novel's opening sentence fragment, \"riverrun, past Eve and Adam's...\" is a continuation of its last sentence.",
+          "answer": "Finnegans Wake",
+          "acceptableAnswers": [
+            "Finnegans Wake",
+            "The Finnegans Wake"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Joseph Campbell took the term \"monomyth\" from Finnegan's Wake and used it to describe this literary concept. This literary concept is divided into departure, initiation, and return stages.",
+          "answer": "hero's journey",
+          "acceptableAnswers": [
+            "hero's journey",
+            "hero journey",
+            "journey of the hero",
+            "The hero's journey"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One notable example of a hero's journey is the struggle of this hero of a namesake Greek epic poem to return home to Ithaca to be with his wife Penelope.",
+          "answer": "Odysseus",
+          "acceptableAnswers": [
+            "Odysseus",
+            "The Odysseus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Joseph Campbell suggested that this novel served as inspiration for Thornton Wilder's The Skin of Our Teeth. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631674033d364b3265eaf0ac"
+    },
+    {
+      "id": "8349ea2f-d6d7-4ff0-ab5e-10cf6d52517c",
+      "linkedTossupId": "091eb4e2-039f-4ed0-8ca0-2eda0d936347",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with spinal nerves.",
+          "answer": "spinal cord",
+          "acceptableAnswers": [
+            "spinal cord"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the spinal cord in the nervous system?",
+          "answer": "Spinal nerves",
+          "acceptableAnswers": [
+            "Spinal nerves"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to spinal nerves.",
+          "answer": "reflex",
+          "acceptableAnswers": [
+            "reflex"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "91ff26b0-6d7c-4be9-b53a-a69a576c6baa",
+      "linkedTossupId": "ce5277c2-ecbd-4332-8171-89d5f3567be2",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this African capital originally called Leopoldville in honor of Leopold II of Belgium.",
+          "answer": "Kinshasa",
+          "acceptableAnswers": [
+            "Kinshasa",
+            "The Kinshasa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Leopoldville was founded as a trading post by this Welsh journalist and explorer who famously looked for the Scottish missionary David Livingstone.",
+          "answer": "Stanley",
+          "acceptableAnswers": [
+            "Stanley",
+            "The Stanley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Besides his attempts to find Livingstone, Stanley also led a \"Relief Expedition\" to rescue this governor of Equatoria in Sudan starting in 1886. The Rear Column of the expedition to save this man suffered heavy casualities, including James S. Jameson and Edmund Barttelot.",
+          "answer": "Emin Pasha",
+          "acceptableAnswers": [
+            "Emin Pasha",
+            "Pasha",
+            "The Emin Pasha"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It was founded in 1881 along the south bank of the Congo River. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df87c09bc4e61b2fb3784c"
+    },
+    {
+      "id": "7971c19b-c9ec-4e55-9be9-3420aa8eab27",
+      "linkedTossupId": "1b5ce642-89ae-4d33-9239-179914212492",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Give this shared title of a poem by Constantine Cavafy and a J. M. Coetzee novel about an unnamed magistrate in \"The Empire\" who is tortured by a corda after attempting to stop the cruelty of Colonel Joll.",
+          "answer": "Waiting for the Barbarians",
+          "acceptableAnswers": [
+            "Waiting for the Barbarians",
+            "The Waiting for the Barbarians"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Coetzee is an author from this country, where he and other authors such as Alan Paton have criticized its policy of apartheid.",
+          "answer": "South Africa",
+          "acceptableAnswers": [
+            "South Africa",
+            "The South Africa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Paton explored the pre-Apartheid society in this novel about Stephen Kumalo and his journey to Johannesburg to attend the murder trial of his son Absalom.",
+          "answer": "Cry, the Beloved Country",
+          "acceptableAnswers": [
+            "Cry, the Beloved Country",
+            "The Cry, the Beloved Country"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This four word phrase titles a poem that asks \"What's the point of senators making laws now?\" and claims the title people are \"bored by rhetoric and public speaking.\" For ten points each:",
+      "source": "qbreader",
+      "sourceId": "68b8fc8c3c4c0515ae31d986"
+    },
+    {
+      "id": "1045e0c3-c010-4b74-a05b-f9ad779e457e",
+      "linkedTossupId": "92de248c-5535-4495-adc2-7f7dc1579931",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this lyricist of West Side Story. This man also composed the scores to Assassins and Into the Woods.",
+          "answer": "Sondheim",
+          "acceptableAnswers": [
+            "Sondheim",
+            "The Sondheim"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man delivered a series of Young People's Concerts as the conductor of the New York Philharmonic. As a composer, this man wrote the music for West Side Story.",
+          "answer": "Bernstein",
+          "acceptableAnswers": [
+            "Bernstein",
+            "The Bernstein"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man shared a Best Director Oscar with Robert Wise for the film version of West Side Story. This choreographer won a Tony for the dance moves in West Side Story.",
+          "answer": "Robbins",
+          "acceptableAnswers": [
+            "Robbins",
+            "Jerome Wilson Rabinowitz",
+            "The Robbins"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man wrote the lyrics \"I feel pretty and witty and bright\" for the song \"I Feel Pretty.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab9b3"
+    },
+    {
+      "id": "9acd0a2b-b636-46c5-9f16-56ae2eb52f58",
+      "linkedTossupId": "b2310e56-c15f-4ad6-8e29-8e935b95e4fb",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this political party headed by Sheikh Mujibur Rahman.",
+          "answer": "Awami",
+          "acceptableAnswers": [
+            "Awami",
+            "The Awami"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Awami League was the founding political party in this South Asian country after it became independent from Pakistan in 1971.",
+          "answer": "Bangladesh",
+          "acceptableAnswers": [
+            "Bangladesh",
+            "The Bangladesh"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The office of Prime Minister of Bangladesh has alternated between two women, both of whom are from political dynasties within the Awami League and the Bangladesh Nationalist Party. Name either.",
+          "answer": "Hasina",
+          "acceptableAnswers": [
+            "Hasina",
+            "Khaleda Zia",
+            "The Hasina"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Mukti Bahini was an informal military force which successfully used guerilla warfare after being called to arms by the leader of this political party. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97422a74"
+    },
+    {
+      "id": "780f8e6d-23e8-4630-8c96-af472edb3b61",
+      "linkedTossupId": "f422e2a0-d674-4de3-9654-c30caaf07023",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this father of Athenian democracy who established a system of isonomia and reorganized the Boule [BOO-leh].",
+          "answer": "Cleisthenes",
+          "acceptableAnswers": [
+            "Cleisthenes",
+            "The Cleisthenes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Boule had been created under this Athenian lawgiver, who set up his laws at the Prytaneion and allowed all Athenian citizens to participate in the Ekklesia.",
+          "answer": "Solon",
+          "acceptableAnswers": [
+            "Solon",
+            "The Solon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Aristotle and this author of Antidosis, the founder of the first school of rhetoric, suggest that Cleisthenes' deme reform was basically just a promulgation of Solon's laws.",
+          "answer": "Isocrates",
+          "acceptableAnswers": [
+            "Isocrates",
+            "The Isocrates"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man proved that there is no I in deme, by reforming Athens' tribal system of organisation into a system of smaller trittyes and demes. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63aca784728d604710bf8722"
+    },
+    {
+      "id": "7d65e430-29f7-4d79-8f49-133ea33ba36c",
+      "linkedTossupId": "844f7265-444e-470d-9aef-802293317222",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Despite telling tales of giant ants and massive armies, this Greek is known as the \"Father of Histories\" for his work the Histories, which details the Persian Wars in addition to providing interesting if not accurate ethnographies of various classical peoples.",
+          "answer": "Herodotus",
+          "acceptableAnswers": [
+            "Herodotus",
+            "The Herodotus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Greek advanced the study of history with his History of the Peloponnesian War, which introduced concepts like fact-checking and not just making up things for entertainment value.",
+          "answer": "Thucydides",
+          "acceptableAnswers": [
+            "Thucydides",
+            "The Thucydides"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Edward Gibbon's History of the Decline and Fall of the Roman Empire attributes the introduction of this religion to be one of the factors which led to the fall of the Western Empire after it was legalized by Constantine the Great in the Edict of Milan.",
+          "answer": "Christianity",
+          "acceptableAnswers": [
+            "Christianity",
+            "The Christianity"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about historians of the ancient world, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0a95"
+    }
+  ]
+}

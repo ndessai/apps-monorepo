@@ -1,0 +1,1188 @@
+{
+  "packetId": "packet-038",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Human Body",
+    "Fine Arts",
+    "Literature",
+    "History",
+    "Science",
+    "Philosophy",
+    "Mythology"
+  ],
+  "tossups": [
+    {
+      "id": "29674140-e2f5-41f2-a155-163197a68c81",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for nutrient absorption. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this duodenum-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Duodenum",
+      "acceptableAnswers": [
+        "duodenum",
+        "Duodenum"
+      ],
+      "explanation": "The duodenum is a key component of the Digestive system, involved in nutrient absorption.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "b3b93ccf-ceeb-4c57-a330-bf8492472137",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "This artist re-painted the background of one of his works to be more vivid after seeing John Constable's The Hay Wain. In another painting by this artist, a black woman walks away from a group of three figures seated around a hookah. This artist showed an Ottoman soldier atop a rearing horse on the right of a painting depicting the aftermath of an attack on a Greek island, and a topless woman in a yellow dress strides over dead bodies holding a flag in this man's best-known work. For 10 points, name this artist of The Women of Algiers, Massacre at Chios, and Liberty Leading the People.",
+      "powerMarkPosition": 255,
+      "answer": "Delacroix",
+      "acceptableAnswers": [
+        "Delacroix",
+        "The Delacroix"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fbc0e"
+    },
+    {
+      "id": "d64250bc-a347-40a5-976b-7741cae07d1e",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "The speaker of this poem asks the addressee to do the title action to \"poor flesh / and trees, poor stars and stones, but never this / fine specimen of hypermagical ultraomnipotence.\" This poem's only parenthetical section mentions \"death and life safely beyond\" in reference to \"your victim\" who \"plays with the bigness of his littleness.\" This modified sonnet's typography visually narrows for a phrase reading \"lenses extend / unwish through curving wherewhen till unwish / returns on its unself.\" Three hyphens separate the middle section of this poem, which begins \"electrons drift one razerblade into a mountainrange.\" This poem from the collection 1x1 calls Progress a \"comfortable disease\" and claims that \"A world of made / is not a world of born.\" This poem, whose eccentric typography was intended to show the dynamism of the typewriter, concludes \"there's a hell / of a good universe next door; let's go.\" For 10 points, name this e.e. cummings poem whose title puns on the word \"mankind.\"",
+      "powerMarkPosition": 654,
+      "answer": "pity this busy monster,manunkind",
+      "acceptableAnswers": [
+        "pity this busy monster,manunkind",
+        "The pity this busy monster,manunkind"
+      ],
+      "source": "qbreader",
+      "sourceId": "67cb4e11a4d5f0b0e22ac1ac"
+    },
+    {
+      "id": "aa16da65-be27-42e2-807c-4e617957dae7",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "The Night of the Bottle Fight in this city preceded an 1831 abdication. A 2018 fire in this city destroyed much of a National History museum based out of St. Christopher's Palace. A 2011 excavation uncovered parts of this city's Valongo Wharf, the largest port for slaves entering the Americas. During the Peninsular War, Maria of Braganza migrated her court to this city. Juscelino Kubitschek's (\"zhoo-seh-LEE-noo koo-bee-SHEK's\") government moved from this city to a planned one designed by Lucio Costa and Oscar Niemeyer. In 1888, 20,000 people gathered in this city to celebrate Princess Isabel signing the abolitionist Golden Law. For 10 points, Emperor Pedro II ruled from what former capital of Brazil?",
+      "powerMarkPosition": 294,
+      "answer": "Rio de Janeiro",
+      "acceptableAnswers": [
+        "Rio de Janeiro",
+        "Rio",
+        "The Rio de Janeiro"
+      ],
+      "source": "qbreader",
+      "sourceId": "68fc54d85b5d7bee38aa3fa9"
+    },
+    {
+      "id": "b03b5f58-25d2-4909-982b-cc6f9612800a",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "A prophet of these people named Siener (\"seen-ur\"), which translates to \"Looker,\" later inspired a Gustav Müller-led survivalist group of these people who fear white genocide. The Slachter's Nek Rebellion was perpetrated by these people, who founded the Natalia Republic following their victory at Blood River. A powerful political leader of these people had his lands targeted by a Cecil Rhodes-supported British insurgency intended to start an uitlander (\"OOT-lahn-der\") uprising, known as the Jameson Raid. Many of these peoples migrated northward during the Great Trek, and they fought two namesake wars with the British from the Transvaal and the Orange Free State. For 10 points, name this people once led by Paul Kruger, the descendants of Dutch-speaking settlers in South Africa.",
+      "powerMarkPosition": 382,
+      "answer": "Boer",
+      "acceptableAnswers": [
+        "Boer",
+        "Afrikaners",
+        "prompt on Voortrekkers",
+        "prompt on Dutch people",
+        "people from the Netherlands",
+        "prompt on South Africans",
+        "The Boer"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382c06e578a78206cf20938"
+    },
+    {
+      "id": "86431005-482b-40b6-bc70-09e81d29862f",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This man painted himself into the skin of Saint Bartholomew in The Last Judgment, an entry in a series of frescoes this man painted in a Vatican chapel. This man's sculpted Pieta, a statue of Mary cradling the body of Jesus, and created a statue of a slingshot-holding marble David. For ten points, name this Italian who painted the Sistine Chapel ceiling.",
+      "powerMarkPosition": 172,
+      "answer": "Michelangelo di Lodovico Buonarroti Simoni",
+      "acceptableAnswers": [
+        "Michelangelo di Lodovico Buonarroti Simoni",
+        "The Michelangelo di Lodovico Buonarroti Simoni"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a4277"
+    },
+    {
+      "id": "8f150dba-5c13-428f-8c51-a2624a3e6973",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "As a CEO, Torkild Rieber violated Franklin Roosevelt's neutrality policy to supply this good to Franco at cut-rate prices during the Spanish Civil War. The U.S. and Britain sought to prevent Spain from selling tungsten to Nazi Germany by restricting sales of this good to Spain. At a 1945 meeting onboard the USS Quincy, FDR struck a deal to gain access to this resource. During World War II, the Big Inch and Little Big Inch were created to transport this good across the U.S. The failed Operation Tidal Wave bombed production centers of this good in Ploiești (plo-YESHT), Romania. Japan's attack on Pearl Harbor and conquest of Borneo were driven by a U.S. embargo on this good, which is extracted in Brunei. For 10 points, name this fossil fuel sold by companies like Texaco.",
+      "powerMarkPosition": 488,
+      "answer": "oil",
+      "acceptableAnswers": [
+        "oil",
+        "petroleum",
+        "prompt on gas",
+        "gasoline",
+        "reject “natural gas”",
+        "The oil"
+      ],
+      "source": "qbreader",
+      "sourceId": "64740f170044bbd367c3f3e6"
+    },
+    {
+      "id": "616515c3-2b8b-4cca-94b2-ef1f1d0f082b",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "The acronym SFINAE is used to refer to a situation in which an invalid substitution of parameters of these constructs does not result in an error. A 2003 result by Veldhuizen presented a sketch of a proof that these constructs were Turing-complete, cautioning that a formal proof was unlikely because the instantiation of these constructs lacked a formal semantics. The 2011 version of the language in which these constructs are defined introduced a variadic type of them. In 1994, Unruh used these constructs to perform a computation which output primes as compiler errors, an early example of these objects' namesake \"metaprogramming\" application. Iterators, algorithms, and containers such as vectors are part of a standard library of classes parametrized in terms of these constructs, which are heavily used by the Boost libraries. For 10 points, identify these constructs that are parametrizable by type, enabling generic programming in a language invented by Bjarne Stroustrup.",
+      "powerMarkPosition": 554,
+      "answer": "C++ templates",
+      "acceptableAnswers": [
+        "C++ templates",
+        "partial answers",
+        "The C++ templates"
+      ],
+      "source": "qbreader",
+      "sourceId": "639f76b696d8b354e96b5b29"
+    },
+    {
+      "id": "fed62254-8736-435b-9d8d-6f2849550a87",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "This artist showed a woman holding one of her children while the other is perched atop a beached boat as they wait for their father in the painting Dad's Coming! In another of his paintings, a uniformed man defiantly standing with his right hand on his hip is at the head of a group of captured soldiers being looked upon by Francis Channing Barlow. He made several depictions of people playing croquet. This artist's A Visit from the Old Mistress has a similar composition to a painting he made while working as a Civil War correspondent. This artist of Prisoners from the Front showed a man and three boys in a catboat called the Gloucester in his painting Breezing Up. In his best known work, sharks mass around a small fishing boat with a black man lying on the deck. For 10 points, name this painter of nautical scenes like The Gulf Stream.",
+      "powerMarkPosition": 434,
+      "answer": "Homer",
+      "acceptableAnswers": [
+        "Homer",
+        "The Homer"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f32e2883e2636cb3c96342"
+    },
+    {
+      "id": "7be4e2f8-a2f2-4eb4-9045-d9be31346f1e",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "Two answers required. The merchant community of one of these countries in the other donated a red-brick centenary clock tower that was later simply renamed the \"Monumental Tower\". Foreign investors from one of these countries built up the other's four broad-gauge railroads after the introduction of frigoríficos obviated saladeros. German-descended economists from these two countries name a hypothesis that the price of primary goods declines in value relative to that of manufactured goods in the long run, which is key to dependency theory. The Radical Civic Union attempted to overthrow the Generation of '80 in one of these countries after it defaulted on its debt to the other's Baring Brothers bank, causing the Panic of 1890. One of these countries was sometimes called the other's \"Sixth Dominion\" during a boom period of transatlantic wheat and beef export. For 10 points, name these two countries that later fought at Stanley in the Falklands War.",
+      "powerMarkPosition": 525,
+      "answer": "Argentina",
+      "acceptableAnswers": [
+        "Argentina",
+        "the Argentine Republic",
+        "República Argentina for “Argentina”",
+        "accept Britain",
+        "England for the “United Kingdom”",
+        "The Argentina"
+      ],
+      "source": "qbreader",
+      "sourceId": "673b8e846a9f877eb58c9b66"
+    },
+    {
+      "id": "5bd786b8-b9a4-489b-b443-91391e390bee",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "James Buchanan pressured Associate Justice Robert Cooper Grier to join the majority in this case, and Benjamin Curtis and John McLean wrote dissents. John Emerson was sued by the plaintiff in this case after a journey from Missouri to Illinois and later Wisconsin. As a result of this case, the Missouri Compromise was declared unconstitutional. Chief Justice Roger Taney [Taw-nee] presided over, for 10 points, which 1857 Supreme Court decision that declared the plaintiff had no citizens' rights because he was born a slave?",
+      "powerMarkPosition": 303,
+      "answer": "Scott",
+      "acceptableAnswers": [
+        "Scott",
+        "the Dred Scott Decision",
+        "The Scott"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9e4d"
+    },
+    {
+      "id": "052abe4d-c638-4d1f-b077-5a80528fe9ad",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "In the Epistle to the Romans, Paul argues that this concept cannot be the basis of works. In the book of John, this concept emerges from Jesus, compared to the law which derives from Moses. The hymn \"Come Thou Fount of Every Blessing\" opens \"tune my heart to sing thy [this concept].\" In Ephesians 3:2 (\"chapter three, verse 2\"), Paul declares that his ministry is to preach the gospel of this concept. A verse about this concept and peace from God begins Philippians. Saint Augustine believed that people were drawn to conversion by a \"prevenient\" form of this concept, which is similar to a later \"irresistible\" form in Calvinism. People are saved by faith through this concept according to the idea of imputed righteousness. For 10 points, name this spontaneous gift from God that names a prayer said before meals and a hymn that calls it \"Amazing.\"",
+      "powerMarkPosition": 402,
+      "answer": "grace",
+      "acceptableAnswers": [
+        "grace",
+        "the grace of God",
+        "accept gratias",
+        "charisma",
+        "accept prevenient grace",
+        "irresistible grace",
+        "accept “Amazing Grace”",
+        "The grace"
+      ],
+      "source": "qbreader",
+      "sourceId": "6822bfc91f87396179872ef0"
+    },
+    {
+      "id": "c1ececc5-0ade-46db-9e86-e283400f64c2",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "This deity killed a dwarf disguised as an otter with a stone while staying with that dwarf's father Hreidmar. This god's brother was Byleistr, and he stole the ring of Andvari, which he used to pay for Otr's blood money. He disguised himself as the old woman Thökk, and seduced a male horse to avoid punishment for allowing the hrimthurs to use Svaðlfari to build the walls of Asgard. This god tricked Hodr into throwing a spear of mistletoe that killed Baldr, for which crime this god is bound to a rock with poison dripping in his face, and some of this god's offspring are the horse Sleipnir and the wolf Fenrir. For 10 points, name this Norse trickster god.",
+      "powerMarkPosition": 384,
+      "answer": "Loki",
+      "acceptableAnswers": [
+        "Loki",
+        "The Loki"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe842"
+    },
+    {
+      "id": "ec86042f-a795-42e3-ab9c-52218cf63f9f",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "In 2010, Nowak et al proposed that the second phase in this phenomenon's evolution entails the accumulation of pre-adaptations like progressive provisioning and the occupation of defensible habitats. \"Life insurance\" and \"fortress defense\" are alternate manifestations of this phenomenon, which becomes obligate after passing the \"point of no return.\" This phenomenon is regulated by the heteromorphic SB chromosome in Solenopsis invicta, which are stimulated by an odorant binding protein to kill Gp-9 homozygotes that disrupt this phenomenon in a classic example of a green beard. Damaraland and naked mole rats are the only mammals to exhibit this phenomenon, which requires some members of a population to serve as non-reproductive workers and was once thought to result from relatedness asymmetry caused by haplodiploidy. For 10 points, name this extreme form of altruistic social organization most commonly observed in hymenopterans.",
+      "powerMarkPosition": 569,
+      "answer": "eusocial",
+      "acceptableAnswers": [
+        "eusocial",
+        "superorganisms",
+        "word forms",
+        "accept life insurance",
+        "fortress defense before mentioned",
+        "prompt on any answers related to being “social",
+        "” prompt on “altruism”",
+        "“kin selection”",
+        "“inclusive fitness”",
+        "“cooperation”",
+        "related answers about helping others",
+        "prompt on “haplodiploidy” before mentioned",
+        "prompt on “colony formation”",
+        "“caste systems”",
+        "“hierarchy”",
+        "“heterarchy”",
+        "related answers",
+        "prompt on answers about queens",
+        "workers",
+        "other caste roles before mentioned",
+        "The eusocial"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b20c8"
+    },
+    {
+      "id": "acae1548-3cff-4ae2-9eed-c1a4dd72cfd3",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "Solving an example of this mathematical concept is equivalent to finding the intersection of hyperplanes in n-dimensional space. They can be represented by matrices and then solved using Cramer's rule. These can be classified as dependent or independent, as well as consistent or inconsistent. They can be solved by elimination or substitution. For 10 points, give this type of problem in which several equations are solved at once.",
+      "powerMarkPosition": 315,
+      "answer": "system",
+      "acceptableAnswers": [
+        "system",
+        "system of simultaneous linear equations",
+        "prompt on\"system\"",
+        "The system"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c482"
+    },
+    {
+      "id": "4e6e8c78-a640-4242-93f2-b82cf285bcde",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "Rudolfus Glaber popularized a famous quote about how Europe clad itself in a \"white mantle of churches\" after this event. Georges Duby's book on the social institutions of the Mâconnais region argues that \"la mutation\" of this event coincided with a \"feudal revolution.\" Richard Landes's work on this event has explored its connections with the Peace of God movement that developed in the decade prior to it. Sylvester II and Otto III are alleged to have invented the entire Carolingian era so that they would be able to oversee this event in Heribert Illig's crackpot \"phantom time\" hypothesis. Romantic historians like Jules Michelet wrote about the supposed \"terror\" of this event, which supposedly caused a wave of penitent movements convinced that the world would end when it occurred but has been subject to debate since most recorders used regnal years rather than keeping the universal time that gave significance to this event. Saint Stephen of Hungary was likely crowned in-for 10 points-what year that began a century that saw the Battle of Hastings occur?",
+      "powerMarkPosition": 568,
+      "answer": "1000",
+      "acceptableAnswers": [
+        "1000",
+        "obvious equivalents of the end of the first millennium",
+        "the beginning of the second millennium",
+        "the 11th century until “this year” is read",
+        "accept “la mutation de l’an mil”",
+        "prompt on the apocalypse",
+        "the coming of the antichrist",
+        "the return of Christ",
+        "and similar until “this year” is read",
+        "The 1000"
+      ],
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db46cf6"
+    },
+    {
+      "id": "81a4fe4c-53c9-4f83-8913-afb6e48fa885",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for mouth and salivary glands. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this esophagus-related structure.",
+      "powerMarkPosition": 81,
+      "answer": "Esophagus",
+      "acceptableAnswers": [
+        "esophagus",
+        "Esophagus"
+      ],
+      "explanation": "The esophagus is a key component of the Digestive system, involved in mouth and salivary glands.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "6bdf7224-2479-424a-99a4-05e7b2cc9374",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "This author asks, \"Little poppies, little hell flames,/ do you do no harm?\" In one poem, this poet writes, \"In me has drowned a young girl, and in me an old woman/ Rises toward her day after day, like a terrible fish\". Another poem by this author begins, \"Perfection is terrible, it cannot have children.\" This poet writes \"Dying/ Is an art /.../I do it exceptionally well\" before claiming to \"eat men like air\". In another poem, she compares the title figure to a \"black shoe\" and repeats \"you do not do!\". For 10 points, name this author of \"Mirror\", \"The Munich Mannequins\", \"Lady Lazarus\" and \"Daddy\".",
+      "powerMarkPosition": 322,
+      "answer": "Plath",
+      "acceptableAnswers": [
+        "Plath",
+        "The Plath"
+      ],
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c61193498de"
+    },
+    {
+      "id": "a01805a9-97e1-496f-a3f0-29cae7e45ea6",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "One polity conquered by this other polity shook them off and instituted the Eparti Dynasty. Among its earliest leaders was Meskalamdug, whose son Mesannepada founded its First Dynasty that also include the Queen Puabi. The later leaders of this polity included Amar-Sin and a man who incorporated this polity's name into his own; that leader, Nammu, died in battle against the Gutians and ordered the erection of its great temple to the moon goddess Nanna. That Third Dynasty was supplanted as a regional power by Larsa after its sacking by the Elamites in 2004 BC. The site of its ruins, known to the Arabs as Tall al-Muqayyar, was later the subject of an excavation by Sir Leonard Woolley that revealed its massive ziggurat. For 10 points, identify this Sumerian city-state that is mentioned in the Book of Genesis as the original home of Abraham.",
+      "powerMarkPosition": 456,
+      "answer": "Ur",
+      "acceptableAnswers": [
+        "Ur",
+        "Ur Kasdim",
+        "I guess"
+      ],
+      "source": "qbreader",
+      "sourceId": "6465625b39f9588b048d2322"
+    },
+    {
+      "id": "c669b18c-5f52-4db9-8b6d-57cfc40a7243",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "William Plumer prevented this man from becoming the second unanimously elected president in 1820. A policy created by this man was modified by the Roosevelt Corollary. This man launched a goodwill tour of America, causing a newspaper to declare that the country had entered an \"Era of Good Feelings.\" For 10 points, name this fifth President of the United States whose namesake doctrine limited European involvement in North America.",
+      "powerMarkPosition": 276,
+      "answer": "Monroe",
+      "acceptableAnswers": [
+        "Monroe",
+        "The Monroe"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004bbd"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "038905f0-85d4-4aa4-a9c1-a45f600c8625",
+      "linkedTossupId": "29674140-e2f5-41f2-a155-163197a68c81",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with alveoli structure and function.",
+          "answer": "bronchus",
+          "acceptableAnswers": [
+            "bronchus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the bronchus in the respiratory system?",
+          "answer": "Alveoli structure and function",
+          "acceptableAnswers": [
+            "Alveoli structure and function"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to alveoli structure and function.",
+          "answer": "bronchiole",
+          "acceptableAnswers": [
+            "bronchiole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a86cebc0-873c-4aab-89a8-3561ea28143c",
+      "linkedTossupId": "b3b93ccf-ceeb-4c57-a330-bf8492472137",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this morally corrupt sailor who drowns himself on the advice of Captain Balstrode. An opera titled for this character contains a set of oft-excerpted Sea Interludes.",
+          "answer": "Peter",
+          "acceptableAnswers": [
+            "Peter",
+            "Peter Grimes",
+            "The Peter"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Peter Grimes is an opera by this composer, who modeled the setting on the English coastal village of Aldeburgh (\"AWLD-burr-uh\"). This composer memorialized the World War II destruction of Coventry Cathedral in the War Requiem.",
+          "answer": "Britten",
+          "acceptableAnswers": [
+            "Britten",
+            "The Britten"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During his mad scene, a disturbed Grimes fights to make himself heard over both a pursuing mob and a foghorn, portrayed in the opera by this lowest-pitched and largest brass instrument.",
+          "answer": "tuba",
+          "acceptableAnswers": [
+            "tuba",
+            "The tuba"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An offstage chorus chants this character's name 79 times during an Act III \"mad scene.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "689a0d6d2d8608f4ad85188d"
+    },
+    {
+      "id": "559ee931-b34e-4b4e-9b3d-f337169526db",
+      "linkedTossupId": "d64250bc-a347-40a5-976b-7741cae07d1e",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these two cities. Robert Lowell's Life Studies opens with a poem about a train ride between these cities, one of which is described as \"our black classic, breaking up / like killer kings on an Etruscan cup.\"",
+          "answer": "Paris",
+          "acceptableAnswers": [
+            "Paris",
+            "answers in either order",
+            "accept Roma in place of “Rome”",
+            "The Paris"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Sylvia Plath poem calls the title city a \"morgue between Paris and Rome.\" This poem opens by stating, \"Perfection is terrible, it cannot have children.\"",
+          "answer": "Munich Mannequins",
+          "acceptableAnswers": [
+            "Munich Mannequins",
+            "The Munich Mannequins"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author described a person \"walking in Paris alone inside a crowd\" and \"in Rome beneath a Japanese tree\" in his poem \"Zone.\" This French proto-Surrealist wrote the collection Alcools (\"al-KOHLS\").",
+          "answer": "Apollinaire",
+          "acceptableAnswers": [
+            "Apollinaire",
+            "Wilhelm-Albert-Włodzimierz-Aleksander-Apolinary Kostrowicki",
+            "The Apollinaire"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Two answers required. A poem set between these two cities calls Minerva a \"miscarriage of the brain\" and reflects on how each of the title mountains is like a \"fire-branded socket of the Cyclops's eye.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66307b07f089611172b050d5"
+    },
+    {
+      "id": "02b78f4d-2eca-4a87-879d-d80648e614b2",
+      "linkedTossupId": "aa16da65-be27-42e2-807c-4e617957dae7",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this han that ruled much of southern Kyushu. This domain, which murdered a British merchant in the Namamugi incident, was dismantled after Saigo Takamori led it in rebellion.",
+          "answer": "Satsuma",
+          "acceptableAnswers": [
+            "Satsuma",
+            "The Satsuma"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Namamugi incident briefly soured relations between Britain and Japan, though they were smoothed over by the presence of this diplomatic mission from Japan to much of Europe and the United States. This mission from 1871 to 1873 sought to study much of Western culture.",
+          "answer": "Iwakura",
+          "acceptableAnswers": [
+            "Iwakura",
+            "The Iwakura"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Namamugi Incident and Satsuma Rebellion were two tumultuous events that occurred during the rule of this emperor. This emperor dismantled the Tokugawa Shogunate in his namesake restoration.",
+          "answer": "Meiji",
+          "acceptableAnswers": [
+            "Meiji",
+            "Meiji the Great",
+            "Mutsuhito",
+            "The Meiji"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A leader of this domain obtained the first daguerreotype in Japan. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6884696a641a9dc975af8448"
+    },
+    {
+      "id": "59560615-cc3c-4f19-8985-10c9c22a72ce",
+      "linkedTossupId": "b03b5f58-25d2-4909-982b-cc6f9612800a",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The Zhou are often said to have employed a form of this system of governance, popular in medieval Europe, whereby lords commanded the military allegiance of vassals.",
+          "answer": "feudalism",
+          "acceptableAnswers": [
+            "feudalism",
+            "word forms",
+            "The feudalism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The first period of the Eastern Zhou is sometimes referred to using the name of these two seasons. They also title a set of Annals describing the period that is one of the Five Classics of Chinese literature.",
+          "answer": "Spring",
+          "acceptableAnswers": [
+            "Spring",
+            "in either order",
+            "but do not accept synonyms such as “fall”",
+            "The Spring"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Spring and Autumn Annals is a chronicle of this Chinese feudal state, the birthplace of both Confucius and Mozi. Its capital was at Qufu, and it was ruled by a lord named Duke Huan.",
+          "answer": "Lu",
+          "acceptableAnswers": [
+            "Lu"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name the following about the Zhou Dynasty.",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c3184c"
+    },
+    {
+      "id": "c33f394d-da7d-4756-b56a-9c9a131a5296",
+      "linkedTossupId": "86431005-482b-40b6-bc70-09e81d29862f",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this building which notably has a glass pyramid in its courtyard.",
+          "answer": "Louvre",
+          "acceptableAnswers": [
+            "Louvre",
+            "The Louvre"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This architect designed that glass pyramid.",
+          "answer": "Pei",
+          "acceptableAnswers": [
+            "Pei",
+            "The Pei"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Parisan edifice is notable for its rose window depicting the labors of the month and its gargoyles, many of which were restored in the 19th century.",
+          "answer": "Notre-Dame",
+          "acceptableAnswers": [
+            "Notre-Dame",
+            "The Notre-Dame"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This building's east wing contains a colonnade designed by Claude Perrault. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43f87"
+    },
+    {
+      "id": "8769f14d-09ca-4cf9-9297-3d375878b472",
+      "linkedTossupId": "8f150dba-5c13-428f-8c51-a2624a3e6973",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this king whose army dismantled the walls of the rival city Uruk after he overthrew Ur-Zababa to rule from Kish. His conquests in Mesopotamia created an Akkadian empire in the 2200s BC, displacing the Sumerians.",
+          "answer": "Sargon",
+          "acceptableAnswers": [
+            "Sargon",
+            "Sargon the Great",
+            "accept Šarru-kīnu",
+            "accept Šarru-ken",
+            "do not accept “Sargon II”",
+            "“Sargon of Assyria”",
+            "The Sargon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Akkadian language, as well as the older Sumerian one, used this writing system in which a reed stylus creates wedge-shaped markings in clay.",
+          "answer": "cuneiform",
+          "acceptableAnswers": [
+            "cuneiform",
+            "The cuneiform"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Avan dynasty of this kingdom, found east of Mesopotamia, was subjected by Sargon; sixteen centuries later, the Assyrian Ashurbanipal razed its central city of Susa. It built a ziggurat at Chogha Zanbil.",
+          "answer": "Elam",
+          "acceptableAnswers": [
+            "Elam",
+            "Elamite kingdom",
+            "The Elam"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man made his poet daughter Enheduanna a high priestess. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c05525875970a4"
+    },
+    {
+      "id": "3b6fd99d-f6d1-4f56-a6a2-55b629ca4949",
+      "linkedTossupId": "616515c3-2b8b-4cca-94b2-ef1f1d0f082b",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This type of ever-present noise in circuitry arises from the random thermal motions of the electrons in the circuit components. The square of the voltage associated with this phenomenon is proportional to the component's resistance times its temperature.",
+          "answer": "Johnson",
+          "acceptableAnswers": [
+            "Johnson",
+            "The Johnson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Commonly seen on oscilloscope displays measuring the voltage for RCL circuits, this artifact takes the form of a sinusoidal oscillation found near jump discontinuities.",
+          "answer": "ringing",
+          "acceptableAnswers": [
+            "ringing",
+            "The ringing"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These devices tend to have characteristically higher corner or cut-off frequencies for flicker noise than bipolar transistors. They consist of a gated electrode which can induce a channel between two other parts known as the source and the drain.",
+          "answer": "m",
+          "acceptableAnswers": [
+            "m"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following related to the world of circuit noise. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "646565b40e43b5aafda1c7a3"
+    },
+    {
+      "id": "5ee55739-fc0b-469e-bdcb-81b1fa985da1",
+      "linkedTossupId": "fed62254-8736-435b-9d8d-6f2849550a87",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this building on the Rue Beaubourg, noted for its brightly-colored external piping.",
+          "answer": "Pompidou Center",
+          "acceptableAnswers": [
+            "Pompidou Center",
+            "The Pompidou Center"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Italian Pritzker Prize-winning architect designed the Pompidou Center with Richard Rogers. His other projects include the Kansai Air Terminal in Osaka.",
+          "answer": "Piano",
+          "acceptableAnswers": [
+            "Piano",
+            "The Piano"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Musée National d'Art Moderne in the Pompidou Center houses nearly 1300 works by this Russian-born artist, including Yellow-Red-Blue, Contrasting Sounds, and Composition IX.",
+          "answer": "Kandinsky",
+          "acceptableAnswers": [
+            "Kandinsky",
+            "The Kandinsky"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This building houses the Musée National d'Art Moderne and the Institut de Recherche et Coordination Acoustique/Musique. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d432ee"
+    },
+    {
+      "id": "9e35ff81-7ac0-4a55-8064-20a06a3972e4",
+      "linkedTossupId": "7be4e2f8-a2f2-4eb4-9045-d9be31346f1e",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Similar to a dowry, this was a payment made by a family to their feudal lord so that their daughter could marry. This practice's name derives from a Welsh word meaning \"daughter.\"",
+          "answer": "merchet",
+          "acceptableAnswers": [
+            "merchet",
+            "The merchet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Medieval marriages were announced by a document placed at this specific location, giving any potential objectors advance notice of the ceremony. Martin Luther posted his Ninety-Five Theses on this specific location of structures in Wittenberg.",
+          "answer": "church",
+          "acceptableAnswers": [
+            "church",
+            "partial answers",
+            "do not accept",
+            "prompt on altars",
+            "The church"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Romantic writers linked the custom of Droit du Seigneur, by which lords slept with peasant women on their wedding night, with this region. Though the film Braveheart claims that the custom caused William Wallace's rebellion in this region, the custom probably didn't even exist.",
+          "answer": "Scotland",
+          "acceptableAnswers": [
+            "Scotland",
+            "The Scotland"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about medieval European marriage customs:",
+      "source": "qbreader",
+      "sourceId": "644052b286e2a9ad33a472a7"
+    },
+    {
+      "id": "7d85cf1a-fa05-49b4-9404-10ee8fb52c2e",
+      "linkedTossupId": "5bd786b8-b9a4-489b-b443-91391e390bee",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this election year in which the incumbent president, who was unpopular after breaking his promise of \"no new taxes,\" was defeated by a youthful Arkansas governor.",
+          "answer": "1992",
+          "acceptableAnswers": [
+            "1992",
+            "The 1992"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This forty-second US President defeated George H.W. Bush in the election of 1992. As President, this Democrat signed NAFTA and survived an impeachment trial related to his affair with White House intern Monica Lewinsky.",
+          "answer": "Clinton",
+          "acceptableAnswers": [
+            "Clinton",
+            "The Clinton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Clinton's victory in the 1992 election has been linked to this third-party candidate, whose campaign drew voters away from Bush. This billionaire owner of Electronic Data Systems died in 2019.",
+          "answer": "Perot",
+          "acceptableAnswers": [
+            "Perot",
+            "The Perot"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One candidate in this election year used the slogan \"It's the economy, stupid!\" For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004fc8"
+    },
+    {
+      "id": "b85570a7-92c7-41a5-98ab-9d2046fe7b4e",
+      "linkedTossupId": "052abe4d-c638-4d1f-b077-5a80528fe9ad",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "A collection of lectures by Jeremy Waldron identifies what controversial concept as a universal extension of rank or status established by the framework of human rights?",
+          "answer": "dignity",
+          "acceptableAnswers": [
+            "dignity",
+            "Dignity",
+            "Rank",
+            "and Rights",
+            "accept “Dignity is a useless concept.”",
+            "The dignity"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Appeals to dignity in bioethics are particularly common among thinkers affiliated with this institution. Key texts in the modern social teaching of this institution include Dignitatis humanae and Caritas in veritate.",
+          "answer": "Catholic",
+          "acceptableAnswers": [
+            "Catholic",
+            "the Vatican",
+            "prompt on the Church",
+            "prompt on the papacy by asking “what larger institution does the papacy head?”",
+            "The Catholic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The applied ethics movement of the 1970s popularized this method in bioethics outside of its original Catholic context. Taken narrowly, this term refers to the application of precedent to particular cases.",
+          "answer": "casuistry",
+          "acceptableAnswers": [
+            "casuistry",
+            "case-based reasoning",
+            "prompt on Jesuitism",
+            "The casuistry"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A widely cited Ruth Macklin paper argues that appeals to this concept in bioethics are so vague and uninformed as to be \"useless.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64d17df3ce0dacc4ef84bb81"
+    },
+    {
+      "id": "a5a173d7-346f-4a25-9185-f57e967fea45",
+      "linkedTossupId": "c1ececc5-0ade-46db-9e86-e283400f64c2",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Odin sacrificed this body part to Mimir in exchange for a drink from the Well of Urd. Odysseus injures one of these body parts belonging to Polyphemus (\"pahl-lee-FEE-mus\").",
+          "answer": "eye",
+          "acceptableAnswers": [
+            "eye",
+            "The eye"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While attempting to steal the Mead of Poetry from Suttungr (\"SOOT-ung-er\"), Odin threw one of these things into the air, causing 9 slaves to all kill each other while attempting to retrieve it.",
+          "answer": "whetstone",
+          "acceptableAnswers": [
+            "whetstone",
+            "The whetstone"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Odin kept two of these animals, called Huginn (thought) and Muninn (mind), as pets. Their job was to travel around the nine realms and report what they saw back to Odin.",
+          "answer": "raven",
+          "acceptableAnswers": [
+            "raven",
+            "Corvus corax",
+            "The raven"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer a few questions about Odin, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144e4a"
+    },
+    {
+      "id": "4bc14691-4739-440a-9280-b5c95d938738",
+      "linkedTossupId": "ec86042f-a795-42e3-ab9c-52218cf63f9f",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this technique that observes the atomic nucleus by relying on an effect in which a bulk solid absorbs a photon in a recoilless manner.",
+          "answer": "Mössbauer",
+          "acceptableAnswers": [
+            "Mössbauer",
+            "The Mössbauer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mössbauer spectroscopy typically uses a cobalt-57 source. That source decays to iron-57 to generate this type of high-energy radiation which, beyond being higher energy than X-rays and usually being emitted by nuclei, is somewhat nebulously defined.",
+          "answer": "gamma",
+          "acceptableAnswers": [
+            "gamma",
+            "gamma radiation",
+            "The gamma"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gamma ray-based spectroscopy often uses scintillation detectors, whose scintillators commonly consist of this compound doped with thallium.",
+          "answer": "sodium iodide",
+          "acceptableAnswers": [
+            "sodium iodide",
+            "NaI",
+            "The sodium iodide"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Because the radiation source for this technique is inherently monochromatic, it is modulated using the Doppler effect, which results in spectra being plotted against velocity. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361e01fec1ecd3e795a43f5"
+    },
+    {
+      "id": "1174594b-d1f9-401b-b01f-46ac99b56a41",
+      "linkedTossupId": "acae1548-3cff-4ae2-9eed-c1a4dd72cfd3",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this type of rock, which includes granite, which is felsic, and basalt, which is mafic.",
+          "answer": "igneous",
+          "acceptableAnswers": [
+            "igneous",
+            "The igneous"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other kind of rock includes gneiss, slate, marble, and quartzite. They can have foliation within them and can be formed via the contact and regional types of the namesake process.",
+          "answer": "metamorphic",
+          "acceptableAnswers": [
+            "metamorphic",
+            "The metamorphic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This member of the sedimentary rock family is composed largely of minerals calcite and aragonite. They are often formed from skeletons of marine organisms, as at the cliffs of Dover. It was used to build the Pyramids.",
+          "answer": "limestone",
+          "acceptableAnswers": [
+            "limestone",
+            "The limestone"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This type of rock can be intrusive, extrusive, and hypabyssal, depending on where and how fast the magma cools. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0593"
+    },
+    {
+      "id": "57827392-564f-49a3-a016-f62823851042",
+      "linkedTossupId": "4e6e8c78-a640-4242-93f2-b82cf285bcde",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these people who attacked the Byzantine-ruled Balkans under Bayan I. Maurice drove these people back to Pannonia but was overthrown by Phocas before he could fully crush them.",
+          "answer": "Avar",
+          "acceptableAnswers": [
+            "Avar",
+            "Obri",
+            "Abaroi",
+            "Varchonitai",
+            "The Avar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Dagobert I, a ruler of this dynasty, supported the successful Slavic revolt of Samo against the Avars. Childeric I and Clovis I founded this first Frankish dynasty.",
+          "answer": "Merovingian",
+          "acceptableAnswers": [
+            "Merovingian",
+            "Merovingians",
+            "Mérovingiens",
+            "prompt on long-haired kings",
+            "reges criniti",
+            "The Merovingian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After Samo's Empire collapsed, this Slavic principality emerged in modern-day Austria. This principality eventually became a Carolingian march against the Avars after Arnulf inherited it from his father, Carloman.",
+          "answer": "Carantania",
+          "acceptableAnswers": [
+            "Carantania",
+            "Carantanian March",
+            "Karantanien",
+            "Karantanija",
+            "accept March of Carinthia",
+            "accept Duchy of Carinthia",
+            "Herzogtum Kärnten",
+            "Vojvodina Koroška",
+            "accept Arnulf of Carinthia",
+            "The Carantania"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The defending general Bonus told his men to bang their shields and canteens to answer these people's war-drums during their siege of Sirmium. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "644932c99f0045ff841d6a4b"
+    },
+    {
+      "id": "64947536-1186-4bc1-9e58-9a36a5caab8f",
+      "linkedTossupId": "81a4fe4c-53c9-4f83-8913-afb6e48fa885",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with hypothalamic hormones.",
+          "answer": "hypothalamus",
+          "acceptableAnswers": [
+            "hypothalamus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hypothalamus in the endocrine system?",
+          "answer": "Hypothalamic hormones",
+          "acceptableAnswers": [
+            "Hypothalamic hormones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to hypothalamic hormones.",
+          "answer": "pituitary",
+          "acceptableAnswers": [
+            "pituitary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a45de109-4176-41b4-a2b1-21d8d7f4e9d8",
+      "linkedTossupId": "6bdf7224-2479-424a-99a4-05e7b2cc9374",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this novel in which Corporal Himmelstoss commands a group of German soldiers including the likes of Kat, Müller, Kropp, and Paul Bäumer.",
+          "answer": "All Quiet on the Western Front",
+          "acceptableAnswers": [
+            "All Quiet on the Western Front",
+            "Im Westen nichts Neues",
+            "The All Quiet on the Western Front"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "All Quiet on the Western Front was written by this German author whose other works include The Black Obelisk, Three Comrades, and Station at the Horizon.",
+          "answer": "Remarque",
+          "acceptableAnswers": [
+            "Remarque",
+            "The Remarque"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This character in All Quiet on the Western Front dies after his leg is amputated. While in the hospital, he is paranoid after his watch is stolen, and Müller receives his boots following his death.",
+          "answer": "Franz",
+          "acceptableAnswers": [
+            "Franz",
+            "either underlined name",
+            "The Franz"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Its character Tjaden features prominently in its sequel The Road Back. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d89a"
+    },
+    {
+      "id": "245692f2-20be-430f-9c7f-eb285500b91a",
+      "linkedTossupId": "a01805a9-97e1-496f-a3f0-29cae7e45ea6",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this early political party that often feuded with Thomas Jefferson's Democratic-Republicans.",
+          "answer": "Federalist",
+          "acceptableAnswers": [
+            "Federalist",
+            "The Federalist"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This series of Federalist meetings during the War of 1812, named for a certain New England city, saw discussion of New England states' secession from the union. This event ultimately disgraced the Federalists and led them to disband.",
+          "answer": "Hartford Convention",
+          "acceptableAnswers": [
+            "Hartford Convention",
+            "The Hartford Convention"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Federalist received a substantial share of the votes in the 1812 presidential election, though he lost to Madison. He was also governor of New York and he pushed for the construction of the Erie Canal.",
+          "answer": "D",
+          "acceptableAnswers": [
+            "D",
+            "Clinton"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Members of this party included Alexander Hamilton and John Adams. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df8012e66cc66ca571d194"
+    },
+    {
+      "id": "084cf463-1906-4aed-ad79-1a7bded8476b",
+      "linkedTossupId": "c669b18c-5f52-4db9-8b6d-57cfc40a7243",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "As a bishop, Talleyrand was part of the First Estate in the Estates General in 1789, at the outset of this periodof conflict. During this event, the Bastille was stormed and many nobles were executed by guillotine.",
+          "answer": "Revolution",
+          "acceptableAnswers": [
+            "Revolution",
+            "The Revolution"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The French Revolution ended with the rise of this friend of Talleyrand as First Consul of France. This manlater became the French Emperor.",
+          "answer": "Napoleon",
+          "acceptableAnswers": [
+            "Napoleon",
+            "The Napoleon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After Napoleon's downfall, the powers of Europe held this year-long meeting to create a new order ofEuropean power. Talleyrand represented the defeated French at this meeting.",
+          "answer": "Congress of Vienna",
+          "acceptableAnswers": [
+            "Congress of Vienna",
+            "The Congress of Vienna"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Give the following about French diplomat Charles-Maurice de Talleyrand, for ten points each.",
+      "source": "qbreader",
+      "sourceId": "6837af63278db02eb79f1cd0"
+    }
+  ]
+}

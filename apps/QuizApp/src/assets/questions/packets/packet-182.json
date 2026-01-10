@@ -1,0 +1,1159 @@
+{
+  "packetId": "packet-182",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Geography",
+    "Science",
+    "Fine Arts",
+    "Literature",
+    "Human Body",
+    "History",
+    "Philosophy"
+  ],
+  "tossups": [
+    {
+      "id": "5c3e370f-a577-4fb3-b741-32c3752fa8af",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "This nation's port cities include Valparaiso and Antofagasta, the latter of which was invaded for its nitrate and copper resources to begin the War of the Pacific. This country is home to Easter Island and the incredibly dry Atacama Desert, which lies in a rain shadow west of the Andes Mountains. This country's border with Argentina runs for 3,300 miles, north to south. For 10 points, name this South American country with capital at Santiago.",
+      "powerMarkPosition": 224,
+      "answer": "Chile",
+      "acceptableAnswers": [
+        "Chile",
+        "The Chile"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eaa0924256318acc2a"
+    },
+    {
+      "id": "a770c7ea-5214-4543-876f-3c0081e790d8",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "text": "Along with sulfido groups, a form of this compound binds to iron in Roussin Salts. This chemical is inefficiently produced by arcing electricity in the first step of the Birkeland-Eyde process, but more commonly from ammonia in the first step of many acid-producing processes such as HOKO and Hycon. Endothelium-derived relaxing factor is probably just this chemical, which is generated from L-arginine and NADPH. This chemical's biological functions include activating guanylate cyclase and increasing vasodilation; Viagra works through this chemical's signalling pathway. Catalytic converters serve to decompose this chemical into oxygen and nitrogen. For 10 points, name this diatomic chemical with formula NO.",
+      "powerMarkPosition": 299,
+      "answer": "Nitric Oxide",
+      "acceptableAnswers": [
+        "Nitric Oxide",
+        "NO before mention",
+        "accept \"Nitrosyl\" until \"arcing electricity\" do *not* accept \"nitrous oxide",
+        "\" \"nitrogen dioxide",
+        "\" \"nitrous acid",
+        "\"",
+        "\"nitric acid\"",
+        "The Nitric Oxide"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4cc6671d74a7752da65f"
+    },
+    {
+      "id": "e0013125-ec1b-4ca0-a36a-7367a31bc3ee",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "text": "In the second movement of the fifth of these works by this composer, chords in B minor transition into a D major theme introduced by a solo horn. That one of these works quotes in all four movements a motto theme taken from Glinka's A Life for the Tsar. A setting of the folk song \"I'm sowing some flowers, my little one\" appears in the finale of the first of them, which contains a movement called \"Land of Gloom, Land of Mists\", while the third takes its nickname from the final movement's polonaise-like rhythms. The final completed one contains a first-movement bassoon solo marked with six p's and a 5/4 second movement often described as a \"limping waltz\". For 10 points, name these orchestral works with such nicknames as \"Polish\", \"Winter Daydreams\", and \"Pathetique\", written by the Russian composer of Swan Lake.",
+      "powerMarkPosition": 491,
+      "answer": "symphonies",
+      "acceptableAnswers": [
+        "symphonies",
+        "word forms",
+        "prompt on partial answer",
+        "The symphonies"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34c57"
+    },
+    {
+      "id": "d171c1d2-8feb-41d4-8988-292d1ff00c40",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "This poet wrote of his inability to perform in bed with a beautiful girl in his poem \"Disappointment.\" He presented letters written in the characters of Helen, Dido and other legendary women in Heroines, and noted that \"the work of bards endures\" in his \"Elegy for Tibullus,\" written after the death of his comrade in Messalla's circle. His poem Fasti was half-finished in 8 CE, and was left unfinished in favor of the more plaintive Tristia and Letters from Pontis. For 10 points name this Roman poet of the Ars Amatoria and a work describing mythological transformations, the Metamorphoses.",
+      "powerMarkPosition": 336,
+      "answer": "Ovid",
+      "acceptableAnswers": [
+        "Ovid",
+        "The Ovid"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d432b1"
+    },
+    {
+      "id": "34681bff-36ee-4ca7-a014-4772dc6d0130",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for hypodermis function. It plays a key role in the integumentary system and is one of the most studied parts of human anatomy. For ten points, name this epidermis-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Epidermis",
+      "acceptableAnswers": [
+        "epidermis",
+        "Epidermis"
+      ],
+      "explanation": "The epidermis is a key component of the Integumentary system, involved in hypodermis function.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "269bddfe-1b20-41a3-923b-480f2c07013d",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "An underactive parathyroid gland will cause a low blood level of this substance. The sarcoplasmic reticulum stores ions of this mineral, which is needed for muscle contraction. Vitamin D assists the absorption of both phosphate and this element in the gut. Seniors may take a supplement of this element to prevent osteoporosis, and children often get their intake by drinking milk. For 10 points, name this element needed to build strong bones and teeth.",
+      "powerMarkPosition": 256,
+      "answer": "calcium",
+      "acceptableAnswers": [
+        "calcium",
+        "The calcium"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004f8e"
+    },
+    {
+      "id": "6d58157b-6807-4e94-8938-cba05ccc3dfa",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "Caterpillars known as phane (\"PAH-nih\") are often stewed with peanuts in this country, whose cuisine also includes a dish of salted, pounded beef and goat meat called seswaa. Over 300 elephants died in July 2020 near this country's town of Seronga after consuming water containing toxic algae. The 1911 Tati Concessions Land Act imposed under British colonial rule continues to impact the development of this country's city of Francistown. Chobe National Park and the Makgadikgadi (\"muh-KAH-dee-KAH-dee\") salt pans lie in the north of this country, southeast of the Okavango Delta. For 10 points, name this landlocked country containing the majority of the Kalahari Desert, a former British protectorate whose capital is Gaborone.",
+      "powerMarkPosition": 426,
+      "answer": "Botswana",
+      "acceptableAnswers": [
+        "Botswana",
+        "Republic of Botswana",
+        "Lefatshe la Botswana",
+        "The Botswana"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f1b8aed2b97d3109c683ed"
+    },
+    {
+      "id": "050f14d3-94db-4141-ae66-ba5da4fcd252",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "This location is home to a city containing red-hot tombs and glowing red mosques called Dis in one work. In that work, \"rounds\" in Cocytus, a part of this place, are named for Antenor and Ptolemy. In that work, the head of the archbishop Ruggieri is eaten by a resident of this location, Count Ugolino. The phrase \"Abandon all hope, ye who enter here\" is inscribed on the gates to this location. The unbaptized reside in Limbo, the first of this location's nine circles. For 10 points, Virgil and Dante visit what place in The Inferno, which is ruled by Satan?",
+      "powerMarkPosition": 326,
+      "answer": "Hell",
+      "acceptableAnswers": [
+        "Hell",
+        "Inferno before it is read",
+        "prompt on the underworld",
+        "do NOT accept",
+        "prompt on “Purgatory”",
+        "The Hell"
+      ],
+      "source": "qbreader",
+      "sourceId": "66e1bbb6b3ec1cfe3cd4a6aa"
+    },
+    {
+      "id": "71d741f7-5877-465e-b4c5-fd9b6b7ebd78",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "In one work by this author, a trucker named Alvaro acquires the title item to woo a widowed Sicilian woman named Serafina. In another work by this author, the suicide of Skipper leads to alcoholism for Brick, who reveals Big Daddy Pollitt's terminal cancer diagnosis. One character in a better known play by this author works at a St. Louis shoe factory with Jim O'Connor, whom he invites to dinner as a potential suitor for his shy, crippled sister, Laura Wingfield. For 10 points, name this American playwright of The Rose Tattoo, Cat on a Hot Tin Roof, and The Glass Menagerie.",
+      "powerMarkPosition": 267,
+      "answer": "Williams",
+      "acceptableAnswers": [
+        "Williams",
+        "The Williams"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0939"
+    },
+    {
+      "id": "ccf86d91-bab7-4dfd-bb6b-57696617c532",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "Sandie Byrne analyzed the poem \"Suttee\" as a rewriting of Southwell's Christmas poem \"The Burning Babe\" with this figure in place of the Christ child. In a poem addressed to this figure, the 25 year-old speaker claims to be \"dumbfounded afresh by [his] ignorance of the simplest things\" after buying a peach outside Charing Cross station. This figure is \"gold-jacketed, solid silver, nickel-tipped\" in a poem in which the speaker notes that \"your real target hid behind me.\" This person, who is compared to a bullet in the poem \"The Shot\", has a Veronica Lake bang in a poem that describes the author's first glimpse of a picture of this woman and her fellow \"Fulbright Scholars\" at Cambridge. The poem \"The Blue Flannel Suit\" describes the clothes this woman wore on her first day back teaching at Smith College, her alma mater. For 10 points, name this addressee of Ted Hughes' book Birthday Letters.",
+      "powerMarkPosition": 338,
+      "answer": "Plath",
+      "acceptableAnswers": [
+        "Plath",
+        "The Plath"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97422ce5"
+    },
+    {
+      "id": "25c0b15e-b890-4110-bd8e-935accbf8187",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "In 2017, ElektroCouture built a dress designed by this actor covered in LED crystals. A Smithsonian exhibition is titled for this actor's claim, \"I dress for the image. Not for myself, not for the public, not for fashion, not for men.\" Marilyn Monroe's dress for JFK's birthday was a close copy of a dress this actor wore during her 1950s Las Vegas residency. This Dior superfan used a cold reading technique she learned from Orson Welles on her highly popular USO tours. In a pre-code film, this actor performs \"When Love Dies\" in a men's tuxedo and kisses a female patron. Heinrich Mann's novel Professor Filth was adapted into a 1930 film in which this actor plays the cabaret singer Lola Lola. For 10 points, what German-born star of Morocco began a long collaboration with Josef von Sternberg on The Blue Angel?",
+      "powerMarkPosition": 533,
+      "answer": "Dietrich",
+      "acceptableAnswers": [
+        "Dietrich",
+        "The Dietrich"
+      ],
+      "source": "qbreader",
+      "sourceId": "67aece6996eae2aa19c6fd3b"
+    },
+    {
+      "id": "f949f166-53b9-48b9-87ae-923e959d8b10",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "This novel's protagonist escapes from slavery with Xury, whom he immediately sells as an indentured servant. While stranded near the Orinoco River, this novel's protagonist builds a house in a cave and rescues a man he names \"Friday\" from local cannibals. For 10 points, name this novel by Daniel Defoe in which the title sailor is returned to England after being shipwrecked for twenty-eight years on a deserted island.",
+      "powerMarkPosition": 224,
+      "answer": "Robinson Crusoe",
+      "acceptableAnswers": [
+        "Robinson Crusoe",
+        "The Life and Adventures of Robinson Crusoe of York",
+        "Mariner: Who Lived Eight and Twenty Years",
+        "All Alone in an Un-inhabited Island on the Coast of America",
+        "Near the Mouth of the Great River of Oroonoque",
+        "Having Been Cast on Shore by Shipwreck",
+        "Wherein All the Men Perished but Himself. With an Account how he was at last as Strangely Deliver’d by Pyrates. Written by Himself.",
+        "The Robinson Crusoe"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba9713f"
+    },
+    {
+      "id": "40a2b93b-a5ca-45c5-b700-afbbe3c2f13c",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "American soldiers headed to this place after the Battle of White Marsh. Baron von Steuben helped to train the Continental Army here for fighting the British. For 10 points, name this location in Pennsylvania where George Washington kept his forces during the harsh winter of 1777 and 1778.",
+      "powerMarkPosition": 71,
+      "answer": "Valley Forge",
+      "acceptableAnswers": [
+        "Valley Forge",
+        "The Valley Forge"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c7e5"
+    },
+    {
+      "id": "efd4f19d-5366-4a28-95cd-fbe482727ba1",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "The first steps towards creating this construct were taken by Sheldon Glashow's 1961 proposal of electroweak interactions, which were later proven during a 1973 experiment at CERN that discovered neutral weak currents caused by Z boson exchange. This theory accurately predicted the ratio of masses between W± and Z0 (\"w-plus-minus and zero-naught\") bosons discovered in 1983. This construct groups the four force carriers as gauge bosons but does not yet incorporate dark matter. For 10 points, name this model that, while categorizing the 13 fundamental particles, has been unable to account for all 4 fundamental forces.",
+      "powerMarkPosition": 306,
+      "answer": "Standard",
+      "acceptableAnswers": [
+        "Standard",
+        "The Standard"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144c03"
+    },
+    {
+      "id": "2fa92f44-a5a6-4d06-a5bf-4932352a40e7",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "text": "A pitcher named after this character is ejected from the Patriot League in Philip Roth's The Great American Novel. In a poem, this character likens surrender to drawing well water and then defeats King Akka. This character confides to an alewife how he refused to bury a body until a maggot exited its nose. This character builds 300 poles to cross the Waters of Death and becomes distraught after seven loaves of bread prove that he slumbered for a week. This character embarks on a journey to find the flood survivor Utanapishtim, and slays Humbaba with Enkidu. For 10 points, name this king of Uruk and namesake of a Sumerian epic.",
+      "powerMarkPosition": 397,
+      "answer": "Gilgamesh",
+      "acceptableAnswers": [
+        "Gilgamesh",
+        "Bilgames",
+        "The Gilgamesh"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab5aa"
+    },
+    {
+      "id": "9e0492cf-7c8b-4733-b215-44bde4cb4062",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "A prophecy mentioned in this book states that the \"ships of Kittim\" will come from the west to attack Assyria and Eber. In this book, many people die after being bitten by non-flying fiery serpents, so God orders the creation of a brazen serpent atop a pole and promises that bitten people who gaze upon it will live. This book is the first to relate how two men went to the high places of Peor, Pisgah, and Baal, offering seven altars at each of them. Samuel Morse took his phrase \"What hath God wrought\" from this book. A man first mentioned in this book refuses to curse the Israelites despite being ordered to do so by Balak, and mistreats his donkey until it is given the power of speech and complains. Of the twelve spies dispatched in this book, Caleb and Joshua report that Canaan is a land overflowing with milk and honey. The leprosy-afflicted Miriam and Aaron die in this book, in which Moses appoints Joshua his successor. For 10 points, name this fourth book of the Bible, which precedes Deuteronomy.",
+      "powerMarkPosition": 567,
+      "answer": "Numbers",
+      "acceptableAnswers": [
+        "Numbers",
+        "Arithmoi",
+        "Bemidbar",
+        "The Numbers"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed6a483fe041d20f4a4880"
+    },
+    {
+      "id": "572287fa-9c9f-483f-9af3-071b5cab2a7f",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "A group of people in this novel are divided into \"keepers\" and \"shredders\", the latter of which are \"quickly put away somewhere.\" In its epilogue, Professors Pieixoto and Knotly Wade examine a set of tapes. This novel's protagonist remembers the phrase \"close your eyes and think of England\" during The Ceremony. The protagonist has an affair with Nick, who claims to be a member of the Mayday Resistance while working for the Commander and televangelist Serena Joy. For 10 points, Offred lives in the Republic of Gilead in which novel by Margaret Atwood?",
+      "powerMarkPosition": 206,
+      "answer": "Handmaid’s Tale",
+      "acceptableAnswers": [
+        "Handmaid’s Tale",
+        "The Handmaid’s Tale"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0cd67"
+    },
+    {
+      "id": "ab8e93a5-f6a0-44e2-9af2-8f6b419aac93",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "Members of this faith undergo \"sealing\" to establish marriages, and their dietary restrictions follow those outlined in the Word of Wisdom. In this faith, members of the Melchizedek [MEL-KIZ-I-DECK] priesthood may attain membership in the First Presidency or the Quorum of the Twelve Apostles. Seer stones called Urim and Thummim [TOO-MIM] were used by this religion's founder to translate golden plates given to him by the Angel Moroni. Joseph Smith founded and Brigham Young led, for 10 points, what branch of Christianity, whose followers live primarily in Utah?",
+      "powerMarkPosition": 276,
+      "answer": "Mormon",
+      "acceptableAnswers": [
+        "Mormon",
+        "The Mormon"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7d85"
+    },
+    {
+      "id": "9147eff4-b86b-442b-ab71-ba00154736c7",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "open",
+      "text": "Description acceptable. This military force destroyed Spanish buildings in the Gallinas kingdom during an affair named for the washerwoman Fry Norman. Kosoko's resistance to this military force was used to justify the use of \"boiling cannons\" in a so-called \"reduction\" of his capital. A lieutenant in this force secured the release of an intended victim of the \"watering of the graves,\" Sarah Forbes Bonetta. The Black Joke was the most celebrated of the ships that served in this force. The actions of this military force created the Saro ethnic group and are documented by 70,000 \"registers\" housed at Fourah Bay College. This military force brought \"recaptives\" to a squalid holding area at King's Yard. The targets of this force were tried at Vice-Admiralty Courts in Freetown. For 10 points, name, or describe the purpose of, this 19th-century Royal Navy squadron that stopped ships leaving ports like Ouidah and Lagos.",
+      "powerMarkPosition": 535,
+      "answer": "Africa",
+      "acceptableAnswers": [
+        "Africa",
+        "Preventative Squadron",
+        "accept Blockade of Africa",
+        "accept descriptions of forces intended to suppress",
+        "police",
+        "abolish",
+        "patrol",
+        "end the Atlantic slave trade",
+        "to capture slave ships",
+        "to liberate slaves",
+        "prompt on Royal Navy",
+        "prompt on anti-slavery force",
+        "abolitionist force",
+        "The Africa"
+      ],
+      "source": "qbreader",
+      "sourceId": "66b83d7ae381fe913c42f982"
+    },
+    {
+      "id": "34d1747f-c6e6-4092-b443-fd57b6310a75",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "This man championed a domestic program termed the \"Square Deal.\" This president won the Nobel Peace Prize for negotiating the Treaty of Portsmouth, which ended the Russo-Japanese War. This president's administration saw the passage of the Pure Food and Drug Act and the creation of the National Park System. He ran for a third term with the Bull Moose Party. For 10 points, name this 26th President of the United States, the supposed namesake of a toy bear.",
+      "powerMarkPosition": 238,
+      "answer": "T",
+      "acceptableAnswers": [
+        "T"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b7d6"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "3093e579-d612-4a74-85d6-c4ead5b2b0a3",
+      "linkedTossupId": "5c3e370f-a577-4fb3-b741-32c3752fa8af",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this island located halfway between New York and New Jersey, home to the main historical immigration point for the East Coast.",
+          "answer": "Ellis",
+          "acceptableAnswers": [
+            "Ellis",
+            "The Ellis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Immigrants entering at Ellis Island would often see this structure while entering. A gift from France, this large green statue depicts a woman holding a tablet and a torch.",
+          "answer": "Liberty",
+          "acceptableAnswers": [
+            "Liberty",
+            "Liberty Enlightening the World",
+            "La Liberté éclairant le monde",
+            "The Liberty"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other island was known as the \"Ellis Island of the West.\" Located in California's San Francisco Bay, it saw most of its immigrants from China and Japan.",
+          "answer": "Angel",
+          "acceptableAnswers": [
+            "Angel",
+            "The Angel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "During the immigration boom of the late 19th and early 20th centuries, unrest in Europe led millions to go through this island to get to the United States. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a50442"
+    },
+    {
+      "id": "88b815b3-3e72-4058-8828-a700a965856f",
+      "linkedTossupId": "a770c7ea-5214-4543-876f-3c0081e790d8",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these substances, which do not demonstrate a linear relationship between shear stress and shear rate. Rheopectic or thixotropic behaviors are common properties.",
+          "answer": "non-Newtonian",
+          "acceptableAnswers": [
+            "non-Newtonian",
+            "The non-Newtonian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This type of non-Newtonian behavior describes substances that act as a rigid solid before a stress threshold is reached, at which point they flow as viscous fluids. Many slurries and pastes demonstrate this behavior.",
+          "answer": "Bingham",
+          "acceptableAnswers": [
+            "Bingham",
+            "The Bingham"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is a generalized model for non-Newtonian fluids that characterizes the behavior in terms of three parameters: a yield shear stress, the consistency, and a power law exponent also called the flow index.",
+          "answer": "Herschel-Bulkley",
+          "acceptableAnswers": [
+            "Herschel-Bulkley",
+            "The Herschel-Bulkley"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These include ketchup, blood, quicksand, and toothpaste. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4cc6671d74a7752da57e"
+    },
+    {
+      "id": "d3bcae99-3ae2-40d0-8417-d61280c404c7",
+      "linkedTossupId": "e0013125-ec1b-4ca0-a36a-7367a31bc3ee",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this painting which depicts three peasant women gathering the leftovers of the wheat harvest.",
+          "answer": "Gleaners",
+          "acceptableAnswers": [
+            "Gleaners",
+            "Des Galneuses",
+            "The Gleaners"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This realist painter of The Gleaners also painted Women Baking Bread.",
+          "answer": "Millet",
+          "acceptableAnswers": [
+            "Millet",
+            "The Millet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Millet's L'Angelus, a farmer and his can be seen praying next to a small wheelbarrow containing this crop. A family of five is gathered for dinner under a lamp in a Vincent van Gogh painting where it is being consumed.",
+          "answer": "potato",
+          "acceptableAnswers": [
+            "potato",
+            "The potato"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A small man on a horse to the right of this painting oversees his workers. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fe2f"
+    },
+    {
+      "id": "8f7244dd-1776-4db7-9dfa-2837fe6b5462",
+      "linkedTossupId": "d171c1d2-8feb-41d4-8988-292d1ff00c40",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "What type of feeling of inadequacy has been grouped into a namesake \"complex\" in which a person might use a number of strategies to fight those feelings of low self-worth?",
+          "answer": "inferiority",
+          "acceptableAnswers": [
+            "inferiority",
+            "The inferiority"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Austrian psychologist emphasized inferiority in his writings on \"individual psychology.\"",
+          "answer": "Adler",
+          "acceptableAnswers": [
+            "Adler",
+            "The Adler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One major difference between Freud and Adler was the latter's de-emphasis of the libido, the drive for this activity.",
+          "answer": "sex",
+          "acceptableAnswers": [
+            "sex",
+            "The sex"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One psychologist argued that people will try compensate mentally for physical disabilities in a study of this concept. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0ceb9"
+    },
+    {
+      "id": "09c5cd30-1901-4a0a-bdbe-ffcc7d9293e2",
+      "linkedTossupId": "34681bff-36ee-4ca7-a014-4772dc6d0130",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with gastric secretions.",
+          "answer": "esophagus",
+          "acceptableAnswers": [
+            "esophagus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the esophagus in the digestive system?",
+          "answer": "Gastric secretions",
+          "acceptableAnswers": [
+            "Gastric secretions"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to gastric secretions.",
+          "answer": "peristalsis",
+          "acceptableAnswers": [
+            "peristalsis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "b5601aba-7844-4e66-b39c-7f74efb7bc40",
+      "linkedTossupId": "269bddfe-1b20-41a3-923b-480f2c07013d",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this red planet which is the fourth planet from the Sun. The asteroid belt is located between it and Jupiter.",
+          "answer": "Mars",
+          "acceptableAnswers": [
+            "Mars",
+            "The Mars"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This moon of Mars is predicted to eventually collide with it and create a planetary ring. It is named after the Greek personification of fear, and is the larger of the two Martian moons",
+          "answer": "Phobos",
+          "acceptableAnswers": [
+            "Phobos",
+            "The Phobos"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mars is home to the Valles Marineris, a giant one of these geological formations several miles deep. It is believed to have been carved by water in the distant past.",
+          "answer": "canyon",
+          "acceptableAnswers": [
+            "canyon",
+            "valleys",
+            "The canyon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Opportunity, Spirit, and Curiosity were rovers which visited this planet. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ec40"
+    },
+    {
+      "id": "1d0b8409-0241-4165-bcdc-bad5fb7fa6ac",
+      "linkedTossupId": "6d58157b-6807-4e94-8938-cba05ccc3dfa",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this island in the Susquehanna River where a nuclear power plant meltdown led to the discharge of 40,000 gallons of radioactive waste water in March 1979.",
+          "answer": "Three Mile",
+          "acceptableAnswers": [
+            "Three Mile",
+            "The Three Mile"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The first usable nuclear power was produced in this city on the Snake River. This city east of Craters of the Moon national monument was also the site of the only fatal nuclear accident in US history.",
+          "answer": "Idaho Falls",
+          "acceptableAnswers": [
+            "Idaho Falls",
+            "The Idaho Falls"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Idaho Falls is the largest city in this county. This county shares its name with a dam located forty miles east of Portland on the Columbia River, and with a Utah location where people like to set ground-speed records.",
+          "answer": "Bonneville",
+          "acceptableAnswers": [
+            "Bonneville",
+            "The Bonneville"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This site was named for its location relative to Middletown, Pennsylvania. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faab19"
+    },
+    {
+      "id": "c4bf565f-6a3b-4a0b-bcce-7c94ee0759ad",
+      "linkedTossupId": "050f14d3-94db-4141-ae66-ba5da4fcd252",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this legendary womanizer, the title character of a satirical poem in 17 cantos.",
+          "answer": "Don Juan",
+          "acceptableAnswers": [
+            "Don Juan",
+            "The Don Juan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of Don Juan and \"She Walks in Beauty\" wrote \"The Assyrian came down like a wolf on the fold\" in \"The Destruction of Sennacherib.\" He died after fighting in the Greek War of Independence.",
+          "answer": "Byron",
+          "acceptableAnswers": [
+            "Byron",
+            "The Byron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Due to the scandalous nature of his poetry, Lord Byron was denied a memorial in this church's Poet's Corner for nearly 150 years. This church is the site of British coronations.",
+          "answer": "Westminster",
+          "acceptableAnswers": [
+            "Westminster",
+            "The Westminster"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man from Seville begins an affair with the married Donna Julia, who is sent to a nunnery after they are discovered by Julia's husband. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e9a0924256318acb56"
+    },
+    {
+      "id": "f0b9b792-9785-4166-b4cf-acf91286b00a",
+      "linkedTossupId": "71d741f7-5877-465e-b4c5-fd9b6b7ebd78",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this poem in which the speaker's \"vegetable love should grow vaster than empires.\"",
+          "answer": "To His Coy Mistress",
+          "acceptableAnswers": [
+            "To His Coy Mistress",
+            "The To His Coy Mistress"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "To His Coy Mistress was written by this British metaphysical poet who also wrote The Garden and \"Upon Appleton House.\"",
+          "answer": "Marvell",
+          "acceptableAnswers": [
+            "Marvell",
+            "The Marvell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Andrew Marvell helped this other poet after he became blind from glaucoma. He had earlier written poems such as \"Lycidas\" and \"Paradise Regained\" and the play Samson Agonistes.",
+          "answer": "Milton",
+          "acceptableAnswers": [
+            "Milton",
+            "The Milton"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It starts with \"Had we but world enough, and time, / This coyness, Lady, were no crime.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0c9f"
+    },
+    {
+      "id": "d11b81cf-2cab-44c4-8c18-6a7c9b413589",
+      "linkedTossupId": "ccf86d91-bab7-4dfd-bb6b-57696617c532",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this troupe led by Peter Schumann, which often performs at radical protests with ten foot high paper mache dolls.",
+          "answer": "Bread and Puppet",
+          "acceptableAnswers": [
+            "Bread and Puppet",
+            "The Bread and Puppet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the 1960s, this playwright started El Teatro Campesino to promote Chicano theatre in the United States. His plays include Los Vendidos and Zoot Suit.",
+          "answer": "Valdez",
+          "acceptableAnswers": [
+            "Valdez",
+            "The Valdez"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The 1960s also saw the founding of the Black Arts Movement by this playwright of The Slave and Dutchman.",
+          "answer": "Baraka",
+          "acceptableAnswers": [
+            "Baraka",
+            "LeRoi Jones",
+            "The Baraka"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This group parodied Uncle Sam as \"Uncle Fatso\" and depicted Jesus and his disciples in captivity to protest the Vietnam War. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae7fa7"
+    },
+    {
+      "id": "0cd1af3d-282b-4a05-84f8-a1c8edf76beb",
+      "linkedTossupId": "25c0b15e-b890-4110-bd8e-935accbf8187",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name Rococo composer, who was known as the \"wife of Haydn.\" He composed many string quintets, including \"Night Music of the Streets of Madrid\" and one that includes a celebrated minuet.",
+          "answer": "Boccherini",
+          "acceptableAnswers": [
+            "Boccherini",
+            "The Boccherini"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Boccherini was a virtuoso of this string instrument, and composed many concertos for it. Modern players of this instrument include Mstislav Rostropovich and Jacqueline du Pre.",
+          "answer": "cello",
+          "acceptableAnswers": [
+            "cello",
+            "The cello"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Boccherini's fourth guitar quintet includes one of these lively Spanish dances in its final movement. One of these pieces in D minor is sometimes attributed to Antonio Soler.",
+          "answer": "fandango",
+          "acceptableAnswers": [
+            "fandango",
+            "The fandango"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This composer's fourth symphony is nicknamed \"House of the Devil.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae8d24"
+    },
+    {
+      "id": "4a950e9d-de5a-4407-ac32-03ce8f0355a7",
+      "linkedTossupId": "f949f166-53b9-48b9-87ae-923e959d8b10",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Irish capital city.",
+          "answer": "Dublin",
+          "acceptableAnswers": [
+            "Dublin",
+            "The Dublin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of Dubliners also wrote about Stephen Dedalus in A Portrait of the Artist as a Young Man.",
+          "answer": "Joyce",
+          "acceptableAnswers": [
+            "Joyce",
+            "The Joyce"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This James Joyce novel uses stream-of-consciousness to follow a day in the life of Leopold Bloom. This novel's title and plot evoke a legendary hero's long journey home from the Trojan War.",
+          "answer": "Ulysses",
+          "acceptableAnswers": [
+            "Ulysses",
+            "The Ulysses"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The stories \"Araby\" and \"The Dead\" are included in a short story collection set in this city. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004ccc"
+    },
+    {
+      "id": "c3a824c7-d277-41fe-a834-cecc8a6ef8bb",
+      "linkedTossupId": "40a2b93b-a5ca-45c5-b700-afbbe3c2f13c",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this nonviolent civil rights organization, founded by Martin Luther King, Jr., which attempted to desegregate Birmingham, Alabama, causing Bull Connor to use fire hoses on them.",
+          "answer": "SCLC",
+          "acceptableAnswers": [
+            "SCLC",
+            "The SCLC"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The SCLC's first convention was held in this city in 1957, which two years earlier saw a 381-day bus boycott that was touched off by Rosa Parks refusing to give up her seat.",
+          "answer": "Montgomery",
+          "acceptableAnswers": [
+            "Montgomery",
+            "The Montgomery"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A series of marches from this Alabama city to Montgomery resulted in attacks on marchers with billy clubs and tear gas on the Edmund Pettis Bridge.",
+          "answer": "Selma",
+          "acceptableAnswers": [
+            "Selma",
+            "The Selma"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Shifting its focus to poverty in the late 1960s, this organization's first activities included supporting the Citizenship schools and the Albany movement. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4396b"
+    },
+    {
+      "id": "509deacd-758d-483b-a9e9-e0187e1300cb",
+      "linkedTossupId": "efd4f19d-5366-4a28-95cd-fbe482727ba1",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name either of these two values plotted against humidity on a psychrometric chart. These values converge to the dew point at 100% humidity.",
+          "answer": "wet-bulb temperature",
+          "acceptableAnswers": [
+            "wet-bulb temperature",
+            "WBT",
+            "DBT",
+            "prompt on temperature",
+            "The wet-bulb temperature"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Wet-bulb and dry-bulb temperatures are measured simultaneously on a sling psychrometer, which is operated in this unusual fashion. Performing this action quickly equilibrates the thermometers on the psychrometer. A description is acceptable.",
+          "answer": "whirling",
+          "acceptableAnswers": [
+            "whirling",
+            "answers indicating the user using their arm to rapidly spin",
+            "fling a device on a handle",
+            "prompt on waving",
+            "other actions which do not incorporate a rotating component",
+            "The whirling"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The wet-bulb temperature reflects the cooling effect of this phase transition. This process occurs below the boiling point as energetic molecules escape the water's surface to become gaseous.",
+          "answer": "evaporation",
+          "acceptableAnswers": [
+            "evaporation",
+            "vaporization",
+            "The evaporation"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These values are customarily measured using an instrument either wrapped in a sock or not. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d9801af67c8a6f6e0b420a"
+    },
+    {
+      "id": "62be4ff8-caae-469d-bcf4-a8dec24c2b49",
+      "linkedTossupId": "2fa92f44-a5a6-4d06-a5bf-4932352a40e7",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Nname this poem about a character who strikes out, leading to \"no joy in Mudville.\"",
+          "answer": "Casey at the Bat",
+          "acceptableAnswers": [
+            "Casey at the Bat",
+            "The Casey at the Bat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "DeWolf Hopper first performed \"Casey at the Bat\" live in front of the New York Giants and a baseball team from this city. This midwest city is called \"Hog Butcher for the World\" in a Carl Sandburg poem.",
+          "answer": "Chicago",
+          "acceptableAnswers": [
+            "Chicago",
+            "The Chicago"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This poet praised 24 \"Baseball Immortals\" in \"Line-Up For Yesterday.\" He wrote \"I think that I shall never see / A billboard lovely as a tree\" in \"Song of the Open Road,\" which parodies a Joyce Kilmer poem.",
+          "answer": "Nash",
+          "acceptableAnswers": [
+            "Nash",
+            "The Nash"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "\"A sickly silence\" falls upon fans at the end of this poem's first stanza. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68d80886f2b1f8e7f391338c"
+    },
+    {
+      "id": "5f60c85f-cd2c-41c8-9dda-af189dda97a0",
+      "linkedTossupId": "9e0492cf-7c8b-4733-b215-44bde4cb4062",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this man from Tarsus who changed his name after being blinded on the road to Damascus.",
+          "answer": "Paul",
+          "acceptableAnswers": [
+            "Paul",
+            "Saul",
+            "The Paul"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "According to Galatians, Paul and Peter engaged in a debate over whether gentiles should be required to follow Jewish laws known as the \"Incident at\" this city. Its namesake school championed a more literal reading of the bible than the Alexandria School.",
+          "answer": "Antioch",
+          "acceptableAnswers": [
+            "Antioch",
+            "The Antioch"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "First Timothy, Second Timothy, and Titus form this group of Pauline epistles, which are thought to have been written after his death.",
+          "answer": "pastoral",
+          "acceptableAnswers": [
+            "pastoral",
+            "The pastoral"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He supported himself by making tents and took many journeys with Barnabas. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cf9dc5"
+    },
+    {
+      "id": "62099f78-f65d-48ef-8983-3898a2d7cae4",
+      "linkedTossupId": "572287fa-9c9f-483f-9af3-071b5cab2a7f",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this classic Chinese novel, in which Song Jiang leads a group of rebels consisting of 108 heavenly spirits and earthly fiends.",
+          "answer": "Water Margin",
+          "acceptableAnswers": [
+            "Water Margin",
+            "Shui Hu Zhuan",
+            "All Men Are Brothers",
+            "accept",
+            "but DO NOT OTHERWISE REVEAL",
+            "Outlaws of the Marsh",
+            "The Water Margin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The 108 Stars of Destiny gather around one of these locations around Mount Liang. The title Water Margin is alternatively translated as Outlaws of one of these locations.",
+          "answer": "marsh",
+          "acceptableAnswers": [
+            "marsh",
+            "Outlaws of the Marsh",
+            "The marsh"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Despite suffering no casualties in their previous campaigns, 68 of the 108 Stars of Destiny die in their campaign against this rebel. This man's own hierarchy includes Four Great Marshals and Eight Valiant Riders.",
+          "answer": "Fang La",
+          "acceptableAnswers": [
+            "Fang La",
+            "Fang",
+            "The Fang La"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this novel, Chao Gai is not included in the Stars of Destiny despite being one of its founders, as he dies before the Grand Assembly can take place. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32c8153c44a298923c148"
+    },
+    {
+      "id": "452b03c2-7cf6-42de-b601-dae75c3076f6",
+      "linkedTossupId": "ab8e93a5-f6a0-44e2-9af2-8f6b419aac93",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this holiday celebrated from December 26 to January 1 every year, ending with a feast of faith called Karamu Ya Imani. This holiday was developed as an annual celebration of African-American culture.",
+          "answer": "Kwanzaa",
+          "acceptableAnswers": [
+            "Kwanzaa",
+            "The Kwanzaa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A common symbol of Kwanzaa, the kinara, features seven of these objects to represent the seven principles of Kwanzaa. In Judaism, nine of these objects are placed on the menorah during Hanukkah.",
+          "answer": "candle",
+          "acceptableAnswers": [
+            "candle",
+            "The candle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Kwanzaa began as an alternative to this holiday, because Karenga believed Jesus to be psychotic. However, many people practice both Kwanzaa and this holiday, which is on the day before Kwanzaa starts, December 25.",
+          "answer": "Christmas",
+          "acceptableAnswers": [
+            "Christmas",
+            "Feast of the Nativity",
+            "The Christmas"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Maulana Karenga created this holiday during the aftermath of the Watts riots in 1966. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a50353"
+    },
+    {
+      "id": "05b79531-8907-4b86-8af6-e9c226ce5240",
+      "linkedTossupId": "9147eff4-b86b-442b-ab71-ba00154736c7",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these Mesoamerican people who built the cities of Palenque (\"pah-LEN-kay\"), Calakmul (\"KAH-lock-mool\"), and Tikal.",
+          "answer": "Maya",
+          "acceptableAnswers": [
+            "Maya",
+            "Mayans",
+            "accept K’iche",
+            "Yucatec Maya",
+            "The Maya"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Altar Q lists this city's King Eighteen Rabbit, who built a \"living mountain\" for sacrifices and was beheaded by its rival city of Quirigua. This city was ruled by the Yax Kuk Mo dynasty and allied with Tikal against Calakmul.",
+          "answer": "Copán",
+          "acceptableAnswers": [
+            "Copán",
+            "The Copán"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Other colorfully-named kings from Maya records include Spearthrower Owl, who conquered Tikal while leading this non-Maya city. The Pyramids of the Sun and Moon are near this city's Avenue of the Dead.",
+          "answer": "Teotihuacan",
+          "acceptableAnswers": [
+            "Teotihuacan",
+            "The Teotihuacan"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Archaeologists call one king of these people Casper, since they haven't yet deciphered his name glyph, which resembles Casper the Friendly Ghost. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6504a58456efcb4952c4ea16"
+    },
+    {
+      "id": "fae7bae0-e559-492c-b970-119f8f2e62ef",
+      "linkedTossupId": "34d1747f-c6e6-4092-b443-fd57b6310a75",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this social cause which sought to ban the consumption of beverages like beer, rum, and bourbon in the United States.",
+          "answer": "temperance",
+          "acceptableAnswers": [
+            "temperance",
+            "prohibitionist movement",
+            "accept teetotalism",
+            "accept any descriptive answers like banning alcoholic drinks",
+            "The temperance"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Carrie Nation, a radical temperance activist, was infamous for violently attacking saloons and bars using one of these weapons to destroy kegs of alcohol.",
+          "answer": "hatchet",
+          "acceptableAnswers": [
+            "hatchet",
+            "axes",
+            "The hatchet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During the prohibition era, this Chicago gangster built an empire on the sale of illegal alcohol, a practice known as bootlegging. Nicknamed \"Scarface\", this perpetrator of the St. Valentine's Day Massacre would later be jailed at Alcatraz after his conviction for tax evasion.",
+          "answer": "Capone",
+          "acceptableAnswers": [
+            "Capone",
+            "Alphonse [Gabriel",
+            "The Capone"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The primary goals of this social cause were achieved through the passing of the Volstead Act and the 18th Amendment. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae0ba"
+    }
+  ]
+}

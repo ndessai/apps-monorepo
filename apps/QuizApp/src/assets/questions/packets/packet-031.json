@@ -1,0 +1,1125 @@
+{
+  "packetId": "packet-031",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "Literature",
+    "History",
+    "Philosophy",
+    "Geography",
+    "Social Science",
+    "Fine Arts",
+    "Human Body"
+  ],
+  "tossups": [
+    {
+      "id": "dec5ab04-cef6-4e76-99a8-6c9a4083db2d",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "This statement was discovered due to the non-commutativity of matrices. It was discovered at Niels Bohr's institute, and first laid out in a letter to Wolfgang Pauli. This statement is equivalent mathematically to the statement that a function and its Fourier transform cannot both be highly localized.The modern form of this statement is sigma sub x times sigma sub p is greater than or equal to h-bar on 2, but it was stated during a lecture in Chicago by its discoverer in the less specific form of delta x times delta p is greater than or equal to h. It was laid out in a thought experiment known as this statement's discoverer's microscope. For 10 points, name this statement, which says that one cannot determine both the speed and position of a particle to a high accuracy in the same instant.",
+      "powerMarkPosition": 396,
+      "answer": "uncertainty principle",
+      "acceptableAnswers": [
+        "uncertainty principle",
+        "The uncertainty principle"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eea92bec6a16249648949c"
+    },
+    {
+      "id": "97863172-ac50-4a98-a64a-4a94a8f60af6",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "text": "This male figure requires a character who has undergone 80 ordeals to undergo one more ordeal on his way home to experience the \"nine nines.\" A character visits this figure's home on Vulture Peak to request his help in subduing a six-eared macaque. This figure punishes his second disciple, the Golden Cicada, with reincarnation after he sleeps during this man's sermon. A character graffitis and urinates on a bronze pillar that turns out to be this man's finger, after which this man imprisons that character, the Monkey King, under a mountain for 500 years. Near the end of a novel, this man gives scriptures to the monk Tang Sanzang, who is a reincarnation of a follower of this man. For 10 points, name this religious figure whose realm is the goal of the Journey to the West.",
+      "powerMarkPosition": 456,
+      "answer": "Buddha",
+      "acceptableAnswers": [
+        "Buddha",
+        "Siddhartha Gautama",
+        "Gautama Buddha",
+        "Shakyamuni Buddha",
+        "accept Tathagata Buddha",
+        "Rulai Fo",
+        "prompt on Siddhartha",
+        "Shakyamuni",
+        "Tathagata",
+        "Rulai",
+        "The Buddha"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae849f"
+    },
+    {
+      "id": "3cb8a786-a7b6-44c0-96ec-a1f01d7da27c",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "During this event, William Hodson killed three princes at the Bloody Gate, and one cause of this event was the annexation of Awadh due to Lord Dalhousie's \"Doctrine of Lapse.\" This conflict saw battles at Kanpur and Jhansi, and during this conflict Henry Havelock and Colin Campbell managed to relieve the siege on Lucknow, where Henry Lawrence had previously died. One side in this conflict was aided by Bahadur Shah II, the last Mughal emperor. Another cause of this event was the use of ammunition lubricated with pork and beef fat, which insulted the native Muslim and Hindu population. For 10 points, identify this 1857 event in which Indian soldiers rebelled against the British East India Company.",
+      "powerMarkPosition": 430,
+      "answer": "Sepoy",
+      "acceptableAnswers": [
+        "Sepoy",
+        "The Sepoy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a7f8"
+    },
+    {
+      "id": "3221fda0-b505-4f87-8b24-8ba899bc6219",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "Near the horse latitudes, this biome's conditions can be modeled as atmospheric circulations called Hadley cells. Plants in this biome have adaptations like succulence, which protect them from aridity. Organisms in this biome include the aloe and the cactus, and examples of them in the world are the Gobi and Sahara. For 10 points, name this barren biome with few plant and animal life and little precipitation.",
+      "powerMarkPosition": 237,
+      "answer": "desert",
+      "acceptableAnswers": [
+        "desert",
+        "The desert"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e1475"
+    },
+    {
+      "id": "af2af3d6-5088-40af-b05e-8b9bbd9d9740",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "One section in this work states that human action is based on the \"passions,\" while another divides justice into \"commutative\" and \"distributive\" types. This work asserts that imagination is \"nothing but decaying sense\" and posits that a strong central government is needed to prevent disorder, which the author defined with the motto bellum omnium contra omnes. Containing sections titled \"Of Man\" and \"Of Commonwealth,\" it states that life is \"solitary, poor, nasty, brutish and short.\" For 10 points, name this work that favors an absolute monarchy, a work by Thomas Hobbes.",
+      "powerMarkPosition": 362,
+      "answer": "Leviathan",
+      "acceptableAnswers": [
+        "Leviathan",
+        "The Leviathan"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e44fc160c522c60cc7af25"
+    },
+    {
+      "id": "317d7855-22d3-4601-aac4-b6427e4e1455",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "One city named for this person contains a clock tower similar to the Vauxhall Clock in London and is located on Mahe Atoll. Another city of this name is home to Beacon Hill Park and the historic Fairmont Empress Hotel. That same city with this name is also home to the second-oldest Chinatown in North America, and is located at the northern end of the Strait of Juan de Fuca. A mountain named for this person can be reached by the Peak Tram and offers views of a harbor also named for this person, which separates the Kowloon Peninsula from Hong Kong Island. In 1868, Henry Morton Stanley discovered that a lake of this name was the primary source of the White Nile River. For 10 points, name this 19th-century monarch who names both the Australian state with capital at Melbourne, and the largest lake in Africa.",
+      "powerMarkPosition": 518,
+      "answer": "Victoria",
+      "acceptableAnswers": [
+        "Victoria",
+        "Lake Victoria",
+        "The Victoria"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52803"
+    },
+    {
+      "id": "58a986a2-2ff2-4b4c-b0b4-7a97f9da18ba",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "This man discussed the development of religion in The Future of an Illusion and discussed the pressure of societal expectations in Civilization and its Discontents. This man described the conflict between Thanatos and Eros in Beyond the Pleasure Principle. This psychologist wrote about \"Irma's Injection\" in The Interpretation of Dreams, and in another work, he described The Ego and the Id. For 10 points, name this psycho-analyst who proposed that an urge to destroy one's father was part of an \"Oedipus complex.\"",
+      "powerMarkPosition": 225,
+      "answer": "Freud",
+      "acceptableAnswers": [
+        "Freud",
+        "The Freud"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3114afad1e88c874a2e57"
+    },
+    {
+      "id": "373144a2-9e83-4b42-baa5-de5dd0e7f36f",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "Two answers required. One of these cities agreed to partition the other city's lands with Louis XII in the Treaty of Blois (\"blwah\"). A treaty between these two cities that set their border at the Adda River established forty years of peace through the Most Holy League. Pope Alexander VI arranged an alliance named for one of these cities after the other invited Charles VIII to invade Naples. Thirty years of war between these two cities ended with the Treaty of Lodi. One of these cities was granted to Francis I after the War of the League of Cambrai, which began as a coalition against the other. A condottiero conspired with one of these city's Council of Ten to betray the other city's Ambrosian Republic found after the end of Visconti rule. For 10 points, name these cities ruled respectively by doges of the Dandolo family and dukes of the Sforza family.",
+      "powerMarkPosition": 394,
+      "answer": "Venice",
+      "acceptableAnswers": [
+        "Venice",
+        "Venezia in place of “Venice”",
+        "accept Milano in place of “Milan”",
+        "The Venice"
+      ],
+      "source": "qbreader",
+      "sourceId": "67aec9f66f064eb7c48bbe3f"
+    },
+    {
+      "id": "a803d2f4-cfcf-4d31-b476-f3806545879c",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "This novel's opening paragraph is replaced with a word noting the recent slaughter of 18 people in a 2009 adaptation. A man in this novel forces an issue by saying \"You are too generous to trifle with me... one word from you will silence me on this subject forever\" while alluding to sentiments from \"last April,\" and earlier meditates on the pleasure bestowed by the \"fine eyes\" of a woman he adores. In a key scene in this novel, a man says \"In vain I have struggled. It will not do\" during a proposal. A 2016 film adapts Seth Grahame-Smith's version of this novel, which introduces undead to its plot. A bachelor's move to Netherfield Park begins the plot of this novel, which notes \"It is a truth universally acknowledged\" that certain men \"must be in want of a wife.\" For 10 points, Mr. Bingley marries Jane and Fitzwilliam marries Elizabeth in what Jane Austen novel?",
+      "powerMarkPosition": 442,
+      "answer": "Pride and Prejudice",
+      "acceptableAnswers": [
+        "Pride and Prejudice",
+        "Pride and Prejudice and Zombies",
+        "The Pride and Prejudice"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a8749"
+    },
+    {
+      "id": "13580602-45e0-4cad-9fd7-07ccb7d705c8",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "In one novel set in this location, the owner of a shirt-collar factory in the fictional city of Lycurgus meets his nephew bellboy, Clyde Griffiths. A character born in this location works for the corrupt Einhorn, lives with the rich Renlings, and has an affair with the Greek hotel maid Sophie. This is also where Thea Kronborg moves in The Song of the Lark. Hurstwood and Caroline Meeber live in this city in one novel, and it's the setting of Theodore Dreiser's Sister Carrie. Saul Bellow's protagonist Augie March is born in, for ten points, what Illinois city?",
+      "powerMarkPosition": 327,
+      "answer": "Chicago",
+      "acceptableAnswers": [
+        "Chicago",
+        "The Chicago"
+      ],
+      "source": "qbreader",
+      "sourceId": "646fffa69d2ba7804333f869"
+    },
+    {
+      "id": "fdfc1b0c-b9fd-432b-bfa2-af1d0c199383",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "In 2011, a director from this country hired neo-Nazis to destroy a massive film set called The Institute which existed as a fully functional community in which using words that didn't exist before the 1960s was forbidden. That set was built for a still-unreleased film starring non-professional actors like Marina Abramovic and the conductor Teodor Currentzis, entitled Dau. A director from this modern-day country is nicknamed \"The Golden Snail\" because of how long it's taking him to complete a passion project he started in 1981. That director is best known for his animated shorts Hedgehog in the Fog and Tale of Tales. For 10 points, name this modern-day country home to Yuri Norshteyn, who is still working on his adaptation of Nikolai Gogol's \"The Overcoat.\"",
+      "powerMarkPosition": 439,
+      "answer": "Russia",
+      "acceptableAnswers": [
+        "Russia",
+        "The Russia"
+      ],
+      "source": "qbreader",
+      "sourceId": "640020a88d3cf1e72e2346e0"
+    },
+    {
+      "id": "eae79ef3-4f73-49dd-9919-1ac539fc9e58",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "In Edgar Lee Masters's Spoon River Anthology, a character with this first name overdoses on morphine, having married a sixty-five year old man to provide a father for her unborn child. Another character of this name is the beloved of Proteus in Two Gentlemen of Verona, and Childe Harold arrives in Germany and finds true love in a character of this name. The eighteen-year-old news director of Radio Panamerica falls in love with a woman of this name, while yet another character with this name is a member of the Anti-Sex League and elopes with her lover in Mr. Charrington's antique shop. For 10 points, give this name which is paired with the Scriptwriter in a Mario Vargas Llosa novel and names Winston Smith's lover in 1984.",
+      "powerMarkPosition": 355,
+      "answer": "Julia",
+      "acceptableAnswers": [
+        "Julia",
+        "The Julia"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d442e1"
+    },
+    {
+      "id": "a8f6a786-d512-4653-87ac-ed14ebfaed26",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "open",
+      "text": "Summaries of this historian comprise most of the Prodigiorum liber (\"proh-dee-gee-OH-rum LEE-bear\") of Julius Obsequens. Quintilian praised the \"milky\" style of this historian, who rebuts his contemporary Timagenes in a digression which claims that Rome would have defeated a longer-lived Alexander the Great. This historian's work is often cross-checked against his contemporary Dionysius of Halicarnassus. Asinius Pollio criticized this man's use of provincial terms as \"patavinity\" in reference to his hometown of Patavium. A text called the Periochae (\"peh-ree-OH-kye\") summarizes this historian's work, which includes an oft-disputed account of Cincinnatus returning to his farm. This historian's major work, of which about a quarter survives, spans the seven centuries from when Aeneas landed in Latium to the reign of Augustus. For 10 points, what author of Ab Urbe Condita inspired some Machiavelli discourses?",
+      "powerMarkPosition": 471,
+      "answer": "Livy",
+      "acceptableAnswers": [
+        "Livy",
+        "Titus Livius",
+        "prompt on Patavinus before “Patavinity”",
+        "The Livy"
+      ],
+      "source": "qbreader",
+      "sourceId": "68aa6f7feb7f936a9a15e4a7"
+    },
+    {
+      "id": "cff2aca9-e13f-465d-a4a7-1e94fc15726d",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "The Wei Kingdom-era mathematician Liu Hui estimated the value of this constant with a ninety-six-sided polygon. Euler's identity [OY-ler's identity] relates this constant to e, i, one, and zero. One-third height times the radius squared times this constant equals the volume of a cone. For 10 points, name this constant, the ratio of a circle's circumference to its diameter, approximated \"three-point-one-four.\"",
+      "powerMarkPosition": 221,
+      "answer": "pi",
+      "acceptableAnswers": [
+        "pi"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba97233"
+    },
+    {
+      "id": "10a9c5e9-1b63-47a4-91ca-9f20d6ba16e7",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for sympathetic vs parasympathetic. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this cranial nerve-related structure.",
+      "powerMarkPosition": 100,
+      "answer": "Cranial nerve",
+      "acceptableAnswers": [
+        "cranial nerve",
+        "Cranial nerve"
+      ],
+      "explanation": "The cranial nerve is a key component of the Nervous system, involved in sympathetic vs parasympathetic.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "2a6bde3c-31c5-45fc-ba3f-79be5ab74001",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "In this country in 2002, a French stuntman cycled at a world-record 107 miles per hour down the gravel slopes of the active volcano of Cerro Negro. This country contains the Western Hemisphere's second-largest rainforest, the Bosawás Biosphere Reserve. This country's citizens use the term \"mar dulce,\" meaning \"sweet sea,\" to refer to a body of water upon which the Concepción and Maderas volcanoes formed the island of Ometepe (\"OM-ay-TEP-ay\"). A Dutch pirate names this country's city of Bluefields. A waterfall on the Tipitapa River prevents the migration of bull sharks out of this country's primary lake. This is the southernmost of the two countries whose eastern shores were called the \"Mosquito Coast.\" For 10 points, what country contains Central America's largest lake and Lake Managua?",
+      "powerMarkPosition": 446,
+      "answer": "Nicaragua",
+      "acceptableAnswers": [
+        "Nicaragua",
+        "Republic of Nicaragua",
+        "República de Nicaragua",
+        "accept Lake Nicaragua",
+        "Lago de Nicaragua",
+        "The Nicaragua"
+      ],
+      "source": "qbreader",
+      "sourceId": "63682fe4906588de785564ed"
+    },
+    {
+      "id": "382c524b-5c9c-4066-a0da-1736d53c0214",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "One title character created by this man gains a superhuman memory after falling off a horse. Another of this man's title characters is a French author who \"translates\" Don Quixote by copying the original. This author of \"Pierre Menard\" also set a short story in a series of hexagonal rooms. This author of \"Funes the Memorious\" and \"The Library of Babel\" wrote about a spy named Yu Tsun who conveys the location of an artillery park by murdering a man named Albert. For 10 points, name this Argentinean author who included \"The Garden of Forking Paths\" in his collection Ficciones.",
+      "powerMarkPosition": 204,
+      "answer": "Borges",
+      "acceptableAnswers": [
+        "Borges",
+        "The Borges"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0ba71"
+    },
+    {
+      "id": "f80a2e77-c2f4-455c-aca5-f66a1c5c755a",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for posterior pituitary hormones. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this hypothalamus-related structure.",
+      "powerMarkPosition": 100,
+      "answer": "Hypothalamus",
+      "acceptableAnswers": [
+        "hypothalamus",
+        "Hypothalamus"
+      ],
+      "explanation": "The hypothalamus is a key component of the Endocrine system, involved in posterior pituitary hormones.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "49b7fbff-45d0-43ea-bdb2-4d88d239ef67",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "The author declares, \"I am gall, I am heartburn\" in a poem described by this adjective that begins, \"I wake and feel the fell of dark, not day\". Another poem described by this adjective addresses the title concept as a \"hard thing\" that \"fills / His crisp combs, and that comes those ways we know\". \"Patience\" and \"To Seem the Stranger\" are two of a set of poems described by this adjective, another of which mentions how \"Fury had shrieked, 'No lingering!'\" and ends by stating, \"all / Life death does end and each day dies with sleep\" . The poet states, \"Despair, not feast on thee\" in a poem described by this adjective that ends with the author wrestling with God and is part of a set of six sonnets titled for this word by Gerald Manley Hopkins.. Sylvia Plath's \"The Munich Mannequins\" begins by claiming that \"Perfection is [this adjective]\" because \"it cannot have children.\" For 10 points, a \"beauty\" described by what adjective \"is born\" in W. B. Yeats' \"Easter, 1916\"?",
+      "powerMarkPosition": 506,
+      "answer": "terrible",
+      "acceptableAnswers": [
+        "terrible",
+        "terrible sonnets",
+        "The terrible"
+      ],
+      "source": "qbreader",
+      "sourceId": "68d80a0f17de87dadfd2299a"
+    },
+    {
+      "id": "70246ac3-9073-4ca5-85f9-f0728e0af807",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "This poet wrote of a boy \"who'd never heard / Of any world in which promises were kept, / Or one could weep because another wept\". This author wrote that \"all the instruments agree the day of his death was a dark cold day\" in a poem eulogizing a fellow poet. One poem by him features the refrain: \"She looked over his shoulder\". Another poem by this author talks of \"dense commuters\" who come \"from the conservative dark into the ethical life\", and \"ironic points of light\" that \"flash out wherever the Just exchange their messages\". That poem begins \"in one of the dives on Fifty-Second Street\" and says: \"we must love one another or die\". For 10 points, name this poet of \"The Shield of Achilles\", \"In Memory of W.B. Yeats\", and \"September 1, 1939\".",
+      "powerMarkPosition": 372,
+      "answer": "Auden",
+      "acceptableAnswers": [
+        "Auden",
+        "Wystan Hugh Auden",
+        "The Auden"
+      ],
+      "source": "qbreader",
+      "sourceId": "63052605c887e5458fc3321e"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "b3448887-1b7f-4a74-806e-efb355ba54f2",
+      "linkedTossupId": "dec5ab04-cef6-4e76-99a8-6c9a4083db2d",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this theory that describes the lower genetic variation observed in small groups that splinter off a larger population, the result of inbreeding among the colony population.",
+          "answer": "Founder",
+          "acceptableAnswers": [
+            "Founder",
+            "The Founder"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of Systematics and the Origin of Species advocated the founder effect within the genetics community, using the work of geneticists such as Sewall Wright.",
+          "answer": "Mayr",
+          "acceptableAnswers": [
+            "Mayr",
+            "The Mayr"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mayr created this theory of speciation, a form of allopatric speciation in which one population is much smaller than the other.",
+          "answer": "peripatric",
+          "acceptableAnswers": [
+            "peripatric",
+            "The peripatric"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It has been observed among Easter Islanders and Pitcairn Island natives. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0bca6"
+    },
+    {
+      "id": "bd412548-c8d9-4341-a9c8-11b48f087dcb",
+      "linkedTossupId": "97863172-ac50-4a98-a64a-4a94a8f60af6",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Irish dramatist and member of the Theatre of the Absurd. He created the characters of Hamm and Clov in his apocalyptic Endgame.",
+          "answer": "Beckett",
+          "acceptableAnswers": [
+            "Beckett",
+            "The Beckett"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Most famously, Beckett wrote this play about Vladimir and Estragon, who spend two days doing random things like meeting the pompous Pozzo and discussing suicide. The title character never shows up.",
+          "answer": "Waiting for Godot",
+          "acceptableAnswers": [
+            "Waiting for Godot",
+            "The Waiting for Godot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The set for Waiting for Godot notably features only a single item, which the main characters wait next to. Name that object.",
+          "answer": "tree",
+          "acceptableAnswers": [
+            "tree",
+            "The tree"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An old man listens to old recordings and eats several bananas in this author's Krapp's Last Tape. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a29b7"
+    },
+    {
+      "id": "3ca5b456-38cc-4758-888a-94a74f9f73e5",
+      "linkedTossupId": "3cb8a786-a7b6-44c0-96ec-a1f01d7da27c",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this 1919 Supreme Court case, whose decision stated that \"falsely shouting fire in a theater\" and causing a \"clear and present danger\" were not protected by the First Amendment.",
+          "answer": "Schenck",
+          "acceptableAnswers": [
+            "Schenck",
+            "U.S. v. Schenck",
+            "The Schenck"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Though this 1925 case, arising from a brouhaha over the Communist newspaper The Revolutionary Age, expanded the range of punishable speech to include anything with a \"bad tendency,\" it also held, for the first time, that the First Amendment restricted state governments.",
+          "answer": "Gitlow",
+          "acceptableAnswers": [
+            "Gitlow",
+            "New York v. Gitlow",
+            "The Gitlow"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The gradual legal process of ruling that elements of the Bill of Rights were binding on states is known by this name. In April 2009, a Ninth Circuit ruling found, for the first time, that this phenomenon applied to the Second Amendment.",
+          "answer": "incorporation",
+          "acceptableAnswers": [
+            "incorporation",
+            "word forms",
+            "The incorporation"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "T-Bonus 1. It was brought by the general secretary of the Socialist Party, who had been convicted of violating the Espionage Act by distribution anti-war leaflets. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841a6a"
+    },
+    {
+      "id": "b803bdb7-ab39-4784-8dd4-51811c75738a",
+      "linkedTossupId": "3221fda0-b505-4f87-8b24-8ba899bc6219",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this dwarf planet that was demoted from being one of the original 9 planets in 2006, but was visited by a recent NASA mission.",
+          "answer": "Pluto",
+          "acceptableAnswers": [
+            "Pluto",
+            "The Pluto"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This NASA probe visited Pluto in July 2015 and provided the first high-resolution images of Pluto's surface. Its mission will continue as it flies into the Kuiper Belt.",
+          "answer": "New Horizons",
+          "acceptableAnswers": [
+            "New Horizons",
+            "The New Horizons"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A large bright white section of nitrogen ice and other brightly reflective material makes up the \"regio\" on Pluto that was named for this astronomer who first discovered Pluto in 1930.",
+          "answer": "Tombaugh",
+          "acceptableAnswers": [
+            "Tombaugh",
+            "The Tombaugh"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The moons Nyx and Hydra were photographed in orbit around this astronomical body in July 2015. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b78e"
+    },
+    {
+      "id": "0552fb2d-88fd-4478-b6ff-845500e13ab2",
+      "linkedTossupId": "af2af3d6-5088-40af-b05e-8b9bbd9d9740",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this author of Science and Health with Key to the Scriptures. Phineas Quimby treated this theologian using mesmerism.",
+          "answer": "Eddy",
+          "acceptableAnswers": [
+            "Eddy",
+            "The Eddy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Eddy founded this church in 1879. This church publishes The Monitor, a weekly newsletter, and offers prayer spaces in reading rooms, which function both as libraries and bookstores.",
+          "answer": "Christian Science",
+          "acceptableAnswers": [
+            "Christian Science",
+            "Church of Christ",
+            "Scientist",
+            "First Church of Christ",
+            "The Christian Science"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Christian Science teaches that this ritual is an individual spiritual experience rather than the more common version involving immersion in water. John performed this ritual on Jesus in the Jordan River.",
+          "answer": "baptism",
+          "acceptableAnswers": [
+            "baptism",
+            "word forms such as getting baptized",
+            "The baptism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Mark Twain proclaimed this theologian to be \"the most interesting woman who ever lived\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66423ff2515f1173a58a2781"
+    },
+    {
+      "id": "c8ca9124-e001-4825-b2c5-cb4c999def6a",
+      "linkedTossupId": "317d7855-22d3-4601-aac4-b6427e4e1455",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this smallest of the three Baltic States. It lies north of both Latvia and Lithuania.",
+          "answer": "Estonia",
+          "acceptableAnswers": [
+            "Estonia",
+            "The Estonia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Estonian capital of Tallinn lies on this gulf, an eastern extension of the Baltic Sea. It is named for a Scandinavian country whose capital is Helsinki.",
+          "answer": "Finland",
+          "acceptableAnswers": [
+            "Finland",
+            "The Finland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Estonia's eastern border is largely defined by this lake, which served as the setting for the 1242 Battle of the Ice after freezing over. Estonia shares this lake with neighboring Russia.",
+          "answer": "Peipus",
+          "acceptableAnswers": [
+            "Peipus",
+            "The Peipus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This country owns the islands of Saaremaa and Hiiumaa, and contains a university established by Gustavus Adolphus in Tartu. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b524fc"
+    },
+    {
+      "id": "8cc970e2-929c-47c7-b9d9-f52c9cdb6192",
+      "linkedTossupId": "58a986a2-2ff2-4b4c-b0b4-7a97f9da18ba",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this economic phenomenon that occurs when the quantity of money in an economy increases. In this phenomenon, money loses some of its value, forcing sellers of goods and services to increase prices.",
+          "answer": "inflation",
+          "acceptableAnswers": [
+            "inflation",
+            "The inflation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the United States, this index measures inflation by calculating the change in price of a \"basket\" of representative goods and services, such as food, clothing, and rent.",
+          "answer": "Consumer Price",
+          "acceptableAnswers": [
+            "Consumer Price",
+            "The Consumer Price"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the United States, the Federal Reserve System controls inflation by adjusting this interest rate, the rate that banks charge each other for overnight loans of money held at the Federal Reserve.",
+          "answer": "federal funds",
+          "acceptableAnswers": [
+            "federal funds",
+            "The federal funds"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "If contractually-guaranteed pay raises are \"pegged\" to this concept, it can cause a \"wage spiral\" that increases the speed at which this phenomenon occurs. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac98e"
+    },
+    {
+      "id": "70a1d9ad-c59c-403c-8272-cee5a7d6d793",
+      "linkedTossupId": "373144a2-9e83-4b42-baa5-de5dd0e7f36f",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Give this surname shared by Caribbean politicians Norman and Michael, a father and son who both led the People's National Party.",
+          "answer": "Manley",
+          "acceptableAnswers": [
+            "Manley",
+            "Norman Washington Manley",
+            "Michael Norman Manley",
+            "The Manley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Both Norman and Michael Manley led this Caribbean country, which succeeded from the West Indies Federation due to tensions about being its largest member.",
+          "answer": "Jamaica",
+          "acceptableAnswers": [
+            "Jamaica",
+            "Jumieka",
+            "The Jamaica"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Michael Manley's term as prime minister was influenced by his rivalry with this successor of Alexander Bustamante as head of the Jamaica Labour Party.",
+          "answer": "Seaga",
+          "acceptableAnswers": [
+            "Seaga",
+            "Edward Philip George Seaga",
+            "The Seaga"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One politician of this name resigned after his country succeeded from the West Indies Federation in a referendum, leading to the federation's dissolution. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6574dd379e75c9fcbfec818b"
+    },
+    {
+      "id": "fc68e2b0-8ca9-4189-8685-47f19c31998a",
+      "linkedTossupId": "a803d2f4-cfcf-4d31-b476-f3806545879c",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this novel about the meddling Miss Woodhouse, a work by Jane Austen that is also one of the editor's favorite novels.",
+          "answer": "Emma",
+          "acceptableAnswers": [
+            "Emma",
+            "The Emma"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Emma eventually marries this brother-in-law whom she realizes she loves only after Harriet becomes attracted to him. He owns the estate of Donwell and is rumoured, at one point, to be interested in Jane Fairfax.",
+          "answer": "Knightley",
+          "acceptableAnswers": [
+            "Knightley",
+            "The Knightley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Emma earlier convinces Harriet that this man is in love with her--a mistake since it turns out he loves Emma instead. Emma rejects his proposal of marriage and he soon after weds the obnoxious Augusta Hawkins.",
+          "answer": "Elton",
+          "acceptableAnswers": [
+            "Elton",
+            "The Elton"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The author feared that she had created \"a heroine whom no one but myself will much like\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6ee2cbd63208bfe550"
+    },
+    {
+      "id": "2a6f5d27-fb97-4689-b6cd-2fad5f30b4cc",
+      "linkedTossupId": "13580602-45e0-4cad-9fd7-07ccb7d705c8",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Russian poet who wrote The Bronze Horseman as well as a poem in which the title antihero is rejected by Tatyana, Eugene Onegin.",
+          "answer": "Pushkin",
+          "acceptableAnswers": [
+            "Pushkin",
+            "The Pushkin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After flirting with Olga, Eugene Onegin shoots Lensky in one of these events. Pushkin himself was killed in one of these events, which were usually fought to settle so-called \"affairs of honor.\"",
+          "answer": "duel",
+          "acceptableAnswers": [
+            "duel",
+            "The duel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Russian writer described a duel fought on the edge of a cliff by Pechorin and Grushnitsky in his novel A Hero of Our Time.",
+          "answer": "Lermontov",
+          "acceptableAnswers": [
+            "Lermontov",
+            "The Lermontov"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a poem by this author, Eugene escapes a flood by sitting on a marble lion, from which he sees the title statue. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c61193497be"
+    },
+    {
+      "id": "27e5b520-d8d4-4bfe-b38f-ade43b68aad0",
+      "linkedTossupId": "fdfc1b0c-b9fd-432b-bfa2-af1d0c199383",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this dancer who eschewed rigid ballet technique for a free-flowing style, earning both praise and scorn during a career that ended when her scarf met the spokes of an automobile wheel.",
+          "answer": "Duncan",
+          "acceptableAnswers": [
+            "Duncan",
+            "The Duncan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Isadora Duncan got her start touring Europe thanks to this American-born pioneer of modern dance and theater lighting, whose Serpentine Dance, as captured by the Lumière brothers, exemplified her groundbreaking productions at the Folies Bergere.",
+          "answer": "Fuller",
+          "acceptableAnswers": [
+            "Fuller",
+            "The Fuller"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Isadora Duncan is the subject of over 5,000 drawings by Abraham Walkowitz, a member of this artist's namesake \"Quartet\" along with Arthur Dove, Marsden Hartley, and John Marin. This artist started the magazine Camera Work.",
+          "answer": "Stieglitz",
+          "acceptableAnswers": [
+            "Stieglitz",
+            "The Stieglitz"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This woman wore a signature Greek tunic while performing. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1b85"
+    },
+    {
+      "id": "43f226e6-e937-4508-be4c-5a6a593011b7",
+      "linkedTossupId": "eae79ef3-4f73-49dd-9919-1ac539fc9e58",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this reclusive poet from Amherst, whose other opening lines include \"Because I could not stop for Death, He kindly stopped for me.\"",
+          "answer": "Dickinson",
+          "acceptableAnswers": [
+            "Dickinson",
+            "The Dickinson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One Dickinson poem asks \"Who are you?\" after declaring that she is this title figure. This narrator dreads being \"public, like a frog.\"",
+          "answer": "nobody",
+          "acceptableAnswers": [
+            "nobody",
+            "The nobody"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This American modernist wrote \"You who desired so much--in vain to ask\" in \"To Emily Dickinson.\" \"Powhatan's Daughter\" and \"Cape Hatteras\" are among 15 sections of his long poem The Bridge.",
+          "answer": "Crane",
+          "acceptableAnswers": [
+            "Crane",
+            "The Crane"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Opening lines of her untitled quatrains include \"I taste a liquor never brewed\" and \"I heard a Fly buzz -- when I died --.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b367"
+    },
+    {
+      "id": "d37ded2d-9094-4e8e-9dd9-e2605e0d5706",
+      "linkedTossupId": "a8f6a786-d512-4653-87ac-ed14ebfaed26",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this commander of the Russian Baltic Sea fleet during World War I. He was proclaimed supreme ruler of Russia after a coup toppled the previous leadership of the Whites in the Russian Civil War.",
+          "answer": "Kolchak",
+          "acceptableAnswers": [
+            "Kolchak",
+            "The Kolchak"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Kolchak's government was located in this western Siberian city, which had great strategic importance due to its location at the meeting of the Trans-Siberian Railroad and the Irtysh River.",
+          "answer": "Omsk",
+          "acceptableAnswers": [
+            "Omsk",
+            "The Omsk"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Kolchak was turned over to the Bolsheviks by the Legion from this nascent country, which seized much of the Trans-Siberian Railroad during the civil war. Its first independent president was Tomas Masaryk.",
+          "answer": "Czechoslovakia",
+          "acceptableAnswers": [
+            "Czechoslovakia",
+            "The Czechoslovakia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A split between this man and the Socialist Revolutionaries led to many of the latter becoming reconciled with the Bolsheviks. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4cc6671d74a7752da6cf"
+    },
+    {
+      "id": "a10fe5d0-db0d-4213-bbfe-e7610fcd562a",
+      "linkedTossupId": "cff2aca9-e13f-465d-a4a7-1e94fc15726d",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this quantity that represents the factor by which a machine multiplies the applied force or torque. It is often increased by simple machines.",
+          "answer": "mechanical advantage",
+          "acceptableAnswers": [
+            "mechanical advantage",
+            "MA",
+            "actual mechanical advantage",
+            "The mechanical advantage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These simple machines come in three classes. Examples of them include see-saws and crowbars.",
+          "answer": "lever",
+          "acceptableAnswers": [
+            "lever",
+            "The lever"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a class one lever, this point is found between the load and applied force. It is the point on which a lever can pivot.",
+          "answer": "fulcrum",
+          "acceptableAnswers": [
+            "fulcrum",
+            "The fulcrum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The \"actual\" type of it can be calculated by dividing the output force by the input force. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec6719"
+    },
+    {
+      "id": "20f22dd5-e1e6-4e27-9567-e007c1ac94b1",
+      "linkedTossupId": "10a9c5e9-1b63-47a4-91ca-9f20d6ba16e7",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with adrenal cortex hormones.",
+          "answer": "adrenal",
+          "acceptableAnswers": [
+            "adrenal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the adrenal in the endocrine system?",
+          "answer": "Adrenal cortex hormones",
+          "acceptableAnswers": [
+            "Adrenal cortex hormones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to adrenal cortex hormones.",
+          "answer": "cortisol",
+          "acceptableAnswers": [
+            "cortisol"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "bbd1f897-60de-44b0-9081-f56dc45e0378",
+      "linkedTossupId": "2a6bde3c-31c5-45fc-ba3f-79be5ab74001",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this river. It is known as the Nine Dragons River in Vietnam, which contains the mouth of this river.",
+          "answer": "Mekong",
+          "acceptableAnswers": [
+            "Mekong",
+            "The Mekong"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Mekong flows through the major port of Phnom Penh, the capital of this country home to the Khmer people and the Angkor Wat complex.",
+          "answer": "Cambodia",
+          "acceptableAnswers": [
+            "Cambodia",
+            "The Cambodia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Mekong is connected to this \"great lake\" of Cambodia by a namesake river that flows in both directions throughout the year. This lake swells to more than triple its size during the wet season and provides the majority of Cambodia's fish.",
+          "answer": "Tonlé Sap",
+          "acceptableAnswers": [
+            "Tonlé Sap",
+            "The Tonlé Sap"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Three Rivers Nature Reserve in the Tibetan Plateau contains the headwaters of the three longest Asian rivers: the Yangtze, the Yellow, and this river. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f2d45f2ad3e45a654f2ce7"
+    },
+    {
+      "id": "86eb8d21-fbbf-4958-826d-9224e605a149",
+      "linkedTossupId": "382c524b-5c9c-4066-a0da-1736d53c0214",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this 1891 novel about a woman who loves Angel Clare.",
+          "answer": "Tess of the D'Urbervilles",
+          "acceptableAnswers": [
+            "Tess of the D'Urbervilles",
+            "The Tess of the D'Urbervilles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Wessex novelist wrote Tess of the D'Urbervilles and The Mayor of Casterbridge.",
+          "answer": "Hardy",
+          "acceptableAnswers": [
+            "Hardy",
+            "The Hardy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tess is arrested after sleeping on a slab near this pre-historic circle of standing stones near Salisbury.",
+          "answer": "Stonehenge",
+          "acceptableAnswers": [
+            "Stonehenge",
+            "The Stonehenge"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A former milkmaid is arrested at the end of this novel for her murder of Alec, who raped her. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636eee00"
+    },
+    {
+      "id": "786deffa-cea3-41e1-81ee-4c8bae84ab86",
+      "linkedTossupId": "f80a2e77-c2f4-455c-aca5-f66a1c5c755a",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with vaccines and immunization.",
+          "answer": "vaccine",
+          "acceptableAnswers": [
+            "vaccine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the vaccine in the immune system?",
+          "answer": "Vaccines and immunization",
+          "acceptableAnswers": [
+            "Vaccines and immunization"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to vaccines and immunization.",
+          "answer": "allergy",
+          "acceptableAnswers": [
+            "allergy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "2074117f-031d-4df7-8ecb-8ad05ae32ba1",
+      "linkedTossupId": "49b7fbff-45d0-43ea-bdb2-4d88d239ef67",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this play in which Vivie exclaims \"I don't want a mother; and I don't want a husband\" in a climactic confrontation with her mother, who is revealed to have made her money operating brothels.",
+          "answer": "Mrs. Warren’s Profession",
+          "acceptableAnswers": [
+            "Mrs. Warren’s Profession",
+            "The Mrs. Warren’s Profession"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author wrote about the \"New Woman\" Vivie Warren in Mrs. Warren's Profession. He also wrote Pygmalion.",
+          "answer": "Shaw",
+          "acceptableAnswers": [
+            "Shaw",
+            "The Shaw"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Shaw explored the \"New Woman\" archetype in Mrs. Warren's Profession, Widowers's Houses, and The Philanderers, a trilogy that he grouped under this name. This sequence was followed by a trilogy featuring Arms and the Man, then his \"Plays for Puritans.\"",
+          "answer": "Unpleasant",
+          "acceptableAnswers": [
+            "Unpleasant",
+            "The Unpleasant"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the \"Author's Apology\" that precedes this play, the author discusses accusations that it is indecent and advocated for prostitution. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edc5411249c9578b2abf1c"
+    },
+    {
+      "id": "1a2144a2-bdf8-46ca-acb4-b0b8ae0f729b",
+      "linkedTossupId": "70246ac3-9073-4ca5-85f9-f0728e0af807",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this eighteenth-century author, known to contemporaries as \"Doctor,\" who wrote Rasselas and compiled short biographies and criticisms of authors in Lives of the Most Eminent English Poets.",
+          "answer": "Johnson",
+          "acceptableAnswers": [
+            "Johnson",
+            "The Johnson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Samuel Johnson wrote an influential version of this type of work, one of which was compiled by Noah Webster.",
+          "answer": "dictionary",
+          "acceptableAnswers": [
+            "dictionary",
+            "The dictionary"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This friend of Samuel Johnson traveled with him to the Hebrides and wrote the long biography Life of Johnson.",
+          "answer": "Boswell",
+          "acceptableAnswers": [
+            "Boswell",
+            "The Boswell"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one of this man's works, the title character escapes with his sister, her attendant, and a poet to seek adventure and happiness, but he eventually just returns to Abyssinia. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dee085"
+    }
+  ]
+}

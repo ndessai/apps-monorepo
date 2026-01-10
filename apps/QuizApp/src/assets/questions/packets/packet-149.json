@@ -1,0 +1,1142 @@
+{
+  "packetId": "packet-149",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Social Science",
+    "Human Body",
+    "Geography",
+    "Literature",
+    "Science",
+    "Philosophy",
+    "History"
+  ],
+  "tossups": [
+    {
+      "id": "9e976f7c-5d07-49e0-ad02-9a6a18d21e10",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "A 2004 paper by Jiwoong Shin and Dan Ariely used \"games\" named for these objects to assess the \"effect of unavailability on incentives to keep options viable.\" Two effects that name these objects were coined in a study that first asked one group to post a small slogan sign and the other group to sign a petition. Two types of these objects name \"criteria\" for assessing confounding bias in Judea Pearl's causal diagrams. Due to a passage about a friend between two of these objects in a post office in The Design of Everyday Things, objects that incorrectly signal how to be used are named for Donald Norman. A method of making a large request so that a smaller one will seem reasonable is named for one of these objects \"in the face,\" as contrasted with a small-request-first technique named for a \"foot in\" one of them. For 10 points, three of what objects form the central focus of the Monty Hall problem?",
+      "powerMarkPosition": 421,
+      "answer": "door",
+      "acceptableAnswers": [
+        "door",
+        "door games",
+        "accept front-door path criteria",
+        "accept back-door path criteria",
+        "accept Norman doors",
+        "accept door-in-the-face technique",
+        "accept foot-in-the-door technique",
+        "accept answers indicating a doorknob",
+        "door handle",
+        "prompt on knob",
+        "handle by asking “What sort of object is that attached to?”",
+        "prompt on paths by asking “What object is in that path?”",
+        "prompt on entrances",
+        "The door"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ede294c53e50a051363539"
+    },
+    {
+      "id": "e5b0d26c-a8b5-4576-9db8-eff4957dc15c",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for layers of the heart wall. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this atrium-related structure.",
+      "powerMarkPosition": 98,
+      "answer": "Atrium",
+      "acceptableAnswers": [
+        "atrium",
+        "Atrium"
+      ],
+      "explanation": "The atrium is a key component of the Cardiovascular system, involved in layers of the heart wall.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ab17154a-5a72-41c9-aff9-6fe0b81a95c3",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "An early tourism boom in this mountain range occurred after the death of the Willey family in an 1826 landslide. The first aerial tram and first mountain cog railway in the U.S. both ascend peaks in this range. I-93 becomes the only Interstate to have only two lanes while passing through this range's Franconia Notch. This range contains summits called \"four-thousand footers,\" one of which has notoriously bad weather, holding the record for the highest wind speed observed by man. A granite formation in this range that resembled a face collapsed in 2003. This range was home to the Old Man of the Mountain, and its highest peak is Mount Washington. For 10 points, name this mountain range in New Hampshire.",
+      "powerMarkPosition": 455,
+      "answer": "White",
+      "acceptableAnswers": [
+        "White",
+        "Presidential Range",
+        "prompt on Appalachian Mountains",
+        "The White"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d89ba331ac830c09a6af88"
+    },
+    {
+      "id": "a10ec359-d4aa-4eb4-9097-60cd92ec891c",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "This author wrote a four-book essay collection about human progress since the Renaissance which includes the work \"The Abstract Universe,\" in which he describes the elevation of reason to god status. He wrote the collection Heterodoxy and praised art as \"the only means to reintegrate man's divided self\" in his important essay \"The Writer and his Phantoms.\" In one work that includes a \"movement\" called The Dragon and the Princess, Fernando's \"Report on the Blind\" is discovered after he is shot by his daughter who has an affair with Martin, Alejandra Vidal Olmos. In the best known work written by his author of On Heroes and Tombs, a blind man named Allende is married to a possible whore María Iribarne, which leads the deranged artist Juan Pablo Castel to kill her. For 10 points, this modern Argentinean author who penned The Tunnel.",
+      "powerMarkPosition": 567,
+      "answer": "Sabato",
+      "acceptableAnswers": [
+        "Sabato",
+        "The Sabato"
+      ],
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfaa9e"
+    },
+    {
+      "id": "82444874-52ab-41e9-9d0a-55847034c0aa",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "Along with the histamine granules found in mast cells, this structure is one of few that is stained by hematoxylin, making it basophilic. Plasmogamy in fungi may result in multiple of these structures. This structures contains complexes known as Cajal bodies. The sieve tube cells of vascular tissue lack these, and they are notably absent in erythrocytes. A common cloning procedure inserts one of these structures into a specially prepared egg cell. The disappearance of this structure's namesake \"envelope\" marks the end of prophase. For 10 points, identify this organelle which houses DNA.",
+      "powerMarkPosition": 342,
+      "answer": "Nucleus",
+      "acceptableAnswers": [
+        "Nucleus",
+        "The Nucleus"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b522f7"
+    },
+    {
+      "id": "b83a94b8-20ef-4cf6-a250-2876c7daa7fc",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "One poem by this author closes \"The self-same power that brought me here brought you\" and is addressed to a \"rival of the rose\" and \"purple shrub\" that the narrator finds in a forest. A different poem by this author is set \"On this green bank, by this soft stream\" where a votive stone is put down. He wrote a poem about a creature that meditates on \"the fate of the man-child the meaning of man\" before asking \"Who'll tell me my secret?\" This author of \"The Sphinx\" created a speaker who holds the title objects to the sun and states \"they are drops of frozen wine [that] from Eden's vats that run.\" In addition to writing \"Rubies\" and \"The Rhodora,\" he set another of his poems \"by the rude bridge that arched the flood ... where once, the embattled farmers stood and fired the shot heard round the world.\" For 10 points, identify this poet of \"The Concord Hymn,\" who also wrote \"Self-Reliance\" and \"The Oversoul.\"",
+      "powerMarkPosition": 322,
+      "answer": "Emerson",
+      "acceptableAnswers": [
+        "Emerson",
+        "The Emerson"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f33042333cf2cfbd44ad71"
+    },
+    {
+      "id": "b3b073ce-89dc-4e71-860c-530423802b0c",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "This religion's scriptures include the four books of Athlyi, which form the Holy Piby, as well as The Promise Key. Its members reject \"-isms\" and use words such as livification, overstanding, and upfulness. Ingesting shellfish, pork, or alcohol is prohibited because they turn the temple of the body into a cemetery, according to its diet, called I-tal. Its holidays include \"reasonings,\" and adherents are taught to reject \"Babylon\" and that corruption can be burned out of the heart by smoking ganja, or cannabis. For 10 points, name this religion whose prophets include Marcus Garvey, which believes that Jah, or God, took the form of Haile Selassie.",
+      "powerMarkPosition": 206,
+      "answer": "Rasta",
+      "acceptableAnswers": [
+        "Rasta",
+        "The Rasta"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fe15"
+    },
+    {
+      "id": "a6e9ca89-c282-4ca4-8760-a1a1f8fa707c",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "One conflict in this country saw the Duke of Guise fight for the throne with two other men named Henry. This country signed the Evian Accords in 1962 with Algeria. In the 8th century, this was the site where Charles Martel was victorious at the Battle of Tours. This country was led by Nicolas Sarkozy until the 2012 elections. For 10 points, name this country once led by Charles de Gaulle.",
+      "powerMarkPosition": 285,
+      "answer": "France",
+      "acceptableAnswers": [
+        "France",
+        "The France"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c506"
+    },
+    {
+      "id": "04757e7d-11e0-4423-95d5-518d28600cdd",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "After his ship, the Vixen, was captured by imperial authorities, the explorer James Stanislaus Bell became an advisor to tribes of this ethnicity. A folk etymology for this ethnic group's name for a series of conflicts, Tsitsekun, links it to a general who fought against them. An ethnically German officer collected the heads of these people to send to academic colleagues during his brutal campaign against them. Authors like Christoph Meiners and Johann Friedrich Blumenbach popularized an anthropological classification named for this ethnic group. Dmitry Milyutin oversaw the expulsion of this ethnic group from their homeland, with thousands of them being killed or exiled to the Ottoman Empire. For 10 points, name this ethnic group from the Caucasus Mountains who were victims of a genocide by the Russian Empire in the 19th century.",
+      "powerMarkPosition": 466,
+      "answer": "Circassians",
+      "acceptableAnswers": [
+        "Circassians",
+        "Cherkess",
+        "Adyghe",
+        "The Circassians"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d58781e87276944d5d5f77"
+    },
+    {
+      "id": "e767aff8-8481-44a1-8a2a-1aa90d88c3b1",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "In one work, this author compared his knowledge of his dead father to his knowledge of the ancient Romans; that work ends with a quote from the oracle of Delphi including \"everything studies itself first.\" This man's works are usually split into the A, B, and C passages based on their date of composition. He famously stated \"I myself am the matter of my book.\" In one work, he criticized Europeans for calling New World natives barbaric while ignoring their own faults. In another work, he applied the principles of skepticism to defend a previous thinker's Theologia Naturalis. The death of his friend Étienne de la Boétie inspired him to write a work including sections like \"Of Vanity,\" \"Of Cannibals,\" and \"An Apology for Raymond Sebond.\" For 10 points, name this French writer known for his Essays.",
+      "powerMarkPosition": 306,
+      "answer": "Montaigne",
+      "acceptableAnswers": [
+        "Montaigne",
+        "The Montaigne"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c319e7"
+    },
+    {
+      "id": "a9544042-65ec-442f-a38b-24c2e984fbc5",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "text": "The speaker of this work claims he forgives his friend Atratinus, since he has \"filial duty\" as an excuse, and claims that some borrowed gold was not used to hire slaves to kill Dion the Alexandrian. An extended passage of this speech is a noted use of prosopopeia, as the speaker takes on the voice of the long-dead Appius Claudius Caecus if he \"were to rise up right now.\" Its speaker makes an accusation of incest by noting he has no ill-feeling toward the addressee's \"lover--I'm sorry, I meant to say 'brother.'\" This speech dismisses charges of poisoning and theft of gold by focusing on the accuser, a so-called \"Medea of the Palatine\" who was the basis for Catullus' Lesbia. For 10 points, name this invective delivered by Cicero against Clodia, which is ostensibly a defense of the title Roman nobleman.",
+      "powerMarkPosition": 674,
+      "answer": "Pro Caelio",
+      "acceptableAnswers": [
+        "Pro Caelio",
+        "On Behalf of Caelius",
+        "In Defense of Claudius",
+        "prompt on In Clodiam",
+        "prompt on Against Clodia",
+        "The Pro Caelio"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e35effc080082733afc8aa"
+    },
+    {
+      "id": "ccd98947-e3ff-4cba-8659-63e9159bbe23",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "This author explained his philosophy of writing in The Curtain: An Essay in Seven Parts and wrote about two émigrés meeting in a Paris airport in his recent novel Ignorance. He wrote a fictional biography of the poet Jaromil in Life is Elsewhere, while Ludvik, Kostka, and Jaroslav are among the narrators of his first novel, The Joke. He described life in his native country through such characters as Marketa and Mirek in The Book of Laughter and Forgetting, while his most famous novel sees the doctor Tomas lose his job for criticizing communists during Prague Spring. For 10 points, name this Czech author of The Unbearable Lightness of Being.",
+      "powerMarkPosition": 335,
+      "answer": "Kundera",
+      "acceptableAnswers": [
+        "Kundera",
+        "The Kundera"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a45606f2"
+    },
+    {
+      "id": "9d8f4732-4346-4047-adb7-c43ecfcd6662",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "Milton Friedman argued that controlling the money supply was key to slowing this phenomenon. Capital gains taxes are not currently indexed for this phenomenon. Purchasing gold may hedge against this phenomenon, which is often measured with a percentage increase in the CPI. This phenomenon can lead to \"menu costs\" as restaurants must update prices. When accompanied by slow growth, this phenomenon's name may be combined with \"Stag\" and its rapid occurrence is known as its \"hyper\" form. For 10 points, name this economic phenomenon that occurs when overall prices rise.",
+      "powerMarkPosition": 341,
+      "answer": "inflation",
+      "acceptableAnswers": [
+        "inflation",
+        "The inflation"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b873"
+    },
+    {
+      "id": "415ab6be-82b3-476d-abc1-10c65ca574e0",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "text": "A character in this play, who is introduced as always wearing black, marries a school teacher after giving up on her true love. An author in this play has an estate manager do some taxidermy work for him, but doesn't remember it when he comes to visit Sorin's estate two years later. Dr. Dorn tells Trigorin to take the actress Arkadina away at the end of this play after he realizes that her son has shot himself. He shot himself due to getting rejected by his ex, Nina. For 10 points, name this Chekhov play in which Treplev shoots the title bird.",
+      "powerMarkPosition": 283,
+      "answer": "Seagull",
+      "acceptableAnswers": [
+        "Seagull",
+        "The Seagull"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eec31bb669367617b8ca04"
+    },
+    {
+      "id": "f1b5e549-4279-4852-9d3b-d90f8b53686a",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for portal systems. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this systole-related structure.",
+      "powerMarkPosition": 71,
+      "answer": "Systole",
+      "acceptableAnswers": [
+        "systole",
+        "Systole"
+      ],
+      "explanation": "The systole is a key component of the Cardiovascular system, involved in portal systems.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "72c15c9d-bde4-4489-9d9e-9fd1bb2d24a0",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "The northern portion of this country can be accessed via the Salang Pass, which lies east of the alternative Kushan Pass. This nation's Band-e Amir National Park lies in its Bamyan Province, the same province in which two Buddha statues were destroyed with dynamite in 2001. This country is the home of the Registan Desert, and this country's highest peak, Noshaq, lies in the Hindu Kush Mountains. This country has the largest Hazara population in the world, and its city of Jalalabad lies near the Khyber Pass. For 10 points, name this country home to Kandahar with capital at Kabul.",
+      "powerMarkPosition": 274,
+      "answer": "Afghanistan",
+      "acceptableAnswers": [
+        "Afghanistan",
+        "The Afghanistan"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d821"
+    },
+    {
+      "id": "d8a1ddda-a104-4ed8-891c-0e03258c1875",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "Solutions to this set of relations have a corner if they satisfy the Weierstrass-Erdmann conditions. The key lemma to derive these equations states that, if the integral of f times h vanishes on an interval for all continuous h, then f is zero; these equations are thus equivalent to the condition that the variation in the time integral of the object function is zero. Rewriting these equations in canonical variables gives Hamilton's equations. A necessary condition for the action to be stationary is that these equations are satisfied by their namesake function. For 10 points, name this set of differential equations that the Lagrangian must satisfy for any trajectory available to a system.",
+      "powerMarkPosition": 369,
+      "answer": "Euler-Lagrange",
+      "acceptableAnswers": [
+        "Euler-Lagrange",
+        "Lagrange equations",
+        "prompt on Euler equations",
+        "The Euler-Lagrange"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae8f0a"
+    },
+    {
+      "id": "a1a1cb76-dc18-45b0-9953-ddc22ac905ab",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "Using these numbers as the side lengths of squares can produce an approximation of the golden spiral. The ratio between one of these numbers and the next one approaches the golden ratio. Pine cone scales and flower petals often appear in patterns of these numbers, which include fifty-five, eighty-nine, and one hundred forty-four. An Italian mathematician names, for 10 points, what sequence of numbers that starts one, one, two, three, five, and is built by adding the two previous terms?",
+      "powerMarkPosition": 237,
+      "answer": "Fibonacci",
+      "acceptableAnswers": [
+        "Fibonacci",
+        "The Fibonacci"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004f54"
+    },
+    {
+      "id": "1c49de57-7c7b-4921-b68c-7313cbf5af28",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for gastric secretions. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this esophagus-related structure.",
+      "powerMarkPosition": 71,
+      "answer": "Esophagus",
+      "acceptableAnswers": [
+        "esophagus",
+        "Esophagus"
+      ],
+      "explanation": "The esophagus is a key component of the Digestive system, involved in gastric secretions.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "558cd034-75f2-4e2e-b49a-711b04b60a9f",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "A character in this poem hears a \"dismal universal hiss\" as he and his followers transform into snakes when he returns to Pandemonium from Earth. The villain of this epic poem infamously declares that he would rather rule in Hell than serve in Heaven. In this poem's introduction, the author explains that his purpose is to \"justify the ways of God to men.\" For 10 points, name this epic poem about the rebellion of Satan and the fall of Adam and Eve, written by John Milton.",
+      "powerMarkPosition": 224,
+      "answer": "Paradise Lost",
+      "acceptableAnswers": [
+        "Paradise Lost",
+        "The Paradise Lost"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc0051d0"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "6ebbfe92-fe81-446b-82d9-cf87deb054ed",
+      "linkedTossupId": "9e976f7c-5d07-49e0-ad02-9a6a18d21e10",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this concept whose classical ideal was ended by \"the tyranny of the clock,\" per Sebastian de Grazia. This concept titles a book claiming that survivals of \"barbarian prowess\" are expressed by \"force and fraud.\"",
+          "answer": "leisure",
+          "acceptableAnswers": [
+            "leisure",
+            "loisir",
+            "accept The Theory of the Leisure Class",
+            "prompt on class by asking “what other concept characterizes the class in that work’s title?”",
+            "The leisure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This book controversially argues that Neolithic hunter-gatherers had the most leisure time in history. This book contains the chapter \"The Original Affluent Society.\"",
+          "answer": "Stone Age Economics",
+          "acceptableAnswers": [
+            "Stone Age Economics",
+            "The Stone Age Economics"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Vicarious leisure\" flaunts \"abstention from productive work\" in this thinker's book The Theory of the Leisure Class, which coined the term \"conspicuous consumption.\"",
+          "answer": "Veblen",
+          "acceptableAnswers": [
+            "Veblen",
+            "Thorstein Bunde Veblen",
+            "The Veblen"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Specific term required. Joffre Dumazedier (\"ZHOFF-ree doo-mah-zed-YAY\") created sociology's standard definition of this concept, whose \"mass organization\" by fascist Italy is described in Victoria de Grazia's The Culture of Consent. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66307b02f089611172b04f36"
+    },
+    {
+      "id": "e1ece325-8a8d-4f3c-9321-2b4100e1db7b",
+      "linkedTossupId": "e5b0d26c-a8b5-4576-9db8-eff4957dc15c",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with duodenum, jejunum, ileum.",
+          "answer": "duodenum",
+          "acceptableAnswers": [
+            "duodenum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the duodenum in the digestive system?",
+          "answer": "Duodenum, jejunum, ileum",
+          "acceptableAnswers": [
+            "Duodenum, jejunum, ileum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to duodenum, jejunum, ileum.",
+          "answer": "jejunum",
+          "acceptableAnswers": [
+            "jejunum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ef111fda-5e0a-4657-85fd-4da84fb0ed41",
+      "linkedTossupId": "ab17154a-5a72-41c9-aff9-6fe0b81a95c3",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This European country's industrialisation began in the 1820s, but took off in earnest after its 1830 independence. This country's industrial growth was heavily backed by its king Leopold I.",
+          "answer": "Belgium",
+          "acceptableAnswers": [
+            "Belgium",
+            "The Belgium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Belgium's flagship project of the 1830s was the construction of the first example of this type of infrastructure in continental Europe, stretching from Brussels to Mechelen (\"MEK-uh-lun\") and opening in 1835.",
+          "answer": "railway",
+          "acceptableAnswers": [
+            "railway",
+            "The railway"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An early major industrial centre was this city on the river Sambre. Initially thriving on coal mining and glass and steel production, this city is now known for its frequent strikes and being voted the 'Ugliest city in Europe'.",
+          "answer": "Charleroi",
+          "acceptableAnswers": [
+            "Charleroi",
+            "The Charleroi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions on the second country to undergo the Industrial Revolution. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6413cd99fdc648a1ed7095c5"
+    },
+    {
+      "id": "b4e28ace-00f1-41d2-85fd-9f14e9b7160b",
+      "linkedTossupId": "a10ec359-d4aa-4eb4-9097-60cd92ec891c",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "That occurs in what book, about the slimy titular anarchist and wannabe terrorist, who is pursued by Inspector Heat?",
+          "answer": "Secret Agent",
+          "acceptableAnswers": [
+            "Secret Agent",
+            "The Secret Agent"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the name of that terrorist and sometime pornographer, who meets with Comrade Ossipon, Michaelis and the Professor behind his wife Winnie's back.",
+          "answer": "Verloc",
+          "acceptableAnswers": [
+            "Verloc",
+            "The Verloc"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Polish-British man wrote The Secret Agent, as well as Nostromo and Lord Jim.",
+          "answer": "Conrad",
+          "acceptableAnswers": [
+            "Conrad",
+            "The Conrad"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It is eventually revealed that Stevie died planting a bomb at the Greenwich Observatory. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "676f82f6c626ea977c7a3400"
+    },
+    {
+      "id": "4d09a8c5-c523-4c4a-b4e5-ca8c53ada336",
+      "linkedTossupId": "82444874-52ab-41e9-9d0a-55847034c0aa",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these devices. The \"differential scanning\" one of these devices slowly raises a sample's temperature at a constant rate to find its phase transitions when a sudden peak appears in a heat flow-temperature curve.",
+          "answer": "calorimeter",
+          "acceptableAnswers": [
+            "calorimeter",
+            "differential scanning calorimeter",
+            "prompt on DSC",
+            "The calorimeter"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The integral of the peak on the heat flow-temperature curve can give this quantity for a melting sample. This quantity is the amount of heat needed to complete the phase transition from solid to liquid.",
+          "answer": "enthalpy of fusion",
+          "acceptableAnswers": [
+            "enthalpy of fusion",
+            "latent heat of fusion",
+            "The enthalpy of fusion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Calorimetry ultimately depends on the equation \"Heat = m c delta T,\" where this quantity is \"c.\" This quantity is how much energy it takes to raise a gram of a substance by one degree.",
+          "answer": "specific heat",
+          "acceptableAnswers": [
+            "specific heat",
+            "The specific heat"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The low melting point of indium, at 156.60 degrees celsius, is used to calibrate these devices. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6765cbd66221936d63885313"
+    },
+    {
+      "id": "36daea94-c6aa-4cf5-a3e0-cb1849e30e09",
+      "linkedTossupId": "b83a94b8-20ef-4cf6-a250-2876c7daa7fc",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this British novelist of Afternoon Men that wrote about Nick Jenkins in his A Dance to the Music of Time.",
+          "answer": "Powell",
+          "acceptableAnswers": [
+            "Powell",
+            "The Powell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Anthony Powell's memoir To Keep the Ball Rolling features a section called The Strangers are All Gone, which is taken from this play, whose characters include Paris and Friar John.",
+          "answer": "Romeo and Juliet",
+          "acceptableAnswers": [
+            "Romeo and Juliet",
+            "The Romeo and Juliet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The line \"The Strangers are all gone,\" is spoken by this character in Romeo and Juliet, who had a daughter named Susan who perished in an earthquake. She advises Juliet to go through with the marriage to Paris.",
+          "answer": "Nurse",
+          "acceptableAnswers": [
+            "Nurse",
+            "The Nurse"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one novel, this man wrote about William Atwater and William Pringle. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4373e"
+    },
+    {
+      "id": "cebe3ae8-4ecf-4ed7-9513-f452daa69a52",
+      "linkedTossupId": "b3b073ce-89dc-4e71-860c-530423802b0c",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this foundational text by Mary Baker Eddy published in 1875. It labels disease a \"false belief\" and asserts that prayer is the best way to fight illness.",
+          "answer": "Science and Health",
+          "acceptableAnswers": [
+            "Science and Health",
+            "The Science and Health"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Christian Science Church takes as its main texts Science and Health, as well as this translation of the Bible named for an English king that was completed in 1611.",
+          "answer": "King James",
+          "acceptableAnswers": [
+            "King James",
+            "KJV",
+            "KJB",
+            "prompt on Authorized Version",
+            "The King James"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While the headquarters of the Christian Science Church is in Boston, the first of its churches was built in this state, where Wade Michael Page shot six people at a house of worship in 2012.",
+          "answer": "Wisconsin",
+          "acceptableAnswers": [
+            "Wisconsin",
+            "The Wisconsin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This book ends with a collection of testimonials called \"Fruitage.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34f4d"
+    },
+    {
+      "id": "b284016c-4ef5-41a3-a419-9369d1f64fa1",
+      "linkedTossupId": "a6e9ca89-c282-4ca4-8760-a1a1f8fa707c",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this this North African country, which was granted independence at the Evian Accords. Its current president is Abdelaziz Boutefilka.",
+          "answer": "Algeria",
+          "acceptableAnswers": [
+            "Algeria",
+            "Democratic and Popular Republic of Algeria",
+            "al-Jazā’ir",
+            "Ldzayer",
+            "Dzayer",
+            "The Algeria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Algeria achieved independence from this country across the Mediterranean. Algerians from this country are known as \"pied-noirs.\"",
+          "answer": "France",
+          "acceptableAnswers": [
+            "France",
+            "French Republic",
+            "French Fifth Republic",
+            "Republique francaise",
+            "The France"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Evian Accords were brokered by this French politician, who led the Free French during World War II and replaced the Fourth Republic with the Fifth Republic during the crisis over Algerian independence.",
+          "answer": "de Gaulle",
+          "acceptableAnswers": [
+            "de Gaulle",
+            "The de Gaulle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Ahmed Ben Bella's FLN led this country's independence movement. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0693"
+    },
+    {
+      "id": "14f36e52-e328-4051-b8ea-fab292b9b61e",
+      "linkedTossupId": "04757e7d-11e0-4423-95d5-518d28600cdd",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this two-volume Korean anthology of Zen Buddhist teachings which is the oldest existing metal-plate printed book.",
+          "answer": "Jikji",
+          "acceptableAnswers": [
+            "Jikji",
+            "The Jikji"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Jikji was produced during this Korean dynasty founded by Taejo around 918 AD. It fell when the general Yi Seong-gye usurped the throne and set up the Choson Dynasty.",
+          "answer": "Goryeo",
+          "acceptableAnswers": [
+            "Goryeo",
+            "The Goryeo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another writing landmark in Korean history was the creation of the Hangul alphabet, which occurred under this fourth king of the Choson Dynasty. He also established the Hall of Worthies.",
+          "answer": "Sejong",
+          "acceptableAnswers": [
+            "Sejong",
+            "The Sejong"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Now located at the National Library of France, it was composed by the Buddhist monk Baegun around 1372 AD, and published by his students Seoksan and Daldam. FTPE:",
+      "source": "qbreader",
+      "sourceId": "62e35effc080082733afc66a"
+    },
+    {
+      "id": "f21313fc-8ec7-4b04-ac30-e45f49d82b9b",
+      "linkedTossupId": "e767aff8-8481-44a1-8a2a-1aa90d88c3b1",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this text which also includes stories about the joy of minnows and a man who wonders if he is really a butterfly after a dream.",
+          "answer": "Zhuangzi",
+          "acceptableAnswers": [
+            "Zhuangzi",
+            "Chuang Tzŭ",
+            "The Zhuangzi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Zhuangzi and Laozi were proponents of this tradition whose concepts of wu wei and yin-yang help one to understand \"the way\".",
+          "answer": "Dao",
+          "acceptableAnswers": [
+            "Dao",
+            "Taoism",
+            "Daojiao",
+            "The Dao"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A Han dynasty Daoist school was named for Laozi and this person, who loses a pearl on Kunlun mountain in the Zhuangzi. This person's Neijing is the foundational text of traditional Chinese medicine.",
+          "answer": "Huangdi",
+          "acceptableAnswers": [
+            "Huangdi",
+            "Yellow Emperor",
+            "accept Yellow Thearch",
+            "accept Huang-Lao",
+            "The Huangdi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A story in this text about a scholar drumming and singing after the death of his wife would influence the folk music tradition of sànggǔ. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6676341dfe8264b343f11376"
+    },
+    {
+      "id": "983c51be-2e60-469b-97d8-8316d7b33b40",
+      "linkedTossupId": "a9544042-65ec-442f-a38b-24c2e984fbc5",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this German-born Union general who served as Secretary of the Interior during the Hayes administration. He also briefly shared editorial control over the Evening Post with Edwin Godkin and Horace White.",
+          "answer": "Schurz",
+          "acceptableAnswers": [
+            "Schurz",
+            "The Schurz"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Schurz was a member of this group of prominent Republicans who decided to vote for Democrat Grover Cleveland after the publication of the Mulligan letters.",
+          "answer": "Mugwump",
+          "acceptableAnswers": [
+            "Mugwump",
+            "The Mugwump"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another Mugwump was this Jewish lawyer and future Supreme Court justice known for his namesake legal brief in Muller v. Oregon. He is also the namesake of a private university in Waltham, Massachusetts.",
+          "answer": "Brandeis",
+          "acceptableAnswers": [
+            "Brandeis",
+            "The Brandeis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His wife started the first kindergarten in the United States. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c320ea"
+    },
+    {
+      "id": "70b47114-3987-48a9-895f-e6e83f46fd69",
+      "linkedTossupId": "ccd98947-e3ff-4cba-8659-63e9159bbe23",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Mexican poet of \"The Grammarian Monkey\" and \"Luna Silvestre.\"",
+          "answer": "Paz",
+          "acceptableAnswers": [
+            "Paz",
+            "The Paz"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Paz essay reflects on Mexican history and the concept of machismo. It details the tradition of fiesta and talks about the Zapatista movement.",
+          "answer": "Labyrinth of Solitude",
+          "acceptableAnswers": [
+            "Labyrinth of Solitude",
+            "The Labyrinth of Solitude"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The title object of this Paz poem is a gigantic Aztec calendar. The poem's 584 lines mirror the calendar's days and it ends talking about \"a river that...goes roundabout, / forever arriving.\"",
+          "answer": "Sun Stone",
+          "acceptableAnswers": [
+            "Sun Stone",
+            "The Sun Stone"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He chronicled his time in India as his country's ambassador in the poem \"Vrindaban,\" which appeared in his collection East Slope. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a4560805"
+    },
+    {
+      "id": "759c4e01-8dd8-446c-9dbf-67ba2ce4af8e",
+      "linkedTossupId": "9d8f4732-4346-4047-adb7-c43ecfcd6662",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this academic discipline whose modern school was founded in part by the French theorist Emile Durkheim and based on the work of Auguste Comte.",
+          "answer": "sociology",
+          "acceptableAnswers": [
+            "sociology",
+            "The sociology"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Durkheim embarked on a major sociological study of this phenomenon, which he divided into four types. Its \"egoistic\" form occurs when social integration is low and individuals feel despondent and alone before committing this capital form of self-harm.",
+          "answer": "suicide",
+          "acceptableAnswers": [
+            "suicide",
+            "The suicide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Durkheim described mechanical and organic forms of this term, which helps explain how members of societies hang together. It has more also been used to demonstrate unity or fellowship between groups.",
+          "answer": "solidarity",
+          "acceptableAnswers": [
+            "solidarity",
+            "The solidarity"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Robert and Helen Lynd wrote an early work in this academic discipline, Middletown , which analyzed life in a typical American city. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b769"
+    },
+    {
+      "id": "ae70b38d-259f-486e-90a3-61ed1ed70a83",
+      "linkedTossupId": "415ab6be-82b3-476d-abc1-10c65ca574e0",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this writer of Germinal who defended Alfred Dreyfus in the article J'Accuse.",
+          "answer": "Zola",
+          "acceptableAnswers": [
+            "Zola",
+            "Émile Édouard Charles Antoine Zola",
+            "The Zola"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Turgenev also was a promoter of Jules (\"ZHOOL\"), an author with this surname, who co-wrote an influential diary with his brother Edmond (\"ED-mon\"). Those inseparable brothers with this surname co-wrote novels like Germinie Lacerteux (\"ZHAIR-min-ee lah-sert-UR\").",
+          "answer": "Goncourt",
+          "acceptableAnswers": [
+            "Goncourt",
+            "the Goncourt brothers",
+            "Jules Goncourt",
+            "Edmond Goncourt",
+            "The Goncourt"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Turgenev claimed that his own character Akim was of the \"same caliber\" as this other character. In an 1852 novel, this husband of Aunt Chloe saves Little Eva from drowning.",
+          "answer": "Tom",
+          "acceptableAnswers": [
+            "Tom",
+            "Uncle Tom's Cabin",
+            "The Tom"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Thanks to his tireless champion and translator Ivan Turgenev, this French author gained fame in Russia before France. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d9801af67c8a6f6e0b4264"
+    },
+    {
+      "id": "1ba51729-32d9-447f-9625-9f22904d0436",
+      "linkedTossupId": "f1b5e549-4279-4852-9d3b-d90f8b53686a",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with lung lobes and segments.",
+          "answer": "bronchus",
+          "acceptableAnswers": [
+            "bronchus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the bronchus in the respiratory system?",
+          "answer": "Lung lobes and segments",
+          "acceptableAnswers": [
+            "Lung lobes and segments"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to lung lobes and segments.",
+          "answer": "bronchiole",
+          "acceptableAnswers": [
+            "bronchiole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "5103428d-8814-4e36-b333-9ad5fa0be7a4",
+      "linkedTossupId": "72c15c9d-bde4-4489-9d9e-9fd1bb2d24a0",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Poutine, a dish consisting of french fries and cheese curds topped with gravy, is a delicacy originating from this French-speaking province. The Saint Lawrence and Ottawa Rivers converge at this province's city of Montreal.",
+          "answer": "Quebec",
+          "acceptableAnswers": [
+            "Quebec",
+            "The Quebec"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another common Canadian dish is a pie made with berries named for a city in this province. Other cities in this Prairie Province include Prince Albert and Moose Jaw.",
+          "answer": "Saskatchewan",
+          "acceptableAnswers": [
+            "Saskatchewan",
+            "The Saskatchewan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Nanaimo bar, which contains a wafer, custard icing, and a chocolate ganache, is named for a city on this island. It is partially separated from the Canadian mainland by the Strait of Georgia.",
+          "answer": "Vancouver",
+          "acceptableAnswers": [
+            "Vancouver",
+            "The Vancouver"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about Canadian cuisine:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a787"
+    },
+    {
+      "id": "59e9cce6-2d27-4f97-87b0-e49ec6b677fa",
+      "linkedTossupId": "d8a1ddda-a104-4ed8-891c-0e03258c1875",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this process by which naive mature B cells begin to produce a new kind of immunoglobulin upon cytokine stimulation.",
+          "answer": "class switch",
+          "acceptableAnswers": [
+            "class switch",
+            "isotype switching",
+            "class switch recombination",
+            "The class switch"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the classes of antibody that B cells might produce is this most abundant form of immunoglobulin. It is the only immunoglobulin isotype that is capable of placental transfer, and they mostly mediate secondary immune response.",
+          "answer": "G",
+          "acceptableAnswers": [
+            "G",
+            "IgG"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Immunoglobulin E rather than immunoglobulin G prompts inflammatory response to allergens by binding nearly irreversibly to these cells, prompting them to degranulate and release substances like histamine.",
+          "answer": "mast",
+          "acceptableAnswers": [
+            "mast",
+            "The mast"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A CD28 homolog called ICOS is required for this process to occur via the CD40 T-cell collaborative pathway. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e43e30eb21ef1b79101910"
+    },
+    {
+      "id": "dfcb0957-7d6b-44e3-a140-5995c9c69762",
+      "linkedTossupId": "a1a1cb76-dc18-45b0-9953-ddc22ac905ab",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this light display that occurs as a result of disturbances in Earth's magnetosphere.",
+          "answer": "aurora",
+          "acceptableAnswers": [
+            "aurora",
+            "aurora borealis",
+            "aurora australis",
+            "The aurora"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The disturbances are usually caused by these streams of charged particles released from the Sun's atmosphere.",
+          "answer": "solar wind",
+          "acceptableAnswers": [
+            "solar wind",
+            "The solar wind"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Solar winds are this fourth state of matter which consists of ionized gas.",
+          "answer": "plasma",
+          "acceptableAnswers": [
+            "plasma",
+            "The plasma"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This phenomenon is nicknamed the \"northern lights\" or \"southern lights,\" depending on where it is seen. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c6bb"
+    },
+    {
+      "id": "b6886619-f6ac-4674-8d1b-c4e1b1a2ca4e",
+      "linkedTossupId": "1c49de57-7c7b-4921-b68c-7313cbf5af28",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with ascending and descending tracts.",
+          "answer": "spinal cord",
+          "acceptableAnswers": [
+            "spinal cord"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the spinal cord in the nervous system?",
+          "answer": "Ascending and descending tracts",
+          "acceptableAnswers": [
+            "Ascending and descending tracts"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to ascending and descending tracts.",
+          "answer": "reflex",
+          "acceptableAnswers": [
+            "reflex"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "36bd72a1-f0e6-4c56-9149-4d73a62edad9",
+      "linkedTossupId": "558cd034-75f2-4e2e-b49a-711b04b60a9f",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel set in the Gilead Republic, which sees Professor Pieixoto give a speech.",
+          "answer": "Handmaid",
+          "acceptableAnswers": [
+            "Handmaid",
+            "The Handmaid"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This feminist Canadian author of The Handmaid's Tale also wrote about Jimmy, who grows up to be Snowman, in Oryx and Crake.",
+          "answer": "Atwood",
+          "acceptableAnswers": [
+            "Atwood",
+            "The Atwood"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Atwood also wrote a novel titled after this type of Assassin. John Milton wrote about his experiences with it in \"When I consider how my light is spent.\" Homer may have suffered from this condition.",
+          "answer": "blind",
+          "acceptableAnswers": [
+            "blind",
+            "equivalents",
+            "The blind"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this work, the protagonist Offred has to bear children for her commander only to be separated from them. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43e83"
+    }
+  ]
+}

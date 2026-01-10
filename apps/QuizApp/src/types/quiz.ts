@@ -15,7 +15,26 @@ export type QuestionCategory =
   | 'Current Events'
   | 'Mathematics'
   | 'Mythology'
-  | 'Philosophy';
+  | 'Philosophy'
+  | 'Human Body';
+
+// Question source tracking
+export type QuestionSource = 'qbreader' | 'ai-generated' | 'manual';
+
+// Subcategory mappings for granular scoring
+export type SubcategoryMap = {
+  Science: 'Biology' | 'Chemistry' | 'Physics' | 'Earth Science' | 'Computer Science' | 'Astronomy' | 'Other Science';
+  'Human Body': 'Cardiovascular' | 'Respiratory' | 'Digestive' | 'Nervous' | 'Musculoskeletal' | 'Immune' | 'Endocrine' | 'Integumentary' | 'Urinary' | 'General Anatomy';
+  Literature: 'American Literature' | 'British Literature' | 'European Literature' | 'World Literature' | 'Classical Literature' | 'Poetry' | 'Drama';
+  History: 'American History' | 'European History' | 'World History' | 'Ancient History' | 'Military History';
+  'Fine Arts': 'Painting' | 'Sculpture' | 'Music Classical' | 'Music Other' | 'Architecture' | 'Opera' | 'Film' | 'Photography';
+  Geography: 'Physical Geography' | 'Political Geography' | 'World Geography' | 'US Geography';
+  'Social Science': 'Economics' | 'Psychology' | 'Sociology' | 'Anthropology' | 'Political Science' | 'Law';
+  'Current Events': 'US Current Events' | 'World Current Events' | 'Pop Culture';
+  Mathematics: 'Algebra' | 'Geometry' | 'Calculus' | 'Statistics' | 'Number Theory' | 'Applied Math';
+  Mythology: 'Greek/Roman' | 'Norse' | 'Egyptian' | 'Other Mythology';
+  Philosophy: 'Ancient Philosophy' | 'Modern Philosophy' | 'Ethics' | 'Logic' | 'Metaphysics';
+};
 
 // Question difficulty levels
 export type QuestionDifficulty =
@@ -28,12 +47,15 @@ export type QuestionDifficulty =
 export interface TossupQuestion {
   id: string;
   category: QuestionCategory;
+  subcategory?: string; // Granular subject for scoring breakdowns
   difficulty: QuestionDifficulty;
   text: string;
   powerMarkPosition: number; // character index for power mark (★)
   answer: string;
   acceptableAnswers: string[];
   explanation?: string;
+  source?: QuestionSource; // Track question origin
+  sourceId?: string; // Original ID from source (e.g., QB Reader _id)
 }
 
 // Bonus question part
@@ -49,8 +71,12 @@ export interface BonusQuestion {
   id: string;
   linkedTossupId: string;
   category: QuestionCategory;
+  subcategory?: string; // Granular subject for scoring breakdowns
   difficulty: QuestionDifficulty;
   parts: [BonusPart, BonusPart, BonusPart]; // Exactly 3 parts
+  leadin?: string; // Optional bonus leadin text
+  source?: QuestionSource; // Track question origin
+  sourceId?: string; // Original ID from source (e.g., QB Reader _id)
 }
 
 // Complete quiz data

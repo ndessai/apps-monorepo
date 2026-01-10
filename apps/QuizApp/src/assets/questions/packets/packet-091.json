@@ -1,0 +1,1121 @@
+{
+  "packetId": "packet-091",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Social Science",
+    "Human Body",
+    "Literature",
+    "Science",
+    "History",
+    "Philosophy",
+    "Mythology"
+  ],
+  "tossups": [
+    {
+      "id": "363d52ed-8340-488c-b79b-8b9bf66e4e36",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "An experimental technique for measuring this quantity often uses a fractional factorial design to construct sets of hypothetical stimuli, as suggested by Paul Green. V. \"Seenu\" Srinivasan's (\"shree-nee-VAH-san's\") reviews of that technique for measuring this quantity contrast \"compositional\" approaches with expectancy-value modeling. Partial values of this quantity are inferred for different levels in conjoint analysis studies, which are commonly used for market segmentation. Inferences of this quantity from observations are constrained by a \"strong axiom\" which ensures transitivity in a framework introduced by Paul Samuelson. Functions representing this quantity are reconstructed by observing behavior towards bundles in revealed preference theory. This quantity is constant along indifference curves. For 10 points, give this economic term for the value of a good or service.",
+      "powerMarkPosition": 335,
+      "answer": "utility",
+      "acceptableAnswers": [
+        "utility",
+        "part-worth utility",
+        "The utility"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ede294c53e50a0513633a5"
+    },
+    {
+      "id": "b6e57ad2-faf0-4c17-8122-1125ed696475",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for heart valves and their functions. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this atrium-related structure.",
+      "powerMarkPosition": 83,
+      "answer": "Atrium",
+      "acceptableAnswers": [
+        "atrium",
+        "Atrium"
+      ],
+      "explanation": "The atrium is a key component of the Cardiovascular system, involved in heart valves and their functions.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "84cf46ef-58ad-4e9b-90bd-15c6d7939795",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "Using Beveridge-Nelson or Hodrick-Prescott decomposition, it can be applied to business cycles. Due to its static nature and lack of causality, it is often replaced by the more dynamic model of Martin Zagler. Other variations on it include a Vector Autoregression approach by Blanchard, and one which included expectational variables by Milton Friedman, who has also related it to the Philips Curve. It implies that an increase in labor productivity will cause \"jobless growth,\" and according to its formulator its factor \"a\" is approximately .3. For 10 points, identify this economic law that describes the relationship between unemployment and the GNP gap, named for an American economist whose first name is Arthur.",
+      "powerMarkPosition": 399,
+      "answer": "Okun",
+      "acceptableAnswers": [
+        "Okun",
+        "The Okun"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e2ecd614bf7b00170b1b32"
+    },
+    {
+      "id": "0573ce08-9d83-4c29-8e6e-f067de31f5fe",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "This poem mentions some hunters who are intent on having \"the rabbit out of hiding / To please the yelping dogs.\" Later, the speaker makes the accurate observation \"But here there are no cows\" before having a vision of another man who \"moves in darkness\" and appears to be a \"savage armed.\" The speaker resists the temptation to say the word \"Elves,\" and confesses that \"Spring is the mischief in me\" after noting that his apple trees will never eat his neighbor's pine cones. For 10 points, name this poem about two people who meet annually to perform the titular activity on the line between their two properties, the first poem in North of Boston by Robert Frost which includes the statement \"Good fences make good neighbors.\"",
+      "powerMarkPosition": 476,
+      "answer": "Mending Wall",
+      "acceptableAnswers": [
+        "Mending Wall",
+        "The Mending Wall"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fcdf"
+    },
+    {
+      "id": "a0b618ba-f726-43f2-92c8-661b37233534",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "These geologic entities come in fountain and cone varieties. Two of these named \"Vent\" and \"Turban\" help predict the activity of one of these named \"Grand.\" They are caused near fissures and cavities in the rock when magma near the Earth's surface heats a source of water. Mostly found in the Western United States and Iceland, for 10 points, name this type of violently erupting hot spring, such as Yellowstone's Old Faithful.",
+      "powerMarkPosition": 247,
+      "answer": "geyser",
+      "acceptableAnswers": [
+        "geyser",
+        "The geyser"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac8f4"
+    },
+    {
+      "id": "76244239-b2f1-440e-a2b7-a4a122cfc6c5",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "It is impossible to inscribe more than one square in this type of triangle. The Pythagorean Theorem doesn't apply to these triangles, as c squared would be larger than a squared plus b squared. The circumcenter lies outside this shape, and the cosine of one of these triangle's angles gives a negative value. For 10 points, name this type of triangle, so named because it features one angle larger than 90 degrees.",
+      "powerMarkPosition": 167,
+      "answer": "obtuse",
+      "acceptableAnswers": [
+        "obtuse",
+        "The obtuse"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eea0924256318aceb4"
+    },
+    {
+      "id": "2633aafa-6f0c-4a36-9c61-8c9bf5cc3903",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for spleen functions. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this lymph-related structure.",
+      "powerMarkPosition": 68,
+      "answer": "Lymph",
+      "acceptableAnswers": [
+        "lymph",
+        "Lymph"
+      ],
+      "explanation": "The lymph is a key component of the Immune system, involved in spleen functions.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a26a8f48-06f8-4897-83b1-c0eea63aa9a8",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "This man temporarily ruled with his half-brother Ivan V, and as a child, he staged elaborate war games in which many aristocratic boys died. This man defeated Sweden in the Great Northern War and used the shipbuilding techniques he had learned in Europe to build the Russian navy. Under his reign, noblemen were forced to cut off their beards, and, in 1718, he executed his son Alexei and died without an heir, leaving the throne to his wife, Catherine I. For 10 points , name this tsar who modernized Russia.",
+      "powerMarkPosition": 246,
+      "answer": "Peter the Great",
+      "acceptableAnswers": [
+        "Peter the Great",
+        "The Peter the Great"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fdc23fc764815614749e68"
+    },
+    {
+      "id": "9cdc73e7-cb35-4935-af71-8a249c879b34",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "Decreases in this phenomenon and the LFPR indicates a rise in discouragement. This economic phenomenon can be structural, when it is caused by technological changes, or frictional, which reflects the time spent trying to end this phenomenon. Retired people are not counted by, for 10 points, what negative economic rate that describes the number of people who aren't working?",
+      "powerMarkPosition": 220,
+      "answer": "unemployment",
+      "acceptableAnswers": [
+        "unemployment",
+        "The unemployment"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2cd0c"
+    },
+    {
+      "id": "c87a9820-9f34-43a4-946a-8ae57a9c4903",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "Brumbies are a feral type of these animals that roam Australia. Although the Hall of the Bulls is the most famous section of the Lascaux [lass-koh] caves, these animals are the most common to be painted on its walls. The rise of the Proto-Indo-Europeans is tied to their domestication of these animals on the Russian steppe. Parthian archers mastered the ability to turn around and shoot arrows while riding, for 10 points, what animals that can be used to pull chariots and plows?",
+      "powerMarkPosition": 316,
+      "answer": "horse",
+      "acceptableAnswers": [
+        "horse",
+        "The horse"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba9711b"
+    },
+    {
+      "id": "2a5805f7-4246-4805-9a00-8a254ca6f3a1",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "Patients with mutations in EVER1 or EVER2 are unusually susceptible to this virus. This virus' L1 protein mediates attachment to GAGs, and one disease caused by this virus is diagnosed by finding koilocytes. HeLa cells contain DNA from this virus. One protein produced by this virus forms a complex to form E6AP and suppress p53. Another protein produced by this virus causes the host cell to switch to the S phase by binding to pRB, which causes the release of E2F. Those two proteins are E6 and E7. A disease caused by this virus can be diagnosed with a pap smear. Gardasil is a vaccine against this virus which only infects basement epithelium cells. For 10 points, name this virus that causes genital warts and cervical cancer.",
+      "powerMarkPosition": 329,
+      "answer": "human papilloma",
+      "acceptableAnswers": [
+        "human papilloma",
+        "HPV",
+        "The human papilloma"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df87c09bc4e61b2fb3799f"
+    },
+    {
+      "id": "36d709f1-3c05-49f9-a3ff-712072c9171a",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "A character in this play is spared from having his eyes put out, by pointing out that the fire refuses to grow hot enough to heat the iron. One of this play's characters mopes that \"life is as tedious as a twice-told tale / Vexing the dull ear of a drowsy man,\" after a storm wipes out his entire fleet. A character in this play inexplicably decides to escape a castle by leaping to his death from its wall. This play ends with a character declaring that, so long as it is unified, England \"never shall, / Lie at the proud foot of a conqueror,\" shortly after its title character dies from being poisoned by a monk. The title character of this play orders a second coronation, prompting Salisbury to declare that \"to gild refined gold, to paint the lily\" is \"wasteful and ridiculous excess.\" This play opens with an ambassador from France demanding that its title character abdicate in favor of his nephew Arthur, and Eleanor recognizing the Bastard as the son of Richard the Lionhearted. For 10 points, name this Shakespeare play starring a weak king.",
+      "powerMarkPosition": 594,
+      "answer": "King John",
+      "acceptableAnswers": [
+        "King John",
+        "The King John"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa59132018c9"
+    },
+    {
+      "id": "ece0c85a-9aa3-4bdd-a22e-edebeee367d6",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "In the Maryam Surah, Abraham promises his father that he will perform this action on his behalf. The Quran discourages performing this action on behalf of nonbelievers or while drunk. The \"Zuhr\" one of these actions is replaced by a congregational one on Fridays, when this action is led by an imam. This action is one of the Five Pillars of Islam, and is called Salat in Arabic. For 10 points, name this religious action that should be performed five times daily by Muslims, the act of communicating with Allah.",
+      "powerMarkPosition": 232,
+      "answer": "pray",
+      "acceptableAnswers": [
+        "pray",
+        "word forms like praying",
+        "accept Salah",
+        "Salat before “Salat” is read",
+        "prompt on descriptions like “talking to god”",
+        "“talking to Allah”",
+        "The pray"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3101eabc146a6b8189223"
+    },
+    {
+      "id": "2543b934-6d45-4605-acbb-198bdb11bfb2",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for hemoglobin oxygen binding. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this diffusion-related structure.",
+      "powerMarkPosition": 99,
+      "answer": "Diffusion",
+      "acceptableAnswers": [
+        "diffusion",
+        "Diffusion"
+      ],
+      "explanation": "The diffusion is a key component of the Respiratory system, involved in hemoglobin oxygen binding.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "96197905-8912-42f0-8289-b08701127831",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "This god's son, Tenages, was murdered by his four brothers over his scientific prowess, and this god's daughter Pasipha¨e was the wife of King Minos. This god had a sacred herd on Thrinacia, and his daughter Circe warned Odysseus against killing the cattle this god kept there. Phaethon, another son of this god, died while trying to control this god's chariot. For 10 points, name this Greek god, the personification of the sun.",
+      "powerMarkPosition": 207,
+      "answer": "Helios",
+      "acceptableAnswers": [
+        "Helios",
+        "The Helios"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc0050b2"
+    },
+    {
+      "id": "15591dbf-7003-421c-9e3e-9200cfdf742b",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "text": "One of this author's early poems describes a bird that flies off from \"a withered branch.\" In another poem, this author depicts the penetrating power of a cicada's screech. This author frequently included motifs of changing weather, including one that portrays \"fishes' eyes\" that are \"with tears\" at the end of spring. In this author's first publication, a referee compares two poems side-by-side, including two written by himself. That collection's name references a children's game of placing two shells side-by-side to compare them. A water sound often translated as \"Kerplunk\" or \"Splash\" results when a frog leaps into an old pond in another work by this author. For 10 points, what author wrote a collection of 17-syllable haiku in The Narrow Road to the Deep North?",
+      "powerMarkPosition": 499,
+      "answer": "Matsuo",
+      "acceptableAnswers": [
+        "Matsuo",
+        "either",
+        "The Matsuo"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0af2f9"
+    },
+    {
+      "id": "5517da0e-4c5f-42a4-a31a-c6aabefe1972",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for hepatic portal system. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this liver-related structure.",
+      "powerMarkPosition": 78,
+      "answer": "Liver",
+      "acceptableAnswers": [
+        "liver",
+        "Liver"
+      ],
+      "explanation": "The liver is a key component of the Digestive system, involved in hepatic portal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "7ee953d6-d4a9-484c-a3fc-8a1686a5f844",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "This philosophy is sometimes contrasted with deontology, which sees actions as good or evil. Works by proponents of this system of thought include one describing a prison with an unseen watchmen able to see all the prisoners, Panopticon, as well as one about an individual's self-sovereignty, On Liberty. For 10 points, name this philosophy developed by Jeremy Bentham and John Stuart Mill, which advocates the greatest happiness for the greatest number of people.",
+      "powerMarkPosition": 304,
+      "answer": "Utilitarian",
+      "acceptableAnswers": [
+        "Utilitarian",
+        "The Utilitarian"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4390c"
+    },
+    {
+      "id": "53097e79-0df5-4d20-b4c5-fb02aa12faee",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "Tufa is a porous variety of this substance that is also known as travertine. Karst topography develops as this substance is weathered away in water or a weak acid solution. One way it is formed is from the crushed bodies of marine creatures as they are eroded against seashores. Marble is the metamorphosed form of, for 10 points, what sedimentary rock consisting of calcium carbonate?",
+      "powerMarkPosition": 213,
+      "answer": "limestone",
+      "acceptableAnswers": [
+        "limestone",
+        "The limestone"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f2118"
+    },
+    {
+      "id": "a00847ca-a29e-4440-b56f-8124c59a5c41",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "In Eastern Orthodox churches, this practice can't be done until twelve silver objects are held by twenty-four archimandrites for sanctification. The scriptural basis for this practice comes from Acts 8:14 and19:1. It can include a touch or slap on the cheek with the injunction \"Pax tecum\", and the ceremony includes the \"laying of the hands\" and a blessing with chrism. Candidates must have already been baptized before, for 10 points, what Catholic sacrament in which a youth past the age of discretion receives the Holy Spirit and commits to the Church?",
+      "powerMarkPosition": 213,
+      "answer": "Confirmation",
+      "acceptableAnswers": [
+        "Confirmation",
+        "chrismation before “chrism” is read",
+        "The Confirmation"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df439f9e"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "3fadf0d3-ab62-4f1b-9122-a3e5559894be",
+      "linkedTossupId": "363d52ed-8340-488c-b79b-8b9bf66e4e36",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Indian-American anthropologist who wrote The Social Life of Things.",
+          "answer": "Appadurai",
+          "acceptableAnswers": [
+            "Appadurai",
+            "The Appadurai"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Appadurai's book Modernity at Large is a study of this phenomenon, whose \"discontents\" are examined in a book by Joseph Stiglitz. Popular studies of it include Thomas Friedman's The World Is Flat.",
+          "answer": "globalization",
+          "acceptableAnswers": [
+            "globalization",
+            "outsourcing",
+            "trade",
+            "free trade",
+            "The globalization"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Appadurai's essay titled for the \"Capacity to\" do this action begins: \"Poverty is many things, all of them bad.\" With Dembo and Sears, Kurt Lewin proposed a theory of \"levels\" of this concept, in which the capacity for it is related to a person's values and their realism with regards to goals.",
+          "answer": "aspiration",
+          "acceptableAnswers": [
+            "aspiration",
+            "word forms such as aspire",
+            "aspiring",
+            "accept “The Capacity to Aspire”",
+            "levels of aspiration",
+            "The aspiration"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Erica Lorraine Williams adapted her concept of \"touriscape\" from this anthropologist's description of different \"scapes,\" such as \"ethnoscapes.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68aa6f81eb7f936a9a15e56f"
+    },
+    {
+      "id": "b2664f99-bb47-427d-9d46-c3ab93016f9f",
+      "linkedTossupId": "b6e57ad2-faf0-4c17-8122-1125ed696475",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with oxygen diffusion.",
+          "answer": "diffusion",
+          "acceptableAnswers": [
+            "diffusion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the diffusion in the respiratory system?",
+          "answer": "Oxygen diffusion",
+          "acceptableAnswers": [
+            "Oxygen diffusion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to oxygen diffusion.",
+          "answer": "partial pressure",
+          "acceptableAnswers": [
+            "partial pressure"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "27360fb1-d202-41a1-917d-8730bd76c9b5",
+      "linkedTossupId": "84cf46ef-58ad-4e9b-90bd-15c6d7939795",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this example of classical conditioning in which the main subject was made to fear contact with a rat by the making of a loud noise behind his head whenever he touched the rat.",
+          "answer": "Little Albert",
+          "acceptableAnswers": [
+            "Little Albert",
+            "The Little Albert"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Little Albert experiment was conducted by this behaviorist psychologist who tackled the subject of child rearing in his book Psychological Care of Infant and Child.",
+          "answer": "Watson",
+          "acceptableAnswers": [
+            "Watson",
+            "The Watson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This contemporary of Watson argued for the establishment of \"genetic psychology\" in his book Adolescence, and he thought that only children were severely hampered in their social capacities.",
+          "answer": "Hall",
+          "acceptableAnswers": [
+            "Hall",
+            "The Hall"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This experiment was partially conducted by Rosalie Rayner. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d0fb"
+    },
+    {
+      "id": "0cd099fc-8c7e-4e56-89c4-059943effc7b",
+      "linkedTossupId": "0573ce08-9d83-4c29-8e6e-f067de31f5fe",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this novel about a discussion between Marco Polo and Kublai Khan about the title constructs.",
+          "answer": "Invisible Cities",
+          "acceptableAnswers": [
+            "Invisible Cities",
+            "Citta Invisibili",
+            "The Invisible Cities"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Invisible Cities is by this Italian author of If on a winter's night a traveler.",
+          "answer": "Calvino",
+          "acceptableAnswers": [
+            "Calvino",
+            "The Calvino"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In If on a winter's night a traveler, the Reader and Ludmilla go to the department of Bothno-Ugaric languages to talk to this expert on Cimmerian literature. This professor and the Cimbrian expert, Professor Galligani, get into an argument about the language used to write Leaning from the steep slope.",
+          "answer": "Uzzi",
+          "acceptableAnswers": [
+            "Uzzi",
+            "either underlined portion",
+            "The Uzzi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this novel, an emperor compares the growth of the title constructs to a game of chess. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab9d9"
+    },
+    {
+      "id": "b5314720-b650-4cf5-88cf-d33014212cce",
+      "linkedTossupId": "a0b618ba-f726-43f2-92c8-661b37233534",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Eric has a book with 420 pages for four weeks from the library. How many pages per week does Eric need to read?",
+          "answer": "105",
+          "acceptableAnswers": [
+            "105",
+            "The 105"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "How many pages per day does Eric need to read from this book?",
+          "answer": "15",
+          "acceptableAnswers": [
+            "15"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "If Eric skips two days one week to go on a vacation, how many pages will he need to read on each of the other days that week to stay caught up?",
+          "answer": "21",
+          "acceptableAnswers": [
+            "21"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "COMPUTATION: Eric wants to be sure to finish his library books in time. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b51f8d"
+    },
+    {
+      "id": "f8d09d33-14d8-4d8f-b72d-e8ed281671e7",
+      "linkedTossupId": "76244239-b2f1-440e-a2b7-a4a122cfc6c5",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Each of these positively charged nucleons consists of two up quarks and a down quark. An atom's atomic number is equal to the number of them in its nucleus.",
+          "answer": "proton",
+          "acceptableAnswers": [
+            "proton",
+            "The proton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Large Hadron Collider is trying to discover this zero-spin particle, which is thought to give all other particles mass through a namesake symmetry-breaking mechanism.",
+          "answer": "Higgs",
+          "acceptableAnswers": [
+            "Higgs",
+            "Higgs particle",
+            "God particle",
+            "prompt on Higgs mechanism",
+            "The Higgs"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The existence of the Higgs boson would explain the difference between massless photons and these massive bosons which mediate the weak nuclear force. Name either.",
+          "answer": "W",
+          "acceptableAnswers": [
+            "W",
+            "W+",
+            "W- bosons in place of W bosons"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some subatomic particles for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43ede"
+    },
+    {
+      "id": "145757de-84d6-4468-92ed-f8bc13d4e0e6",
+      "linkedTossupId": "2633aafa-6f0c-4a36-9c61-8c9bf5cc3903",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with respiratory rate control.",
+          "answer": "diaphragm",
+          "acceptableAnswers": [
+            "diaphragm"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the diaphragm in the respiratory system?",
+          "answer": "Respiratory rate control",
+          "acceptableAnswers": [
+            "Respiratory rate control"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to respiratory rate control.",
+          "answer": "tidal volume",
+          "acceptableAnswers": [
+            "tidal volume"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ca591d63-c37d-4b00-853e-750069345e13",
+      "linkedTossupId": "a26a8f48-06f8-4897-83b1-c0eea63aa9a8",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Swedish Prime Minister who was assassinated by gunshot in February 1986. His death remains controversial, spawning many conspiracy theories.",
+          "answer": "Palme",
+          "acceptableAnswers": [
+            "Palme",
+            "The Palme"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One theory suggests that Palme was killed by South Africa because he was strongly anti-apartheid and had funneled money to this South African political party that won the 1994 elections thanks to Nelson Mandela.",
+          "answer": "African National Congress",
+          "acceptableAnswers": [
+            "African National Congress",
+            "The African National Congress"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Palme was assassinated in this city. In 1973, Jan [\"YON\"] Erik Olsson took four bank employees hostage in this city, and the hostages' sympathy toward their captor led to the identification of a \"syndrome\" named for this capital of Sweden.",
+          "answer": "Stockholm",
+          "acceptableAnswers": [
+            "Stockholm",
+            "The Stockholm"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Christer Pettersson was convicted of this man's murder, but was later acquitted on appeal. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab609"
+    },
+    {
+      "id": "dc3f125b-04a7-42ba-b580-e1ee12d63f02",
+      "linkedTossupId": "9cdc73e7-cb35-4935-af71-8a249c879b34",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this curve in economics which theorizes a relationship between tax rates and government revenue, with 0% and 100% tax rates generating no revenue at all.",
+          "answer": "Laffer",
+          "acceptableAnswers": [
+            "Laffer",
+            "The Laffer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Laffer curve is often associated with this school of economics that argues that economy grows most effectively when barriers for producers, such as income tax, are lowered.",
+          "answer": "supply-side",
+          "acceptableAnswers": [
+            "supply-side",
+            "The supply-side"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This political rhetoric is associated with supply-side economics; it posits that broad tax cuts to businesses will eventually benefit the greater population.",
+          "answer": "trickle-down",
+          "acceptableAnswers": [
+            "trickle-down",
+            "The trickle-down"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It was supposedly drawn on a napkin. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced98a"
+    },
+    {
+      "id": "bba622cf-136a-41c0-a7dc-2cb87ff327ab",
+      "linkedTossupId": "c87a9820-9f34-43a4-946a-8ae57a9c4903",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this quantity measured in kilograms. Weight equals this quantity multiplied by gravitational acceleration.",
+          "answer": "mass",
+          "acceptableAnswers": [
+            "mass",
+            "The mass"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This vector quantity is equivalent to mass multiplied by velocity, and impulse measures the change of this quantity.",
+          "answer": "momentum",
+          "acceptableAnswers": [
+            "momentum",
+            "The momentum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This principle named for a German scientist posits that more knowledge about a particle's position means less knowledge about its momentum and vice versa.",
+          "answer": "Heisenberg",
+          "acceptableAnswers": [
+            "Heisenberg",
+            "The Heisenberg"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "If you go to the moon, your weight changes, but this quantity does not. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0adfcb"
+    },
+    {
+      "id": "e118c920-78aa-496c-8990-86b287222291",
+      "linkedTossupId": "2a5805f7-4246-4805-9a00-8a254ca6f3a1",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Cushing's syndrome is caused by high levels of this hormone, which is produced in the zona fasciculata of the adrenals in response to ACTH. Addison's disease is the result of abnormally low levels of this steroid hormone.",
+          "answer": "cortisol",
+          "acceptableAnswers": [
+            "cortisol",
+            "The cortisol"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Blood cortisol levels control the release of ACTH from one of these two structures, which is an endocrine organ, and the release of CRF from the paraventricular nucleus from the other of these two structures, which, together, form an \"axis\" with the adrenal glands. Name both.",
+          "answer": "hypothalamus",
+          "acceptableAnswers": [
+            "hypothalamus",
+            "The hypothalamus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The removal of both adrenals to cure Cushing's syndrome can cause this other syndrome, in which the pituitary gland continues to grow and produce ACTH and MSH, resulting in hyperpigmentation.",
+          "answer": "Nelson",
+          "acceptableAnswers": [
+            "Nelson",
+            "The Nelson"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about adrenal insufficiency, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba95b3f"
+    },
+    {
+      "id": "0e4624b5-9368-45dd-9582-280b2e30a823",
+      "linkedTossupId": "36d709f1-3c05-49f9-a3ff-712072c9171a",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this type of person, one of whom \"singeth loud his godly hymns / That he makes in the wood.\" He mans a skiff along with the Pilot and the Pilot's boy to rescue the Ancient Mariner in Coleridge's poem.",
+          "answer": "hermit",
+          "acceptableAnswers": [
+            "hermit",
+            "synonyms like eremite",
+            "anchorite",
+            "recluse",
+            "solitary",
+            "prompt on ascetics",
+            "monks",
+            "holy men",
+            "and similar answers",
+            "The hermit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another English Romantic hermit appears in this poet's long poem \"Beachy Head,\" which ends with the drowning of a \"hermit of the rocks.\" Her Elegiac Sonnets helped repopularize the sonnet.",
+          "answer": "C",
+          "acceptableAnswers": [
+            "C",
+            "Smith"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At the end of this poem's first stanza, the speaker imagines \"some Hermit's cave, where by his fire / The Hermit sits alone.\" This Wordsworth poem is titled for a building on the banks of the Wye river.",
+          "answer": "Tintern Abbey",
+          "acceptableAnswers": [
+            "Tintern Abbey",
+            "“Lines Composed a Few Miles above Tintern Abbey",
+            "On Revisiting the Banks of the Wye during a Tour. July 13",
+            "1798”",
+            "The Tintern Abbey"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A \"holy\" one of these people kneels all day on a \"cushion plump\" of moss on top of a \"rotted old oak-stump.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c08d5b3dc7dc712c7895"
+    },
+    {
+      "id": "4929452c-6439-43c9-8988-d4ff8077f987",
+      "linkedTossupId": "ece0c85a-9aa3-4bdd-a22e-edebeee367d6",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "What first book of the Old Testament opens with the words \"in the beginning...\"?",
+          "answer": "Genesis",
+          "acceptableAnswers": [
+            "Genesis",
+            "Bereshit",
+            "The Genesis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "According to the Book of Genesis, this wife of Abraham gave birth to Isaac.",
+          "answer": "Sarah",
+          "acceptableAnswers": [
+            "Sarah",
+            "Sarai",
+            "The Sarah"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Isaac fathered this younger twin with Rebecca. This twin brother of Esau worked for his uncle Laban for 14 years before he was allowed to marry his cousin Rachel.",
+          "answer": "Jacob",
+          "acceptableAnswers": [
+            "Jacob",
+            "Ya’aqov",
+            "accept Ya’qub",
+            "The Jacob"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This book ends with the death of Joseph. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b70f"
+    },
+    {
+      "id": "b148d8e1-b442-4114-af2f-38b180b89752",
+      "linkedTossupId": "2543b934-6d45-4605-acbb-198bdb11bfb2",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with synaptic transmission.",
+          "answer": "axon",
+          "acceptableAnswers": [
+            "axon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the axon in the nervous system?",
+          "answer": "Synaptic transmission",
+          "acceptableAnswers": [
+            "Synaptic transmission"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to synaptic transmission.",
+          "answer": "dendrite",
+          "acceptableAnswers": [
+            "dendrite"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "73b56771-cd6e-4fc0-a812-4b2c0ea25943",
+      "linkedTossupId": "96197905-8912-42f0-8289-b08701127831",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these half-bird, half-woman creatures from Greek mythology. These creatures, when not serving as the \"hounds of Zeus,\" regularly carried off evildoers to the Erinyes.",
+          "answer": "harpy",
+          "acceptableAnswers": [
+            "harpy",
+            "The harpy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The harpies would have continued harassing Phineus, likely to the end of time, if it wasn't for the intervention of this leader of the Argonauts. Phineus thanked this man by telling him how to get past the Symplegades, which allowed this man to continue his quest for the Golden Fleece.",
+          "answer": "Jason",
+          "acceptableAnswers": [
+            "Jason",
+            "The Jason"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In some stories, Jason also needed the help of Calais and Zetes, the sons of a god of this specific phenomenon. Boreas, the bringer of winter, was a god of this specific phenomenon.",
+          "answer": "North wind",
+          "acceptableAnswers": [
+            "North wind",
+            "The North wind"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These creatures were tasked by Zeus to destroy Phineus's food to punish him for revealing a prophecy given by Zeus. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc00517c"
+    },
+    {
+      "id": "fbb11149-0c0e-4fc0-8397-ba091ad95c1d",
+      "linkedTossupId": "15591dbf-7003-421c-9e3e-9200cfdf742b",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The goat Djali performs tricks for her owner in this novel, and Pierre Gringoire is a poet who goes into the \"Court of Miracles\". Claude Frollo dies from falling off the titular building.",
+          "answer": "Hunchback of Notre Dame",
+          "acceptableAnswers": [
+            "Hunchback of Notre Dame",
+            "The Hunchback of Notre Dame"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This owner of the goat Djali is accused of witchcraft by Claude Frollo, and is executed at the end of the novel.",
+          "answer": "Esmerelda",
+          "acceptableAnswers": [
+            "Esmerelda",
+            "The Esmerelda"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of Hunchback of Notre Dame also wrote Les Miserables.",
+          "answer": "Hugo",
+          "acceptableAnswers": [
+            "Hugo",
+            "The Hugo"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about a novel, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63bba673874e0ef7dd7b25f1"
+    },
+    {
+      "id": "9c7d7e58-e25b-4e7b-aa30-5eb4cf66d889",
+      "linkedTossupId": "5517da0e-4c5f-42a4-a31a-c6aabefe1972",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with limbic system.",
+          "answer": "cerebrum",
+          "acceptableAnswers": [
+            "cerebrum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cerebrum in the nervous system?",
+          "answer": "Limbic system",
+          "acceptableAnswers": [
+            "Limbic system"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to limbic system.",
+          "answer": "cerebellum",
+          "acceptableAnswers": [
+            "cerebellum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e87b3970-19eb-436c-83b6-2513defeb28c",
+      "linkedTossupId": "7ee953d6-d4a9-484c-a3fc-8a1686a5f844",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this ancient Greek philosopher, a student of Plato. He contrasted \"unnatural\" and \"natural\" motion in works like Physics and On the Heavens.",
+          "answer": "Aristotle",
+          "acceptableAnswers": [
+            "Aristotle",
+            "Aristoteles",
+            "The Aristotle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Aristotle also proposed the existence of this substance which was thought to permeate through all space. Its existence was disproven through the Michelson-Morley experiment.",
+          "answer": "ether",
+          "acceptableAnswers": [
+            "ether",
+            "The ether"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Aristotle claimed that heavier objects fall faster than lighter ones, which is untrue in a vacuum but may be true when this force is acting on them. This force opposes the motion of a falling object.",
+          "answer": "air resistance",
+          "acceptableAnswers": [
+            "air resistance",
+            "air drag",
+            "prompt on air friction",
+            "The air resistance"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This scientist posited that everything was made out of four elements - earth, air, fire, and water. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65666dfd443a0a5dea0043b2"
+    },
+    {
+      "id": "521f35c5-8cbe-4ac7-b923-9dea07fe020f",
+      "linkedTossupId": "53097e79-0df5-4d20-b4c5-fb02aa12faee",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This term refers to the fleshy, spore-bearing fruity body of a fungus. Varieties include puffball, stinkhorn, morel, and portabella.",
+          "answer": "mushroom",
+          "acceptableAnswers": [
+            "mushroom",
+            "The mushroom"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "On a microscopic level, the fungi that sprout mushrooms tend to grow as these cylindrical, threadlike structures. An interconnected network of these structures is known as a mycelium.",
+          "answer": "hyphae",
+          "acceptableAnswers": [
+            "hyphae",
+            "The hyphae"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Throughout most of its life cycle, a fungal organism will exhibit this genetic characteristic that can be achieved via meiosis, when a cell only has half of the chromosomes that it is supposed to have.",
+          "answer": "haploid",
+          "acceptableAnswers": [
+            "haploid",
+            "The haploid"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some fungi, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced851"
+    },
+    {
+      "id": "2cebf27c-2387-482a-ac3f-6042eb9936f8",
+      "linkedTossupId": "a00847ca-a29e-4440-b56f-8124c59a5c41",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this race, which later emerges victorious at the battle of Cumorah. They are divinely marked with dark skin for their evil ways.",
+          "answer": "Lamanites",
+          "acceptableAnswers": [
+            "Lamanites",
+            "The Lamanites"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Lamanites defeat the Nephites in North America during an episode in this religious text, which according to tradition was revealed to Joseph Smith as an inscription on golden plates.",
+          "answer": "Book of Mormon",
+          "acceptableAnswers": [
+            "Book of Mormon",
+            "The Book of Mormon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This scripture joins the Bible and the Doctrine and Covenants among the Latter-Day Saints' standard works. Containing the Book of Abraham and autobiographical material by Joseph Smith, it takes its name from a parable in the Gospel of Matthew.",
+          "answer": "Pearl of Great Price",
+          "acceptableAnswers": [
+            "Pearl of Great Price",
+            "The Pearl of Great Price"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This group oppresses the people of Zeniff, who had left Zarahemia to return to their ancestral homeland only to find this group occupying it. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a45c"
+    }
+  ]
+}

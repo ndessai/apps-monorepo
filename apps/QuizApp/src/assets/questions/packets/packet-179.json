@@ -1,0 +1,1154 @@
+{
+  "packetId": "packet-179",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Literature",
+    "Fine Arts",
+    "Mythology",
+    "Social Science",
+    "History",
+    "Science",
+    "Human Body"
+  ],
+  "tossups": [
+    {
+      "id": "2911c3f9-d962-40e1-a77b-b790e6480d50",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "The short story Runaround introduced a statement that these things \"may not injure a human being or, through inaction, allow a human being to come to harm\". That is the first of three laws governing these things, which had \"positronic brains\" in stories by Isaac Asimov. In the title of an Asimov collection, the word \"I\" is followed by the name of, for 10 points, what machines which are also called \"Mechanical Men\" in the story?",
+      "powerMarkPosition": 234,
+      "answer": "robot",
+      "acceptableAnswers": [
+        "robot",
+        "putative synonyms like androids",
+        "machines",
+        "computers",
+        "artificial intelligences",
+        "AIs",
+        "The robot"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef79cbbbb69a5263cde4"
+    },
+    {
+      "id": "03895852-7011-4925-b5af-6852ce4752d3",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "text": "As a solo artist, one person with this last name released the Indian-inspired album Journey in Satchidananda, on which they played the harp. Another artist with this last name replaced Sonny Rollins to form the First Great Quintet of Miles Davis. Ira Gitler described the unique style of improvisation of that player with this last name as \"sheets of sound,\" and also created a jazz version of Rodgers and Hammerstein's \"My Favorite Things.\" A saxophonist with this surname was the band leader on albums such as A Love Supreme and Giant Steps. For ten points, give this surname shared by the jazz musician Alice and her husband, John.",
+      "powerMarkPosition": 339,
+      "answer": "Coltrane",
+      "acceptableAnswers": [
+        "Coltrane",
+        "Turiya Alice Coltrane",
+        "John Coltrane",
+        "The Coltrane"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0af0df"
+    },
+    {
+      "id": "fb0157b4-0c54-4f2b-b6bb-0b279c0abce8",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "text": "In one poem by this author, the speaker proclaims that despite having \"never believed in any promised heaven in the sky\" he believes \"in a heaven I'll never enter.\" In another poem, this author of \"A Dog Has Died\" described a time when \"there were thirst and hunger, and you were the fruit\" and called one poem's subject \"deserted like the wharves at dawn.\" A poem by this author repeats the refrain \"in you everything sank!\" and begins by declaring that \"the memory of you emerges from the night around me.\" For 10 points, name this Chilean poet of Twenty Love Poems and a Song of Despair.",
+      "powerMarkPosition": 399,
+      "answer": "Neruda",
+      "acceptableAnswers": [
+        "Neruda",
+        "The Neruda"
+      ],
+      "source": "qbreader",
+      "sourceId": "64c4601ce6811c453d40de4a"
+    },
+    {
+      "id": "62fb921e-c5a5-44e3-baff-e1302f5ba4e4",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "A Tibetan film titled for one of these objects centers on the story of two members of a monastery town who try to locate at TV in order to watch a soccer tournament. Faith No More's final album features \"She Loves Me Not\" and the title track about the last object of this type \"of Sorrow.\" Marge Simpson's insistence to buy one of these objects leads her to spell out its name and inadvertently tell a sporting equipment vendor that she wanted to watch him urinate. For 10 points, name this object that is paired with two girls in an internet shock video.",
+      "powerMarkPosition": 465,
+      "answer": "cup",
+      "acceptableAnswers": [
+        "cup",
+        "The Cup",
+        "Phorpa before \"Faith No More\""
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43354"
+    },
+    {
+      "id": "f2587639-5b1e-4425-9d9b-b12298f0badd",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "One account states that this entity was merely a mountain that hovered over the seas, which caused many people to fantasize about what it might do to them. According to the text Il Milione, this entity was spotted accurately by some inhabitants of Madagascar, and it is capable of tossing elephants into the air. One dude who encounters one of these creatures steps onto a huge pile of meat and is transported by one out of a valley where diamonds line its base like a carpet does. This animal is often conflated with the simurgh and the Indian Garuda. Sinbad the Sailor encounters the eggs of these creatures, who naturally eat snakes. For 10 points, name this huge-ass Persian bird.",
+      "powerMarkPosition": 390,
+      "answer": "Roc",
+      "acceptableAnswers": [
+        "Roc",
+        "The Roc"
+      ],
+      "source": "qbreader",
+      "sourceId": "63059e1643cf02018762365a"
+    },
+    {
+      "id": "601629ff-62fe-4b22-a3b8-c23b1ba585aa",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "In a semi-autobiographical novel, this man wrote about imagining stabbing in the stomach a young man whose taut muscles excited him. One of his short novels features the dissection of a cat by a group of children and the eventual poisoning death of Ryuji by Fusako's sone Noboru, who resents Ryuji for the titular act. In addition to The Sailor Who Fell From Grace with the Sea, this man also wrote of suppressed homosexuality in Forbidden Colors, as well as of the life story of Shigekuni Honda and the various incarnations of his childhood friend Kiyoaki in such works as Runaway Horses and Decay of the Angel. For 10 points, identify this Japanese author, best known for such works as Confessions of a Mask and the tetralogy Sea of Fertility.",
+      "powerMarkPosition": 318,
+      "answer": "Mishima",
+      "acceptableAnswers": [
+        "Mishima",
+        "The Mishima"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9dbc8f282ed3d43132"
+    },
+    {
+      "id": "4b218c99-abef-4405-8e21-2a4a31728e84",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "The fronting or raising of back vowels in languages of this family is often described with the term \"mutation.\" In many languages from this family, the present-tense conjugation of modal verbs takes the form of the preterite. Fricatives after unstressed syllables in these languages became voiced according to Verner's law. These languages have inherited a form of ablaut in their stem-vowel-changing strong verbs. The transition of stops in P·I·E into other consonants in this family's proto-language is described by Grimm's law. Starting around 1400, long vowels in one of this family's languages changed drastically in the Great Vowel Shift. For 10 points, name this language family that includes Scandinavian languages and English.",
+      "powerMarkPosition": 400,
+      "answer": "Germanic",
+      "acceptableAnswers": [
+        "Germanic",
+        "Indo–European",
+        "The Germanic"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382c2fba161cf1fc596566e"
+    },
+    {
+      "id": "6e480ef2-e18e-425b-8b9f-dd1db16a2d28",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "This man controversially refused to allow several women and children to pass through his army after they had been ejected from a nearby city, so they died of starvation en masse in a nearby ditch. After his youngest brother was wounded in the groin, this man made sure he was taken away safely, losing a piece of his helm to an axe-blow in the process. This man managed to flip the allegiance of the Holy Roman Emperor Sigismund in the Treaty of Canterbury. This man was granted a \"double-subsidy\" to finance his best-known campaign, during which he besieged Harfleur and ordered the slaughter of several thousand prisoners at a later battle where the only setback he faced was a raid on his lightly-protected baggage train. This man's brother, the Duke of Clarence, took over when he left France, soon after marrying Catherine of Valois and being recognized as heir-apparent to the French throne in the Treaty of Troyes. On Saint Crispin's Day, this man's longbows wreaked havoc on French knights. For 10 points, name this English king who won the Battle of Agincourt.",
+      "powerMarkPosition": 558,
+      "answer": "Henry V",
+      "acceptableAnswers": [
+        "Henry V",
+        "Henry",
+        "The Henry V"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed6a483fe041d20f4a4a04"
+    },
+    {
+      "id": "213165b0-f26c-48e7-a45d-9a9c1a50b332",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "One character in this play concludes that there's \"nothing to be done\" after failing to remove his boots. That character goes on a rambling monologue beginning with \"Given the existence as uttered forth in the public works of Puncher and Wattmann\" and repeats the phrase \"quaquaquaqua\" after putting on his \"thinking cap\" in this play. After a belt breaks, the main characters of this play fail to hang themselves on the single tree onstage. Pozzo goes blind and Lucky becomes mute at the end of, for 10 points, what Samuel Beckett play in which Vladimir and Estragon never see the title character?",
+      "powerMarkPosition": 306,
+      "answer": "Waiting for Godot",
+      "acceptableAnswers": [
+        "Waiting for Godot",
+        "The Waiting for Godot"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7de7"
+    },
+    {
+      "id": "eb4b06f4-7a45-4f5f-b09f-cb06f58e009a",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "In 2007, a ten-year-old policy banning the use of two of these things promulgated by the Canadian High Commission in New Delhi was rescinded. An 1874 paper that developed a stochastic process to model the disappearance of some of these things was written by Henry William Watson and Francis Galton. An 1811 edict promulgated by Napoleon resulted in the creation of over 100,000 of these things in the Netherlands, some of which are preceded by Tussenvoegsels[tooh-sen-VOOG-sels]. A Chinese expression meaning \"the common people\", lao bai xing, translates as the \"old hundred\" of these things. Iceland is the only country in Europe whose inhabitants do not typically possess these things. People who receive Amrit Sanchar adopt either \"Kaur\" or another of these things, which in many cultures originate from toponyms, occupations, or patronyms. For 10 points, identify this type of designator, which for around 40% of the population of Vietnam is \"Nguyen.\"",
+      "powerMarkPosition": 592,
+      "answer": "surname",
+      "acceptableAnswers": [
+        "surname",
+        "family names",
+        "last names",
+        "prompt on \"names\"",
+        "\"family/ies\"",
+        "The surname"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289caf5d"
+    },
+    {
+      "id": "d6aa221e-03cf-4f17-ac4b-0700393e0018",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "With Henry Robinson, this author analyzed The Skin of our Teeth as an appropriation from Finnegan's Wake, from which he borrowed a name for one of his concepts. This author used the phrase \"Master of Two Worlds\" to describe transcendental figures like Gautama and Jesus. This author borrowed a term from Adolf Bastian to describe ethnic variations called \"folk ideas\", which are contrasted with universal \"elementary ideas.\" A diagram of a circle cut into uneven semicircles represents this author's idea of the cycle of \"separation - initiation - return\" that begins with the \"call to adventure.\" This author used the word \"monomyth\" to describe a cross-cultural story pattern exemplified by characters like Cu Chulainn and Perseus. For 10 points, name this author of The Masks of God and The Hero With a Thousand Faces.",
+      "powerMarkPosition": 439,
+      "answer": "Campbell",
+      "acceptableAnswers": [
+        "Campbell",
+        "The Campbell"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974226cd"
+    },
+    {
+      "id": "41e93999-5d0d-4a72-b3a0-1acf1ce78eb5",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "This figure cited \"line 157 337\" in a transmission broadcast on 3105 kilohertz. The USGS Itasca was unable to establish communications with this adventurer during an attempt to reach Howland Island. Fred Noonan accompanied this aviator in a Lockheed Electra during a planned circumnavigation of the world. For 10 points, name this pioneering aviator, the first woman to fly solo across the Atlantic, who disappeared in 1937.",
+      "powerMarkPosition": 182,
+      "answer": "Earhart",
+      "acceptableAnswers": [
+        "Earhart",
+        "The Earhart"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3101eabc146a6b8189297"
+    },
+    {
+      "id": "611c8159-0ae3-43e1-820a-5456dd77cc28",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "One system modeled using this distribution considers a container which initially contains a finite number of balls of different colors, and after each successive draw, an additional ball of the drawn color is placed in the container. This statistical distribution is used for the prior topic distribution in a commonly used special case of probabilistic latent semantic analysis introduced by Blei et al; that is its namesake \"latent allocation\". An infinite dimensional version of this distribution is used to model a process in which a new customer either sits next to a person already at a table or at a new table, called the Chinese Restaurant Process. The multivariate beta function is used as the normalizing parameter of this distribution, whose symmetric version is commonly used as a prior in hierarchical Bayesian modelling. For 10 points, name this statistical distribution, the conjugate prior of the multinomial distribution, named for a French mathematician who also lends his name to the pigeonhole principle.",
+      "powerMarkPosition": 628,
+      "answer": "Dirichlet",
+      "acceptableAnswers": [
+        "Dirichlet",
+        "The Dirichlet"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df40b44c1b765cb43c3a47"
+    },
+    {
+      "id": "d8f86682-41d6-400c-87f9-49f980f1ea52",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for cardiac cycle. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this systole-related structure.",
+      "powerMarkPosition": 71,
+      "answer": "Systole",
+      "acceptableAnswers": [
+        "systole",
+        "Systole"
+      ],
+      "explanation": "The systole is a key component of the Cardiovascular system, involved in cardiac cycle.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "70ad15ea-6ad2-4159-b5b6-e26ca30cf892",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "The protagonist of this novel follows a \"tattered man\" and a \"tall soldier\" away from a column of wounded men. After Jim Conklin's death in this novel, the protagonist is hit in the head with a rifle butt and becomes a flag-bearer in the Union army. For 10 points, name this novel by Stephen Crane about Civil War soldier Henry Fleming.",
+      "powerMarkPosition": 116,
+      "answer": "Red Badge of Courage",
+      "acceptableAnswers": [
+        "Red Badge of Courage",
+        "The Red Badge of Courage"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2cd33"
+    },
+    {
+      "id": "267f62ac-0ed9-43f1-8ef4-8a6b2ad30b50",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "This 23-species polyphyletic group includes a species that, in 2021, was discovered to contain two females that reproduced by parthenogenesis (PAR-thuh-no-JEN-uh-sis) despite having access to reproductively capable males. Another species in the group commonly known by this name uses a large olfactory lobe to follow the scent of ethyl mercaptan to find food. The Old World and New World varieties of this bird belong to different families, but both display bald heads due to convergent evolution. For 10 points, give this term for a bird of prey that scavenges on carrion.",
+      "powerMarkPosition": 363,
+      "answer": "vulture",
+      "acceptableAnswers": [
+        "vulture",
+        "The vulture"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d81df703b5396be475937b"
+    },
+    {
+      "id": "a5002989-c358-46e4-816a-f140e894cfac",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "Two hideouts codenamed \"Wolverine 1 and 2\" were raided in this conflict during Operation Red Dawn. French fries in the Congressional cafeterias were renamed to \"freedom fries\" due to France not supporting this conflict. A prominent battle in this conflict occurred in response to the brutal murder of four Blackwater contractors. A photo of an outstretched man draped in black was taken at Abu Ghraib prison during this conflict. An \"end of major combat operations'\" in this conflict was declared in front of a banner reading \"Mission Accomplished\", although it didn't officially end for eight more years. Supposed possession of WMDs was the rationale of, for 10 points, what conflict which saw an American-led coalition depose Saddam Hussein?",
+      "powerMarkPosition": 389,
+      "answer": "Iraq War",
+      "acceptableAnswers": [
+        "Iraq War",
+        "War in Iraq",
+        "accept answers describing the 2003 Invasion of Iraq",
+        "The Iraq War"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f1bd4b1d1753da7fbbfb28"
+    },
+    {
+      "id": "ec5a8439-af90-4eee-912f-ab7c9d2756d6",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "A man holding a stuffed rabbit follows the protagonist of a play by this author from the Eiffel Tower. A play by this author follows a road trip undertaken by the Man and the Women, whose children are played by puppets. The protagonist of a play by this author breaks off a memory of her mother and grandmother arguing about sex, likening changing memories to changing radio stations. In a play by this author, Anna dreams that she and her brother Carl travel to Vienna to find a cure for \"Acquired Toilet Disease.\" This author portrayed the writing of the controversial Sholem Asch play God of Vengeance in the play Indecent. Characters such as Big Papa and Cousin BB are played by a Greek chorus in a play by this author of The Baltimore Waltz. Li'l Bit reflects on the freedom she feels due to her trauma of being molested by her Uncle Peck in that play by this author. For 10 points, name this American playwright of How I Learned to Drive.",
+      "powerMarkPosition": 570,
+      "answer": "Vogel",
+      "acceptableAnswers": [
+        "Vogel",
+        "The Vogel"
+      ],
+      "source": "qbreader",
+      "sourceId": "65d2b4d731bcc15f0a3cec2f"
+    },
+    {
+      "id": "798dfa63-559e-404d-a99c-6ec6fe277eb6",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "high_school",
+      "text": "A culture that made cicadas from this material also used it to plug the nine orifices of a corpse. The so-called \"New Zealand\" form of this material was known by the Māori as Pounamu (\"POH-nuh-moo\"). This material was used to depict a were-jaguar on the Olmec Kunz Axe and for a death mask for Palenque's Pakal the Great. This material is often said to be \"valued at multiple cities\" owing to a story about a disc made of this material dating from the Warring States Period. Those bì (\"BEE\") discs of this material were made from bamboo drills. It's not silk, but a maritime \"road\" dispersed this material from a Taiwanese nephrite mine. For 10 points, a legendary Chinese emperor is named for what precious green material?",
+      "powerMarkPosition": 408,
+      "answer": "jade",
+      "acceptableAnswers": [
+        "jade",
+        "jadeite",
+        "accept the Jade Emperor",
+        "accept nephrite before read",
+        "accept bì until read",
+        "prompt on greenstone",
+        "The jade"
+      ],
+      "source": "qbreader",
+      "sourceId": "666dc6c79f7c4cfdbd6786da"
+    },
+    {
+      "id": "80f885a6-a877-47d7-b984-f48fd354e386",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "A virtuosic piece for this instrument and continuo is attributed to Tomaso Antonio Vitali, though its wild key shifts suggest it may be a musical hoax. Eugène Ysaÿe's (\"ee-ZAH-eez\") second sonata for this instrument begins with a quote from Bach's third E-major partita for this instrument. A set of sonnets accompanied the publication of a set of concerti for this instrument, the score for which included captions comparing certain passages to \"drunkards asleep\" and a \"barking dog.\" Antonio Vivaldi wrote over 200 concertos for this instrument, including ones titled \"Spring\" and \"Summer.\" For 10 points, The Four Seasons are a set of concerti for what string instrument?",
+      "powerMarkPosition": 347,
+      "answer": "violin",
+      "acceptableAnswers": [
+        "violin",
+        "The violin"
+      ],
+      "source": "qbreader",
+      "sourceId": "69390701f4e555b637421066"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "811b2f91-968e-432d-860c-bd34d84d3057",
+      "linkedTossupId": "2911c3f9-d962-40e1-a77b-b790e6480d50",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this journal, called \"Kitty\" by its author, which detailed the life of the title teenager hiding in an upper-floor annex of an office building in Amsterdam.",
+          "answer": "Diary of a Young Girl",
+          "acceptableAnswers": [
+            "Diary of a Young Girl",
+            "The Diary of a Young Girl"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Diary of a Young Girl relates Anne Frank's experiences during this event, in which the Nazis killed over six million Jews.",
+          "answer": "Holocaust",
+          "acceptableAnswers": [
+            "Holocaust",
+            "The Holocaust"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Elie Wiesel book described his time in the Auschwitz and Buchenwald concentration camps and his declining faith in God during the Holocaust.",
+          "answer": "Night",
+          "acceptableAnswers": [
+            "Night",
+            "The Night"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The author of this work assigned the van Pels family the pseudonym \"van Daan,\" but her father kept his family's names the same when he published this book in 1947. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318aca41"
+    },
+    {
+      "id": "c46286bb-2dec-4d16-b35d-f0a34bfb3983",
+      "linkedTossupId": "03895852-7011-4925-b5af-6852ce4752d3",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this Latin American country home to Fernando Botero, whose painting The Presidential Family showcases his trademark cartoonishly fat figures.",
+          "answer": "Colombia",
+          "acceptableAnswers": [
+            "Colombia",
+            "Republic of Colombia",
+            "The Colombia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Presidential Family is a riff on The Family of Carlos IV, a painting by this Spanish artist of The Third of May, 1808.",
+          "answer": "Goya",
+          "acceptableAnswers": [
+            "Goya",
+            "Francisco José de Goya y Lucientes",
+            "The Goya"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While studying in Spain, Botero made many copies of the Goya paintings in this Madrid museum, which houses Velázquez's Las Meninas as well as The Third of May, 1808.",
+          "answer": "Prado",
+          "acceptableAnswers": [
+            "Prado",
+            "the Prado Museum",
+            "The Prado"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One artist from this country adapted his signature style of inflated people to sculpture with works produced in the 1980s such as Maternity and Roman Soldier. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae85e9"
+    },
+    {
+      "id": "1b7ccb13-f218-481e-a5db-2d7e24fa00e2",
+      "linkedTossupId": "fb0157b4-0c54-4f2b-b6bb-0b279c0abce8",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this story whose protagonist, while trying to listen to the violin-playing of his sister Grete, is killed after an apple is launched into his back by his father.",
+          "answer": "Metamorphosis",
+          "acceptableAnswers": [
+            "Metamorphosis",
+            "The Metamorphosis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Czech author of The Trial wrote about Gregor Samsa in The Metamorphosis .",
+          "answer": "Kafka",
+          "acceptableAnswers": [
+            "Kafka",
+            "The Kafka"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Franz Kafka also wrote a short story set at one of these places, where an officer brutally attempts to inscribe the words \"Be Just!\" on his body.",
+          "answer": "penal colony",
+          "acceptableAnswers": [
+            "penal colony",
+            "“In the Penal Colony ”",
+            "The penal colony"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this work, the \"middle\" of three lodgers declares that they will not pay rent to the protagonist. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "689206ab282b420d4a198aa8"
+    },
+    {
+      "id": "93d7abf5-5410-4809-b636-6ea3ba8e6f63",
+      "linkedTossupId": "62fb921e-c5a5-44e3-baff-e1302f5ba4e4",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this play, which was accused by Cardinal Richelieu's French Academy of violating the three unities of time, place, and action. Its title character reconciles with his love, Chimene [shee-men], after fighting off an army.",
+          "answer": "Cid",
+          "acceptableAnswers": [
+            "Cid",
+            "The Cid"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In contrast to Corneille, David G. Muller praised this other author for producing \"examples of neoclassical perfection,\" such as his tragedies Andromaque and Phèdre.",
+          "answer": "Racine",
+          "acceptableAnswers": [
+            "Racine",
+            "Jean-Baptiste Racine",
+            "The Racine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "With Philippe Quinault and this other author, Corneille collaborated on the comedy Psyche. This author collapsed and died after finishing a performance where he played his character Argan, the title Imaginary Invalid.",
+          "answer": "Molière",
+          "acceptableAnswers": [
+            "Molière",
+            "Jean-Baptiste Poquelin",
+            "The Molière"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Georges de Scudéry participated in the \"war of pamphlets,\" which inflamed a scandal involving this play and its author. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6676341efe8264b343f113ae"
+    },
+    {
+      "id": "cbad4184-e4b0-48e5-a5a0-310fa2102053",
+      "linkedTossupId": "f2587639-5b1e-4425-9d9b-b12298f0badd",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these people who collected a series of legendary \"hanging poems,\" which included the story of a man who promised to feed the people every time the east wind blew, named Labīd.",
+          "answer": "Arab",
+          "acceptableAnswers": [
+            "Arab",
+            "The Arab"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Those epic poems made up part of the mu'allaqat, a collection of poems that hung surrounding this building. Muslims circumambulate this building seven times during Hajj.",
+          "answer": "Kaaba",
+          "acceptableAnswers": [
+            "Kaaba",
+            "The Kaaba"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Kaaba was the center of the Quraysh worship of this moon god, whose origin is sometimes linked to the Nabateans. Ibn al-Kalbi related the Arab ritual of shuffling and throwing two arrows labeled \"Pure\" and \"associated alien\" at a statue of this God to determine the legitimacy of contested children.",
+          "answer": "Hubal",
+          "acceptableAnswers": [
+            "Hubal",
+            "The Hubal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These peoples' legends include the story of 'Antar, a hero who defeated invading tribes to win his freedom from slavery and completed a series of labors to win the heart of his cousin 'Abla. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "636ca2cb1b6aedfbdb9f011d"
+    },
+    {
+      "id": "65088d5d-d3c4-42ea-8d22-49ee6a4b3d1b",
+      "linkedTossupId": "601629ff-62fe-4b22-a3b8-c23b1ba585aa",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "John Grady Cole travels to Mexico, falls in love, gets imprisoned, escapes death, and returns to Texas in this first novel in Cormac McCarthy's Border Trilogy.",
+          "answer": "All the Pretty Horses",
+          "acceptableAnswers": [
+            "All the Pretty Horses",
+            "The All the Pretty Horses"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gus McCrae and W.F. Call's cattle drive from to is the subject of this epic Larry McMurtry novel.",
+          "answer": "Lonesome Dove",
+          "acceptableAnswers": [
+            "Lonesome Dove",
+            "The Lonesome Dove"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This writer worked as both a gold miner and a cowboy before writing Tarzan of the Apes in 1914.",
+          "answer": "Burroughs",
+          "acceptableAnswers": [
+            "Burroughs",
+            "The Burroughs"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these cowboys or the literary works in which they appear, For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bca72e7fe60f397fb4a8ae"
+    },
+    {
+      "id": "43b2795d-3442-4e4b-b4d5-1fa9d8426630",
+      "linkedTossupId": "4b218c99-abef-4405-8e21-2a4a31728e84",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this school of international relations theory, often contrasted with liberalism.",
+          "answer": "realism",
+          "acceptableAnswers": [
+            "realism",
+            "The realism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the earliest records of realist theory is this passage from Thucydides. In it, an Athenian ambassador tells residents of the namesake island that \"the strong do what they can, and the weak suffer what they must.\"",
+          "answer": "Melian",
+          "acceptableAnswers": [
+            "Melian",
+            "Melos",
+            "accept synonyms for “dialogue” that mention Melian",
+            "The Melian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This classical realist was a prominent critic of the Vietnam War, publishing an NYT article claiming the US was deluding itself in Vietnam. This thinker proposed \"Six Principles of Political Realism\" in an influential IR textbook.",
+          "answer": "Morgenthau",
+          "acceptableAnswers": [
+            "Morgenthau",
+            "The Morgenthau"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In Theory of International Politics, Kenneth Waltz subdivided the structural type of this school into offensive and defensive forms. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64740f170044bbd367c3f645"
+    },
+    {
+      "id": "c23eaed9-a854-4ea9-89d0-7bb8507582b3",
+      "linkedTossupId": "6e480ef2-e18e-425b-8b9f-dd1db16a2d28",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "For 10 points, name this ancient Greek explorer who recounted his travels around the British Isles in On the Ocean. This explorer also claimed to have visited a distant northern land called Thule (\"too-LEE\"), whose location is unclear.",
+          "answer": "Pytheas",
+          "acceptableAnswers": [
+            "Pytheas",
+            "The Pytheas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pytheas described his voyage in one of these documents used by ancient seafarers listing the notable geographical features and ports. The most famous of these documents is named for the Erythraean Sea.",
+          "answer": "periplus",
+          "acceptableAnswers": [
+            "periplus",
+            "Periplus of the Erythraean Sea",
+            "The periplus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While in Britain, Pytheas visited Cornwall, whose mines were abundant in this metal. This metal was alloyed with copper to produce bronze in the ancient world.",
+          "answer": "tin",
+          "acceptableAnswers": [
+            "tin",
+            "The tin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The earliest written reference to Britain likely comes from an account by this voyager during the 4th century BC. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67cb4e10a4d5f0b0e22ac04e"
+    },
+    {
+      "id": "b1a249d9-b32e-4239-a4a3-0ae831516f65",
+      "linkedTossupId": "213165b0-f26c-48e7-a45d-9a9c1a50b332",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this type of poem whose Shakespearean form has rhyme scheme ABAB CDCD EFEF GG.",
+          "answer": "sonnet",
+          "acceptableAnswers": [
+            "sonnet",
+            "The sonnet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This wife of the author of My Last Duchess wrote forty-four love sonnets during their courtship; those poems were later published as Sonnets from the Portuguese.",
+          "answer": "E",
+          "acceptableAnswers": [
+            "E",
+            "either"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sonnet XLIII (\"forty-three\") from Sonnets from the Portuguese begins, \"How do I love thee?\". Complete the first line of that poem by giving the next five words.",
+          "answer": "let me count the ways",
+          "acceptableAnswers": [
+            "let me count the ways",
+            "The let me count the ways"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This fourteen-line poetic form was popularized in England by Thomas Wyatt. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec668c"
+    },
+    {
+      "id": "967100ba-9c92-4be3-82df-dc39d44949d0",
+      "linkedTossupId": "eb4b06f4-7a45-4f5f-b09f-cb06f58e009a",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this skull that belonged to a three-year-old child, and was named for the site where it was found in 1924.",
+          "answer": "Taung",
+          "acceptableAnswers": [
+            "Taung",
+            "The Taung"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Grafton Elliot Smith and Arthur Keith were the teachers of this Australian anthropologist and archaeologist, who investigated the Makapansgat Limeworks and first analyzed the skull of Taung Child.",
+          "answer": "Dart",
+          "acceptableAnswers": [
+            "Dart",
+            "The Dart"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Taung Child was the first example of this early hominid species, which lived from 3.3 to 2.5 million years ago. An adult example known as STS 5 was discovered by Robert Blood and, although initially misclassified, is still nicknamed Mrs. Ples.",
+          "answer": "africanus",
+          "acceptableAnswers": [
+            "africanus",
+            "The africanus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "According to Lee Burger of the University of Witwatersrand, which interestingly is located in South Africa, an eagle killed it. FTPE:",
+      "source": "qbreader",
+      "sourceId": "64683d300d0d0e5f184a34ea"
+    },
+    {
+      "id": "ee1443db-3bf1-4faf-8249-f3902434237e",
+      "linkedTossupId": "d6aa221e-03cf-4f17-ac4b-0700393e0018",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these people, the heads of operations of a public company. Mark Zuckerberg holds this role at Facebook.",
+          "answer": "C",
+          "acceptableAnswers": [
+            "C",
+            "chief executive"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Robert Bushman wrote about the link between risk-taking and the desire for wealth among CEOs of these institutions. Gillian Tett examined these institutions from an anthropological perspective in Fool's Gold.",
+          "answer": "bank",
+          "acceptableAnswers": [
+            "bank",
+            "The bank"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Much of the anthropological analysis of corporate culture draws on this economist's work The Great Transformation, which examined the development of the 'market society'.",
+          "answer": "Polanyi",
+          "acceptableAnswers": [
+            "Polanyi",
+            "The Polanyi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A study of these people by Duc Duy Nguyen et al showed that when these people are second or third generation immigrants, profitability increases. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba96da5"
+    },
+    {
+      "id": "3ef86945-080a-4ed2-83ec-969d307a0ba6",
+      "linkedTossupId": "41e93999-5d0d-4a72-b3a0-1acf1ce78eb5",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Twitter users jokingly stated that they were moving to this country after Trump stated that its health care system is \"increasingly self-sufficient.\"",
+          "answer": "Nambia",
+          "acceptableAnswers": [
+            "Nambia",
+            "The Nambia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Trump was also mocked for stating this man \"is being recognized more and more,\" seemingly not realizing that this abolitionist has been dead for over a hundred years.",
+          "answer": "Douglass",
+          "acceptableAnswers": [
+            "Douglass",
+            "The Douglass"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Description acceptable. Memes of Trump doing this action were circulated shortly after the solar eclipse, when Trump did this action despite an aide warning him not to.",
+          "answer": "looking directly at the sun",
+          "acceptableAnswers": [
+            "looking directly at the sun",
+            "The looking directly at the sun"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these Donald Trump gaffes that got him roasted on Twitter:",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7e4b"
+    },
+    {
+      "id": "2d546544-4cd1-4a98-a35a-b2a7c0c7b08a",
+      "linkedTossupId": "611c8159-0ae3-43e1-820a-5456dd77cc28",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these rigid devices used to set up optics experiments. These devices are similar to smaller benches or rails that are often used in introductory physics labs.",
+          "answer": "table",
+          "acceptableAnswers": [
+            "table",
+            "The table"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Optical tables must meet many stringent requirements because aligning the beams from these devices is difficult. These devices emit high-power coherent light.",
+          "answer": "laser",
+          "acceptableAnswers": [
+            "laser",
+            "light amplification by stimulated emission of radiation",
+            "The laser"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a typical interferometry setup, one of these devices is mounted on the table in front of incoming laser light. Examples of these devices consist of a cube of two right-angle prisms and glass coated with a dichroic coating.",
+          "answer": "beamsplitter",
+          "acceptableAnswers": [
+            "beamsplitter",
+            "The beamsplitter"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A regular grid of mounting holes is located on the top of these experimental devices, whose core is usually a metal honeycomb structure. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edc5411249c9578b2abe2f"
+    },
+    {
+      "id": "c335f519-678f-4597-978b-1302a6091326",
+      "linkedTossupId": "d8f86682-41d6-400c-87f9-49f980f1ea52",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with epidermis structure.",
+          "answer": "epidermis",
+          "acceptableAnswers": [
+            "epidermis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the epidermis in the integumentary system?",
+          "answer": "Epidermis structure",
+          "acceptableAnswers": [
+            "Epidermis structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the integumentary system related to epidermis structure.",
+          "answer": "dermis",
+          "acceptableAnswers": [
+            "dermis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human integumentary system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ad3945d9-6a02-49b7-98fb-347c9b6958ed",
+      "linkedTossupId": "70ad15ea-6ad2-4159-b5b6-e26ca30cf892",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this period of African-American cultural growth and expression that began after World War I and gave the world such works as Jacob Lawrence's Migration Series of paintings and Countee Cullen's The Ballad of the Brown Girl.",
+          "answer": "Harlem Renaissance",
+          "acceptableAnswers": [
+            "Harlem Renaissance",
+            "The Harlem Renaissance"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Perhaps the best known Harlem Renaissance writer is this man, who wrote about Sandy Rodgers in Not Without Laughter and the poetry collection The Weary Blues.",
+          "answer": "Hughes",
+          "acceptableAnswers": [
+            "Hughes",
+            "The Hughes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Harlem Renaissance writer told the story of Bita Plant's life and her return to Jamacia in the novel Banana Bottom, in addition to writing a work that focused on the treatment of French black colonials in the Vieux Port section of Marseilles, Banjo.",
+          "answer": "McKay",
+          "acceptableAnswers": [
+            "McKay",
+            "The McKay"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It was marked by an explosion of jazz, art, and literature, and it was centered on the namesake neighborhood. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced90a"
+    },
+    {
+      "id": "cb314c87-6e9c-42ed-96b1-b5614e516850",
+      "linkedTossupId": "267f62ac-0ed9-43f1-8ef4-8a6b2ad30b50",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this ion whose absorption requires vitamin D. This ion is released during muscle contraction by the sarcoplasmic reticulum.",
+          "answer": "calcium",
+          "acceptableAnswers": [
+            "calcium",
+            "Ca2+",
+            "Ca+2",
+            "calcium 2+",
+            "calcium +2",
+            "The calcium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The sodium-potassium pump is found in the axons of these cells. These cells relay signals to and from the brain and spinal cord via electrical impulses.",
+          "answer": "neuron",
+          "acceptableAnswers": [
+            "neuron",
+            "nerve cells",
+            "nerves",
+            "The neuron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The sodium-potassium pump brings this quantity in the neuron back to its \"resting\" value. Nerve impulses are initiated when sodium ion channels \"gated\" by this quantity open past its \"threshold\" value.",
+          "answer": "potential",
+          "acceptableAnswers": [
+            "potential",
+            "voltage",
+            "electric potential difference",
+            "scalar potential",
+            "threshold voltage",
+            "threshold potential",
+            "action potentials",
+            "resting potential",
+            "membrane resting potential",
+            "accept voltage-gated channels",
+            "reject “potential energy”",
+            "“electric potential energy”",
+            "The potential"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Cardiac glycosides like digitalis cause increased cytoplasmic concentration of this ion by inhibiting sodium-potassium pumps. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "69390703f4e555b6374211bf"
+    },
+    {
+      "id": "30d8b2e6-1c71-4194-ba5a-6863755d52cf",
+      "linkedTossupId": "a5002989-c358-46e4-816a-f140e894cfac",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "At the Battle of Chaldiran in 1514, Selim crushed the forces of Ismail, the founder of this Persian dynasty that rivaled the Ottomans for the next two centuries.",
+          "answer": "Safavid",
+          "acceptableAnswers": [
+            "Safavid",
+            "The Safavid"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 1517, Selim defeated and conquered this Egyptian sultanate ruled by a namesake caste of Caucasian soldiers with slave origins.",
+          "answer": "Mamluk",
+          "acceptableAnswers": [
+            "Mamluk",
+            "The Mamluk"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Selim's conquest of the Mamluks enabled him to control routes to this holiest Muslim city, the home of the Kaaba.",
+          "answer": "Mecca",
+          "acceptableAnswers": [
+            "Mecca",
+            "Makkah",
+            "The Mecca"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the accomplishments of the Ottoman sultan Selim the Grim, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff91b"
+    },
+    {
+      "id": "acc058ff-5c6c-4873-81c0-edfe6982c578",
+      "linkedTossupId": "ec5a8439-af90-4eee-912f-ab7c9d2756d6",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this playwright. He wrote about a young copy editor who is told that her guardian angel is leaving her to fight against God, who is \"taking the rest of the universe with him\" as he dies, in his play Marisol.",
+          "answer": "Rivera",
+          "acceptableAnswers": [
+            "Rivera",
+            "The Rivera"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rivera is from this island. Other writers from this island include Francisco Arriví and Giannina Braschi, who wrote Yo-Yo Boing!.",
+          "answer": "Puerto Rico",
+          "acceptableAnswers": [
+            "Puerto Rico",
+            "Estado Libre Asociado de Puerto Rico",
+            "The Puerto Rico"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rivera's plays are often described as being part of this fantastical literary genre pioneered by Latin American writers like Alejo Carpentier.",
+          "answer": "magic",
+          "acceptableAnswers": [
+            "magic",
+            "magical realist",
+            "realismomágico",
+            "accept marvelousrealism",
+            "do not accept",
+            "prompt on partial answers",
+            "The magic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This playwright wrote about the tragic love between Aníbal de la Luna and Celestina del Sol in his play Cloud Tectonics. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974234be"
+    },
+    {
+      "id": "c03c2885-62b5-4121-9698-f18d5e16a593",
+      "linkedTossupId": "798dfa63-559e-404d-a99c-6ec6fe277eb6",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Robert Fulton created the first successful examples of what vessels, which a young Mark Twain piloted alongthe Mississippi River?",
+          "answer": "steamboat",
+          "acceptableAnswers": [
+            "steamboat",
+            "The steamboat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The deadliest maritime disaster in U.S. history occurred when the steamboatSultanaexploded whilecarryingUnion POWs home from this notorious Confederate prison in Georgia, overseen by Henry Wirz.",
+          "answer": "Andersonville",
+          "acceptableAnswers": [
+            "Andersonville",
+            "The Andersonville"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "TheSultanadisaster was overshadowed in thepress due to the killing of this man by John Wilkes Booth theday before.",
+          "answer": "Lincoln",
+          "acceptableAnswers": [
+            "Lincoln",
+            "The Lincoln"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A monopoly of these vessels was struck down in the 1824 decisionGibbons v. Ogden. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "689206b0282b420d4a198be9"
+    },
+    {
+      "id": "04162bb0-8693-4d65-a12c-93236fb6023d",
+      "linkedTossupId": "80f885a6-a877-47d7-b984-f48fd354e386",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this material used for Jeff Koons' balloon dog sculptures. The American Bridge Company fabricated a sculpture made from this material in Chicago for Pablo Picasso.",
+          "answer": "steel",
+          "acceptableAnswers": [
+            "steel",
+            "stainless steel",
+            "COR-TEN steel",
+            "prompt on metal",
+            "do not accept \"iron\"",
+            "The steel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "St. John's Rotary Arc was created by this artist, whose controversial site-specific Tilted Arc was removed from New York's Federal Plaza because workers in nearby buildings hated it.",
+          "answer": "Serra",
+          "acceptableAnswers": [
+            "Serra",
+            "The Serra"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Serra's fence-like sculpture Twain was commissioned for a park in this city with a view of Eero Saarinen's stainless steel Gateway Arch.",
+          "answer": "St. Louis",
+          "acceptableAnswers": [
+            "St. Louis",
+            "The St. Louis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The art dealer Leo Castelli fronted the $120,000 cost needed to buy enough of this material for a sculpture named for St. John placed outside the Holland Tunnel. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed60f71539231f571eddcd"
+    }
+  ]
+}

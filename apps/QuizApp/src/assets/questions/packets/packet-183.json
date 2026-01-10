@@ -1,0 +1,1214 @@
+{
+  "packetId": "packet-183",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Science",
+    "Human Body",
+    "Literature",
+    "Geography",
+    "Fine Arts",
+    "Philosophy"
+  ],
+  "tossups": [
+    {
+      "id": "b6b43564-5af7-4430-82db-25e55be34724",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "As a child, this man was known as 'The Great Fool' of his home province, and during the funeral of this man's father, he is said to have alienated his followers by throwing incense at the altar. After one successful battle, this man adopted a new personal seal reading \"All under heaven, by force of arms\". In another famous battle, this man used an army made of straw as a diversion to defeat a force more than ten times the size of his own, led by Imagawa Yoshimoto.This man led an 11-year siege against the fortified temple of Ishiyama Hongan-ji, which Toyotomi Hideyoshi would then replace with Osaka castle, but was forced to commit suicide by his retainer, Akechi Mitsuhide, at the temple of Honnō-ji. For 10 points, name this general of the Warring States period, the first of the three unifiers of Japan.",
+      "powerMarkPosition": 449,
+      "answer": "Oda",
+      "acceptableAnswers": [
+        "Oda",
+        "either underlined part",
+        "both in either order",
+        "The Oda"
+      ],
+      "source": "qbreader",
+      "sourceId": "62edba2365d377e2cebbd1da"
+    },
+    {
+      "id": "17a4e7b4-f365-44d7-89c4-77b4a1ce6dbf",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "One process these types of compounds undergo was studied in 1961 by Christian Anfinsen. Pauling and Corey proposed two substructures of these kinds of molecules, which undergo \"breathing\". A funnel shows discrete pathways that these compounds can fold by. When they traverse the plasma membrane, they are called integrins. Several \"motor\" types of these molecules are called molecular machines, like ATP synthase. These fibrous or globular molecules have four levels of structure and are created by ribosomes. For 10 points, name these compounds made of amino acids linked by peptide bonds.",
+      "powerMarkPosition": 311,
+      "answer": "protein",
+      "acceptableAnswers": [
+        "protein",
+        "The protein"
+      ],
+      "source": "qbreader",
+      "sourceId": "647044202576885f91e61fef"
+    },
+    {
+      "id": "66ef3c13-0b50-4194-9b3f-2119608785c1",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for blood pressure regulation. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this systole-related structure.",
+      "powerMarkPosition": 99,
+      "answer": "Systole",
+      "acceptableAnswers": [
+        "systole",
+        "Systole"
+      ],
+      "explanation": "The systole is a key component of the Cardiovascular system, involved in blood pressure regulation.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "cb9cb132-a84a-4a04-b9c2-6d3b8d05c012",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "Note to players: description acceptable. In this section of a larger work, a knife sharpener watches a swarm of flies move from the body of an ice cream vendor to the face of a woman propped up against a post. A ten-page span in this section with no paragraph breaks is written from the perspective of the elderly healer Florita as she discusses her psychic powers and gives medical advice on a radio show before recounting a vivid vision of this section's main topic. A detective who is attempting to court a female asylum director in this section surmises that a man nicknamed the Demon Penitent must have a watermelon-sized bladder based on the amount of urine he uses to desecrate churches. Long repetitive passages in this section feature a litany of misogynistic jokes told by policemen and frequent blunt notes that victims were \"vaginally and anally raped.\" This section is sandwiched between sections following the journalist Oscar Fate and the author Archimboldi, and it mostly consists of frank catalogs of bodies of maquiladora workers and other women in Santa Theresa. For 10 points, name or describe this fourth and longest section of a posthumous Roberto Bolaño novel, noted for its gruesome and violent imagery.",
+      "powerMarkPosition": 657,
+      "answer": "Crimes",
+      "acceptableAnswers": [
+        "Crimes",
+        "the fourth section of 2666 before “fourth”",
+        "accept a description of the femicide",
+        "rape-murders",
+        "killing of women section of 2666",
+        "accept the Santa Theresa instead of 2666",
+        "The Crimes"
+      ],
+      "source": "qbreader",
+      "sourceId": "67cb4e11a4d5f0b0e22ac198"
+    },
+    {
+      "id": "34586e4a-ca64-4f9b-bb72-cd42a4e55303",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "This is the largest river which is not spanned by any bridges, and its source has been confirmed to be the Nevado Mismi. It is connected to a northern counterpart via the Casiquiare canal, the longest bifurcation in the world. Its largest tributary is the Madiera, and the Rio Negro connects the Orinoco river to it. For 10 points, what is this South American river, considered by many to be the longest in the world?",
+      "powerMarkPosition": 272,
+      "answer": "Amazon",
+      "acceptableAnswers": [
+        "Amazon",
+        "The Amazon"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fdc23fc764815614749f3a"
+    },
+    {
+      "id": "fa13a016-38a2-43d3-8d0f-e48769dda0ca",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "Ekman transport explains the direction of these things, while Sverdrups quantify the size of these things. Gyres are systems of these things that circulate due to the Coriolis Effect within oceanic basins, including \"boundary\" versions of these things that run parallel to coastlines. The Gulf Stream is one of these things that warms much of Northern Europe. For 10 points, name these large-scale persistent movements of ocean waters.",
+      "powerMarkPosition": 215,
+      "answer": "current",
+      "acceptableAnswers": [
+        "current",
+        "The current"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef78cbbbb69a5263cd62"
+    },
+    {
+      "id": "9b1ad44c-437b-432d-bff3-5314d7fb1d37",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "The title of a play by Patrick Garland about this author's work, An Enormous Yes, comes from this author's poem \"For Sydney Bechet.\" He used the pseudonym \"Brunette Coleman\" to write Michaelmas Term at St. Bride's and the poem sequence \"Sugar and Spice,\" both of which are contained in Trouble at Widow Gables and Other Fictions. He wrote about John Kemp, a young Oxford student who develops an imaginary sister to help him adjust, in his novel Jill. One of his poems mentions \"Postmen like doctors\" who \"go from house to house,\" and begins \"I work all day, and get half-drunk at night,\" while in another, two stone figures prove \"our almost instinct is almost true: What will survive of us is love.\" Those poems appear in his collections The Whitsun Weddings and High Windows. For 10 points, name this author of \"Aubade\" and \"An Arundel Tomb\" who wrote \"They fuck you up your mum and dad\" in \"This Be the Verse.\"",
+      "powerMarkPosition": 476,
+      "answer": "L",
+      "acceptableAnswers": [
+        "L"
+      ],
+      "source": "qbreader",
+      "sourceId": "6632d3d8cfb887c5bcba45df"
+    },
+    {
+      "id": "9b293c18-8658-4ea8-b4b3-eecc57a74f6d",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "college",
+      "text": "This body of water's Black Assarca shipwreck bore Ayla amphorae. West of this body of water, the Gash Group preceded the Ona culture that created clay bulls' heads in Sembel, and cities like Qohaito and Yeha formed the Kingdom of Dʿmt (\"dih-mit\") with influence from the Sabaeans. The Via Hadriana led from this body's port of Berenice to Antinoöpolis. Cosmas Indicopleustes (\"in-dee-co-PLOY-stees\") recorded bilingual inscriptions from an incense-trading empire at this sea's port of Adulis. Saint Kaleb sent Abraha across this sea to invade Dhu Nuwas's Himyarite Kingdom. This sea's harbor at Wadi Gawasis imported ebony and baboons from the Land of Punt to its south. Aksumites sailed this sea 1,500 years after the merchants of Hatshepsut. For 10 points, Eritrea is named for what sea east of Sudan and Egypt?",
+      "powerMarkPosition": 352,
+      "answer": "Red",
+      "acceptableAnswers": [
+        "Red",
+        "Erythraean Sea",
+        "Erythra Thalassa",
+        "accept Gulf of Aden",
+        "accept Gulf of Aqaba",
+        "Gulf of Eilat",
+        "accept Bab-el-Mandeb",
+        "accept Gulf of Suez",
+        "Baḥar al-Qulzum",
+        "Qeyih Bahri",
+        "Badda Cas",
+        "Al Baḥr al aḥmar",
+        "Hayam Ha-adom",
+        "Sea of Reeds",
+        "Yam Soof",
+        "Phiom ̀nšari",
+        "Phiom Enhah",
+        "prompt on Indian Ocean",
+        "do not accept",
+        "prompt on “Suez Canal”",
+        "The Red"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423d0e"
+    },
+    {
+      "id": "2971bec3-2a76-420d-baff-ae06cca8c727",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "Richard Fletcher took a \"horizontal\" approach to analyzing this poem in a 1989 book about its \"Quest.\" This poem's conventional division into three parts, the last of which is named after a \"humiliation,\" was established by a scholar who provided this poem's modern title and went on a tour of its settings for his honeymoon. Robert Southey's translation of this poem actually combines it with two separate chronicles. This poem's protagonist disrespects a defeated opponent by yanking his beard, in reference to his oath to not trim his own long beard. This poem features a sword whose name means \"firebrand\" which frightens unworthy opponents if wielded by a worthy fighter. Two noblemen marry the daughters of this poem's protagonist, but beat them up and leave them tied to trees in a forest after being shamed for being afraid of a lion. This poem opens with its protagonist's exile from Vivar by King Alfonso VI, and it inspired a later Pierre Corneille (\"cor-NAY\") play. For 10 points, name this medieval Spanish epic set during the Reconquista about a warrior who slays many Moors.",
+      "powerMarkPosition": 597,
+      "answer": "Cid",
+      "acceptableAnswers": [
+        "Cid",
+        "The Lay of El Cid",
+        "Cantar de Mio Cid",
+        "The Poem of El Cid",
+        "El Poema de Mio Cid",
+        "The Song of My Cid",
+        "do NOT accept",
+        "prompt on “Le Cid”",
+        "The Cid"
+      ],
+      "source": "qbreader",
+      "sourceId": "6413cb8b829159c59ea871a8"
+    },
+    {
+      "id": "53ecbb09-873b-463a-8e0c-7c3592a15a29",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "As a result of this man's mistake, Condalmiero killed a lot of his retreating men. In one battle, this man, sensing a trap, followed a shepherd to a castle, took an axe, and chopped the front gate of the fortification down. A favorite tactic of this man was to dress himself and his men up in papal garb and shackle himself up to his prisoners in order to lure enemies and lower their defenses. This man sent and received an embassy with Francis I, intended to unite the two against the Habsburgs. During an assault on Bougie, this man's brother lost an arm and replaced it with a silver prosthetic. At the battle of Preveza, this man bested his arch-nemesis Andrea Doria. Following the death of his brother Aruj, this man inherited a nickname, applied henna to look the part, and changed his base of operations to Algiers. For 10 points, name this Ottoman admiral, a pirate known for the bright color of his facial hair.",
+      "powerMarkPosition": 580,
+      "answer": "Barbarossa",
+      "acceptableAnswers": [
+        "Barbarossa",
+        "Khair ad-Din",
+        "Hizir/Khizr Reis",
+        "The Barbarossa"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1ba5"
+    },
+    {
+      "id": "cfe5ff1b-bb34-46ed-957c-a6d97f966fc0",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "An event in this non-British city was the first appearance of an hour of graphic footage shot by George Stevens with the Special Coverage Unit. Finland adopted many aspects of a charter signed in London and named for this city, which was drafted by the European Advisory Commission following the Moscow Declarations. During events held in this city, 152 searchlights were arranged around a stadium to form a \"Cathedral of Light.\" This city was chosen for one event because its Palace of Justice was largely undamaged from bombing. A 1934 rally in this city is depicted in the propaganda film Triumph of the Will. During proceedings at this city, Albert Speer was alone in repentance but lied about not knowing about the Holocaust. For 10 points, name this German city where the deposed Nazi leadership was put on trial.",
+      "powerMarkPosition": 353,
+      "answer": "Nuremberg",
+      "acceptableAnswers": [
+        "Nuremberg",
+        "The Nuremberg"
+      ],
+      "source": "qbreader",
+      "sourceId": "6676341afe8264b343f1124f"
+    },
+    {
+      "id": "122c0745-f7e1-40ac-9d21-ce00f542f45d",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "This body contains web-shaped geological structures of concentric ovals, known as arachnoids. Ishtar Terra, a highland region of this body, contains this body's highest point, Maxwell Montes. The surface of this body was mapped by the Magellan probe, while, in 1610, Galileo was the first to observe this body's phases. This body's atmosphere is over 96% carbon dioxide, and has clouds mostly made of sulphuric acid. With a mean surface temperature of over 460°C, for 10 points, name this second planet from the Sun.",
+      "powerMarkPosition": 191,
+      "answer": "Venus",
+      "acceptableAnswers": [
+        "Venus",
+        "The Venus"
+      ],
+      "source": "qbreader",
+      "sourceId": "6413cd9afdc648a1ed709835"
+    },
+    {
+      "id": "e7d3126c-2230-4672-8767-f5e9ff1558d9",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "Early in his career he was forced to share power with John Carteret, but was eventually able to force his resignation. He spent time in jail for graft during a period of Tory ascendancy, but was most popular for his economic policies, including his establishment of the sinking fund to reduce the national debt, which he had also addressed with his resolution of the South Sea Bubble crisis. However, he was forced from office due to British failures in the early stages of the War of the Austrian Succession. For 10 points, who was this first official Prime Minister of Britain?",
+      "powerMarkPosition": 391,
+      "answer": "Walpole",
+      "acceptableAnswers": [
+        "Walpole",
+        "The Walpole"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596c67"
+    },
+    {
+      "id": "37303f38-0a6a-4c14-a831-c426f262f59e",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "In this play, a character is lambasted for having given his younger brother the measles. One character in this play gives a poor offstage rendition of a Chopin waltz, perhaps due to her constantly jittering hands. That character interrupts a violent argument by entering the room bearing her wedding dress. Mary's morphine addiction and Edmund's imminent tuberculosis diagnosis are central elements of this play. For 10 points, name this Eugene O'Neill play about one day in the lives of the Tyrone family.",
+      "powerMarkPosition": 213,
+      "answer": "Long Day’s Journey in Night",
+      "acceptableAnswers": [
+        "Long Day’s Journey in Night",
+        "The Long Day’s Journey in Night"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba962a1"
+    },
+    {
+      "id": "ffe188a9-3179-4f23-91f4-ffd5315c1337",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "This project included man-made sections like the Gaillard Cut and Gatun Lake, and it was completed in 1914 due in large part to William Gorgas's efforts to control malaria and yellow fever outbreaks. This 48-mile-long structure included three locks to help boats cross between the Atlantic and Pacific. For ten points, name this Central American engineering project.",
+      "powerMarkPosition": 242,
+      "answer": "Panama Canal",
+      "acceptableAnswers": [
+        "Panama Canal",
+        "The Panama Canal"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a4246"
+    },
+    {
+      "id": "26cef7dd-9a68-429a-a966-65e94e130577",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "This election was the first in which a candidate accused the other of \"fuzzy math\". This election was swayed by the recent international custody dispute over Elian González (\"EH-lee-ahn gohn-ZAH-les\"). Katherine Harris certified the results of one state in this election, which was marred by butterfly ballots and hanging chads. The Supreme Court halted a recount in Florida during, for 10 points, what election in which Al Gore was defeated by George W. Bush?",
+      "powerMarkPosition": 291,
+      "answer": "2000",
+      "acceptableAnswers": [
+        "2000",
+        "answers like “Bush v. Gore”",
+        "other descriptions with “I need a year”",
+        "The 2000"
+      ],
+      "source": "qbreader",
+      "sourceId": "68b2ff0d8940d9f7c563a1ca"
+    },
+    {
+      "id": "020df62e-5f12-4375-bc23-0fa64430d6df",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "Diagonal lines at the corners of a painting in a series titled for these objects give the sense of depth and make the green border appear more like a frame. A 1951 painting for a Large Wall based on these objects gave Ellsworth Kelly direction for much of his later work. A handful of works in a series named for these objects were produced as screen-prints thanks to Sillman and Ives. A red example of these objects is titled for the Painterly Realism of a Peasant Woman. While teaching at Black Mountain and Yale, a series was created as an Homage to this shape by Josef Albers. One painting titled for this shape was called the \"zero point of painting\". For 10 points, Malevich painted a Black depiction of what shape?",
+      "powerMarkPosition": 509,
+      "answer": "square",
+      "acceptableAnswers": [
+        "square",
+        "Black Square",
+        "Red Square",
+        "Homage to the Square",
+        "The square"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636eec98"
+    },
+    {
+      "id": "71283f9e-f0f6-4c8a-815c-de014ae58037",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "Part of the Western border of this state is formed by the Red River of the North. This state's \"Northwest Angle\" is formed by an unusual border along the Lake of the Woods, which this state shares with Canada. This state is home to the source of the Mississippi River, which forms part of its border with Wisconsin. For 10 points, name this \"land of ten thousand lakes\" whose capital is St. Paul.",
+      "powerMarkPosition": 201,
+      "answer": "Minnesota",
+      "acceptableAnswers": [
+        "Minnesota",
+        "The Minnesota"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0adfa8"
+    },
+    {
+      "id": "219b7e6f-84d4-4761-bc00-d882341cf4be",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "The liturgical season that ends on this day represents the length of time Jesus spent in the desert, and the season starting on this day ends with Pentecost. The Sunday before this day is known as Palm Sunday, and this holiday commemorates events that occurred two days after Good Friday. For 10 points, name this Christian holiday that celebrates the resurrection of Jesus.",
+      "powerMarkPosition": 157,
+      "answer": "Easter",
+      "acceptableAnswers": [
+        "Easter",
+        "The Easter"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec6658"
+    },
+    {
+      "id": "e1530865-034a-4dd6-bdc9-469aea5302b7",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "This concept is the last word in the title of a work that argued its best representative is the novel Juliette. An Isaiah Berlin book groups Vico, Herder, and Hamann as \"Three Critics\" of this concept. A foundational work of critical theory argued that this concept led directly to fascism and coined the term \"culture industry.\" That book by Horkheimer and Adorno is called Dialectic of [this concept]. An essay on this idea proposed the motto \"dare to think,\" or sapere aude, and defined it as \"man's emergence from his self-imposed tutelage.\" Immanuel Kant belonged to, for 10 points, what intellectual movement that emphasized reason?",
+      "powerMarkPosition": 342,
+      "answer": "enlightenment",
+      "acceptableAnswers": [
+        "enlightenment",
+        "aufklärung",
+        "accept Dialectic of Enlightenment",
+        "prompt on dialectic with “that work is called a “Dialectic of” what other concept?” before “Dialectic” is read",
+        "The enlightenment"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b18e2"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "fe063e9b-a7b8-4d02-ad40-e57a3bc25dda",
+      "linkedTossupId": "b6b43564-5af7-4430-82db-25e55be34724",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Chinese dynasty that also officially instituted the Three Departments and Six Ministries system of its predecessor. It was founded by Wen Di and ruled for about forty years around the turn of the seventh century CE.",
+          "answer": "Sui",
+          "acceptableAnswers": [
+            "Sui",
+            "The Sui"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The major public works accomplishments of the Sui were repairing the Great Wall and building this massive artificial waterway that stretches from Hangzhuo to Beijing.",
+          "answer": "Grand Canal",
+          "acceptableAnswers": [
+            "Grand Canal",
+            "Da Yunhe",
+            "Ta Yun-ho",
+            "The Grand Canal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Sui dynasty fell when its final emperor, Yang Guang, foolishly instigated a series of wars with this Korean empire, which once defeated a Sui army by opening up a dam on the Salsu River. This empire covered the northern part of the Korean peninsula, and made up the Three Kingdoms of Korea with Baekje and Silla.",
+          "answer": "Goguryeo",
+          "acceptableAnswers": [
+            "Goguryeo",
+            "Koguryo",
+            "do not accept “Goryeo”",
+            "The Goguryeo"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The rulers of this dynasty instituted the Equal-Field system to close the wealth gap. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bcab6bc6fadbe6166da442"
+    },
+    {
+      "id": "3dd564c0-fba2-4091-aab0-f9e06b6d70bf",
+      "linkedTossupId": "17a4e7b4-f365-44d7-89c4-77b4a1ce6dbf",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Water is widely considered the universal one of these substances, in which solutes are dissolved to produce solutions.",
+          "answer": "solvent",
+          "acceptableAnswers": [
+            "solvent",
+            "The solvent"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Britton and Robinson name a universal one of these substances. An example of these substances is the bicarbonate system in the human blood, and they usually consist of a weak acid and its conjugate base.",
+          "answer": "buffer",
+          "acceptableAnswers": [
+            "buffer",
+            "The buffer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The universal one of these substances was patented by Yamada in 1933. Natural varieties of this type of substance can be found in red cabbage and certain lichens.",
+          "answer": "indicator",
+          "acceptableAnswers": [
+            "indicator",
+            "The indicator"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following questions about \"universal\" substances in chemistry, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b1894"
+    },
+    {
+      "id": "8732c087-cfec-4c26-b69e-c46abd1c3fb8",
+      "linkedTossupId": "66ef3c13-0b50-4194-9b3f-2119608785c1",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with limbic system.",
+          "answer": "cerebrum",
+          "acceptableAnswers": [
+            "cerebrum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cerebrum in the nervous system?",
+          "answer": "Limbic system",
+          "acceptableAnswers": [
+            "Limbic system"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to limbic system.",
+          "answer": "cerebellum",
+          "acceptableAnswers": [
+            "cerebellum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "f674ea59-b7bd-4c2f-baba-20fb391b0aef",
+      "linkedTossupId": "cb9cb132-a84a-4a04-b9c2-6d3b8d05c012",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this British poet who wrote \"They fuck you up, your mum and dad\" in \"This Be The Verse.\"",
+          "answer": "Larkin",
+          "acceptableAnswers": [
+            "Larkin",
+            "The Larkin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A Philip Larkin poem of this title begins \"Sexual intercourse began in nineteen sixty-three.\" A Dryden poem of this title describes a naval victory over the Dutch.",
+          "answer": "Annus Mirabilis",
+          "acceptableAnswers": [
+            "Annus Mirabilis",
+            "The Annus Mirabilis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Larkin poem asks \"can't I use my wit as a pitchfork and drive the brute off?\" and complains about working \"Six days of the week.\"",
+          "answer": "Toads",
+          "acceptableAnswers": [
+            "Toads",
+            "The Toads"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This poet wrote \"I work all day, and get half-drunk at night\" in his \"Aubade.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa1d1"
+    },
+    {
+      "id": "00f01d41-fab2-404e-b6d8-71854dfa3b25",
+      "linkedTossupId": "34586e4a-ca64-4f9b-bb72-cd42a4e55303",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The Holy League crushed the forces of Ali Pasha in this 1571 battle",
+          "answer": "Lepanto",
+          "acceptableAnswers": [
+            "Lepanto",
+            "The Lepanto"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 732 battle saw Charles Martel defeat the Umayyad invasion of Europe.",
+          "answer": "Tours",
+          "acceptableAnswers": [
+            "Tours",
+            "The Tours"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This battle, part of the Reconquista, saw the defeat of the Almohads by Castille, Aragon, and Navarre.",
+          "answer": "Las Navas de Tolosa",
+          "acceptableAnswers": [
+            "Las Navas de Tolosa",
+            "The Las Navas de Tolosa"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these Arab military FAILs, for ten points each:",
+      "source": "qbreader",
+      "sourceId": "6531aa9dcde02a8be25ff2b6"
+    },
+    {
+      "id": "45df359f-fcc8-49d9-bfa5-07241cecd22e",
+      "linkedTossupId": "fa13a016-38a2-43d3-8d0f-e48769dda0ca",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Find the distance between Point P and Point Q.",
+          "answer": "5",
+          "acceptableAnswers": [
+            "5"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "If a line is drawn through Points P and Q, where will the line intercept the x-axis?",
+          "answer": "10",
+          "acceptableAnswers": [
+            "10",
+            "(10",
+            "0)"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Find the midpoint halfway between P and Q.",
+          "answer": "4",
+          "acceptableAnswers": [
+            "4",
+            "(4",
+            "4½)",
+            "9/2)"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Pencil and paper ready. Point P is at the coordinates 1.,6), and Point Q is at the coordinates 1.,3). For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c496"
+    },
+    {
+      "id": "80589ef5-7e8d-45f4-9b69-4c4d1184541c",
+      "linkedTossupId": "9b1ad44c-437b-432d-bff3-5314d7fb1d37",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this character whom the narrator pursues a brief affair with after meeting her at a beach in a short prose piece from the collection Eagle or Sun?, titled \"My Life with\" her.",
+          "answer": "wave",
+          "acceptableAnswers": [
+            "wave",
+            "la ola",
+            "accept “My Life with the Wave”",
+            "“Mi vida con la ola”",
+            "The wave"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"My Life with the Wave\" is among this author's works translated by his friend Eliot Weinberger, who also translated his 584-line poem based on the Aztec calendar.",
+          "answer": "Paz",
+          "acceptableAnswers": [
+            "Paz",
+            "Octavio Paz Lozano",
+            "The Paz"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The anthology Sun, Stone, and Shadows follows \"My Life with the Wave\" with a story from Carlos Fuentes's Burnt Water, in which Filiberto drowns after one of these objects he purchases comes to life and floods his home.",
+          "answer": "chac-mool",
+          "acceptableAnswers": [
+            "chac-mool",
+            "idols",
+            "statues",
+            "sculptures",
+            "The chac-mool"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The narrator of a story is arrested on charges of poisoning after boarding a train with this character, who inspires him to note, \"Everything began to laugh and everywhere white teeth shone.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6822bfc91f87396179872f2d"
+    },
+    {
+      "id": "3d1dd3ed-7d21-46a5-aff7-c3c98ec6a09a",
+      "linkedTossupId": "9b293c18-8658-4ea8-b4b3-eecc57a74f6d",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this former country. Alexander Dubcek promulgated the ideology of \"socialism with a human face\" during the Prague Spring in this country.",
+          "answer": "Czechoslovakia",
+          "acceptableAnswers": [
+            "Czechoslovakia",
+            "Czech and Slovak Federative Republic",
+            "accept Fifth Czechoslovak Republic",
+            "accept Československá federativní republika",
+            "accept Česko-slovenská federatívna republika",
+            "accept Československo",
+            "do NOT accept",
+            "prompt on “Czechia”",
+            "“Czech Republic”",
+            "“Slovakia”",
+            "“Slovak Republic”",
+            "“Česká republika”",
+            "“Česko”",
+            "“Slovensko”",
+            "“Slovenská republika”",
+            "The Czechoslovakia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The dissolution of Czechoslovakia is sometimes known by this name in reference to a similarly named \"Revolution\" which saw the downfall of the Communist Party of Czechoslovakia.",
+          "answer": "Velvet Divorce",
+          "acceptableAnswers": [
+            "Velvet Divorce",
+            "Velvet",
+            "prompt on Divorce",
+            "do NOT accept",
+            "prompt on “Velvet Revolution”",
+            "The Velvet Divorce"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This last Communist president of Czechoslovakia was overthrown in the Velvet Revolution. His controversial policy of \"normalization\" saw a return to pre-Prague Spring conditions.",
+          "answer": "Husák",
+          "acceptableAnswers": [
+            "Husák",
+            "The Husák"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Vaclav Havel was the last president of this country before its 1993 split into its constituent parts. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0aba08"
+    },
+    {
+      "id": "ab1e26bb-d427-4ca9-96f0-9bf599ad1fcb",
+      "linkedTossupId": "2971bec3-2a76-420d-baff-ae06cca8c727",
+      "category": "Literature",
+      "subcategory": "Other Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Give this surname of Nigerian musician Femi, who beat Kenny G's record for the longest note held on a saxophone. His father with this surname was a pioneer of Afrobeat known for albums like Afrodisiac.",
+          "answer": "Kuti",
+          "acceptableAnswers": [
+            "Kuti",
+            "Femi Kuti",
+            "Fela Kuti",
+            "The Kuti"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Fela Kuti's sons Femi and Seun were both nominated in the World Music Category for these awards presented by the Recording Academy, which recognize outstanding music industry achievements.",
+          "answer": "GRAMMY",
+          "acceptableAnswers": [
+            "GRAMMY",
+            "the GRAMMYs",
+            "The GRAMMY"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Fela Kuti's children have continued his legacy of performing this song, which got him banned from Ghana. This song used the title creature as a metaphor for the Nigerian military.",
+          "answer": "Zombie",
+          "acceptableAnswers": [
+            "Zombie",
+            "The Zombie"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After playing in his father's band Egypt 80, a saxophonist with this surname started his own band Positive Force. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "650a74ba7033487bec6a7d02"
+    },
+    {
+      "id": "acfc26a5-975c-4b12-a43e-b5960b6770dd",
+      "linkedTossupId": "53ecbb09-873b-463a-8e0c-7c3592a15a29",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this former Ming general who later rebelled against the Qing (\"ching\") in the Revolt of the Three Feudatories.",
+          "answer": "Wu",
+          "acceptableAnswers": [
+            "Wu",
+            "Changbai",
+            "Changbo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another of the three feudatories was Zheng Jing, who ruled this island after the death of Koxinga (\"KOK-sing-guh\"). This island became a Qing province in 1887, eight years before it was ceded to Japan in the Treaty of Shimonoseki.",
+          "answer": "Taiwan",
+          "acceptableAnswers": [
+            "Taiwan",
+            "Formosa",
+            "The Taiwan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Revolt of the Three Feudatories occurred during the reign of this Qing emperor, who also dealt with the Chinese Rites controversy.",
+          "answer": "Kangxi",
+          "acceptableAnswers": [
+            "Kangxi",
+            "Aisin-Gioro Xuanye",
+            "Shengzu",
+            "prompt on Aisin-Gioro",
+            "The Kangxi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Dorgon and this general defeated Li Zicheng (\"zer-chung\") at the Battle of Shanhai Pass. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "677775c5115778212c716d8e"
+    },
+    {
+      "id": "b7749e18-a4fd-441e-8226-81fab8aa3c03",
+      "linkedTossupId": "cfe5ff1b-bb34-46ed-957c-a6d97f966fc0",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "William fought an army led by this son of an Earl of Wessex at the Battle of Hastings.",
+          "answer": "Harold I",
+          "acceptableAnswers": [
+            "Harold I",
+            "The Harold I"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A couple of weeks before Hastings, Harold had to defeat a Norwegian army led by his brother Tostig and this Norwegian king at Stamford Bridge.",
+          "answer": "Harald Hardraada",
+          "acceptableAnswers": [
+            "Harald Hardraada",
+            "The Harald Hardraada"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "None of that wonderful conquesting could have been accomplished if Charles the Simple hadn't signed the Treaty of Saint-Clair-sur-Epte and allowed a bunch of rowdy vikings under this man to establish a kingdom in Normandy, which then passed to his awesomely-named kid, William Longsword.",
+          "answer": "Rollo",
+          "acceptableAnswers": [
+            "Rollo",
+            "The Rollo"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the events leading up to William the Conqueror's victory in the Conquest of 1066.",
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa59132014ca"
+    },
+    {
+      "id": "1e4e7696-9b4e-4bbb-a6ab-4d319c1f6471",
+      "linkedTossupId": "122c0745-f7e1-40ac-9d21-ce00f542f45d",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This interaction among pi-bonded systems results in a stability from delocalized charge and is observed most simply in 1,3-butadiene.",
+          "answer": "conjugation",
+          "acceptableAnswers": [
+            "conjugation",
+            "The conjugation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Conjugation and planarity in cyclic alkenes can lead to this special kind of stabilized delocalization commonly associated with pyridine, furan, and benzene.",
+          "answer": "aromaticity",
+          "acceptableAnswers": [
+            "aromaticity",
+            "The aromaticity"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man's pioneering work led directly to the Frost circle mnemonic, which describes [4n+2] systems as aromatic and [4n] systems as anti-aromatic.",
+          "answer": "Hückel",
+          "acceptableAnswers": [
+            "Hückel",
+            "The Hückel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer these questions about a concept of organic chemistry for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fd29"
+    },
+    {
+      "id": "ab23cba5-8281-4bba-8d9f-ca674a5c4e2e",
+      "linkedTossupId": "e7d3126c-2230-4672-8767-f5e9ff1558d9",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this 1521 meeting of delegates from around the Holy Roman Empire, where a friar supposedly declared \"Here I stand. I can do no other.\"",
+          "answer": "Diet of Worms",
+          "acceptableAnswers": [
+            "Diet of Worms",
+            "The Diet of Worms"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Diet of Worms was summoned by this Holy Roman Emperor, the father of Philip II of Spain.",
+          "answer": "Charles V",
+          "acceptableAnswers": [
+            "Charles V",
+            "Charles I of Spain",
+            "Charles II of Burgundy",
+            "prompt on Charles I",
+            "The Charles V"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Diet condemned the religious teachings of this German friar, who according to legend nailed his Ninety-five Theses to the church door in Wittenberg.",
+          "answer": "Luther",
+          "acceptableAnswers": [
+            "Luther",
+            "The Luther"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This event took place one year after Pope Leo X issued the bull Exsurge Domine. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6413cd9afdc648a1ed7097ec"
+    },
+    {
+      "id": "330fa16c-86ba-4689-a352-08a11d929aa9",
+      "linkedTossupId": "37303f38-0a6a-4c14-a831-c426f262f59e",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this condition that afflicts Nancy, who seeks help in the story \"In Sight of the Lake.\" Grant gives Fiona a book on her mother's native Iceland after she develops this condition in \"The Bear Came Over the Mountain.\"",
+          "answer": "dementia",
+          "acceptableAnswers": [
+            "dementia",
+            "Alzheimer’s disease",
+            "AD",
+            "senility",
+            "senile dementia",
+            "frontotemporal dementia",
+            "FTD",
+            "Lewy body dementia",
+            "prompt on memory loss",
+            "forgetting",
+            "forgetfulness",
+            "amnesia",
+            "amnesiac",
+            "obliviousness",
+            "prompt on old age",
+            "aging",
+            "getting old",
+            "elderly",
+            "senescence",
+            "equivalents",
+            "The dementia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "David's aging mother forgets to turn off the stove in this Canadian author's story \"In the Fall\" from Island. Grandparents' memories of Gaelic culture on Cape Breton punctuate this author's novel No Great Mischief.",
+          "answer": "MacLeod",
+          "acceptableAnswers": [
+            "MacLeod",
+            "The MacLeod"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "MacLeod (\"mac-CLOUD\") was on the jury that awarded the Giller Prize to Anil's Ghost, a novel by this Sri Lankan-born author who portrayed Almásy's (\"ALL-mah-shee's\") amnesia after a plane crash in The English Patient.",
+          "answer": "Ondaatje",
+          "acceptableAnswers": [
+            "Ondaatje",
+            "Philip Michael Ondaatje",
+            "The Ondaatje"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This condition afflicts the narrator's mother Adele after she emigrates from Trinidad in David Chariandy's (\"chair-ee-AHN-dee's\") novel Soucouyant (\"soo-koo-YAHN\"). For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66307b05f089611172b04fdb"
+    },
+    {
+      "id": "d880efb6-c708-4fe9-9998-3181d8ec8a1f",
+      "linkedTossupId": "ffe188a9-3179-4f23-91f4-ffd5315c1337",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this subtropical wetland, the largest of its kind in the United States, known for its sawgrass marshes. A national park protects part of the fragile ecosystem in this region.",
+          "answer": "Everglades",
+          "acceptableAnswers": [
+            "Everglades",
+            "The Everglades"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Everglades, located near the city of Miami, is in the southern portion of this U.S. state nicknamed The Sunshine State.",
+          "answer": "Florida",
+          "acceptableAnswers": [
+            "Florida",
+            "The Florida"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Since the late 1990s, an invasive population of the Burmese type of this apex predator has been thriving in the Everglades. That species of this animal can grow up to 22 feet long.",
+          "answer": "python",
+          "acceptableAnswers": [
+            "python",
+            "The python"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Native inhabitants of this region referred to it as Pahokee , meaning \"Grassy Waters.\" For ten points each:",
+      "source": "qbreader",
+      "sourceId": "676f723cf56e0dff73abed9a"
+    },
+    {
+      "id": "3bae8419-54ff-4430-8323-a93985458fc7",
+      "linkedTossupId": "26cef7dd-9a68-429a-a966-65e94e130577",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this French general and Emperor, who conquered much of Europe with his Grande Armée before it was largely destroyed in a disastrous invasion of Russia.",
+          "answer": "Napoleon",
+          "acceptableAnswers": [
+            "Napoleon",
+            "Napoleon Bonaparte",
+            "prompt on Bonaparte",
+            "The Napoleon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Napoleon signed the Concordat of 1801 with this Pope, reconciling the French government and the Catholic Church. Napoleon also took his crown from this Pope's hands and coronated himself.",
+          "answer": "Pius VII",
+          "acceptableAnswers": [
+            "Pius VII",
+            "The Pius VII"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Napoleon's first abdication took place in this French town, the namesake of an earlier edict which revoked the Edict of Nantes. A treaty named after this town signed by Napoleon in 1814 would have divided Portugal in three.",
+          "answer": "Fontainebleau",
+          "acceptableAnswers": [
+            "Fontainebleau",
+            "The Fontainebleau"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He \"found the crown of France in the gutter.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974232bf"
+    },
+    {
+      "id": "f4b04665-2760-495c-bbca-ae43eeac2966",
+      "linkedTossupId": "020df62e-5f12-4375-bc23-0fa64430d6df",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this type of animal that John Singleton Copley painted with Watson.",
+          "answer": "shark",
+          "acceptableAnswers": [
+            "shark",
+            "fish",
+            "prompt on chondreichthyes",
+            "prompt on cartilaginous fish",
+            "The shark"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One can go to this museum in Washington D.C. to see Watson and the Shark. Nicholas Poussin's The Assumption of the Virgin is also at this art museum.",
+          "answer": "National Gallery",
+          "acceptableAnswers": [
+            "National Gallery",
+            "The National Gallery"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Winslow Homer painting sees children playing a game that involves latching on to one another and running about.",
+          "answer": "Snap-the-Whip",
+          "acceptableAnswers": [
+            "Snap-the-Whip",
+            "The Snap-the-Whip"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In Winslow Homer's The Gulf Stream, a black man lies down and is surrounded by animals of this type. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c055258759792a"
+    },
+    {
+      "id": "d77b3de3-9b24-4597-9841-b21557c3fd67",
+      "linkedTossupId": "71283f9e-f0f6-4c8a-815c-de014ae58037",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this sea, the location of beach destinations like the Cayman Islands and Saint Kitts. The Bahamas lie just north of this sea, which is bounded by South America on the South and Central America on the west.",
+          "answer": "Caribbean",
+          "acceptableAnswers": [
+            "Caribbean",
+            "The Caribbean"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the second-largest island in the Greater Antilles. This island was the site of the first settlement in the Americas, La Navidad, and it is currently split between Haiti and the Dominican Republic",
+          "answer": "Hispaniola",
+          "acceptableAnswers": [
+            "Hispaniola",
+            "La Española",
+            "The Hispaniola"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other island nation of the Greater Antilles had its capital at Port Royal until that city sunk into the ocean. This is the only country in the world without red, white, or blue on its flag.",
+          "answer": "Jamaica",
+          "acceptableAnswers": [
+            "Jamaica",
+            "Xaymaca",
+            "The Jamaica"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This sea is home to the Greater Antilles. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a50420"
+    },
+    {
+      "id": "3501be55-3e46-4b96-8c94-f1b59470cc81",
+      "linkedTossupId": "219b7e6f-84d4-4761-bc00-d882341cf4be",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This syncretism of Catholicism with Yoruba tradition sees orisha communicate with priests and is known for controversial animal sacrifices.",
+          "answer": "Santeria",
+          "acceptableAnswers": [
+            "Santeria",
+            "Regla de Ocha",
+            "La Regla Lucumi",
+            "Lukumi",
+            "The Santeria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This primarily Haitian belief system holds that a supreme god, Bondye, is communicated with through loa such as Papa Legba and Baron Samedi.",
+          "answer": "Voodoo",
+          "acceptableAnswers": [
+            "Voodoo",
+            "The Voodoo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This religion considers Haile Selassie an incarnation of God, called Jah, refers to the rest of the world as Babylon, and uses cannabis as a sacrament.",
+          "answer": "Rastafarian",
+          "acceptableAnswers": [
+            "Rastafarian",
+            "The Rastafarian"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about syncretic religions of the Caribbean for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d439a1"
+    },
+    {
+      "id": "1026dc05-18c8-444c-ada4-24416f5a7b93",
+      "linkedTossupId": "e1530865-034a-4dd6-bdc9-469aea5302b7",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Chinese religion founded by Lǎozǐ (LAO-zih). Practitioners of this religion try to become \"one with\" a concept translated as \"the Way.\"",
+          "answer": "Dao",
+          "acceptableAnswers": [
+            "Dao",
+            "Taoism",
+            "Dàojiā",
+            "Dàojiào",
+            "The Dao"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Daoism teaches this practice that translates to \"nonaction,\" which ensures that the universe continues to run naturally.",
+          "answer": "wú wéi",
+          "acceptableAnswers": [
+            "wú wéi",
+            "The wú wéi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Along with the Dàodé Jīng, Daoists also revere this text. This text's namesake author recounts a dream in which he did not know if he was a man dreaming he was a butterfly or a butterfly dreaming he was a man.",
+          "answer": "Zhuāngzǐ",
+          "acceptableAnswers": [
+            "Zhuāngzǐ",
+            "Chuang Tzŭ",
+            "accept Master Zhuāng",
+            "The Zhuāngzǐ"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A painting by Táng Dynasty artist Jīng hào depicts Zhōnglí Quán, one of the Eight Immortals, \"seeking\" the namesake concept of this religion. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630144195c4c3a62fc38ffca"
+    }
+  ]
+}

@@ -1,0 +1,1132 @@
+{
+  "packetId": "packet-236",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Human Body",
+    "Social Science",
+    "Science",
+    "Literature",
+    "Geography",
+    "Philosophy"
+  ],
+  "tossups": [
+    {
+      "id": "c444c728-3057-48cc-9f31-d5afaa523fb9",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for islets of langerhans. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this insulin-related structure.",
+      "powerMarkPosition": 95,
+      "answer": "Insulin",
+      "acceptableAnswers": [
+        "insulin",
+        "Insulin"
+      ],
+      "explanation": "The insulin is a key component of the Endocrine system, involved in islets of langerhans.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "1e024de1-bcd2-4101-9610-a4e5336caebf",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "These beings were described as practicing \"Machiavellian\" tactics in a book titled [these beings'] Politics by Frans de Waal. The Kasakela community of these beings broke out into a civil war that lasted four years. One of these beings whose name was a play-on-words of \"Noam Chomsky\" was raised by two human parents as part of a failed investigation into the proof of these animals' language acquisition capability. One of these beings was observed using stalks of grass to hunt through a technique called \"termite fishing.\" The Gardner sisters raised one of these animals named Washoe, who supposedly was the first of her kind to learn ASL. Frodo and Goliath were part of a group of these animals studied at Gombe Stream National Park in Tanzania. For 10 points, name these primates who were the main subject of Jane Goodall's research.",
+      "powerMarkPosition": 455,
+      "answer": "chimp",
+      "acceptableAnswers": [
+        "chimp",
+        "monkeys and apes",
+        "The chimp"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df736e427feb09cfb1bbdd"
+    },
+    {
+      "id": "04dc103a-3df1-4161-9d28-75b48ed09303",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for liver functions. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this liver-related structure.",
+      "powerMarkPosition": 93,
+      "answer": "Liver",
+      "acceptableAnswers": [
+        "liver",
+        "Liver"
+      ],
+      "explanation": "The liver is a key component of the Digestive system, involved in liver functions.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "237204f9-bc0e-4108-adaf-a1cfa0f60e80",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for gallbladder and bile. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this liver-related structure.",
+      "powerMarkPosition": 77,
+      "answer": "Liver",
+      "acceptableAnswers": [
+        "liver",
+        "Liver"
+      ],
+      "explanation": "The liver is a key component of the Digestive system, involved in gallbladder and bile.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "3f2b7282-f40c-47a7-b290-2cec0de85279",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "The number of a type of these values in an interval is bounded by Budan's theorem and counted by Sturm's theorem. A field F is algebraically closed if, for each element in F-bracket-x, one of these values is in F. A matrix is this type of value with respect to its characteristic equation via the Cayley-Hamilton theorem. The existence of a specific type of these values is guaranteed by the intermediate value theorem for odd-degree polynomials. The number of sign changes in a polynomial is used to count a specific type of these values via Descartes's rule of signs. If a quadratic's discriminant is non-negative, then it has a real one of these values. For 10 points, name these values that correspond to a function's x-intercepts.",
+      "powerMarkPosition": 422,
+      "answer": "root",
+      "acceptableAnswers": [
+        "root",
+        "real roots",
+        "positive roots",
+        "solutions",
+        "zeros",
+        "accept x-intercepts before the end",
+        "The root"
+      ],
+      "source": "qbreader",
+      "sourceId": "666dc6c89f7c4cfdbd6787fd"
+    },
+    {
+      "id": "5607da38-4f40-4e95-8d31-aae1fb03238d",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "Louis XIV is kidnapped and replaced by his fictional twin Philippe in this author's The Vicomte of Bragelonne. That work is the sequel to a novel by this author in which the protagonist's lover Constance is poisoned by a woman with a fleur-de-lis branded on her shoulder. The protagonist of another novel by this author is arrested before marrying Mercedes and meets the Abbe Faria while imprisoned at the Chateau d'If. This author created M'Lady de Winter, who is opposed by Athos, Porthos, Aramis, and D'Artagnan. For 10 points, name this author of The Count of Monte Cristo and The Three Musketeers.",
+      "powerMarkPosition": 347,
+      "answer": "Dumas",
+      "acceptableAnswers": [
+        "Dumas",
+        "The Dumas"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7db6"
+    },
+    {
+      "id": "bc3609ac-fc1d-48b1-91ca-52f37aaf5cc5",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "In this author's second novel, Henry calls a group of Black men in a car \"a public menace\" for speeding without a license or insurance. Later, the protagonist of that novel is horrified to see him and her father attend a Citizens' Council meeting. That novel was published fifty-five years after this author's previous novel, and references Dill's life in Italy and Calpurnia's retirement from housekeeping. In this author's first novel, Boo Radley thwarts an attack on Jem and his sister after their father defended a man falsely accused of rape. For 10 points, name this author who created the characters Scout and Atticus Finch in To Kill a Mockingbird.",
+      "powerMarkPosition": 272,
+      "answer": "Lee",
+      "acceptableAnswers": [
+        "Lee",
+        "Nelle Harper Lee",
+        "The Lee"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b0d97"
+    },
+    {
+      "id": "7a576073-dd74-49e5-ab9e-cb0e68a78dc1",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "This character is likened to Hoagy Carmichael in the first novel in which he appears. In a short story, Major Dexter Smythe tells this character how he murdered his adoptive father, before he is killed by an octopus. In one novel, this character remarks \"the bitch is dead now\" after the suicide of another character, the namesake of a cocktail. In that novel, this character is tortured after winning a game of baccarat against the SMERSH operative Le Chiffre (\"SHEEF-rh\"), having been bailed out by Felix Leiter (\"LYE-tuh\") and betrayed by Vesper Lynd. For 10 points, name this fictional spy created by Ian Fleming who first appears in Casino Royale.",
+      "powerMarkPosition": 378,
+      "answer": "Bond",
+      "acceptableAnswers": [
+        "Bond",
+        "007",
+        "The Bond"
+      ],
+      "source": "qbreader",
+      "sourceId": "68d7483b23ecd621bd0ceabd"
+    },
+    {
+      "id": "5029c97d-d862-4358-8627-4bc7619bc6bb",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "One character in this novel describes how her boyfriend Max dies with a film reel under his arm when his motorcycle is hit by a bus. Another character in this novel encounters a prophetic mongoose with golden eyes after two policemen who resemble Elvis nearly beat her to death in a field. Its main character is saved from death when he hits a freeway median planted with shrubbery after jumping off a turnpike bridge. This novel describes its main character's mother in its section \"The Three Heartbreaks of Belicia Cabral,\" and introduces its main character in its opening chapter, \"Ghetto Nerd at the End of the World.\" Its central family is afflicted by a fuku supposedly caused by Abelard's refusal to let his niece be raped by Trujillo. The title character of this 2007 novel receives his nickname after being mistaken for the author of The Importance of Being Earnest. For 10 points, name this novel about a Dominican boy growing up in New Jersey, written by Junot Diaz.",
+      "powerMarkPosition": 418,
+      "answer": "Brief Wondrous Life of Oscar Wao",
+      "acceptableAnswers": [
+        "Brief Wondrous Life of Oscar Wao",
+        "The Brief Wondrous Life of Oscar Wao"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae9145"
+    },
+    {
+      "id": "4747665d-8f60-459d-9807-f933ecb10b91",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "The peninsula containing this location, but not this location itself, was annexed along with Stonecutters Island in 1899. Jackie Pullinger wrote about treating addicts living in this location in Crack in the Wall. A park containing the Chess Garden and the Eight Floral Walks contains the remnants of this location's south gate. Groups like 14K and Sun Yee On flourished in this settlement, which was connected to a nearby pier by the Lung Tsun Stone Bridge. This site was informally governed by a Kaifong association. This site was located right next to the Kai Tak airport. The demolition of this site was planned for a few years before the 1997 handover. For 10 points, name this extremely dense, crime-ridden settlement in Hong Kong.",
+      "powerMarkPosition": 348,
+      "answer": "Kowloon",
+      "acceptableAnswers": [
+        "Kowloon",
+        "Hong Kong",
+        "The Kowloon"
+      ],
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faa7fe"
+    },
+    {
+      "id": "a8a590eb-f600-4354-871c-f040648de116",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "This planet's equator is home to an elevated region known as the Tharsis Bulge, which is located near the Valles Marineris (VALL-us mare-in-AIR-us). It was visited by the Viking probes and is home to the highest mountain in the Solar System, the extinct volcano Olympus Mons. This planet is orbited by two small moons named Deimos and Phobos. For 10 points, a network of naturally occurring \"canals\" is on what planet between Earth and Jupiter?",
+      "powerMarkPosition": 148,
+      "answer": "Mars",
+      "acceptableAnswers": [
+        "Mars",
+        "The Mars"
+      ],
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b685"
+    },
+    {
+      "id": "49f4dde5-46a8-4e32-bcc2-ca0dfa513375",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "Note to players: Description acceptable. A spiral staircase in this building's chapel leads to an otherwise-empty room filled with stained jewelry and ancient gold covered in dust. After waking up in his bedroom instead of this building's dusty, moonlit women's quarters, a man notices his watch is still unwound. After a fellow traveler quotes Gottfried Bürger's Lenore when whispering \"For the dead travel fast,\" that visitor to this building transfers carriages at Borgo Pass. Two horses are frightened to death on the trail to this building by the snowy apparitions of three sisters. Those sisters attack a visiting solicitor after he sneaks out of his room and witnesses this building's namesake crawling on its walls. Communion wafers are used to banish the owner of this mirrorless building from its grounds by Abraham Van Helsing. For 10 points, Jonathan Harker travels to Romania to visit what building that is home to a vampire?",
+      "powerMarkPosition": 572,
+      "answer": "Castle Dracula",
+      "acceptableAnswers": [
+        "Castle Dracula",
+        "Dracula’s castle",
+        "the castle in Dracula",
+        "prompt on answers indicating Dracula’s home",
+        "prompt on castle",
+        "The Castle Dracula"
+      ],
+      "source": "qbreader",
+      "sourceId": "68846962641a9dc975af8367"
+    },
+    {
+      "id": "3a627ba7-4fcb-4fe9-83ef-1de661837a91",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "Examples of these substances used in redox reactions include iron II complexes of phenanthroline [\"fee-mam-throw-leen\"] and bipyridine [\"bi-peer-ih-deen\"]. Calcein is a complexometric type of these substances used in chelations. Triarylmethane [\"tri-ar-uhl-meth-ay-n\"] dyes like cresol purple and bromothymol blue are examples of these used to detect the presence of carbon dioxide. One of the most commonly used of these substances named phenolphthalein [\"fee-no-thay-leen\"] turns pink under basic conditions and can be used to find the endpoint of a titration. For 10 points, name these substances that change color due to change in pH, exemplified by litmus paper.",
+      "powerMarkPosition": 438,
+      "answer": "indicator",
+      "acceptableAnswers": [
+        "indicator",
+        "dye before mention by asking “What are these dyes used as?”",
+        "The indicator"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eeaca03c2fca34d39ed7cf"
+    },
+    {
+      "id": "cd064bc0-2397-432e-acea-1f8aa926ec1e",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "Formed by the junction of the Biya and Katun, the Nenets and Enets occupy the northern part of its basin. Just after meeting the Inya, a dam forms the Novosibirsk Resevoir, and hydroelectric power stations harness it at Oskemen and Bukhtarma. Its basin was claimed for the tsar by the Cossack folk hero Yermak in the 16th century, and its lower section was explored during the Great Northern Expedition. Its outlet is a namesake gulf in the Kara Sea, and its source lies in the Altai mountains. For ten points, name this great river of Asia, the seventh-longest in the world, which runs through Siberia west of the Yenisey.",
+      "powerMarkPosition": 242,
+      "answer": "Ob",
+      "acceptableAnswers": [
+        "Ob"
+      ],
+      "source": "qbreader",
+      "sourceId": "6643bbec01cbf053963dd6db"
+    },
+    {
+      "id": "da738a01-1fe8-42cf-bfe2-cb180c5e12fe",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "This position is the first of the three ikkarim put forth by Joseph Albo. Al-Farabi updated an earlier philosopher's idea of emanationism to center around this position. One statement for this position notes how \"a thing is said to be hotter\" as it \"more nearly resembles that which is hottest.\"To support this position, William Lane Craig uses an argument put forth by the kalām school of philosophy. A refutation by Gaunilo concerning a \"lost island\" was used against an argument for this position from the Proslogion. Contingency and the Unmoved Mover are two of the \"five ways\" arguing for this position in Thomas Aquinas' Summa Theologica. For 10 points, St. Anselm's ontological argument argues for what theological position rejected by atheists?",
+      "powerMarkPosition": 373,
+      "answer": "God",
+      "acceptableAnswers": [
+        "God",
+        "God exists",
+        "other equivalents",
+        "accept answers relating that God created the universe",
+        "accept the First Cause",
+        "prompt on specific arguments like the kalām cosmological argument",
+        "the ontological argument by asking",
+        "“What does that argue for?”",
+        "The God"
+      ],
+      "source": "qbreader",
+      "sourceId": "664d3b277fccf731960502ac"
+    },
+    {
+      "id": "ae4f02b5-2479-4990-b7d0-4a4e1161088f",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "Modern industrial syntheses of vitamin C involve a fermentation process using this molecule as a starting material. This molecule's less common L isomer cannot react with hexokinase; its D isomer reacts with the enzyme to form a compound containing a phosphate on carbon number 6. The Cori cycle involves the conversion of pyruvate into this molecule. It can also be used to form two equivalents of pyruvate, the starting material of the citric acid cycle. A dimer containing two of these molecules is called mannose while it also forms a long linear chain called glucagon. For 10 points, name this monosaccharide with formula C6H12O6, often referred to as blood sugar.",
+      "powerMarkPosition": 280,
+      "answer": "glucose",
+      "acceptableAnswers": [
+        "glucose",
+        "The glucose"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfeedf"
+    },
+    {
+      "id": "b1bf6afb-e22d-49c2-8a70-17b76fe62d71",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "2. One type of this chemical turns a transparent violet if amino acids have been formed and is named the biuret type. Another example turns color between green and dark red depending on the amount of sugar in the solution, and is named the Benedict's type. The limiting type is the chemical that has the smallest ratio of the amount of moles present to the amount of moles needed for the reaction. For 10 points, name this type of substance that can determine to what extent another substance has been created or is used to help produce other substances.",
+      "powerMarkPosition": 256,
+      "answer": "reagent",
+      "acceptableAnswers": [
+        "reagent",
+        "The reagent"
+      ],
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced8fa"
+    },
+    {
+      "id": "226c613e-4b53-48a2-9a75-ad880fb55a5f",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "In this work, the teenaged Asya asks Dyomka to kiss her breast. When his son visits him at this novel's titular location, the Party member Pavel Rusanov berates him for being too soft on a truck driver who lost a box of macaroni in a snowstorm. Like its author, the main character of this work has been exiled due to Article 58, which deals with counterrevolutionaries. The protagonist of this work is left sexually impotent because of his residence in the title place. At this novel's end, the protagonist leaves a letter for Vera Gangart and boards a train back to Ush-Terek. For 10 points, name this work in which Oleg Filimonovich Kostoglov seeks treatment at the titular facility, a novel by Aleksandr Solzhenitsyn.",
+      "powerMarkPosition": 244,
+      "answer": "Cancer Ward",
+      "acceptableAnswers": [
+        "Cancer Ward",
+        "Rakovy Korpus",
+        "The Cancer Ward"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0bda6"
+    },
+    {
+      "id": "f4e72fd2-ee2c-4cb5-9d81-79022ff14624",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "This philosopher created the eirôneia style, which later became known as his \"irony.\" Aristophanes describes this man teaching how to avoid repayment of debt and making fun of traditional gods in The Clouds. This man's eponymous method involves asking many questions and distilling the answer that one seeks and was called elenchus. Claiming that he has no wisdom in Apology, for 10 points, identify this main speaker of The Republic and other Platonic dialogues whose opposition to Athenian democracy led to his trial and eventual suicide.",
+      "powerMarkPosition": 207,
+      "answer": "Socrates",
+      "acceptableAnswers": [
+        "Socrates",
+        "The Socrates"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0d05"
+    },
+    {
+      "id": "16cd5dc7-ad93-4b81-8823-1bb579f1d2cc",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "text": "The Krutzsch process produced about a ten percent aqueous solution of this compound, but was never commercialized. This compound is produced commercially by sending bubbles of air through a solution of anthracene, leading to the autoxidation of 2-alkyl anthrahydroquinone to a 2-alkyl anthraquinone. That process is known as the AO process and was invented by Riedl and Pfleiderer. This compound is found with ferrous salts in Fenton's reagent, and oxidizes sodium hypochlorite to give oxygen. A three percent aqueous solution of it is useful for treating minor wounds. It is broken down to oxygen and water by catalase. For 10 points, name this oxidizing agent with formula H2O2.",
+      "powerMarkPosition": 299,
+      "answer": "hydrogen peroxide",
+      "acceptableAnswers": [
+        "hydrogen peroxide",
+        "H2O2 before mentioned",
+        "The hydrogen peroxide"
+      ],
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e6da8"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "316914d0-4487-4112-9e0b-bfbee7e93624",
+      "linkedTossupId": "c444c728-3057-48cc-9f31-d5afaa523fb9",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with memory cells.",
+          "answer": "T cell",
+          "acceptableAnswers": [
+            "T cell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the T cell in the immune system?",
+          "answer": "Memory cells",
+          "acceptableAnswers": [
+            "Memory cells"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to memory cells.",
+          "answer": "B cell",
+          "acceptableAnswers": [
+            "B cell"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "09e1e0f5-513b-4229-981d-fb4720bde3e5",
+      "linkedTossupId": "1e024de1-bcd2-4101-9610-a4e5336caebf",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This French sociologist analyzed four types of the titular action in his work, Suicide.",
+          "answer": "Durkheim",
+          "acceptableAnswers": [
+            "Durkheim",
+            "The Durkheim"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Among Durkheim's theories of suicide is this condition, a feeling of a lack of social norms.",
+          "answer": "Anomie",
+          "acceptableAnswers": [
+            "Anomie",
+            "The Anomie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A prison inmate committing suicide would be categorized as this type of suicide in Emile Durkheim's Suicide.",
+          "answer": "Fatalistic",
+          "acceptableAnswers": [
+            "Fatalistic",
+            "The Fatalistic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about other psychologists, for ten points each:",
+      "source": "qbreader",
+      "sourceId": "6531aa9fcde02a8be25ff3e2"
+    },
+    {
+      "id": "9a3dfa03-5cdb-48c2-9693-e09ae9e5fded",
+      "linkedTossupId": "04dc103a-3df1-4161-9d28-75b48ed09303",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with feedback loops.",
+          "answer": "hypothalamus",
+          "acceptableAnswers": [
+            "hypothalamus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hypothalamus in the endocrine system?",
+          "answer": "Feedback loops",
+          "acceptableAnswers": [
+            "Feedback loops"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to feedback loops.",
+          "answer": "pituitary",
+          "acceptableAnswers": [
+            "pituitary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "958658b6-35d9-43d9-baca-6f89bd35049c",
+      "linkedTossupId": "237204f9-bc0e-4108-adaf-a1cfa0f60e80",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with nail anatomy.",
+          "answer": "hair follicle",
+          "acceptableAnswers": [
+            "hair follicle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hair follicle in the integumentary system?",
+          "answer": "Nail anatomy",
+          "acceptableAnswers": [
+            "Nail anatomy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the integumentary system related to nail anatomy.",
+          "answer": "nail",
+          "acceptableAnswers": [
+            "nail"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human integumentary system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "bfbe82c9-f9de-4d17-8995-026efcde4225",
+      "linkedTossupId": "3f2b7282-f40c-47a7-b290-2cec0de85279",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this phenomenon in which light bends as it passes between two media.",
+          "answer": "refraction",
+          "acceptableAnswers": [
+            "refraction",
+            "The refraction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This related phenomenon occurs when a material, such as calcite, has different indices of refraction depending on the way light passes through it.",
+          "answer": "birefringence",
+          "acceptableAnswers": [
+            "birefringence",
+            "The birefringence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This law equates the ratio of the indices of refraction to the ratio of the sines of the angles of incidence and reflection as light passes between two different media.",
+          "answer": "Snell’s",
+          "acceptableAnswers": [
+            "Snell’s",
+            "The Snell’s"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Different magnitudes of this process for different wavelengths of light contribute to dispersion in prisms. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a4d585770cd7127f7dacc1"
+    },
+    {
+      "id": "31d6bd60-6dc7-4531-bd4d-ee97304a50a3",
+      "linkedTossupId": "5607da38-4f40-4e95-8d31-aae1fb03238d",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel focusing on Donald Farfrae's rivalry with the title character, Michael Henchard.",
+          "answer": "Mayor of Casterbridge",
+          "acceptableAnswers": [
+            "Mayor of Casterbridge",
+            "The Mayor of Casterbridge"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Mayor of Casterbridge was written by this man who also authored Tess of the d'Urbervilles.",
+          "answer": "Hardy",
+          "acceptableAnswers": [
+            "Hardy",
+            "The Hardy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One scene from this other Hardy novel features a murder-suicide carried out by a character nicknamed \"Little Father Time\", who shares his name with this work's protagonist, the lover of Sue Bridehead.",
+          "answer": "Jude the Obscure",
+          "acceptableAnswers": [
+            "Jude the Obscure",
+            "The Jude the Obscure"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This novel features two characters named Elizabeth-Jane, one of whom is auctioned off as an infant alongside her mother, Susan Newson. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0715"
+    },
+    {
+      "id": "40e27fbe-0047-4d4b-918b-f6794d802059",
+      "linkedTossupId": "bc3609ac-fc1d-48b1-91ca-52f37aaf5cc5",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Irish playwright who was a proponent of reform to the English alphabet. In that role, he met the phonetician Henry Sweet, who served as a model for the character Henry Higgins in this man's play Pygmalion.",
+          "answer": "Shaw",
+          "acceptableAnswers": [
+            "Shaw",
+            "The Shaw"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Shaw controversially saw Great Britain and Germany as equally responsible for World War I, and previously wrote this play showing the futility of war, featuring the Bulgarian Raina Petkoff and the soldier Captain Bluntschli.",
+          "answer": "Arms and the Man",
+          "acceptableAnswers": [
+            "Arms and the Man",
+            "The Arms and the Man"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After Shaw's death, Ronald Kingsley Read and others designed the phonetic Shavian alphabet to his specifications and published a version of this Shaw play in it. In this play, the title fugitive Christian saves an animal with a thorn in its paw, and that animal later refuses to kill him in the Colosseum.",
+          "answer": "Androcles and the Lion",
+          "acceptableAnswers": [
+            "Androcles and the Lion",
+            "The Androcles and the Lion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man was an early member of the socialist Fabian Society, along with being anti-vaccine and holding various other controversial views. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66cd4c3cc5459312fdcc5550"
+    },
+    {
+      "id": "c58088f7-49c3-476e-99e1-d950a099c200",
+      "linkedTossupId": "7a576073-dd74-49e5-ab9e-cb0e68a78dc1",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Luo Guonzhong authored this historical novel based on the fall of the Han Dynasty. It chronicles the actions of Cao Cao and Liu Bei, who face off at the Battle of Red Cliffs.",
+          "answer": "Romance of the Three Kingdoms",
+          "acceptableAnswers": [
+            "Romance of the Three Kingdoms",
+            "Sanguozhi Pinghua",
+            "Sanguozhi Tongsu Yanyi",
+            "The Romance of the Three Kingdoms"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pearl S. Buck made a notable translation of this ostensibly Shi Naian-penned masterwork, in which 108 bandits camp out in a swampy area.",
+          "answer": "Water Margin",
+          "acceptableAnswers": [
+            "Water Margin",
+            "The Outlaws of the Marsh",
+            "All Men Are Brothers",
+            "Men of the Marshes",
+            "The Marshes of Mount Liang",
+            "Shuǐhǔ Zhuàn",
+            "The Water Margin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Upon publication, Dream of the Red Chamber replaced this bawdy novel as the fourth Great Classical Novel. This work of the pseudonymous \"Scoffing Scholar of Lanling\" describes the downfall of the Ximen family at the hands of the lusty Qing, who hooks up with nineteen hotties, including six wives, throughout its course.",
+          "answer": "Jin Ping Mei",
+          "acceptableAnswers": [
+            "Jin Ping Mei",
+            "The Plum in the Golden Vase",
+            "The Golden Lotus",
+            "The Jin Ping Mei"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name the following tomes considered among China's Four Great Classical Novels, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da8a5"
+    },
+    {
+      "id": "121698e0-b921-4dc2-ac97-6bc2637ca3c3",
+      "linkedTossupId": "5029c97d-d862-4358-8627-4bc7619bc6bb",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this figure whose \"Chillun Got Wings\" in the title of a play about the Black man Jim Harris, who is abusive to his white wife Ella.",
+          "answer": "God",
+          "acceptableAnswers": [
+            "God",
+            "All God's Chillun Got Wings",
+            "The Great God Brown",
+            "The God"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "All God's Chillun Got Wings and The Great God Brown are both plays by this atheist author of The Iceman Cometh.",
+          "answer": "O'Neill",
+          "acceptableAnswers": [
+            "O'Neill",
+            "Eugene Gladstone O'Neill",
+            "The O'Neill"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Great God Brown is sometimes considered an introduction to a Catholicism-inspired play about this character, who laughs so much that his wife is poisoned by Tiberius and his family members are taken away.",
+          "answer": "Lazarus",
+          "acceptableAnswers": [
+            "Lazarus",
+            "Lazarus Laughed",
+            "The Lazarus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a play titled for this figure, Billy Brown poses as Margaret's husband after putting on a mask that was previously worn by Dion Anthony. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67cb4e0fa4d5f0b0e22abff9"
+    },
+    {
+      "id": "c5604ad9-e16c-47f2-a3fd-ee81a3210a29",
+      "linkedTossupId": "4747665d-8f60-459d-9807-f933ecb10b91",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Boiling Lake is a fumarole in this Caribbean nation which also includes Trafalgara Falls and is situated about halfway between Guadeloupe and Martinique.",
+          "answer": "Dominica",
+          "acceptableAnswers": [
+            "Dominica",
+            "The Dominica"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This mountain range dominates the eastern portion of Jamaica, with Kingston at its base.",
+          "answer": "Blue",
+          "acceptableAnswers": [
+            "Blue",
+            "The Blue"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This volcano on Montserrat has exploded numerous times in recent memory, dealing heavy damage to the capital of Plymouth.",
+          "answer": "Soufriere Hills",
+          "acceptableAnswers": [
+            "Soufriere Hills",
+            "The Soufriere Hills"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about Caribbean volcanoes, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62df3ddba2602b93e0408191"
+    },
+    {
+      "id": "52415002-6044-4234-a8a3-3cff94071192",
+      "linkedTossupId": "a8a590eb-f600-4354-871c-f040648de116",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this phenomenon usually displayed by nickel, cobalt, and its namesake element.",
+          "answer": "ferromagnetism",
+          "acceptableAnswers": [
+            "ferromagnetism",
+            "The ferromagnetism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "If a ferromagnet is heated to this temperature, it will no longer display its magnetic properties. This temperature is named for a chemist, Pierre, who shared a Nobel Prize with his wife, Marie.",
+          "answer": "Curie",
+          "acceptableAnswers": [
+            "Curie",
+            "The Curie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A material whose magnetic permeability is less than that of a vacuum exhibits this other type of magnetism. These materials produce an induced magnetic field opposite to the external magnetic field.",
+          "answer": "diamagnetism",
+          "acceptableAnswers": [
+            "diamagnetism",
+            "The diamagnetism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This material will remain magnetized after applying an external magnetic field, a phenomenon known as hysteresis. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b86e"
+    },
+    {
+      "id": "4fad6e59-4766-4e4c-a6a6-c7635c025af6",
+      "linkedTossupId": "49f4dde5-46a8-4e32-bcc2-ca0dfa513375",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "His first play to be professionally performed, it tells of Jerry, who manipulates Peter into helping Jerry kill himself during an encounter in a park.",
+          "answer": "The Zoo Story",
+          "acceptableAnswers": [
+            "The Zoo Story",
+            "Zoo Story"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Nick and Honey find themselves in the middle of a big fight between George and Martha after a faculty party. It was made into a film starring Richard Burton and Elizabeth Taylor.",
+          "answer": "Who’s Afraid of Virginia Woolf",
+          "acceptableAnswers": [
+            "Who’s Afraid of Virginia Woolf",
+            "The Who’s Afraid of Virginia Woolf"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a play whose characters are only known by letters of the alphabet, A is a sick and forgetful old woman who is cared for by B and visited by C, who wants her to settle her financial affairs. It soon becomes clear that all the characters are the same person at various stages of life.",
+          "answer": "Three Tall Women",
+          "acceptableAnswers": [
+            "Three Tall Women",
+            "The Three Tall Women"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these plays by Edward Albee.",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596e10"
+    },
+    {
+      "id": "a8b0c5eb-4f46-435c-a8e5-b217c24af18c",
+      "linkedTossupId": "3a627ba7-4fcb-4fe9-83ef-1de661837a91",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The car does not roll down the hill because of this force that resists motion. The \"dry\" form of this force is given by its namesake coefficient times the normal force.",
+          "answer": "friction",
+          "acceptableAnswers": [
+            "friction",
+            "The friction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Given that tilt of the hill is 45º, the static friction coefficient would have to be at least this value to prevent the car from rolling down the hill.",
+          "answer": "one",
+          "acceptableAnswers": [
+            "one",
+            "tan 1.º)",
+            "The one"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "If the static coefficient was less than one, the car would start rolling down the hill, regardless of the surface area of the car in contact with the road, according to the second of these laws. The first of them relates friction to mass.",
+          "answer": "Amontons",
+          "acceptableAnswers": [
+            "Amontons",
+            "The Amontons"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Imagine a car parked on a hill. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c61193499fe"
+    },
+    {
+      "id": "453b5b2f-e21f-438a-937b-026d293dedf3",
+      "linkedTossupId": "cd064bc0-2397-432e-acea-1f8aa926ec1e",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "With an elevation of over 8500 metres, this Himalayan massif named for its five snowy peaks contains the third tallest summit in the world.",
+          "answer": "Kangchenjunga",
+          "acceptableAnswers": [
+            "Kangchenjunga",
+            "The Kangchenjunga"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The main peak of Kangchenjunga is the highest point of elevation of the basin of this river, which later empties into the Bay of Bengal after joining the Ganges.",
+          "answer": "Brahmaputra",
+          "acceptableAnswers": [
+            "Brahmaputra",
+            "The Brahmaputra"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The summit of Kangchenjunga is considered especially sacred by people from this least populous state of India, bordered by Tibet and Bhutan and known for producing cardamom.",
+          "answer": "Sikkim",
+          "acceptableAnswers": [
+            "Sikkim",
+            "The Sikkim"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about an Asian mountain.",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba9673c"
+    },
+    {
+      "id": "bd54f536-9208-4595-b5bb-91f357508570",
+      "linkedTossupId": "da738a01-1fe8-42cf-bfe2-cb180c5e12fe",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this relation which one philosopher argued is impossible to observe, because it requires \"necessary connexion\", not only \"constant conjunction\". This relation has material, formal, efficient, and final forms.",
+          "answer": "causation",
+          "acceptableAnswers": [
+            "causation",
+            "causality",
+            "accept cause and effect",
+            "The causation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This philosopher's Enquiry Concerning Human Understanding introduces necessary connexion and constant conjunction, as well as a namesake fork which divides propositions into matters of fact and relations of ideas.",
+          "answer": "Hume",
+          "acceptableAnswers": [
+            "Hume",
+            "Hume’s fork",
+            "The Hume"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "According to Leibniz, causal relations cannot exist between these simple, conscious substances which make up the material world, but they behave as if they could affect each other due to pre-established harmony.",
+          "answer": "monad",
+          "acceptableAnswers": [
+            "monad",
+            "The monad"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "According to occasionalism, only God can have this relation to events, while Leibniz's principle of sufficient reason holds that every event participates in this relation. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6549e61add7828c4e244d645"
+    },
+    {
+      "id": "195a960f-ed27-4660-930e-d1dcb34f6908",
+      "linkedTossupId": "ae4f02b5-2479-4990-b7d0-4a4e1161088f",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Although it is commonly found in the gastrointestinal tract, varieties of this bacteria can still cause traveler's diarrhea and can produce Shiga toxin.",
+          "answer": "E",
+          "acceptableAnswers": [
+            "E"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This genus of foodborne illness-causing bacteria has been linked to outbreaks associated with peanut butter or Taco Bell in the past few years, but it more commonly contaminates chicken eggs.",
+          "answer": "Salmonella",
+          "acceptableAnswers": [
+            "Salmonella",
+            "The Salmonella"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This comma-shaped genus of bacteria contains species parahemolyticus, which is found in raw oysters. Another member of this genus causes cholera.",
+          "answer": "Vibrio",
+          "acceptableAnswers": [
+            "Vibrio",
+            "The Vibrio"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these bacteria commonly implicated in foodborne illnesses.",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae9f2"
+    },
+    {
+      "id": "8ad555fa-63bf-4ddc-85cf-ec1832f1a097",
+      "linkedTossupId": "b1bf6afb-e22d-49c2-8a70-17b76fe62d71",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this laboratory test, a procedure that is used to detect the presence of metal ions in a sample.",
+          "answer": "flam",
+          "acceptableAnswers": [
+            "flam",
+            "The flam"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sodium and iron both produce this color when subjected to a flame test. This is also the color of unburned elemental sulfur.",
+          "answer": "yellow",
+          "acceptableAnswers": [
+            "yellow",
+            "The yellow"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The flame test often employs this lab device, developed by a German chemist. This device adjusts air and gas flows to control its flame.",
+          "answer": "Bunsen burner",
+          "acceptableAnswers": [
+            "Bunsen burner",
+            "The Bunsen burner"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "When subjected to this test, lithium produces pink colors while calcium produces orange. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62f07cea5295951080e2cc75"
+    },
+    {
+      "id": "1439837a-942e-41e2-ba06-de969a804edb",
+      "linkedTossupId": "226c613e-4b53-48a2-9a75-ad880fb55a5f",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this novel in which the Bundren family travel to Jefferson, Mississippi to bury the matriarch Addie.",
+          "answer": "As I Lay Dying",
+          "acceptableAnswers": [
+            "As I Lay Dying",
+            "The As I Lay Dying"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "As I Lay Dying was written by this author of Absalom, Absalom! and The Sound and the Fury.",
+          "answer": "Faulkner",
+          "acceptableAnswers": [
+            "Faulkner",
+            "The Faulkner"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Faulkner novel sees a young pregnant woman named Lena Grove traveling through Alabama to find the father of her child. Joe Christmas, a man who believes himself to be of black ancestry, has a secret affair with Joanna Burden in this novel.",
+          "answer": "Light in August",
+          "acceptableAnswers": [
+            "Light in August",
+            "The Light in August"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Two chapters of this novel are narrated by a doctor named Peabody, who also works on Cash's leg near the end of this novel. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289cadea"
+    },
+    {
+      "id": "3aa9d96b-49a5-4093-afa3-a434dcb4c8e8",
+      "linkedTossupId": "f4e72fd2-ee2c-4cb5-9d81-79022ff14624",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this religion focused on wu wei or \"without action,\" sometimes translated as \"the way\".",
+          "answer": "Tao",
+          "acceptableAnswers": [
+            "Tao",
+            "Daoism",
+            "accept word forms of either",
+            "The Tao"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This popular Taoist image symbolizes balance. In contains a black dot in the middle of a white area and a white dot in the middle of a black area.",
+          "answer": "Yin",
+          "acceptableAnswers": [
+            "Yin",
+            "The Yin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Chinese philosopher wrote the Tao de Ching and is considered the founder of Taoism with Zuang-zhi.",
+          "answer": "Laozi",
+          "acceptableAnswers": [
+            "Laozi",
+            "Lao-tse",
+            "Lao-tzu",
+            "The Laozi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Its ethics focuses on the three jewels: compassion, moderation, and humility. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1e04"
+    },
+    {
+      "id": "82ae4eca-b4ea-4253-8534-21199a23e884",
+      "linkedTossupId": "16cd5dc7-ad93-4b81-8823-1bb579f1d2cc",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these systems that create point bars at their inside banks via the deposition of soil that has been eroded from their outside banks.",
+          "answer": "river",
+          "acceptableAnswers": [
+            "river",
+            "streams",
+            "fluvial systems",
+            "meanders",
+            "The river"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These areas are the transition zones between fluvial systems, such as a river, and terrestrial systems, such as the land next to the river. These ecosystems are characterized by hydrophilic vegetation and biofiltration of pollutants.",
+          "answer": "riparian",
+          "acceptableAnswers": [
+            "riparian",
+            "riparian area",
+            "The riparian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This process occurs when a river flow migrates from a parent channel into another channel with a steeper slope. Examples of this process include delta switching and meander cutoff.",
+          "answer": "avulsion",
+          "acceptableAnswers": [
+            "avulsion",
+            "The avulsion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Exner equation quantifies sediment conservation in these systems. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64306480335bc8c468cbb144"
+    }
+  ]
+}

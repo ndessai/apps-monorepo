@@ -1,0 +1,1142 @@
+{
+  "packetId": "packet-166",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Science",
+    "Philosophy",
+    "Fine Arts",
+    "Literature",
+    "Social Science",
+    "Mythology",
+    "Geography"
+  ],
+  "tossups": [
+    {
+      "id": "111a56cf-0bf6-47ca-a69e-d261cb534041",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "This man turned down the governorship of Oregon when the Taylor administration offered it. At the start of the Mexican-American war, he introduced the never debated Spot Resolutions and later established his anti-expansion views on slavery in his Cooper Union Speech. His opponent advocated the Freeport Doctrine in a series of debates taking place across Illinois. This politician would later suspend the writ of habeus corpus as president during the Civil War. For 10 points, name this president who freed the slaves with his Emancipation Proclamation.",
+      "powerMarkPosition": 267,
+      "answer": "Lincoln",
+      "acceptableAnswers": [
+        "Lincoln",
+        "The Lincoln"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0600"
+    },
+    {
+      "id": "60341022-fa9b-437a-b35e-28d11b7ec18d",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "A dimensionless, normalized form of this quantity is called activity. According to Beer's law, the product of this quantity, path length and extinction coefficient equals absorbance. This quantity of a species is indicated by drawing square brackets around it. Either this quantity or partial pressures are raised to the power of stoichiometric coefficients in the expression for the equilibrium constant. Molality and molarity are measurements of this quantity. For 10 points, identify this quantity, the number of moles of a chemical species per unit volume of solvent.",
+      "powerMarkPosition": 240,
+      "answer": "concentration",
+      "acceptableAnswers": [
+        "concentration",
+        "molarity",
+        "molality until “molality” is read",
+        "The concentration"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52918"
+    },
+    {
+      "id": "c1bb0427-3ac4-4670-b857-0fc5c4bdc7f3",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "During his execution, this figure was pierced by the Lance of Longinus. In addition to yelling at a fig tree for not bearing fruit, this figure healed a pig-eating man from Gerasa possessed by a horde of devils named Legion. This man was put to death by Pontius Pilate, and drops of his blood fell into the Holy Grail. For 10 points, name this Messiah and only son of God according to Christianity.",
+      "powerMarkPosition": 224,
+      "answer": "Jesus",
+      "acceptableAnswers": [
+        "Jesus",
+        "either",
+        "The Jesus"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec654b"
+    },
+    {
+      "id": "f05737e3-b776-42a6-98b0-bc60a7827800",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "It is not part of British history, but this period was ended by a bloodless coup in which a king proclaimed a new Instrument of Government which gave more power to the Privy Council. A disastrous foreign war called the Lesser Wrath was instigated by this era's leading anti-Russian faction, which took its name from the tricornes that its members wore. This era follows an era of imperialism called the Stormaktstiden (\"STORM-okts-tee-den\"). This period was brought to an end by the coup of Gustav III, ending the dominance of the parliamentary Caps and Hats parties. For 10 points, name this era of Swedish history in the 18th century named for its high degree of freedom.",
+      "powerMarkPosition": 490,
+      "answer": "Age of Liberty",
+      "acceptableAnswers": [
+        "Age of Liberty",
+        "Frihetstiden",
+        "The Age of Liberty"
+      ],
+      "source": "qbreader",
+      "sourceId": "640020a88d3cf1e72e2341ec"
+    },
+    {
+      "id": "f6fe9483-cf60-452a-9477-3315c9249329",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "This quantity for an ideal gas can be calculated by the Sackur-Tetrode equation, while another equation uses this quantity, temperature, and enthalpy to calculate Gibbs free energy. The Third Law of thermodynamics states that its value at absolute zero is zero. Symbolized as S, this quantity has a unit of joules per kelvin, and according to the Second Law of Thermodynamics, this quantity will always increase over time. For 10 points, name this quantity, which measures the amount of disorder in a system.",
+      "powerMarkPosition": 181,
+      "answer": "entropy",
+      "acceptableAnswers": [
+        "entropy",
+        "The entropy"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0655"
+    },
+    {
+      "id": "e7cf646b-258a-4cc4-a572-e55f1802c804",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "This thinker counterposed Newtonian and Leibnizian ideas of space and time in his best-known work's first section, titled \"Transcendental Aesthetic.\" His concept of transcendental idealism relies on his description of \"things-as-they-are,\" noted in his Prolegomena to any Future Metaphysics. An early treatise about the merits of democracy in maintaining diplomatic serenity is his Perpetual Peace. This man's Groundwork for the Metaphysics of Morals outlines a concept later fully described in his Critique of Practical Reason. For 10 points name this German creator of the categorical imperative.",
+      "powerMarkPosition": 291,
+      "answer": "Kant",
+      "acceptableAnswers": [
+        "Kant",
+        "The Kant"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0ce7f"
+    },
+    {
+      "id": "b88064ca-a028-4c3c-94d0-93f1e7bee85a",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "This ruler won a major victory over Psamtik III with the assistance of Polycrates of Samos and the Greek general Phanes. According to an inscription at Bisitun, this ruler was responsible for the death of Bardiya, which later inspired a revolt led by the Magian Gaumata, who impersonated Bardiya to usurp his throne. This ruler's effort to expand his western border was halted by a gigantic sandstorm that eliminated an entire detachment now known as his \"Lost Army\". That expedition successfully captured Kharga Oasis but not Siwa Oasis after departing from Thebes. The successor of this victor of the battle of Pelusium saw his forces lose the Battle of the Eurymedon to Cimon after responding to a revolt on the Ionian Isles. Primarily known for conquering Egypt and stabilizing the Achaemenid empire, for 10 points, identify this Persian ruler who preceded Darius I and succeeded his father, Cyrus the Great.",
+      "powerMarkPosition": 467,
+      "answer": "Cambyses",
+      "acceptableAnswers": [
+        "Cambyses",
+        "Kambujiya",
+        "The Cambyses"
+      ],
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e6b13"
+    },
+    {
+      "id": "7c4f46ee-7cd8-4732-bb88-7094d398d2fd",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "text": "The New York State Theatre's opening ceremony featured an antiphonal performance of an Igor Stravinsky piece in this genre. In 1942, the Cincinnati Symphony Orchestra premiered 18 pieces in this genre commissioned by Eugene Goosens, including one \"for American Heroes\" by William Grant Still. Conductor Marin Alsop is the dedicatee of a piece in this genre by Joan Tower, whose title alludes to an earlier piece in this genre which opens with timpani, bass drum, and tam-tam, followed by trumpets playing the ascending notes F, B-flat, F. Leo Arnaud's \"Bugler's Dream\" is in this genre and is used for television presentations of the Olympic Games. Elongated horns designed to hang banners name, for 10 points, pieces in what genre, one of which Aaron Copland wrote \"for the Common Man\"?",
+      "powerMarkPosition": 487,
+      "answer": "fanfare",
+      "acceptableAnswers": [
+        "fanfare",
+        "fanfarade",
+        "accept flourish",
+        "accept Fanfare for American Heroes",
+        "accept Fanfare for a New Theatre",
+        "accept Fanfare for the Uncommon Woman",
+        "accept Fanfare for the Common Man",
+        "The fanfare"
+      ],
+      "source": "qbreader",
+      "sourceId": "6884698b641a9dc975af8736"
+    },
+    {
+      "id": "fd21a7d8-1f4f-410a-9c5c-737cf1fc0144",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "A condensed version of one of this author's works contains the acrostic \"ITALICUS SCRIPSIT.\" This author is parodied in The Battle of the Frogs and Mice. One poem by this author includes a vivid ekphrasis of a character's shield, while that work's Book 2 contains a Catalog of Ships. This author's most famous poems, which include the epithets \"rosy-fingered Dawn\" and \"wine-dark sea,\" begin in medias res and were composed in dactylic hexameter. A poem by this author opens, \"Sing, O Muse, of the rage of Achilles.\" For 10 points, name this ancient Greek epic poet to whom the Iliad and the Odyssey are traditionally attributed.",
+      "powerMarkPosition": 283,
+      "answer": "Homer",
+      "acceptableAnswers": [
+        "Homer",
+        "Homeros",
+        "The Homer"
+      ],
+      "source": "qbreader",
+      "sourceId": "652ebb6d8051389c667bcf03"
+    },
+    {
+      "id": "45decede-aeb4-428f-9ed2-27757db5ad35",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "Leos Janacek dedicated his Sinfonietta to the army of this country, his homeland. Bedrich Smetana's Ma Vlast depicts this country, including its Vltava River. Another composer from this modern country traveled to America, where he composed the American string quartet and the From the New World symphony. Antonin Dvorak championed the folk music of, for 10 points, what European country, whose Vltava River flows through the capital of Prague?",
+      "powerMarkPosition": 275,
+      "answer": "Czech",
+      "acceptableAnswers": [
+        "Czech",
+        "The Czech"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acd29"
+    },
+    {
+      "id": "cba21800-501c-484f-a870-65f8fa6eefa0",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "In this organism, the protein Sic1 is degraded at the G1/S checkpoint, which is usually termed the \"Start\" point. A MAP kinase competes with a protein phosphatase for the phosphosites of the MAPK scaffold Ste5, whose tetraphosphorylation leads to the mating decision of this organism. The gene URA3, which encodes the protein OMP decarboxylase, is a selectable marker in this organism. This organism's genome is 12 megabases in length, organized into 16 chromosomes. In this organism, the HO endonuclease makes a double-stranded break at the MAT locus. GAL4 is a transcriptional activator native to this model organism that is used in a method that fishes for protein-protein interactions called a two-hybrid screen. The products of meiosis in this organism comprise a tetrad contained within a membranous sac called an ascus. That tetrad consists of two haploid cells of this organism of each mating type, a and alpha. For 10 points, name this budding yeast, a species used by both brewers and bakers.",
+      "powerMarkPosition": 488,
+      "answer": "S",
+      "acceptableAnswers": [
+        "S",
+        "“Saccharomyces”",
+        "prompt on “yeast” until read"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0dc1c"
+    },
+    {
+      "id": "2750c14e-cf3d-49f1-bced-6cb62f489518",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "Direct methods for analyzing these specimens are classified based on if they measure real-space. Hermann-Mauguin notation was developed to describe these specimens. An electron gun is fired at one of these specimens in ultra-high vacuum, after which filtered electrons are measured on a hemispherical fluorescent screen in LEED. The Debye-Scherrer method allows analysis of imperfect examples of these specimens due to being able to grind the sample to a powder. When refining data from these specimens, one must identify the shape of their unit cells and subsequently their space groups. Bragg's law describes diffraction through, for 10 points, what solids with repeating structures?",
+      "powerMarkPosition": 454,
+      "answer": "crystal",
+      "acceptableAnswers": [
+        "crystal",
+        "solids",
+        "The crystal"
+      ],
+      "source": "qbreader",
+      "sourceId": "664d3b297fccf73196050327"
+    },
+    {
+      "id": "878e25b8-e7ab-48b9-87f5-8c0617f6d822",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "The formation of these structures is associated with a high energy helicity index, or EHI. The NEXRAD (\"nex-rad\") system allows for the algorithmic detection of these phenomena even without hook echo signatures. These structures begin to form upon the descent of a rear-flank downdraft with its associated mesocyclone. Though they can originate from squalls and tropical cyclones, these structures develop most commonly from supercells. The speed associated with these events is predicted by 28 damage indicators in the Enhanced Fujita Scale. The United States has an \"alley\" with an abundance of, for 10 points, what rapidly rotating columns of air?",
+      "powerMarkPosition": 318,
+      "answer": "tornado",
+      "acceptableAnswers": [
+        "tornado",
+        "The tornado"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff979"
+    },
+    {
+      "id": "89b7b384-8327-4c95-82e1-f7c840bad271",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "text": "C.P.E. Bach wrote his '' Symphony for strings in this note's major key, and another symphony in this major key is sometimes nicknamed The Philosophical. That symphony is Bruckner's sixth, and Saent Saens' first cello concerto is in this note's minor key, as is Paganini's 24th caprice and Rachmaninov's Rhapsody on that theme. Playing this note's major scale starting on E would be identical to a Mixolydian mode, and when the Aeolian mode is played on the white keys of the piano, it is identical to this note's natural minor key. Beethoven's \"Fur Elise\" is in this minor key, as are both Schumann's and Grieg's piano concerti. Mozart's clarinet concerto is in its major key, and the dominant of this note is E. For 10 points, name this note whose minor key has no sharps or flats, is the note played by the oboe for an orchestra to tune to, and which is found a whole step below B.",
+      "powerMarkPosition": 326,
+      "answer": "A",
+      "acceptableAnswers": [
+        "A"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f02b9"
+    },
+    {
+      "id": "a182853e-58a8-4c4a-8762-6c79b7c6b37f",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "The Ramsey problem, which later yielded a second-best solution for monopoly pricing, was originally formulated to optimize these things. Peter Diamond and James Mirrlees found that these things need not alter production decisions. These things' economic incidence, which is independent from statutory incidence, depends on the elasticities of suppliers and consumers. One type of these things that can bring private marginal cost into equality with social marginal cost was described by A. C. Pigou. They're not quotas, but infant industries benefit from a type of these things. The \"wedge\" caused by these things results in deadweight loss. For 10 points, name these government policies, exemplified by tariffs, that proportionally raise prices.",
+      "powerMarkPosition": 486,
+      "answer": "tax",
+      "acceptableAnswers": [
+        "tax",
+        "taxation",
+        "accept tax rates",
+        "accept commodity taxes",
+        "accept tariffs until read",
+        "prompt on rates",
+        "The tax"
+      ],
+      "source": "qbreader",
+      "sourceId": "6848696db074cbb48b99b49f"
+    },
+    {
+      "id": "35007d9c-d213-423f-bfb3-6fa4afb69626",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "One work by this author focuses on a slave named Henry Johnson, who is transformed into the title figure while saving his master's son, Jimmie Trescott, from a fire. Besides The Monster, this man authored a story in which the title character fall into prostitution after her lover, a bartender named Pete, leaves her for a woman named Nellie. One of his short stories takes place after a shipwreck survived by the oiler, captain, correspondent and cook, but he is best remembered for a novel centering on Union soldier Henry Fleming. For 10 points, name this American who authored \"The Open Boat\" and The Red Badge of Courage.",
+      "powerMarkPosition": 342,
+      "answer": "Crane",
+      "acceptableAnswers": [
+        "Crane",
+        "The Crane"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f05cf"
+    },
+    {
+      "id": "d9000a47-cb20-40d0-9978-d2ccfcbf4374",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "This country's \"economic miracle\" was sparked by Economics Minister Ludwig Erhard and its first leader, Konrad Adenauer, a member of the Christian Democrats. Willy Brandt championed this nation's political philosophy of Ostpolitik, which normalized relations with its Soviet neighbor. For 10 points, name this nation with capital at Bonn, which reunited with its eastern neighbor after the fall of the Berlin Wall.",
+      "powerMarkPosition": 219,
+      "answer": "West Germany",
+      "acceptableAnswers": [
+        "West Germany",
+        "The West Germany"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318acaab"
+    },
+    {
+      "id": "195994f5-16f8-45e3-ab71-d2f82f46cd94",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "In one story, Loki transforms a woman into a nut so that one of these creatures can carry her. Either a flame or one of these creatures was the form used to abduct Aegina. To enlist help with robbing the Garden of the Hesperides, Heracles had to kill one of these creatures with a poison arrow. The giant Thiassi (\"thee-AH-see\") adopted the form of one of these animals in order to kidnap Idunn. Jaguars and these animals named the main special infantry forces of the Aztec army. In the USA, only Native Americans may legally obtain the feathers of these birds. One of these birds eats the regrowing liver of Prometheus. This bird is the subject of the Roman aquila symbol. For 10 points, name this bird that appears on the flags of many countries.",
+      "powerMarkPosition": 395,
+      "answer": "eagle",
+      "acceptableAnswers": [
+        "eagle",
+        "birds",
+        "The eagle"
+      ],
+      "source": "qbreader",
+      "sourceId": "65d14218270be3aedf05a294"
+    },
+    {
+      "id": "77016de3-879f-4cc4-a9ef-40dabe192d2c",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "As this city grew, it relocated the native village of Dugbeo to a place known as the forest of fruit bats, which is now its middle-class neighborhood of Commikro. This city's French minority is found in its suburbs of Cocody and Riviera. Banco National Park protects a rainforest in this city's Attécoubé (AH-te-koob) Commune. Adjamé (ah-ja-MEH) is a slum in the north part of this city, but also its main transportation hub. Rinaldo Olivieri designed a balcony-terraced concrete pyramid in this city, and Aldo Spiritom designed the curved prism of its Cathedrale St. Paul. The Vridi Canal breaches a sandbar separating this city from the sea, granting access to its Port Bovét. A colonial capital of its nation was this city's suburb of Grand Bassam, and this former Tchaman fishing village became its nation's third capital after it was moved from Bingerville. This city's central business district of Le Plateau is connected to Treichville by the Houphoët-Boigny (hoo-foo-WAY boi-NYEE) Bridge, which spans the Ebrié Lagoon. For 10 points, name this largest city in Côte d'Ivoire.",
+      "powerMarkPosition": 425,
+      "answer": "Abidjan",
+      "acceptableAnswers": [
+        "Abidjan",
+        "The Abidjan"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff4d6"
+    },
+    {
+      "id": "cc5719a1-b0c6-418a-b620-ab05b452c8b3",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "In addition to writing many of the Psalms, this man committed adultery with Bathsheba, producing his son, Solomon, who would succeed him. This man slew a Philistine giant near the Valley of Elah. A six-pointed star named for this man is often used as a symbol of Judaism. For 10 points, name this king of Israel who used a slingshot to kill Goliath.",
+      "powerMarkPosition": 209,
+      "answer": "David",
+      "acceptableAnswers": [
+        "David",
+        "Dawid",
+        "Dawud",
+        "The David"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae060"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "a8924797-6a5f-484a-9fb4-355afcfd2c87",
+      "linkedTossupId": "111a56cf-0bf6-47ca-a69e-d261cb534041",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "In this country, 17 million minks were killed in a scandal named \"minkgate\" over fears that they would harbor COVID-19.",
+          "answer": "Denmark",
+          "acceptableAnswers": [
+            "Denmark",
+            "Kingdom of Denmark",
+            "Kongeriget Danmark",
+            "The Denmark"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This president claimed that his wife, Pat, \"doesn't have a mink coat\" in his \"Checkers\" speech. This man was later forced to resign over the Watergate scandal, despite declaring \"I am not a crook\".",
+          "answer": "Nixon",
+          "acceptableAnswers": [
+            "Nixon",
+            "The Nixon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Alva Belmont, a member of the \"mink brigade,\" supported striking workers in this industry. Women working in this industry jumped to their deaths during a fire at a factory for shirtwaists, a type of product made by this industry.",
+          "answer": "garment",
+          "acceptableAnswers": [
+            "garment",
+            "clothing industry",
+            "textile industry",
+            "The garment"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer some questions about mink in history:",
+      "source": "qbreader",
+      "sourceId": "65666dff443a0a5dea004466"
+    },
+    {
+      "id": "4f5be9bc-6e5f-454d-b15d-d8e1fddce31d",
+      "linkedTossupId": "60341022-fa9b-437a-b35e-28d11b7ec18d",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "A German scientist is the namesake of this principle, which states that it is impossible to know both a particle's position and momentum.",
+          "answer": "Heisenberg",
+          "acceptableAnswers": [
+            "Heisenberg",
+            "either",
+            "The Heisenberg"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Heisenberg's uncertainty principle is prevalent in this branch of physics, of which Erwin Schrödinger was a pioneer.",
+          "answer": "quantum",
+          "acceptableAnswers": [
+            "quantum",
+            "quantum physics",
+            "The quantum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The necessity of this number is an ongoing debate in quantum mechanics. This number is multiplied by h-bar times the time derivative of a state vector in the time-dependent Schrodinger equation.",
+          "answer": "i",
+          "acceptableAnswers": [
+            "i",
+            "imaginary number"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This principle's most common form is given as an inequality involving h-bar over two. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ead0be8c91030f69d5b6f8"
+    },
+    {
+      "id": "ece0ea5d-9301-4cc9-bff5-82890afd30e2",
+      "linkedTossupId": "c1bb0427-3ac4-4670-b857-0fc5c4bdc7f3",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this philosophy which emphasizes the avoidance of pain, named for its Greek founder.",
+          "answer": "Epicurean",
+          "acceptableAnswers": [
+            "Epicurean",
+            "The Epicurean"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Greek who lived in a tub and followed a different philosophy was known to wander the streets of Athens with a lantern in daylight, vainly searching for an honest man.",
+          "answer": "Diogenes",
+          "acceptableAnswers": [
+            "Diogenes",
+            "The Diogenes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Diogenes was a proponent of this philosophy founded by Antisthenes, the name of which comes from a word for \"dog-like.\"",
+          "answer": "Cynic",
+          "acceptableAnswers": [
+            "Cynic",
+            "The Cynic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This philosophy has ataraxia, a state of tranquility, as one of its goals. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43878"
+    },
+    {
+      "id": "bee89a79-d61a-48ec-8c93-c73adf841c70",
+      "linkedTossupId": "f05737e3-b776-42a6-98b0-bc60a7827800",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this man who fought a war with Carthage in 397 BCE and lost to Carthage again in a later war at the Battle of Cronium.",
+          "answer": "Dionysius",
+          "acceptableAnswers": [
+            "Dionysius",
+            "Dionysius the Elder",
+            "The Dionysius"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Dionysius was the self-appointed archon of this largest Mediterranean island, ruling over cities like as Syracuse.",
+          "answer": "Sicily",
+          "acceptableAnswers": [
+            "Sicily",
+            "The Sicily"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Dionysius attempted to install Alcetas on the throne of this city by funneling arms and supplies to the Illyrian hordes commanded by Bardyllis. Its Molossian rulers included a man who invaded Italy and faced heavy resistance at the battles of Heraclea and Asculum.",
+          "answer": "Epirus",
+          "acceptableAnswers": [
+            "Epirus",
+            "The Epirus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This ruler exiled his brother Leptines and the historian Philistus after an attempted coup. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63052604c887e5458fc32c8f"
+    },
+    {
+      "id": "d341d8d2-f8a0-419e-b5ce-5c2211af8a6d",
+      "linkedTossupId": "f6fe9483-cf60-452a-9477-3315c9249329",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this quantity, a measure of variation in a set of values in relation to the mean. This quantity for a population is denoted lowercase sigma.",
+          "answer": "standard deviation",
+          "acceptableAnswers": [
+            "standard deviation",
+            "The standard deviation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A \"score\" indicated by this letter describes how many standard deviations a point lies away from the mean. That value is also called the standard score.",
+          "answer": "z",
+          "acceptableAnswers": [
+            "z",
+            "z-score"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Approximately 68% of data lie within one standard deviation of the mean in this statistical distribution. The shape of this distribution is often called a \"bell curve.\"",
+          "answer": "normal",
+          "acceptableAnswers": [
+            "normal",
+            "Gaussian distribution",
+            "The normal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The variance is the square of this quantity. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66e1bbb7b3ec1cfe3cd4a739"
+    },
+    {
+      "id": "9bc68c60-2704-4eb6-9e8e-3b52102498f4",
+      "linkedTossupId": "e7cf646b-258a-4cc4-a572-e55f1802c804",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This woman berated those who felt women only deserved a domestic education in her seminal feminist treatise A Vindication of the Rights of Woman.",
+          "answer": "Wollstonecraft",
+          "acceptableAnswers": [
+            "Wollstonecraft",
+            "The Wollstonecraft"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Berkeley professor theorized that both gender and sex were socially constructed and were expressed through \"performative parody\" in Gender Trouble.",
+          "answer": "Butler",
+          "acceptableAnswers": [
+            "Butler",
+            "Judy Butler",
+            "The Butler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Chicago philosopher argued that sexual distinctions existed only to enforce discriminatory norms in Sex and Social Justice. This author of Cultivating Humanity developed the \"capability approach\" with Amartya Sen.",
+          "answer": "Nussbaum",
+          "acceptableAnswers": [
+            "Nussbaum",
+            "The Nussbaum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Of course, feminist philosophy is tragically undervalued. Let's make try to make it worth something, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34d99"
+    },
+    {
+      "id": "f4e4e217-cf16-4c87-946a-cd5c4918d0cf",
+      "linkedTossupId": "b88064ca-a028-4c3c-94d0-93f1e7bee85a",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this \"Red Spy Queen\" who exposed over a hundred purported Soviet agents after defecting in 1945.",
+          "answer": "Bentley",
+          "acceptableAnswers": [
+            "Bentley",
+            "The Bentley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bentley testified before this notorious Congressional committee. Bentley's exposure of Whittaker Chambers before this committee indirectly led to the Alger Hiss affair.",
+          "answer": "H",
+          "acceptableAnswers": [
+            "H"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "J. Edgar Hoover told MI6's counter-espionage division about Bentley's defection. Unfortunately, the head of that division was this Soviet spy, a member of the Cambridge Five along with Burgess and Maclean.",
+          "answer": "Philby",
+          "acceptableAnswers": [
+            "Philby",
+            "The Philby"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Codenamed umritsa, or \"Miss Clever,\" this woman convinced Earl Browder to hand over the Silvermaster Group to the direct supervision of the NKGB. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ec0f9a7e2f00a3b8b9b26a"
+    },
+    {
+      "id": "e099891b-8ea5-4c88-b69a-b401aba3902a",
+      "linkedTossupId": "7c4f46ee-7cd8-4732-bb88-7094d398d2fd",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this type of cadence in which a five chord usually resolves unexpectedly to a six chord.",
+          "answer": "deceptive",
+          "acceptableAnswers": [
+            "deceptive",
+            "The deceptive"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The plagal (\"PLAY-gul\") cadence, which resolves from a four chord to a one chord, is sometimes named for this word because of its common use in church music. This word is found at the end of most Christian prayers.",
+          "answer": "Amen",
+          "acceptableAnswers": [
+            "Amen",
+            "Amen cadence",
+            "The Amen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The \"cadential\" type of this chord often served as preparation for a dominant trill in the Classical era. This chord's name refers to the two intervals that occur above the bass note in a second-inversion triad.",
+          "answer": "6/4",
+          "acceptableAnswers": [
+            "6/4",
+            "I 6/4",
+            "V 6/4",
+            "prompt on second-inversion triad until read",
+            "The 6/4"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Famous uses of this type of cadence include the opening bars of Beethoven's Les Adieux (\"layz ah-DYUH\") piano sonata and the beginning of \"O Canada.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423b5a"
+    },
+    {
+      "id": "560066fd-a9aa-4211-8c51-68449cf02247",
+      "linkedTossupId": "fd21a7d8-1f4f-410a-9c5c-737cf1fc0144",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This Irish writer assisted the French Resistance throughout the war, during which time he wrote the novel Watt. After the war, he wrote such plays as Endgame and Waiting for Godot.",
+          "answer": "Beckett",
+          "acceptableAnswers": [
+            "Beckett",
+            "The Beckett"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This playwright of The Chairs and The Lesson hid away in Marseilles during the war. His first play centers on the Smiths and the Martins, and he wrote several plays featuring the character Berenger.",
+          "answer": "Ionesco",
+          "acceptableAnswers": [
+            "Ionesco",
+            "The Ionesco"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This French playwright's dislike of the Vichy Government was evident in his play Antigone. This writer's version of the Joan of Arc story was published under the title The Lark.",
+          "answer": "Anouilh",
+          "acceptableAnswers": [
+            "Anouilh",
+            "The Anouilh"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following playwrights who were involved in France during World War II, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125d43d"
+    },
+    {
+      "id": "f281f30a-6180-489e-bed6-93cd18d5be73",
+      "linkedTossupId": "45decede-aeb4-428f-9ed2-27757db5ad35",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this nineteenth-century composer whose incredible mastery of the piano led crowds of fans to go into a\"mania\" at his performances.",
+          "answer": "Liszt",
+          "acceptableAnswers": [
+            "Liszt",
+            "The Liszt"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Liszt was born in this modern day country. He wrote a set ofRhapsodiesnamed for this countrywhich hethought were based on folk tunes, but were mostly written by nobles in cities like Budapest.",
+          "answer": "Hungary",
+          "acceptableAnswers": [
+            "Hungary",
+            "The Hungary"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Liszt wrote a set of six piano études, including \"La campanella,\" based on works by another virtuosoperformer: Niccolo Paganini, who played this other instrument. Two of these instruments join a viola and a cello ina string quartet.",
+          "answer": "violin",
+          "acceptableAnswers": [
+            "violin",
+            "The violin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Many of this musician's works, including theTranscendental Études, were meant as practicematerial, afact that feels like a cruel joke to many beginning pianists. For ten points each,",
+      "source": "qbreader",
+      "sourceId": "6837af65278db02eb79f1d85"
+    },
+    {
+      "id": "96613053-ca7a-4a7d-888d-471b7dfbe51f",
+      "linkedTossupId": "cba21800-501c-484f-a870-65f8fa6eefa0",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this type of compound consisting of a divalent metal cation sandwiched between two cyclopentadienyl anions.",
+          "answer": "metallocene",
+          "acceptableAnswers": [
+            "metallocene",
+            "The metallocene"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Metallocenes can be used to catalyze this type of reaction, a role assumed by Ziegler-Natta catalysts for alkenes. This type of reaction is simply the assembly of monomers into a compound with repeating units.",
+          "answer": "polymer",
+          "acceptableAnswers": [
+            "polymer",
+            "word forms",
+            "The polymer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Unlike Ziegler-Natta polymerization, products of metallocene polymerization typically exhibit this type of tacticity in which every other substituent points the same direction along the backbone.",
+          "answer": "syndiotactic",
+          "acceptableAnswers": [
+            "syndiotactic",
+            "syntactic",
+            "The syndiotactic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The zirconium-based Schwartz reagent is an example of this compound useful in linking units of alkenes or alkynes. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0be09"
+    },
+    {
+      "id": "672c442c-b55c-4254-b737-f92c9e5ef1f0",
+      "linkedTossupId": "2750c14e-cf3d-49f1-bced-6cb62f489518",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this sequence introduced by an Italian mathematician, which begins 1,1,2,3,5.",
+          "answer": "Fibonacci",
+          "acceptableAnswers": [
+            "Fibonacci",
+            "Fibonacci sequence",
+            "The Fibonacci"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Fibonacci numbers can be found as the sum of the shallow diagonals in this construct, whose entries are just the binomial coefficients.",
+          "answer": "Pascal's triangle",
+          "acceptableAnswers": [
+            "Pascal's triangle",
+            "The Pascal's triangle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This constant appears in Binet's formula for the nth Fibonacci number. If a regular pentagon has sides of length one, then its diagonals all have this length.",
+          "answer": "golden ratio",
+          "acceptableAnswers": [
+            "golden ratio",
+            "phi",
+            "/2",
+            "The golden ratio"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Each term in this sequence is the sum of the previous two. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0702bb8d2514c62130b0c"
+    },
+    {
+      "id": "8fcc0211-bb76-466f-aa83-280445755e8e",
+      "linkedTossupId": "878e25b8-e7ab-48b9-87f5-8c0617f6d822",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Those with 20 carbons include retinal found in rhodopsin and gibberellins, while the tetra- variety of this class includes the caratenoids as well as the tomato pigment lycopene.",
+          "answer": "Terpene",
+          "acceptableAnswers": [
+            "Terpene",
+            "The Terpene"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The triterpenes include this precursor of cholesterol synthesized from the shark oil derivative squalene.",
+          "answer": "Lanosterol",
+          "acceptableAnswers": [
+            "Lanosterol",
+            "The Lanosterol"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Terpenes are made up of isoprene, probably also known for this derivative, an anticoagulant and rat poison ingredient that accomplishes both roles by being an antagonist to Vitamin K.",
+          "answer": "Coumarin",
+          "acceptableAnswers": [
+            "Coumarin",
+            "The Coumarin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about a class of lipids, FTPE.",
+      "source": "qbreader",
+      "sourceId": "646eebb29aa260d7cf0706d0"
+    },
+    {
+      "id": "f304bbcb-1c5e-487f-abfa-8e50ed4abd42",
+      "linkedTossupId": "89b7b384-8327-4c95-82e1-f7c840bad271",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this \"Bright Young Thing\", a fashion photographer and costumier who won an Oscar for designing Audrey Hepburn's iconic black-and-white dress in My Fair Lady.",
+          "answer": "Beaton",
+          "acceptableAnswers": [
+            "Beaton",
+            "The Beaton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Beaton gained renown in British high society for his portrait photography of the Royal Family, with his favourite subject being this figure who died in 2002 aged 101.",
+          "answer": "Queen Mother",
+          "acceptableAnswers": [
+            "Queen Mother",
+            "The Queen Mother"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Beaton's skill in portraiture influenced many of his contemporaries, including this Vogue photographer who shot Alice Cooper wearing a snake and had a close relationship with Jean Shrimpton.",
+          "answer": "Bailey",
+          "acceptableAnswers": [
+            "Bailey",
+            "The Bailey"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "At school, this artist learnt how to use a Kodak 3A camera and submitted their own work to society magazines - when they weren't getting bullied by Evelyn Waugh. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63aca784728d604710bf8810"
+    },
+    {
+      "id": "94b8af75-422d-4d81-ab41-5e7872779cba",
+      "linkedTossupId": "a182853e-58a8-4c4a-8762-6c79b7c6b37f",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this feminist work by Betty Friedan, credited with sparking second-wave feminism.",
+          "answer": "Feminine Mystique",
+          "acceptableAnswers": [
+            "Feminine Mystique",
+            "The Feminine Mystique"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The fifth chapter of The Feminine Mystique criticizes the \"sexual solipsism\" of this man, who is better known for proposing the idea of the id, ego, and superego and for writing The Interpretation of Dreams.",
+          "answer": "Freud",
+          "acceptableAnswers": [
+            "Freud",
+            "The Freud"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other feminist work is subtitled, \"Feminism and the Subversion of Identity\". Written by Judith Butler, this 1990 text proposed the idea of gender performativity.",
+          "answer": "Gender Trouble",
+          "acceptableAnswers": [
+            "Gender Trouble",
+            "The Gender Trouble"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work begins by describing the \"problem that has no name\", for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52368"
+    },
+    {
+      "id": "7c6c75f5-0bf3-45b6-a697-3951668bb6a0",
+      "linkedTossupId": "35007d9c-d213-423f-bfb3-6fa4afb69626",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these half-human creatures with the tail of a fish. Ariel is the title character of the aforementioned fairy tale, titled for a \"little\" one of these creatures.",
+          "answer": "mermaids",
+          "acceptableAnswers": [
+            "mermaids",
+            "“The Little Mermaid",
+            "” accept mermen",
+            "merpeople",
+            "merfolk",
+            "The mermaids"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"The Little Mermaid\" originated as a fairy tale written by this Danish author, who also wrote \"The Emperor's New Clothes.\" A bronze statue of this person sits in Copenhagen's Rosenborg Castle Gardens.",
+          "answer": "Andersen",
+          "acceptableAnswers": [
+            "Andersen",
+            "The Andersen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this other Andersen fairy tale, shards of a magic mirror enter the heart of Kai, who is kissed by Gerda to save him. This tale inspired Disney's Frozen.",
+          "answer": "Snow Queen",
+          "acceptableAnswers": [
+            "Snow Queen",
+            "The Snow Queen"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For a 2023 Disney live-action adaptation of one fairy tale, Halle Bailey was cast to play one of these creatures. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66e1bbb6b3ec1cfe3cd4a695"
+    },
+    {
+      "id": "73c823a1-4503-463f-894d-94756c0e054b",
+      "linkedTossupId": "d9000a47-cb20-40d0-9978-d2ccfcbf4374",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This was the first permanent English settlement in North America, founded in 1607. It nearly succumbed to famine in its early years, but was kept afloat by the leadership of John Smith and Lord De La Warr.",
+          "answer": "Jamestown",
+          "acceptableAnswers": [
+            "Jamestown",
+            "The Jamestown"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Many early American colonies were founded as religious safe havens, such as this colony, which was designated a Catholic safe haven by Cecil Calvert, Lord Baltimore.",
+          "answer": "Maryland",
+          "acceptableAnswers": [
+            "Maryland",
+            "The Maryland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man, a Baptist, was banished from Massachusetts Bay for \"sedition and heresy.\" He established the colony of Providence Plantation in what would become Rhode Island and instituted a policy of religious toleration.",
+          "answer": "Williams",
+          "acceptableAnswers": [
+            "Williams",
+            "The Williams"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about early colonization of the Americas for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9d98"
+    },
+    {
+      "id": "7d99e70d-7a71-4198-aea4-dcf9718dcc1c",
+      "linkedTossupId": "195994f5-16f8-45e3-ab71-d2f82f46cd94",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Egyptian goddess who traveled to Byblos to recover a box for her husband Osiris, who was subsequently torn apart into fourteen pieces by his brother Set.",
+          "answer": "Isis",
+          "acceptableAnswers": [
+            "Isis",
+            "The Isis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After creating a magic phallus for Osiris, Isis conceived Horus, who later married this goddess of love. This goddess transformed into Sekhmet and ravaged Egypt until the Nile was filled with wine to make her drunk.",
+          "answer": "Hathor",
+          "acceptableAnswers": [
+            "Hathor",
+            "The Hathor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This figure was the sister of Isis, Osiris, and Set. Some accounts of the birth of Anubis states that she was spurned by her husband Set and took on Isis' form before conceiving Anubis with Osiris.",
+          "answer": "Nephthys",
+          "acceptableAnswers": [
+            "Nephthys",
+            "The Nephthys"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one story she had a snake poison the sun god Ra and refused to heal him until he revealed his secret name, allowing her to gain power over him. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b5f9"
+    },
+    {
+      "id": "fc18f0b4-cfad-45a1-83b4-b03c216ba59f",
+      "linkedTossupId": "77016de3-879f-4cc4-a9ef-40dabe192d2c",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this large lake in the Andes on the border between Peru and Bolivia.",
+          "answer": "Titicaca",
+          "acceptableAnswers": [
+            "Titicaca",
+            "The Titicaca"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The two main basins of Lake Titicaca are connected by this strait.",
+          "answer": "Tiquina",
+          "acceptableAnswers": [
+            "Tiquina",
+            "The Tiquina"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Water flows out from Lake Titicaca via the Desaguadero River and Uru Uru Lake into this lake on the Bolivian Altiplano. In December 2015, Reuters reported that this lake had completely dried up.",
+          "answer": "Poopó",
+          "acceptableAnswers": [
+            "Poopó",
+            "The Poopó"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Lake Maracaibo has a larger surface area than this lake, but a smaller volume. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba96616"
+    },
+    {
+      "id": "1411813c-3160-45a8-87d3-45e2123d3eae",
+      "linkedTossupId": "cc5719a1-b0c6-418a-b620-ab05b452c8b3",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This German is well known for the statement \"God is dead,\" which appeared in two of this thinker's works: The Gay Science and Thus Spake Zarathustra.",
+          "answer": "Nietzsche",
+          "acceptableAnswers": [
+            "Nietzsche",
+            "The Nietzsche"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The author of The Principles of Morals and Legislation, this British philosopher formulated the \"greatest happiness principle,\" a main tenant of Utilitarianism, of which he is considered the founder.",
+          "answer": "Bentham",
+          "acceptableAnswers": [
+            "Bentham",
+            "The Bentham"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This German thinker expounded upon the notion of the dialectic is his works Science of Logic and Phenomenology of Spirit. He later lent his name to a philosophical group whose members included Ludwig Feuerbach and a young Karl Marx.",
+          "answer": "Hegel",
+          "acceptableAnswers": [
+            "Hegel",
+            "The Hegel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, identify these 19th century philosophers.",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0f00"
+    }
+  ]
+}

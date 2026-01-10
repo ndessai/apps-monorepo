@@ -1,0 +1,1141 @@
+{
+  "packetId": "packet-248",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Philosophy",
+    "Literature",
+    "Social Science",
+    "Geography",
+    "History",
+    "Science",
+    "Human Body",
+    "Fine Arts",
+    "Mythology"
+  ],
+  "tossups": [
+    {
+      "id": "72ff5a1f-d5d0-4914-8988-06a1300dc162",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "One proponent of a \"neo-\" form of this school of thought rejects the correspondence theory of truth in Philosophy and the Mirror of Nature. A series of lectures titled for this school of thought questions whether a man chasing a squirrel can be described as going around it. Those lectures titled for this school of thought are subtitled \"A New Name for Some Old Ways of Thinking.\" This school advocates judging beliefs based on their \"cash value\" and practicality. This school was founded by Charles Sander Peirce (\"purse\"). For 10 points, name this American school of philosophy whose members include William James.",
+      "powerMarkPosition": 337,
+      "answer": "pragmatism",
+      "acceptableAnswers": [
+        "pragmatism",
+        "neopragmatism",
+        "accept Pragmatism: A New Name for Some Old Ways of Thinking",
+        "The pragmatism"
+      ],
+      "source": "qbreader",
+      "sourceId": "66cd4c3dc5459312fdcc567c"
+    },
+    {
+      "id": "fca894ac-c667-4a48-98a9-391add818a04",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "A literary character who uses this occupation to imprison unfaithful knights is defeated by Lancelot in a medieval poem. Another of these characters imprisons Merlin in a tree. Three of these characters work with the goddess Hecate; summon shades that predictthe future; and chant \"double, double toil and trouble; / Fire burn, and cauldron bubble\" inMacbeth. Nimue, MorganLe Fay, and the Weird Sisters are, for ten points, what kind of feminine magic users?",
+      "powerMarkPosition": 224,
+      "answer": "witch",
+      "acceptableAnswers": [
+        "witch",
+        "The witch"
+      ],
+      "source": "qbreader",
+      "sourceId": "6837af69278db02eb79f1e66"
+    },
+    {
+      "id": "71a0ff87-600d-4267-aad4-0862d2eda1f6",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "Darwin used this word to describe the \"slave\" nature of worker ants that care for juveniles. The restlessness of captive-bred sparrows suggests that migration has this quality, as does the fixed-action pattern of geese rolling eggs back to their nests. The palmar grasp reflex of babies is a rare human example of this unlearned type of behavior. For 10 points, name this kind of innate behavior that animals know how to perform from birth.",
+      "powerMarkPosition": 148,
+      "answer": "instinct",
+      "acceptableAnswers": [
+        "instinct",
+        "The instinct"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba97251"
+    },
+    {
+      "id": "f85f53cf-5576-4bc0-9c9f-9ce28fef477b",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "This feature is known as Sahtú in the predominant native language of its region, and is home to the Saoyú-Ɂehdacho National Historic Site, which is the largest of its kind by area. Jules Verne's The Fur Country features the settlement of Fort Confidence at the mouth of the Dease River, which flows into this body, of which currently only 4 chimneys remain. Located between its country's Interior Plains and Kazan Uplands, this lake's McTavish Arm is bounded by Precambrian rock exposed by glacial erosion from former Glacial Lake McConnell. The largest lake trout ever caught by angling was caught in this body of water, and in 2016 a fuel tanker truck fell through the ice road crossing this lake to Deline. The mining area of Port Radium on this lake was home to the Eldorado and Echo Bay Mines where Gilbert LaBine discovered high-grade pitchblende and silver deposits, though this site was abandoned in 1982. For 10 points, what is this 8th-largest lake in the world and largest lake entirely within Canada, located in the Northwest Territories?",
+      "powerMarkPosition": 541,
+      "answer": "Great Bear",
+      "acceptableAnswers": [
+        "Great Bear",
+        "The Great Bear"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dedd22"
+    },
+    {
+      "id": "6a7d5260-f565-4168-bdbd-1282acec8a0e",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "This novel ‟s title man exposes the betrayal of Ali Pacha and allows Eugénie to run away with Louise. The protagonist of this novel attempts to deliver a letter from Napoleon, for which Caderousse, Mondego, and Danglars have him sent to the Château d'If [deef]. Abbé Faria advises the title man, who seeks revenge for his separation from his fiancée, Mercédès. For 10 points, name this novel about Edmond Dantès, written by Alexandre Dumas.",
+      "powerMarkPosition": 240,
+      "answer": "Count of Monte Cristo",
+      "acceptableAnswers": [
+        "Count of Monte Cristo",
+        "The Count of Monte Cristo"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e6a0924256318ac8a1"
+    },
+    {
+      "id": "2bc39159-30b3-49bd-a01e-2e55af9c0d93",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "American oil companies were protected from nationalization in this country by the Bucareli Treaty. The mostly-Federalist York Rite of Freemasonry was supported by American minister to this country Joel Roberts Poinsett to counter the centralist Scottish Rite. As ambassador, Josephus Daniels helped ease tensions between the U.S. and this country when oil companies were nationalized. Daniels was also Secretary of the Navy when the navy occupied one of this country's ports after American sailors were arrested in Tampico. From World War II to 1964, the Bracero program brought in thousands of workers from this country to the United States. For 10 points, name this country from which the United States seized California.",
+      "powerMarkPosition": 259,
+      "answer": "Mexico",
+      "acceptableAnswers": [
+        "Mexico",
+        "United Mexican States",
+        "Estados Unidos Mexicanos",
+        "The Mexico"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df87c09bc4e61b2fb3796b"
+    },
+    {
+      "id": "6ac4f294-a83f-4a3a-b269-b5021b0c7bfc",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "In a poem by this author, the title character admits \"in short, I was afraid\" after seeing \"the moment of my greatness flicker.\" The narrator of that poem by this author asks \"Do I dare to eat a peach?\" Another poem by this author describes \"breeding lilacs out of the dead land\" and opens \"April is the cruelest month.\" For 10 points, name this poet of \"The Love Song of J. Alfred Prufrock\" and \"The Waste Land.\"",
+      "powerMarkPosition": 303,
+      "answer": "Eliot",
+      "acceptableAnswers": [
+        "Eliot",
+        "T. S. Eliot",
+        "The Eliot"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a5038d"
+    },
+    {
+      "id": "abf2a62a-fd7e-4bca-9bb0-982a0a287177",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "These numbers are very closely related to Lucas numbers, and a puzzle involving counting rabbits in a field as they mate is used to find these numbers. The ratio between two consecutive ones of these numbers converges to the golden ratio. For 10 points, name this series of numbers, which is created by adding the previous two numbers, and begins 1, 1, 2, 3, 5, 8, 13, 21, etc.",
+      "powerMarkPosition": 224,
+      "answer": "Fibonacci",
+      "acceptableAnswers": [
+        "Fibonacci",
+        "The Fibonacci"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e1457"
+    },
+    {
+      "id": "7989371d-3535-423b-8df6-37af98a62ea2",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for nail anatomy. It plays a key role in the integumentary system and is one of the most studied parts of human anatomy. For ten points, name this hair follicle-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Hair follicle",
+      "acceptableAnswers": [
+        "hair follicle",
+        "Hair follicle"
+      ],
+      "explanation": "The hair follicle is a key component of the Integumentary system, involved in nail anatomy.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "6f6d69d6-009a-4eac-9d63-df581bb56f95",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "Sulfonamides given to neonates compete with it for binding to albumin, which itself keeps this compound from passing through the blood-brain barrier and causing kernicterus. The Van den Bergh reaction has been used to quantify this compound, which is conjugated by UGT1A1 to become water-soluble. Newborns naturally have more of this because in utero red blood cells have a shorter lifetime than in adults. The product of heme catabolism, it is commonly implicated in the discoloration associated with jaundice. For 10 points, name this yellow pigment found in the liver, a major product of bile.",
+      "powerMarkPosition": 296,
+      "answer": "bilirubin",
+      "acceptableAnswers": [
+        "bilirubin",
+        "The bilirubin"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f82fcc626ea977c7a3618"
+    },
+    {
+      "id": "f5b43a80-279f-4d5e-8ae6-cd9b760adec4",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for spleen functions. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this lymph-related structure.",
+      "powerMarkPosition": 92,
+      "answer": "Lymph",
+      "acceptableAnswers": [
+        "lymph",
+        "Lymph"
+      ],
+      "explanation": "The lymph is a key component of the Immune system, involved in spleen functions.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "97beafba-3efe-4f4f-8ab7-073169c7affd",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "Edward Bullough wrote about the role of \"psychical distance\" in perceiving this kind of thing, and Clive Bell discussed them using the concept \"significant form\". George Dickie's institutional theory of these things was inspired by the idea of them being embedded in a namesake \"world\", a concept formulated by Arthur Danto. José Ortega y Gasset explored the gradual removal of human forms from these things in an essay on their dehumanization, and John Dewey described the ways the \"live creature\" encounters them in a book on them \"as experience\". The \"penetration\" of surgeons and cameramen is compared in an essay on these things by Walter Benjamin, which claims that their \"aura\" is diminished by mechanical reproduction. Martin Heidegger's essay on the origin of these dissects Van Gogh's A Pair of Shoes. For 10 points, name these objects of study of aesthetics.",
+      "powerMarkPosition": 532,
+      "answer": "art",
+      "acceptableAnswers": [
+        "art",
+        "artworks",
+        "accept reasonable answers mentioning art",
+        "The art"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531ffa61a9ba79f35a04"
+    },
+    {
+      "id": "6029a8f6-fd53-4851-b9e9-29449936bdec",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "This conflict saw the Battle of Vergas as part of the invasion of the Mani Peninsula, and its outcome resulted in an offer being extended to a Wittelsbach prince named Otto. Facilitated by the formation of the secretive \"Friendly Society\" groups, this conflict is traditionally held to have begun when a cross was raised by Germanos, leading to the execution of Gregory V. It witnessed the infamous Massacre at Chios and saw Ibrahim Pasha help capture Missolonghi. The victors in this conflict were led by men like Alexandros Ypsilantis, and it saw a decisive victory at the Battle of Navarino. For 10 points, name this conflict that resulted in the liberation of a Hellenistic nation from the Ottoman Empire.",
+      "powerMarkPosition": 398,
+      "answer": "Greek War of Independence",
+      "acceptableAnswers": [
+        "Greek War of Independence",
+        "logical equivalents like the Greek Revolution",
+        "The Greek War of Independence"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed6e71216c5c9ba567544b"
+    },
+    {
+      "id": "c73479e3-5644-4f20-b315-ad429e51aedf",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "One article by this thinker denied the existence of true objective scientific analysis of culture. This man distingished between the charismatic, traditional, and legal \"ideal types\" of leadership in a book that claimed the state has a \"monopoly on the legitimate use of force\". This thinker outline the development of institutions that \"dominate through knowledge\" in Economy and Society. This author of Politics as a Vocation argued that individuals were increasing trapped in an \"iron cage\" of bureaucratic rationality in a work that traced how the rise of Reformation asceticism led to the flourishing of the free market. For 10 points, name this German sociologist who wrote The Protestant Ethic and the Spirit of Capitalism.",
+      "powerMarkPosition": 418,
+      "answer": "Weber",
+      "acceptableAnswers": [
+        "Weber",
+        "Karl Emil Maximilian Weber",
+        "The Weber"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aef1d"
+    },
+    {
+      "id": "815c5aab-a333-4bb9-9970-6cdcfe1a17e4",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "The first comprehensive biography of this politician was written by early science fiction author and Congressman George Tucker. Joseph Ellis argued this politician was a \"feminine\" and \"dinner table\" politician who hid from the public in his biography American Sphinx. 158 letters this politician exchanged with his predecessor were examined by Jon Meacham as exemplifying his \"aging revolutionary\" character in The Art of Power. Henry Adams outlined the significance of this politician's \"Notes\" on his home state in influencing his opposition to the Alien and Sedition Acts. James Callender published rumors that this president had kids with Sally Hemings. For 10 points, name this president who authored the Declaration of Independence.",
+      "powerMarkPosition": 435,
+      "answer": "Jefferson",
+      "acceptableAnswers": [
+        "Jefferson",
+        "The Jefferson"
+      ],
+      "source": "qbreader",
+      "sourceId": "68846992641a9dc975af87e3"
+    },
+    {
+      "id": "e6d8ba85-9dd7-45db-af88-f210c192a73c",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "text": "A bandleader who played this instrument recorded \"All the Things You Are\" with singer Helen Forrest. That player of this instrument led the Gramercy Five, an example of the \"band within a band\" concept pioneered by another player of this instrument. A player of this instrument popularized Cole Porter's \"Begin the Beguine.\" Another player of this instrument recorded a piece on which Gene Krupa played an extended drum solo; that piece is originally by Louis Prima and was featured at a 1938 Carnegie Hall performance. For 10 points, Artie Shaw and Benny Goodman played what single-reed woodwind instrument?",
+      "powerMarkPosition": 303,
+      "answer": "clarinet",
+      "acceptableAnswers": [
+        "clarinet",
+        "The clarinet"
+      ],
+      "source": "qbreader",
+      "sourceId": "6727fb390a73c65be67f7505"
+    },
+    {
+      "id": "f572d02e-00bd-490a-91f3-6ca283c022b7",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "This island is home to the Canterbury Plains and the Southland Plains, as well as Cape Farewell and Mount Aspiring National Park. Its largest river is the Clutha River, and its cities include Gore and Invercargill as well as the rail center of Dunedin. Home to the Fjordland National Park along one of its coasts, it is separated from Stewart Island by the Foveaux Strait. Its Southern Alps range gives rise to Mount Cook, and its best-known city is Christchurch. For 10 points, name this island of New Zealand which is quite logically located down from North Island.",
+      "powerMarkPosition": 252,
+      "answer": "South",
+      "acceptableAnswers": [
+        "South",
+        "The South"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43212"
+    },
+    {
+      "id": "9e341489-555e-49d3-bae6-f78cba3709a8",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "As the god Rig, he created the three races of mankind: the serfs, the peasants, and the warriors. Similar to the god Tyr, his rides the mount Gulltop, and lives in the hall of Himinbjorg. Born of the nine daughters of Aegir, he is also known as Gullintani because of his \"golden, shining teeth.\" He can hear the grass grow and can see a hundred miles around him, and he will sound his great Gjallarhorn to summon the gods to battle at Ragnarok. For 10 points, name this Norse god of light, the guardian of the rainbow bridge Bifrost.",
+      "powerMarkPosition": 187,
+      "answer": "Heimdall",
+      "acceptableAnswers": [
+        "Heimdall",
+        "The Heimdall"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596d3b"
+    },
+    {
+      "id": "4943393f-d303-416b-8782-e9616a34ee33",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "Trilobites had types of these structures called holochroal, schizochroal, and abathochroal. Ogre-faced spiders regenerate these structures daily. The development of these structures is regulated across several species by Pax6. In Drosophila, the development of these organs is [emphasize] inhibited in a particular imaginal disc by antennapedia, and the sevenless gene is required for the development of their R7 cells. Depending on if they are located laterally or dorsally, \"simple\" types of these organs in insects are called stemmata or ocelli. In arthropods, these organs are composed of ommatidia. Sex-linked traits were discovered in Drosophila in which these organs were white instead of red. For 10 points, name these organs that are often \"compound\" in insects.",
+      "powerMarkPosition": 419,
+      "answer": "eye",
+      "acceptableAnswers": [
+        "eye",
+        "ocular organs",
+        "accept retina",
+        "accept lens",
+        "accept compound eyes",
+        "accept simple eyes",
+        "pigment pits",
+        "accept ommatidia",
+        "ocelli",
+        "stemmata until each is read",
+        "The eye"
+      ],
+      "source": "qbreader",
+      "sourceId": "63682fe4906588de785565c0"
+    },
+    {
+      "id": "80e25883-38f2-4dd6-8684-ec7c1f7ecd39",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for pharynx divisions. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this pharynx-related structure.",
+      "powerMarkPosition": 71,
+      "answer": "Pharynx",
+      "acceptableAnswers": [
+        "pharynx",
+        "Pharynx"
+      ],
+      "explanation": "The pharynx is a key component of the Respiratory system, involved in pharynx divisions.",
+      "source": "ai-generated"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "d3ca2d0d-2bb1-4e6f-8693-ce86e9703ee4",
+      "linkedTossupId": "72ff5a1f-d5d0-4914-8988-06a1300dc162",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this figure who angrily killed thirty Philistines for their garments so he can give his groomsmen a prize for solving a riddle.",
+          "answer": "Samson",
+          "acceptableAnswers": [
+            "Samson",
+            "The Samson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Samson falls in love with this woman, who is ultimately bribed by Philistines to discover the source of Samson's strength. She ends up shaving his head.",
+          "answer": "Delilah",
+          "acceptableAnswers": [
+            "Delilah",
+            "The Delilah"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One event in the Book of Judges is this figure's driving away of the sons of Anak from Hebron, also chronicled in Joshua. Of the twelve scouts sent to Canaan, only he and Joshua returned optimistic.",
+          "answer": "Caleb",
+          "acceptableAnswers": [
+            "Caleb",
+            "The Caleb"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "On his way to propose to a woman, he rips an attacking lion in two. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841844"
+    },
+    {
+      "id": "ebe7cb22-f2e9-4d19-b21f-1a7ac5f97d7d",
+      "linkedTossupId": "fca894ac-c667-4a48-98a9-391add818a04",
+      "category": "Literature",
+      "subcategory": "Other Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this point in the plot of a story, at the peak of the action, where the conflict becomes most intense.",
+          "answer": "climax",
+          "acceptableAnswers": [
+            "climax",
+            "turning point",
+            "The climax"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Shakespeare's plays, the climax comes in the third of these five sections. Most plays and movies written nowadays are told in three of these sections.",
+          "answer": "act",
+          "acceptableAnswers": [
+            "act",
+            "The act"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This part of a story comes after the climax. It is where conflicts are resolved and mysteries are explained.",
+          "answer": "denouement",
+          "acceptableAnswers": [
+            "denouement",
+            "falling action",
+            "resolution",
+            "prompt on conclusion",
+            "ending",
+            "The denouement"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It is when Goldilocks gets caught in the middle bed, or when the wolf jumps down the chimney into boiling water. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec67e0"
+    },
+    {
+      "id": "c726451b-9d44-4c25-93a6-2a54ee71a753",
+      "linkedTossupId": "71a0ff87-600d-4267-aad4-0862d2eda1f6",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "The solidified saliva of these birds, among the fastest known flyers, makes up their nests which are often harvested for bird's nest soup, a delicacy in China.",
+          "answer": "swift",
+          "acceptableAnswers": [
+            "swift",
+            "The swift"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The linguist Noam Chomsky believes there is a hard-wired human capability to learn the structure and rules of a language, which he called his Universal this.",
+          "answer": "grammar",
+          "acceptableAnswers": [
+            "grammar",
+            "The grammar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The first two humans to do this activity left the Lunar Module on July 21, 1969; Neil Armstrong did this just before Buzz Aldrin.",
+          "answer": "walk",
+          "acceptableAnswers": [
+            "walk",
+            "equivalent answers",
+            "The walk"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these billboard-worthy topics from science, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c5e6"
+    },
+    {
+      "id": "c3cc5f39-28e8-4854-b3f7-66215084b5a8",
+      "linkedTossupId": "f85f53cf-5576-4bc0-9c9f-9ce28fef477b",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Authorities in this country have been struggling to handle a group of \"cocaine hippopotamuses\" introduced as pets of Pablo Escobar since they were left to roam his vast estate.",
+          "answer": "Colombia",
+          "acceptableAnswers": [
+            "Colombia",
+            "The Colombia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An invasive population of this Asian reptile species in the Everglades has flourished since Hurricane Andrew destroyed a facility housing them. This species has since effectively exterminated the local marsh rabbit population.",
+          "answer": "Burmese python",
+          "acceptableAnswers": [
+            "Burmese python",
+            "Python bivittatus",
+            "prompt on pythons",
+            "The Burmese python"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This state's Morgan Island houses a colony of rhesus macaques initially created as a self-sufficient research animal batch. This state's ACE Basin is home to other protected research areas, such as one on Hunting Island.",
+          "answer": "South Carolina",
+          "acceptableAnswers": [
+            "South Carolina",
+            "SC",
+            "The South Carolina"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about animal populations in unexpected places in the Western hemisphere, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "639a46d925fac6a63b2b7eb5"
+    },
+    {
+      "id": "dbcfefb3-4625-4e71-ba58-3332c7f4c32b",
+      "linkedTossupId": "6a7d5260-f565-4168-bdbd-1282acec8a0e",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this short story, where a starving servant steals clothing from a woman who steals hair from dead corpses to make wigs.",
+          "answer": "“Rashomon”",
+          "acceptableAnswers": [
+            "“Rashomon”",
+            "The “Rashomon”"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Japanese author of \"Rashomon\" also wrote the short story \"In a Grove\" and names a Japanese award presented biannually.",
+          "answer": "Akutagawa",
+          "acceptableAnswers": [
+            "Akutagawa",
+            "The Akutagawa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The murder of one of these Japanese warriors, named Takehiro, occurs in Akutagawa's \"In a Grove.\" These Japanese warriors usually carried swords like the wakizashi and the katana.",
+          "answer": "Samurai",
+          "acceptableAnswers": [
+            "Samurai",
+            "The Samurai"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One character in this story sells snake flesh to guards disguised as dried fish. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7ded32"
+    },
+    {
+      "id": "ed5b307e-75c0-428b-881f-9058567aa5c6",
+      "linkedTossupId": "2bc39159-30b3-49bd-a01e-2e55af9c0d93",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Genetic testing supports the migrationist position that this period's agricultural revolution was caused by influxes of small groups of settlers. It's the final and most recent period of the Stone Age.",
+          "answer": "Neolithic",
+          "acceptableAnswers": [
+            "Neolithic",
+            "Neolithic revolution",
+            "The Neolithic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Archaeologist Colin Renfrew proposed this diffusionist hypothesis of Indo-European expansion as a counter to Marija Gimbutas's (\"mah-REE-ah GIM-boo-toss's\") migrationist kurgan (\"ker-GAHN\") hypothesis. This idea is named for a region from which Neolithic farmers spread into Europe.",
+          "answer": "Anatolia",
+          "acceptableAnswers": [
+            "Anatolia",
+            "The Anatolia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The diffusionist position is summed up by this oft-quoted dictum, which contrasts the individuals who comprise cultures with the objects those cultures leave behind.",
+          "answer": "pots",
+          "acceptableAnswers": [
+            "pots",
+            "not people",
+            "people",
+            "not pots",
+            "accept answers which indicate a contrast between pots and people",
+            "between pottery and people",
+            "The pots"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about the migrationism-diffusionism debate in archaeology.",
+      "source": "qbreader",
+      "sourceId": "62ede294c53e50a0513633ab"
+    },
+    {
+      "id": "4f875d02-fbdc-48f1-ac5c-1069c075bb1e",
+      "linkedTossupId": "6ac4f294-a83f-4a3a-b269-b5021b0c7bfc",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this character who agrees to marry Mr. Darcy after he convinces Lydia and Mr. Wickham to officially marry.",
+          "answer": "Elizabeth",
+          "acceptableAnswers": [
+            "Elizabeth",
+            "The Elizabeth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author featured Elizabeth Bennet and Fitzwilliam Darcy in Pride and Prejudice and wrote about Elinor and Marianne Dashwood in Sense and Sensibility.",
+          "answer": "Austen",
+          "acceptableAnswers": [
+            "Austen",
+            "The Austen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Anne Elliot is convinced to break off her engagement with the Navy captain Frederick Wentworth, but marries him at the end of this Austen novel.",
+          "answer": "Persuasion",
+          "acceptableAnswers": [
+            "Persuasion",
+            "The Persuasion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After he is rejected by this character, Mr. Collins decides to marry Charlotte Lucas. For 10 points each--",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7e53"
+    },
+    {
+      "id": "09126817-1703-4bfc-8b8e-9e41a0f66939",
+      "linkedTossupId": "abf2a62a-fd7e-4bca-9bb0-982a0a287177",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Electric charge is measured in SI units named after this French scientist, who also formulated a law that calculates the magnitude of the force between two stationary point charges.",
+          "answer": "Coulomb",
+          "acceptableAnswers": [
+            "Coulomb",
+            "The Coulomb"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This phenomenon occurs when two materials with different charges are separated after coming in contact. A common example of this phenomenon is when someone walks across a carpet in wool socks and acquires a negative charge and then is shocked when touching a metal object.",
+          "answer": "static",
+          "acceptableAnswers": [
+            "static",
+            "The static"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These systems result from the separation of two opposite charges. Two bonded atoms with a difference in electronegativity creates one of these systems.",
+          "answer": "dipole",
+          "acceptableAnswers": [
+            "dipole",
+            "The dipole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Don't let these questions shock you! For ten points each, answer these questions about electric charge:",
+      "source": "qbreader",
+      "sourceId": "676f723ef56e0dff73abee28"
+    },
+    {
+      "id": "1905a59f-80c9-44ad-957e-05eee786fdf1",
+      "linkedTossupId": "7989371d-3535-423b-8df6-37af98a62ea2",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with axial skeleton bones.",
+          "answer": "skull",
+          "acceptableAnswers": [
+            "skull"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the skull in the musculoskeletal system?",
+          "answer": "Axial skeleton bones",
+          "acceptableAnswers": [
+            "Axial skeleton bones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to axial skeleton bones.",
+          "answer": "vertebra",
+          "acceptableAnswers": [
+            "vertebra"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e6aba487-e776-4321-9f8f-4e740e1e5eb0",
+      "linkedTossupId": "6f6d69d6-009a-4eac-9d63-df581bb56f95",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this quality, which may be quantified with measures like Reid vapor pressure. Compounds with this quality evaporate easily at room temperature.",
+          "answer": "volatility",
+          "acceptableAnswers": [
+            "volatility",
+            "word forms like volatile",
+            "accept volatility basis sets",
+            "prompt on VBS",
+            "The volatility"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A 2020 paper by Donahue applied volatility basis sets to radicals named for this functional group. Epoxidations and the Baeyer-Villiger oxidation are common uses of acids named for this functional group, like mCPBA.",
+          "answer": "peroxide",
+          "acceptableAnswers": [
+            "peroxide",
+            "peroxyacids",
+            "peracids",
+            "accept peroxy radicals",
+            "The peroxide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The basis set approach has been applied to the most common secondary organic aerosol, which begins forming in air when alpha-pinene undergoes this reaction. This reaction's intermediate is a five-membered ring that can be treated with DMS to yield ketones or aldehydes.",
+          "answer": "ozonolysis",
+          "acceptableAnswers": [
+            "ozonolysis",
+            "The ozonolysis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Beginning in 2006, Neil Donahue has modeled molecule distributions in organic aerosols by creating \"basis sets\" named for this quality. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "686e1e4a786d3dcf273bf4b1"
+    },
+    {
+      "id": "bce1ebcd-7b66-4452-91e7-24063d146035",
+      "linkedTossupId": "f5b43a80-279f-4d5e-8ae6-cd9b760adec4",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with synovial joint structure.",
+          "answer": "synovial",
+          "acceptableAnswers": [
+            "synovial"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the synovial in the musculoskeletal system?",
+          "answer": "Synovial joint structure",
+          "acceptableAnswers": [
+            "Synovial joint structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to synovial joint structure.",
+          "answer": "cartilage",
+          "acceptableAnswers": [
+            "cartilage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a6e91972-f024-41b2-8fbd-82b4534e6658",
+      "linkedTossupId": "97beafba-3efe-4f4f-8ab7-073169c7affd",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This man advocated the notion of a world of \"pure experience\" in his Essays in Radical Empiricism. He also authored The Will to Believe and Pragmatism.",
+          "answer": "James",
+          "acceptableAnswers": [
+            "James",
+            "The James"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man attacked the logical positivists in his \"Two Dogmas of Empiricism,\" which questioned the distinction between analytic and synthetic truths as well as reductionism.",
+          "answer": "Quine",
+          "acceptableAnswers": [
+            "Quine",
+            "The Quine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This pioneer of logical empiricism and member of the Vienna Circle discussed empiricism in his Logical Structure of the World, and responded to critics in his paper \"Empiricism, Semantics, Ontology.\"",
+          "answer": "Carnap",
+          "acceptableAnswers": [
+            "Carnap",
+            "The Carnap"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these dudes who loved writing about empiricism, For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f02c7"
+    },
+    {
+      "id": "e31f6051-9297-4685-a238-9e3675d78bec",
+      "linkedTossupId": "6029a8f6-fd53-4851-b9e9-29449936bdec",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this 1862 speech, in which the speaker later declares \"Not through speeches and majority decisions will the great questions of the day be decided... but by\" the two title substances.",
+          "answer": "Blood and Iron",
+          "acceptableAnswers": [
+            "Blood and Iron",
+            "“Blut und Eisen”",
+            "The Blood and Iron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The \"Blood and Iron\" speech was given by Otto von Bismarck before this kingdom's House of Representatives. Bismarck led this kingdom to unite Germany, which it did in 1871 after defeating France in a war.",
+          "answer": "Prussia",
+          "acceptableAnswers": [
+            "Prussia",
+            "the Franco-Prussian War",
+            "The Prussia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bismarck's government primarily consisted of members of this group, who were the landed nobles of eastern Prussia. The name for this group is derived from a Middle High German word meaning \"young nobleman.\"",
+          "answer": "Junkers",
+          "acceptableAnswers": [
+            "Junkers",
+            "Yunkers",
+            "The Junkers"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "During this speech, the speaker declared his state's \"frontiers have been ill-designed for a healthy body politic.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a810"
+    },
+    {
+      "id": "42be079e-9788-4f56-b18a-c3ddb3ef9ce8",
+      "linkedTossupId": "c73479e3-5644-4f20-b315-ad429e51aedf",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this concept from economics, the disparity in assets between countries, individuals, or groups.",
+          "answer": "inequality",
+          "acceptableAnswers": [
+            "inequality",
+            "The inequality"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Economic inequality is commonly measured using this coeficcient. A value of 0 for it indicates completely equal distribution, while 1 indicates completely unequal distribution.",
+          "answer": "Gini",
+          "acceptableAnswers": [
+            "Gini",
+            "The Gini"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This curve plots percent of income versus percent of households. The area between it and a 45-degree line above it, representing perfect equality, equals the Gini coefficient.",
+          "answer": "Lorenz",
+          "acceptableAnswers": [
+            "Lorenz",
+            "The Lorenz"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A book by Richard Lynn attempted to correlate this concept with intelligence, and a curve named for Kuznets shows how this concept varies with development. For 10 points each;",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfecb8"
+    },
+    {
+      "id": "137665ab-de44-49f1-b9a2-748e8592a476",
+      "linkedTossupId": "815c5aab-a333-4bb9-9970-6cdcfe1a17e4",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This man who came to power in 1830 emphasised the popular nature of his rule by becoming the King of the French, not France. He was forced to abdicate in the French Revolution of 1848.",
+          "answer": "Louis-Philippe",
+          "acceptableAnswers": [
+            "Louis-Philippe",
+            "The Louis-Philippe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This event, prompted by the death and funeral of General Lamarque, sought to replace Louis-Philippe's government with a republic.",
+          "answer": "June Rebellion",
+          "acceptableAnswers": [
+            "June Rebellion",
+            "the Paris Uprising of 1832",
+            "The June Rebellion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Along with the Battle of Waterloo and the Parisian sewer system, the June Rebellion is a major focus of this novel by Victor Hugo.",
+          "answer": "Les Miserables",
+          "acceptableAnswers": [
+            "Les Miserables",
+            "The Les Miserables"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Delacroix's painting Liberty Leading the People does not commemorate the French Revolution of 1789 but that of 1830, which replaced one king with another. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6413cd99fdc648a1ed70966d"
+    },
+    {
+      "id": "2682f4d5-1b6e-46e3-9bba-3e460420a26d",
+      "linkedTossupId": "e6d8ba85-9dd7-45db-af88-f210c192a73c",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Seemingly in protest of Nixon's pardon of William Calley, Tony Shafrazi spraypainted the words \"KILL LIES ALL\" across this Pablo Picasso painting about the bombing of the namesake Spanish town.",
+          "answer": "Guernica",
+          "acceptableAnswers": [
+            "Guernica",
+            "The Guernica"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A British suffragette took a meat cleaver to this Diego Velazquez painting, which shows Venus looking at herself in a mirror held up by Cupid.",
+          "answer": "Rokeby Venus",
+          "acceptableAnswers": [
+            "Rokeby Venus",
+            "The Toilet of Venus",
+            "The Rokeby Venus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A Rembrandt painting of this woman in the Hermitage was damaged in a sulfuric acid attack in 1985. Two little cupids are testing out gold and lead arrows in Correggio's painting of her, and she is draped in a purple veil in a Gustav Klimt painting.",
+          "answer": "Danaë",
+          "acceptableAnswers": [
+            "Danaë",
+            "The Danaë"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about incidents of art vandalism, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aeb36"
+    },
+    {
+      "id": "4fe20616-87ae-4341-bb92-25599546e8b0",
+      "linkedTossupId": "f572d02e-00bd-490a-91f3-6ca283c022b7",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This volcano of Washington's Cascade Range famously erupted in 1980, killing 57 people.",
+          "answer": "St. Helens",
+          "acceptableAnswers": [
+            "St. Helens",
+            "The St. Helens"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This active volcano, Mexico's second highest after the Pico de Orizaba, can be seen from Mexico City when the smog is light. It erupted in 1947 causing great destruction.",
+          "answer": "Popocatepetl",
+          "acceptableAnswers": [
+            "Popocatepetl",
+            "El Popo",
+            "The Popocatepetl"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Also in the Cascades is this dormant stratovolcano, the tallest mountain in Oregon.",
+          "answer": "Hood",
+          "acceptableAnswers": [
+            "Hood",
+            "The Hood"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some volcanoes of North America, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b682"
+    },
+    {
+      "id": "d0947cd3-0b82-4737-a4f0-8a3743fe9a40",
+      "linkedTossupId": "9e341489-555e-49d3-bae6-f78cba3709a8",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this god, the focus of the Enuma Elish, who supplanted Ea and Enlil as the head of the Babylonian pantheon.",
+          "answer": "Marduk",
+          "acceptableAnswers": [
+            "Marduk",
+            "The Marduk"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tiamat gave this item to Kingu to use aa a breastplate in his battle with Marduk, who then claimed it. This clay object is a legal document that confers authority over the universe.",
+          "answer": "Tablet",
+          "acceptableAnswers": [
+            "Tablet",
+            "Tablets of Destiny",
+            "Dup Shimati",
+            "The Tablet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Mesopotamian god of wisdom is the son of Marduk. He rides the dragon-like mušhuššu and writes the destiny of every human on sacred tablets.",
+          "answer": "Nabu",
+          "acceptableAnswers": [
+            "Nabu",
+            "Nebo",
+            "The Nabu"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The temple Esagila was dedicated to this deity, who was tasked with defeating Tiamat. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d617"
+    },
+    {
+      "id": "697a113c-f807-4c6a-b5d9-254496e5cafb",
+      "linkedTossupId": "4943393f-d303-416b-8782-e9616a34ee33",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The canopy of this biome often has an incredible diversity of epiphytes. This biome, which occurs near the equator and has no dry season, has some of the highest biodiversity in the world.",
+          "answer": "rainforest",
+          "acceptableAnswers": [
+            "rainforest",
+            "tropical forest",
+            "The rainforest"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This division of plants, whose gametophyte generation is dominant, contains several epiphytes. These plants develop their dominant stage from a protonema and, with liverworts and hornworts, make up the bryophytes.",
+          "answer": "moss",
+          "acceptableAnswers": [
+            "moss",
+            "Bryophyta",
+            "The moss"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This family of flowering plants includes epiphytes like Spanish moss. Because pineapples are in this family, the allergen within them takes its name from this family.",
+          "answer": "bromeliad",
+          "acceptableAnswers": [
+            "bromeliad",
+            "Bromeliaceae",
+            "prompt on bromelain",
+            "The bromeliad"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about epiphytes, which are plants that grow on top of other plants, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423bae"
+    },
+    {
+      "id": "07ae9744-4875-46cf-a728-775921163342",
+      "linkedTossupId": "80e25883-38f2-4dd6-8684-ec7c1f7ecd39",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with pulmonary circulation.",
+          "answer": "systole",
+          "acceptableAnswers": [
+            "systole"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the systole in the cardiovascular system?",
+          "answer": "Pulmonary circulation",
+          "acceptableAnswers": [
+            "Pulmonary circulation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to pulmonary circulation.",
+          "answer": "diastole",
+          "acceptableAnswers": [
+            "diastole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    }
+  ]
+}

@@ -1,0 +1,1138 @@
+{
+  "packetId": "packet-223",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Geography",
+    "Literature",
+    "Fine Arts",
+    "Human Body",
+    "Science",
+    "Philosophy",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "d0bd96e7-63cf-405a-99d5-0499b47a7a36",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "One person with this surname, Simone, was the original namesake of a commune now known as \"Sun City\" located in her country's capital. A leader with this surname followed the edicts of PEPPADEP and eradicated his country's pig population. Another man with this surname reportedly ordered all black dogs put to death after being told that the rebellious Clement Barbot had transformed into a dog. A later member of this family had an apology to his country rejected by President Rene Preval and had earlier teased a political comeback after the ousting of Jean-Bertrand Aristide. This family formed a secret police called the Tontons Macoutes or \"Bogeymen,\" and one member claimed to be a loa. The most famous members, Francois and Jean-Claude, were nicknamed \"Papa Doc\" and \"Baby Doc.\" For 10 points, name this family that ruled Haiti from 1957 to 1986.",
+      "powerMarkPosition": 482,
+      "answer": "Duvalier",
+      "acceptableAnswers": [
+        "Duvalier",
+        "Ovide",
+        "The Duvalier"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c32289"
+    },
+    {
+      "id": "c917bf85-01bf-4ff5-aa09-e7ce073dcd48",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "One of these landforms \"of Tehuantepec\" (teh-WAHN-teh-pek) is found in the Mexican states of Oaxaca (wah-HAH-kah) and Veracruz. One \"of Kra\" connects the Malay Peninsula to the rest of Asia. The Suez Canal was built across one of these landforms separating the Red and Mediterranean Seas. For 10 points, name these narrow strips of land that connect larger land masses, another of which is the country of Panama.",
+      "powerMarkPosition": 127,
+      "answer": "isthmus",
+      "acceptableAnswers": [
+        "isthmus",
+        "isthmi",
+        "The isthmus"
+      ],
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b624"
+    },
+    {
+      "id": "8c4de396-e7df-42e5-8ec8-6d6c362bb0cd",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "In a story from this movement, the narrator remembers his mother buying a new carpet to replace one \"covered with blood from dad's dying.\" A novel from this movement follows an orphan who falls in love with an older actress, but abandons her to marry the daughter of a rich factory owner. In a story from this movement, a boy hides stolen money in a drain pipe and spites the governor by deliberately losing an athletic event. This movement, which includes John Braine's novel Room at the Top, had its title coined to promote a play in which Helena encourages her pregnant friend to leave her candy seller husband, but ends up having an affair with him. For 10 points, name this movement associated with Alan Sillitoe's \"The Loneliness of the Long Distance Runner\" and Jimmy Porter's rants against British society in John Osborne's Look Back in Anger.",
+      "powerMarkPosition": 400,
+      "answer": "Angry Young Men",
+      "acceptableAnswers": [
+        "Angry Young Men",
+        "kitchen sink realism",
+        "The Angry Young Men"
+      ],
+      "source": "qbreader",
+      "sourceId": "660a2cfb38190d8ac17b4591"
+    },
+    {
+      "id": "12d94949-cedd-4765-b321-04de3000bede",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "The protagonist of this work is invited to a witches' sabbath by Mistress Hibbins. A child in this work notices that the sunlight avoids her mother when they go to the forest. In this novel, Roger Chillingworth arrives in New England to find his wife has been imprisoned for having an affair with Reverend Arthur Dimmesdale. Pearl is the daughter of Hester Prynne, who is forced to wear the title symbol as a sign of her adultery in, for 10 points, what novel by Nathaniel Hawthorne?",
+      "powerMarkPosition": 196,
+      "answer": "Scarlet",
+      "acceptableAnswers": [
+        "Scarlet",
+        "The Scarlet"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acd8c"
+    },
+    {
+      "id": "91e83a43-dda0-45f1-bebc-df2e41181fe8",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "Edvard Grieg composed one of these pieces in homage to his friend Rikard Nordraak. The third movement of Beethoven's twelfth piano sonata unusually includes one of these pieces. Mahler began his fifth symphony with one of these pieces, and composed one based on the song \"Frere Jacques\" for the third movement of his first symphony. Charles Gounod composed a comic one about a marionette. The most performed one by Chopin forms the third movement of his second piano sonata, while Beethoven broke with the classical tradition and composed one of these pieces as the second movement of the Eroica symphony. For 10 points, name these somber pieces of music composed to commemorate someone's death.",
+      "powerMarkPosition": 376,
+      "answer": "funeral march",
+      "acceptableAnswers": [
+        "funeral march",
+        "marche funèbre",
+        "trauermarsch",
+        "prompt on \"march\"",
+        "The funeral march"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ada6a"
+    },
+    {
+      "id": "28cb5a22-e660-4240-947e-4694be677af8",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for mouth and salivary glands. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this esophagus-related structure.",
+      "powerMarkPosition": 80,
+      "answer": "Esophagus",
+      "acceptableAnswers": [
+        "esophagus",
+        "Esophagus"
+      ],
+      "explanation": "The esophagus is a key component of the Digestive system, involved in mouth and salivary glands.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "418f66f5-e22a-4315-add6-666f45865e1e",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "These structures are infiltrated through their gastrodermal cells by microscopic organisms which gives them their color. The prevalence of these structures in low nutrient environments is the concern of Darwin's paradox. One variety of these structures are composed of a base of aragonite, a form of calcite, on which cnidarians called polyps are attached. Ships may be used to construct artificial examples of these structures that are not susceptible to bleaching. For 10 points, name these structures, the largest of which is the Great Barrier one off the coast of Australia.",
+      "powerMarkPosition": 317,
+      "answer": "reef",
+      "acceptableAnswers": [
+        "reef",
+        "coral reefs",
+        "The reef"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa5913201761"
+    },
+    {
+      "id": "7fc5d8b2-4065-489f-805e-120757d8a79c",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "One form of this disease is caused by mutations in Lamin A/C or in Emerin. The protein that is mutated in one form of this disease contains many spectrin-like repeats. Oligos like drisapersen can use \"exon 51 skipping\" to treat that form of this disease. Gowers' sign can be seen in one form of this disease named after Becker. The DGC is formed by the protein associated with this disease which is aligned in the register with the Z-disk of peripheral myofibrils and links actin filaments in the sarcolemma. This disease can cause progressive scoliosis and affects the thighs and pelvis first before targeting the arms in a form named for Duchenne. For 10 points, name genetic disorder in which sufferers have weakened skeletal muscle.",
+      "powerMarkPosition": 319,
+      "answer": "muscular dystrophy",
+      "acceptableAnswers": [
+        "muscular dystrophy",
+        "MD",
+        "accept Emery-Dreifuss muscular dystrophy",
+        "accept Becker muscular dystrophy",
+        "The muscular dystrophy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52dd4"
+    },
+    {
+      "id": "61986f96-3996-4e9b-b411-27bd4db00886",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "This country's capital has an artistic district called the 798 Art Zone and an opera house which models a drop of water and is sometimes called \"The Giant Egg.\" One artist from this country created an exhibit in which millions of sunflower seeds fill up an empty space. A radio tower in this country sits across from a district named the Bund and is recognizable for two large spheres wrapping around its central columns. A bowl-shaped stadium in this country was designed by Herzog & de Meuron and features a visible steel frame supporting a retractable roof. For 10 points, name this Asian country whose capital features a stadium called the Bird's Nest, built for the 2008 Olympics.",
+      "powerMarkPosition": 269,
+      "answer": "China",
+      "acceptableAnswers": [
+        "China",
+        "The China"
+      ],
+      "source": "qbreader",
+      "sourceId": "62edb4fedff988263841bbea"
+    },
+    {
+      "id": "e169aa51-7436-41ab-924c-b3048204d80e",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "In this novel, the protagonist's face exhibits a \"beauty... overrun by its parasite, thought,\" proving that \"thought is a disease of flesh.\" A mother in this novel curses a woman by throwing her wax effigy in the fire and reciting the Lord's Prayer three times backwards. In this novel, Charley gives a woman his role as the Turkish Knight in a mummers' play in exchange for letting him hold her hand for 15 minutes. Near the beginning of this novel, the narrator praises the \"Promethean rebelliousness\" of characters lighting bonfires on top of Rainbarrow on Guy Fawkes Night. The title character of this novel goes half-blind from studying and works as a furze-cutter, despite already possessing a fortune from his career as a Paris diamond merchant. The passionate Eustasia Vye enters a disastrous marriage with the burnt-out gifted kid Clym Yeobright in, for 10 points, what Thomas Hardy novel set in Egdon Heath?",
+      "powerMarkPosition": 416,
+      "answer": "Return of the Native",
+      "acceptableAnswers": [
+        "Return of the Native",
+        "The Return of the Native"
+      ],
+      "source": "qbreader",
+      "sourceId": "64306481335bc8c468cbb588"
+    },
+    {
+      "id": "7c094917-d293-4f8f-9fad-e14a2b6089d9",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "One of the most difficult phrases in this poem is \"Bleiben ist nirgends,\" which has been variously translated as \"to stay is to be nowhere\" and \"there is no place where we can remain.\" This poem's speaker claims that the \"clever animals\" have noticed that we are not really \"at home in the interpreted world.\" This poem ends by recalling how the lament for Linus \"pierced the barren stiffness\" so that \"the void was caught up in the vibration that now enraptures and comforts and helps us.\" At the beginning of this poem, the speaker asks, \"Who, if I cried out, would hear me among the angels' orders?\" For 10 points, name this poem, the first in a series of ten titled for a castle belonging to Marie von Thurn und Taxis and written by Rainer Maria Rilke.",
+      "powerMarkPosition": 242,
+      "answer": "First Duino Elegy",
+      "acceptableAnswers": [
+        "First Duino Elegy",
+        "\"Duino Elegy No. 1\"",
+        "\"The First Elegy\"",
+        "\"Die Erste Elegie\"",
+        "prompt on Duino Elegies",
+        "prompt on Duineser Elegien",
+        "The First Duino Elegy"
+      ],
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490c1ca"
+    },
+    {
+      "id": "741aebdc-c960-45fb-86a6-e6dad9fe9862",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "In some traditions, the hymn Ma'oz Tzur is sung during each night of this holiday. In order to remember the heroism of Judith, cheese and other dairy products are sometimes consumed during this holiday. This holiday commemorates the Maccabean revolt against the Seleucid empire, specifically an occasion where one day's worth of oil remains lit for eight days. For ten points, name this festival that typically involves fried foods and the lighting of a menorah.",
+      "powerMarkPosition": 232,
+      "answer": "Hanukkah",
+      "acceptableAnswers": [
+        "Hanukkah",
+        "The Hanukkah"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f723ef56e0dff73abee1c"
+    },
+    {
+      "id": "6e29978f-1cc6-4725-a303-99f5331b891a",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "In order to make cement, this rock undergoes a calcination reaction and is combined with silicates and other oxides. Formations of this type of rock often have abundant fossil deposits; The Solnhofen lagerstätte (\"LAHG-ur-shtaht-uh\") in Germany is primarily composed of this rock. Formations of this rock contain 30% of the world's petroleum reservoirs. This rock is useful for reconstructing ancient coastlines because it forms via precipitation in shallow marine environments from coral and the shells of foraminifera. When this sedimentary rock undergoes metamorphism, it becomes marble. Chalk is one variety of this rock. For ten points, name this sedimentary rock made up of calcium carbonate.",
+      "powerMarkPosition": 189,
+      "answer": "limestone",
+      "acceptableAnswers": [
+        "limestone",
+        "The limestone"
+      ],
+      "source": "qbreader",
+      "sourceId": "65fa4918e210b3e07c6de783"
+    },
+    {
+      "id": "5d861397-b201-4a52-b307-25c0453dce5c",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for inspiration and expiration. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this diaphragm-related structure.",
+      "powerMarkPosition": 99,
+      "answer": "Diaphragm",
+      "acceptableAnswers": [
+        "diaphragm",
+        "Diaphragm"
+      ],
+      "explanation": "The diaphragm is a key component of the Respiratory system, involved in inspiration and expiration.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "09cabb8d-793a-46e3-a37d-aaf317c9ce0b",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "The shelterin complex protects these entities from non-homologous end joining, and they can form G-quadraplexes with bonding between G and C sequences. The TRAP assay is used to study the activity of enzymes associated with them. Disruptions in TFR2 binding to these regions results in damage signaling. The RNA-containing enzyme that extends these was discovered by Blackburn and is responsible for the characteristic repeat of these entities. Their shortening causes the end-replication problem, which leads to the Hayflick limit on eukaryotic cell division. For 10 points, name this region found at the end of linear chromosomes.",
+      "powerMarkPosition": 229,
+      "answer": "telomere",
+      "acceptableAnswers": [
+        "telomere",
+        "The telomere"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d439ab"
+    },
+    {
+      "id": "7b6e1e99-1dae-491e-88d5-6ca8eb362280",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "A portion of this text describes how governmental entities called quintets, sextets, septets, and nonets were created to prevent certain politicians from introducing legislation. This document was copied by the journalist John Rettie during a drinking party, and published after Edward Crankshaw met with the editor of The Observer, as told in a biography by William Taubman. This document contains a full reprint of the declaration of Robert Eikhe, and discusses the phony papers that exposed a \"Mingrelian nationalist organization.\" The author of this text argues that \"enemy of the people\" was a concept developed to eliminate the possibility of ideological fight, and exposes the details behind Sergei Kirov's murder. It was drafted for the 20th Party Congress and officially titled \"On the Cult of Personality and its Consequences.\" For 10 points, name this 1956 speech by Nikita Khrushchev.",
+      "powerMarkPosition": 375,
+      "answer": "Secret Speech",
+      "acceptableAnswers": [
+        "Secret Speech",
+        "“On the Cult of Personality and its Consequences” until it is read",
+        "Khrushchev’s 20th Party Congress address until it is read",
+        "prompt on Khrushchev’s address",
+        "The Secret Speech"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df3a4b1c64d9772f738aa6"
+    },
+    {
+      "id": "a9a70a59-e427-4fee-8a23-5853052cecbe",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "One version of this technique relies on a matrix whose creation is catalyzed by TEMED and ammonium persulfate. Zymography and a form of digestion beginning with reduction and alkylation are two procedures often used after this technique. Silver and zinc are particularly sensitive stains in this method, a variant of which uses isoelectric focusing in its second step. \"Smiling\" can occur in this process if excess voltage is used. TAE and TBE are common buffers used in this process, which uses ethidium bromide for visualization. Ladders are used as standard markers this technique. In this technique, a comb is used to create wells in a polyacrylamide or agarose matrix. For 10 points, name this technique that separates proteins and DNA by applying an electric field.",
+      "powerMarkPosition": 414,
+      "answer": "gel electrophoresis",
+      "acceptableAnswers": [
+        "gel electrophoresis",
+        "The gel electrophoresis"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a8877"
+    },
+    {
+      "id": "6e4ab1cd-9138-49d9-b312-d830faee29f4",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "This playwright wrote a play detailing the selling of Victor and Walter Franz's dead parents' furniture to Gregory Solomon called The Price. This author's autobiography Timebends details his three marriages, the last of which is to Inge Morath, but he's more famous for a play about an event where Prince Von Berg gives up his white card to free Leduc from a Nazi interrogation camp, the title Incident at Vichy. He is more famous still for a play in which Steve Deever takes the blame for his partner's faulty cylinder heads, which leads to 21 pilots' deaths caused by Joe Keller, All My Sons. For 10 points, name this American playwright, best known for writing about John Proctor and Willy Loman in, respectively, The Crucible and Death of a Salesman.",
+      "powerMarkPosition": 412,
+      "answer": "Miller",
+      "acceptableAnswers": [
+        "Miller",
+        "The Miller"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d434ff"
+    },
+    {
+      "id": "ed4d697f-a54e-499f-9792-bc9761431373",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "text": "An author from this country wrote about Hana caring for Count Almasy in The English Patient. This is the home country of Michael Ondaatje [ohn-DAHT-shee], Nobel Prize winner Alice Munro, and the author of a novel in which Offred tries to escape from her oppressive life in the Republic of Gilead, The Handmaid's Tale. For 10 points, author Margaret Atwood is from what country north of the United States?",
+      "powerMarkPosition": 173,
+      "answer": "Canada",
+      "acceptableAnswers": [
+        "Canada",
+        "The Canada"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3114afad1e88c874a2e67"
+    },
+    {
+      "id": "b68f0c1e-9755-4114-a9c1-926b7ae20825",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "In one work, this man described potato-eaters as stronger and more beautiful than bread-eaters, explained how monopolies lead to increased prices, and marveled at the division of labor in an efficient pin factory. He wrote of compatible self-interest and ethics in The Theory of Moral Sentiments, where he introduced the idea of a self-correcting \"invisible hand\" in markets. For 10 points, name this Scottish founder of classical economics, the author of The Wealth of Nations.",
+      "powerMarkPosition": 213,
+      "answer": "Smith",
+      "acceptableAnswers": [
+        "Smith",
+        "The Smith"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43eec"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "972ce9bd-56ad-4bcb-9b7a-e072c1d51baa",
+      "linkedTossupId": "d0bd96e7-63cf-405a-99d5-0499b47a7a36",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This 1963 book by Betty Friedan is credited with sparking second wave feminism in the US. Its critique of Freud's concept of penis envy was inspired by Beauvoir's The Second Sex.",
+          "answer": "Feminine Mystique",
+          "acceptableAnswers": [
+            "Feminine Mystique",
+            "The Feminine Mystique"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This activist for female contraception was arrested with her sister for distributing diaphragms in 1916; she later created the organization that became Planned Parenthood.",
+          "answer": "Sanger",
+          "acceptableAnswers": [
+            "Sanger",
+            "The Sanger"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sanger was instrumental in pushing philanthropist Katharine McCormick to fund research by Doctor Gregory Pincus to develop this common oral contraceptive in the 1950s.",
+          "answer": "pill",
+          "acceptableAnswers": [
+            "pill",
+            "The pill"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about 20th century feminism, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b531bc"
+    },
+    {
+      "id": "71ede303-100e-4648-8e82-10a51fc6cf22",
+      "linkedTossupId": "c917bf85-01bf-4ff5-aa09-e7ce073dcd48",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This river flows near the cities Bonn and Mannheim and empties into the North Sea near the Dutch city of Rotterdam.",
+          "answer": "Rhine",
+          "acceptableAnswers": [
+            "Rhine",
+            "Rhein",
+            "The Rhine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This second-longest river in Europe begins in Germany's Black Forest and flows through four capital cities: Vienna, Budapest, Bratislava, and Belgrade.",
+          "answer": "Danube",
+          "acceptableAnswers": [
+            "Danube",
+            "Donau",
+            "The Danube"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Along with the Neisse, this river that flows into the Baltic Sea is recognized as an official boundary between Germany and Poland.",
+          "answer": "Oder",
+          "acceptableAnswers": [
+            "Oder",
+            "Odra",
+            "The Oder"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these rivers that flow through Germany.",
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b648"
+    },
+    {
+      "id": "2fa140c1-1dfd-421f-844a-f42ca7dbc88d",
+      "linkedTossupId": "8c4de396-e7df-42e5-8ec8-6d6c362bb0cd",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Nobel Laureate who commented on the Troubles in Northern Ireland in his collection North. This poet of Death of a Naturalist wrote about \"the good turf\" in \"Digging.\"",
+          "answer": "Heaney",
+          "acceptableAnswers": [
+            "Heaney",
+            "The Heaney"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Several poems in North describe bog bodies, including one of this title which begins: \"Here is the girl's head.\" A poem by Abel Meeropol with this title describes \"bulgin' eyes and the twisted mouth\" and \"the sudden smell of burnin' flesh.\"",
+          "answer": "Strange Fruit",
+          "acceptableAnswers": [
+            "Strange Fruit",
+            "The Strange Fruit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Also in North is a poem titled for this command which describes a conversation with \"an English journalist in search of views / On the Irish thing.\" This command also titles Patrick Radden Keefe's account of \"murder and memory in Northern Ireland.\"",
+          "answer": "say nothing",
+          "acceptableAnswers": [
+            "say nothing",
+            "“Whatever You Say",
+            "Say Nothing”",
+            "The say nothing"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author wrote about an object which \"lies on a pillow of turf / and seems to weep\" in the poem \"The Grauballe Man.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68aa6f81eb7f936a9a15e570"
+    },
+    {
+      "id": "c99e0f34-2104-4ba7-b6af-8060a44d332a",
+      "linkedTossupId": "12d94949-cedd-4765-b321-04de3000bede",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This author of A Tale of a Tub wrote a satirical work in which he suggested eating Irish babies, A Modest Proposal. He also wrote Gulliver's Travels.",
+          "answer": "Swift",
+          "acceptableAnswers": [
+            "Swift",
+            "The Swift"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of The Dunciad wrote a narrative poem about Petre cutting off a piece of Arabella's hair, The Rape of the Lock.",
+          "answer": "Pope",
+          "acceptableAnswers": [
+            "Pope",
+            "The Pope"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of Shamela and Joseph Andrews wrote a work about a foundling discovered on the land of Squire Allworthy, Tom Jones.",
+          "answer": "Fielding",
+          "acceptableAnswers": [
+            "Fielding",
+            "The Fielding"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these English poets and authors for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced886"
+    },
+    {
+      "id": "0d5a7e08-3ace-484b-a681-87312a1ae5e4",
+      "linkedTossupId": "91e83a43-dda0-45f1-bebc-df2e41181fe8",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Two men stand on a bridge near a yellow lake in the background of this Edward Munch (MOONK) painting, which depicts the sky as red due to Krakatoa's eruption.",
+          "answer": "Scream",
+          "acceptableAnswers": [
+            "Scream",
+            "The Scream"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A rabbit leaps out of the way of a train that crosses the Maidenhead Railway Bridge in one of this artist's seascapes. This artist depicted the wreck of the Zong in their painting The Slave Ship.",
+          "answer": "Turner",
+          "acceptableAnswers": [
+            "Turner",
+            "Joseph Mallord William Turner",
+            "The Turner"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Renaissance painter's Landscape with Footbridge is housed in London's National Gallery. This artist also painted a large tablet floating over a battlefield in his The Battle of Alexander at Issus.",
+          "answer": "Altdorfer",
+          "acceptableAnswers": [
+            "Altdorfer",
+            "The Altdorfer"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following about depictions of bridges in art, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66423ff3515f1173a58a27de"
+    },
+    {
+      "id": "4320e68d-be63-4211-8f32-d26be6b96a70",
+      "linkedTossupId": "28cb5a22-e660-4240-947e-4694be677af8",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with neuron structure.",
+          "answer": "axon",
+          "acceptableAnswers": [
+            "axon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the axon in the nervous system?",
+          "answer": "Neuron structure",
+          "acceptableAnswers": [
+            "Neuron structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to neuron structure.",
+          "answer": "dendrite",
+          "acceptableAnswers": [
+            "dendrite"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a4ee451e-88bb-4f88-981d-f5faf324fe4f",
+      "linkedTossupId": "418f66f5-e22a-4315-add6-666f45865e1e",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this technique. Its output is a histogram where m-over-z is on the x-axis and percent abundance is on the y-axis.",
+          "answer": "mass spectrometry",
+          "acceptableAnswers": [
+            "mass spectrometry",
+            "mass spec",
+            "mass spectroscopy",
+            "MS",
+            "The mass spectrometry"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The base peak on the mass spectrum corresponds to the molecular ion, which has this net charge, since it has lost an electron. In solution, alkali metals like sodium acquire this net charge.",
+          "answer": "plus-one",
+          "acceptableAnswers": [
+            "plus-one",
+            "one-plus",
+            "prompt on one",
+            "The plus-one"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "When determining an unknown organic molecule's structure, this useful piece of information roughly equals the abundance of the M-plus-one peak divided by 1.1. This number is multiplied by two when calculating a molecule's index of hydrogen deficiency. A description is fine.",
+          "answer": "number",
+          "acceptableAnswers": [
+            "number",
+            "number of carbons",
+            "obvious equivalents",
+            "The number"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The output of this technique is analyzed by looking at the relative heights of the base peak, symbolized M, and all the peaks around it, which are labelled M-plus-one, M-minus-one, and so on. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae77e"
+    },
+    {
+      "id": "8cf158da-4bb2-4fbf-a26e-6ac29a1d6883",
+      "linkedTossupId": "7fc5d8b2-4065-489f-805e-120757d8a79c",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this process in which a cell uptakes DNA directly from its surroundings. This process is often contrasted with conjugation and transduction.",
+          "answer": "transformation",
+          "acceptableAnswers": [
+            "transformation",
+            "The transformation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Electroporation is used to induce artificial competence by forming holes in this structure. The fluid mosaic model describes this semipermeable structure composed of a phospholipid bilayer.",
+          "answer": "membrane",
+          "acceptableAnswers": [
+            "membrane",
+            "plasma membrane",
+            "The membrane"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The bacterium A. tumefaciens is used to transfer genes to this model organism, a plant also called the thale cress or mouse-ear cress.",
+          "answer": "Arabidopsis",
+          "acceptableAnswers": [
+            "Arabidopsis",
+            "The Arabidopsis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Competence refers to a cell's ability to undergo this process, which is facilitated by Sec and Tat transport proteins. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b526f1"
+    },
+    {
+      "id": "ad969818-d958-4fe3-97c3-a7660c5c170b",
+      "linkedTossupId": "61986f96-3996-4e9b-b411-27bd4db00886",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this painting whose center panel shows Christ in the clouds above a large wagon. The left panel of this painting depicts the expulsion of Adam and Eve as well as insect-like angels being thrown out of heaven.",
+          "answer": "Haywain",
+          "acceptableAnswers": [
+            "Haywain",
+            "The Haywain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Dutch artist painted the Haywain triptych as well as other religious triptychs, such as The Last Judgment and The Garden of Earthly Delights.",
+          "answer": "Bosch",
+          "acceptableAnswers": [
+            "Bosch",
+            "Jeroen van Aken",
+            "The Bosch"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of these creatures pulls the title haywain in Bosch's triptych. At the top of the right panel of Bosch's The Temptation of St. Anthony, a woman and a man ride on one of these creatures, and at the bottom of the center panel, one of these creatures is wearing armor and a sheathed sword.",
+          "answer": "fish",
+          "acceptableAnswers": [
+            "fish",
+            "The fish"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "When this painting's panels are closed, it shows a wayfarer pushing away a dog with a stick. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6406d0dde39f8dfd08fc23a1"
+    },
+    {
+      "id": "c83e2717-2fd7-4dd5-8f2f-8d3f76bace18",
+      "linkedTossupId": "e169aa51-7436-41ab-924c-b3048204d80e",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this fictional scientist and philosopher who invents a substance capable of removing oxygen from air in The Dalkey Archive. He is much admired by the protagonist of The Third Policeman.",
+          "answer": "De Selby",
+          "acceptableAnswers": [
+            "De Selby",
+            "The De Selby"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Dalkey Archive, this real-life author has faked his death and denies having written most of the books attributed to him. Little Chandler grapples with his failed literary ambitions in this author's story \"A Little Cloud.\"",
+          "answer": "Joyce",
+          "acceptableAnswers": [
+            "Joyce",
+            "The Joyce"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Flann O'Brien's novel At Swim-Two-Birds was published due to the recommendation of this English Catholic author, who wrote The Power and the Glory and The Quiet American.",
+          "answer": "Greene",
+          "acceptableAnswers": [
+            "Greene",
+            "The Greene"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man believes that the earth is shaped like a sausage and that mirrors are the secret to time travel, as you're always looking at a younger version of yourself, due to the time it takes light to travel. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b052a"
+    },
+    {
+      "id": "17bd8cc5-545e-44df-b5d0-555e854de155",
+      "linkedTossupId": "7c094917-d293-4f8f-9fad-e14a2b6089d9",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this American author of The Echo Maker who won a Pulitzer in 2019 for that novel, The Overstory.",
+          "answer": "Powers",
+          "acceptableAnswers": [
+            "Powers",
+            "The Powers"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A strike by loggers in Oregon lies at the heart of Sometimes a Great Notion, a novel by this American author, whose prior novel is set at a psychiatric hospital administered by Nurse Ratched (\"RATCH-id\").",
+          "answer": "Kesey",
+          "acceptableAnswers": [
+            "Kesey",
+            "The Kesey"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In another American novel, this character gives up on trying to be adopted after his final pair of adoptive parents, Billy and Grant Winkle, are killed by a log drive started by the Ramses Paper Company. He then returns to the orphanage where he was raised and trains to be an obstetrician instead.",
+          "answer": "Homer",
+          "acceptableAnswers": [
+            "Homer",
+            "either name",
+            "The Homer"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a novel by this author, Nick and Olivia turn to eco-terrorism after they fail to protect the redwood Mimas from the predations of the logging industry. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ede294c53e50a0513632dd"
+    },
+    {
+      "id": "1f508f5e-eb9d-4f69-9c38-689454871d7b",
+      "linkedTossupId": "741aebdc-c960-45fb-86a6-e6dad9fe9862",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this author of the Analects, who characterized five fundamental relationships, including \"ruler to subject.\"",
+          "answer": "Confucius",
+          "acceptableAnswers": [
+            "Confucius",
+            "Kongzi",
+            "Kong Fuzi",
+            "The Confucius"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Confucius advocated for this virtue of respect towards one's elders in father-son relationships. This virtue has a two-word English name.",
+          "answer": "filial piety",
+          "acceptableAnswers": [
+            "filial piety",
+            "xiaojing",
+            "The filial piety"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Confucianism was one of the Hundred Schools of Thought in this modern-day Asian country, from which Daoism and the yin-yang also originate.",
+          "answer": "China",
+          "acceptableAnswers": [
+            "China",
+            "Zhōngguó",
+            "People’s Republic of China",
+            "PRC",
+            "Zhōnghuá Rénmín Gònghéguó",
+            "The China"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This philosopher's Silver Rule says to not do unto others what you do not want done to yourself. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66e1bbb6b3ec1cfe3cd4a640"
+    },
+    {
+      "id": "7470648d-450d-4f24-8686-bdf9643fb4e3",
+      "linkedTossupId": "6e29978f-1cc6-4725-a303-99f5331b891a",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The hyphae of a fungus forms this network, which is the main body of the organism.",
+          "answer": "Mycelium",
+          "acceptableAnswers": [
+            "Mycelium",
+            "The Mycelium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This phylum of fungi contains truffles and Baker's yeast, among others. It gets its name from the sac-like structures used by some species to store their spores.",
+          "answer": "Ascomycota",
+          "acceptableAnswers": [
+            "Ascomycota",
+            "The Ascomycota"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Unlike most divisions of fungi, this division consists solely of fungi that do not form a true mycelium and are motile. They largely live by degrading keratin and chitin in a freshwater environment.",
+          "answer": "Chytridiomycota",
+          "acceptableAnswers": [
+            "Chytridiomycota",
+            "The Chytridiomycota"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify some things about everyone's favorite kingdom, fungi, For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d441a5"
+    },
+    {
+      "id": "4eea6bc9-0df1-4fe0-84e6-dfc5d9374cda",
+      "linkedTossupId": "5d861397-b201-4a52-b307-25c0453dce5c",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with liver functions.",
+          "answer": "liver",
+          "acceptableAnswers": [
+            "liver"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the liver in the digestive system?",
+          "answer": "Liver functions",
+          "acceptableAnswers": [
+            "Liver functions"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to liver functions.",
+          "answer": "bile",
+          "acceptableAnswers": [
+            "bile"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "81400a16-3282-4517-8a84-d1c08e1bd5c7",
+      "linkedTossupId": "09cabb8d-793a-46e3-a37d-aaf317c9ce0b",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this technique that solves a complicated problem by decomposing the problem into a known problem plus a small disturbance, and expressing the solution to the complex problem using the solution to the known problem.",
+          "answer": "perturbation theory",
+          "acceptableAnswers": [
+            "perturbation theory",
+            "The perturbation theory"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In quantum mechanical perturbation theory, the perturbation is added to this operator that represents the total energy of a system.",
+          "answer": "Hamiltonian",
+          "acceptableAnswers": [
+            "Hamiltonian",
+            "H",
+            "The Hamiltonian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In time-dependent perturbation theory in the interaction picture of quantum mechanics, the time evolution operator can be approximated using this expansion, whose nth term contains the product of n minus 1 integrals of time-ordered potential operators.",
+          "answer": "Dyson series",
+          "acceptableAnswers": [
+            "Dyson series",
+            "The Dyson series"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The method of multiple scales is a form of this technique that removes unwanted secular terms. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32f19679b6464bbdf74b0"
+    },
+    {
+      "id": "2505f80a-6e05-4c73-a53a-5f89f0956246",
+      "linkedTossupId": "7b6e1e99-1dae-491e-88d5-6ca8eb362280",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this city whose financial district, called \"The City,\" contains the headquarters of the insurance institution Lloyd's.",
+          "answer": "London",
+          "acceptableAnswers": [
+            "London",
+            "The London"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During this 1992 event, despite the Bank of England buying up hundreds of millions of pounds on the London markets, the Major government was unable to keep the pound sterling in the European Exchange Rate Mechanism. George Soros made a billion-pound profit as a result of this event.",
+          "answer": "Black Wednesday",
+          "acceptableAnswers": [
+            "Black Wednesday",
+            "The Black Wednesday"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The financialization of the UK's economy is often dated to this 1986 event, in which the Thatcher government's finance minister, Nigel Lawson, passed a bundle of measures deregulating the City of London to help it compete with New York as a financial center.",
+          "answer": "Big Bang",
+          "acceptableAnswers": [
+            "Big Bang",
+            "The Big Bang"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Slightly under half of global currency trading takes place in this city, which is the largest foreign exchange market in the world. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c08d5b3dc7dc712c7818"
+    },
+    {
+      "id": "1fe880f2-00c3-4ed3-8725-320470e36fce",
+      "linkedTossupId": "a9a70a59-e427-4fee-8a23-5853052cecbe",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this compound which is produced along with ornithine from the reaction of arginine (\"AR-juh-neen\") and water in a namesake metabolic cycle.",
+          "answer": "urea",
+          "acceptableAnswers": [
+            "urea",
+            "carbamide",
+            "accept urea cycle",
+            "The urea"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Proteins in concentrated urea undergo this process, in which they lose their secondary, tertiary and quaternary structure as a result of a change in environmental conditions.",
+          "answer": "denaturation",
+          "acceptableAnswers": [
+            "denaturation",
+            "word forms like denaturing",
+            "The denaturation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Proteins can also be denatured by a large change in this quantity which, in human blood, is regulated by the bicarbonate buffering system. It is equal to 7 for water.",
+          "answer": "pH",
+          "acceptableAnswers": [
+            "pH"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Friedrich Wöhler (\"VER-ler\") disproved vitalism by reacting silver cyanate with ammonium chloride to synthesize this organic compound. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52504"
+    },
+    {
+      "id": "3a4a621d-e2d6-48cc-89c4-b4055f89f7f2",
+      "linkedTossupId": "6e4ab1cd-9138-49d9-b312-d830faee29f4",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this novel, in which the title character later meets Angel Clare while working at Talbothays Dairy.",
+          "answer": "Tess of the d’Urbervilles",
+          "acceptableAnswers": [
+            "Tess of the d’Urbervilles",
+            "The Tess of the d’Urbervilles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tess of the d'Urbervilles was written by this author of The Mayor of Casterbridge and Far from the Madding Crowd.",
+          "answer": "Hardy",
+          "acceptableAnswers": [
+            "Hardy",
+            "The Hardy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The title character of this other Hardy novel is tricked into marrying Arabella Donn. In the second section of this novel, \"At Christminster,\" he falls in love with his cousin Sue Bridehead.",
+          "answer": "Jude the Obscure",
+          "acceptableAnswers": [
+            "Jude the Obscure",
+            "The Jude the Obscure"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After this novel's title character is raped by Alec, she gives birth to a son named Sorrow. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0cc91"
+    },
+    {
+      "id": "9f185a70-415a-4bfe-8bc9-6cc578e2c6ea",
+      "linkedTossupId": "ed4d697f-a54e-499f-9792-bc9761431373",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this character who awakes one morning to find himself \"in his bed, transformed into a monstrous vermin,\" usually said to be a giant insect.",
+          "answer": "Gregor",
+          "acceptableAnswers": [
+            "Gregor",
+            "either underlined name",
+            "The Gregor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gregor Samsa is the main character of this novella.",
+          "answer": "Metamorphosis",
+          "acceptableAnswers": [
+            "Metamorphosis",
+            "Die Verwandlung",
+            "The Metamorphosis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Metamorphosis was written by this Czech author who also wrote about Josef K. in The Trial.",
+          "answer": "Kafka",
+          "acceptableAnswers": [
+            "Kafka",
+            "The Kafka"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character is dismayed to discover that he no longer enjoys the taste of milk, but rather prefers rotten kitchen scraps, and he dies after his father throws an apple at his back. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9dbf"
+    },
+    {
+      "id": "f6f47686-f27d-48e1-b445-18dc581416fb",
+      "linkedTossupId": "b68f0c1e-9755-4114-a9c1-926b7ae20825",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this anthropologist who dispelled racist beliefs in \"The Races of Mankind,\" a collaboration with Gene Weltfish.",
+          "answer": "Benedict",
+          "acceptableAnswers": [
+            "Benedict",
+            "The Benedict"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other work by Benedict contrasts the western \"guilt\" culture with the \"shame\" culture of a foreign country.",
+          "answer": "Chrysanthemum and the Sword",
+          "acceptableAnswers": [
+            "Chrysanthemum and the Sword",
+            "The Chrysanthemum and the Sword"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Chrysanthemum and the Sword studies the culture of this country, which fought the U.S. in World War II. Takeo Doi, an anthropologist from this country, criticized Benedict's findings.",
+          "answer": "Japan",
+          "acceptableAnswers": [
+            "Japan",
+            "The Japan"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author used the \"restraint\" of the Pueblo and the \"abandon\" of Great Plains cultures to argue for cultural relativism in Patterns of Culture. For 10 points each--",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7d81"
+    }
+  ]
+}

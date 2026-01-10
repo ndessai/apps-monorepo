@@ -1,0 +1,1123 @@
+{
+  "packetId": "packet-028",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Fine Arts",
+    "Science",
+    "Literature",
+    "History",
+    "Philosophy",
+    "Social Science",
+    "Geography",
+    "Mythology",
+    "Human Body"
+  ],
+  "tossups": [
+    {
+      "id": "5e6b964a-167c-4be2-96a8-b1856c60d3e1",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "In a film with this title, an Arab garbageman eats a sandwich while his Black co-worker goes on a political rant. That scene revisits the opening titles, which proclaim that the film with this title was \"found in a dump.\" A 2011 film with this title built around conversations between two men played by Chris New and Tom Cullen is often compared to Before Sunrise. The director of a film with this title was unaware that his own screenplay adapted a Julio Cortázar short story. A scene of cannibalism and real animal slaughter ends that film with this title, whose best-known shot tracks an absurdly large traffic jam. A film with this title by the director of 45 Years and All of Us Strangers is about the aftermath of a one-night stand between Russell and Glen. For 10 points, a gay romance by Andrew Haigh (\"hay\") and a 1967 satire by Jean-Luc Godard are both titled for what two-day time period?",
+      "powerMarkPosition": 488,
+      "answer": "Weekend",
+      "acceptableAnswers": [
+        "Weekend",
+        "Week-end",
+        "the weekend"
+      ],
+      "source": "qbreader",
+      "sourceId": "694f300e81a87f0629b4ac54"
+    },
+    {
+      "id": "790bf690-32e4-4df4-b637-9967de80d1bf",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "Active optics avoids turbulence and melting in these devices. One type of these devices has a \"prime focus\" design and is named after Cassegrain. These devices have refracting and reflecting types whose mirrors can be 10 to 20 meters wide. Mauna Kea's highest peak is the site of the Keck one of these devices. The \"radio\" types of these devices often have parabolic \"dishes\". Kepler explained how they work, and Tycho Brahe observed planets without one. For 10 points, name these devices invented by Galileo that observe the stars.",
+      "powerMarkPosition": 251,
+      "answer": "telescope",
+      "acceptableAnswers": [
+        "telescope",
+        "The telescope"
+      ],
+      "source": "qbreader",
+      "sourceId": "647044202576885f91e620a2"
+    },
+    {
+      "id": "02be6188-e690-47a3-a5c6-18f75e3e6987",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "He restored most of Bramante's plan for St. Peter's Basilica as its major architect, and one of his works contains a supposed self-portrait of him in St. Bartholomew's flayed skin. He carved his name into Mary's sash in his Pietà [pee-ay-tah], and this artist of The Last Judgement sculpted a young, relaxed marble David. For 10 points, name this artist who painted The Creation of Adam on the Sistine Chapel ceiling.",
+      "powerMarkPosition": 223,
+      "answer": "Michelangelo",
+      "acceptableAnswers": [
+        "Michelangelo",
+        "The Michelangelo"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318acad6"
+    },
+    {
+      "id": "c6516abb-50dd-4d3c-9145-d9c0cbb7fca4",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "The addition of a 1,3-dithiane alters reactivity by inverting this value through the formation of a masked acyl anion. The synthetic technique that inverts this property was pioneered by Dieter Seebach and E.J. Corey, and is called umpolung [OOM-pohl-oonk]. When 1,3-dicarbonyl compounds are in environments low in this quantity, they prefer to exist in a cyclic enol form. The rate of an SN1 reaction shows a relative increase when this quality of the solvent is enhanced. This property is absent in tetrachloromethane, but is present in chloromethane. This property determines the migration rate of a sample when using chromatography. Bonds will have this property when the two atoms have a large difference in electronegativity. For 10 points, name this property found in molecules with an uneven distribution of charge.",
+      "powerMarkPosition": 500,
+      "answer": "polarity",
+      "acceptableAnswers": [
+        "polarity",
+        "dipole moment",
+        "The polarity"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531ffa61a9ba79f35713"
+    },
+    {
+      "id": "2fcadaca-46c6-4936-aa4e-b445e343d162",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "This character leaves Sorreledolce to pay taxes and discovers the A.I. Jane. Haunted by the skeleton of a giant from the Fantasy Game, he is transferred to Rose the Nose and Dink Meeker after he disobeys the orders of Bonzo Madrid, whom he kills. He suffers a mental breakdown after Mazer Rackham reveals that the MD Device from his \"final exam\" killed the buggers. This friend of Petra and Bean is the brother of Peter and Valentine. For 10 points, name this strategic prodigy who teaches that \"the enemy's gate is down\" to Battle School in a novel by Orson Scott Card.",
+      "powerMarkPosition": 246,
+      "answer": "Ender",
+      "acceptableAnswers": [
+        "Ender",
+        "The Ender"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b18b8"
+    },
+    {
+      "id": "0346189c-1194-4365-942d-c61ea5ae8aba",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "A law passed after this event provided restrictions on successive habeas corpus briefs and is commonly called AEDPA. Stephen Jones, the defense lawyer for one man involved in this incident, wrote the book Others Unknown that implicated a group from nearby Elohim City. For his complicity in this event, Michael Fortier was sentenced to 12 years in prison. A famous photo of its aftermath showed Baylee Almon being held by firefighter Charles Porter. One of its planners claimed it was in retaliation for the Ruby Ridge incident and the siege of Branch Davidians in Waco, Texas. For 10 points, name this act of domestic terrorism carried out by Terry Nichols and Timothy McVeigh in 1995 that saw the destruction of the Murrah Federal Building in the capital of the Panhandle state.",
+      "powerMarkPosition": 421,
+      "answer": "Oklahoma City bombing",
+      "acceptableAnswers": [
+        "Oklahoma City bombing",
+        "OKBOMB",
+        "accept equivalents for bombing",
+        "accept bombing of the Alfred P. Murray Federal Building before mention",
+        "The Oklahoma City bombing"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a4a1"
+    },
+    {
+      "id": "37b3a344-df42-4181-b8a7-85f298d91fa4",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "Jacques Maritain pointed to this man's treatment of the existence-essence distinction as the germ of a type of existentialism. This man argued that the existence of contingent things requires the existence of a necessary being. In his major work of philosophy, this author usually uses the construction \"Sed Contra,\" meaning \"On the Contrary,\" followed by \"Respondeo,\" meaning \"I Respond.\" This philosopher stopped writing after a mystical experience that led him to compare his thought to straw. This man's magnum opus included the quinque viae, or five proofs for the existence of God. A synthesis of the teachings of the Catholic Church with classical philosophy can be found in, for 10 points, what 13th century Dominican friar's Summa Theologica?",
+      "powerMarkPosition": 376,
+      "answer": "Aquinas",
+      "acceptableAnswers": [
+        "Aquinas",
+        "Thomas of Aquino",
+        "prompt on Thomas",
+        "The Aquinas"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae155"
+    },
+    {
+      "id": "f7701623-854b-4022-8437-6110f12ac6a1",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "Features of this type of situation include a negatively sloped average revenue curve with half the slope of the marginal revenue curve; equilibrium occurs when the marginal revenue equals the marginal costs. This is the only situation in which price discrimination can occur. Deadweight loss is one result of this situation which occurs when prices are set higher to maximize profits, leading to a decline in production. In this situation, the demand curve for a company is the same as the demand curve for the market, and a common example of this situation is public utilities. For 10 points, name this situation in which a product is entirely produced by one company.",
+      "powerMarkPosition": 275,
+      "answer": "monopoly",
+      "acceptableAnswers": [
+        "monopoly",
+        "The monopoly"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfefe3"
+    },
+    {
+      "id": "0ca763b3-6ca2-4d1b-8b93-9ef0d6cca00e",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "This mountain's unusual shape comes from the fact that it is a lava plug eroded by glaciers. Local tribes build their houses so that this mountain is visible from the door, because the god Ngai is said to live here. In 1888, the Hungarian explorer Count Teleki became the first European to attempt to climb this mountain, and also discovered nearby Lake Rudolf, now called Lake Turkana. This extinct stratovolcano dates to the opening of the nearby Great Rift Valley. The culture of the nearby Kikuyu tribe was described in a famous anthropology book about \"facing\" this mountain. For 10 points, name this second highest mountain in Africa, which shares its name with the home of Mombasa.",
+      "powerMarkPosition": 386,
+      "answer": "Kenya",
+      "acceptableAnswers": [
+        "Kenya",
+        "The Kenya"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df8012e66cc66ca571d12a"
+    },
+    {
+      "id": "5ed62f52-a1d4-4ec8-aee1-2d886c568f0a",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "1. This composer of Papillons twice tried to commit suicide; one attempt included throwing himself off a bridge into the Rhine. In one work, he captures the innocence of childhood in his Kinderszenen, which is better known as Scenes from Childhood. His more famous works include his five movement Rhenish Symphony and Carnaval. FTP, name this composer who was married to Clara.",
+      "powerMarkPosition": 248,
+      "answer": "Schumann",
+      "acceptableAnswers": [
+        "Schumann",
+        "The Schumann"
+      ],
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced8ce"
+    },
+    {
+      "id": "389232e1-531f-47da-8677-332f263865d4",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "George Peabody created a financial empire based from this city, which was the first American city to use gas streetlights. Benjamin Lundy published most of the issues of The Genius of Universal Emancipation in this city. Antero Pietila examined this city's history of housing discrimination in Not in My Neighborhood. In the mid-20th century, this city was dominated by the Democratic machine of Thomas D'Alesandro, Jr., the father of Nancy Pelosi. The convention of the Constitutional Union Party met in this city, which also hosted the presidential conventions of the Whig Party from 1844 to 1852 and the first six presidential conventions of the Democratic Party. It includes the neighborhoods of Locust Point and Fells Point, and it is home to the first Catholic cathedral in the United States, designed by Benjamin Latrobe. For 10 points, name this port city home to H. L. Mencken and the site that inspired \"The Star-Spangled Banner,\" Fort McHenry.",
+      "powerMarkPosition": 448,
+      "answer": "Baltimore",
+      "acceptableAnswers": [
+        "Baltimore",
+        "The Baltimore"
+      ],
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faae4d"
+    },
+    {
+      "id": "a0a2008e-5fcb-4070-af40-393924a087fe",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "In the essay \"Anti-Spengler,\" knowledge is compared to one of these objects named for Otto Neurath. Thomas Hobbes extended a puzzle involving one of these objects, a variant of which is the \"grandfather's axe.\" Demagogues and politicians dismiss a philosopher as useless in a metaphor named for these objects in the Republic. That metaphor compares a city-state to one of these objects \"of State.\" Plutarch described a thought experiment about identity in which parts of one of these objects decay. For 10 points, name this type of object, one of which belonging to Theseus has its planks, rudders, and sails replaced.",
+      "powerMarkPosition": 315,
+      "answer": "ship",
+      "acceptableAnswers": [
+        "ship",
+        "boats",
+        "rafts",
+        "accept Ship of Theseus",
+        "Ship of State",
+        "Neurath’s boat",
+        "The ship"
+      ],
+      "source": "qbreader",
+      "sourceId": "6727fb430a73c65be67f773a"
+    },
+    {
+      "id": "24e569b8-3aa6-4d6d-bb06-ecdb7a209b4c",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "Apollodorus claimed that this figure was exiled in a case arbited by Neoptolemus, who aspired to control Cephalonia. This figure traveled to Elis, where he received a mixing bowl depicting the story of Trophonius, and later married the queen of the Thesprotians in a lost epic named for his son. This figure's grandfather named him in reference to the many men and women said grandfather had angered. Tiresias instructed this figure to make a sacrifice after traveling until men believed he was holding a \"winnowing fan.\" This figure won a footrace to marry the daughter of Icarius. Contrary to a prophecy predicting his peaceful death, this \"complicated\" man was killed with a poisoned stingray spear by his own son. For 10 points, name this Homeric hero whose son by Circe, Telegonus, married his wife Penelope after his death.",
+      "powerMarkPosition": 504,
+      "answer": "Odysseus",
+      "acceptableAnswers": [
+        "Odysseus",
+        "Ulysses",
+        "The Odysseus"
+      ],
+      "source": "qbreader",
+      "sourceId": "68a26a3c2371a424b101c97d"
+    },
+    {
+      "id": "bd2c46f0-e10d-4237-b788-9a154e0c7760",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "Decline at the apex of these constructs can result in mesopredator release, and proposed models for the longest of these structures include phytoplankton. The ten percent rule explains why these pathways rarely have more than five trophic levels. Primary producers form the base of these pathways, whose links are connected by decomposers. For 10 points, name these lists of organisms that show the transfer of matter and energy from plants to herbivores to carnivores.",
+      "powerMarkPosition": 230,
+      "answer": "food chain",
+      "acceptableAnswers": [
+        "food chain",
+        "The food chain"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc00513a"
+    },
+    {
+      "id": "8eff27e4-7ba3-4063-8151-f3dd12109e82",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "Troops from this group's capital, Ulundi, were defeated by the 24th Foot at Rorke's Drift after their victory at Isandlwana. Massacred at Blood River by the Boers, this tribe's impi warriors used the assegai stabbing-spear, the buffalo horns formation, and football-shaped leather shields in their 1879 war against Britain. Notably led by Shaka, for 10 points, Shaka was an early leader of what kingdom in modern-day South Africa?",
+      "powerMarkPosition": 323,
+      "answer": "Zulu",
+      "acceptableAnswers": [
+        "Zulu",
+        "Zulu Kingdom",
+        "Zululand",
+        "amaZulu",
+        "do not accept “isiZulu”",
+        "their language",
+        "The Zulu"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4401f"
+    },
+    {
+      "id": "47966eba-dd5d-42c5-9dac-07fa8de66884",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for blood vessel structure. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this aorta-related structure.",
+      "powerMarkPosition": 80,
+      "answer": "Aorta",
+      "acceptableAnswers": [
+        "aorta",
+        "Aorta"
+      ],
+      "explanation": "The aorta is a key component of the Cardiovascular system, involved in blood vessel structure.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "4c8fa9d4-4c32-4ec0-a28d-b3ad8ee54e07",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for sympathetic vs parasympathetic. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this cranial nerve-related structure.",
+      "powerMarkPosition": 84,
+      "answer": "Cranial nerve",
+      "acceptableAnswers": [
+        "cranial nerve",
+        "Cranial nerve"
+      ],
+      "explanation": "The cranial nerve is a key component of the Nervous system, involved in sympathetic vs parasympathetic.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "810e26be-907d-479b-b08a-1f6a585281e8",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for anterior pituitary hormones. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this hypothalamus-related structure.",
+      "powerMarkPosition": 83,
+      "answer": "Hypothalamus",
+      "acceptableAnswers": [
+        "hypothalamus",
+        "Hypothalamus"
+      ],
+      "explanation": "The hypothalamus is a key component of the Endocrine system, involved in anterior pituitary hormones.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "50537a89-768b-45b0-8712-7eec3ad6ef1a",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "In this conflict, William Eaton and the allies of Hamet Karmanli led a ground assault against Derne. During it, Edward Preble was replaced by Samuel Barron as commander of the U.S. Navy which was financed by a special Mediteranean Fund. For 10 points, Stephen Decatur gained fame for destroying the captured frigate Philadelphia during what 1801 to 1805 conflict, in which the United States attempted to gain freedom of the seas against North African pirate states?",
+      "powerMarkPosition": 100,
+      "answer": "Tripolitan",
+      "acceptableAnswers": [
+        "Tripolitan",
+        "Barbary War",
+        "The Tripolitan"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a98411af"
+    },
+    {
+      "id": "0009c6ef-2b49-4cbc-b578-55803bb68a12",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "text": "A poet from this modern-day country wrote about \"singing in the Wilderness\" with \"a jug of wine, a loaf of bread, and Thou\" in a collection of quatrains called the Rubaiyat. Marjane Satrapi depicted her childhood in this country in the graphic novel Persepolis, which followed her family's move to Austria following this country's Islamic Revolution. For 10 points, in what modern-day country did Omar Khayyam write poetry in Persian?",
+      "powerMarkPosition": 249,
+      "answer": "Iran",
+      "acceptableAnswers": [
+        "Iran",
+        "The Iran"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef79cbbbb69a5263ce8b"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "bc941125-0852-41a2-beba-dba286961ee2",
+      "linkedTossupId": "5e6b964a-167c-4be2-96a8-b1856c60d3e1",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this 1920 opera based on the Georges Rodenbach novel Bruges-la-Morte. Its title refers to the city of Bruges, and its libretto was written by its composer and his father under the pseudonym \"Paul Schott.\"",
+          "answer": "Tote Stadt",
+          "acceptableAnswers": [
+            "Tote Stadt",
+            "The Dead City",
+            "close translational equivalents",
+            "The Tote Stadt"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Jewish-Austro-Hungarian composer of Die Tote Stadt collaborated on the libretto with his father Julius. Before moving to the United States, he was the first composer commissioned to write a left-hand piano concerto for Paul Wittgenstein.",
+          "answer": "Korngold",
+          "acceptableAnswers": [
+            "Korngold",
+            "The Korngold"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Erich Wolfgang Korngold was one of the first major composers of music to accompany this medium, along with Max Steiner and Alfred Newman. Korngold's scores for this medium include The Adventures of Robin Hood and Anthony Adverse.",
+          "answer": "film",
+          "acceptableAnswers": [
+            "film",
+            "any answers suggesting music for films",
+            "movies",
+            "The film"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this opera, \"Glück das mir verblieb,\" also known as the \"Lute Song,\" is a duet sung by Marietta and Paul, who believes that Marietta is a reincarnation of his wife Marie. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "639f76b696d8b354e96b5ac7"
+    },
+    {
+      "id": "cf8d53b6-a1de-42a2-b65c-84ba1a9c38a5",
+      "linkedTossupId": "790bf690-32e4-4df4-b637-9967de80d1bf",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this neutral two-body system. ALPHA's 2016 measurements of this system's 1S-2S transition found its energy to be identical to the Lyman alpha transition.",
+          "answer": "antihydrogen",
+          "acceptableAnswers": [
+            "antihydrogen",
+            "The antihydrogen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Charles Anderson discovered this antimatter counterpart to the electron as a result of finding ion trails that exactly mirrored those of an electron in a cloud chamber.",
+          "answer": "positron",
+          "acceptableAnswers": [
+            "positron",
+            "The positron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Antimatter was originally conceived of as one of these entities found in the negative energy Dirac sea. In solid-state physics these entities are treated as quasiparticles representing the absence of an electron.",
+          "answer": "hole",
+          "acceptableAnswers": [
+            "hole",
+            "The hole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The ALPHA experiment studies this specific system, which it produces by mixing particles contained within Penning traps. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f2c8e7e2ddc83d7b753647"
+    },
+    {
+      "id": "7d60c42c-0201-4ec9-92f3-d586f5a1cdb1",
+      "linkedTossupId": "02be6188-e690-47a3-a5c6-18f75e3e6987",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this composer of the German Requiem and Hungarian Dances.",
+          "answer": "Brahms",
+          "acceptableAnswers": [
+            "Brahms",
+            "The Brahms"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Brahms wrote the \"Tragic\" and the \"Academic Festival\" ones of this type of piece, an instrumental opening to another composition.",
+          "answer": "overture",
+          "acceptableAnswers": [
+            "overture",
+            "The overture"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Brahms wrote a well-known one of these compositions, a soothing tune played to children to help them sleep.",
+          "answer": "lullaby",
+          "acceptableAnswers": [
+            "lullaby",
+            "Brahm’s Lullaby",
+            "Wiegenlied",
+            "The lullaby"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His first symphony is often called \"Beethoven's Tenth.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43e81"
+    },
+    {
+      "id": "98c2c3e4-e230-480e-b1af-093f72c7cacb",
+      "linkedTossupId": "c6516abb-50dd-4d3c-9145-d9c0cbb7fca4",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this process often described using a square-root relation.",
+          "answer": "effusion",
+          "acceptableAnswers": [
+            "effusion",
+            "The effusion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is that relation, which states that the rate of effusion of a gas is inversely proportional to the square root of the molar mass of the gas. A similar law can be used for diffusion.",
+          "answer": "Graham",
+          "acceptableAnswers": [
+            "Graham",
+            "The Graham"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This law states that the diffusion flux is equal to the negative product of the diffusivity and gradient of the material's concentration.",
+          "answer": "Fick",
+          "acceptableAnswers": [
+            "Fick",
+            "The Fick"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "4. In this process, gas escapes through a small hole into a vacuum. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4363a"
+    },
+    {
+      "id": "e03fe870-2aa0-41b2-b472-aa18ce06a8eb",
+      "linkedTossupId": "2fcadaca-46c6-4936-aa4e-b445e343d162",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this author of \"A Poem of Changgan.\" This poet of \"Drinking Alone by Moonlight\" allegedly drowned while trying to embrace the moon's reflection.",
+          "answer": "Li",
+          "acceptableAnswers": [
+            "Li",
+            "Li Po",
+            "Li Bo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Li Bai was a poet during this dynasty. The scholar Hengtang Tuishi created an anthology of poems from this dynasty.",
+          "answer": "Tang",
+          "acceptableAnswers": [
+            "Tang",
+            "Tang empire",
+            "The Tang"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This poet and friend of Li Bai has the most accredited works in the collection Three Hundred Tang Poems. He describes the conscriptions of an expansion-obsessed emperor in the poem \"Song of the Wagons.\"",
+          "answer": "Du",
+          "acceptableAnswers": [
+            "Du"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One work by this writer describes the narrator seeing her future husband riding a \"bamboo horse\" and \"throwing green plums.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a4d585770cd7127f7dab2d"
+    },
+    {
+      "id": "351a8f07-d706-4c9c-991b-c65405a8fa00",
+      "linkedTossupId": "0346189c-1194-4365-942d-c61ea5ae8aba",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this form of mob violence. Women would sometimes throw pillows out their windows in preparation for this process.",
+          "answer": "tar",
+          "acceptableAnswers": [
+            "tar",
+            "The tar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "17 Wobblies were tarred and feathered in Tulsa in 1917. Four years later, this Tulsa neighborhood, nicknamed \"Black Wall Street,\" was destroyed in a race massacre.",
+          "answer": "Greenwood",
+          "acceptableAnswers": [
+            "Greenwood",
+            "The Greenwood"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Several Americans of this ethnicity were tarred and feathered during World War I. Also during the war, sauerkraut was renamed \"liberty cabbage\" due to prejudice against members of this ethnic group.",
+          "answer": "German",
+          "acceptableAnswers": [
+            "German",
+            "The German"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This process was sometimes known as a Yankee Jacket, and it might be done in conjunction with applying excrement called \"Hillsborough Paint.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed60f71539231f571edcd0"
+    },
+    {
+      "id": "85440b52-872d-4d94-9928-afc64232c282",
+      "linkedTossupId": "37b3a344-df42-4181-b8a7-85f298d91fa4",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Several candles are traditionally placed around the house in this \"festival of lights\", which celebrates the defeat of Ravana and the birth of Lakshmi.",
+          "answer": "Diwali",
+          "acceptableAnswers": [
+            "Diwali",
+            "The Diwali"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bhang, a form of cannabis, is traditionally mixed into drinks during this \"festival of colors\", in which Hindus throw colorful dry powder on one another.",
+          "answer": "Holi",
+          "acceptableAnswers": [
+            "Holi",
+            "The Holi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This nine-day, Durga-oriented holiday is usually celebrated in October and involves the worship of a different goddess each day. In South India it is called Golu, and observants create displays of dolls and figurines on steps in their houses.",
+          "answer": "Navaratri",
+          "acceptableAnswers": [
+            "Navaratri",
+            "The Navaratri"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these Hindu religious festivals, for ten points each:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a5977"
+    },
+    {
+      "id": "a40d7a9f-c8e0-457c-8d03-590b3a86b0bf",
+      "linkedTossupId": "f7701623-854b-4022-8437-6110f12ac6a1",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Czech psychologist who was assisted by Wolfgang Kohler and Kurt Koffka in his studies of the phi phenomenon.",
+          "answer": "Wertheimer",
+          "acceptableAnswers": [
+            "Wertheimer",
+            "The Wertheimer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Wertheimer co-founded this holistic German school of psychology which also studied concepts such as reification and advocated the principle of prägnanz.",
+          "answer": "Gestalt",
+          "acceptableAnswers": [
+            "Gestalt",
+            "The Gestalt"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This American Gestalt psychologist studied how subjects were influenced by confederates incorrectly judging the lengths of lines in his experiments on conformity.",
+          "answer": "Asch",
+          "acceptableAnswers": [
+            "Asch",
+            "The Asch"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This psychologist and student of Christian von Ehrenfels founded the journal Psychological Research. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "657fd7d6de6df0163bbe3ac1"
+    },
+    {
+      "id": "024719c4-6d4a-4615-a65d-bb04d519e5b5",
+      "linkedTossupId": "0ca763b3-6ca2-4d1b-8b93-9ef0d6cca00e",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "In this country, many residents celebrate Christmas in July around Kruger National Park, which coincides with Nelson Mandela International Day.",
+          "answer": "South Africa",
+          "acceptableAnswers": [
+            "South Africa",
+            "The South Africa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A dictator of this country moved Christmas to June because it was the more \"authentic\" date. Kimbanguists in this country, who often speak Lingala, celebrate Christmas on May 25.",
+          "answer": "Democratic Republic of the Congo",
+          "acceptableAnswers": [
+            "Democratic Republic of the Congo",
+            "DRC",
+            "The Democratic Republic of the Congo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This town in the Lasta district, considered a \"New Jerusalem\" for its rock-cut churches built in the 12th century, attracts Christmas celebrants on January 7th to the Church of Saint George.",
+          "answer": "Lalibela",
+          "acceptableAnswers": [
+            "Lalibela",
+            "The Lalibela"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about attempts in African countries to move Christmas away from December 25th. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6797c22c6d78eee804a379d9"
+    },
+    {
+      "id": "d790f739-8654-42d9-9c16-a25642c28d06",
+      "linkedTossupId": "5ed62f52-a1d4-4ec8-aee1-2d886c568f0a",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this operatic character who kills Fafnir and wakes Brunnhilde after crossing a circle of magical fire.",
+          "answer": "Siegfried",
+          "acceptableAnswers": [
+            "Siegfried",
+            "The Siegfried"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Siegfried is the third opera in this operatic cycle, which ends with the \"twilight of the gods\" in Gotterdammerung [GOT-ER-DAM-ER-UNG]. This cycle also features \"The Ride of the Valkyries\" in Die Walkure [DEE VAL-CURE].",
+          "answer": "Ring",
+          "acceptableAnswers": [
+            "Ring",
+            "The Ring"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer of The Ring Cycle built the Bayreuth Festival Theater for the premier of the cycle. A character sings the \"Liebestod\" after the death of a knight in this composer's Tristan und Isolde [I-SOLD-EE].",
+          "answer": "Wagner",
+          "acceptableAnswers": [
+            "Wagner",
+            "The Wagner"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character orders the dwarf Mime [MEEM] to reforge the sword Nothung, and learns to feel fear after seeing a woman for the first time. For 10 points each--",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7d78"
+    },
+    {
+      "id": "3820c4f3-bcfa-4e51-9eea-2b565897d2fb",
+      "linkedTossupId": "389232e1-531f-47da-8677-332f263865d4",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this Italian statesman who then formed a government under Victor Emmanuel II.",
+          "answer": "Cavour",
+          "acceptableAnswers": [
+            "Cavour",
+            "The Cavour"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cavour was one of the primary voices of this movement, which advocated for the unification of Italy and sought to build a national consciousness.",
+          "answer": "Risorgimento",
+          "acceptableAnswers": [
+            "Risorgimento",
+            "The Risorgimento"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The cause of the Risorgimento was advanced in 1859 when Franco-Piedmontese armies forced the signing of this treaty after the Battle of Solferino. This treaty recognized the annexation of Lombardy to Piedmont and the formation of an Italian confederation and was formally ratified at Zurich.",
+          "answer": "Villafranca",
+          "acceptableAnswers": [
+            "Villafranca",
+            "Treaty",
+            "Peace",
+            "The Villafranca"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man engineered an alliance between the center right and center left that he called the connubio, or \"marriage\" to force the resignation of his rival Massimo d'Azeglio. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faa658"
+    },
+    {
+      "id": "1794b03b-fcce-4ff7-89fd-e7bf64d23267",
+      "linkedTossupId": "a0a2008e-5fcb-4070-af40-393924a087fe",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this event which defined the ancient Egyptian season of Akhet. The other two seasons were organized as the growth season and the harvest season.",
+          "answer": "Nile flood",
+          "acceptableAnswers": [
+            "Nile flood",
+            "flood",
+            "Nile River",
+            "The Nile flood"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This term denotes time inserted into a calendar, often in order for the calendar to follow some sort of natural process, like moon phases or the seasons.",
+          "answer": "intercalary",
+          "acceptableAnswers": [
+            "intercalary",
+            "intercalation",
+            "embolism",
+            "epagomenal",
+            "The intercalary"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rather than using base 10 for counting, ancient Egyptians tended to use this number base. This number base likely inspired a system expanded upon by the Greek scholar Hipparchus.",
+          "answer": "12",
+          "acceptableAnswers": [
+            "12"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This event is sometimes known as the Martyr's Finger in Coptic tradition. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65d14218270be3aedf05a2dd"
+    },
+    {
+      "id": "658f2491-e825-4ec3-b608-570314481acd",
+      "linkedTossupId": "24e569b8-3aa6-4d6d-bb06-ecdb7a209b4c",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Roman god whose temple doors were open in times of war and closed in times of peace.",
+          "answer": "Janus",
+          "acceptableAnswers": [
+            "Janus",
+            "The Janus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The name of this early Roman god was often used as an epithet for Janus. He formed the Capitoline Triad with Mars and Jupiter and was the namesake of a hill of Rome.",
+          "answer": "Quirinus",
+          "acceptableAnswers": [
+            "Quirinus",
+            "The Quirinus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Janus saved the city when this woman betrayed Rome to Titus Tatius for jewelry. Instead, she was crushed to death upon their shields and was thrown off the rock bearing her name.",
+          "answer": "Tarpeia",
+          "acceptableAnswers": [
+            "Tarpeia",
+            "The Tarpeia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Saturn granted this deity the ability to see the past and the future. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df83920c3a38102cd75860"
+    },
+    {
+      "id": "e4495137-278f-4b61-a9bf-ac4667b12350",
+      "linkedTossupId": "bd2c46f0-e10d-4237-b788-9a154e0c7760",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this theory of physics. It was published in 1915, a decade after a related theory described as \"special.\"",
+          "answer": "general relativity",
+          "acceptableAnswers": [
+            "general relativity",
+            "The general relativity"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This German scientist developed the theories of special and general relativity. One consequence of special relativity is the equivalence of mass and energy, which this scientist discovered followed the equation \"e equals m c squared.\"",
+          "answer": "Einstein",
+          "acceptableAnswers": [
+            "Einstein",
+            "The Einstein"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the possible solutions of the Einstein field equations predicts this type of structure, which is also called an Einstein-Rosen bridge. These hypothetical \"shortcuts\" in spacetime have inspired countless science-fiction writers.",
+          "answer": "wormhole",
+          "acceptableAnswers": [
+            "wormhole",
+            "The wormhole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This theory includes a set of ten field equations, named for their developer, that explain the geometry of gravitation and the curvature of spacetime. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62f07cea5295951080e2cc80"
+    },
+    {
+      "id": "b33c6744-3eaa-4d74-be76-2d90e17a29e2",
+      "linkedTossupId": "8eff27e4-7ba3-4063-8151-f3dd12109e82",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this microstate on the west bank of the Tiber River.",
+          "answer": "Vatican",
+          "acceptableAnswers": [
+            "Vatican",
+            "The Vatican"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Vatican is led by this official, also the bishop of Rome and head of the Catholic Church",
+          "answer": "pope",
+          "acceptableAnswers": [
+            "pope",
+            "The pope"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The current pope is this man, born Joseph Ratzinger, the first German to hold the office since 1057.",
+          "answer": "Benedict XVI",
+          "acceptableAnswers": [
+            "Benedict XVI",
+            "Benedict",
+            "The Benedict XVI"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Its sovereignty was established by the Lateran Treaty of 1929. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec658c"
+    },
+    {
+      "id": "d6fb142a-de20-4fd4-896b-e193ccde3c87",
+      "linkedTossupId": "47966eba-dd5d-42c5-9dac-07fa8de66884",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with joint movements.",
+          "answer": "synovial",
+          "acceptableAnswers": [
+            "synovial"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the synovial in the musculoskeletal system?",
+          "answer": "Joint movements",
+          "acceptableAnswers": [
+            "Joint movements"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to joint movements.",
+          "answer": "cartilage",
+          "acceptableAnswers": [
+            "cartilage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "6ddacabd-8a73-4fa9-aecd-24d5ff6f83f7",
+      "linkedTossupId": "4c8fa9d4-4c32-4ec0-a28d-b3ad8ee54e07",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with thymus gland.",
+          "answer": "lymph",
+          "acceptableAnswers": [
+            "lymph"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the lymph in the immune system?",
+          "answer": "Thymus gland",
+          "acceptableAnswers": [
+            "Thymus gland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to thymus gland.",
+          "answer": "lymph node",
+          "acceptableAnswers": [
+            "lymph node"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a6dee19d-02c9-4548-9fb4-f819184caa05",
+      "linkedTossupId": "810e26be-907d-479b-b08a-1f6a585281e8",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with physical barriers.",
+          "answer": "phagocyte",
+          "acceptableAnswers": [
+            "phagocyte"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the phagocyte in the immune system?",
+          "answer": "Physical barriers",
+          "acceptableAnswers": [
+            "Physical barriers"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to physical barriers.",
+          "answer": "macrophage",
+          "acceptableAnswers": [
+            "macrophage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a81cb9ad-2f3e-4507-8284-615110a4dc73",
+      "linkedTossupId": "50537a89-768b-45b0-8712-7eec3ad6ef1a",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "During the worst days of the Battle of France in 1940, Churchill remarked that, \"if the British Empire and its Commonwealth last for a thousand years, men will still say that this was .\"",
+          "answer": "their finest hour",
+          "acceptableAnswers": [
+            "their finest hour",
+            "The their finest hour"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At a speech in Missouri in 1946, Churchill quipped that one of these structures has \"descended across the Continent\", from \"Stettin in the Baltic to Trieste in the Adriatic.\" This barrier divided NATO from the Warsaw Pact.",
+          "answer": "iron curtain",
+          "acceptableAnswers": [
+            "iron curtain",
+            "The iron curtain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the same speech, Churchill declared that one of these bonds exists between the British Commonwealth and the United States. This two-word term is colloquially used to refer to the close ties between those two countries.",
+          "answer": "special relationship",
+          "acceptableAnswers": [
+            "special relationship",
+            "The special relationship"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Fill in the blanks in these Winston Churchill speeches, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d21f"
+    },
+    {
+      "id": "8cdd0332-7be2-4a02-9694-711901b9aa5e",
+      "linkedTossupId": "0009c6ef-2b49-4cbc-b578-55803bb68a12",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This Upton Sinclair work with Jurgis Rudkus as its protagonist revealed the horrors of the late-19 th century Chicago meatpacking industry and helped lead to the 1906 Meat Inspection Act.",
+          "answer": "Jungle",
+          "acceptableAnswers": [
+            "Jungle",
+            "The Jungle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This poet used the terms \"Freight Handler to the Nation\" and \"City of the Big Shoulders\" to describe the city in his poem \"Chicago\".",
+          "answer": "Sandburg",
+          "acceptableAnswers": [
+            "Sandburg",
+            "The Sandburg"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chicago's areas of extreme poverty are detailed in this Richard Wright novel in which Bigger Thomas is sentenced to death for murder.",
+          "answer": "Native Son",
+          "acceptableAnswers": [
+            "Native Son",
+            "The Native Son"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about literary works involving the city of Chicago, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b886"
+    }
+  ]
+}

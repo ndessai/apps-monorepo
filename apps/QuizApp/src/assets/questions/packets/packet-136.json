@@ -1,0 +1,1124 @@
+{
+  "packetId": "packet-136",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Philosophy",
+    "History",
+    "Literature",
+    "Geography",
+    "Human Body",
+    "Fine Arts",
+    "Mythology",
+    "Science"
+  ],
+  "tossups": [
+    {
+      "id": "21f4bee4-d2f1-4bc4-8730-fe38d607195d",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "He fathered Rti with Aramati, which identifies this god with Dyaus Pitar and therefore Jupiter and Zeus. His messenger Sraosha lives in a thousand-pillared house and must be present at all rituals, and Vohu Manah is among the other amesha spentas who aid his work. He is variously called the creator god or one of the twin sons of Zurvan. For 10 points, name this patron of the good who combats Ahriman in Zoroastrianism.",
+      "powerMarkPosition": 264,
+      "answer": "Ahura Mazda",
+      "acceptableAnswers": [
+        "Ahura Mazda",
+        "Spenta Mainyu before “spentas” is read",
+        "Oromazes",
+        "Ormuzd",
+        "The Ahura Mazda"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9840ee4"
+    },
+    {
+      "id": "8cf971be-cc22-4f3b-9b87-2894c064bd61",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "Three years after this ruler's death, King Alboin of the Lombards successfully invaded most of this ruler's territory that had been conquered in a war that included the Battle of Mons Lactarius. This ruler condemned the Three Chapters at his Second Council of Constantinople. After rival chariot factions who separated into the Blues and the Greens rioted in this ruler's capital city, he chose Isidore of Miletus and Anthemius of Tralles to rebuild a structure that would eventually be turned into a mosque in 1453. This ruler who financed the building of the Hagia Sophia was married to the courtesan Theodora. For 10 points, name this Byzantine Emperor famous for his law code.",
+      "powerMarkPosition": 348,
+      "answer": "Justinian",
+      "acceptableAnswers": [
+        "Justinian",
+        "The Justinian"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31d2b"
+    },
+    {
+      "id": "fcf52098-92ae-4659-b3d9-cde5e2689740",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "In this book, the narrator concedes that she met a white guy from South Dakota who passes her \"test.\" That narrator's first daughter found out that it would not be fun to do something until she was good at it after being forced to practice violin three hours a day. One character, Jed, is a Jewish professor of law at Yale, and the narrator's second daughter Lulu easily \"flies into a rage.\" The mother calls her children garbage at a dinner party and tries to get away with it by calling it a \"Chinese immigrant thing.\" For 10 points, name this book by Amy Chua about Asian parenting.",
+      "powerMarkPosition": 280,
+      "answer": "Battle Hymn of the Tiger Mother",
+      "acceptableAnswers": [
+        "Battle Hymn of the Tiger Mother",
+        "The Battle Hymn of the Tiger Mother"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a967"
+    },
+    {
+      "id": "5e233fc7-95e9-4916-88be-756c7cf24032",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "The Hadhramat is the largest district in this nation, and it contains the southern end of the arid Tihamah. This nation has over two hundred islands including Socotra [soh-KOH-truh]. The Bab-el-Mandeb straight sits near a port town in this nation in which the USS Cole was attacked. Saudi Arabia's Rub-al-Khali stretches south into this nation and its neighboring Oman. Also including the port town of Aden, For 10 points, name this country on the Arabian Peninsula with capital at Sana'a [sah-NAH].",
+      "powerMarkPosition": 182,
+      "answer": "Yemen",
+      "acceptableAnswers": [
+        "Yemen",
+        "The Yemen"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636eee63"
+    },
+    {
+      "id": "1af9b415-d092-491c-8794-07f09fc938d5",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "In one novel, this character makes a song out of a scold made by his Aunt Dante, rhyming \"Apologise, pull out his eyes/pull out his eyes, apologise.\" In a different novel, this character asserts that Shakespeare played the ghost of King Hamlet for which his roommate Buck Mulligan mocks him. Back in that earlier novel, this character is scared out of a fondness for drinking and sleeping with prostitutes by a fiery Catholic sermon by Father Arnall. Befriended at the end of Ulysses by Leopold Bloom is, for 10 points, what protagonist of A Portrait of the Artist as a Young Man, whose last name is the same as the builder of the Labyrinth?",
+      "powerMarkPosition": 291,
+      "answer": "Dedalus",
+      "acceptableAnswers": [
+        "Dedalus",
+        "The Dedalus"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0cac6"
+    },
+    {
+      "id": "a888d887-b045-478e-8f93-dba5054cfdf1",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for nutrient absorption. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this duodenum-related structure.",
+      "powerMarkPosition": 71,
+      "answer": "Duodenum",
+      "acceptableAnswers": [
+        "duodenum",
+        "Duodenum"
+      ],
+      "explanation": "The duodenum is a key component of the Digestive system, involved in nutrient absorption.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ddecd7bc-cf98-4ba8-a258-4abb5bffa323",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "A series of men with umbrellas are aligned in this artist's Artists Sketching in the White Mountains, while a man gazes up and to the left while holding his straw hat in one hand and a scythe under his other arm in his Millet-esque painting The Song of the Lark. This man created a series of sketches of a battle for Harper's Weekly that features a panel labeled \"McClellan to the Rescue,\" after having earlier recorded that general in his coverage of the Peninsular Campaign. Another of his paintings shows two men in pith helmets taking readings from a sextant and is entitled Eight Bells. He depicted a series of boys out for a sail on a cloudy day in one of his paintings, while another of his works depicts a black man stranded in shark infested waters. For 10 points, name this American painter of Breezing Up and The Gulf Stream.",
+      "powerMarkPosition": 476,
+      "answer": "Homer",
+      "acceptableAnswers": [
+        "Homer",
+        "The Homer"
+      ],
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e6e7c"
+    },
+    {
+      "id": "6e140d6f-5f79-472e-8d30-d1a3a6ee7e3d",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "This figure got into a fight after he cut down coconuts in Cockroach's yard. A dwarf that brought rain was killed after this figure hit him too hard. This god tricked Tiger and then tied him to a fruit tree, where he was killed by a hunter. This god attempted to catch four creatures including Onini the Python, in order to gain all the world's stories from Nyame. This god's plan to hide the world's wisdom inside a calabash gourd was foiled by Ntikuma and led to wisdom being spread to all of mankind. For 10 points, name this Ashanti trickster god who is often depicted as a spider.",
+      "powerMarkPosition": 293,
+      "answer": "Anansi",
+      "acceptableAnswers": [
+        "Anansi",
+        "The Anansi"
+      ],
+      "source": "qbreader",
+      "sourceId": "6884697d641a9dc975af85f6"
+    },
+    {
+      "id": "a227d2e9-fbde-4ebb-ac68-7b10e52dac32",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "Instances of this property that were measured by Pan Jianwei with beta-barium borate crystals are described by graph states with up to 12 nodes. When this property is \"distillable,\" it can be extracted from a set of identical objects that are then replaced with objects that maximally have this property. Objects with this property are distributed before engaging in superdense coding. A state has this property if and only if its Schmidt rank exceeds one. Measuring the spin of particles with this property yields results that are at odds with intuition, according to the EPR paradox. This property's presence between qubits (\"Q-bits\") is key to the operation of quantum computers. For 10 points, name this correlation between quantum states, dismissed by Einstein as \"spooky action at a distance.\"",
+      "powerMarkPosition": 304,
+      "answer": "entanglement",
+      "acceptableAnswers": [
+        "entanglement",
+        "word forms like entangled",
+        "The entanglement"
+      ],
+      "source": "qbreader",
+      "sourceId": "6326bf0e692d593d1d7a88d0"
+    },
+    {
+      "id": "8157c6d9-a187-4a2a-a7f7-cc159cf1d5fe",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "In Plutarch's Parallel Lives, this man is paired with Lysander. During his time as governor of Cilicia, this statesman became the first magistrate to meet a Parthian ambassador. In recognition for his service during the Social War, this general was awarded a Grass Crown, the highest military honor. This general won victories at Chaeronea (kah-ruh-NAY-uh) and Orchomenus against Archelaus (ar-kuh-LAY-us) during the First Mithridatic War. After hearing of the death of Lucius Cornelius Cinna, this man sailed back to Italy and fought the Battle of the Colline Gate. After Publius Sulpicius Rufus stripped this leader of command, he became the first to march troops across the city of Rome's boundaries. For 10 points, name this Roman dictator, the rival of Gaius Marius.",
+      "powerMarkPosition": 299,
+      "answer": "Sulla",
+      "acceptableAnswers": [
+        "Sulla",
+        "The Sulla"
+      ],
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490be0d"
+    },
+    {
+      "id": "2e1c3cd1-1732-465c-9798-9dd8c7dd4af4",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "In one of this man's works, the salute to a Brazilian boat summons the title vampiric creature, which the protagonist attempts to kill by burning down his house, but kills himself after failing to do so. In addition to Le Horla, this man also created the character Jeanne de Lamare in his novel Une Vie, as well as the journalist Georges Duroy. Luis Bunuel adopted this man's novel about infidelity and the struggle between two brothers, Pierre and Jean, but he is better known for his short stories, including one about a fat prostitute stopped at the German border entitled Ball of Fat. Also known for the novel Bel-Ami, for 10 points, identify this French author, best remembered today for his story of Mathilde Loisel and a misplaced piece of fake jewelry, The Necklace.",
+      "powerMarkPosition": 344,
+      "answer": "Maupassant",
+      "acceptableAnswers": [
+        "Maupassant",
+        "The Maupassant"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9dbc8f282ed3d4313f"
+    },
+    {
+      "id": "6bc32b51-6d2c-43e6-9e7e-33ccde667733",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "The Cave of the Winds and Goat Island can be found near this landmark. This landmark gives its name to two cities, one in the US and one in Canada, which are northwest of Buffalo. Tourists can ride the Maid of the Mist at this place, which thrill-seekers have attempted to traverse in barrels. Horseshoe Falls and American Falls make up, for 10 points, what giant waterfall complex in Western New York?",
+      "powerMarkPosition": 213,
+      "answer": "Niagara Falls",
+      "acceptableAnswers": [
+        "Niagara Falls",
+        "The Niagara Falls"
+      ],
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ed26"
+    },
+    {
+      "id": "5427fc42-c8b2-4f14-9506-b7f5702e98bd",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "Some examples of these compounds are produced in reactions fueled by Ziegler-Natta catalysts. Thermoplastics are this type of compound, which may be created in step-growth or chain-growth methods. Biological examples of these molecules include cellulose, starch, and other polysaccharides. Nylon and PVC are other examples of, for ten points, what kind of large molecule that is made up of repeating examples of a smaller molecule called a monomer?",
+      "powerMarkPosition": 174,
+      "answer": "polymer",
+      "acceptableAnswers": [
+        "polymer",
+        "The polymer"
+      ],
+      "source": "qbreader",
+      "sourceId": "6837af69278db02eb79f1e67"
+    },
+    {
+      "id": "d7dda481-51f9-4ddd-a3d5-9ba3bddf4ee1",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "In the Eleusinian Mysteries, this god is referred to as Protogonus, the first born, and in early Greek myth, he governs the interactions of Uranus and Gaia. The brother of Anteros, his mortal wife spills hot wax on him while attempting to discover his true identity; that wife is the beautiful Psyche. Often described as the son of Ares and Aphrodite and known for carrying a bow that shoots golden arrows that inspire love, name this Greek god of sexuality and love, the counterpart of the Roman Cupid.",
+      "powerMarkPosition": 293,
+      "answer": "Eros",
+      "acceptableAnswers": [
+        "Eros",
+        "Cupid before \"Greek\"",
+        "The Eros"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1d9e"
+    },
+    {
+      "id": "cd2a4168-2e95-448a-9d13-d738a5b72e3a",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "This mountain range is home to an extinct volcano which is hilariously named \"Mount Pissis.\" Subranges of this mountain range are reunited in the Pasto Knot. The world's highest statue of Christ the Redeemer was built in this mountain range to commemorate the successful resolution of a border dispute. The Gate of the Sun is located at the Tiwanaku archaeological site, which is located in the foothills of this mountain range. This mountain range was created by the eastern movement of the Nazca Plate. Most speakers of the Quechua language live near this mountain range, where Lake Titicaca and the silver mines of Potosí are located. For 10 points, name this mountain range which stretches across the western edge of South America.",
+      "powerMarkPosition": 340,
+      "answer": "Andes",
+      "acceptableAnswers": [
+        "Andes",
+        "Andean Mountains",
+        "Cordillera de los Andes",
+        "The Andes"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125d01c"
+    },
+    {
+      "id": "a6cc15c6-8f1c-47ef-86ce-d5d80b93d104",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "This animal was the subject of a riddle given at Timnah, after Samson discovered honey inside the carcass of one of these animals. Revelation describes Jesus as this animal \"of Judah,\" which is honored in Rasta by wearing dreadlocks. King Darius punished Daniel by throwing him into a den of these animals, which \"roar for their prey\" in Psalms. For 10 points, name these ferocious big cats with dramatic manes.",
+      "powerMarkPosition": 221,
+      "answer": "lion",
+      "acceptableAnswers": [
+        "lion",
+        "The lion"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004c3b"
+    },
+    {
+      "id": "7be16a6c-a650-43ee-9b4e-a32b968ed4e1",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "This group followed the ideas collected in the Twelve Conclusions, and the first man to suffer martyrdom for membership in this group was William Sawtrey. This group was persecuted by William Courtenay and Thomas Arundel and commissioned John Purvey and Nicholas of Hereford to translate the Bible. They launched a short-lived open rebellion after William Fisher helped organize them at St. Giles Fields, which would have been led by a man who inspired the depiction of Falstaff, John Oldcastle. Opponents of transubstantiation doctrine and Papal supremacy, their name comes from a Dutch word which refers to those who cover their true theological beliefs by \"mumbling.\" For 10 points, name this group of people who anticipated Protestantism around 1400 in England, inspired by the ideas of John Wycliffe.",
+      "powerMarkPosition": 298,
+      "answer": "Lollards",
+      "acceptableAnswers": [
+        "Lollards",
+        "The Lollards"
+      ],
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cf99c6"
+    },
+    {
+      "id": "262e5dd9-6d9a-4dcd-98d9-8fa74aab3040",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "In one novel by this author, Lena Grove searches for her boyfriend Lucas Burch, who ran away after finding out she was pregnant. This author of Light in August wrote a novel set in Yoknapatawpha [YAHK-nah-pah-TAW-fuh] County that follows the Bundren family's journey to Jefferson to bury their deceased matriarch, Addie. In another novel by this author, the Harvard student Quentin Compsen drowns himself in the Charles River. For ten points, name this Mississippi author of As I Lay Dying and The Sound and the Fury .",
+      "powerMarkPosition": 241,
+      "answer": "Faulkner",
+      "acceptableAnswers": [
+        "Faulkner",
+        "The Faulkner"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f723bf56e0dff73abed2e"
+    },
+    {
+      "id": "07f1eb4a-12f0-47c6-b7bc-91213431ff5c",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "One story by this author centers on a donkey who is repeatedly undervalued due to its bichromatic coat. Another donkey-centric story by this author of \"Story of the St. Joseph's Ass\" contrasts the seriousness of a donkey's death with Meno's matter-of-fact reaction to the death of his wife Nunzia. Before writing \"The Orphans\", he'd abandoned his law studies to write novels like In the Lagoons and A Sinner. One novel by this author is titled for a peasant landowner whose daughter with Bianca Trao marries the free-spending Duke di Leyra, who ruins him. Another novel by this author, adapted into the Visconti film La Terra Trema, sees 'Ntoni become a smuggler in an effort to recover the Malavoglia family's fishing boat. For 10 points, identify this author of Maestro-don Gesualdo and The House by the Medlar Tree, whose story ending in a duel between Alfio and Turiddu, \"Cavalleria Rusticana\", was adapted into a Mascagni opera.",
+      "powerMarkPosition": 602,
+      "answer": "Verga",
+      "acceptableAnswers": [
+        "Verga",
+        "The Verga"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba673874e0ef7dd7b281f"
+    },
+    {
+      "id": "3f7ffc0b-855c-41ab-a6e4-479267977b89",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "The Tibesti Mountains are a prominent feature of this desert that also contains sand seas called ergs. The Tuareg people are nomadic inhabitants of this desert, which was crossed in medieval times by a caravan route to Timbuktu. The Sahel is the southern border of this desert that covers much of Mauritania, Niger, and Libya. For 10 points, name this desert that covers most of North Africa.",
+      "powerMarkPosition": 228,
+      "answer": "Sahara",
+      "acceptableAnswers": [
+        "Sahara",
+        "The Sahara"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec67ae"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "e3e91f81-3204-4762-823c-494b5afc2dcd",
+      "linkedTossupId": "21f4bee4-d2f1-4bc4-8730-fe38d607195d",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this set of fundamental Buddhist teachings that were taught in the Buddha's first sermon. The last of these, magga, is also known as the Eightfold Path.",
+          "answer": "Noble Truths",
+          "acceptableAnswers": [
+            "Noble Truths",
+            "Chattari-ariya-saccani",
+            "Chatvari-arya-satyani",
+            "The Noble Truths"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The \"Setting in Motion of the Wheel of Dharma\" sutta was originally written in this language, which lends its name to the canon of Theravada Buddhism.",
+          "answer": "Pali",
+          "acceptableAnswers": [
+            "Pali",
+            "The Pali"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The first Noble Truth states that this Pali word, often translated as \"suffering,\" is an innate characteristic of life. This concept is one of three Buddhist marks of existence.",
+          "answer": "dukkha",
+          "acceptableAnswers": [
+            "dukkha",
+            "The dukkha"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These numbered statements were first described in a sutta (\"soo-tuh\") called \"Setting in Motion of the Wheel of Dharma.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed60f71539231f571edc70"
+    },
+    {
+      "id": "5b3dab2a-fc10-4fd6-ac45-4c8a72789ebe",
+      "linkedTossupId": "8cf971be-cc22-4f3b-9b87-2894c064bd61",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these landforms. Another one of these landforms which the Ancient Greeks believed housed the gods is named for Olympus.",
+          "answer": "mount",
+          "acceptableAnswers": [
+            "mount",
+            "Mount Aigaleo",
+            "accept Mount Olympus",
+            "The mount"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This general led the Greek forces in the Battle of Salamis and Battle of Artemisium. This general was stripped of his command and replaced by Xanthippus and Aristides.",
+          "answer": "Themistocles",
+          "acceptableAnswers": [
+            "Themistocles",
+            "The Themistocles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Themistocles persuaded the Greeks to build a massive fleet of these ships whose name means \"three-rower.\" Thucydides said that these ships were introduced to Greece by the Corinthians.",
+          "answer": "trireme",
+          "acceptableAnswers": [
+            "trireme",
+            "The trireme"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Xerxes I (\"ZERK-seez\" the first) supposedly watched the Battle of Salamis from a throne atop one of these landforms called Aigaleo. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "676f7237f56e0dff73abebbe"
+    },
+    {
+      "id": "4bc51ab4-9db6-4a2e-a5b0-65d48b04b708",
+      "linkedTossupId": "fcf52098-92ae-4659-b3d9-cde5e2689740",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "An unnamed biographer chronicles Isaac Newton's mental breakdown in this British author's novella The Newton Letter. The art historian Max Morden reflects on his life in this author's novel The Sea.",
+          "answer": "Banville",
+          "acceptableAnswers": [
+            "Banville",
+            "The Banville"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Niels Bohr and Werner Heisenberg debate the implications of nuclear power in a play by Michael Frayn that is titled for this capital city of Denmark.",
+          "answer": "Copenhagen",
+          "acceptableAnswers": [
+            "Copenhagen",
+            "The Copenhagen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this play, Thomasina Coverly lectures her tutor on thermodynamics while drawing a diagram of a steam engine. This play follows Hannah Jarvis and the biologist Valentine as they uncover the history of Sidley Park.",
+          "answer": "Arcadia",
+          "acceptableAnswers": [
+            "Arcadia",
+            "The Arcadia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about literary representations of science. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52d7a"
+    },
+    {
+      "id": "de246a84-4bd6-4e1f-925f-a88edd899df2",
+      "linkedTossupId": "5e233fc7-95e9-4916-88be-756c7cf24032",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "While cooking, Faizah describes her family's unique combination of 22 ingredients that are used to produce the spice berbere, which her grandfather sells in this capital of Ethiopia.",
+          "answer": "Addis Ababa",
+          "acceptableAnswers": [
+            "Addis Ababa",
+            "Finfinne",
+            "The Addis Ababa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Faizah's father Tedros creates the appetizer of tihlo, a dish of dough balls dipped into a combination of meat and berbere that is native to the city of Mekelle in this northernmost region of Ethiopia. The third-most widely spoken Semitic language is named for this region.",
+          "answer": "Tigray",
+          "acceptableAnswers": [
+            "Tigray",
+            "Tigrinya",
+            "Tigre",
+            "The Tigray"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The main course of the evening is a beef curry wat served on top of this spongy flatbread. The East African ceremony of gursha involves family members feeding each other meals typically wrapped in this bread, which is made from teff flour.",
+          "answer": "injera",
+          "acceptableAnswers": [
+            "injera",
+            "The injera"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Your Ethiopian friend Faizah has invited you over to her house for dinner. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423a4b"
+    },
+    {
+      "id": "9bc9ac21-e496-4dbe-ae2a-36711a235dfc",
+      "linkedTossupId": "1af9b415-d092-491c-8794-07f09fc938d5",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Italian poet who wrote Il Canzoniere to describe his love with some woman named Laura.",
+          "answer": "Petrarch",
+          "acceptableAnswers": [
+            "Petrarch",
+            "The Petrarch"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Petrarch developed a particular style of this form of poetry which features prominently in the Canzoniere. Introduced in English by Sir Thomas Wyatt, another form of this style is named after Spenser.",
+          "answer": "sonnet",
+          "acceptableAnswers": [
+            "sonnet",
+            "The sonnet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Petrarch wrote this epic poem about Publius Cornelius Scipio's invasion and eventual victory after Hannibal had invaded Italy during the Second Punic War.",
+          "answer": "Africa",
+          "acceptableAnswers": [
+            "Africa",
+            "The Africa"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His letters were collected in Epistolae familiars and Seniles, but this author is perhaps better known for works like Secretum, in which he has imaginary dialogues with Saint Augustine. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d441d8"
+    },
+    {
+      "id": "84db296b-7500-4bd0-bca6-3b3eeb73ae42",
+      "linkedTossupId": "a888d887-b045-478e-8f93-dba5054cfdf1",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with skeletal muscle structure.",
+          "answer": "sarcomere",
+          "acceptableAnswers": [
+            "sarcomere"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the sarcomere in the musculoskeletal system?",
+          "answer": "Skeletal muscle structure",
+          "acceptableAnswers": [
+            "Skeletal muscle structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to skeletal muscle structure.",
+          "answer": "myofibril",
+          "acceptableAnswers": [
+            "myofibril"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "fc27b7b2-862c-4de9-ad74-2c9572ffe29b",
+      "linkedTossupId": "ddecd7bc-cf98-4ba8-a258-4abb5bffa323",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Give this term. Johannes de Garlandia was another music theorist of the period described by this term, as was the writer of the manuscript known as Anonymous IV.",
+          "answer": "ars antiqua",
+          "acceptableAnswers": [
+            "ars antiqua",
+            "The ars antiqua"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Garland's De mensurabili musica is the earliest western attempt at creating notation for this aspect of music. It may be contrasted with neumes, which notate relative pitch.",
+          "answer": "rhythm",
+          "acceptableAnswers": [
+            "rhythm",
+            "The rhythm"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The period of the ars antiqua focuses on this school of polyphony centred on its namesake Parisian cathedral. The main work associated with this school was the Magnus Liber, compiled by composers including Léonin and Pérotin.",
+          "answer": "Notre-Dame",
+          "acceptableAnswers": [
+            "Notre-Dame",
+            "The Notre-Dame"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Jacques of Liège defended the music of the period described by this term in his Speculum musicae, which praised the music of Franco of Cologne. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6300226cdcc9d816c18b7693"
+    },
+    {
+      "id": "23bba2ae-bb7b-4a69-b6cc-437ea761acc1",
+      "linkedTossupId": "6e140d6f-5f79-472e-8d30-d1a3a6ee7e3d",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this legendary warrior, a prince of Lanka who was given a new name after defeating and imprisoning the rider of Airavata.",
+          "answer": "Indrajit",
+          "acceptableAnswers": [
+            "Indrajit",
+            "Meghanada",
+            "The Indrajit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Indrajit was the son of this ten-headed Rakshasa, a devotee of Shiva who serves as the major antagonist of the Ramayana, in which he kidnaps Rama's wife Sita.",
+          "answer": "Ravan",
+          "acceptableAnswers": [
+            "Ravan",
+            "Ravanan",
+            "The Ravan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In exchange for not killing Indra, Indrajit was given a boon by this four-faced god, who served as the \"creator\" in the Hindu Trimurti.",
+          "answer": "Brahm",
+          "acceptableAnswers": [
+            "Brahm",
+            "The Brahm"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The guru Shukracharya helped this character acquire a huge number of celestial and legendary weapons, including the Vaishnavastra and the Pashupatastra. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae5f9"
+    },
+    {
+      "id": "959dfdf1-e9f3-4ab9-827f-0c5ab0368542",
+      "linkedTossupId": "a227d2e9-fbde-4ebb-ac68-7b10e52dac32",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this type of device, whose resultant emission frequency is tunable by altering the periodicity of the applied magnetic field.",
+          "answer": "f",
+          "acceptableAnswers": [
+            "f",
+            "“undulator”",
+            "“wiggler”"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The free electron laser is a special application of this type of radiation, which is emitted whenever a relativistic charged particle undergoes acceleration.",
+          "answer": "synchrotron",
+          "acceptableAnswers": [
+            "synchrotron",
+            "The synchrotron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the relativistic regime, the synchrotron radiation pattern peaks at an angle proportional to the inverse of this quantity. The power radiated in a synchrotron process is proportional to this quantity's sixth power.",
+          "answer": "Lorenz",
+          "acceptableAnswers": [
+            "Lorenz",
+            "gamma",
+            "The Lorenz"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These devices operate by passing a stream of their namesake particles through a sinusoidally spatially varying magnetic field, resulting in coherent radiation. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae8d4c"
+    },
+    {
+      "id": "3d189093-7ed5-4e97-a8e3-8ac3c89ebecb",
+      "linkedTossupId": "8157c6d9-a187-4a2a-a7f7-cc159cf1d5fe",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this 1986 establishment clause case which overturned a law forcing creation science to be taught alongside evolution.",
+          "answer": "Edwards",
+          "acceptableAnswers": [
+            "Edwards",
+            "either underlined answer",
+            "The Edwards"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Much earlier in the evolution vs. creationism saga, Clarence Darrow and William Jennings Bryan faced off during this court case challenging Tennessee's Butler Act.",
+          "answer": "Scopes",
+          "acceptableAnswers": [
+            "Scopes",
+            "The State of Tennessee v. John Thomas Scopes",
+            "The Scopes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A group of over 70 Nobel Prizewinners signed one of these briefs for the Aguillard case. In general, these briefs are submitted by a third party that is knowledgeable about the issue in order to provide some background.",
+          "answer": "Amicus Curiae",
+          "acceptableAnswers": [
+            "Amicus Curiae",
+            "Friend of the court brief",
+            "The Amicus Curiae"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This case applied the Lemon test to override the idea that the Louisiana law in question was attempting to protect academic freedom. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587597c51"
+    },
+    {
+      "id": "3d3beb47-7dfc-42e3-9450-207f1c1404f3",
+      "linkedTossupId": "2e1c3cd1-1732-465c-9798-9dd8c7dd4af4",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Mole, Rat, Toad, and Badger are the central characters of what children's book published in 1908 by Kenneth Grahame?",
+          "answer": "Wind in the Willows",
+          "acceptableAnswers": [
+            "Wind in the Willows",
+            "The Wind in the Willows"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Kenneth Grahame was born and raised in this country. The national poet of this country is Robert Burns, who wrote \"Auld Lang Syne.\"",
+          "answer": "Scotland",
+          "acceptableAnswers": [
+            "Scotland",
+            "The Scotland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Robert Burns described this animal as a \"cowran, timorous beastie\" in a poem that describes him upturning its nest with his plow.",
+          "answer": "mouse",
+          "acceptableAnswers": [
+            "mouse",
+            "The mouse"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Magic Kingdom attraction Mr. Toad's Wild Ride, which closed in 1998, was based on this book. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b88fff"
+    },
+    {
+      "id": "2dc9eb74-d0b1-45f0-bf5c-08326e424084",
+      "linkedTossupId": "6bc32b51-6d2c-43e6-9e7e-33ccde667733",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This region contained the civilizations of Sumer and Assyria. Name this region \"between two rivers\" that is a part of the Fertile Crescent.",
+          "answer": "Mesopotamia",
+          "acceptableAnswers": [
+            "Mesopotamia",
+            "The Mesopotamia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ancient Egypt, another Fertile Crescent civilization, was centered around this river that flows north into the Mediterranean Sea.",
+          "answer": "Nile",
+          "acceptableAnswers": [
+            "Nile",
+            "The Nile"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This South Asian civilization built cities including Harappa and the lost city of Mohenjo-daro [moh-HEN-joh-DAR-oh]. This civilization was based on a namesake river valley in modern-day Pakistan.",
+          "answer": "Indus Valley",
+          "acceptableAnswers": [
+            "Indus Valley",
+            "The Indus Valley"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Because they allowed for easy irrigation of crops, rivers were the ideal location for many early civilizations. For ten points each, answer some questions about early civilizations located near rivers:",
+      "source": "qbreader",
+      "sourceId": "676f723af56e0dff73abecae"
+    },
+    {
+      "id": "2f4416b6-6e63-437d-9d7f-b7ef13a2e026",
+      "linkedTossupId": "5427fc42-c8b2-4f14-9506-b7f5702e98bd",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these devices. The 2019 Nobel Prize in Chemistry was awarded to three scientists who developed a rechargeable lithium-based type of this device.",
+          "answer": "battery",
+          "acceptableAnswers": [
+            "battery",
+            "The battery"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Italian physicist created the first battery by stacking alternating zinc and silver disks separated by soaked cloths. The SI unit of electric potential was named in honor of this man.",
+          "answer": "Volta",
+          "acceptableAnswers": [
+            "Volta",
+            "The Volta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The term \"battery\" was coined by this American inventor who theorized an early battery as a collection of Leyden jars. This man's other thought experiments involving electricity include a rather dangerous one involving a key and a kite.",
+          "answer": "Franklin",
+          "acceptableAnswers": [
+            "Franklin",
+            "The Franklin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These devices contain a cathode and anode immersed in electrolytes and are used to convert chemical energy into electrical energy. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62f07cea5295951080e2cc2a"
+    },
+    {
+      "id": "0f7061ce-75a8-4944-9917-8c5eef45ef05",
+      "linkedTossupId": "d7dda481-51f9-4ddd-a3d5-9ba3bddf4ee1",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Odin traded one of these body parts to be able to drink magical water that would give him wisdom.",
+          "answer": "eye",
+          "acceptableAnswers": [
+            "eye",
+            "The eye"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Odin gave his eye to this god so that he could drink the water of wisdom. After this god was decapitated, Odin magically kept his head alive as a source of advice.",
+          "answer": "Mimir",
+          "acceptableAnswers": [
+            "Mimir",
+            "The Mimir"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Seeking even more wisdom, Odin hung himself from the world-tree Yggdrasil [IGG-drah-zil] with his spear to gain knowledge of these symbols, which were used for writing and fortune telling.",
+          "answer": "rune",
+          "acceptableAnswers": [
+            "rune",
+            "The rune"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer these questions about Odin's quest for knowledge, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba971c2"
+    },
+    {
+      "id": "d746abf8-0228-453c-97ed-fd670ba59395",
+      "linkedTossupId": "cd2a4168-2e95-448a-9d13-d738a5b72e3a",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this river which has \"Blue\" and \"White\" streams. It is the longest in Africa.",
+          "answer": "Nile",
+          "acceptableAnswers": [
+            "Nile",
+            "The Nile"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Historically, Egyptians arranged their agricultural calendar around the flooding of the Nile. However, after the construction of this dam in the 20th century, Nile flooding could be monitored and controlled.",
+          "answer": "Aswan",
+          "acceptableAnswers": [
+            "Aswan",
+            "Aswan Low Dam",
+            "Aswan High Dam",
+            "The Aswan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This lake in Ethiopia is the source of the Blue Nile. It is fed by the Reb and Gumara rivers.",
+          "answer": "Tana",
+          "acceptableAnswers": [
+            "Tana",
+            "The Tana"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Atbara and Sobat are tributaries of this river. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125cffc"
+    },
+    {
+      "id": "b6d97921-db3e-4e22-92e4-16fe6a7e85ef",
+      "linkedTossupId": "a6cc15c6-8f1c-47ef-86ce-d5d80b93d104",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This book utilizes a pin factory to illustrate division of labor and introduces the invisible hand of the market metaphor.",
+          "answer": "Wealth of Nations",
+          "acceptableAnswers": [
+            "Wealth of Nations",
+            "The Wealth of Nations"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Wealth of Nations is the magnum opus of this father of capitalism.",
+          "answer": "Smith",
+          "acceptableAnswers": [
+            "Smith",
+            "The Smith"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The self-regulating invisible hand is usually used to justify this completely free market system, which is French for \"let do\".",
+          "answer": "laissez-faire",
+          "acceptableAnswers": [
+            "laissez-faire",
+            "The laissez-faire"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of the most fundamental works in classical economics is this 1776 book. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f073b"
+    },
+    {
+      "id": "2d497967-1b22-49ed-96d2-5af2ae1d1b09",
+      "linkedTossupId": "7be16a6c-a650-43ee-9b4e-a32b968ed4e1",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these places where ancient cultures often buried objects that were believed to be of use in the afterlife.",
+          "answer": "grave",
+          "acceptableAnswers": [
+            "grave",
+            "tombs",
+            "The grave"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The items from the Vix Graves overlap the end of the Hallstatt culture and the early periods of this archaeological culture, named for a site beside Lake Neuchâtel (new-shah-TELL).",
+          "answer": "La Tene",
+          "acceptableAnswers": [
+            "La Tene",
+            "The La Tene"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The most famous artifact found in the Vix Graves was the largest bronze example of these Grecian mixing vessels, which were used at a symposium to dilute wine with water.",
+          "answer": "krater",
+          "acceptableAnswers": [
+            "krater",
+            "crater",
+            "The krater"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Golden neck rings known as torcs were found in the \"Vix\" (vee) example of these things, discovered in 1930 near the river Seine (sen), which are an important Bronze Age site. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490bea4"
+    },
+    {
+      "id": "6ee7f527-ff70-46d4-a24b-27b6bb617c42",
+      "linkedTossupId": "262e5dd9-6d9a-4dcd-98d9-8fa74aab3040",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this author who wrote about Samson losing his hair and eyes in his play Samson Agonistes.",
+          "answer": "Milton",
+          "acceptableAnswers": [
+            "Milton",
+            "The Milton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this epic poem by Milton, Adam and Eve are expelled from the Garden of Eden. In this epic poem, Satan claims that it is \"better to reign in Hell than serve in Heaven.\"",
+          "answer": "Paradise",
+          "acceptableAnswers": [
+            "Paradise",
+            "The Paradise"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Milton had this quality later in his life, and wrote a sonnet, \"On his (this quality)\" that begins with the poet considering \"how [his] light is spent.\"",
+          "answer": "blind",
+          "acceptableAnswers": [
+            "blind",
+            "The blind"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author attacked censorship in his pamphlet Areopagitica. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acd4f"
+    },
+    {
+      "id": "f1f937fc-4189-45cd-9428-7100be5d262a",
+      "linkedTossupId": "07f1eb4a-12f0-47c6-b7bc-91213431ff5c",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Akutagawa story in which the protagonist survives a wound from the Sino-Japanese War only to die in a bar fight. It is based in part on Pu Songling's Strange Tales of Liaozhai.",
+          "answer": "Story of a Head That Fell Off",
+          "acceptableAnswers": [
+            "Story of a Head That Fell Off",
+            "Kubi ga Ochita Hanashi",
+            "The Story of a Head That Fell Off"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Akutagawa story, Hanazo's attempt to fool the people of Nara into believing that the titular myrhical creature would rise from a nearby pond is foiled when that creature actually appears.",
+          "answer": "Ryu",
+          "acceptableAnswers": [
+            "Ryu",
+            "Dragon: The Old Potter’s Tale",
+            "The Ryu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Naigu Zenchi boils the titular facial feature of this story and has another monk step on it to change its size, but he eventually becomes comfortable with it longer rather than shorter.",
+          "answer": "Nose",
+          "acceptableAnswers": [
+            "Nose",
+            "Hana",
+            "The Nose"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The protagonist sees his mother's apron, a sesame field in bloom, a woman's foot, and Japanese cavalry in the sky as he lies in the mud. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e62e8c"
+    },
+    {
+      "id": "11d7bcc4-3c8e-4c26-9dc2-f79f76edb3dd",
+      "linkedTossupId": "3f7ffc0b-855c-41ab-a6e4-479267977b89",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this son of Selim the Grim, who won the Battle of Mohacs [Moe-HOTCH] but was less successful in conquering Malta and also led an unsuccessful siege of Vienna.",
+          "answer": "Suleiman the Magnificent",
+          "acceptableAnswers": [
+            "Suleiman the Magnificent",
+            "The Suleiman the Magnificent"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Suleiman the Magnificent was a sultan of this empire, founded by the semi-legendary Osman in 1399, which conquered Constantinople and much of the Balkans and Middle East before disintegrating after the First World War.",
+          "answer": "Ottoman",
+          "acceptableAnswers": [
+            "Ottoman",
+            "The Ottoman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Not long after the death of Suleiman, the Ottoman Empire lost this massive sea battle off the coast of Greece to the Holy League fleet under the command of Don Juan.",
+          "answer": "Lepanto",
+          "acceptableAnswers": [
+            "Lepanto",
+            "The Lepanto"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A huge amount of impressive building projects were designed by this ruler's architect, Sinan. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f07e0"
+    }
+  ]
+}

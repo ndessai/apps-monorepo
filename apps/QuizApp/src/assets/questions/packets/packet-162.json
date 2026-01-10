@@ -1,0 +1,1129 @@
+{
+  "packetId": "packet-162",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Human Body",
+    "Fine Arts",
+    "Literature",
+    "Science",
+    "Philosophy",
+    "Mythology",
+    "History",
+    "Geography"
+  ],
+  "tossups": [
+    {
+      "id": "f700ba62-3df2-49d1-af35-2e5727787e4f",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for red blood cells and hemoglobin. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this erythrocyte-related structure.",
+      "powerMarkPosition": 102,
+      "answer": "Erythrocyte",
+      "acceptableAnswers": [
+        "erythrocyte",
+        "Erythrocyte"
+      ],
+      "explanation": "The erythrocyte is a key component of the Cardiovascular system, involved in red blood cells and hemoglobin.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "bf61ea48-1411-45a4-9606-867cd885260f",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for physical barriers. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this phagocyte-related structure.",
+      "powerMarkPosition": 94,
+      "answer": "Phagocyte",
+      "acceptableAnswers": [
+        "phagocyte",
+        "Phagocyte"
+      ],
+      "explanation": "The phagocyte is a key component of the Immune system, involved in physical barriers.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "afbaec63-7fa1-4dc8-8c01-8d96f2811a44",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "One of the frescos contained in this building is Perugino's Delivery of the Keys, and another work shows the Red Sea with red water. The left wall of this building is lined with different frescoes depicting the life of Moses, while the right wall has pictures depicting the life of Christ. One of the paintings shows St. Bartholomew holding his flayed skin. The artist who painted that also painted The Last Judgment on the back wall after he completed the massive ceiling painting. For 10 points, name this building, where Michelangelo painted The Creation of Adam and where papal conclaves are held in Vatican City.",
+      "powerMarkPosition": 289,
+      "answer": "Sistine Chapel",
+      "acceptableAnswers": [
+        "Sistine Chapel",
+        "The Sistine Chapel"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0ab6"
+    },
+    {
+      "id": "5d139b78-d1fb-4cb7-85f9-bf89cfdc59d7",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "One poem by this author tells of the tintinnabulation of the title bells. The narrator of one short story by this author reads the \"Mad Trist\" at the House of Usher before it collapses. Another of this man's characters was inspired to kill a man with the eye of a vulture. One creature in a poem by this author repeatedly says \"Nevermore.\" For 10 points, name this American author of dark stories and poems such as \"The Tell-Tale Heart\" and \"The Raven.\"",
+      "powerMarkPosition": 185,
+      "answer": "Poe",
+      "acceptableAnswers": [
+        "Poe",
+        "The Poe"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c5a4"
+    },
+    {
+      "id": "256c175a-b006-48a0-a60f-fa0fd7211250",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "This protein composes the stroma and Bowman's layer of the cornea, which can be affected by Alport syndrome. Many glycine-proline-X motifs compose this protein, whose type IV variety composes basement membranes. Osteoblasts and fibroblasts synthesize this triple-helix protein, which requires Vitamin C as a cofactor. The extracellular matrix is mostly composed of this protein. For ten points, name this protein which makes up connective tissue such as tendons and cartilage.",
+      "powerMarkPosition": 227,
+      "answer": "collagen",
+      "acceptableAnswers": [
+        "collagen",
+        "The collagen"
+      ],
+      "source": "qbreader",
+      "sourceId": "68b8fc8a3c4c0515ae31d8ae"
+    },
+    {
+      "id": "8df89949-a0bb-4ee1-a2b2-7d155928bc9c",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "Dennis Rasmussen's The Infidel and the Professor discusses this thinker's deathbed analogy between the afterlife and an unburning piece of coal on a fire. This thinker claimed that the uniqueness of the universe and our partial experience of it invalidates a possible analogy between God and the builder of a house in a work featuring the \"experimental theist\" Cleanthes and the skeptic Philo. This thinker claimed that all our ideas are products of impressions in his \"copy principle.\" This thinker argued against believing in violations of the laws of nature in a chapter titled \"Of Miracles.\" This thinker's best-known thought experiment concerns a \"missing shade of blue.\" For 10 points, name this author of An Enquiry Concerning Human Understanding, a Scottish empiricist philosopher.",
+      "powerMarkPosition": 393,
+      "answer": "Hume",
+      "acceptableAnswers": [
+        "Hume",
+        "The Hume"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af9742395e"
+    },
+    {
+      "id": "6af5bc43-d51c-48fd-9e5c-a4c1365dffd6",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "This artist was once photographed with two of his works by Photo Secessionist Edward Steichen; one of those works was his sculpture of Victor Hugo. The other one of those works by this man is often grouped together with the works I am Beautiful and The Three Shades, and the embracing Paolo and Francesca are depicted in this sculptor's The Kiss. One of his most famous works is alternatively known as The Poet, and is, like the other aforementioned works, part of his The Gates of Hell. For 10 points, identify this French sculptor of The Thinker.",
+      "powerMarkPosition": 284,
+      "answer": "Rodin",
+      "acceptableAnswers": [
+        "Rodin",
+        "The Rodin"
+      ],
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e631ee"
+    },
+    {
+      "id": "e13508cb-912d-489a-9dab-fcebe1e8e49d",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "One son of this god challenged a water goddess to a weaving contest after she attempted to vanquish humanity with a great flood. This god gave a subordinate a hen, a sand-filled snail, a palm nut, and a cat, or a golden chain, a bag of dirt, and a five-toed chicken, with which the subordinate created the world. This god's messengers included a chameleon named Agemo and a god with a half-black, half-red hat named Elegua. The father of Orunmila and superior of Obatala is, for 10 points, what chief Orisha who presides over the Yoruba pantheon?",
+      "powerMarkPosition": 312,
+      "answer": "Olorun",
+      "acceptableAnswers": [
+        "Olorun",
+        "Olodumare",
+        "The Olorun"
+      ],
+      "source": "qbreader",
+      "sourceId": "630adb572eacc381ae57fdaa"
+    },
+    {
+      "id": "d18b4114-808a-4b72-9e48-ae025f57d7e1",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "middle_school",
+      "text": "In this song's music video, a whipped cream gun thwarts Sugar Daddy and his army of gummy bears. One vocalist in this song would like to see \"bikinis, zucchinis, martinis.\" This song begins, \"Greetings, loved ones. Let's take a journey.\" That journey includes a \"warm, wet, and wild\" place called the \"Golden Coast.\" According to the other singer of this song, the title figures are \"fine, fresh, fierce\" and \"unforgettable Daisy Dukes.\" Name this 2010 Katy Perry/Snoop Dogg song about females in a Western state.",
+      "powerMarkPosition": 300,
+      "answer": "California Gurls",
+      "acceptableAnswers": [
+        "California Gurls",
+        "The California Gurls"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1e0c"
+    },
+    {
+      "id": "90d2126b-251f-48e2-988c-2a9dac538e20",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "The first person to hold this political position held it for seven months, before being replaced by Denis Healey in October 1964. Both British Secretaries General of NATO have also held this political position - the first between 1970 and 1974, the second from 1997 to 1999. A former holder of this political position resigned in October 2011, after allegations that he had allowed his friend , Adam Werrity, inappropriate access to a governmental department. A recent holder of this political position was sacked following a leak of information from a National Security Council meeting. For 10 points, which political position in the British government has been held in recent years by Philip Hammond and Sir Michael Fallon, and is currently occupied by Ben Wallace?",
+      "powerMarkPosition": 392,
+      "answer": "Secretary",
+      "acceptableAnswers": [
+        "Secretary",
+        "The Secretary"
+      ],
+      "source": "qbreader",
+      "sourceId": "63aca784728d604710bf878e"
+    },
+    {
+      "id": "ccd270be-a36e-49a7-a7e9-beacf2899d74",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "Art Deco buildings in this city are concentrated around its Oval Maidan and Marine Drive. A 27-story private residence in this city, the Antilia, is owned by the head of Reliance Industries, which is headquartered in this city. Large religious sculptures are located on Elephanta Island in the harbor of this city, where both the airport and a UNESCO-listed gothic railway station are named for Shivaji. In this coastal city, the Taj Mahal Palace Hotel is located next to the Gateway of India in Maharashtra. Unlike Telugu works like RRR, films produced in this city are primarily in Hindi. For 10 points, Bollywood is in what port on the Arabian Sea that is the most populous city in India?",
+      "powerMarkPosition": 403,
+      "answer": "Mumbai",
+      "acceptableAnswers": [
+        "Mumbai",
+        "Bombay",
+        "The Mumbai"
+      ],
+      "source": "qbreader",
+      "sourceId": "68fc54d65b5d7bee38aa3e95"
+    },
+    {
+      "id": "d81c988f-9980-4de3-942a-46852fbd8e9c",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "This character is rescued by Don Pedro de Menez, and learns about the awfulness of the immortal but senile struldbrugs. This man is mistaken for a Yahoo by the Houyhnhnms [hoo-IN-hin-ums], and is kept as a pet in Brobdingnag. This sailor observes a conflict between Big-Endians and Little-Endians in Blefuscu and Lilliput, nations of tiny people. For 10 points, identify this character whose namesake \"Travels\" appear in a book by Jonathan Swift.",
+      "powerMarkPosition": 212,
+      "answer": "Gulliver",
+      "acceptableAnswers": [
+        "Gulliver",
+        "The Gulliver"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac9b4"
+    },
+    {
+      "id": "ebe79b5e-0f6d-4096-ae59-ef02044cb760",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "This victor at the Battle of Baxter Springs conducted his most famous action with the hope of encountering James Lane. Archie Clement and Bloody Bill Anderson were protégés of this man, whose explaining the Centralia Massacre. In an attempt to suppress this man, Thomas Ewing gathered a large group of his supporters and friends into a shoddy jail cell, which collapsed, prompting a brutal attack the culminated in the massacre of the city of Lawrence. Known for training the James-Younger Gang, for 10 points, name this bushwhacker, a Confederate raider active in Kansas and Missouri during the Civil War.",
+      "powerMarkPosition": 226,
+      "answer": "Quantrill",
+      "acceptableAnswers": [
+        "Quantrill",
+        "The Quantrill"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841a42"
+    },
+    {
+      "id": "fdff859c-ec97-4cdf-8051-27b3b203b12a",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "The complexometric form of this process depends on the formation of coordinate covalent bonds to metal cations. The Winkler test uses this process to detect dissolved oxygen, while another type of this process is performed on colloids and emulsions, and seeks to find those substances' zeta potentials. A crucial step in this process involves analyzing a sigmoid graph and finding its inflection point. This process utilizes a burette, which adds a reactant to an analyte until the equivalence point is reached. For 10 points, name this procedure used to find the concentration of a solution.",
+      "powerMarkPosition": 302,
+      "answer": "titration",
+      "acceptableAnswers": [
+        "titration",
+        "The titration"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b89e"
+    },
+    {
+      "id": "d7261bf7-33fc-4fc8-b475-19a35bc299a3",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "He rebutted the moralist views of W.K. Clifford in an essay which categorizes live, forced, and momentous options. He's the first namesake of a theory which states that emotions result from the perception of a physiological stimulus, rather than emotions preceding autonomic responses. One of his essays asks whether a man chasing a squirrel around a tree is by definition \"going round\" the squirrel. This author of \"The Will to Believe\" and The Principles of Psychology argued that \"truth\" is only what is most expedient to believe. He collected his Gifford Lectures at Edinburgh as The Varieties of Religious Experience, and his Lowell lectures were collected as a work which shares its name with a movement started by C.S. Peirce. For 10 points, name this American philosopher who wrote Pragmatism.",
+      "powerMarkPosition": 400,
+      "answer": "James",
+      "acceptableAnswers": [
+        "James",
+        "The James"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43c5b"
+    },
+    {
+      "id": "e3ca1a42-537e-4d47-9be8-f5d28161a65c",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "text": "This book asserted that a certain event had been \"conjured away as a cardsharp's trick\" and laments that \"scum\" had become \"the holy phalanx of order.\" This book, which labeled its title subject \"a grotesque mediocrity,\" was the first published source of the quote that history repeats itself \"as tragedy, then as farce.\" It also asserted that \"men make their own history, but they do not make it as they please.\" For 10 points, name this work that describes an 1851 coup d'etat in France from a materialist perspective of history as conceived by Karl Marx.",
+      "powerMarkPosition": 162,
+      "answer": "Eighteenth Brumaire of Louis Napoleon",
+      "acceptableAnswers": [
+        "Eighteenth Brumaire of Louis Napoleon",
+        "The Eighteenth Brumaire of Louis Bonaparte",
+        "Der 18te Brumaire des Louis Napoleon",
+        "The Eighteenth Brumaire of Louis Napoleon"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0c88d"
+    },
+    {
+      "id": "58c3310a-8c6d-4046-8b2c-8dc200516fa0",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "One ruler from this place was the wife of France's Louis XIII, Anne. Another Archduke of this place issued the Patent of Toleration. That ruler's mother came to power after the issuing of the Pragmatic Sanction, was the mother of Marie Antoinette, and ruled during a war of succession named after this country; those rulers were Joseph II and Maria Theresa. For 10 points, name this country where the Habsburgs ruled from Vienna.",
+      "powerMarkPosition": 270,
+      "answer": "Austria",
+      "acceptableAnswers": [
+        "Austria",
+        "The Austria"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acd22"
+    },
+    {
+      "id": "ab47fcd1-ede8-4997-afb4-cf322fc5daad",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "A heterodyne shifts between different ranges of this quantity, whose \"cutoff\" type marks the boundary between the stopband and passband. For a simple pendulum, this quantity is proportional to the square root of \"little g\" over length, and it can be calculated as wave speed divided by wavelength. The reciprocal of the period is, for 10 points, which quantity measured in hertz, the number of waves that pass a fixed point per unit of time?",
+      "powerMarkPosition": 227,
+      "answer": "frequency",
+      "acceptableAnswers": [
+        "frequency",
+        "The frequency"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba971fe"
+    },
+    {
+      "id": "eed1ffb4-60a1-4fb9-952b-d259cec4830e",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "This figure defeated Thanatos in a duel in order to win back Alcestis from the dead. An oath sworn by Zeus caused the dates of birth of this figure and Eurystheus to be switched. This figure's wife Deianira accidentally killed him with a poisoned cloth given to her by the centaur Nessus. After killing his wife Megara in a fit of rage induced by Hera, this hero was sent to accomplish many tasks as penance. Those tasks included slaying the Nemean Lion and capturing Cerberus. For 10 points, name this Greek hero, who completed twelve labors.",
+      "powerMarkPosition": 288,
+      "answer": "Heracles",
+      "acceptableAnswers": [
+        "Heracles",
+        "Hercules",
+        "The Heracles"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0725"
+    },
+    {
+      "id": "252bee97-53b2-450e-8539-6888e5f41d89",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "The 1952 Ranta Report led to a change in drug policy in one region of this country, which contrasted with the vision presented by the national government in the film Monkey on the Back. A \"Smoke-In\" that was brutally dispersed by the police was organized in a city in this country to protest Operation Dustpan, a crackdown on drug use. Despite the testimony of John Lennon in support of the policy, this country did not relax its marijuana laws on the advice of the Le Dain Commission. With 1922's The Black Candle, Emily Murphy helped spread moral panic in this country over the \"new menace\" of marijuana. Caused in part by fear of Chinese immigrants' use of opium, a city in this country was the [emphasize] northernmost to have its Chinatown attacked by a white mob in 1907. For 10 points, name this country, whose drug policies have been most dramatically illustrated in Vancouver.",
+      "powerMarkPosition": 515,
+      "answer": "Canada",
+      "acceptableAnswers": [
+        "Canada",
+        "The Canada"
+      ],
+      "source": "qbreader",
+      "sourceId": "630edc029db771144f1e56fc"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "00711438-9004-4cec-a782-e9456dd78bad",
+      "linkedTossupId": "f700ba62-3df2-49d1-af35-2e5727787e4f",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with lung volumes and capacities.",
+          "answer": "diaphragm",
+          "acceptableAnswers": [
+            "diaphragm"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the diaphragm in the respiratory system?",
+          "answer": "Lung volumes and capacities",
+          "acceptableAnswers": [
+            "Lung volumes and capacities"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to lung volumes and capacities.",
+          "answer": "tidal volume",
+          "acceptableAnswers": [
+            "tidal volume"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a6a2f237-3dfa-4a9e-9926-4c3467393a44",
+      "linkedTossupId": "bf61ea48-1411-45a4-9606-867cd885260f",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with cerebral cortex lobes.",
+          "answer": "cerebrum",
+          "acceptableAnswers": [
+            "cerebrum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cerebrum in the nervous system?",
+          "answer": "Cerebral cortex lobes",
+          "acceptableAnswers": [
+            "Cerebral cortex lobes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to cerebral cortex lobes.",
+          "answer": "cerebellum",
+          "acceptableAnswers": [
+            "cerebellum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "0c4a14eb-afd9-47f1-b869-e7f8e46a0a4e",
+      "linkedTossupId": "afbaec63-7fa1-4dc8-8c01-8d96f2811a44",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this New York rapper, who recently collaborated with Alicia Keys on \"Empire State of Mind.\"",
+          "answer": "Jay-Z",
+          "acceptableAnswers": [
+            "Jay-Z",
+            "Jigga",
+            "HOV",
+            "HOVA",
+            "Sean Carter",
+            "The Jay-Z"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "On \"D.O.A,\" Jay-Z claims that rappers are imitating this figure too much. This frequent user of Autotune won Grammys in 2008 and 2009 for Best Collaboration, with Kanye West and Jamie Foxx, respectively.",
+          "answer": "T-Pain",
+          "acceptableAnswers": [
+            "T-Pain",
+            "Faheem Rasheed Najm",
+            "The T-Pain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Citing the songs \"Planet Rock\" and \"Pack Jam\" as well as the band Kraftwerk (\"KROFT-vairk\"), two old skool hip hop artists also criticized the prevalence of Autotune on \"Robot.\" Name either.",
+          "answer": "KRS-One",
+          "acceptableAnswers": [
+            "KRS-One",
+            "Tracy Lawrence",
+            "Kenyatta Blake",
+            "The KRS-One"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He attacked the use of Autotune in hip-hop on the track \"D.O.A. (Death of Autotune).\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec66ba"
+    },
+    {
+      "id": "7e36786a-e4e8-4ef0-bad5-9b7990e2f45a",
+      "linkedTossupId": "5d139b78-d1fb-4cb7-85f9-bf89cfdc59d7",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this resident of Bag End who embarks on a journey to Mordor to destroy the One Ring in J. R. R. Tolkien's [\"TOLL\"-keen'z] trilogy The Lord of the Rings .",
+          "answer": "Frodo",
+          "acceptableAnswers": [
+            "Frodo",
+            "The Frodo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Frodo belongs to this fictional race created by J. R. R. Tolkien. Members of this fictional race live primarily in a region of Middle-earth known as the Shire.",
+          "answer": "Hobbit",
+          "acceptableAnswers": [
+            "Hobbit",
+            "The Hobbit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The only way that Frodo is able to destroy the One Ring is by throwing it into this volcano that was earlier used to forge the ring.",
+          "answer": "Doom",
+          "acceptableAnswers": [
+            "Doom",
+            "The Doom"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character lost both of his parents in a boating accident when he was young, after which he lived with the Brandybucks before being adopted by his cousin. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "676f723ff56e0dff73abeec7"
+    },
+    {
+      "id": "1fbbd507-6334-430e-81b0-4b1cda350736",
+      "linkedTossupId": "256c175a-b006-48a0-a60f-fa0fd7211250",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this smallest alcohol, with formula CH3OH. Unlike the related ethanol, this molecule is toxic.",
+          "answer": "methanol",
+          "acceptableAnswers": [
+            "methanol",
+            "methyl alcohol",
+            "wood alcohol",
+            "The methanol"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Methanol is toxic because the body oxidizes it to this toxic aldehyde, which is used to preserve dead bodies.",
+          "answer": "formaldehyde",
+          "acceptableAnswers": [
+            "formaldehyde",
+            "CH2O",
+            "The formaldehyde"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Similarly, you shouldn't drink this simplest diol, since the body metabolizes it to the toxic oxalic acid.",
+          "answer": "ethylene glycol",
+          "acceptableAnswers": [
+            "ethylene glycol",
+            "ethylene diol",
+            "The ethylene glycol"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This molecule reacts with carboxylic acids to produce methyl esters. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b5283a"
+    },
+    {
+      "id": "2dfd5a0d-3484-49dd-aa21-f704deb4f11d",
+      "linkedTossupId": "8df89949-a0bb-4ee1-a2b2-7d155928bc9c",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this school of philosophy, which focuses on the 'cash value' of ideas and on the practical uses of philosophy. Its founders included Charles Sanders Peirce and William James.",
+          "answer": "pragmatism",
+          "acceptableAnswers": [
+            "pragmatism",
+            "word forms",
+            "The pragmatism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "William James's work Pragmatism memorably argues that we should focus on what it 'practically means' when we describe a man chasing one of these animals around a tree.",
+          "answer": "squirrel",
+          "acceptableAnswers": [
+            "squirrel",
+            "The squirrel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another James work is titled for 'the varieties of' this type of 'experience'. Karl Marx described this phenomenon as 'the opium of the people'.",
+          "answer": "religion",
+          "acceptableAnswers": [
+            "religion",
+            "religious experience",
+            "The religion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A work titled for this philosophical school reproduces the Whitman poem 'To You', then gives 'monistic' and 'pluralistic' interpretations of it. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b88eea"
+    },
+    {
+      "id": "efebd27b-468b-4c34-9aae-8f01d7a6713d",
+      "linkedTossupId": "6af5bc43-d51c-48fd-9e5c-a4c1365dffd6",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this baroque composer. George Handel was one of the many subscribers who helped pay for this composer's Tafelmusik.",
+          "answer": "Telemann",
+          "acceptableAnswers": [
+            "Telemann",
+            "The Telemann"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In addition to his fantasias for viola da gamba, Telemann also wrote 12 Fantasias for this solo instrument, Baroque players of which include King Frederick the Great. The piccolo is a smaller relative of this woodwind.",
+          "answer": "flute",
+          "acceptableAnswers": [
+            "flute",
+            "The flute"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "King Frederick's works for the flute include over 100 of these pieces that consist of an exposition, development, and recapitulation. J.S. Bach combined these pieces with partitas in a work for solo violin.",
+          "answer": "sonata",
+          "acceptableAnswers": [
+            "sonata",
+            "The sonata"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This composer's 12 Fantasias for Viola da Gamba Solo were considered lost until 2015. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64c4601ce6811c453d40dea0"
+    },
+    {
+      "id": "c3e8930c-6604-4fe7-b8e2-cb8947bbb8cd",
+      "linkedTossupId": "e13508cb-912d-489a-9dab-fcebe1e8e49d",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Rostam is accompanied by Raksh, an animal of this sort which he saves once it gets caught by a lion while sleeping in the reeds. The Nisean breed of these animals, once common in Iran, is now extinct.",
+          "answer": "horse",
+          "acceptableAnswers": [
+            "horse",
+            "The horse"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "When Rostam reaches Mazandaran he sees a deer roasting, along with bread, salt and wine, but attracts a demon by doing this. In the Kalevala, Joukahainen [you-ka-HAI-nen] is pushed into a bog when Väinämöinen wins at this sort of contest.",
+          "answer": "sing",
+          "acceptableAnswers": [
+            "sing",
+            "The sing"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After he has freed Key Kavus, Rostam kills this chieftain of the divs whose blood cures Key Kavus' blindness. The story of the killing of this demon has been interpreted as a battle against northern races in Iran.",
+          "answer": "Div-e Sepid",
+          "acceptableAnswers": [
+            "Div-e Sepid",
+            "The Div-e Sepid"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After Key Kavus had the great idea of conquering Mazandaran, the land of demons, because he liked one of their poems, Rostam, still a child has to retrieve him from his idiocy. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6414e1a1d83c2db5e169c177"
+    },
+    {
+      "id": "37eeb529-b421-4846-ae12-0ee2a610e848",
+      "linkedTossupId": "d18b4114-808a-4b72-9e48-ae025f57d7e1",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this fictional creature. In the painting from theFrieze of Lifewith this nickname, a red-haired womandrapes herself over a sobbing man, and appears to be drinking his blood.",
+          "answer": "Vampire",
+          "acceptableAnswers": [
+            "Vampire",
+            "The Vampire"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Vampire, more commonly calledLove and Pain, is by this artist ofDeath in the Sickroom.",
+          "answer": "Munch",
+          "acceptableAnswers": [
+            "Munch",
+            "The Munch"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this painting by Munch, two shadowy figures walk along a railing on a hill overlooking Oslo Harborunder a swirling orange sky. In this painting, a bald central figure raises its hands to its head and opens its mouthwide to perform the title action.",
+          "answer": "Scream",
+          "acceptableAnswers": [
+            "Scream",
+            "The Scream"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A painting with this nickname is part of its creator'sFrieze of Lifeseries. For ten pointseach,",
+      "source": "qbreader",
+      "sourceId": "6837af65278db02eb79f1d77"
+    },
+    {
+      "id": "aac27a56-4eef-4e2a-b0af-86c7840100b1",
+      "linkedTossupId": "90d2126b-251f-48e2-988c-2a9dac538e20",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this crime whose perpetrators were sanctioned by the hellanodikai for breaking their oath to Zeus Horkios.",
+          "answer": "cheating",
+          "acceptableAnswers": [
+            "cheating",
+            "partial answer",
+            "accept match-fixing",
+            "bribery",
+            "other corrupt acts in place of “cheating",
+            "” prompt on answers that describe cheating at specific events such as the pankration",
+            "wrestling",
+            "footrace",
+            "chariot race",
+            "The cheating"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At the 416 BCE Olympic Games, Alcibiades gained prestige by bending the rules and sponsoring several teams in this sport. Two, four, and six-horse varieties of this sport took place in hippodromes.",
+          "answer": "chariot",
+          "acceptableAnswers": [
+            "chariot",
+            "tethrippon and synoris",
+            "prompt on horse racing",
+            "The chariot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "To \"jinx\" the Olympic Games, Roman spectators and charioteers could commission \"curse tablets\" that they could bury near these facilities. Like the Greek hippodrome, these Roman venues were used for chariot-racing.",
+          "answer": "circus",
+          "acceptableAnswers": [
+            "circus",
+            "Circus Maximus",
+            "The circus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Description acceptable. The Zanes (\"ZAY-neez\") were a series of public bronze statues inscribed with the names of-and paid for by fines collected from-people who committed this crime. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b53050"
+    },
+    {
+      "id": "6fe93802-d529-47c7-89b3-02b43d91bcbb",
+      "linkedTossupId": "ccd270be-a36e-49a7-a7e9-beacf2899d74",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "What most populous city in Africa was replaced as its country's capital by Abuja [uh-BOO-juh] in 1991.",
+          "answer": "Lagos",
+          "acceptableAnswers": [
+            "Lagos",
+            "The Lagos"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lagos sits on this gulf, which shares its name with a small country to the west of Nigeria that has its capital at Conakry [kaw-na-KREE].",
+          "answer": "Guinea",
+          "acceptableAnswers": [
+            "Guinea",
+            "The Guinea"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Nigeria is Africa's largest producer of this valuable natural resource, which is especially rich in the Niger [nee-ZHER] Delta region.",
+          "answer": "oil",
+          "acceptableAnswers": [
+            "oil",
+            "petroleum",
+            "The oil"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This city is the center of its country's film industry, which is called Nollywood. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b88e6a"
+    },
+    {
+      "id": "3066b92d-ce5c-43fe-b76a-f3efb9417f39",
+      "linkedTossupId": "d81c988f-9980-4de3-942a-46852fbd8e9c",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this satirical essay in which poor Irish parents are advised to sell their children to the rich as food.",
+          "answer": "Modest Proposal",
+          "acceptableAnswers": [
+            "Modest Proposal",
+            "The Modest Proposal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Irish author of \"A Modest Proposal\" also created the Houyhnhnms [HOY-NIMS], a race of talking horses who dominate the humanlike Yahoos, in another novel.",
+          "answer": "Swift",
+          "acceptableAnswers": [
+            "Swift",
+            "The Swift"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This surgeon, who visits the land of the Houyhnhnms, also encounters the tiny Lilliputians and the giant Brobdingnags on his travels.",
+          "answer": "Gulliver",
+          "acceptableAnswers": [
+            "Gulliver",
+            "The Gulliver"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This satirical essay offers a plan that would \"greatly lessen the number of papists.\" For 10 points each-",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7ccb"
+    },
+    {
+      "id": "c0ce8764-f1dc-4fd1-bab3-a37edbfef4a7",
+      "linkedTossupId": "ebe79b5e-0f6d-4096-ae59-ef02044cb760",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This city's inhabitants converted to Islam in the 10th Century, and it was acquired by Mali in the 13th Century. Sonni Ali captured this city before moving on to take Mali's capital in the 15th Century.",
+          "answer": "Gao",
+          "acceptableAnswers": [
+            "Gao",
+            "The Gao"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sonni Ali was the first ruler of this empire, which supplanted Mali as the dominant power in West Africa. This empire fell after the Moroccan Saadi dynasty took its namesake capital.",
+          "answer": "Songhai",
+          "acceptableAnswers": [
+            "Songhai",
+            "The Songhai"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Before being razed by the Songhai, this city served as the capital of the Malian empire. It became known for its universities and mosques constructed during the reign of Mansa Musa.",
+          "answer": "Timbuktu",
+          "acceptableAnswers": [
+            "Timbuktu",
+            "The Timbuktu"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Trans-Saharan Trade led to the rise of major trading-hub cities throughout West Africa. For 10 points each, identify some of those cities:",
+      "source": "qbreader",
+      "sourceId": "62eec31bb669367617b8c949"
+    },
+    {
+      "id": "1e746249-814e-4533-aba2-7075291b145f",
+      "linkedTossupId": "fdff859c-ec97-4cdf-8051-27b3b203b12a",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this process in which living organisms such as jellyfish and fireflies emit light.",
+          "answer": "bioluminescence",
+          "acceptableAnswers": [
+            "bioluminescence",
+            "The bioluminescence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Fireflies emit light using these light emitting pigments that when catalyzed using a namesake enzyme, react with oxygen to produce visible light.",
+          "answer": "luciferins",
+          "acceptableAnswers": [
+            "luciferins",
+            "The luciferins"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This bioluminescent protein, studied by Osamu Shimomura, was first isolated from a species of jellyfish, and emits a namesake color of light between yellow and blue on the spectrum.",
+          "answer": "green fluorescent",
+          "acceptableAnswers": [
+            "green fluorescent",
+            "The green fluorescent"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This biological process is common in deep sea animals, and was theorized to evolve from mutations in oxygenase enzymes. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "66f0f7225f18a88258296cb6"
+    },
+    {
+      "id": "e5ac320c-8b47-439a-894f-1ed3228c70ac",
+      "linkedTossupId": "d7261bf7-33fc-4fc8-b475-19a35bc299a3",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this English philosopher who developed process philosophy, in which he argued that reality consists of processes, in his book Process and Reality.",
+          "answer": "Whitehead",
+          "acceptableAnswers": [
+            "Whitehead",
+            "The Whitehead"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Whitehead collaborated with Bertrand Russell on a book that attempted to provide a complete set of axioms and rules to form a foundation for this field of study. That book is named for the \"Principles\" of this subject.",
+          "answer": "math",
+          "acceptableAnswers": [
+            "math",
+            "The math"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A Bertrand Russell analogy compares this figure to a teapot to argue against its existence. In contrast, the teleological and ontological arguments argue for this figure's existence.",
+          "answer": "God",
+          "acceptableAnswers": [
+            "God",
+            "Christian God",
+            "The God"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This thinker analyzed the historical development of science in Science and the Modern World. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631674033d364b3265eaf14f"
+    },
+    {
+      "id": "bdae6a49-02dd-4e96-b067-cbabc50cf4bd",
+      "linkedTossupId": "e3ca1a42-537e-4d47-9be8-f5d28161a65c",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Give the Hebrew name for this seven-day period in Judaism. During this period, mourners typically sit on a low stool or the floor.",
+          "answer": "shiva",
+          "acceptableAnswers": [
+            "shiva",
+            "sitting shiva",
+            "The shiva"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The shiva (\"SHEE-vah\") period begins after one of these events. Orthodox Jews oppose cremation during these events, during which kaddish (\"KUH-dish\") might be recited.",
+          "answer": "funeral",
+          "acceptableAnswers": [
+            "funeral",
+            "burials",
+            "obvious equivalents",
+            "do NOT accept",
+            "prompt on “death”",
+            "The funeral"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During the shiva, mourners are traditionally served the seudat havara'ah (\"say-oo-DAT hah-vah-rah-AH\")meal that usually consists of bread, lentils, and this foodstuff, also exemplified by the Beitza (\"bait-ZAH\") and regarded as a symbol of mourning.",
+          "answer": "egg",
+          "acceptableAnswers": [
+            "egg",
+            "The egg"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Observers are prohibited from bathing, cutting their hair, or greeting people verbally during this period, which constitutes the first stage of avelut (\"ah-veh-LOOT\"). For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67df4c93d5921688cff9e481"
+    },
+    {
+      "id": "3d714b25-9a84-4ca0-acb3-cbf6595a9377",
+      "linkedTossupId": "58c3310a-8c6d-4046-8b2c-8dc200516fa0",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "What is the minimum age that somebody must reach to become President?",
+          "answer": "35",
+          "acceptableAnswers": [
+            "35"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In addition to being a natural born citizen, for how many years must a person reside in the United States before becoming President?",
+          "answer": "14",
+          "acceptableAnswers": [
+            "14"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This amendment, passed in 1951, states that nobody can be elected President more than twice.",
+          "answer": "Twenty-Second",
+          "acceptableAnswers": [
+            "Twenty-Second",
+            "22",
+            "The Twenty-Second"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Section One of Article Two of the United States Constitution limits who can become President of the United States. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec67b6"
+    },
+    {
+      "id": "b9a03ff1-8e09-48b4-984a-eab1e70d1ba9",
+      "linkedTossupId": "ab47fcd1-ede8-4997-afb4-cf322fc5daad",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This law relates the the integrated magnetic field around a closed loop to the electric current passing through the loop.",
+          "answer": "Ampere",
+          "acceptableAnswers": [
+            "Ampere",
+            "The Ampere"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This law states that the induced electromotive force in any closed circuit is equal to the time rate of change of the magnetic flux through the circuit.",
+          "answer": "Faraday",
+          "acceptableAnswers": [
+            "Faraday",
+            "The Faraday"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ampere's Law and Faraday's Law of Induction, along with two laws named after Gauss, comprise this set of four equations.",
+          "answer": "Maxwell",
+          "acceptableAnswers": [
+            "Maxwell",
+            "The Maxwell"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer these questions about laws in physics, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced960"
+    },
+    {
+      "id": "5e44bf08-dc66-49b6-aa19-8cca6bbde307",
+      "linkedTossupId": "eed1ffb4-60a1-4fb9-952b-d259cec4830e",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Mesopotamian hero who defeated the divine bull sent by Ishtar. This King of Uruk's stories are narrated in his namesake epic.",
+          "answer": "Gilgamesh",
+          "acceptableAnswers": [
+            "Gilgamesh",
+            "The Gilgamesh"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gilgamesh was aided by this companion in defeating the Bull of Heaven. This figure was originally created by the god Anu to oppose Gilgamesh.",
+          "answer": "Enkidu",
+          "acceptableAnswers": [
+            "Enkidu",
+            "The Enkidu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Enkidu worked with Gilgamesh to defeat this guardian of the Cedar Forest. The angered gods killed Enkidu after the Bull of Heaven and this figure were slain.",
+          "answer": "Humbaba",
+          "acceptableAnswers": [
+            "Humbaba",
+            "The Humbaba"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This hero, like many others, unsuccessfully strived for immortality. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "676f723df56e0dff73abedc9"
+    },
+    {
+      "id": "1a5e192d-2f2a-46c8-9023-825e3b9f15e1",
+      "linkedTossupId": "252bee97-53b2-450e-8539-6888e5f41d89",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this woman who abdicated the throne in 2013 and was succeeded by her son, Willem-Alexander.",
+          "answer": "Beatrix",
+          "acceptableAnswers": [
+            "Beatrix",
+            "The Beatrix"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Until 2013, Beatrix was the queen of this European country.",
+          "answer": "Netherlands",
+          "acceptableAnswers": [
+            "Netherlands",
+            "The Netherlands"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the Netherlands, this colorful adjective was used to describe government coalitions of social democrats and liberals that did not include Christian democrats. The Wim Kok ministries were known by this name.",
+          "answer": "purple",
+          "acceptableAnswers": [
+            "purple",
+            "paars",
+            "purple-plus",
+            "The purple"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This woman emotionally addressed her country after a 2009 attempt on her family's life in which Karst Tates drove his car into a parade. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382b35c9cc87abdd9a5a57a"
+    }
+  ]
+}

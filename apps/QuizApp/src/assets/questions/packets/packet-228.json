@@ -1,0 +1,1130 @@
+{
+  "packetId": "packet-228",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Human Body",
+    "Literature",
+    "History",
+    "Science",
+    "Philosophy",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "efe0613f-acbd-480b-be76-a03fc295adff",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for neuron structure. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this axon-related structure.",
+      "powerMarkPosition": 75,
+      "answer": "Axon",
+      "acceptableAnswers": [
+        "axon",
+        "Axon"
+      ],
+      "explanation": "The axon is a key component of the Nervous system, involved in neuron structure.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "3404802a-e549-45d6-8ee3-6e208c423545",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "A poet with this last name called for people to \"rise, like lions after slumber / In unvanquishable number\" in a poem responding to the Peterloo massacre, The Masque of Anarchy. Another author with this last name created a character whom causes Justine Moritz's hanging by killing William, and later strangles Henry Clerval. The line \"hail to thee, blithe spirit!\" opens a poem by a poet with this surname, who described a plaque bearing the phrase \"look on my works, ye mighty, and despair\" in \"Ozymandias.\" For 10 points, give this last name of the author of Frankenstein.",
+      "powerMarkPosition": 309,
+      "answer": "Shelley",
+      "acceptableAnswers": [
+        "Shelley",
+        "The Shelley"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7e41"
+    },
+    {
+      "id": "f6632b22-721b-4655-b0e3-5e4210949f43",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "The idea that these people should be first to worry about the world's troubles and last to enjoy its pleasures was a motto of the 11th-century author of a memorial to a tower. These people collected \"four treasures,\" like a stone slab and soot stick, and practiced the amateur Southern School of painting. These people, who wore winged fútóu hats, were mocked in an unofficial history by Wú Jìngzǐ (\"oo jing-dzuh\"). Joseon's Hungu faction led purges of Jo Gwangjo's \"forest\" of these people, the seowon (\"SUH-wun\")-based Sarim. Sejong (\"SAY-jong\") the Great created the Hall of Worthies for these people, who ascended the Gwageo (\"GWAH-guh\") system to the status of yangban. These people received the jìnshì (\"jin-shur\") rank by mastering neo-Confucian tasks like the \"eight-legged essay\" based on Zhū Xī's (\"joo sheeʼs\") Four Books. For 10 points, Sòng China was run by what elites who passed the civil service exams?",
+      "powerMarkPosition": 415,
+      "answer": "scholar",
+      "acceptableAnswers": [
+        "scholar",
+        "literati",
+        "wénrén",
+        "mandarins",
+        "guān",
+        "scholar-officials",
+        "scholar-bureaucrats",
+        "scholar-gentry",
+        "shēnshì",
+        "shìdàfū",
+        "accept civil servants before “civil service”",
+        "accept Sarim before read",
+        "accept yangban before read",
+        "prompt on elites",
+        "gentry",
+        "similar",
+        "The scholar"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae87d4"
+    },
+    {
+      "id": "2a1a2143-ef66-4d61-ac2c-0bc3c9c4e0f3",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "Early observations of this phenomenon were caused by the flavonoid matlaline, and Edman degradation generates molecules exhibiting it. Concentrations of conjugated cyclic compounds like anthracene can be measured using this phenomenon. The intensity of this phenomenon can be decreased through quenching, and it is the basis of a namesake compact lamp. This phenomenon's short lifetime distinguishes it from phosphorescence, though it also involves the absorption of photons. For 10 points, name this type of luminescence in which a molecule absorbs light and quickly re-emits it at a lower wavelength.",
+      "powerMarkPosition": 329,
+      "answer": "fluorescence",
+      "acceptableAnswers": [
+        "fluorescence",
+        "The fluorescence"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc2fe"
+    },
+    {
+      "id": "9038bffa-e602-41dd-a0e7-a22498dd8987",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "When this mathematical quantity is zero, a system of linear algebraic equations has no unique solutions, and, for a scalar, this value is defined to be the scalar itself. One way to solve for it in a system of equations is to divide this result with the solution values in place of the coefficients of that variable by this result of the coefficient matrix of the variables in a process called Cramer's Rule. For 10 points, name this result which, for a 2 by 2 matrix, is found by subtracting the product of the numbers off the diagonal from the product of the numbers on the main diagonal.",
+      "powerMarkPosition": 170,
+      "answer": "determinant",
+      "acceptableAnswers": [
+        "determinant",
+        "The determinant"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0e31"
+    },
+    {
+      "id": "21ba46d2-71b7-4353-b788-dcb2b6a0e08f",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "text": "This thinker wrote an essay ending with a long quote from John Tyler about the United States 'noble experiment of \"total separation of Church and State.\" One work criticizes this thinker's analysis of the word thawra, which he interprets as meaning \"to be stirred\" or \"to rise up\" and not \"to rebel.\" In 1993, he was forced to pay a one franc fine for describing the Armenian genocide as \"the Armenian version of this history.\" This thinker was called a \"vulgar propagandist\" by Noam Chomsky after writing an essay titled \"What Went Wrong?\" He wrote an essay for The Atlantic Monthly explaining why the United States has become \"the incarnation of evil\" for a certain culture, which used a phrase later popularized by Samuel Huntington, the \"clash of civilizations.\" FTP, name this scholar of the Middle East, famed for his debates with Edward Said, who wrote works such as Islam and the West and The Crisis of Islam.",
+      "powerMarkPosition": 598,
+      "answer": "Lewis",
+      "acceptableAnswers": [
+        "Lewis",
+        "The Lewis"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e35effc080082733afc492"
+    },
+    {
+      "id": "4e19c7e5-f483-497c-857b-f890b3fe03b6",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "This painter's portrait of Dante Alighieri shows the author wearing a red shirt and cap with a plant along the side of his head. A wagon is pushed over a man dressed in black on the left side of his painting The Last Miracle and the Death of St. Zenobius. He painted a scene in an orange grove with three women dancing and a putto flying over a woman holding a red drape in his Primavera. His best known painting features a woman in an open seashell that is being blown to shore by Zephyr. For 10 points, name this artist of The Birth of Venus.",
+      "powerMarkPosition": 245,
+      "answer": "Botticelli",
+      "acceptableAnswers": [
+        "Botticelli",
+        "Alessandro di Mariano di Vanni Filipepi",
+        "The Botticelli"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0cdfc"
+    },
+    {
+      "id": "a81ec64f-cd2d-435e-9d1b-1fac67779aa5",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for blood plasma. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this erythrocyte-related structure.",
+      "powerMarkPosition": 96,
+      "answer": "Erythrocyte",
+      "acceptableAnswers": [
+        "erythrocyte",
+        "Erythrocyte"
+      ],
+      "explanation": "The erythrocyte is a key component of the Cardiovascular system, involved in blood plasma.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ff5b0407-aa72-4117-b5d1-92c9f7980996",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "This man's grandfather was nicknamed \"Diamond,\" for his wealth, and his first appearance in Parliament was as MP for Old Sarum. Dismissed from the military for a sarcastic speech in support of Frederick Louis against George II, this man attacked Carteret's foreign policy during the War of the Austrian Succession. Becoming paymaster general of the royal forces in 1746, this man declared in 1755 that \"I am sure I can save this country, and nobody else can,\" and formed a joint ministry with Lord Newcastle. He would not hold the prime ministership until late in life, when he formed a cabinet with Augustus Fitzroy and Charles Townshend. For 10 points, identify this British politician called the \"Great Commoner.\"",
+      "powerMarkPosition": 314,
+      "answer": "Pitt",
+      "acceptableAnswers": [
+        "Pitt",
+        "The Pitt"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4448c"
+    },
+    {
+      "id": "086e301f-d675-416d-87ad-36857846743a",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "This constant is the only positive number for which squaring it is the same as adding 1 to it. The ratio of a regular pentagon's diagonal length to its side length is equal to this constant. The ratio of consecutive terms in the Fibonacci sequence approaches this constant. For 10 points, name this value equal to about 1.618 which is often associated with natural or artistic beauty.",
+      "powerMarkPosition": 228,
+      "answer": "golden ratio",
+      "acceptableAnswers": [
+        "golden ratio",
+        "golden number",
+        "golden proportion",
+        "golden mean",
+        "mean of Phidias",
+        "accept phi",
+        "The golden ratio"
+      ],
+      "source": "qbreader",
+      "sourceId": "65666dfd443a0a5dea0043c8"
+    },
+    {
+      "id": "56766e0b-4bd0-46c7-8a2c-1cc0d3b0cb2a",
+      "category": "Literature",
+      "subcategory": "Other Literature",
+      "difficulty": "college",
+      "text": "Kinsey Millhone investigates the death of a man with this job named Laurence Fife in the first novel in Sue Grafton's \"Alphabet\" series. A man with this job in Clanton, Mississippi has his house burned down by the KKK; that man is Jake Brigance. (\"brig-ents\"). A character with this job owns a pamphlet called \"The Black Plague\" and disagrees with the ruling of Brown vs. Board of Education in the first draft of a novel where that man accuses Mayella Ewell of soliciting Tom Robinson. The daughter of a man with this job is attacked while walking home dressed as a ham, but is saved by Boo Radley. The main characters of books by John Grisham tend to have, for 10 points, what profession of Atticus Finch in To Kill a Mockingbird?",
+      "powerMarkPosition": 397,
+      "answer": "lawyer",
+      "acceptableAnswers": [
+        "lawyer",
+        "attorneys-at-law",
+        "accept divorce lawyer",
+        "divorce attorney",
+        "do not accept",
+        "prompt on “judge”",
+        "“jury”",
+        "The lawyer"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f1bd4b1d1753da7fbbfae6"
+    },
+    {
+      "id": "8693064f-6aac-4cba-b9ee-7894b7c37e7f",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for stomach anatomy. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this esophagus-related structure.",
+      "powerMarkPosition": 70,
+      "answer": "Esophagus",
+      "acceptableAnswers": [
+        "esophagus",
+        "Esophagus"
+      ],
+      "explanation": "The esophagus is a key component of the Digestive system, involved in stomach anatomy.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "f7da3471-be99-4f2d-930d-5c0f00cb8cf6",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for blood pressure regulation. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this systole-related structure.",
+      "powerMarkPosition": 82,
+      "answer": "Systole",
+      "acceptableAnswers": [
+        "systole",
+        "Systole"
+      ],
+      "explanation": "The systole is a key component of the Cardiovascular system, involved in blood pressure regulation.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "20a580d4-e94a-41af-be15-6e48fdd3589b",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "In one entry in this collection, a woman hears an organ-grinder which reminds her of her mother's last words, \"Derevaun Seraun\", after which she refuses to go to Buenos Aires with Frank. The Hungarian pianist Villona performs aboard Farley's yacht in a story from this collection that introduces Jimmy Doyle as a passenger in Charles Segouin's car. In another of its stories, the narrator loses his affection for Mangan's sister after being delayed and finding the title bazaar closed. Its final story is set partly at the Morkans' Christmas party, where a performance of \"The Lass of Aughrim\" reminds Gretta of her young love Michael Furey, a revelation which saddens Gabriel Conroy. For 10 points, name this collection that includes \"Eveline\", \"After the Race\", \"Araby\", and \"The Dead\", and was written by James Joyce.",
+      "powerMarkPosition": 470,
+      "answer": "Dubliners",
+      "acceptableAnswers": [
+        "Dubliners",
+        "The Dubliners"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34c7e"
+    },
+    {
+      "id": "13222874-a4d6-4a2a-8502-62fdaaa9f855",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Tam and Wong's examination of surface sediments revealed that examples of these specific ecosystems in Hong Kong suffer from severe heavy metal contamination. Preservation of these ecosystems is facilitated by the construction of melaleuca (\"meh-lah-LOO-kah\") fences. These ecosystems are a major sink for blue carbon and have been estimated to mitigate more than 1% of total carbon emissions in Nigeria and Colombia. Studies by Daniel Alongi after the 2004 Sunda earthquake demonstrated that these ecosystems provided substantial tsunami protection in South Asia. Rhizophora (\"rye-zoh-FOR-uh\") is the most common example of the namesake halophytes of these ecosystems, which support themselves on aerial or stilt roots, between which fish and crabs swim. The Sundarbans in Bangladesh is the largest example of, for 10 points, what type of coastal wetland which is dominated by a namesake tree?",
+      "powerMarkPosition": 530,
+      "answer": "mangrove forest",
+      "acceptableAnswers": [
+        "mangrove forest",
+        "mangrove swamps",
+        "prompt on swamps",
+        "forests",
+        "wetlands",
+        "The mangrove forest"
+      ],
+      "source": "qbreader",
+      "sourceId": "63a3f66ab17797e852f22d2b"
+    },
+    {
+      "id": "4110fe16-29ca-4b57-b71d-4c35d55ee0b7",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "This author wrote about a man who refuses grapes from Merecdes; that character seeks revenge on Fernand, Danglars and Villefort using a fortune found in prison. Another novel by this man describes the machinations of Cardinal Richeliu; at the end of that novel a commission is refused by Porthos, Athos, and Aramis. Edmond Dantes and d'Artagnan were created by, for 10 points, what French author of The Count of Monte Cristo and The Three Musketeers?",
+      "powerMarkPosition": 160,
+      "answer": "Dumas",
+      "acceptableAnswers": [
+        "Dumas",
+        "The Dumas"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4404d"
+    },
+    {
+      "id": "5f443daf-2497-4444-a203-b8849ea5e866",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for pulmonary circulation. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this systole-related structure.",
+      "powerMarkPosition": 80,
+      "answer": "Systole",
+      "acceptableAnswers": [
+        "systole",
+        "Systole"
+      ],
+      "explanation": "The systole is a key component of the Cardiovascular system, involved in pulmonary circulation.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c425249b-d1fb-4c63-bdc1-d4435b7fd98c",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "In a story by this author, a Bible salesman named Manley Pointer runs away with Hulga's prosthetic leg. This author wrote about a bus ride in which Julian's racist mother has a stroke after offering a penny to a black child. This author of \"Good Country People\" and \"Everything that Rises Must Converge\" wrote a story in which the cat Pitty Sing causes Bailey to crash the family car. In that story by this author, the Misfit kills a grandmother after she calls him \"son.\" For 10 points, name this female Southern author of \"A Good Man is Hard to Find.\"",
+      "powerMarkPosition": 334,
+      "answer": "O",
+      "acceptableAnswers": [
+        "O"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6bc78"
+    },
+    {
+      "id": "e21f2eba-2c0b-4e66-88cd-7f35cfe3c870",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "The first fully synthetic example of this material was a thermosetting resin called Bakelite. Ideonella bacteria have been found to digest PET [P-E-T], an example of this material; other examples of these materials that are created from polymer chains include polystyrene and polyamide, commonly known as styrofoam and nylon. Codes 1 through 7 classify the recycling of, for 10 points, what class of materials that pose a severe pollution threat, especially to the world's oceans?",
+      "powerMarkPosition": 236,
+      "answer": "plastic",
+      "acceptableAnswers": [
+        "plastic",
+        "The plastic"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3101eabc146a6b81891dd"
+    },
+    {
+      "id": "b4f6f769-6269-41c9-8e17-405ead7ea013",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "Two regions in this modern-day nation fought a war in the 1440s over the succession rights to the Duchy of Toggenburg. Peasants in this nation formed the League of Huttwil and rose up in 1653. The Ruetlischwur is an oath of allegiance that men in this country swore to become \"Eidgenosses.\" Its three oldest regions joined in the Federal Charter to form a league of three \"forest\" polities. Heinrich Bullinger was a reformer in this nation, where religious strife prompted the two Kappel Wars. This nation was the home of Huldrych Zwingli, who led a reformation in Zurich. For 10 points, name this canton-composed country with a longstanding policy of neutrality.",
+      "powerMarkPosition": 390,
+      "answer": "Switzerland",
+      "acceptableAnswers": [
+        "Switzerland",
+        "die Schweiz",
+        "la Suisse",
+        "la Svizzera",
+        "la Svriza",
+        "Swiss Confederation",
+        "Confoederatio Helvetica",
+        "The Switzerland"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bcab6bc6fadbe6166da22d"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "dfa3fc67-2d61-485a-a25a-1ba6b8dadf21",
+      "linkedTossupId": "efe0613f-acbd-480b-be76-a03fc295adff",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with four chambers of the heart.",
+          "answer": "atrium",
+          "acceptableAnswers": [
+            "atrium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the atrium in the cardiovascular system?",
+          "answer": "Four chambers of the heart",
+          "acceptableAnswers": [
+            "Four chambers of the heart"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to four chambers of the heart.",
+          "answer": "ventricle",
+          "acceptableAnswers": [
+            "ventricle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "efdf4559-5720-472d-89cd-7a4cfa34b0aa",
+      "linkedTossupId": "3404802a-e549-45d6-8ee3-6e208c423545",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this so-called \"Scottish Play,\" a tragedy by Shakespeare about a title Thane of Glamis who, along with his scheming wife, murders his way to the throne, only to be undone by fear and paranoia.",
+          "answer": "Macbeth",
+          "acceptableAnswers": [
+            "Macbeth",
+            "The Macbeth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Macbeth, this man is predicted to sire a line of kings. Macbeth suspects this man and his son, Fleance, of plotting against him, so he has this man killed.",
+          "answer": "Banquo",
+          "acceptableAnswers": [
+            "Banquo",
+            "The Banquo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The three witches that appear to Macbeth and Banquo at the beginning of the play are known by this name. A rock group in Harry Potter also goes by this name.",
+          "answer": "Weird",
+          "acceptableAnswers": [
+            "Weird",
+            "The Weird"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "At the beginning of this play, it is predicted one man will be king but his friend will beget a line of kings. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806eca0924256318ace22"
+    },
+    {
+      "id": "c9cc3f04-47bb-455f-bd1c-83f1dc33540b",
+      "linkedTossupId": "f6632b22-721b-4655-b0e3-5e4210949f43",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "In 1998, a president of this country was found dead after an encounter with two Indian sex workers, which many believe was at the directions of the CIA. This country's government was responsible for the execution of the Ogoni Nine.",
+          "answer": "Nigeria",
+          "acceptableAnswers": [
+            "Nigeria",
+            "The Nigeria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This woman claimed to have had sex with Eugene Ivanov, who worked for the Soviet GRU, but many doubt that this was the case. What is not in doubt is that this woman had sex with John Profumo, which led to his resignation as Secretary of War.",
+          "answer": "Keeler",
+          "acceptableAnswers": [
+            "Keeler",
+            "The Keeler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During this man's 1953 trial, it emerged that he had committed multiple kidnappings whilst chief of the NKVD and had buried some of his victims in his wife's rose garden.",
+          "answer": "Beria",
+          "acceptableAnswers": [
+            "Beria",
+            "The Beria"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Your bonuses are on secret services and sex scandals. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6327e538099ec9a245d6dea6"
+    },
+    {
+      "id": "7fbe2b96-daf4-4cd5-bc22-5a89b7f8f919",
+      "linkedTossupId": "2a1a2143-ef66-4d61-ac2c-0bc3c9c4e0f3",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "DFT is a computational method to solve an equation named for this scientist which has time-independent and time-dependent varieties. Without observation, it is unclear whether this scientist's theoretical cat is dead or alive.",
+          "answer": "Schrödinger",
+          "acceptableAnswers": [
+            "Schrödinger",
+            "The Schrödinger"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Due to the antisymmetry under exchange of many-electron wavefunctions, examples of this quantity named for Slater are used to represent them in DFT. These quantities, which are only defined for square matrices, can be computed by expansion by minors.",
+          "answer": "determinant",
+          "acceptableAnswers": [
+            "determinant",
+            "The determinant"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The meta-GGA functional contains a term involving an operator named after this French scientist, equivalent to the divergence of the curl. Expansion by minors is also known as this man's expansion.",
+          "answer": "Laplace",
+          "acceptableAnswers": [
+            "Laplace",
+            "The Laplace"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer some questions about the physics and mathematics of density functional theory, or DFT.",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a859a"
+    },
+    {
+      "id": "008158d9-c9ca-426d-945c-450ae01402e8",
+      "linkedTossupId": "9038bffa-e602-41dd-a0e7-a22498dd8987",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this constellation nicknamed The Hunter.",
+          "answer": "Orion",
+          "acceptableAnswers": [
+            "Orion",
+            "The Orion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Within Orion, the three stars Alnitak, Alnilam, and Mintaka form an asterism known as this piece of clothing.",
+          "answer": "Belt",
+          "acceptableAnswers": [
+            "Belt",
+            "The Belt"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Even though this star at Orion's left foot is labeled Beta Orionis, it usually is the brightest star in the constellation.",
+          "answer": "Rigel",
+          "acceptableAnswers": [
+            "Rigel",
+            "The Rigel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It contains Bellatrix and Betelgeuse. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b665"
+    },
+    {
+      "id": "da7bd6d5-8715-4f85-a89a-5dd0876beee8",
+      "linkedTossupId": "21ba46d2-71b7-4353-b788-dcb2b6a0e08f",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This branch of theology is concerned with the end of humanity on earth.",
+          "answer": "eschatology",
+          "acceptableAnswers": [
+            "eschatology",
+            "The eschatology"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "According to both Islam and Judaism, this final war precedes the end-times. In Islam, the two namesake countries are led by Darius of Persia. In Judaism, they represent the nations of Gentiles, who are defeated in favor of a worldwide Israel.",
+          "answer": "Gog",
+          "acceptableAnswers": [
+            "Gog",
+            "The Gog"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While sentient minds will leave the suffering of samsara for the Great Western Paradise, according to Classical Buddhism, those who commit the Great Five Sins pass to this region below the seventh hell.",
+          "answer": "Avichi",
+          "acceptableAnswers": [
+            "Avichi",
+            "The Avichi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "11. Identify the following about the end of the world FTPE.",
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e62d4b"
+    },
+    {
+      "id": "4e729e1f-3a7c-46b9-a77c-756fbae5a36c",
+      "linkedTossupId": "4e19c7e5-f483-497c-857b-f890b3fe03b6",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this painting, whose title figure is crowned by the winged Universe as he sits on a pedestal in front of a Greek temple. Other figures in this painting include Dante, Shakespeare, Euripides and Socrates.",
+          "answer": "Apotheosis of Homer",
+          "acceptableAnswers": [
+            "Apotheosis of Homer",
+            "L’Apothéose d’Homère",
+            "The Apotheosis of Homer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Apotheosis of Homer was painted by this French Neoclassical artist of The Valpinçon Bather. He depicted exotic nude women in The Turkish Bath and La Grande Odalisque.",
+          "answer": "Ingres",
+          "acceptableAnswers": [
+            "Ingres",
+            "The Ingres"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ingres painted the death of this other artist, whose works included the Madonna of the Carnation and Madonna Litta. He is better known for painting a woman with an enigmatic smile in Mona Lisa.",
+          "answer": "Leonardo",
+          "acceptableAnswers": [
+            "Leonardo",
+            "either underlined portion.",
+            "The Leonardo"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the lower-left corner of this painting, Nicolas Poussin appears in black, pointing at the title figure. For 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62edb4fedff988263841bb15"
+    },
+    {
+      "id": "f3f62ff9-9543-4019-a936-9a8d80a5c82a",
+      "linkedTossupId": "a81ec64f-cd2d-435e-9d1b-1fac67779aa5",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with insulin and glucagon.",
+          "answer": "insulin",
+          "acceptableAnswers": [
+            "insulin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the insulin in the endocrine system?",
+          "answer": "Insulin and glucagon",
+          "acceptableAnswers": [
+            "Insulin and glucagon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to insulin and glucagon.",
+          "answer": "glucagon",
+          "acceptableAnswers": [
+            "glucagon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "59ece2d1-3181-4b2f-aa44-04c68ed20c66",
+      "linkedTossupId": "ff5b0407-aa72-4117-b5d1-92c9f7980996",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Chinese dynasty that followed the Shang and was ended by the Warring States period. It saw the Hundred Schools of Thought and the establishment of the Mandate of Heaven",
+          "answer": "Zhou",
+          "acceptableAnswers": [
+            "Zhou",
+            "The Zhou"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this period of the Eastern Zhou kings gradually lost power, with dukes defying the authority of the government of Luoyi. This period's namesake Annals recount the state of Li.",
+          "answer": "Spring and Autumn",
+          "acceptableAnswers": [
+            "Spring and Autumn",
+            "The Spring and Autumn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Fēngjiàn system in the Zhou Dynasty is similar to this European system that utilized vassalage and fiefs.",
+          "answer": "Feudal",
+          "acceptableAnswers": [
+            "Feudal",
+            "The Feudal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This dynasty's \"Western\" Period began with the reign of King Wu at his capital of Fenghao. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b53303"
+    },
+    {
+      "id": "7ef54c4a-480c-4585-9824-6206bd99c976",
+      "linkedTossupId": "086e301f-d675-416d-87ad-36857846743a",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these devices consisting of a weight suspended from a pivot that swings freely. Examples of these devices are often used in grandfather clocks.",
+          "answer": "pendulum",
+          "acceptableAnswers": [
+            "pendulum",
+            "The pendulum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pendulums are examples of these devices, which undergo periodic motion in which the restoring force is proportional to the magnitude of the object's displacement. Another example of these devices is a mass on a spring.",
+          "answer": "harmonic oscillator",
+          "acceptableAnswers": [
+            "harmonic oscillator",
+            "oscillator",
+            "The harmonic oscillator"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Leon Foucault (foo-KOH) used a pendulum to demonstrate the motion of this body. The quantity \"little g\" in the equation for a simple pendulum represents the acceleration due to the gravitational pull of this body.",
+          "answer": "Earth",
+          "acceptableAnswers": [
+            "Earth",
+            "The Earth"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The motion of these devices can be simplified using the small-angle approximation, to solve the resulting differential equation. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a50348"
+    },
+    {
+      "id": "3475a088-5025-4fb1-9ccf-def10da06ca1",
+      "linkedTossupId": "56766e0b-4bd0-46c7-8a2c-1cc0d3b0cb2a",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this sequence of twenty novels, which includes The Dream and The Earth.",
+          "answer": "Rougon-Macquart",
+          "acceptableAnswers": [
+            "Rougon-Macquart",
+            "The Rougon-Macquart"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This French author of Germinal wrote the Rougon-Macquart novels.",
+          "answer": "Zola",
+          "acceptableAnswers": [
+            "Zola",
+            "The Zola"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This novel, which centers on the murder of President Grandmourin by the Roubauds aboard a train, is the seventeenth of the Rougon-Macquart novels.",
+          "answer": "Bête Humaine",
+          "acceptableAnswers": [
+            "Bête Humaine",
+            "The Bête Humaine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Subtitled \"Natural and Social History of a family under the Second Empire,\" the first book in the series appeared in 1871. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fb85"
+    },
+    {
+      "id": "86f8865f-59ee-4dd6-b499-cf881a8acaed",
+      "linkedTossupId": "8693064f-6aac-4cba-b9ee-7894b7c37e7f",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with pacemaker cells and sa node.",
+          "answer": "atrium",
+          "acceptableAnswers": [
+            "atrium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the atrium in the cardiovascular system?",
+          "answer": "Pacemaker cells and SA node",
+          "acceptableAnswers": [
+            "Pacemaker cells and SA node"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to pacemaker cells and sa node.",
+          "answer": "ventricle",
+          "acceptableAnswers": [
+            "ventricle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "66b8ae4b-ea77-4467-8beb-54bbe40e13c0",
+      "linkedTossupId": "f7da3471-be99-4f2d-930d-5c0f00cb8cf6",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with lung lobes and segments.",
+          "answer": "bronchus",
+          "acceptableAnswers": [
+            "bronchus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the bronchus in the respiratory system?",
+          "answer": "Lung lobes and segments",
+          "acceptableAnswers": [
+            "Lung lobes and segments"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to lung lobes and segments.",
+          "answer": "bronchiole",
+          "acceptableAnswers": [
+            "bronchiole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "176bf5c1-8d62-4ec3-ba49-977640e3829a",
+      "linkedTossupId": "20a580d4-e94a-41af-be15-6e48fdd3589b",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this dramatic character who loses the courage to escape to Lake Como when her father returns after her servant decapitates her pet greenfinch.",
+          "answer": "Julie",
+          "acceptableAnswers": [
+            "Julie",
+            "Fröken Julie",
+            "The Julie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Miss Julie is a play by this Swedish author of The Ghost Sonata and the novel The Red Room.",
+          "answer": "Strindberg",
+          "acceptableAnswers": [
+            "Strindberg",
+            "Johan August Strindberg",
+            "The Strindberg"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Miss Julie tells Jean that she has a recurring dream in which she sits on one of these objects but \"can find no rest or peace.\" Bernick tries to sink the Indian Girl in a Henrik Ibsen play titled for these objects.",
+          "answer": "pillar",
+          "acceptableAnswers": [
+            "pillar",
+            "synonyms such as column",
+            "accept The Pillars of Society",
+            "Pillars of the Community",
+            "Samfundets støtter",
+            "The pillar"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character states that \"a servant is a servant\" while her lover counters, \"and a whore is a whore.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63682fe4906588de785564a2"
+    },
+    {
+      "id": "d6bb654c-bdaf-409c-8108-1d950e162e44",
+      "linkedTossupId": "13222874-a4d6-4a2a-8502-62fdaaa9f855",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these structures found along with the bones of the original Archaeopteryx fossil. Modern studies have shown that many dinosaurs were covered in these things instead of scales.",
+          "answer": "feather",
+          "acceptableAnswers": [
+            "feather",
+            "down feathers",
+            "The feather"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One difference between Archaeopteryx and modern birds and reptiles is its lack of uncinate (\"UN-sih-nit\") processes of these structures. The uncinate processes of these structures in birds join with the scapular muscles, allowing for easier flight.",
+          "answer": "rib",
+          "acceptableAnswers": [
+            "rib",
+            "the ribcage",
+            "The rib"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Archeopteryx dates to this geological period, during which the first birds evolved. Therian mammals and the first lizards evolved during this period.",
+          "answer": "Jurassic",
+          "acceptableAnswers": [
+            "Jurassic",
+            "The Jurassic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The first of these objects in the fossil record was discovered by German paleontologist Hermann von Meyer in the Solnhofen limestone. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "639a46d925fac6a63b2b7ffb"
+    },
+    {
+      "id": "a864665d-d81a-4105-8a24-6ae657f2921e",
+      "linkedTossupId": "4110fe16-29ca-4b57-b71d-4c35d55ee0b7",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This country is the setting of Alan Paton's novel Cry, the Beloved Country , which tells the story of the pastor Stephen Kumalo, a man who lives during this country's racist apartheid system.",
+          "answer": "South Africa",
+          "acceptableAnswers": [
+            "South Africa",
+            "The South Africa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Okonkwo beats his wife during the Week of Peace and kills Ikemefuna [ee-kay-may-FOO-nuh] in a novel from this country by Chinua Achebe [CHIN-oo-ah ah-CHAY-bay] that takes place in the Igbo village of Umuofia [oo-moo-OH-fee-uh].",
+          "answer": "Nigeria",
+          "acceptableAnswers": [
+            "Nigeria",
+            "The Nigeria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An Agatha Christie novel about a murder aboard the steamboat Karnak is set in this country. Palace Walk , Palace of Desire , and Sugar Street - novels by an author from this country - make up the Cairo Trilogy .",
+          "answer": "Egypt",
+          "acceptableAnswers": [
+            "Egypt",
+            "The Egypt"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For ten points each, answer some questions about African countries in literature:",
+      "source": "qbreader",
+      "sourceId": "676f723af56e0dff73abeca7"
+    },
+    {
+      "id": "71468b09-0ffe-4ce2-9706-5a36e8d13d11",
+      "linkedTossupId": "5f443daf-2497-4444-a203-b8849ea5e866",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with joint movements.",
+          "answer": "synovial",
+          "acceptableAnswers": [
+            "synovial"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the synovial in the musculoskeletal system?",
+          "answer": "Joint movements",
+          "acceptableAnswers": [
+            "Joint movements"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to joint movements.",
+          "answer": "cartilage",
+          "acceptableAnswers": [
+            "cartilage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "931aeec4-b5c0-4c56-8f77-2722a0d4d891",
+      "linkedTossupId": "c425249b-d1fb-4c63-bdc1-d4435b7fd98c",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this English Romantic poet, whose \"We Are Seven\" and \"Tintern Abbey\" are included in Lyrical Ballads, which he wrote with Samuel Taylor Coleridge.",
+          "answer": "Wordsworth",
+          "acceptableAnswers": [
+            "Wordsworth",
+            "The Wordsworth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Wordsworth's poem \"I Wandered Lonely as a Cloud\" describes \"a host\" of these things.",
+          "answer": "daffodil",
+          "acceptableAnswers": [
+            "daffodil",
+            "flowers",
+            "The daffodil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Wordsworth's \"Lucy\" poems may have partly been about this sister of his, who wrote the classic Grasmere Journal. Her account of daffodils \"dancing\" is suspiciously close to William's, which was written two years later.",
+          "answer": "Dorothy",
+          "acceptableAnswers": [
+            "Dorothy",
+            "The Dorothy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man planned for his long poem The Prelude to actually be a prelude to a gargantuan poem called The Recluse. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a7760"
+    },
+    {
+      "id": "0009c28d-6681-49ab-b9cd-42fb4de6e581",
+      "linkedTossupId": "e21f2eba-2c0b-4e66-88cd-7f35cfe3c870",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this evolution-driven process in which an organism evolves into two separate organisms that cannotproduce fertile offspring together.",
+          "answer": "speciation",
+          "acceptableAnswers": [
+            "speciation",
+            "The speciation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Speciation is described inOn the Origin ofSpecies, a landmark book by this English naturalist.",
+          "answer": "Darwin",
+          "acceptableAnswers": [
+            "Darwin",
+            "The Darwin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Darwin's studies on the Galapagos noted that many island-based organisms, including tortoises and Darwin'sdaisies, evolved this trait. Acromegaly is a disorder in which parts of the human body abnormally gain this trait.",
+          "answer": "gigantism",
+          "acceptableAnswers": [
+            "gigantism",
+            "The gigantism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This process comes in forms like allopatric and sympatric. For ten points each,",
+      "source": "qbreader",
+      "sourceId": "6837af63278db02eb79f1cdc"
+    },
+    {
+      "id": "7a29f728-e945-4734-8f32-728bfaa1fab6",
+      "linkedTossupId": "b4f6f769-6269-41c9-8e17-405ead7ea013",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Boone served as mayor of this city whose police department fired at protestors on Clark Street Bridge. Higher liquor license costs led to that Lager Beer Riot in this city, where later violence occurred during the Haymarket Riot.",
+          "answer": "Chicago",
+          "acceptableAnswers": [
+            "Chicago",
+            "The Chicago"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Boone won the Chicago mayoral election with this party and advocated for temperance. This political party unsuccessfully fielded Millard Fillmore as a presidential candidate in 1856.",
+          "answer": "Know-Nothing",
+          "acceptableAnswers": [
+            "Know-Nothing",
+            "American Party",
+            "Native American Party",
+            "The Know-Nothing"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Levi Boone's Irish successor Thomas Dyer founded this institution that now occupies a building topped with a statue of Ceres. This institution created a grading scheme for one commodity that ranged from \"Club\" to \"Rejected.\"",
+          "answer": "Chicago Board of Trade",
+          "acceptableAnswers": [
+            "Chicago Board of Trade",
+            "CBT",
+            "prompt on partial answers",
+            "The Chicago Board of Trade"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about politician Levi Boone, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "673ec01190236da031c2d162"
+    }
+  ]
+}

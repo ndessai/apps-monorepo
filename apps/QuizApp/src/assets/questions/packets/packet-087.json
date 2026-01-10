@@ -1,0 +1,1136 @@
+{
+  "packetId": "packet-087",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "Fine Arts",
+    "History",
+    "Literature",
+    "Human Body",
+    "Philosophy"
+  ],
+  "tossups": [
+    {
+      "id": "8c05afed-6e3e-455e-bee4-fc836530bd2c",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "Ferguson plots can be used to analyze the results of this technique. One material sometimes used in this technique is made using a crosslinker such as APS or TEMED. The TBE and TAE buffers are commonly used in this technique. Proteins are sometimes denatured with sodium dodecyl sulfate prior to being analyzed using this technique. Fluorescent intercalating agents such as ethidium bromide are used to stain the results of this technique. Standard markers used in this technique are referred to as \"ladders.\" The matrix used in this technique is typically composed of polyacrylamide or agarose. For 10 points, name this technique used to separate different sized fragments of nucleic acids by placing them in a gel matrix and subjecting them to an electric field.",
+      "powerMarkPosition": 373,
+      "answer": "electrophoresis",
+      "acceptableAnswers": [
+        "electrophoresis",
+        "answers like “running a gel”",
+        "The electrophoresis"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34c09"
+    },
+    {
+      "id": "67160e9a-3176-426d-9710-78c2be5dff85",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "Musical works of this type that are nicknamed Palindrome and Surprise are two of the one-hundred-four of these works written by their \"father,\" Joseph Haydn. Mahler wrote his \"Song of the Earth\" to avoid the \"curse of the ninth\" associated with these works, and Brahms's first one is nicknamed \"Beethoven's Tenth.\"Four movements make up the modern form of, for 10 points, what long musical works for full orchestra?",
+      "powerMarkPosition": 221,
+      "answer": "symphony",
+      "acceptableAnswers": [
+        "symphony",
+        "The symphony"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba97184"
+    },
+    {
+      "id": "b5c5d2b1-8993-43ff-ac94-d2221cf37ecb",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "open",
+      "text": "This region was subject to a campaign to erase its cultural identity through an Educational Ordinance and \"citizen schools,\" a process which was furthered by over eighty percent of the population taking new names. This region's Manse Demonstrations in 1919 were part of its Samil Movement, or March 1st Movement, protesting this region's foreign occupation. Resistance in this region also caused the flourishing of Christianity by many people who were opposed to the worship of a foreign emperor. For 10 points, name this region that was occupied by Japan from 1910 until 1945, when it was liberated and split along the 38th parallel into two countries.",
+      "powerMarkPosition": 213,
+      "answer": "Korea",
+      "acceptableAnswers": [
+        "Korea",
+        "Hangook bando",
+        "Choson bando",
+        "The Korea"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df8ab610329be735a33ea5"
+    },
+    {
+      "id": "b48ff961-ccfd-4574-b699-2e4366510a29",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "One art museum in this city was given an aluminum mesh façade in a 2005 expansion by Herzog & de Meuron. Kenzo Tange's only completed project in the U.S. was an expansion of another art museum in this city that was itself expanded by the 2001 addition of a Michael Graves-designed Children's Theatre Company. Frank Lloyd Wright's Willey House is found in this city, which is home to an orchestra that ended a three-year lockout of its musicians in 2014. A Jean Nouvel-designed theater in this city includes a cantilevered lobby that juts out into the sky called the Endless Bridge. One of this city's tallest skyscrapers, which contains thirty-two corner offices on each floor because of a unique series of setbacks termed \"zogs,\" also has a seven-story Crystal Court. This site of the Walker Art Center and the Guthrie Theater is also home to Claes Oldenburg's sculpture of a cherry resting on a spoon. For 10 points, name this Midwestern city that contains Philip Johnson's IDS Tower.",
+      "powerMarkPosition": 453,
+      "answer": "Minneapolis",
+      "acceptableAnswers": [
+        "Minneapolis",
+        "The Minneapolis"
+      ],
+      "source": "qbreader",
+      "sourceId": "63565e81aa22adfc2679133a"
+    },
+    {
+      "id": "54fb7781-fcb4-4298-b1b1-8454f2312d2e",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "A novelist of this ethnicity wrote of a doctor who unsuccessfully takes his wife to divorce court for 17 years. The memoir Red Azalea exemplifies the \"scar literature\" written by members of this ethnic group, which includes the author of Waiting. A writer of this ethnic background was inspired by the \"talk-stories\" of her mother to write a memoir subtitled in reference to her mother's remark that all white people are \"ghosts.\" The Woman Warrior was written by an author of this ethnicity, which is the ethnicity of June and her rival Waverley in a novel framed around their mothers' monthly meeting to play a certain board game. For 10 points, Maxine Hong Kingston and Amy Tan are US residents of what ethnicity of the members of the Joy Luck Club?",
+      "powerMarkPosition": 440,
+      "answer": "Chinese",
+      "acceptableAnswers": [
+        "Chinese",
+        "Han Chinese",
+        "accept Zhōngguó rén",
+        "accept Huárén",
+        "prompt on Asian Americans",
+        "The Chinese"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed60f71539231f571edd09"
+    },
+    {
+      "id": "e93a40ab-49e1-4c8c-a722-f6a58ea74ae6",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "A character in a novel by this author is stabbed to death by two men after he asks one of them to move his feet off a seat for a pregnant woman on a train. This author created a woman who does not know the father of her child because she had sex with two siblings twenty minutes apart. Keisha changes her name to Natalie and secretly arranges sex with swinger couples online in a novel by this author, who ended another novel at a FutureMouse conference organized by Marcus Chalfen. A novel by this author begins with a butcher interrupting a man's attempt to gas himself in his car and chronicles a World War II veteran's attempts to raise the twins Magid and Millat along with his friendship with Archie Jones. For 10 points, name this British author of NW and White Teeth.",
+      "powerMarkPosition": 430,
+      "answer": "Smith",
+      "acceptableAnswers": [
+        "Smith",
+        "Zadie Adeline Smith",
+        "Sadie Adeline Smith",
+        "The Smith"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae8999"
+    },
+    {
+      "id": "7c3e7d75-bc3e-4f9b-9afa-2d42a72108e9",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for neurotransmitters. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this axon-related structure.",
+      "powerMarkPosition": 76,
+      "answer": "Axon",
+      "acceptableAnswers": [
+        "axon",
+        "Axon"
+      ],
+      "explanation": "The axon is a key component of the Nervous system, involved in neurotransmitters.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "268f9fd7-a8d4-48d4-9bc7-004995c7df32",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "This composer's fourth symphony incorporates the composer's song \"Das himmlische Leben\" in the fourth movement, which features a soprano soloist. The aforementioned song by this composer was based on the song cycle Des Knaben Wunderhorn. The third movement of his first symphony includes a minor-key version of \"Freres Jacques\" as a dirge. This conductor of the Vienna Court Opera attempted to avoid the \"curse of the ninth\" by not labeling The Song of the Earth as a symphony. For 10 points, name this German composer of the \"Titan\" and \"Resurrection\" symphonies, and the \"Symphony of a Thousand.\"",
+      "powerMarkPosition": 310,
+      "answer": "Mahler",
+      "acceptableAnswers": [
+        "Mahler",
+        "The Mahler"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f745d63ec41269ea9912ca"
+    },
+    {
+      "id": "fea05c43-4c2a-42a8-9666-ccf9eb3a2eea",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "In these systems, CMA diagrams can be used to categorise oscillations and show their wave normal surfaces. Electromagnetic waves can undergo non-collisional attenuation in these systems in Landau damping. Low frequency vibrations called Alfven waves can occur in these systems whose time evolution is described by the Vlasov equation. One of these quasi-neutral substances is confined by a toroidal magnetic field in a tokamak reactor for nuclear fusion. Ionisation of a gas generates, for 10 points, what \"fourth state of matter\"?",
+      "powerMarkPosition": 236,
+      "answer": "Plasma",
+      "acceptableAnswers": [
+        "Plasma",
+        "The Plasma"
+      ],
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db46aca"
+    },
+    {
+      "id": "ab0b2e5f-7692-4731-82ed-ee4100bc165f",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "Teich, Saleh, and Soler proposed a version of this experiment to study the anti-bunching of light. Calculations using conservation of angular momentum showed that events observed in the data must correspond to a transition into the 3P1 [three-P-one.] The collecting plate in this experiment had a slight negative charge, and its investigators saw sudden drops in the current at evenly spaced intervals of 4.9 electron volts when a beam of electrons was fired at a glass envelope filled with mercury. Inelastic collisions were the cause of the drops in the current, For 10 points, identify this experiment which showed that the electrons occupy discrete quantized states, which won its investigators the 1925 Nobel prize in Physics.",
+      "powerMarkPosition": 366,
+      "answer": "Franck",
+      "acceptableAnswers": [
+        "Franck",
+        "The Franck"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba673874e0ef7dd7b2706"
+    },
+    {
+      "id": "c6a2b50c-f3da-40fb-8d7e-54fd1604b727",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "One poem by this man ends, \"We shall go mad no doubt, and die that way,\" if \"we let our tongues lose self-possession\". That poem notes, \"We spell away the overhanging night/We spell away the soldiers and the fright,\" and begins, \"Children are dumb to say how hot the sun is.\" Another poem states that the title entity needs \"no scrutinizing glass/No intense light to be streamed/Upon it\" and describes it as \"[p]ast reason and past synonym\". This poet of \"The Cool Web\" and \"In the Beginning Was A Word\" asked in another poem, \"Has God's supply of tolerable husbands/Fallen, in fact, so low?\". This poet of \"A Slice of Wedding Cake\" also described the killing of German prisoners of war by the British army in a memoir about his WWI experiences, and wrote a fictional biography of the title emperor in another work. For 10 points, name this author of Goodbye To All That and I, Claudius.",
+      "powerMarkPosition": 441,
+      "answer": "Graves",
+      "acceptableAnswers": [
+        "Graves",
+        "The Graves"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895997a0d8ea074be7949"
+    },
+    {
+      "id": "fb90ac1e-c62f-4e35-a544-b637b9845267",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "In one story by this author, the narrator describes arriving in Europe and being faced with the decision between \"the Zoological Garden or the Music Hall.\" That narrator, an ape named Red Peter, chronicles his experiences learning to mimic human behavior in this author's \"A Report to an Academy.\" In a novel by this author, the protagonist is advised by the financially ruined businessman Rudi Block, the painter Titorelli, and the lawyer Herr Huld. That novel by this author contains the parable \"Before the Law\" and ends with the protagonist's last words, \"like a dog!\" For 10 points, name this author who wrote about Josef K in The Trial, who also described a grotesque transformation in The Metamorphosis.",
+      "powerMarkPosition": 389,
+      "answer": "Kafka",
+      "acceptableAnswers": [
+        "Kafka",
+        "The Kafka"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eea9fb047a67fbbb305c2d"
+    },
+    {
+      "id": "f9203d1d-c73f-4024-9c45-2c247cb043f5",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for cerebral cortex lobes. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this cerebrum-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Cerebrum",
+      "acceptableAnswers": [
+        "cerebrum",
+        "Cerebrum"
+      ],
+      "explanation": "The cerebrum is a key component of the Nervous system, involved in cerebral cortex lobes.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "38366956-9c0d-435b-9b35-b97b0ea6cebe",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "Empedocles argued that these things were mixed together by Love and Strife. Aristotle introduced the aether to this group of things. Thales and Heraclitus disagreed over which member of this group of things was the underlying substance of everything. These things title a book that introduced geometry postulates by Euclid. Ancient Greeks believed that there were four of these things, air, water, earth, and fire. For 10 points, name these things whose modern classification are organized on the periodic table.",
+      "powerMarkPosition": 315,
+      "answer": "element",
+      "acceptableAnswers": [
+        "element",
+        "four elements",
+        "accept air",
+        "water",
+        "earth",
+        "and fire in any order until they are read",
+        "prompt on partial answer",
+        "The element"
+      ],
+      "source": "qbreader",
+      "sourceId": "66e1bbb7b3ec1cfe3cd4a6f0"
+    },
+    {
+      "id": "37772232-b1c0-4190-ac45-e8cee4c9b1af",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "Craig Castleman documented rising artists in this medium in his book Getting Up. Blek le Rat is known for frequently depicting rats using this medium. Another work in this medium depicts figures dancing on a red background and is a symbol of anti-drug activism. One artist in this medium worked with Al Diaz in a duo named SAMO. A red heart-shaped balloon floats away from a girl in Balloon Girl, a collection of works in this medium. Jean-Michel Basquiat and Banksy are known for their works in this medium. For 10 points, name this medium of art often considered vandalism and done with spray paint.",
+      "powerMarkPosition": 322,
+      "answer": "graffiti",
+      "acceptableAnswers": [
+        "graffiti",
+        "street art",
+        "guerilla art",
+        "prompt on murals",
+        "The graffiti"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b1864"
+    },
+    {
+      "id": "884a85a8-d19c-4188-8122-6a80666f7226",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "At one symposium, a philosopher from this school of thought was attacked with lines from The Bacchae by their frequent correspondent Theodorus the Atheist. Another philosopher from this school imagined a city named for the pera knapsacks its members carried and surrounded by tuphos smog. The married couple of Hipparchia of Maroneia and Crates of Thebes both belonged to this school, which espoused a candid form of speech called parrhesia. A student of Antisthenes belonging to this school of thought held a lantern during the day while wandering through Athens to look for \"an honest man\" and once told Alexander the Great to get out of his sun. For 10 points, name this school of thought espoused by Diogenes that lends its name to a distrustful attitude.",
+      "powerMarkPosition": 337,
+      "answer": "Cynic",
+      "acceptableAnswers": [
+        "Cynic",
+        "The Cynic"
+      ],
+      "source": "qbreader",
+      "sourceId": "66763418fe8264b343f111d7"
+    },
+    {
+      "id": "37f14a85-1610-464d-8fc0-74758526003d",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "Salts of this element are used to transform aryl diazonium salts into aryl halides in the Sandmeyer reaction. This metal and lithium are used to perform 1,4 addition on conjugated enones as the catalytic component of Gilman reagents. Two reagents used to detect aldehydes contain the sulfate of this element; those reagents are Fehling's solution and Benedict's reagent. In a flame test, this element produces a blue-green color. This element reacts with acetic acid to form verdigris and is alloyed with tin to produce bronze. For 10 points, name this metal found above silver and gold on the periodic table which has a distinct brown color.",
+      "powerMarkPosition": 411,
+      "answer": "copper",
+      "acceptableAnswers": [
+        "copper",
+        "Cu",
+        "The copper"
+      ],
+      "source": "qbreader",
+      "sourceId": "66cd4c3bc5459312fdcc53c0"
+    },
+    {
+      "id": "0a52b43e-3be5-43ec-998d-dafd40cd2976",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "Bertrand Russell formulated one of these statements concerning the set of all sets which do not contain themselves. One of these statements involving Achilles chasing a tortoise was one of many of these statements posed by Zeno of Elea. The \"grandfather\" one of these things results from committing murder while time traveling. For 10 points, name these statements which contradict themselves.",
+      "powerMarkPosition": 240,
+      "answer": "paradox",
+      "acceptableAnswers": [
+        "paradox",
+        "The paradox"
+      ],
+      "source": "qbreader",
+      "sourceId": "65666e00443a0a5dea0044f3"
+    },
+    {
+      "id": "aa08d2df-2699-4925-85a9-8a79b7ee8a2a",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "This man successfully defended Aaron Burr from treason charges following Burr's duel with Alexander Hamilton, and this man later participated in a duel with John Randolph in which both parties survived. This man's plan included federal infrastructure projects like the National Road and the Maysville Road. This man was part of the Great Triumvirate alongside Daniel Webster and John Calhoun. This man was offered the post of Secretary of State as part of the \"Corrupt Bargain\" in the Election of 1824. For 10 points, name the Whig senator from Kentucky who proposed the American System and was known as the Great Compromiser.",
+      "powerMarkPosition": 337,
+      "answer": "Clay",
+      "acceptableAnswers": [
+        "Clay",
+        "The Clay"
+      ],
+      "source": "qbreader",
+      "sourceId": "652ebb768051389c667bd1c8"
+    },
+    {
+      "id": "fc59a3f4-92ff-4a5b-9f88-32ce257b15e4",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "Ketogluterate becomes succinate when this molecule is lost, and the absence of this molecule causes alkalosis. Hemoglobin absorbs more oxygen when this compound is present in blood. It is bubbled through water to form carbonic acid, and it is fixed by chloroplasts in the dark reactions. After water, it is the most significant greenhouse gas. Used in photosynthesis, for 10 points, name this compound exhaled by humans, abbreviated CO2.",
+      "powerMarkPosition": 251,
+      "answer": "Carbon Dioxide",
+      "acceptableAnswers": [
+        "Carbon Dioxide",
+        "The Carbon Dioxide"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e6a0924256318ac82f"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "8a397d1a-64d7-4e23-bd92-4854090f70ea",
+      "linkedTossupId": "8c05afed-6e3e-455e-bee4-fc836530bd2c",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this property influenced by the common-ion effect. Unlike gases, solids usually see an increase in this property as temperature increases, an example of which would be sugar in hot tea.",
+          "answer": "solubility",
+          "acceptableAnswers": [
+            "solubility",
+            "The solubility"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Henry's law states that the solubility of a gas is proportional to this quantity. In Raoult's law, this quantity for a component of a solution is equal to that component's vapor pressure times its mole fraction.",
+          "answer": "partial pressure",
+          "acceptableAnswers": [
+            "partial pressure",
+            "The partial pressure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These factors are added to Henry and Raoult's laws to account for deviations from the behavior of an ideal solution. In an ideal solution these factors are equal to one.",
+          "answer": "activity coefficient",
+          "acceptableAnswers": [
+            "activity coefficient",
+            "The activity coefficient"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Water softening often takes advantage of one effect related to this property by adding sodium carbonate to water drawn from limestone aquifers. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b89007"
+    },
+    {
+      "id": "536fff25-4d86-4d40-b789-c55c7b54710b",
+      "linkedTossupId": "67160e9a-3176-426d-9710-78c2be5dff85",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this type of musical composition set to the liturgy of the Catholic church service. J.S. Bach wrote a famous one in B Minor.",
+          "answer": "mass",
+          "acceptableAnswers": [
+            "mass",
+            "The mass"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This type of mass is usually played at funerals and often includes a \"Dies Irae\" sequence. Gabriel Faure' composed a popular one of these and Benjamin Britten composed a \"War\" one.",
+          "answer": "requiem",
+          "acceptableAnswers": [
+            "requiem",
+            "The requiem"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Italian composer wrote a famous 1874 requiem, but is more famous for composing music for operas such as Aida and Rigoletto .",
+          "answer": "Verdi",
+          "acceptableAnswers": [
+            "Verdi",
+            "The Verdi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Music set to this type of composition usually opens with a Kyrie and ends with an Agnus Dei . For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b806"
+    },
+    {
+      "id": "262292a4-b495-469e-8b19-f690c4567e51",
+      "linkedTossupId": "b5c5d2b1-8993-43ff-ac94-d2221cf37ecb",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this conflict which featured the capture of Mafeking and the exile of Paul Kruger.",
+          "answer": "First Boer",
+          "acceptableAnswers": [
+            "First Boer",
+            "The First Boer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In another nineteenth-century conflict involving Britain, the English launched the first of three wars in this country at the Battle of Ghazni, but the native inhabitants drove them out after three years.",
+          "answer": "Afghanistan",
+          "acceptableAnswers": [
+            "Afghanistan",
+            "The Afghanistan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "And of course, Britain and the US also 'fought' the bloodless Aroostok war over the boundary of Maine, which was finally set by this doubly eponymous treaty.",
+          "answer": "Webster-Ashburton Treaty",
+          "acceptableAnswers": [
+            "Webster-Ashburton Treaty",
+            "The Webster-Ashburton Treaty"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It was precipitated by the appointment of Sir Alfred Milner. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b1227"
+    },
+    {
+      "id": "f59785d3-5c49-4291-b7f2-b1b396eb98cc",
+      "linkedTossupId": "b48ff961-ccfd-4574-b699-2e4366510a29",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this German artist, said to have painted the first autonomous landscapes in European art history in forest scenes like Landscape with Footbridge.",
+          "answer": "Altdorfer",
+          "acceptableAnswers": [
+            "Altdorfer",
+            "The Altdorfer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Altdorfer's best-known painting, the moon and the sun appear in the sky simultaneously as a giant inscription floats over a military victory for this general.",
+          "answer": "Alexander the Great",
+          "acceptableAnswers": [
+            "Alexander the Great",
+            "Alexander III of Macedon",
+            "accept The Battle of Alexander at Issus",
+            "accept Alexander's Victory",
+            "accept The Battle of Issus",
+            "prompt on just Alexander",
+            "The Alexander the Great"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a painting by Altdorfer, this saint is dwarfed by a gigantic forest scene; however, he still plays his traditional role of slaying a dragon.",
+          "answer": "George",
+          "acceptableAnswers": [
+            "George",
+            "The George"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This artist painted four scenes from the life of Saint Sebastian for St. Florian Abbey, and he showed a bunch of angels playing around in a Roman fountain in his Rest on the Flight into Egypt. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df8ab610329be735a33ebc"
+    },
+    {
+      "id": "8ce2bb33-38aa-4410-916a-20779a6f4d14",
+      "linkedTossupId": "54fb7781-fcb4-4298-b1b1-8454f2312d2e",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this novel centering on Jim's visit with the title woman and her husband, Anton Cuzak.",
+          "answer": "My Antonia",
+          "acceptableAnswers": [
+            "My Antonia",
+            "The My Antonia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of My Antonia included it as part of her \"Prairie Trilogy,\" which also includes The Song of the Lark and O Pioneers!",
+          "answer": "Cather",
+          "acceptableAnswers": [
+            "Cather",
+            "The Cather"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Jim Burden returns to this US state in the opening of My Antonia. In O Pioneers!, the Bergsons' farm is located in this state's fictional town of Hanover.",
+          "answer": "Nebraska",
+          "acceptableAnswers": [
+            "Nebraska",
+            "The Nebraska"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Jim Burden defends the title character of this novel by killing a rattlesnake with a shovel. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f745d63ec41269ea991235"
+    },
+    {
+      "id": "b9653336-c60a-481c-b7d5-db64332d5b40",
+      "linkedTossupId": "e93a40ab-49e1-4c8c-a722-f6a58ea74ae6",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this man who titles a novel held as an exemplar of \"INTERPRET-ME fiction\" in the essay \"The Empty Plenum.\" That novel titled for this man is about the painter Kate, who may be the last woman on Earth.",
+          "answer": "Wittgenstein",
+          "acceptableAnswers": [
+            "Wittgenstein",
+            "Ludwig Josef Johann Wittgenstein",
+            "The Wittgenstein"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of The Broom of the System incorporated Wittgenstein's reading of solipsism into his footnote-laden novel Infinite Jest.",
+          "answer": "Wallace",
+          "acceptableAnswers": [
+            "Wallace",
+            "The Wallace"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In \"The Empty Plenum,\" Wallace links Wittgenstein's Mistress to this author's love of paranoia. In a novel by this author, a song referencing the Tractactus's Thesis 1.7 is sung to Benny Profane and the Whole Sick Crew.",
+          "answer": "Pynchon",
+          "acceptableAnswers": [
+            "Pynchon",
+            "Thomas Ruggles Pynchon Jr.",
+            "The Pynchon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The title of the novel The Broom of the System refers to a riddle that Gramma Lenore learned from this person about whether a broom's handle or bristles are more useful. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d6dbb47c00e8c6f8d887d4"
+    },
+    {
+      "id": "5aff817d-6e41-4e06-9a55-da50d59fbd01",
+      "linkedTossupId": "7c3e7d75-bc3e-4f9b-9afa-2d42a72108e9",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with anterior pituitary hormones.",
+          "answer": "hypothalamus",
+          "acceptableAnswers": [
+            "hypothalamus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hypothalamus in the endocrine system?",
+          "answer": "Anterior pituitary hormones",
+          "acceptableAnswers": [
+            "Anterior pituitary hormones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to anterior pituitary hormones.",
+          "answer": "pituitary",
+          "acceptableAnswers": [
+            "pituitary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c50a6f98-4c07-439c-9693-26aba9497009",
+      "linkedTossupId": "268f9fd7-a8d4-48d4-9bc7-004995c7df32",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this orchestral suite whose second movement waltz features a violin melody beginning on scale degrees \"3 2 4 3\" in A major.",
+          "answer": "Swan Lake",
+          "acceptableAnswers": [
+            "Swan Lake",
+            "Tchaikovsky’s Opus 20a",
+            "The Swan Lake"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This French composer's clarinet sonata, written in his final year, begins with a similar melody in a similar rhythm on scale degrees \"1 7 2 1, 3 2 4 3.\" He also wrote Danse Macabre, Introduction and Rondo Capriccioso, and Carnival of the Animals.",
+          "answer": "Saint-Saëns",
+          "acceptableAnswers": [
+            "Saint-Saëns",
+            "The Saint-Saëns"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A \"3 2 4 3\" melody comprises the \"Pastorella\" schema in Robert Gjerdigen's Music in the Galant Style, which describes a musical style popular in the middle part of this century.",
+          "answer": "18",
+          "acceptableAnswers": [
+            "18",
+            "1700s"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "[Note to moderator: Read numbers slowly] This suite begins with an oboe melody played over tremolo strings and harp arpeggios spelling out B minor chords. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68fc55cfc262e4078e906f1f"
+    },
+    {
+      "id": "95cdc20a-45de-438c-9285-04e5c562b15f",
+      "linkedTossupId": "fea05c43-4c2a-42a8-9666-ccf9eb3a2eea",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these occurrences that happen when two inputs are mapped to the same output.",
+          "answer": "collision",
+          "acceptableAnswers": [
+            "collision",
+            "The collision"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Collisions are harmful when they occur in these structures, made up of an array and an associative function used for storing data.",
+          "answer": "hash",
+          "acceptableAnswers": [
+            "hash",
+            "The hash"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chaining to resolve collisions makes use of a linked kind of this structure. These structures in general consist of nodes containing a value, a pointer to the next node, and possibly other pointers.",
+          "answer": "list",
+          "acceptableAnswers": [
+            "list",
+            "The list"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These can be resolved by using linear probing or separate chaining. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df83920c3a38102cd75721"
+    },
+    {
+      "id": "963c2202-48f3-4d06-9ef4-9857577072eb",
+      "linkedTossupId": "ab0b2e5f-7692-4731-82ed-ee4100bc165f",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this energy transfer mechanism between two chromophores through nonradiative dipole-dipole coupling.",
+          "answer": "FRET",
+          "acceptableAnswers": [
+            "FRET",
+            "Förster resonance energy transfer",
+            "The FRET"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This parameter for characterizing FRET is often assumed to be ⅔. It is typically approximated in a formula relating the transition dipole moments of the donor and acceptor fluorophores and the distance between them.",
+          "answer": "orientation factor",
+          "acceptableAnswers": [
+            "orientation factor",
+            "kappa squared",
+            "The orientation factor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "FRET efficiency can be calculated by observing photobleaching rates by plotting fluorescence against this quantity. The plot of fluorescence against this quantity results in a decaying exponential in which this quantity is divided by a namesake constant.",
+          "answer": "time",
+          "acceptableAnswers": [
+            "time",
+            "The time"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A CFP-YFP pair is commonly used for techniques relying on this process which has an \"efficiency\" inversely proportional to the sixth power of distance. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c08d5b3dc7dc712c76f5"
+    },
+    {
+      "id": "cb0d2ac3-4e02-4ab7-886a-d2d1291c5120",
+      "linkedTossupId": "c6a2b50c-f3da-40fb-8d7e-54fd1604b727",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this play in which the dark-skinned Zachariah carries on a pen-pal relationship with a woman named Ethel Lange and resents the ability of his light-skinned brother Morris to pass as white.",
+          "answer": "Blood Knot",
+          "acceptableAnswers": [
+            "Blood Knot",
+            "The Blood Knot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Blood Knot was written by this South African playwright, who depicted two cellmates rehearsing a performance of Sophocles's Antigone in his play The Island and also penned MASTER HAROLD... and the Boys.",
+          "answer": "Fugard",
+          "acceptableAnswers": [
+            "Fugard",
+            "Harold Athol Lanigan Fugard",
+            "The Fugard"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The title character of this Fugard play, which opens in the photography studio of a man named Styles, is aided by his friend Buntu in adopting the identity of one Robert Zwelinzima, in order to acquire a work-seeker's permit.",
+          "answer": "Sizwe Bansi is Dead",
+          "acceptableAnswers": [
+            "Sizwe Bansi is Dead",
+            "The Sizwe Bansi is Dead"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Both premiere performances of this play featured its author and Zakes Mokae playing its two protagonists. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e6d39"
+    },
+    {
+      "id": "6a21bf49-b179-4585-8cda-cf3d82e2abab",
+      "linkedTossupId": "fb90ac1e-c62f-4e35-a544-b637b9845267",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this novel in which the title Chicago-born character engages in such escapades as smuggling immigrants across the Canadian border, running off to Mexico with Thea, and marrying Stella.",
+          "answer": "Adventures of Augie March",
+          "acceptableAnswers": [
+            "Adventures of Augie March",
+            "The Adventures of Augie March"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Adventures of Augie March is by this author of Henderson the Rain King and Humboldt's Gift.",
+          "answer": "Bellow",
+          "acceptableAnswers": [
+            "Bellow",
+            "The Bellow"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Saul Bellow's title character Herzog addresses many of these to various people, living and dead, but never sends any. C. Auguste Dupin investigates the theft of a title one of these in an Edgar Allan Poe story.",
+          "answer": "letter",
+          "acceptableAnswers": [
+            "letter",
+            "The letter"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Two of this novel's characters train an eagle named Caligula to hunt iguanas. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b9aa"
+    },
+    {
+      "id": "c9b097c3-c52b-4da8-a962-67f1c51f1795",
+      "linkedTossupId": "f9203d1d-c73f-4024-9c45-2c247cb043f5",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with spinal nerves.",
+          "answer": "spinal cord",
+          "acceptableAnswers": [
+            "spinal cord"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the spinal cord in the nervous system?",
+          "answer": "Spinal nerves",
+          "acceptableAnswers": [
+            "Spinal nerves"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to spinal nerves.",
+          "answer": "reflex",
+          "acceptableAnswers": [
+            "reflex"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "223e8243-3648-46fb-af87-6843292ddfb2",
+      "linkedTossupId": "38366956-9c0d-435b-9b35-b97b0ea6cebe",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this thinker, who echoed Cicero's belief that many citizens have better judgment than a single dictator in his Discourses on Livy.",
+          "answer": "Machiavelli",
+          "acceptableAnswers": [
+            "Machiavelli",
+            "The Machiavelli"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Machiavelli wrote \"it is better to be feared than loved\" in this political treatise dedicated to Lorenzo de Medici.",
+          "answer": "Prince",
+          "acceptableAnswers": [
+            "Prince",
+            "The Prince"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Machiavelli wrote a treatise titled for the Art of [this concept]. Sun Tzu described the use of deception in another work titled for the Art of [this concept].",
+          "answer": "war",
+          "acceptableAnswers": [
+            "war",
+            "The Art of War",
+            "The war"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This thinker wrote \"what benefits the enemy harms you\" in one Socratic dialogue. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7ded79"
+    },
+    {
+      "id": "6ce3a068-a6b0-45fa-8574-9b4bb21ba36a",
+      "linkedTossupId": "37772232-b1c0-4190-ac45-e8cee4c9b1af",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Koussevitzky acted as a mentor to this composer and championed much of this composer's music, beginning with the Symphony for Organ and Orchestra in 1924. Koussevitzky also conducted the first recording of the orchestral suite to this composer's ballet Appalachian Spring.",
+          "answer": "Copland",
+          "acceptableAnswers": [
+            "Copland",
+            "The Copland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In addition to conducting, Koussevitzky was a talented performer of this instrument for which he wrote a concerto in F-sharp minor. This instrument is the largest and lowest instrument in an orchestra's string section.",
+          "answer": "bass",
+          "acceptableAnswers": [
+            "bass",
+            "string bass",
+            "upright bass",
+            "contrabass",
+            "do not accept",
+            "prompt on “contrabassoon”",
+            "The bass"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 1922, Koussevitzky commissioned Maurice Ravel to create an orchestration of this piano suite. In his orchestration, Ravel opened a depiction of an oxcart using a tuba solo in this suite's third movement, \"Bydło\" [bid-woh].",
+          "answer": "Pictures at an Exhibition",
+          "acceptableAnswers": [
+            "Pictures at an Exhibition",
+            "The Pictures at an Exhibition"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The conductor Serge [surge] Koussevitzky [koo-seh-VITZ-key] made many contributions to early 20th century music. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6466620aecba4f3099064ee7"
+    },
+    {
+      "id": "38f091ba-81e2-4161-821a-aab325d9238e",
+      "linkedTossupId": "884a85a8-d19c-4188-8122-6a80666f7226",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this sutra that begins with its speaker recounting a tale he heard at Vulture's Peak. It essentially claims that anyone can become a Buddha, while at the same time it rejects the triyana notion of attaining Buddha-hood.",
+          "answer": "Lotus",
+          "acceptableAnswers": [
+            "Lotus",
+            "The Lotus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Lotus Sutra is a major text in this branch of Buddhism, which includes Boddhisatvas. The name of this branch means \"Great Vehicle.\"",
+          "answer": "Mahayana",
+          "acceptableAnswers": [
+            "Mahayana",
+            "The Mahayana"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This follower of Buddhism in Mt. Koya in Japan concluded that attaining Buddha-Hood can be best done by following the instructions of the Lotus Sutra. This Kamakuran religious figure produced many of his works while on Mount Minobu.",
+          "answer": "Nichiren",
+          "acceptableAnswers": [
+            "Nichiren",
+            "The Nichiren"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "At the end of it, we learn that King Wonderful Achievement is worthy enough to be the Sala Tree Buddha, so that his country can become the \"Land of the Great Light.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43c95"
+    },
+    {
+      "id": "5d39c243-108a-4fb4-b8fa-a90da81fe862",
+      "linkedTossupId": "37f14a85-1610-464d-8fc0-74758526003d",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this device that splits and recombines a beam using a half-silvered mirror. It detects \"fringes\" caused by superposition of light waves and can measure small displacements.",
+          "answer": "interferometer",
+          "acceptableAnswers": [
+            "interferometer",
+            "The interferometer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This experiment, conducted in Cleveland, notably used an interferometer. It disproved the existence of a medium through which light was thought to travel, luminiferous ether.",
+          "answer": "Michelson-Morley",
+          "acceptableAnswers": [
+            "Michelson-Morley",
+            "The Michelson-Morley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This phenomenon can explain the results of the experiment, although time dilation was also proposed. This phenomenon typically applies to objects moving at relativistic speeds.",
+          "answer": "length contraction",
+          "acceptableAnswers": [
+            "length contraction",
+            "Lorentz contraction",
+            "Lorentz-FitzGerald contraction",
+            "prompt on contraction",
+            "The length contraction"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This instrument was used in LIGO to detect gravitational waves. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97422e13"
+    },
+    {
+      "id": "594fea2d-ef26-4bc7-bffd-3370a8b6a1ee",
+      "linkedTossupId": "0a52b43e-3be5-43ec-998d-dafd40cd2976",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this group founded by L. Ron Hubbard, which opposes traditional psychiatry and includes the evil alien Xenu in its cosmology.",
+          "answer": "Scientology",
+          "acceptableAnswers": [
+            "Scientology",
+            "The Scientology"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "L. Ron Hubbard authored this book four years before founding Scientology. It teaches believers how to rid the reactive mind of engrams.",
+          "answer": "Dianetics",
+          "acceptableAnswers": [
+            "Dianetics",
+            "DMSMH",
+            "The Dianetics"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The cover of Dianetics shows one of these entities, around which Xenu killed billions of people 75 million years ago. Pele is a Polynesian god of these entities which form Hawaii's isles.",
+          "answer": "volcano",
+          "acceptableAnswers": [
+            "volcano",
+            "“volcanic islands",
+            "” do not accept",
+            "prompt “mountains”",
+            "The volcano"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This belief system uses auditing to remove malicious souls, or thetans, from adherents to help them reach Clear status. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d44064"
+    },
+    {
+      "id": "ad2b8703-bee5-4b9e-ba81-721e1fc77138",
+      "linkedTossupId": "aa08d2df-2699-4925-85a9-8a79b7ee8a2a",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The Hunley was the first of these machines to perform a successful attack. Historian Richard Compton-Hall argued that a revolution-era attack by one of these machines named Turtle was fabricated for propaganda purposes.",
+          "answer": "submarine",
+          "acceptableAnswers": [
+            "submarine",
+            "submersibles",
+            "prompt on subs",
+            "The submarine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Confederate Hunley's attack on the USS Housatonic was carried out off the coast of Charleston in this state. The first battle of the Civil War occurred at Fort Sumter in this state.",
+          "answer": "South Carolina",
+          "acceptableAnswers": [
+            "South Carolina",
+            "SC",
+            "The South Carolina"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Hunley's attack attempted to break the Union's blockade of Charleston, which was conducted as part of this Civil War strategy designed by Winfield Scott that sought to divide the Confederacy.",
+          "answer": "Anaconda",
+          "acceptableAnswers": [
+            "Anaconda",
+            "The Anaconda"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the H. L. Hunley. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "689a0d6a2d8608f4ad8517b8"
+    },
+    {
+      "id": "220fb84d-5dfb-4e04-8de7-8e9d2f5091be",
+      "linkedTossupId": "fc59a3f4-92ff-4a5b-9f88-32ce257b15e4",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this solid iron-carbon material, another variety of which is \"stainless\".",
+          "answer": "Steel",
+          "acceptableAnswers": [
+            "Steel",
+            "The Steel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Steel, like bronze and brass, is a mixture of metals which are known by this term.",
+          "answer": "Alloy",
+          "acceptableAnswers": [
+            "Alloy",
+            "The Alloy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The cost of producing steel decreased dramatically with the introduction of this process named for an English engineer. In it, oxidation removes impurities in molten pig iron.",
+          "answer": "Bessemer",
+          "acceptableAnswers": [
+            "Bessemer",
+            "The Bessemer"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Different types of this material include Wootz and Damascus. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e6a0924256318ac8b0"
+    }
+  ]
+}

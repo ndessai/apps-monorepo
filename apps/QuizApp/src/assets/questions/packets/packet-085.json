@@ -1,0 +1,1157 @@
+{
+  "packetId": "packet-085",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Science",
+    "Fine Arts",
+    "Literature",
+    "Philosophy",
+    "Human Body"
+  ],
+  "tossups": [
+    {
+      "id": "fbc5426f-3042-4d60-a574-853ed28faa81",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "One of this thinker's works notes that \"everyone knows that Bernstein [and] Millerand...are opportunists,\" and vigorously protests being labeled a Blanquist by a figure denoted \"N.H.\" Another text by this man cites the \"agricultural artel\" that is truly responsible for the relevant issues, and expresses concern about the phrase \"we can achieve anything.\" That work about \"insurrection\" humorously yells out \"Poor Engels!\" and \"Poor Marx!,\" and like \"The Agrarian Question\" and \"Dizzy with Success\" was in pamphlet form. An automobile factory was the hardest hit in one action ordered by this man, the \"Night of the Murdered Poets,\" which he defended by fabricating the fictional Mingrelian Affair and Doctors' Plot. This man's forced relocation of ethnic groups in his country and culpability for the Holodomor were criticized in a work about his individuation of power and reverence, On the Personality Cult and its Consequences, delivered as the \"Secret Speech\" by this man's successor. This attendee of the Tehran, Potsdam, and Yalta conferences was attacked in Operation Barbarossa by forces under Hitler. FTP, name this man who took over control of the Bolsheviks from Vladimir Lenin and led the Soviet Union during World War II.",
+      "powerMarkPosition": 602,
+      "answer": "Stalin",
+      "acceptableAnswers": [
+        "Stalin",
+        "The Stalin"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f8307c626ea977c7a3a05"
+    },
+    {
+      "id": "32836dcc-0002-4883-ab8c-c5670c1c3243",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "A bridge intermediate complex that models this type of reaction contains two pentaammine ruthenium atoms connected by pyrazine. Henry Taube explained the mechanism behind the inner sphere variety of this type of reaction which occurs via covalent linkage. When heated, phosphorous acid undergoes disproportionation -- a variety of this type of reaction. The equilibrium constant in the Nernst equation is related to the standard potential for this type of reaction. This type of reaction can be written as two half-reactions occuring at the anode and cathode of a galvanic cell. For 10 points, name this type of reaction involving the transfer of electrons, which lowers one material's oxidation state while raising the other.",
+      "powerMarkPosition": 381,
+      "answer": "redox",
+      "acceptableAnswers": [
+        "redox",
+        "reduction-oxidation reaction",
+        "accept inner sphere electron transfer",
+        "prompt on reduction reaction",
+        "prompt on oxidation reaction",
+        "prompt on disproportionation until mentioned",
+        "The redox"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab999"
+    },
+    {
+      "id": "2f41d3a2-0812-4e5f-a2d7-c64223f371e1",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "text": "The first movement of Rachmaninoff's \"Fantasie-Tableaux for 2 Pianos\" is in this form. Unusually, the second movement of Bela Bartok's Out of Doors is a chromatic one, and, though simpler, the \"June\" movement of Tchaikovsky's The Seasons is also a relatively complex example of this genre. Gabriel Faure's ballade is often recorded together with his thirteen pieces in this form, the most famous of which is the third in G flat. Chopin only wrote one for the piano, his F Sharp Minor Op. 60, while the most famous begins \"Belle nuit, o nuit amour\" and is sung by Giulietta and Nicklausse in Act II of The Tales of Hoffman. Appropriately, one plays as Joseph Porter's boat enters in HMS Pinafore. For 10 points, name this genre of slow, rolling Venetian boat songs.",
+      "powerMarkPosition": 666,
+      "answer": "barcarolle",
+      "acceptableAnswers": [
+        "barcarolle",
+        "The barcarolle"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f82fdc626ea977c7a3691"
+    },
+    {
+      "id": "d0e8b47f-2518-4763-90cd-ea3f4a6c36e4",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "text": "In one novel set in this country, the geisha Komako falls in love with a ballet expert in a remote hot spring town. Snow Country is set in this country, in which the poet Matsuo Basho mastered a poetic form consisting of three lines of 5, 7, and 5 syllables. Haiku originate from, for 10 points, what homeland of Yasunari Kawabata and Yukio Mishima, whose cities include Osaka and Tokyo?",
+      "powerMarkPosition": 235,
+      "answer": "Japan",
+      "acceptableAnswers": [
+        "Japan",
+        "Nippon-koku",
+        "Nihon-koku",
+        "The Japan"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0adf84"
+    },
+    {
+      "id": "e3030292-736f-429f-b9a9-6aa364132411",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "Alongside embroidery, the artist Martha Ann Honeywell toured the United States creating works in this style with her mouth and toes. Depictions of women from magazines are appropriated into this style in Sherrie Levine's Presidents series. A woman holds a baby depicted in this style in Titus Kaphar's 2020 painting Analogous Colors. Moses Williams worked in this style, and a different work using this technique shows a yellow beam of light diagonally pouring onto a kneeling Moses. Leda and the Swan inspired a series of 26 prints using this technique titled The Emancipation Approximation. The illustrations Let My People Go and The Judgement Day for James Weldon Johnson's God's Trombones were executed by Aaron Douglas in this style. For 10 points, Kara Walker used what paper-cut portraiture technique, named after a French minister?",
+      "powerMarkPosition": 476,
+      "answer": "silhouette",
+      "acceptableAnswers": [
+        "silhouette",
+        "The silhouette"
+      ],
+      "source": "qbreader",
+      "sourceId": "630edc029db771144f1e5700"
+    },
+    {
+      "id": "13f550d2-37f6-4a46-b362-bdc091922b8b",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "This leader's son Ogedei was given this man's empire when he died. His face is on the paper money of Mongolia. This man established an empire in Asia that was nearly 12 million square miles, the Mongol Empire. For 10 points, name this famous Mongol emperor born with the name Temujin.",
+      "powerMarkPosition": 110,
+      "answer": "Genghis",
+      "acceptableAnswers": [
+        "Genghis",
+        "The Genghis"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b51f22"
+    },
+    {
+      "id": "13367e85-3b42-4574-ab0d-084d950278f5",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "text": "In this novel, one woman threatens to throw herself into the sea if anybody had a more miserable life than her. That daughter of the Princess of Palestrina tries to avoid boredom at the end of this novel by joining several people in running a farm. The servant Cacambo journeys with the title character to Eldorado where he receives one hundred red sheep and jewels. Cunegonde has her freedom bought shortly after the title character encounters the optimist Dr. Pangloss while in Constantinople. For 10 points, name this satirical novel by Voltaire.",
+      "powerMarkPosition": 260,
+      "answer": "Candide",
+      "acceptableAnswers": [
+        "Candide",
+        "The Candide"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a7cd"
+    },
+    {
+      "id": "954e21c2-adfc-46ba-ba51-f794d903b9ba",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "Lamport signatures are stored in one variety of this data structure, and another variety of this structure is self-balancing and is called red-black. They come in hash and ordered varieties, and the number of nodes in a complete binary one is equal to one less than two raised to the quantity h plus 1, where h is the height of it. A complete one has all ends equidistant from the origin, and a free one lacks a first node. They have a root node which is the parent or ancestor of all subsequent nodes. For 10 points, identify this data structure consisting of branches that terminate at leaves.",
+      "powerMarkPosition": 331,
+      "answer": "Tree",
+      "acceptableAnswers": [
+        "Tree",
+        "Graphs",
+        "Networks",
+        "The Tree"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e44fc160c522c60cc7afa5"
+    },
+    {
+      "id": "ee0d5d69-6cc8-401a-8a7f-eed03d27c3f7",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "middle_school",
+      "text": "In an opera by this composer, Minnie loves Dick Johnson, who is actually the bandit Ramerrez. This composer of Girl of the Golden West also wrote an opera finished by Franco Alfano in which a princess executes anyone who cannot answer three riddles. Jonathan Larsen adapted another opera by this composer into the musical Rent; that opera shows the lives of four artists in Paris's Latin Quarter. For 10 points, name this composer of Turandot and La boh`eme.",
+      "powerMarkPosition": 258,
+      "answer": "Puccini",
+      "acceptableAnswers": [
+        "Puccini",
+        "The Puccini"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc00508a"
+    },
+    {
+      "id": "e4c2289a-f1db-435f-879b-6af8cb5dcf82",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "In one scene in this work, yellow paint is used in an attempt to hide the poor conditions of a gas station. One character first meets up with Muley Graves; another character dies in an area belonging to Ivy and Sairy Wilson. In another chapter, a truck deliberately swerves out of its way to run over a turtle. After the death of the former Reverend Jim Casy, one character notes that whenever there is police brutality or hungry people fighting for food, \"I'll be there\". This novel ends with Rose of Sharon giving birth to a stillborn child. For 10 points, name this work that chronicles the travels of the Joad family to California, a novel by John Steinbeck.",
+      "powerMarkPosition": 224,
+      "answer": "Grapes of Wrath",
+      "acceptableAnswers": [
+        "Grapes of Wrath",
+        "The Grapes of Wrath"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfeef7"
+    },
+    {
+      "id": "68599da7-1a2d-490f-a144-1c32114bfb67",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "In Eduard von Hartmann's metaphysics, this concept is the irrational pole of the Unconscious. Because architecture and landscaping represent low grades of this concept's objectification, another philosopher placed them at the bottom of the artistic hierarchy, while putting music at the top because it directly expresses this concept. With some qualifications, that philosopher usually identified this concept with the Kantian thing-in-itself. That philosopher claimed that this concept was a \"blind striving\" that could only be transcended by compassion, artistic contemplation, and ascetic self-denial. Nietzsche's idea of a form of this concept directed towards power was inspired by an 1819 treatise partly titled for it that draws on the Upanishads. For 10 points, the world consists of what concept and representation according to Arthur Schopenhauer's magnum opus?",
+      "powerMarkPosition": 418,
+      "answer": "will",
+      "acceptableAnswers": [
+        "will",
+        "will-to-life",
+        "will-to-power",
+        "macht",
+        "do not accept",
+        "prompt on “free will”",
+        "prompt on the world",
+        "life",
+        "prompt on the thing-in-itself",
+        "ding an sich",
+        "prompt on related words like motive",
+        "striving",
+        "The will"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f32f19679b6464bbdf7355"
+    },
+    {
+      "id": "3e48b4ff-6132-493f-844d-f3d5213b8cbb",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "A woman in this play chides her son for never falling in love with anyone younger than forty-five years old. That discussion in this play is interrupted by the entrance of three characters who had struggled to find a cab on a rainy night. In this play, a character exclaims, \"Not bloody likely,\" to her eventual husband, Freddy Eynsford Hill. A character in this play throws her slippers at a phonetics professor she dislikes for treating her like a flower girl. For 10 points, name this play in which Colonel Pickering and Henry Higgins teach Eliza Doolittle to behave and speak like a lady, written by George Bernard Shaw.",
+      "powerMarkPosition": 320,
+      "answer": "Pygmalion",
+      "acceptableAnswers": [
+        "Pygmalion",
+        "The Pygmalion"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eeafe83c775a4357205a31"
+    },
+    {
+      "id": "d93d56c5-93ab-4f00-8c30-42529e0b5913",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for spinal nerves. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this spinal cord-related structure.",
+      "powerMarkPosition": 94,
+      "answer": "Spinal cord",
+      "acceptableAnswers": [
+        "spinal cord",
+        "Spinal cord"
+      ],
+      "explanation": "The spinal cord is a key component of the Nervous system, involved in spinal nerves.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "54ce79c5-d44d-4a58-8a1e-8e875a9385a1",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "In the sequel to the work in which this character appears, his grandson, Michael, is tried for bribery. In that work, his son, Isaac, is at odds with Michael over the same issue with which he was at odds with Issac. In the original work in which he appeart, the arrival of Mr. Brown and Reverend Smith has caused the proverbial titular action, against which he retaliates by burning a church. His retaliation is precipitated by his displeasure over Isaac's conversion, which is exacerbated by the desecration of a sacred mask. Previously exiled when his gun accidentally discharged and killed a man, he hangs himself when he is unsuccessful in leading his people into war against their white colonizers. FTP, name this protagonist of No Longer at Ease and Things Fall Apart by Chinua Achebe.",
+      "powerMarkPosition": 392,
+      "answer": "Okonkwo",
+      "acceptableAnswers": [
+        "Okonkwo",
+        "The Okonkwo"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d93f114fa392c5b68c46c9"
+    },
+    {
+      "id": "a2281053-4e24-4ab5-b025-308f90a01bf3",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "A problem of antiquity concerned constructing a square of the same area as one of these shapes using compass and straightedge; that problem is known as \"squaring\" this shape. When one on a graph has a total area of pi, it is known as a \"unit\" one. A line segment connecting two points on this shape is known as a chord. For 10 points, name this shape consisting of all points that are a radius away from a center.",
+      "powerMarkPosition": 174,
+      "answer": "circle",
+      "acceptableAnswers": [
+        "circle",
+        "The circle"
+      ],
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b607"
+    },
+    {
+      "id": "7069d074-300d-46be-ab55-320aabe7df0b",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "The Reissner-Nordstrom solution to Einstein's equations describes one of these with charge, and the Kerr solution describes a rotating one. The constant of proportionality for their entropy is k over 4 Planck lengths, and is proportional to surface area. String theorists describe them as \"fuzzballs\", and they indirectly cause the Lense-Thirring effect. \"Mini\" ones may have formed by the Big Bang, although they evaporate through Hawking Radiation. They can be completely characterized by only mass, charge, and spin, according to the no-hair theorem. Resulting from the collapse of a massive star, for 10 points, what astronomic object is surrounded by event horizon and possesses a singularity, where gravity becomes infinite?",
+      "powerMarkPosition": 254,
+      "answer": "Black hole",
+      "acceptableAnswers": [
+        "Black hole",
+        "The Black hole"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba673874e0ef7dd7b25de"
+    },
+    {
+      "id": "ce101dd0-bb15-4a4b-a4f3-1204421d31c3",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "For a non-crystalline substance, the amount of this quantity when molecular motion is absent is called its \"residual\" form. In a phase transition, the change in this quantity equals the latent heat divided by temperature. Values of zero for this quantity are defined by the third law of thermodynamics. Ludwig Boltzmann [BOLTS-mahn] equated this quantity to k-sub-B times the natural log of the number of microstates. Enthalpy [EN-thul-pee] minus the product of temperature and this quantity is equal to Gibbs free energy. The second law of thermodynamics predicts a universal increase in, for 10 points, what measure of a system's disorder?",
+      "powerMarkPosition": 309,
+      "answer": "entropy",
+      "acceptableAnswers": [
+        "entropy",
+        "The entropy"
+      ],
+      "source": "qbreader",
+      "sourceId": "64c4601ce6811c453d40dd44"
+    },
+    {
+      "id": "66dcadf6-9e21-4ecc-bfe1-21468fbf78a1",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "text": "The third movement of this work, marked Allegro scherzando giocoso, is salvaged in part from its composer's earlier piano sonata in C sharp minor, transposed down a semitone, and also features the addition of a trio that plays a waltz, its composer's first setting of that dance. In its last section the violins play an adaptation of the folk song \"The Garden Blooms\" before the piece shifts abruptly from andante lugubre to allegro maestoso. Its second movement is highlighted by a melody played by a solo oboe and takes music from its composer's incidental music for Ostrovsky's The Storm, and the theme of weather is seen again in that movement's title, \"Land of Gloom, Land of Mists\", as well as in this symphony's nickname. For 10 points, name this symphony in G minor that precedes its composer's Little Russian symphony, a work by the composer of The Nutcracker.",
+      "powerMarkPosition": 656,
+      "answer": "Tchaikovsky",
+      "acceptableAnswers": [
+        "Tchaikovsky",
+        "linguistic equivalents",
+        "accept “Winter Dreams”",
+        "“Winter Daydreams”",
+        "“Zimniye Gryozy”",
+        "accept Tchaikovsky's Opus 13",
+        "The Tchaikovsky"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba673874e0ef7dd7b2772"
+    },
+    {
+      "id": "d54559fa-73f4-46a3-a3ce-b899b5f1cdf4",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for spinal cord structure. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this spinal cord-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Spinal cord",
+      "acceptableAnswers": [
+        "spinal cord",
+        "Spinal cord"
+      ],
+      "explanation": "The spinal cord is a key component of the Nervous system, involved in spinal cord structure.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "8dc8d4c8-cf26-47fa-b64a-2c1ad6ca91f6",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "The Swiss saint Wiborada had her head cleaved by an axe while trying to defend these objects. A massive moving statue of one of these objects called the Ruhnama was constructed by the president of Turkmenistan. Abraham Lincoln addressed the creator of one of these objects as the \"little woman [..] that made this big war,\" and they were decorated in the process of \"illumination\" by monks. Mao Zedong made a \"Little Red\" one of these objects, and Nazi propagandists notably held events to destroy these things. For 10 points, name these objects that spread quickly across Europe after Johannes Gutenberg invented the printing press.",
+      "powerMarkPosition": 279,
+      "answer": "book",
+      "acceptableAnswers": [
+        "book",
+        "The book"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a3a49"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "51121e47-2fb1-4195-8d7e-a0ad3794870d",
+      "linkedTossupId": "fbc5426f-3042-4d60-a574-853ed28faa81",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this English king. This king's troops moved the Black Rood of Scotland to Durham Cathedral after humiliating David II's troops at the Battle of Neville's Cross.",
+          "answer": "Edward III",
+          "acceptableAnswers": [
+            "Edward III",
+            "Edward",
+            "The Edward III"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "David II invaded England to assist its ally France, which was being invaded during this conflict. The English were victorious at the Battles of Crécy (\"kray-SEE\") and Poitiers (\"pwaht-YAY\") during this conflict.",
+          "answer": "Hundred Years’",
+          "acceptableAnswers": [
+            "Hundred Years’",
+            "Edwardian War",
+            "The Hundred Years’"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During the Second Scottish war of Independence, Edward III backed a royal claimant from this family with first name Edward. Edward I appointed John, a Scottish king with this surname, at a 1292 parliament in Berwick-upon-Tweed.",
+          "answer": "Balliol",
+          "acceptableAnswers": [
+            "Balliol",
+            "de Bailleul",
+            "accept Edward Balliol",
+            "John Balliol",
+            "The Balliol"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This king pillaged the Lothian countryside during an unsuccessful campaign against Scotland known as \"Burnt Candlemas.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63be061e6537282fb101c453"
+    },
+    {
+      "id": "893f6cee-28c2-46d1-b983-615edef51030",
+      "linkedTossupId": "32836dcc-0002-4883-ab8c-c5670c1c3243",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This diagram has a continuous and discontinuous branch, and shows the type of igneous rock which will be formed at a given temperature.",
+          "answer": "Bowen",
+          "acceptableAnswers": [
+            "Bowen",
+            "The Bowen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This type of magnesium silicate rock is found at the top of the discontinuous branch of the Bowen series. It is a magnesium, and peridot is a purer variety of it that used in gemstones.",
+          "answer": "olivine",
+          "acceptableAnswers": [
+            "olivine",
+            "The olivine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This class of mineral is known for its perfect basal cleavage. Biotite and Muscovite are examples of these minerals.",
+          "answer": "mica",
+          "acceptableAnswers": [
+            "mica",
+            "The mica"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify some things from geology for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455ffd9"
+    },
+    {
+      "id": "9e6310a9-356a-4034-a247-6fa5147774b7",
+      "linkedTossupId": "2f41d3a2-0812-4e5f-a2d7-c64223f371e1",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this painting, in which many men look on in despair as the title man calmly reaches out to drink from a golden cup.",
+          "answer": "Death of Socrates",
+          "acceptableAnswers": [
+            "Death of Socrates",
+            "The Death of Socrates"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Death of Socrates is by this Neoclassical French painter of The Death of Marat and The Oath of the Horatii.",
+          "answer": "David",
+          "acceptableAnswers": [
+            "David",
+            "The David"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "David's painting Mars Being Disarmed by Venus also shows these figures holding a helmet and a shield. This trio is shown intimately embracing each other in an Antonio Canova sculpture.",
+          "answer": "Graces",
+          "acceptableAnswers": [
+            "Graces",
+            "the Charites",
+            "accept The Three Graces",
+            "The Graces"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The central figure in this painting is dressed in white and has his left index finger pointed upward. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31e46"
+    },
+    {
+      "id": "76a44cbf-4ed8-4809-a045-d855ae2ec9e3",
+      "linkedTossupId": "d0e8b47f-2518-4763-90cd-ea3f4a6c36e4",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "In this William Carlos Williams poem, \"so much depends / upon\" the title object, which is \"glazed with rain / water / beside the white / chickens.\"",
+          "answer": "Red",
+          "acceptableAnswers": [
+            "Red",
+            "The Red"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this poem, the narrator's \"horse must think it queer / to stop without a farmhouse near\" since the narrator has \"miles to go before I sleep.\"",
+          "answer": "Stopping",
+          "acceptableAnswers": [
+            "Stopping",
+            "The Stopping"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This poet of \"Stopping by Woods on a Snowy Evening\" wrote that hunters \"would have the rabbit out of hiding / to please the yelping dogs\" in his poem \"The Mending Wall.\"",
+          "answer": "Frost",
+          "acceptableAnswers": [
+            "Frost",
+            "The Frost"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about American poems that concern animals.",
+      "source": "qbreader",
+      "sourceId": "663806eda0924256318ace6f"
+    },
+    {
+      "id": "359b267a-34be-4af6-bac8-c1f47f9067a1",
+      "linkedTossupId": "e3030292-736f-429f-b9a9-6aa364132411",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The four movements of this work are set at different times of day, and depict such title objects as the Trevi one, the Triton one, and the one of Valle Giulia. It's the first part of a trilogy which concludes with a work about the titular city's \"festivals.\"",
+          "answer": "Fontane di Roma",
+          "acceptableAnswers": [
+            "Fontane di Roma",
+            "Fountains of Rome",
+            "The Fontane di Roma"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This set of three suites is based on old lute pieces by such other composers as Vincenzo Galilei; it includes such works as \"Gagliarda\" and \"Il Conte Orlando.\"",
+          "answer": "Ancient Airs and Dances",
+          "acceptableAnswers": [
+            "Ancient Airs and Dances",
+            "The Ancient Airs and Dances"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Claudio Guastallo wrote the libretto for the Respighi opera based on this former prostitue, who traveled to Jerusalem to repent her sins before dying and being buried by Abbot Zosimus and a lion.",
+          "answer": "Mary",
+          "acceptableAnswers": [
+            "Mary",
+            "Maria Egiziaca",
+            "The Mary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these compositions of Ottorino Respighi, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6465625b39f9588b048d227e"
+    },
+    {
+      "id": "adc4efde-f415-46fe-b8ec-5fc150ad737e",
+      "linkedTossupId": "13f550d2-37f6-4a46-b362-bdc091922b8b",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this politician known as \"the Kingfish\" who wrote My First Days in the White House before being assassinated by Carl Weiss.",
+          "answer": "Long",
+          "acceptableAnswers": [
+            "Long",
+            "The Long"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In My First Days in the White House, Long wrote that he would make this incumbent Democratic President his Secretary of the Navy.",
+          "answer": "F",
+          "acceptableAnswers": [
+            "F"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Huey Long was the Governor of this state. During his tenure he made numerous improvements to New Orleans.",
+          "answer": "Louisiana",
+          "acceptableAnswers": [
+            "Louisiana",
+            "The Louisiana"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man proposed the \"Share Our Wealth\" plan to combat the Great Depression. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806eda0924256318ace71"
+    },
+    {
+      "id": "278af4b5-935f-4119-a3c1-de7f8aa19c73",
+      "linkedTossupId": "13367e85-3b42-4574-ab0d-084d950278f5",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this profession of two characters that are employees of Wilson in a play that ends with a whistle from a speaking tube.",
+          "answer": "hitmen",
+          "acceptableAnswers": [
+            "hitmen",
+            "assassins",
+            "other reasonable equivalents",
+            "The hitmen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The hitmen Ben and Gus receive dinner orders in this absurdist play by Harold Pinter.",
+          "answer": "Dumb Waiter",
+          "acceptableAnswers": [
+            "Dumb Waiter",
+            "The Dumb Waiter"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One character in The Dumb Waiter reads about a car accident in one of these publications. These publications include The Daily Mail and The New York Times.",
+          "answer": "newspaper",
+          "acceptableAnswers": [
+            "newspaper",
+            "The newspaper"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one play, two members of this profession argue over the phrase \"light the kettle.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7deb6b"
+    },
+    {
+      "id": "0ad21043-1361-412a-b8bd-a32617949161",
+      "linkedTossupId": "954e21c2-adfc-46ba-ba51-f794d903b9ba",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The nine-point circle contains the feet of the medians and these segments, as well as the midpoint between each vertex and the orthocenter. These segments pass through a vertex and intersect the opposite side of the vertex at a right angle, and one of them is the height in the one-half base times height formula for the area of a triangle.",
+          "answer": "altitude",
+          "acceptableAnswers": [
+            "altitude",
+            "The altitude"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The center of the nine-point circle is at the midpoint of the segment connecting the orthocenter to this point. For a triangle, it's located at the intersection of any two of the three perpendicular bisectors.",
+          "answer": "circumcenter",
+          "acceptableAnswers": [
+            "circumcenter",
+            "obvious equivalents",
+            "such as the center of a circumscribed circle",
+            "The circumcenter"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The nine-point circle also contains the midpoint between two of these points that have the minimal possible total distance to the vertices of a triangle.",
+          "answer": "Fermat",
+          "acceptableAnswers": [
+            "Fermat",
+            "Torricelli points",
+            "The Fermat"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Karl Wilhelm Feuerbach helped discover the nine-point circle, so name some things about it, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54af0e5"
+    },
+    {
+      "id": "06581f04-1f9d-4b6f-8984-e42c9f58b1a4",
+      "linkedTossupId": "ee0d5d69-6cc8-401a-8a7f-eed03d27c3f7",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this painting, which shows Dr. Byron McKeeby next to Nan in front of a white house.",
+          "answer": "American Gothic",
+          "acceptableAnswers": [
+            "American Gothic",
+            "The American Gothic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This artist of American Gothic depicted George Washington chopping down a cherry tree in Parson Weems' Fable.",
+          "answer": "Wood",
+          "acceptableAnswers": [
+            "Wood",
+            "The Wood"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Grant Wood painting, three women stand next to a picture of Washington Crossing the Delaware.",
+          "answer": "Daughters of Revolution",
+          "acceptableAnswers": [
+            "Daughters of Revolution",
+            "The Daughters of Revolution"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of the two central figures in this painting holds a pitchfork in his right hand. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e14b9"
+    },
+    {
+      "id": "8113a1af-9551-46c4-8d5f-edecfe3e9cf6",
+      "linkedTossupId": "e4c2289a-f1db-435f-879b-6af8cb5dcf82",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this short story whose title prostitute is ignored after being urged to sleep with a Prussian officer so the aforementioned travelers can escape detainment.",
+          "answer": "Ball of Fat",
+          "acceptableAnswers": [
+            "Ball of Fat",
+            "\"Boule de Suif\"",
+            "\"Dumpling\"",
+            "\"Butterball\"",
+            "\"Ball of Lard\"",
+            "The Ball of Fat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this short story by the author of \"Ball of Fat,\" Mathilde Moisel loses the title piece of jewelry she had borrowed from Madame Forestier, only to find out it was a fake ten years later.",
+          "answer": "Necklace",
+          "acceptableAnswers": [
+            "Necklace",
+            "\"The Diamond Necklace\"",
+            "\"La Parure\"",
+            "The Necklace"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This French short story author behind \"Mademoiselle Fifi\" wrote \"Ball of Fat\" and \"The Necklace.\"",
+          "answer": "Maupassant",
+          "acceptableAnswers": [
+            "Maupassant",
+            "The Maupassant"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The central character of this story temporarily wins over the affection of her fellow stagecoach travelers upon producing a basket of fruit. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d869"
+    },
+    {
+      "id": "ad49aff3-5293-44f6-b906-ffec153cc590",
+      "linkedTossupId": "68599da7-1a2d-490f-a144-1c32114bfb67",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The mass migrations of Jews to Palestine were known by this Hebrew name, which means \"going up.\"",
+          "answer": "aliyah",
+          "acceptableAnswers": [
+            "aliyah",
+            "aliyot",
+            "accept aliyas",
+            "The aliyah"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Under British rule, aliyot to Palestine were restricted. The British governed Palestine under the mandate system established by this 1919 treaty that ended World War I.",
+          "answer": "Versailles",
+          "acceptableAnswers": [
+            "Versailles",
+            "The Versailles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The independent State of Israel promptly removed all restrictions on aliyot and enacted the Law of Return to outright encourage Jewish immigration. Those measures took place under this first prime minister of Israel.",
+          "answer": "Ben-Gurion",
+          "acceptableAnswers": [
+            "Ben-Gurion",
+            "David Gruen",
+            "The Ben-Gurion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, give the following about Jewish migration to Palestine.",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c318ee"
+    },
+    {
+      "id": "14e15bf1-cae9-457f-98ab-beb1d2b71ab1",
+      "linkedTossupId": "3e48b4ff-6132-493f-844d-f3d5213b8cbb",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this man. In another novel, this man declares \"That's a fine death!\" before saving an enemy soldier, who views him as an \"insignificant creature.\"",
+          "answer": "Napoleon",
+          "acceptableAnswers": [
+            "Napoleon",
+            "Napoleon Bonaparte",
+            "Napoleon I",
+            "The Napoleon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author responded to de Staël's criticism in his complimentary A Life of Napoleon, but later depicted Napoleon more harshly, as shown in a scene showing Fabrizio del Dongo wandering around at the Battle of Waterloo in The Charterhouse of Parma.",
+          "answer": "Stendhal",
+          "acceptableAnswers": [
+            "Stendhal",
+            "Marie-Henri Beyle",
+            "The Stendhal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Napoleon saves Prince Andrei in this Tolstoy novel, in which Pierre Bezukhov decides Napoleon is the Antichrist.",
+          "answer": "War and Peace",
+          "acceptableAnswers": [
+            "War and Peace",
+            "Voyna i mir",
+            "The War and Peace"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Germaine de Staël (\"STAHL\") established the Coppet literary salon after she was exiled for criticizing this man. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "666dc6c69f7c4cfdbd6785b9"
+    },
+    {
+      "id": "b8075ab0-e8e1-4c50-b259-c77bf5463ac0",
+      "linkedTossupId": "d93d56c5-93ab-4f00-8c30-42529e0b5913",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with white blood cell types.",
+          "answer": "erythrocyte",
+          "acceptableAnswers": [
+            "erythrocyte"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the erythrocyte in the cardiovascular system?",
+          "answer": "White blood cell types",
+          "acceptableAnswers": [
+            "White blood cell types"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to white blood cell types.",
+          "answer": "leukocyte",
+          "acceptableAnswers": [
+            "leukocyte"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "2a247669-d07d-4a8c-9a7f-b48a0653cf44",
+      "linkedTossupId": "54ce79c5-d44d-4a58-8a1e-8e875a9385a1",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this object. A controversial play by Copi ends with a speech given by the title character's husband in front of what is thought to be this object that actually belongs to a nurse.",
+          "answer": "Eva",
+          "acceptableAnswers": [
+            "Eva",
+            "cadaver",
+            "body",
+            "equivalents for corpse",
+            "accept Evita instead of Eva",
+            "prompt on answers referring to Peron",
+            "prompt on corpse",
+            "prompt on just Eva Peron",
+            "Evita I guess but make sure they know that they have just done a bruh moment",
+            "The Eva"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Eva Peron was written by Copi (\"COH-pee\") who was born in this country. Other plays from this country include Manuel Puig's (\"POOJ-uhz\") stage adaptation of his novel The Kiss of the Spider Woman.",
+          "answer": "Argentina",
+          "acceptableAnswers": [
+            "Argentina",
+            "Argentine Republic",
+            "República Argentina",
+            "The Argentina"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Argentinian-born playwright depicted Paulina holding Dr. Miranda hostage after recognizing him as her torturer in Death and the Maiden. With Armand Mattelart (\"ar-MONG MAT-uh-lart\"), this author also wrote a Marxist critique of Disney titled How to Read Donald Duck.",
+          "answer": "Dorfman",
+          "acceptableAnswers": [
+            "Dorfman",
+            "The Dorfman"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Pedro Ara creates wax replicas of this object which Colonel Koenig (\"KER-nel KER-nigg\") believes to be magical in a novel by Tomas Elroy Martinez. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67df4c94d5921688cff9e4a2"
+    },
+    {
+      "id": "27149aa6-66c4-434c-bc99-fd340f92c69d",
+      "linkedTossupId": "a2281053-4e24-4ab5-b025-308f90a01bf3",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these regions in an atom, whose shapes and orientations are described by the azimuthal and magnetic quantum numbers. They can be labeled s, p, d, or f.",
+          "answer": "orbital",
+          "acceptableAnswers": [
+            "orbital",
+            "The orbital"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Atomic orbitals overlap to form these things, which connect two or more atoms in a molecule. Oxygen gas contains a \"double\" example of these things.",
+          "answer": "bond",
+          "acceptableAnswers": [
+            "bond",
+            "double bonds",
+            "The bond"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The outermost p-orbital in this group of elements is completely full of electrons, which is why they are generally unreactive. Krypton and xenon belong to this group of elements.",
+          "answer": "noble gas",
+          "acceptableAnswers": [
+            "noble gas",
+            "inert gasses",
+            "group 18",
+            "aerogens",
+            "The noble gas"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The shape of a molecule can be found by noting where these regions overlap in hybridization. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66e1bbb6b3ec1cfe3cd4a66d"
+    },
+    {
+      "id": "0933eaa5-4493-4bc6-bf8b-f168ecaca014",
+      "linkedTossupId": "7069d074-300d-46be-ab55-320aabe7df0b",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this vitamin the body creates from molecules of beta-carotene.",
+          "answer": "A",
+          "acceptableAnswers": [
+            "A"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The human version of this organ can store a year's supply of vitamin A. Diseases that affect this organ include hepatitis and cirrhosis.",
+          "answer": "liver",
+          "acceptableAnswers": [
+            "liver",
+            "The liver"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Vitamin A is essential for the function of this type of white blood cell. Hodgkin's disease starts in these cells, a category that includes the B and T cells which fight infection and are found in namesake nodes.",
+          "answer": "lymphocyte",
+          "acceptableAnswers": [
+            "lymphocyte",
+            "The lymphocyte"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A deficiency of this compound can cause night blindness. For 10 points each-",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a4e1"
+    },
+    {
+      "id": "bbd18de0-b279-42c3-845a-196c80359e18",
+      "linkedTossupId": "ce101dd0-bb15-4a4b-a4f3-1204421d31c3",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these mathematical objects that are self similar, such as the Koch Snowflake.",
+          "answer": "Fractals",
+          "acceptableAnswers": [
+            "Fractals",
+            "The Fractals"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This fractal is formed by repeatedly dividing each triangle into 4 new equilateral triangles and removing the central triangle. It is named after a Polish mathematician.",
+          "answer": "Sierpinski",
+          "acceptableAnswers": [
+            "Sierpinski",
+            "Sierpinski Gasket",
+            "Sierpinski Sieve",
+            "The Sierpinski"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This mathematician coined the term \"fractal\". He wrote the paper \"How Long is the Coast of Britain?'' to discuss fractals with Hausdorff dimension between 1 and 2.",
+          "answer": "Mandelbrot",
+          "acceptableAnswers": [
+            "Mandelbrot",
+            "The Mandelbrot"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Cantor Set is one of these objects that is created by repeatedly removing the middle third of each line segment. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b16f9"
+    },
+    {
+      "id": "59e822ce-7abf-42ae-bb59-4f46a2c1df18",
+      "linkedTossupId": "66dcadf6-9e21-4ecc-bfe1-21468fbf78a1",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this photographer, the one-time wife of Erskine Caldwell responsible for a depicting a stream near the Fort Peck Dam on the first cover of Life magazine.",
+          "answer": "Bourke-White",
+          "acceptableAnswers": [
+            "Bourke-White",
+            "The Bourke-White"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bourke-White conducted an interview with this figure and produced an iconic image of him reading behind his spinning wheel just hours before this father of Indian independence and famous pacifist was assassinated.",
+          "answer": "Gandhi",
+          "acceptableAnswers": [
+            "Gandhi",
+            "The Gandhi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Subtitled \"A Combat Chronicle of the War in Italy,\" this Bourke-White collection features photographs taken with the 5th Army in the months of the Italian Campaign prior to the brutal Battle of Monte Cassino, which was dubbed the title location by soldiers.",
+          "answer": "Purple Heart Valley",
+          "acceptableAnswers": [
+            "Purple Heart Valley",
+            "The Purple Heart Valley"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Her studio on the 61st floor of the Chrysler Building prompted her to pose with the building's gargoyles several times. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67b3c0236aa8a3da38aa805b"
+    },
+    {
+      "id": "dd794aac-3b6d-4a17-bd22-8e0a4bd9b87d",
+      "linkedTossupId": "d54559fa-73f4-46a3-a3ce-b899b5f1cdf4",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with nasal cavity and sinuses.",
+          "answer": "pharynx",
+          "acceptableAnswers": [
+            "pharynx"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the pharynx in the respiratory system?",
+          "answer": "Nasal cavity and sinuses",
+          "acceptableAnswers": [
+            "Nasal cavity and sinuses"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to nasal cavity and sinuses.",
+          "answer": "larynx",
+          "acceptableAnswers": [
+            "larynx"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "655f2c2b-f414-43d8-ad6d-384f96c37001",
+      "linkedTossupId": "8dc8d4c8-cf26-47fa-b64a-2c1ad6ca91f6",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this notorious Chicago gangster who was finally put away by the Untouchables led by Eliot Ness.",
+          "answer": "Capone",
+          "acceptableAnswers": [
+            "Capone",
+            "The Capone"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Capone was put away on this charge after an agent of the Internal Revenue Service, Frank Wilson, spent three years researching Capone's finances. Despite his attempts to bribe the jury, Capone was sent to Alcatraz for committing this offense.",
+          "answer": "tax evasion",
+          "acceptableAnswers": [
+            "tax evasion",
+            "obvious equivalents",
+            "The tax evasion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Italian-American mafioso split rule of New York among the Five Families. He founded the ruling committee of organized crime, The Commission, which included the Five Families and Al Capone's Chicago Outfit.",
+          "answer": "Luciano",
+          "acceptableAnswers": [
+            "Luciano",
+            "The Luciano"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man was mentored by Johnny Torio and called \"Scarface.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a8d5"
+    }
+  ]
+}

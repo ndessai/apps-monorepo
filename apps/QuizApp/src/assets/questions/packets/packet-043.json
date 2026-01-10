@@ -1,0 +1,1132 @@
+{
+  "packetId": "packet-043",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Literature",
+    "Philosophy",
+    "Science",
+    "Fine Arts",
+    "Geography",
+    "Human Body",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "1d75a566-b70d-4866-8cdf-ce3a53bd78a3",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "A monarch of this name alienated his son by choosing the Duke of Newcastle as his grandson's godfather. Citing rumors of an affair involving Bartolomeo Pergami, a king of this name introduced the Pains and Penalties Bill, which would have allowed him to divorce Caroline of Brunswick. At Dettingen, a monarch of this name became the last English king to lead troops into battle. The Jacobite uprising of 1745 was put down by a monarch of this name, whose son of the same name went insane due to undiagnosed porphyria. For 10 points, give this name of four kings from the House of Hanover, including one who ruled England during the American Revolution.",
+      "powerMarkPosition": 284,
+      "answer": "George",
+      "acceptableAnswers": [
+        "George",
+        "George I",
+        "George II",
+        "George III",
+        "George IV",
+        "The George"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff3ad"
+    },
+    {
+      "id": "b00b257c-3eb5-4d60-8b2c-c959b9c509ba",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "middle_school",
+      "text": "This ruler won the Battle of the Milvian Bridge, uniting two halves of his empire. Just before that battle, this emperor saw the letters \"chi\" and \"ro\" in a dream and ordered his men to paint a cross-like symbol on their shields. This ruler was the first Roman emperor to convert to Christianity, and he moved the capital from Rome to a city named after himself. For 10 points, name this Roman emperor, the namesake of a city now called Istanbul.",
+      "powerMarkPosition": 282,
+      "answer": "Constantine",
+      "acceptableAnswers": [
+        "Constantine",
+        "Constantine the Great",
+        "The Constantine"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a504dc"
+    },
+    {
+      "id": "dbdd2b27-5ae8-483a-8a25-c91fd9e759f4",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "This poem inspired another author to write a poem beginning \"When I am so small Da's sock covers my arm\" that is divided into the sections 1981 and 1991. A book titled for this poem advocates for sexual healing therapy among one group in a chapter titled \"it's a dick thing.\" Terrance Hayes honored this poem by creating a poetic form in which the last word of every line spells out an existing poem. A book by bell hooks titled for this poem is subtitled \"Black men and masculinity.\" This poem's central group, which consists of seven pool players at a club called the Golden Shovel, are described with two-word rhyming phrases like \"jazz June\" and \"die soon.\" For 10 points, eight sentences each starting with the word \"we\" appear in what Gwendolyn Brooks poem?",
+      "powerMarkPosition": 347,
+      "answer": "We Real Cool",
+      "acceptableAnswers": [
+        "We Real Cool",
+        "The We Real Cool"
+      ],
+      "source": "qbreader",
+      "sourceId": "68846998641a9dc975af8886"
+    },
+    {
+      "id": "cac17356-9d1d-4ddf-a03a-b8d01279c096",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "text": "Coleridge's Biographia Literaria most prominently plagiarizes the work of this philosopher, who resigned from the University of Berlin after losing a law suit against a man who had stolen his lectures and published them before he could present them. He wrote of God who gains freedom by becoming conscious through reflecting on ideas in himself in his book The Ages of the World. Though he edited the \"Critical Journal of Philosophy\" and was the college roommate of Hegel, The Phenomenology of Mind strongly condemned this man's conception of the Absolute. In his most famous work, this philosopher advanced the work of his former teacher Hegel by uniting it with the act of artistic creation as a way of advancing from chaos and inertia into order. For 10 points, name this German philosopher and author of System of Transcendental Idealism.",
+      "powerMarkPosition": 379,
+      "answer": "Schelling",
+      "acceptableAnswers": [
+        "Schelling",
+        "The Schelling"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae81c2"
+    },
+    {
+      "id": "93736d43-ba7b-49fc-b670-42b0fb830806",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "In one of this novel's tragic scenes, a falsely accused character falls into the Old Hell Shaft and dies. By the end Sleary, the proprietor of a local circus, helps the real culprit Tom flee . A related plot thread follows James Harthouse's seduction of Tom's sister, Louisa, who is unhappily married to Josiah Bounderby. Tom and Louisa are the two children of Thomas Gradgrind, a wealthy merchant of Coketown, the industrial setting for this novel. For 10 points, name this Charles Dickens work whose title echoes the difficult era depicted.",
+      "powerMarkPosition": 192,
+      "answer": "Hard Times",
+      "acceptableAnswers": [
+        "Hard Times",
+        "The Hard Times"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bca72e7fe60f397fb4a8c3"
+    },
+    {
+      "id": "f5cf6d33-7b59-44d1-a0c4-d875784816cd",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "Joe Pipkin's friends explore ancient cultures in this author's The Halloween Tree. This author of Something Wicked This Way Comes wrote about Douglas Spaulding recording summer rituals in Dandelion Wine, and wrote a novel in which Clarisse McClellan and Professor Faber help fireman Guy Montag embrace the books he burns. For 10 points, name this American science fiction author of Fahrenheit 451.",
+      "powerMarkPosition": 274,
+      "answer": "Bradbury",
+      "acceptableAnswers": [
+        "Bradbury",
+        "The Bradbury"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d2867240107e0f213c"
+    },
+    {
+      "id": "295b6ecf-104b-4b34-b2a7-8f70fdc620e1",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "In 2018, this organism's CCR5 gene was edited with CRISPR [\"crisper\"] to provide virus resistance by the rogue scientist He Jiankui. A project that ended in 2003 sequenced most of the over three billion DNA base pairs in this organism's genome. Trisomy 21 is caused by having three copies of chromosome 21 in this organism, which normally has 23 pairs of chromosomes. For 10 points, name this species that's affected by Down syndrome and has the formal name Homo sapiens.",
+      "powerMarkPosition": 252,
+      "answer": "human",
+      "acceptableAnswers": [
+        "human",
+        "humanity",
+        "mankind",
+        "accept Homo sapiens before the end of the question",
+        "accept Human Genome Project",
+        "The human"
+      ],
+      "source": "qbreader",
+      "sourceId": "66e1bbb6b3ec1cfe3cd4a5fb"
+    },
+    {
+      "id": "24103c9b-777c-4c8d-a150-25639fe56d33",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "The gamma function extends this operation to complex numbers, and an approximation named for Stirling can calculate very large ones. This function, whose rate of growth surpasses the exponential function, can be used to find how many permutations there are of n objects. For 10 points, name this function whose symbol is the exclamation point, which for a positive integer consists of multiplication by all lower positive integers.",
+      "powerMarkPosition": 132,
+      "answer": "factorial",
+      "acceptableAnswers": [
+        "factorial",
+        "“exclamation point” before mention",
+        "The factorial"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d437e0"
+    },
+    {
+      "id": "e2c60b34-7c42-4165-9885-018376457bc5",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "Prior to performing this action, Mennonites often wash feet. In some traditions, people who decline participation in this practice by crossing their arms over their chest receive a blessing instead. A process central to this practice was defined during the Fourth Lateran Council. Early Christians performed this ritual during agape feasts. At the Marburg Colloquy, Zwingli and Luther disagreed over the \"Real Presence\" in this ritual. For 10 points, name this sacrament involving transubstantiation where Christians consume bread and wine symbolizing the body and blood of Jesus.",
+      "powerMarkPosition": 256,
+      "answer": "Eucharist",
+      "acceptableAnswers": [
+        "Eucharist",
+        "Holy Communion",
+        "the Lord’s Supper",
+        "The Eucharist"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a871"
+    },
+    {
+      "id": "c8b6330e-dbce-49fc-9e3a-7a1266f8b521",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "John Evlyn's diaries described how this artist designed special effects in which a theater caught fire, but transformed into a garden. This artist was inspired by Stromboli's eruption to design the first annual fireworks display at the Castel Sant'Angelo. In a tomb designed by this artist, a billowing jasper cloak traps a skeleton who holds an hourglass. This artist placed putti above a lay woman who reclines on a pillow and grasps her heart in a sculpture for the Altieri Chapel depicting Ludovica Albertoni. At age 81, this artist finished the tomb of Alexander VII. Portraits of donors in theater boxes flank a sculpture by this artist in the Cornaro Chapel which shows an angel standing over a woman on a cloud. For 10 points, name this sculptor who depicted an arrow pointed at a nun in The Ecstasy of St. Theresa.",
+      "powerMarkPosition": 468,
+      "answer": "Bernini",
+      "acceptableAnswers": [
+        "Bernini",
+        "The Bernini"
+      ],
+      "source": "qbreader",
+      "sourceId": "68aa6f7feb7f936a9a15e437"
+    },
+    {
+      "id": "ab497ab1-101a-4d3e-8490-509def2febd8",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "In a namesake theory, one thinker from this country divided signs into rhemes, dicents, and arguments. That thinker also wrote an article for The Monist titled \"Man's Glassy Essence\" where he attempted to \"lay out what ought to be the brick and mortar of\" philosophy. Another thinker from this country wrote the work Individualism: Old and New to criticize this country. A political philosopher from this country developed the idea of a \"veil of ignorance\", behind which we should make decisions about society. That thinker from this country stated that inequalities should be set up benefit the least well off in his A Theory of Justice. For 10 points, name this country, home of thinkers such as Charles Peirce, John Dewey, John Rawls, and the pragmatist William James.",
+      "powerMarkPosition": 436,
+      "answer": "United States",
+      "acceptableAnswers": [
+        "United States",
+        "The United States"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a89c1"
+    },
+    {
+      "id": "d3e35a93-ef70-44a3-86f9-99d2821863bd",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "The Cowlitz, Pend Oreille, and Okanogan are major tributaries of this river featuring a sweeping curve in mid-course known as the \"Big Bend\". It runs for 1,240 miles, and among North American rivers has the fourth largest discharge of water. Rising in the Canadian Rockies, it spends 500 miles in Canada before entering the United States, joining tributaries like the Willamette and Snake before entering the Pacific. For 10 points, what is this river whose last 300 miles forms the border between Oregon and Washington?",
+      "powerMarkPosition": 241,
+      "answer": "Columbia river",
+      "acceptableAnswers": [
+        "Columbia river",
+        "The Columbia river"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596df8"
+    },
+    {
+      "id": "d80cef20-b8c8-4cad-a893-4db82a0ee60b",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for inflammatory response. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this phagocyte-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Phagocyte",
+      "acceptableAnswers": [
+        "phagocyte",
+        "Phagocyte"
+      ],
+      "explanation": "The phagocyte is a key component of the Immune system, involved in inflammatory response.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9fbb777e-e9ce-44d3-b0f4-66911d929fe6",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "The northwestern edge of this body of water is noted for the massive basaltic cliffs of Gåseland and is named for a captain of the La Liloise who vanished while trying to map it; a later expedition of Georg Amdrup found its Nansen and Kivioq Inlets as well as Sokongen Island. The opposing side contains the hexagonally jointed Cliffs of Lódrangar, said to be an Elven chapel. The Irminger Current skirts the southern portion of this channel. Its narrowest point is between Cape Tupinier on the Blosseville Coast and the peninsulas of the Hornstrandir. The Prinz Eugen destroyed the HMS Hood in this channel in a battle also involving the Bismarck. The westward sloping bottom of this body of water contains an aquatic sill that promotes formation of North Atlantic Deep Water, and is thus the beginning of the Global Thermohaline Conveyor and the site of the world's largest submarine waterfall. The island of Jan Mayen lies northeast of, For 10 points, what strait that separates Iceland and Greenland, named for a country?",
+      "powerMarkPosition": 376,
+      "answer": "Denmark",
+      "acceptableAnswers": [
+        "Denmark",
+        "The Denmark"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff5fd"
+    },
+    {
+      "id": "4cab11a2-b16d-40a9-a8c0-4963a9b9a959",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "One of this psychologist's studies analyzed an innovator in \"militant nonviolence,\" and he characterized periods of aging in terms of paired concepts such as industry vs. inferiority and integrity vs. despair. An advocate of the epigenetic principle, he also theorized periods termed genital-locomotor, anal-muscular, and oral-sensory. For 10 points, name this author of the psychohistories Gandhi's Truth and Young Man Luther, a psychologist who coined the term \"identity crisis\" and posited an eight-stage model of psychosocial development.",
+      "powerMarkPosition": 209,
+      "answer": "Erikson",
+      "acceptableAnswers": [
+        "Erikson",
+        "The Erikson"
+      ],
+      "source": "qbreader",
+      "sourceId": "6632d7064c1a8347da197ae2"
+    },
+    {
+      "id": "54423c5d-c614-49df-8465-d9785f928949",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "Adam Curry is credited with creating the first one of these in 2004, which he named \"Daily Source Code.\" Ben Hammersley of The Guardian is credited with creating this term which describes this form of web media broadcast through web syndication. Popular titles in this format include This American Life, Freakonomics Radio, and Serial. For 10 points, give this term, a portmanteau of the words iPod and broadcast.",
+      "powerMarkPosition": 245,
+      "answer": "podcast",
+      "acceptableAnswers": [
+        "podcast",
+        "The podcast"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c6b6"
+    },
+    {
+      "id": "f5ec51b4-12b9-4cd0-8afd-ec0e09c50f75",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "Roy Radner defined a version of this concept which, by explicitly modelling uncertainty and trading in financial instruments, extended the Arrow-Debreu framework. A method for finding the efficient level of provision for public goods which usefully produces a Pareto optimal allocation is one of these named for Lindahl. The general theory of this concept, which considers whole economies, was pioneered by Léon Walras. The First Fundamental Welfare Theorem asserts that markets in this state are Pareto efficient. For 10 points, what word describes a stable state in which economic forces are balanced, so that absent external influences, variables like price will not change?",
+      "powerMarkPosition": 342,
+      "answer": "equilibrium",
+      "acceptableAnswers": [
+        "equilibrium",
+        "The equilibrium"
+      ],
+      "source": "qbreader",
+      "sourceId": "6414e1a1d83c2db5e169c044"
+    },
+    {
+      "id": "c3e034cf-dfd1-4553-a7f8-4a80011d59bc",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "The Fly River, which drains the Star Mountains on this island, has been extensively polluted following the Ok Tedi mine disaster. The highlands of this island include the site of sugar cane's first domestication, and Puncak Jaya is its tallest mountain. After five youths were found dead near Dekai in 2023, Joko Widodo's regime received allegations of genocide against some of this island's Melanesian peoples, who are genetically related to Torres Strait Islanders. Tok Pisin is a creole language spoken on this island, whose over 800 languages make it the most linguistically diverse in the world. For 10 points, name this island divided between Indonesia and an eastern neighbor.",
+      "powerMarkPosition": 253,
+      "answer": "New Guinea",
+      "acceptableAnswers": [
+        "New Guinea",
+        "Niugini",
+        "Niu Gini",
+        "Papua",
+        "Irian",
+        "reject “Papua New Guinea”",
+        "The New Guinea"
+      ],
+      "source": "qbreader",
+      "sourceId": "671d6e2b704068afc3e92986"
+    },
+    {
+      "id": "49b8adcc-db0e-4468-a6dd-9ba84911364c",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "In this country, members of the State Security Department, or RVO, were forced to flee during a time spurred by the fall of the \"Rákosi-Gero clique.\" That period ended when the fall of the coalition government caused Cardinal Mindszenty to flee to the United States Embassy, where he lived for the next fifteen years. Hardliners re-asserted control under Janos Kadar, and Pal Maleter and Imre Nagy [NAZH] were executed. For 10 points, that was the aftermath of the 1956 revolution in this country that was forced by the Soviet military to remain in the Eastern Bloc.",
+      "powerMarkPosition": 317,
+      "answer": "Hungary",
+      "acceptableAnswers": [
+        "Hungary",
+        "The Hungary"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9840db6"
+    },
+    {
+      "id": "621f9030-1689-4cf3-addd-a81c20d3f137",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "He was a leading attorney on the defense team of Congressman Sickles and briefly served as attorny general during the lame-duck period of Buchanan's presidency. He died after only four days on the Surpreme Court and was the legal advisor to Simon Cameron whom he replaced therby entering his most famous office. A proponent of Radical Reconstruction, it was his removal from office against the dictates of the Tenure of Office act which caused Andrew Johnson's impeachment. For 10 points, name this man who served as Secretary of War during the Civil War.",
+      "powerMarkPosition": 311,
+      "answer": "Stanton",
+      "acceptableAnswers": [
+        "Stanton",
+        "The Stanton"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bca72e7fe60f397fb4a951"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "3168dfcf-1976-45c0-8a85-5a4d7fd1e398",
+      "linkedTossupId": "1d75a566-b70d-4866-8cdf-ce3a53bd78a3",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this man who, in a cartoon by an unknown artist, is shown holding a scepter and stepping on a piece of paper marked \"Internal Improvements.\"",
+          "answer": "Jackson",
+          "acceptableAnswers": [
+            "Jackson",
+            "King Andrew the First",
+            "The Jackson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The King Andrew cartoon criticizes Jackson's abuse of the presidential veto, which he used to block the construction of the Maysville Road in this state, the home of the creator of the \"American System.\"",
+          "answer": "Kentucky",
+          "acceptableAnswers": [
+            "Kentucky",
+            "The Kentucky"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cartoonists often punned on Jackson's last name by depicting him as one of these animals. Jackson's Democrats co-opted the image, and this animal is still used to represent the Democratic Party to this day.",
+          "answer": "donkey",
+          "acceptableAnswers": [
+            "donkey",
+            "jackass",
+            "The donkey"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A famous image of this man is surrounded by text on all four borders, including such phrases as \"Born to command\" and \"Had I been consulted.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a812d"
+    },
+    {
+      "id": "49568a72-cbc0-4173-9ea6-40acec4d800a",
+      "linkedTossupId": "b00b257c-3eb5-4d60-8b2c-c959b9c509ba",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Containment of communism was necessary according to this theory, which held that if one nation fell to communism, its neighbors would be the next countries to go red.",
+          "answer": "domino",
+          "acceptableAnswers": [
+            "domino",
+            "The domino"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This President's namesake doctrine threatened US intervention in nations where communism looked like it might take hold. His policy provided money to Greece and Turkey and sent troops to Korea.",
+          "answer": "Truman",
+          "acceptableAnswers": [
+            "Truman",
+            "The Truman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This President, who served between Ford and Reagan, tried to shift from containment to a more pacifist foreign policy until the Soviets invaded Afghanistan in 1979. He won a Nobel Peace Prize in 2002, in part for his work with Habitat for Humanity.",
+          "answer": "Carter",
+          "acceptableAnswers": [
+            "Carter",
+            "The Carter"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, give the following about containment, the official US policy for stopping the spread of communism.",
+      "source": "qbreader",
+      "sourceId": "663806eaa0924256318acc94"
+    },
+    {
+      "id": "a52622c2-9dc8-4856-8b81-c8951f3f7764",
+      "linkedTossupId": "dbdd2b27-5ae8-483a-8a25-c91fd9e759f4",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this character who learns at the end of that story to avoid a \"delirium... more transient than that of wine\" even if it \"were for years instead of moments.\" This character causes three men to vie for the affection of a widow.",
+          "answer": "Heidegger",
+          "acceptableAnswers": [
+            "Heidegger",
+            "“Dr. Heidegger’s Experiment”",
+            "The Heidegger"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of \"Dr. Heidegger's Experiment\" also wrote about the cold-hearted physician Roger Chillingworth in his novel The Scarlet Letter.",
+          "answer": "Hawthorne",
+          "acceptableAnswers": [
+            "Hawthorne",
+            "The Hawthorne"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The title character of this Hawthorne story tends to the poisonous garden maintained by her botanist father, which gives her a \"fatal breath\" that withers flowers and kills insects.",
+          "answer": "Rappaccini’s Daughter",
+          "acceptableAnswers": [
+            "Rappaccini’s Daughter",
+            "The Rappaccini’s Daughter"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "While he kisses a withered flower, this character observes that he \"[loves] it as well thus as in its dewy freshness,\" after which a butterfly flutters off his head. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423d8a"
+    },
+    {
+      "id": "8f4551b3-aa7f-42d2-88ea-c4f02040a8e6",
+      "linkedTossupId": "cac17356-9d1d-4ddf-a03a-b8d01279c096",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this 1710 work of empiricism which introduces the vaguely defined concepts of \"strong ideas\" and \"faint ideas\" and famously begins by asserting that to be is to be perceived.",
+          "answer": "Treatise Concerning the Principles of Human Knowledge",
+          "acceptableAnswers": [
+            "Treatise Concerning the Principles of Human Knowledge",
+            "The Treatise Concerning the Principles of Human Knowledge"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A Treatise Concerning the Principles of Human Knowledge was written by this Irish theorist of immaterialism who also wrote Three Dialogues Between Hylas and Philonous.",
+          "answer": "Berkeley",
+          "acceptableAnswers": [
+            "Berkeley",
+            "The Berkeley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Berkeley essay offers an instrumentalist critique of Newtonian physics and asserts that analyzing movement through abstract quantities only creates paradoxes and attacks the equation causes with what is caused.",
+          "answer": "De Motu",
+          "acceptableAnswers": [
+            "De Motu",
+            "Of Motion",
+            "On Motion",
+            "The De Motu"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work asserts that our failure to understand how ideas form prevents us from proving the existence of matter corresponding to thoughts. FTPE:",
+      "source": "qbreader",
+      "sourceId": "646eebb29aa260d7cf0706c4"
+    },
+    {
+      "id": "461887c0-5623-4ed1-bc4b-da0fee38557f",
+      "linkedTossupId": "93736d43-ba7b-49fc-b670-42b0fb830806",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Franz Kafka story whose elderly narrator compares excessive consideration of leadership to a rising river that \"overflows its banks\" and emphasizes the \"piecemeal construction\" of the title structure.",
+          "answer": "Great Wall of China",
+          "acceptableAnswers": [
+            "Great Wall of China",
+            "“Beim Bau der Chinesischen Mauer”",
+            "The Great Wall of China"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In two essays, this Argentine analyzed Qin Shi Huang's (\"cheen shurr hwong's\") decision to build the Great Wall and identified Lord Dunsany (\"dun-SAY-nee\") and Robert Browning as among Kafka's \"Precursors.\" This author wrote the stories in Ficciones (\"feeks-YO-nays\").",
+          "answer": "Borges",
+          "acceptableAnswers": [
+            "Borges",
+            "The Borges"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Scared of its ability to scale the Great Wall, Emperor Yuan destroys the title invention in this author's \"The Flying Machine.\" Eckels panics while on a \"Time Safari\" hunting dinosaurs in his story \"A Sound of Thunder.\"",
+          "answer": "Bradbury",
+          "acceptableAnswers": [
+            "Bradbury",
+            "The Bradbury"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In an oft-excerpted parable from this story, a dying emperor sends a message to you, \"his miserable subject,\" only for the messenger to take an eternity to reach you. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f072b47434cffff7b5a0d9"
+    },
+    {
+      "id": "a7f9b843-239e-4649-ae64-5031ef913730",
+      "linkedTossupId": "f5cf6d33-7b59-44d1-a0c4-d875784816cd",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this author of Notes from the Underground and The Idiot.",
+          "answer": "Dostoyevsky",
+          "acceptableAnswers": [
+            "Dostoyevsky",
+            "The Dostoyevsky"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This work of Dostoevsky details Raskolnikov and his murder of a couple of pawn brokers.",
+          "answer": "Crime and Punishment",
+          "acceptableAnswers": [
+            "Crime and Punishment",
+            "The Crime and Punishment"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other work by Dostoevsky details the clash and inner struggle within the titular family, featuring such characters as Dmitri, Ivan, Aleksey, and their father Fyodor.",
+          "answer": "Brothers Karamazov",
+          "acceptableAnswers": [
+            "Brothers Karamazov",
+            "The Brothers Karamazov"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His most famous work details a protagonist whose name means \"split.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced8d2"
+    },
+    {
+      "id": "0181bfef-1688-4675-9d69-7b48edbb00b4",
+      "linkedTossupId": "295b6ecf-104b-4b34-b2a7-8f70fdc620e1",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this virus that started a pandemic beginning in December, 2019. Dr. Anthony Fauci indicated that this virus would probably become endemic in an address at the World Economic Forum on February 18, 2022.",
+          "answer": "COVID-19",
+          "acceptableAnswers": [
+            "COVID-19",
+            "SARS-COV-2",
+            "severe acute respiratory syndrome coronavirus 2",
+            "The COVID-19"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The standard test for COVID-19 involves this procedure. This lab technique involves the production of millions of copies of a certain string of DNA.",
+          "answer": "PCR",
+          "acceptableAnswers": [
+            "PCR",
+            "polymerase chain reaction",
+            "The PCR"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A more easily available test for COVID-19 relies on detecting these particles. Antibodies react to these foreign particles.",
+          "answer": "antigens",
+          "acceptableAnswers": [
+            "antigens",
+            "The antigens"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This respiratory virus was first identified in Wuhan, China. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65666e01443a0a5dea00452b"
+    },
+    {
+      "id": "bd0f03e0-5707-40a7-aa66-9a73741bd4af",
+      "linkedTossupId": "24103c9b-777c-4c8d-a150-25639fe56d33",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this \"universal solvent\", a liquid with formula H2O.",
+          "answer": "water",
+          "acceptableAnswers": [
+            "water",
+            "dihydrogen monoxide",
+            "The water"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One common cause of osmosis is creating a balance of this quantity on both sides of the membrane. Molarity can be used to measure this quantity, which denotes how much solute has been dissolved in a solution.",
+          "answer": "concentration",
+          "acceptableAnswers": [
+            "concentration",
+            "The concentration"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another phenomenon involving the flow of water is this one, in which water will flow up a narrow tube against the force of gravity.",
+          "answer": "capillary action",
+          "acceptableAnswers": [
+            "capillary action",
+            "The capillary action"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An isotonic solution is characterized by a net neutral inflow and outflow of this compound through osmosis past a semipermeable membrane. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65666e00443a0a5dea0044fe"
+    },
+    {
+      "id": "538b7f81-6b8f-4c54-a3f4-b2abca7949ff",
+      "linkedTossupId": "e2c60b34-7c42-4165-9885-018376457bc5",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This holiday takes 7 days to complete and celebrates the Israelite exodus from Egypt.",
+          "answer": "Passover",
+          "acceptableAnswers": [
+            "Passover",
+            "The Passover"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "On the first night of Passover, celebrants partake of this meal that includes telling the story of the exodus, eating matzah and other foods placed on the namesake plate, and drinking cups of wine.",
+          "answer": "seder",
+          "acceptableAnswers": [
+            "seder",
+            "The seder"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Participants in Passover are obligated to drink this many cups of wine during the seder to represent the different number of ways God worded his promise to save the Israelites in Exodus.",
+          "answer": "four",
+          "acceptableAnswers": [
+            "four",
+            "The four"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One Jewish holiday begins on the evening of the 15th day of Nisan in the Jewish calendar. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edc1ba974521c293e493ef"
+    },
+    {
+      "id": "652a4b6f-5f4e-444e-b699-0699c5124548",
+      "linkedTossupId": "c8b6330e-dbce-49fc-9e3a-7a1266f8b521",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this composer of the operetta Dolores and a Concertino for harp and orchestra, as well as the 1958 opera The Little Siren.",
+          "answer": "Tailleferre",
+          "acceptableAnswers": [
+            "Tailleferre",
+            "The Tailleferre"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Like Germaine Tailleferre, this composer of the ballet The Creation of the World and the Saudades do Brasil was a member of The Six.",
+          "answer": "Milhaud",
+          "acceptableAnswers": [
+            "Milhaud",
+            "The Milhaud"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer of a concerto for organ, string orchestra, and timpani also wrote the opera Dialogues of the Carmelites.",
+          "answer": "Poulenc",
+          "acceptableAnswers": [
+            "Poulenc",
+            "The Poulenc"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This composer's works include Image, which was written for piano, flute, clarinet, string quartet, and celesta. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b1a39"
+    },
+    {
+      "id": "9794a359-edbf-432f-85fe-ab3fb1e08011",
+      "linkedTossupId": "ab497ab1-101a-4d3e-8490-509def2febd8",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this religion whose priests are known as houngans and mambos. This religion's Haitian and Louisiana forms have both been syncretized with Catholicism.",
+          "answer": "voodoo",
+          "acceptableAnswers": [
+            "voodoo",
+            "The voodoo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Because Bondye is unreachable, practitioners of voodoo address their prayers to these intermediate beings, of whom Simbi and Baron Samedi are examples.",
+          "answer": "loa",
+          "acceptableAnswers": [
+            "loa",
+            "The loa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This loa knows all languages and presides over crossroads as well as communication between humans and other loa.",
+          "answer": "Legba",
+          "acceptableAnswers": [
+            "Legba",
+            "The Legba"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This religion's supreme being is the aloof Bondye. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a56e"
+    },
+    {
+      "id": "77cc2cdb-410f-4518-9b76-343e48029559",
+      "linkedTossupId": "d3e35a93-ef70-44a3-86f9-99d2821863bd",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "1. points) This long, narrow sea separates the Arabian Peninsula from such African countries as Egypt, Sudan, and Eritrea.",
+          "answer": "Red",
+          "acceptableAnswers": [
+            "Red",
+            "The Red"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "1. points) The Red Sea is connected to the Gulf of Aden by this strait whose name means \"gate of tears\".",
+          "answer": "Mandeb",
+          "acceptableAnswers": [
+            "Mandeb",
+            "The Mandeb"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "1. points each) The Red Sea terminates in the north at these two large gulfs separated by the Sinai Peninsula. F5PE, name these gulfs.",
+          "answer": "Suez",
+          "acceptableAnswers": [
+            "Suez",
+            "The Suez"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name the following about a sea, for the stated number of points.",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596db2"
+    },
+    {
+      "id": "4a43f542-4c18-422e-aae9-8c8dbc5127fa",
+      "linkedTossupId": "d80cef20-b8c8-4cad-a893-4db82a0ee60b",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with spinal cord structure.",
+          "answer": "spinal cord",
+          "acceptableAnswers": [
+            "spinal cord"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the spinal cord in the nervous system?",
+          "answer": "Spinal cord structure",
+          "acceptableAnswers": [
+            "Spinal cord structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to spinal cord structure.",
+          "answer": "reflex",
+          "acceptableAnswers": [
+            "reflex"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "2ed22b41-c761-47aa-8cc9-60d1d1f6b68c",
+      "linkedTossupId": "9fbb777e-e9ce-44d3-b0f4-66911d929fe6",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this western state that contains 99 percent of the U.S.'s pistachio orchards and produces 80 percent of the world's almonds, both of which were water sinks during the drought and wildfires it suffered in the 2010s.",
+          "answer": "California",
+          "acceptableAnswers": [
+            "California",
+            "CA",
+            "The California"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A large portion of California's nut production is focused in this city's namesake county. Raisin company Sun-Maid was founded near this city, which was named for the ash trees that grow along San Joaquin River.",
+          "answer": "Fresno",
+          "acceptableAnswers": [
+            "Fresno",
+            "Fresno County",
+            "The Fresno"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "San Joaquin Valley and this other eastern California valley were involved in several heated \"water wars\" with the Los Angeles government, as dramatized in the film Chinatown. This valley was essentially sucked dry by William Mulholland's aqueducts.",
+          "answer": "Owens",
+          "acceptableAnswers": [
+            "Owens",
+            "The Owens"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Among the dozens of instances of nut crimes in this state since the mid-2000s include a trucker's theft of 21 tons of pistachios stashed in a tractor trailer in Tulare County. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "639a46d925fac6a63b2b7ffe"
+    },
+    {
+      "id": "e6f520ce-c2ce-471f-922e-4487b872387f",
+      "linkedTossupId": "4cab11a2-b16d-40a9-a8c0-4963a9b9a959",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this economist who opposed the Corn Laws and wrote Principles of Political Economy and Taxation.",
+          "answer": "Ricardo",
+          "acceptableAnswers": [
+            "Ricardo",
+            "The Ricardo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ricardo introduced this theory which explains why trade between two countries could be beneficial to both countries, even if one could produce more of both.",
+          "answer": "comparative advantage",
+          "acceptableAnswers": [
+            "comparative advantage",
+            "The comparative advantage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ricardo also formulated this economic law, which states that salaries will approach subsistence level but not drop below it.",
+          "answer": "Iron Law of Wages",
+          "acceptableAnswers": [
+            "Iron Law of Wages",
+            "The Iron Law of Wages"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His Essay on the Influence of the Low Price of Corn discussed the law of diminishing marginal returns. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895997a0d8ea074be7b40"
+    },
+    {
+      "id": "f82f9503-78e7-4f78-8636-3a72bb4ef7f0",
+      "linkedTossupId": "54423c5d-c614-49df-8465-d9785f928949",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "In 1970, Labov performed an experiment in which children used more complex grammar when talking to one of these animals than they did with a human teacher. The philosopher Ludwig Wittgenstein wrote about an optical illusion that can either look like a duck or one of these animals.",
+          "answer": "rabbit",
+          "acceptableAnswers": [
+            "rabbit",
+            "a bunny",
+            "The rabbit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Labov has studied ongoing \"shifts\" in the way that English speakers in various places produce these sounds. These sounds are usually represented by the letters A, E, I, O, and U in English.",
+          "answer": "vowel",
+          "acceptableAnswers": [
+            "vowel",
+            "The vowel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Labov's work was important in destigmatizing AAVE (ah-vay), a dialect of English primarily spoken by these people that shares many features with rural Southern American English, which many of these people left for Northern cities during the Great Migration.",
+          "answer": "Black",
+          "acceptableAnswers": [
+            "Black",
+            "African-American people",
+            "The Black"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the work of sociolinguist William Labov, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "673aef78cbbbb69a5263cd56"
+    },
+    {
+      "id": "16c477e7-ed36-43ee-a92d-273915c705f3",
+      "linkedTossupId": "f5ec51b4-12b9-4cd0-8afd-ec0e09c50f75",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this author of The Rise and Fall of Nations and Power and Prosperity. This long time University of Maryland in College Park academic is probably best known for his The Logic of Collective Action.",
+          "answer": "Olson",
+          "acceptableAnswers": [
+            "Olson",
+            "The Olson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mancur Olson's The Logic of Collective Action attempts to explain this problem of people using a public good without shouldering any of the cost. Olson urged groups desiring collective action to provide benefits to active members to thwart this problem.",
+          "answer": "free rider",
+          "acceptableAnswers": [
+            "free rider",
+            "The free rider"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The free rider problem is central to the Tragedy of the Commons, the canonical paper on which was written about sheep farmers by this ecologist-cum-social-scientist.",
+          "answer": "Hardin",
+          "acceptableAnswers": [
+            "Hardin",
+            "The Hardin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one of his works, this thinker claimed that \"only a separate and 'selective' incentive will stimulate a rational individual in a latent group to act in a group-oriented way.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c6119349cec"
+    },
+    {
+      "id": "ce0a7d4e-3b50-45f2-9415-ea0b8c145dda",
+      "linkedTossupId": "c3e034cf-dfd1-4553-a7f8-4a80011d59bc",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The Garagum Canal has its head at this river and runs through Ashgabat, the capital of Turkmenistan. Once known as the Oxus, this river flows north through Uzbekistan to empty into the Aral Sea.",
+          "answer": "Amu Darya",
+          "acceptableAnswers": [
+            "Amu Darya",
+            "The Amu Darya"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Kamogawa Canal is connected to this largest lake in Japan to supply waterpower to Kyoto.",
+          "answer": "Biwa",
+          "acceptableAnswers": [
+            "Biwa",
+            "The Biwa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Grand Canal of China connects Hangzhou with Beijing and in the process connects these two longest rivers of China.",
+          "answer": "Yangtze",
+          "acceptableAnswers": [
+            "Yangtze",
+            "Chang Jiang",
+            "Huang He",
+            "The Yangtze"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about some canals in Asia, For 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a456076f"
+    },
+    {
+      "id": "72fed8d2-c675-44bd-9424-7f16091ba096",
+      "linkedTossupId": "49b8adcc-db0e-4468-a6dd-9ba84911364c",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Chinese court eunuch and admiral, who traveled as far as Africa while leading seven voyages across the Indian Ocean.",
+          "answer": "Zheng",
+          "acceptableAnswers": [
+            "Zheng",
+            "Cheng Ho",
+            "Ma He",
+            "The Zheng"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This dynasty's Yongle emperor ordered Zheng He's voyages; it then smashed up China's ship-building facilities. The Hongwu emperor started this dynasty, which used phoenix designs on its namesake porcelain.",
+          "answer": "Ming",
+          "acceptableAnswers": [
+            "Ming",
+            "The Ming"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These people attacked the Ming Dynasty 1644, causing its collapse. Their men wore their hair in a queue, and they were called Jurchen until Nurhachi unified them in the early 1600s.",
+          "answer": "Manchus",
+          "acceptableAnswers": [
+            "Manchus",
+            "Manchurians",
+            "The Manchus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This explorer of Muslim descent brought back ivory, ostriches, zebras, and a giraffe, among other things. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f86327cdb0cbb3f46458c6"
+    },
+    {
+      "id": "712eb99a-6664-4bf8-a4ac-59b5d89e1755",
+      "linkedTossupId": "621f9030-1689-4cf3-addd-a81c20d3f137",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this family, originally from , which played a major role in Italian politics around the year 1500.",
+          "answer": "Borgia",
+          "acceptableAnswers": [
+            "Borgia",
+            "The Borgia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This son of Rodrigo Borgia was made a cardinal by his father in 1493. Machiavelli thought highly of him, but he died in a minor battle in at the age of 31.",
+          "answer": "Cesare",
+          "acceptableAnswers": [
+            "Cesare",
+            "The Cesare"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This sister of Cesare Borgia may or may not have been an incestuous poisoning whore, but she was married three times, the last of her husbands being Alfonso, duke of .",
+          "answer": "Lucrezia",
+          "acceptableAnswers": [
+            "Lucrezia",
+            "The Lucrezia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of the first members of the family to gain serious power was Alonso, who in 1455 ascended to the Papacy as Calixtus III. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bca72e7fe60f397fb4a816"
+    }
+  ]
+}

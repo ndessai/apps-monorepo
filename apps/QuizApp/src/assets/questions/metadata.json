@@ -1,0 +1,4428 @@
+{
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.438Z",
+  "totalPackets": 264,
+  "totalTossups": 5280,
+  "totalBonuses": 5280,
+  "packets": [
+    {
+      "id": "packet-001",
+      "file": "packets/packet-001.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Literature",
+        "Fine Arts",
+        "Philosophy",
+        "Human Body",
+        "Science",
+        "Geography",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-002",
+      "file": "packets/packet-002.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Philosophy",
+        "Literature",
+        "Science",
+        "Human Body",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-003",
+      "file": "packets/packet-003.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Mythology",
+        "History",
+        "Literature",
+        "Social Science",
+        "Science",
+        "Human Body",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-004",
+      "file": "packets/packet-004.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Fine Arts",
+        "History",
+        "Human Body",
+        "Literature",
+        "Social Science",
+        "Mythology",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-005",
+      "file": "packets/packet-005.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Social Science",
+        "Literature",
+        "Human Body",
+        "Mythology",
+        "Philosophy",
+        "Fine Arts",
+        "History",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-006",
+      "file": "packets/packet-006.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Mythology",
+        "Science",
+        "Philosophy",
+        "History",
+        "Literature",
+        "Fine Arts",
+        "Human Body",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-007",
+      "file": "packets/packet-007.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Mythology",
+        "Science",
+        "Literature",
+        "History",
+        "Human Body",
+        "Fine Arts",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-008",
+      "file": "packets/packet-008.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "History",
+        "Geography",
+        "Mythology",
+        "Philosophy",
+        "Literature",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-009",
+      "file": "packets/packet-009.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Human Body",
+        "Literature",
+        "Science",
+        "Social Science",
+        "History",
+        "Geography",
+        "Fine Arts",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-010",
+      "file": "packets/packet-010.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Social Science",
+        "Science",
+        "Fine Arts",
+        "History",
+        "Literature",
+        "Philosophy",
+        "Mythology",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-011",
+      "file": "packets/packet-011.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Science",
+        "Fine Arts",
+        "Human Body",
+        "History",
+        "Literature",
+        "Social Science",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-012",
+      "file": "packets/packet-012.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "History",
+        "Literature",
+        "Science",
+        "Philosophy",
+        "Fine Arts",
+        "Geography",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-013",
+      "file": "packets/packet-013.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "History",
+        "Philosophy",
+        "Literature",
+        "Fine Arts",
+        "Human Body",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-014",
+      "file": "packets/packet-014.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Literature",
+        "Science",
+        "Fine Arts",
+        "Geography",
+        "Philosophy",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-015",
+      "file": "packets/packet-015.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Mythology",
+        "Literature",
+        "Geography",
+        "History",
+        "Science",
+        "Philosophy",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-016",
+      "file": "packets/packet-016.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Science",
+        "Literature",
+        "Social Science",
+        "History",
+        "Human Body",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-017",
+      "file": "packets/packet-017.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Geography",
+        "Literature",
+        "Social Science",
+        "Fine Arts",
+        "History",
+        "Science",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-018",
+      "file": "packets/packet-018.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Human Body",
+        "Philosophy",
+        "History",
+        "Literature",
+        "Social Science",
+        "Fine Arts",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-019",
+      "file": "packets/packet-019.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Fine Arts",
+        "History",
+        "Mythology",
+        "Social Science",
+        "Philosophy",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-020",
+      "file": "packets/packet-020.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Fine Arts",
+        "Human Body",
+        "Literature",
+        "Mythology",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-021",
+      "file": "packets/packet-021.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "History",
+        "Mythology",
+        "Philosophy",
+        "Human Body",
+        "Science",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-022",
+      "file": "packets/packet-022.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Literature",
+        "History",
+        "Human Body",
+        "Science",
+        "Mythology",
+        "Philosophy",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-023",
+      "file": "packets/packet-023.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Science",
+        "Human Body",
+        "History",
+        "Mythology",
+        "Social Science",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-024",
+      "file": "packets/packet-024.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Social Science",
+        "History",
+        "Human Body",
+        "Fine Arts",
+        "Geography",
+        "Science",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-025",
+      "file": "packets/packet-025.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Mythology",
+        "Literature",
+        "Fine Arts",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-026",
+      "file": "packets/packet-026.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Philosophy",
+        "Science",
+        "Human Body",
+        "History",
+        "Geography",
+        "Mythology",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-027",
+      "file": "packets/packet-027.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Literature",
+        "Mythology",
+        "Science",
+        "History",
+        "Human Body",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-028",
+      "file": "packets/packet-028.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Science",
+        "Literature",
+        "History",
+        "Philosophy",
+        "Social Science",
+        "Geography",
+        "Mythology",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-029",
+      "file": "packets/packet-029.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Literature",
+        "Social Science",
+        "Human Body",
+        "History",
+        "Science",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-030",
+      "file": "packets/packet-030.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Literature",
+        "Fine Arts",
+        "Science",
+        "Geography",
+        "Mythology",
+        "Human Body",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-031",
+      "file": "packets/packet-031.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Literature",
+        "History",
+        "Philosophy",
+        "Geography",
+        "Social Science",
+        "Fine Arts",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-032",
+      "file": "packets/packet-032.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Mythology",
+        "Science",
+        "Literature",
+        "Geography",
+        "History",
+        "Social Science",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-033",
+      "file": "packets/packet-033.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Social Science",
+        "Human Body",
+        "Philosophy",
+        "Literature",
+        "Science",
+        "Mythology",
+        "History",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-034",
+      "file": "packets/packet-034.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Philosophy",
+        "Fine Arts",
+        "Literature",
+        "Geography",
+        "Science",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-035",
+      "file": "packets/packet-035.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Fine Arts",
+        "Human Body",
+        "Science",
+        "History",
+        "Philosophy",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-036",
+      "file": "packets/packet-036.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "History",
+        "Science",
+        "Philosophy",
+        "Human Body",
+        "Literature",
+        "Social Science",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-037",
+      "file": "packets/packet-037.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Mythology",
+        "History",
+        "Science",
+        "Fine Arts",
+        "Literature",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-038",
+      "file": "packets/packet-038.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Fine Arts",
+        "Literature",
+        "History",
+        "Science",
+        "Philosophy",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-039",
+      "file": "packets/packet-039.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Fine Arts",
+        "Literature",
+        "Geography",
+        "Science",
+        "Social Science",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-040",
+      "file": "packets/packet-040.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Fine Arts",
+        "Mythology",
+        "Geography",
+        "Social Science",
+        "Human Body",
+        "Science",
+        "Philosophy",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-041",
+      "file": "packets/packet-041.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Mythology",
+        "Human Body",
+        "Social Science",
+        "Science",
+        "History",
+        "Literature",
+        "Geography",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-042",
+      "file": "packets/packet-042.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Mythology",
+        "Fine Arts",
+        "Social Science",
+        "Science",
+        "History",
+        "Literature",
+        "Geography",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-043",
+      "file": "packets/packet-043.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Literature",
+        "Philosophy",
+        "Science",
+        "Fine Arts",
+        "Geography",
+        "Human Body",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-044",
+      "file": "packets/packet-044.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Social Science",
+        "History",
+        "Literature",
+        "Geography",
+        "Human Body",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-045",
+      "file": "packets/packet-045.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Fine Arts",
+        "Science",
+        "Human Body",
+        "Philosophy",
+        "Literature",
+        "History",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-046",
+      "file": "packets/packet-046.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Literature",
+        "History",
+        "Geography",
+        "Philosophy",
+        "Science",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-047",
+      "file": "packets/packet-047.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Literature",
+        "Mythology",
+        "Fine Arts",
+        "Human Body",
+        "Geography",
+        "Social Science",
+        "Science",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-048",
+      "file": "packets/packet-048.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Geography",
+        "Science",
+        "Literature",
+        "History",
+        "Mythology",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-049",
+      "file": "packets/packet-049.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Human Body",
+        "Mythology",
+        "Fine Arts",
+        "Literature",
+        "History",
+        "Geography",
+        "Philosophy",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-050",
+      "file": "packets/packet-050.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "History",
+        "Science",
+        "Mythology",
+        "Geography",
+        "Social Science",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-051",
+      "file": "packets/packet-051.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Social Science",
+        "History",
+        "Human Body",
+        "Science",
+        "Mythology",
+        "Geography",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-052",
+      "file": "packets/packet-052.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "History",
+        "Literature",
+        "Science",
+        "Human Body",
+        "Geography",
+        "Mythology",
+        "Philosophy",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-053",
+      "file": "packets/packet-053.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Social Science",
+        "Science",
+        "Mythology",
+        "History",
+        "Human Body",
+        "Philosophy",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-054",
+      "file": "packets/packet-054.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Mythology",
+        "History",
+        "Fine Arts",
+        "Science",
+        "Human Body",
+        "Literature",
+        "Social Science",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-055",
+      "file": "packets/packet-055.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Science",
+        "Human Body",
+        "Literature",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-056",
+      "file": "packets/packet-056.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "History",
+        "Geography",
+        "Social Science",
+        "Literature",
+        "Human Body",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-057",
+      "file": "packets/packet-057.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Social Science",
+        "Fine Arts",
+        "History",
+        "Science",
+        "Literature",
+        "Mythology",
+        "Human Body",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-058",
+      "file": "packets/packet-058.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Geography",
+        "Science",
+        "Philosophy",
+        "History",
+        "Human Body",
+        "Mythology",
+        "Social Science",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-059",
+      "file": "packets/packet-059.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Science",
+        "Human Body",
+        "Fine Arts",
+        "Literature",
+        "Philosophy",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-060",
+      "file": "packets/packet-060.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Mythology",
+        "History",
+        "Social Science",
+        "Science",
+        "Fine Arts",
+        "Literature",
+        "Philosophy",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-061",
+      "file": "packets/packet-061.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "History",
+        "Social Science",
+        "Fine Arts",
+        "Science",
+        "Literature",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-062",
+      "file": "packets/packet-062.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Literature",
+        "Science",
+        "Fine Arts",
+        "Philosophy",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-063",
+      "file": "packets/packet-063.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Philosophy",
+        "Human Body",
+        "Geography",
+        "Science",
+        "Social Science",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-064",
+      "file": "packets/packet-064.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Fine Arts",
+        "Social Science",
+        "Human Body",
+        "Science",
+        "History",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-065",
+      "file": "packets/packet-065.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Literature",
+        "Fine Arts",
+        "Philosophy",
+        "Social Science",
+        "Science",
+        "Human Body",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-066",
+      "file": "packets/packet-066.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Social Science",
+        "History",
+        "Literature",
+        "Science",
+        "Philosophy",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-067",
+      "file": "packets/packet-067.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Science",
+        "Mythology",
+        "Geography",
+        "Philosophy",
+        "Social Science",
+        "Fine Arts",
+        "Human Body",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-068",
+      "file": "packets/packet-068.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Literature",
+        "Mythology",
+        "Geography",
+        "History",
+        "Philosophy",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-069",
+      "file": "packets/packet-069.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Social Science",
+        "Science",
+        "Literature",
+        "Human Body",
+        "Mythology",
+        "Philosophy",
+        "History",
+        "Fine Arts",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-070",
+      "file": "packets/packet-070.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Social Science",
+        "Philosophy",
+        "History",
+        "Geography",
+        "Literature",
+        "Fine Arts",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-071",
+      "file": "packets/packet-071.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Human Body",
+        "Literature",
+        "Fine Arts",
+        "Philosophy",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-072",
+      "file": "packets/packet-072.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Science",
+        "Social Science",
+        "Geography",
+        "Mythology",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-073",
+      "file": "packets/packet-073.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Science",
+        "Human Body",
+        "Social Science",
+        "Geography",
+        "Philosophy",
+        "History",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-074",
+      "file": "packets/packet-074.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "History",
+        "Human Body",
+        "Mythology",
+        "Literature",
+        "Social Science",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-075",
+      "file": "packets/packet-075.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Social Science",
+        "Science",
+        "Fine Arts",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-076",
+      "file": "packets/packet-076.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Literature",
+        "Philosophy",
+        "Mythology",
+        "Geography",
+        "Science",
+        "Social Science",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-077",
+      "file": "packets/packet-077.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Human Body",
+        "Science",
+        "Philosophy",
+        "Social Science",
+        "Geography",
+        "Literature",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-078",
+      "file": "packets/packet-078.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Science",
+        "Literature",
+        "History",
+        "Geography",
+        "Fine Arts",
+        "Mythology",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-079",
+      "file": "packets/packet-079.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Literature",
+        "Geography",
+        "Social Science",
+        "Human Body",
+        "History",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-080",
+      "file": "packets/packet-080.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "History",
+        "Mythology",
+        "Philosophy",
+        "Human Body",
+        "Fine Arts",
+        "Literature",
+        "Geography",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-081",
+      "file": "packets/packet-081.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Philosophy",
+        "History",
+        "Literature",
+        "Human Body",
+        "Geography",
+        "Fine Arts",
+        "Social Science",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-082",
+      "file": "packets/packet-082.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Philosophy",
+        "Fine Arts",
+        "History",
+        "Literature",
+        "Social Science",
+        "Human Body",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-083",
+      "file": "packets/packet-083.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Human Body",
+        "Geography",
+        "Philosophy",
+        "Science",
+        "Fine Arts",
+        "Social Science",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-084",
+      "file": "packets/packet-084.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Human Body",
+        "Geography",
+        "Literature",
+        "Mythology",
+        "History",
+        "Social Science",
+        "Science",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-085",
+      "file": "packets/packet-085.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Science",
+        "Fine Arts",
+        "Literature",
+        "Philosophy",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-086",
+      "file": "packets/packet-086.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Mythology",
+        "Literature",
+        "History",
+        "Social Science",
+        "Philosophy",
+        "Science",
+        "Fine Arts",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-087",
+      "file": "packets/packet-087.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Fine Arts",
+        "History",
+        "Literature",
+        "Human Body",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-088",
+      "file": "packets/packet-088.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Social Science",
+        "Philosophy",
+        "Literature",
+        "Science",
+        "Geography",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-089",
+      "file": "packets/packet-089.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "History",
+        "Philosophy",
+        "Science",
+        "Geography",
+        "Human Body",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-090",
+      "file": "packets/packet-090.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Fine Arts",
+        "History",
+        "Literature",
+        "Philosophy",
+        "Geography",
+        "Social Science",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-091",
+      "file": "packets/packet-091.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Social Science",
+        "Human Body",
+        "Literature",
+        "Science",
+        "History",
+        "Philosophy",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-092",
+      "file": "packets/packet-092.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Human Body",
+        "History",
+        "Science",
+        "Literature",
+        "Fine Arts",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-093",
+      "file": "packets/packet-093.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Fine Arts",
+        "History",
+        "Human Body",
+        "Philosophy",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-094",
+      "file": "packets/packet-094.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "History",
+        "Science",
+        "Social Science",
+        "Fine Arts",
+        "Philosophy",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-095",
+      "file": "packets/packet-095.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Philosophy",
+        "Geography",
+        "Literature",
+        "Human Body",
+        "Fine Arts",
+        "Social Science",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-096",
+      "file": "packets/packet-096.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "History",
+        "Social Science",
+        "Philosophy",
+        "Fine Arts",
+        "Literature",
+        "Science",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-097",
+      "file": "packets/packet-097.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Mythology",
+        "Science",
+        "Literature",
+        "History",
+        "Fine Arts",
+        "Philosophy",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-098",
+      "file": "packets/packet-098.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Geography",
+        "Human Body",
+        "Literature",
+        "History",
+        "Science",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-099",
+      "file": "packets/packet-099.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Mythology",
+        "Philosophy",
+        "Geography",
+        "History",
+        "Science",
+        "Human Body",
+        "Social Science",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-100",
+      "file": "packets/packet-100.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Science",
+        "Mythology",
+        "History",
+        "Fine Arts",
+        "Geography",
+        "Literature",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-101",
+      "file": "packets/packet-101.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Social Science",
+        "History",
+        "Philosophy",
+        "Fine Arts",
+        "Human Body",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-102",
+      "file": "packets/packet-102.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Science",
+        "Mythology",
+        "History",
+        "Geography",
+        "Literature",
+        "Fine Arts",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-103",
+      "file": "packets/packet-103.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Human Body",
+        "History",
+        "Mythology",
+        "Science",
+        "Literature",
+        "Geography",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-104",
+      "file": "packets/packet-104.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Philosophy",
+        "Fine Arts",
+        "Science",
+        "Geography",
+        "Social Science",
+        "Human Body",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-105",
+      "file": "packets/packet-105.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "History",
+        "Literature",
+        "Science",
+        "Geography",
+        "Mythology",
+        "Fine Arts",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-106",
+      "file": "packets/packet-106.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Mythology",
+        "History",
+        "Human Body",
+        "Philosophy",
+        "Literature",
+        "Science",
+        "Fine Arts",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-107",
+      "file": "packets/packet-107.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "History",
+        "Geography",
+        "Human Body",
+        "Literature",
+        "Science",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-108",
+      "file": "packets/packet-108.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Fine Arts",
+        "Science",
+        "Literature",
+        "Mythology",
+        "Philosophy",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-109",
+      "file": "packets/packet-109.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Literature",
+        "Science",
+        "Philosophy",
+        "Fine Arts",
+        "History",
+        "Social Science",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-110",
+      "file": "packets/packet-110.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Literature",
+        "Mythology",
+        "Science",
+        "Fine Arts",
+        "History",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-111",
+      "file": "packets/packet-111.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "History",
+        "Literature",
+        "Human Body",
+        "Science",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-112",
+      "file": "packets/packet-112.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Literature",
+        "History",
+        "Fine Arts",
+        "Philosophy",
+        "Human Body",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-113",
+      "file": "packets/packet-113.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Human Body",
+        "History",
+        "Literature",
+        "Philosophy",
+        "Science",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-114",
+      "file": "packets/packet-114.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Science",
+        "Philosophy",
+        "Fine Arts",
+        "History",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-115",
+      "file": "packets/packet-115.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "History",
+        "Science",
+        "Social Science",
+        "Human Body",
+        "Philosophy",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-116",
+      "file": "packets/packet-116.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "History",
+        "Human Body",
+        "Literature",
+        "Philosophy",
+        "Science",
+        "Fine Arts",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-117",
+      "file": "packets/packet-117.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Literature",
+        "History",
+        "Fine Arts",
+        "Mythology",
+        "Philosophy",
+        "Geography",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-118",
+      "file": "packets/packet-118.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Geography",
+        "Philosophy",
+        "Social Science",
+        "Fine Arts",
+        "Mythology",
+        "History",
+        "Human Body",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-119",
+      "file": "packets/packet-119.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Mythology",
+        "Science",
+        "History",
+        "Geography",
+        "Human Body",
+        "Philosophy",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-120",
+      "file": "packets/packet-120.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Philosophy",
+        "Human Body",
+        "Literature",
+        "Fine Arts",
+        "Science",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-121",
+      "file": "packets/packet-121.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Literature",
+        "History",
+        "Human Body",
+        "Philosophy",
+        "Social Science",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-122",
+      "file": "packets/packet-122.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Human Body",
+        "Social Science",
+        "Mythology",
+        "Science",
+        "History",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-123",
+      "file": "packets/packet-123.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Social Science",
+        "History",
+        "Literature",
+        "Science",
+        "Geography",
+        "Human Body",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-124",
+      "file": "packets/packet-124.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Fine Arts",
+        "Literature",
+        "Mythology",
+        "Social Science",
+        "Human Body",
+        "Geography",
+        "Philosophy",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-125",
+      "file": "packets/packet-125.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Human Body",
+        "Geography",
+        "Science",
+        "Literature",
+        "Fine Arts",
+        "Social Science",
+        "Mythology",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-126",
+      "file": "packets/packet-126.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Fine Arts",
+        "Social Science",
+        "History",
+        "Human Body",
+        "Philosophy",
+        "Literature",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-127",
+      "file": "packets/packet-127.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Fine Arts",
+        "Literature",
+        "Social Science",
+        "Philosophy",
+        "Science",
+        "Geography",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-128",
+      "file": "packets/packet-128.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Fine Arts",
+        "Mythology",
+        "Science",
+        "Social Science",
+        "Literature",
+        "History",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-129",
+      "file": "packets/packet-129.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "History",
+        "Science",
+        "Human Body",
+        "Social Science",
+        "Geography",
+        "Mythology",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-130",
+      "file": "packets/packet-130.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Literature",
+        "History",
+        "Fine Arts",
+        "Human Body",
+        "Science",
+        "Geography",
+        "Mythology",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-131",
+      "file": "packets/packet-131.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "History",
+        "Human Body",
+        "Science",
+        "Philosophy",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-132",
+      "file": "packets/packet-132.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Literature",
+        "Philosophy",
+        "Fine Arts",
+        "Mythology",
+        "Geography",
+        "Human Body",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-133",
+      "file": "packets/packet-133.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Social Science",
+        "Literature",
+        "Science",
+        "Philosophy",
+        "Human Body",
+        "Fine Arts",
+        "Mythology",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-134",
+      "file": "packets/packet-134.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Literature",
+        "Social Science",
+        "Philosophy",
+        "History",
+        "Geography",
+        "Human Body",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-135",
+      "file": "packets/packet-135.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Philosophy",
+        "Social Science",
+        "Human Body",
+        "History",
+        "Fine Arts",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-136",
+      "file": "packets/packet-136.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "History",
+        "Literature",
+        "Geography",
+        "Human Body",
+        "Fine Arts",
+        "Mythology",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-137",
+      "file": "packets/packet-137.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Science",
+        "Literature",
+        "History",
+        "Social Science",
+        "Philosophy",
+        "Geography",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-138",
+      "file": "packets/packet-138.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Geography",
+        "Science",
+        "Social Science",
+        "History",
+        "Fine Arts",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-139",
+      "file": "packets/packet-139.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "History",
+        "Geography",
+        "Science",
+        "Philosophy",
+        "Mythology",
+        "Social Science",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-140",
+      "file": "packets/packet-140.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Human Body",
+        "Literature",
+        "Philosophy",
+        "Science",
+        "Mythology",
+        "Social Science",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-141",
+      "file": "packets/packet-141.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Social Science",
+        "History",
+        "Human Body",
+        "Philosophy",
+        "Mythology",
+        "Geography",
+        "Fine Arts",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-142",
+      "file": "packets/packet-142.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Fine Arts",
+        "Science",
+        "Human Body",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-143",
+      "file": "packets/packet-143.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Human Body",
+        "Literature",
+        "Mythology",
+        "Science",
+        "Philosophy",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-144",
+      "file": "packets/packet-144.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "History",
+        "Science",
+        "Philosophy",
+        "Social Science",
+        "Human Body",
+        "Geography",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-145",
+      "file": "packets/packet-145.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Human Body",
+        "Geography",
+        "Science",
+        "Social Science",
+        "Philosophy",
+        "Fine Arts",
+        "Mythology",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-146",
+      "file": "packets/packet-146.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Fine Arts",
+        "History",
+        "Literature",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-147",
+      "file": "packets/packet-147.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Mythology",
+        "Science",
+        "Philosophy",
+        "Fine Arts",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-148",
+      "file": "packets/packet-148.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Science",
+        "Philosophy",
+        "History",
+        "Human Body",
+        "Geography",
+        "Social Science",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-149",
+      "file": "packets/packet-149.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Social Science",
+        "Human Body",
+        "Geography",
+        "Literature",
+        "Science",
+        "Philosophy",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-150",
+      "file": "packets/packet-150.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "History",
+        "Geography",
+        "Social Science",
+        "Science",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-151",
+      "file": "packets/packet-151.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Science",
+        "Fine Arts",
+        "Social Science",
+        "Human Body",
+        "Literature",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-152",
+      "file": "packets/packet-152.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Science",
+        "Geography",
+        "Philosophy",
+        "Social Science",
+        "Mythology",
+        "Literature",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-153",
+      "file": "packets/packet-153.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Science",
+        "Literature",
+        "History",
+        "Fine Arts",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-154",
+      "file": "packets/packet-154.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Fine Arts",
+        "Literature",
+        "Social Science",
+        "History",
+        "Human Body",
+        "Philosophy",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-155",
+      "file": "packets/packet-155.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Social Science",
+        "Fine Arts",
+        "Science",
+        "Literature",
+        "Philosophy",
+        "Mythology",
+        "Geography",
+        "History",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-156",
+      "file": "packets/packet-156.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Mythology",
+        "Literature",
+        "Fine Arts",
+        "Science",
+        "History",
+        "Geography",
+        "Social Science",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-157",
+      "file": "packets/packet-157.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Geography",
+        "Fine Arts",
+        "Philosophy",
+        "History",
+        "Literature",
+        "Human Body",
+        "Social Science",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-158",
+      "file": "packets/packet-158.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Social Science",
+        "Fine Arts",
+        "Science",
+        "Philosophy",
+        "Geography",
+        "History",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-159",
+      "file": "packets/packet-159.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Fine Arts",
+        "Philosophy",
+        "Literature",
+        "History",
+        "Geography",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-160",
+      "file": "packets/packet-160.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Mythology",
+        "Fine Arts",
+        "Science",
+        "Human Body",
+        "Geography",
+        "History",
+        "Social Science",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-161",
+      "file": "packets/packet-161.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Science",
+        "Philosophy",
+        "Fine Arts",
+        "Literature",
+        "History",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-162",
+      "file": "packets/packet-162.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Fine Arts",
+        "Literature",
+        "Science",
+        "Philosophy",
+        "Mythology",
+        "History",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-163",
+      "file": "packets/packet-163.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Fine Arts",
+        "Literature",
+        "Geography",
+        "Human Body",
+        "Philosophy",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-164",
+      "file": "packets/packet-164.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Science",
+        "Geography",
+        "Social Science",
+        "Human Body",
+        "Philosophy",
+        "Literature",
+        "Fine Arts",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-165",
+      "file": "packets/packet-165.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Science",
+        "Human Body",
+        "History",
+        "Philosophy",
+        "Fine Arts",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-166",
+      "file": "packets/packet-166.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Science",
+        "Philosophy",
+        "Fine Arts",
+        "Literature",
+        "Social Science",
+        "Mythology",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-167",
+      "file": "packets/packet-167.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Philosophy",
+        "Fine Arts",
+        "Human Body",
+        "Mythology",
+        "Literature",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-168",
+      "file": "packets/packet-168.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Mythology",
+        "Science",
+        "Philosophy",
+        "History",
+        "Social Science",
+        "Fine Arts",
+        "Human Body",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-169",
+      "file": "packets/packet-169.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Literature",
+        "History",
+        "Science",
+        "Mythology",
+        "Geography",
+        "Fine Arts",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-170",
+      "file": "packets/packet-170.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Literature",
+        "Geography",
+        "Human Body",
+        "Fine Arts",
+        "Mythology",
+        "History",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-171",
+      "file": "packets/packet-171.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Human Body",
+        "Philosophy",
+        "Science",
+        "History",
+        "Fine Arts",
+        "Mythology",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-172",
+      "file": "packets/packet-172.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "History",
+        "Science",
+        "Literature",
+        "Geography",
+        "Fine Arts",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-173",
+      "file": "packets/packet-173.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "History",
+        "Literature",
+        "Mythology",
+        "Fine Arts",
+        "Human Body",
+        "Philosophy",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-174",
+      "file": "packets/packet-174.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Social Science",
+        "Human Body",
+        "History",
+        "Geography",
+        "Literature",
+        "Fine Arts",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-175",
+      "file": "packets/packet-175.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Social Science",
+        "Science",
+        "History",
+        "Literature",
+        "Fine Arts",
+        "Mythology",
+        "Philosophy",
+        "Geography",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-176",
+      "file": "packets/packet-176.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "History",
+        "Social Science",
+        "Human Body",
+        "Philosophy",
+        "Science",
+        "Fine Arts",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-177",
+      "file": "packets/packet-177.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Fine Arts",
+        "Philosophy",
+        "Literature",
+        "Geography",
+        "Human Body",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-178",
+      "file": "packets/packet-178.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Literature",
+        "Social Science",
+        "History",
+        "Mythology",
+        "Geography",
+        "Fine Arts",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-179",
+      "file": "packets/packet-179.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Fine Arts",
+        "Mythology",
+        "Social Science",
+        "History",
+        "Science",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-180",
+      "file": "packets/packet-180.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Science",
+        "History",
+        "Geography",
+        "Literature",
+        "Human Body",
+        "Social Science",
+        "Mythology",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-181",
+      "file": "packets/packet-181.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Social Science",
+        "Science",
+        "Literature",
+        "Geography",
+        "Human Body",
+        "History",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-182",
+      "file": "packets/packet-182.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Science",
+        "Fine Arts",
+        "Literature",
+        "Human Body",
+        "History",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-183",
+      "file": "packets/packet-183.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Science",
+        "Human Body",
+        "Literature",
+        "Geography",
+        "Fine Arts",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-184",
+      "file": "packets/packet-184.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Science",
+        "Fine Arts",
+        "Human Body",
+        "Philosophy",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-185",
+      "file": "packets/packet-185.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Philosophy",
+        "Geography",
+        "Fine Arts",
+        "Social Science",
+        "Literature",
+        "Mythology",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-186",
+      "file": "packets/packet-186.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Literature",
+        "Social Science",
+        "History",
+        "Mythology",
+        "Fine Arts",
+        "Philosophy",
+        "Science",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-187",
+      "file": "packets/packet-187.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Philosophy",
+        "Fine Arts",
+        "Geography",
+        "Science",
+        "Social Science",
+        "Mythology",
+        "Literature",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-188",
+      "file": "packets/packet-188.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "History",
+        "Fine Arts",
+        "Literature",
+        "Human Body",
+        "Geography",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-189",
+      "file": "packets/packet-189.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Mythology",
+        "Philosophy",
+        "Science",
+        "Geography",
+        "Human Body",
+        "Social Science",
+        "History",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-190",
+      "file": "packets/packet-190.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Science",
+        "Human Body",
+        "Fine Arts",
+        "Philosophy",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-191",
+      "file": "packets/packet-191.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "History",
+        "Geography",
+        "Literature",
+        "Fine Arts",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-192",
+      "file": "packets/packet-192.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Social Science",
+        "History",
+        "Literature",
+        "Science",
+        "Mythology",
+        "Human Body",
+        "Fine Arts",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-193",
+      "file": "packets/packet-193.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "History",
+        "Science",
+        "Literature",
+        "Mythology",
+        "Human Body",
+        "Fine Arts",
+        "Social Science",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-194",
+      "file": "packets/packet-194.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Mythology",
+        "Literature",
+        "Fine Arts",
+        "History",
+        "Human Body",
+        "Science",
+        "Philosophy",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-195",
+      "file": "packets/packet-195.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Literature",
+        "Philosophy",
+        "History",
+        "Science",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-196",
+      "file": "packets/packet-196.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "History",
+        "Literature",
+        "Science",
+        "Fine Arts",
+        "Mythology",
+        "Social Science",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-197",
+      "file": "packets/packet-197.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Social Science",
+        "Mythology",
+        "Human Body",
+        "Philosophy",
+        "Literature",
+        "Science",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-198",
+      "file": "packets/packet-198.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Human Body",
+        "Literature",
+        "History",
+        "Mythology",
+        "Social Science",
+        "Geography",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-199",
+      "file": "packets/packet-199.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Science",
+        "Fine Arts",
+        "History",
+        "Literature",
+        "Geography",
+        "Mythology",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-200",
+      "file": "packets/packet-200.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Literature",
+        "Science",
+        "History",
+        "Philosophy",
+        "Social Science",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-201",
+      "file": "packets/packet-201.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Fine Arts",
+        "Social Science",
+        "Science",
+        "Literature",
+        "Human Body",
+        "Philosophy",
+        "Mythology",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-202",
+      "file": "packets/packet-202.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Mythology",
+        "Geography",
+        "Social Science",
+        "Philosophy",
+        "Science",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-203",
+      "file": "packets/packet-203.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Science",
+        "Literature",
+        "Mythology",
+        "History",
+        "Social Science",
+        "Human Body",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-204",
+      "file": "packets/packet-204.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Philosophy",
+        "Mythology",
+        "Social Science",
+        "Literature",
+        "History",
+        "Geography",
+        "Human Body",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-205",
+      "file": "packets/packet-205.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Fine Arts",
+        "Literature",
+        "Social Science",
+        "Mythology",
+        "Philosophy",
+        "Science",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-206",
+      "file": "packets/packet-206.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Science",
+        "History",
+        "Mythology",
+        "Fine Arts",
+        "Philosophy",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-207",
+      "file": "packets/packet-207.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "History",
+        "Philosophy",
+        "Human Body",
+        "Literature",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-208",
+      "file": "packets/packet-208.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Human Body",
+        "Mythology",
+        "History",
+        "Science",
+        "Philosophy",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-209",
+      "file": "packets/packet-209.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Mythology",
+        "Geography",
+        "History",
+        "Fine Arts",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-210",
+      "file": "packets/packet-210.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Human Body",
+        "Literature",
+        "Science",
+        "Geography",
+        "Philosophy",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-211",
+      "file": "packets/packet-211.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Human Body",
+        "Science",
+        "Literature",
+        "Fine Arts",
+        "History",
+        "Social Science",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-212",
+      "file": "packets/packet-212.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "History",
+        "Human Body",
+        "Literature",
+        "Social Science",
+        "Science",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-213",
+      "file": "packets/packet-213.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "History",
+        "Social Science",
+        "Geography",
+        "Mythology",
+        "Literature",
+        "Philosophy",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-214",
+      "file": "packets/packet-214.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Science",
+        "Fine Arts",
+        "Literature",
+        "Mythology",
+        "Geography",
+        "Social Science",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-215",
+      "file": "packets/packet-215.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Literature",
+        "Fine Arts",
+        "Geography",
+        "Science",
+        "History",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-216",
+      "file": "packets/packet-216.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Human Body",
+        "History",
+        "Fine Arts",
+        "Science",
+        "Philosophy",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-217",
+      "file": "packets/packet-217.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Literature",
+        "Science",
+        "Geography",
+        "Human Body",
+        "Mythology",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-218",
+      "file": "packets/packet-218.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Science",
+        "Fine Arts",
+        "Literature",
+        "Human Body",
+        "Philosophy",
+        "History",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-219",
+      "file": "packets/packet-219.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Literature",
+        "Fine Arts",
+        "Science",
+        "Human Body",
+        "Social Science",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-220",
+      "file": "packets/packet-220.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Literature",
+        "Human Body",
+        "Science",
+        "Mythology",
+        "History",
+        "Geography",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-221",
+      "file": "packets/packet-221.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Literature",
+        "Science",
+        "Fine Arts",
+        "Philosophy",
+        "Human Body",
+        "Geography",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-222",
+      "file": "packets/packet-222.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Human Body",
+        "Literature",
+        "Philosophy",
+        "Science",
+        "Fine Arts",
+        "Mythology",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-223",
+      "file": "packets/packet-223.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Geography",
+        "Literature",
+        "Fine Arts",
+        "Human Body",
+        "Science",
+        "Philosophy",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-224",
+      "file": "packets/packet-224.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "History",
+        "Literature",
+        "Science",
+        "Social Science",
+        "Human Body",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-225",
+      "file": "packets/packet-225.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "History",
+        "Geography",
+        "Literature",
+        "Fine Arts",
+        "Mythology",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-226",
+      "file": "packets/packet-226.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Literature",
+        "Science",
+        "Human Body",
+        "Fine Arts",
+        "Mythology",
+        "Social Science",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-227",
+      "file": "packets/packet-227.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Literature",
+        "Science",
+        "Geography",
+        "Fine Arts",
+        "Human Body",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-228",
+      "file": "packets/packet-228.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Literature",
+        "History",
+        "Science",
+        "Philosophy",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-229",
+      "file": "packets/packet-229.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Geography",
+        "History",
+        "Literature",
+        "Human Body",
+        "Science",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-230",
+      "file": "packets/packet-230.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Literature",
+        "Fine Arts",
+        "Geography",
+        "Social Science",
+        "Science",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-231",
+      "file": "packets/packet-231.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Social Science",
+        "History",
+        "Human Body",
+        "Mythology",
+        "Fine Arts",
+        "Science",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-232",
+      "file": "packets/packet-232.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Science",
+        "Social Science",
+        "Literature",
+        "Fine Arts",
+        "Human Body",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-233",
+      "file": "packets/packet-233.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Literature",
+        "Human Body",
+        "Social Science",
+        "History",
+        "Philosophy",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-234",
+      "file": "packets/packet-234.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Geography",
+        "Fine Arts",
+        "Philosophy",
+        "History",
+        "Science",
+        "Mythology",
+        "Literature",
+        "Human Body",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-235",
+      "file": "packets/packet-235.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Philosophy",
+        "Fine Arts",
+        "Literature",
+        "Geography",
+        "History",
+        "Social Science",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-236",
+      "file": "packets/packet-236.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Social Science",
+        "Science",
+        "Literature",
+        "Geography",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-237",
+      "file": "packets/packet-237.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Philosophy",
+        "History",
+        "Human Body",
+        "Mythology",
+        "Literature",
+        "Social Science",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-238",
+      "file": "packets/packet-238.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Geography",
+        "Literature",
+        "Philosophy",
+        "Social Science",
+        "Science",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-239",
+      "file": "packets/packet-239.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "History",
+        "Geography",
+        "Philosophy",
+        "Mythology",
+        "Literature",
+        "Fine Arts",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-240",
+      "file": "packets/packet-240.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "History",
+        "Human Body",
+        "Social Science",
+        "Science",
+        "Mythology",
+        "Fine Arts",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-241",
+      "file": "packets/packet-241.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Social Science",
+        "Science",
+        "Literature",
+        "Geography",
+        "Philosophy",
+        "History",
+        "Human Body",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-242",
+      "file": "packets/packet-242.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Literature",
+        "Social Science",
+        "Mythology",
+        "History",
+        "Human Body",
+        "Philosophy"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-243",
+      "file": "packets/packet-243.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Fine Arts",
+        "Social Science",
+        "Human Body",
+        "Geography",
+        "Literature",
+        "History",
+        "Philosophy",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-244",
+      "file": "packets/packet-244.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "History",
+        "Fine Arts",
+        "Human Body",
+        "Social Science",
+        "Literature",
+        "Science",
+        "Mythology",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-245",
+      "file": "packets/packet-245.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Fine Arts",
+        "Literature",
+        "Science",
+        "Social Science",
+        "Philosophy",
+        "Human Body",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-246",
+      "file": "packets/packet-246.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "History",
+        "Philosophy",
+        "Literature",
+        "Fine Arts",
+        "Human Body",
+        "Mythology",
+        "Social Science",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-247",
+      "file": "packets/packet-247.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "Geography",
+        "History",
+        "Human Body",
+        "Literature",
+        "Social Science",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-248",
+      "file": "packets/packet-248.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Literature",
+        "Social Science",
+        "Geography",
+        "History",
+        "Science",
+        "Human Body",
+        "Fine Arts",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-249",
+      "file": "packets/packet-249.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Human Body",
+        "Fine Arts",
+        "Literature",
+        "Science",
+        "History",
+        "Philosophy",
+        "Mythology"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-250",
+      "file": "packets/packet-250.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Fine Arts",
+        "Science",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-251",
+      "file": "packets/packet-251.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Science",
+        "Human Body",
+        "Literature",
+        "History",
+        "Fine Arts"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-252",
+      "file": "packets/packet-252.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Social Science",
+        "Science",
+        "Philosophy",
+        "Literature",
+        "History",
+        "Mythology",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-253",
+      "file": "packets/packet-253.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Philosophy",
+        "Mythology",
+        "Human Body",
+        "Science",
+        "Geography",
+        "History",
+        "Fine Arts",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-254",
+      "file": "packets/packet-254.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Literature",
+        "Philosophy",
+        "Human Body",
+        "Mythology",
+        "Science",
+        "History"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-255",
+      "file": "packets/packet-255.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Philosophy",
+        "Mythology",
+        "Human Body",
+        "Science",
+        "Literature",
+        "Fine Arts",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-256",
+      "file": "packets/packet-256.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Human Body",
+        "Literature",
+        "Geography",
+        "Fine Arts",
+        "Philosophy",
+        "Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-257",
+      "file": "packets/packet-257.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Fine Arts",
+        "Literature",
+        "Mythology",
+        "History",
+        "Science",
+        "Philosophy",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-258",
+      "file": "packets/packet-258.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Philosophy",
+        "History",
+        "Science",
+        "Fine Arts",
+        "Social Science",
+        "Mythology",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-259",
+      "file": "packets/packet-259.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Philosophy",
+        "Human Body",
+        "Social Science",
+        "Mythology",
+        "Fine Arts",
+        "Science",
+        "Literature"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-260",
+      "file": "packets/packet-260.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Science",
+        "Social Science",
+        "Fine Arts",
+        "Literature",
+        "Human Body"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-261",
+      "file": "packets/packet-261.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Philosophy",
+        "Science",
+        "Literature",
+        "Mythology",
+        "History",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-262",
+      "file": "packets/packet-262.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Science",
+        "History",
+        "Literature",
+        "Human Body",
+        "Fine Arts",
+        "Mythology",
+        "Philosophy",
+        "Social Science"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-263",
+      "file": "packets/packet-263.json",
+      "difficulty": "mixed",
+      "categories": [
+        "Literature",
+        "Fine Arts",
+        "Philosophy",
+        "History",
+        "Science",
+        "Mythology",
+        "Human Body",
+        "Social Science",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    },
+    {
+      "id": "packet-264",
+      "file": "packets/packet-264.json",
+      "difficulty": "mixed",
+      "categories": [
+        "History",
+        "Social Science",
+        "Literature",
+        "Science",
+        "Fine Arts",
+        "Philosophy",
+        "Human Body",
+        "Geography"
+      ],
+      "tossupCount": 20,
+      "bonusCount": 20
+    }
+  ],
+  "categoryStats": {
+    "Science": {
+      "tossups": 997,
+      "bonuses": 997
+    },
+    "Literature": {
+      "tossups": 999,
+      "bonuses": 999
+    },
+    "History": {
+      "tossups": 998,
+      "bonuses": 998
+    },
+    "Fine Arts": {
+      "tossups": 496,
+      "bonuses": 496
+    },
+    "Geography": {
+      "tossups": 298,
+      "bonuses": 298
+    },
+    "Social Science": {
+      "tossups": 298,
+      "bonuses": 298
+    },
+    "Current Events": {
+      "tossups": 0,
+      "bonuses": 0
+    },
+    "Mathematics": {
+      "tossups": 0,
+      "bonuses": 0
+    },
+    "Mythology": {
+      "tossups": 297,
+      "bonuses": 297
+    },
+    "Philosophy": {
+      "tossups": 397,
+      "bonuses": 397
+    },
+    "Human Body": {
+      "tossups": 500,
+      "bonuses": 500
+    }
+  }
+}

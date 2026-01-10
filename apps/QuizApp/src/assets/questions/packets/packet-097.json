@@ -1,0 +1,1153 @@
+{
+  "packetId": "packet-097",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Mythology",
+    "Science",
+    "Literature",
+    "History",
+    "Fine Arts",
+    "Philosophy",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "770f1106-559c-43f7-a44b-26fdedc15991",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "In Lenape mythology, a crow named for this thing obtains fire from the Great Spirit. The Waugal exemplifies the mytheme of an animal-deity that takes the form of this thing when travelling between water-holes. During the Dreamtime, the Earth's features are created by a serpent named after this thing in First Australian myths. Heimdall guards a bridge identified with this thing that connects Asgard and Midgard called Bifröst. God sends one of these things to Noah as a promise that he will not send another flood. For 10 points, a leprechaun's pot of gold can be found at the end of what colorful optical illusion?",
+      "powerMarkPosition": 269,
+      "answer": "rainbow",
+      "acceptableAnswers": [
+        "rainbow",
+        "Rainbow Crow",
+        "Rainbow Serpent",
+        "rainbow bridge",
+        "The rainbow"
+      ],
+      "source": "qbreader",
+      "sourceId": "630144195c4c3a62fc39000c"
+    },
+    {
+      "id": "2e48636e-9f9d-4b25-a9e9-31837f40b1a8",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "A function named after this quantity was modeled as a power law with an exponential cut-off by Paul Schechter. Ernst Opik calculated the distance to the Andromeda Galaxy by assuming that the ratio between its mass and this quantity was constant. It is a power function of rotation rate, according to the Tully-Fisher relation. The value of this quantity for which a star's gravitational pressure equals its radiation pressure is known as the Eddington limit. Standard candles have a known value for this quantity, which equals the total amount of energy produced in one second. It is plotted against temperature in a Hertzsprung-Russell diagram. For 10 points, name this measure of brightness from which one can compute a star's apparent magnitude, and which can be measured in lux or lumens.",
+      "powerMarkPosition": 326,
+      "answer": "luminosity",
+      "acceptableAnswers": [
+        "luminosity",
+        "absolute magnitude",
+        "do not accept luminance",
+        "The luminosity"
+      ],
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e6d1f"
+    },
+    {
+      "id": "579b151f-94c0-4be7-b564-3a9dea8a586a",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "One character in this work compares a general to a horse, who \"must be taught, and trained, and bid go forth,\" and tells another not to speak of him \"but as property.\" A woman in this work has a dream of men washing their hands in the blood of her husband, who later claims he is \"as constant as the northern star.\" In this play, a funeral orator says that the title character \"thrice refused\" a \"kingly crown\" and begins that speech, \"Friends, Romans, countrymen, lend me your ears.\" That orator is Marc Antony. For 10 points, name this Shakespeare tragedy about the title Roman dictator who, while being assassinated on the Ides of March, says \"Et tu Brute?\"",
+      "powerMarkPosition": 339,
+      "answer": "Julius Caesar",
+      "acceptableAnswers": [
+        "Julius Caesar",
+        "The Julius Caesar"
+      ],
+      "source": "qbreader",
+      "sourceId": "639f712311983f92aa71f7dc"
+    },
+    {
+      "id": "f80b4662-940a-455f-b808-2ae0e5cee3c1",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "In the Attic calendar, an epithet for this deity names a spring month when cakes made from dough, honey, and sesame seeds were offered; that month is Elaphebolia. It's not Aphaia (\"ah-FAY-ah\"), but associations between this deity and Britomartis or Dictynna, the \"Lady of the Nets,\" possibly come from Minoan beliefs. Brauron and Munichia (\"moo-NICK-ee-uh\") were cult centers for this deity, where girls called arktoi, or she-bears, served this deity. Like her mother, this deity was often identified with either Eileithyia (\"ih-lih-THIGH-uh\"), the goddess of childbirth, or the moon goddess Selene. Agamemnon tried to sacrifice Iphigenia to appease this deity. The nymph Callisto was a follower of this goddess, who, as \"mistress of animals,\" transformed Actaeon (\"ACK-tee-uhn\") into a stag. For 10 points, name this Greek goddess of the hunt.",
+      "powerMarkPosition": 421,
+      "answer": "Artemis",
+      "acceptableAnswers": [
+        "Artemis",
+        "Diana with “Who is the Greek equivalent?”",
+        "The Artemis"
+      ],
+      "source": "qbreader",
+      "sourceId": "67cb4e0fa4d5f0b0e22abfbd"
+    },
+    {
+      "id": "1d36cce8-9a9a-4ce3-a143-ddf09ef27466",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "A dispute over ownership of a beached whale led to a massacre of these people at the Convincing Ground. Members of this ethnic group were led by Charles Perkins on a non-American \"Freedom Ride\" against discrimination. The Black War was a genocide against these people. John Howard notably did not participate in a \"National Sorry Day\" apologizing to people of this ethnicity for government seizure of their children, an act which created the \"Lost Generation.\" The population of these people is concentrated in the Northern Territory. For 10 points, name these people who have historically been oppressed by the white population of Australia.",
+      "powerMarkPosition": 237,
+      "answer": "Aborigine",
+      "acceptableAnswers": [
+        "Aborigine",
+        "The Aborigine"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a39a0"
+    },
+    {
+      "id": "0f9705ed-d72b-422d-ac42-d038bcef092a",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "Morgan Shuster notes that women in this country wielded handguns to protest foreign influence in his book the Strangling of . In the 19th century, Fidella Fisk opened a Presbyterian seminary to educate women in this country. In 1935, after men in this country were forced to wear bowler hats, a demonstration of women occurred where they shouted that the monarch was a \"new Yazid\". A queen of this country owned a three billion dollar art collection of Pollock and Renoir paintings and was derisively called the \"Eastern Jackie Kennedy.\" Women in this country were subject to the Kashf-e hijab, where they were banned from wearing veils during its 1963 White Revolution. For 10 points, Farah Pahlavi was the last Shahbanu of what Middle Eastern country, whose Shah was overthrown in 1979?",
+      "powerMarkPosition": 373,
+      "answer": "Iran",
+      "acceptableAnswers": [
+        "Iran",
+        "Persia",
+        "The Iran"
+      ],
+      "source": "qbreader",
+      "sourceId": "6504ab689ee6e14c2d0e41bf"
+    },
+    {
+      "id": "985ec8fa-a3b6-4656-bc52-42d1d7efd252",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "This author was bedridden with eczema during his stay in Vienna, which sped up his work on a spiritual book containing sections like \"The Preparation\" and \"The Silence.\" In a poem written by this author, the soul of the main character separates from his body after his sailboat collides with an Antarctic iceberg. This author's frequent translator Kimon Friar argued that the philosophy of this author's book Saviors of God was echoed in a 33,333-line poem by this author, which bills itself as a continuation of an earlier poem. Two lovers in a novel by this author give each other the pen-names of Canavaro and Bouboulina; the title character of that novel by this author reopens a lignite mine on the island of Crete. For 10 points, name this author of The Odyssey: A Modern Sequel and Zorba the Greek.",
+      "powerMarkPosition": 439,
+      "answer": "Kazantzakis",
+      "acceptableAnswers": [
+        "Kazantzakis",
+        "The Kazantzakis"
+      ],
+      "source": "qbreader",
+      "sourceId": "6574dd329e75c9fcbfec7f99"
+    },
+    {
+      "id": "776e46ae-ffba-4dfb-8765-56b73979de7a",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "Samuel Pomeroy's planned settlement of Lincolnia was an attempt to carry out this organization's goals. This organization was inspired by Paul Cuffe's efforts to transport refugees. William Lloyd Garrison criticized this organization's goals in his tract \"Thoughts on [ it ]\". Henry Clay and Bushrod Washington helped establish settlements of this organization as some of its founding members. Robert Finley founded, for 10 points, what organization which sought to send freed slaves to modern day Liberia?",
+      "powerMarkPosition": 282,
+      "answer": "American Colonization Society",
+      "acceptableAnswers": [
+        "American Colonization Society",
+        "ACS",
+        "The American Colonization Society"
+      ],
+      "source": "qbreader",
+      "sourceId": "6406d0dee39f8dfd08fc2630"
+    },
+    {
+      "id": "835673fa-50f8-4f9e-8676-c5c15004ba3f",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "A man on horseback points his bow at some nude women in this artist's Scene of War in the Middle Ages, one of his early history paintings that also includes Young Spartans Exercising. A bearded man sits with his back to the viewer next to his wife and two daughters in his portrait of the Bellelli family. A bohemian looks off to the right while a woman next to him stares past a green bottle in another of his paintings. This painter showed his brother reading a newspaper while the title crop is examined behind him in The New Orleans Cotton Exchange. For 10 points, name this French Impressionist painter of L'Absinthe, who painted many ballet dancers.",
+      "powerMarkPosition": 365,
+      "answer": "Degas",
+      "acceptableAnswers": [
+        "Degas",
+        "The Degas"
+      ],
+      "source": "qbreader",
+      "sourceId": "647044202576885f91e6204d"
+    },
+    {
+      "id": "fe31a7f2-e30d-4d1e-bf22-7381d5186e12",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "In this novel, a story is told of 30 men being killed for preferring nitrate fertilizerto potash. This novel's protagonist is secretly slipped a message from his barber to\"die in silence\". The protagonist is denied breakfast due to a (+) toothache, and hasthat tooth fixed without anaesthetic by imagining burning his hand with a cigarette. The last section of this work is titled \"Grammatical Fiction\", while the first three are named for hearings. The protagonist spends most of his time thinking about his former secretary Arlova and pacing six and a half steps at a time. He uses the quadratic alphabet to tap messages to his neighbor, a man known only as 402. Gletkin replaces Ivanov as inquisitor in, for ten points, which novel about the imprisonment of Rubashov written by Arthur Koestler?",
+      "powerMarkPosition": 439,
+      "answer": "Darkness at Noon",
+      "acceptableAnswers": [
+        "Darkness at Noon",
+        "The Darkness at Noon"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a5a8a"
+    },
+    {
+      "id": "113b2fe4-590f-4f53-9226-3166c9dac060",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "This molecule forms bright blue compounds from phenols like salicylate (\"suh-LISS-ill-ate\") in the presence of hypochlorite, which also chlorinates this molecule in the first step of the Olin Raschig process. Tetraiodomercurate (\"tetra-iodo-mercu-rate\") reacts with this molecule to produce a yellow color in colorimetric assays using Nessler's reagent. This is the lightest molecule to undergo a pyramidal inversion. Two units of this molecule are needed to form a single hydrazine. Bleach reacts with this compound to produce the toxic chloramines that give pools their smell; on its own, it has a strong and distinct smell. The synthesis of this weak base requires tremendous energy to break the triple bond of nitrogen gas. For 10 points, name this molecule whose formula is NH3.",
+      "powerMarkPosition": 472,
+      "answer": "ammonia",
+      "acceptableAnswers": [
+        "ammonia",
+        "NH3 before mentioned",
+        "do not accept",
+        "prompt on “ammonium”",
+        "The ammonia"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed60f71539231f571edb3b"
+    },
+    {
+      "id": "9e8b737d-f5f4-424e-a188-6438f409495a",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "This man argued that the human mind is immortal because it acts without a bodily organ in On the Soul, and included the spectacle, or opsis, in the six elements of tragedy in another work. Francis Bacon wrote a notable response to this man's collection of six works on logic, his Organon, and this thinker argued that society forms for the sake of noble actions. This author of Poetics and Politics described the prime-mover God in his Metaphysics and stated that the highest aim of humans is happiness in his Nicomachean Ethics. The Lyceum was founded by, for 10 points, which ancient Greek philosopher, a student of Plato and a tutor of Alexander the Great?",
+      "powerMarkPosition": 377,
+      "answer": "Aristotle",
+      "acceptableAnswers": [
+        "Aristotle",
+        "The Aristotle"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a989"
+    },
+    {
+      "id": "4cbeedf6-8635-4559-a328-67ebdc8a1b31",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "One pope of this name excommunicated the heretical Marcion, while another pope of this name was succeeded by Gregory XIII and standardized the Mass in his Roman Missal of 1570. Another pope of this name beatified Joan of Arc, while, a different pope of this name published the encyclical, Humani Generis.. One pope of this name published the encyclcial Munificentissimus Deus which established the Assumption as dogma. While one Pope by this name was the last to be canonized, a more famous Pope established the Immaculate Conception as doctrine with Ineffibilis Deus. For 10 points, name this papal appellation, the ninth of whom declared papal infallibility as dogma and the twelfth of whom was in power during World War II.",
+      "powerMarkPosition": 305,
+      "answer": "Pius",
+      "acceptableAnswers": [
+        "Pius",
+        "The Pius"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f040b"
+    },
+    {
+      "id": "15fa4fcd-5334-4b87-8eef-cd04f288825c",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "This language borrowed its current third-person plural pronouns from contact with the Danelaw. One of this language's parent languages experienced Grimm's Law, and this language itself underwent the Great Vowel Shift. Though it is Germanic, this language borrows heavily from French due to the Norman conquest of this language's native country. For 10 points, name this modern language that is spoken widely in Canada and other British colonies.",
+      "powerMarkPosition": 198,
+      "answer": "English",
+      "acceptableAnswers": [
+        "English",
+        "The English"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac91e"
+    },
+    {
+      "id": "b29f563d-37ed-43ac-a52f-079ae368387c",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "It was temporarily crippled by the release of the Limehouse Declaration, in which a \"Gang of Four\" led by Roy Jenkins formed a breakaway group to protest its domination by unions. This organization had avoided a schism decades earlier when Aneurin Bevan and Hugh Gaitskell had an intense debate over Clause IV of its constitution, which called for public ownership over industry and the means of production. Officially formed after a conference organized by its first chairman, James Keir Hardie, saw its founders merge with the ILP and SFP, among other groups, this party saw such men as James Callaghan and Harold Wilson elected as prime minister under its banner. FTP, Ramsey MacDonald was the first prime minister from what left-leaning British party, most recently headed by Tony Blair?",
+      "powerMarkPosition": 299,
+      "answer": "Labour",
+      "acceptableAnswers": [
+        "Labour",
+        "The Labour"
+      ],
+      "source": "qbreader",
+      "sourceId": "6643bbf201cbf053963dd916"
+    },
+    {
+      "id": "12b9cdae-1c43-449d-bcd2-0f3d18b24ab4",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "In electrostatics, magnetic fields and electric current are independent of this quantity. The wave equation says that the second derivative of a function with respect to position is proportional to the second derivative of the function with respect to this quantity. When a projectile is at its maximum height, this quantity is equal to the initial velocity times sine of the launch angle, all over the gravitational constant. Position is the area under the graph in a plot of velocity versus this quantity. Distance equals velocity times this quantity. For 10 points, name this quantity usually measured in seconds that is displayed on clocks.",
+      "powerMarkPosition": 340,
+      "answer": "time",
+      "acceptableAnswers": [
+        "time",
+        "t",
+        "The time"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289cad59"
+    },
+    {
+      "id": "d3ef6c21-2749-421d-9af4-d0bcd762e0fb",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "A garment created by this designer featured the phrase \"Any Way Good Way'' printed on a leotard that combined a soccer jersey with an exposed jockstrap. One of this designer's collections named for a Jean-Antoine Watteau painting featured a model wearing thick white tights overlain with a metallic fig leaf in front of the genitals. A t-shirt print by this artist features an image of a pair of blue-tinted, bare women's breasts in a box over the wearer's chest. This artist's tall, brown hat from their Buffalo Girls: Nostalgia for the Mud collection was re-popularized when Pharrell wore it at the 2014 Grammys. This designer's 1981 Pirate collection inspired the looks of New Romantic bands like Adam and the Ants. This designer opened the London boutique SEX with her longtime partner Marshall McLaren, where she popularized outfits making liberal uses of denim, patches, and chains. For 10 points, name this British fashion designer considered the mother of punk style.",
+      "powerMarkPosition": 576,
+      "answer": "Westwood",
+      "acceptableAnswers": [
+        "Westwood",
+        "The Westwood"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b53567"
+    },
+    {
+      "id": "ffed7b2d-5a41-4b5d-8b32-7cc6af4ac2fb",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "Many of the writings of this literary movement were published in the magazine The Crisis, while a collection of short stories from this movement titled Cane was written by Jean Toomer. The poem \"Yet Do I Marvel\" and the novel \"Banana Bottom\" were respectively written by Countee [\"Coun-tay\"] Cullen and Claude McKay, who were both members of this movement.Apoet in this movement wrote about hearing a musician next to the \"pale dull pallor of a gas light\" on Lenox Avenue play \"The Weary Blues\" and asked \"What happens to a dream deferred?\" Langston Hughes spearheaded, for 10 points, what African-American literary movement?",
+      "powerMarkPosition": 302,
+      "answer": "Harlem Renaissance",
+      "acceptableAnswers": [
+        "Harlem Renaissance",
+        "The Harlem Renaissance"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a29c9"
+    },
+    {
+      "id": "a973ab37-a668-4f81-b40c-3f0cf04b0626",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "An open air garden in this country was home to the first Yiddish-language theater troupe, founded by Avrom Goldfaden. While staying in this country, Naftali Imber began writing the poem \"Tikvatenu,\" which would become \"HaTikvah.\" This country's Communist Party was effectively run by a Jewish woman serving as the world's first female foreign minister, Ana Pauker. This country restricted citizenship to Christians with the 1866 Constitution adopted under its second Domnitor; that constitution was adopted when Alexander Cuza was overthrown by this country's future King Carol I. The Legionnaires Rebellion led to the crushing of the Iron Guard in this country, whose forces committed a pogrom in Iasi (\"YAH-see\"). For 10 points, name this country led during World War II by Ion Antonescu.",
+      "powerMarkPosition": 466,
+      "answer": "Romania",
+      "acceptableAnswers": [
+        "Romania",
+        "The Romania"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d58b421eb3b13d92e577c5"
+    },
+    {
+      "id": "734f5bac-a886-4e0d-a687-102c9cafe798",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "This character is reminded of her son by Kojo in All God's Children Need Traveling Shoes. Radclyffe Hall's The Well of Loneliness causes this character to question her sexuality in a book in which she forgets lines while reciting a poem at church on Easter and becomes mute until helped by Bertha Flowers. This character becomes a streetcar conductor in San Francisco in a book in which she is raped by Mr. Freeman. A line from Paul Laurence Dunbar's \"Sympathy\" provides the title for a memoir that describes this character's upbringing in Stamps, Arkansas. For 10 points, name this protagonist of the autobiography I Know Why the Caged Bird Sings.",
+      "powerMarkPosition": 330,
+      "answer": "Maya",
+      "acceptableAnswers": [
+        "Maya",
+        "either underlined portion",
+        "accept Marguerite Annie Johnson",
+        "Marguerite Annie Johnson",
+        "The Maya"
+      ],
+      "source": "qbreader",
+      "sourceId": "6727fb3a0a73c65be67f754f"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "81f18322-3af9-45e5-837e-91ecb9b57917",
+      "linkedTossupId": "770f1106-559c-43f7-a44b-26fdedc15991",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this mythical creature, which had to be strangled to death by a hero, as its skin is impenetrable by regular weapons like arrows.",
+          "answer": "Nemean Lion",
+          "acceptableAnswers": [
+            "Nemean Lion",
+            "lion",
+            "The Nemean Lion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Killing the Nemean Lion was the first of twelve labors that this Greek hero underwent. Other labors that this man went through included killing the Lernean Hydra and bringing Cerberus out of Hades.",
+          "answer": "Heracles",
+          "acceptableAnswers": [
+            "Heracles",
+            "Hercules",
+            "The Heracles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Heracles was given his twelve labors by this cousin of his, who hid in a wine jar when Heracles brought him Cerberus for his twelfth and final labor.",
+          "answer": "Eurystheus",
+          "acceptableAnswers": [
+            "Eurystheus",
+            "The Eurystheus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A man used this creature's claws in order to skin it and get its pelt, which he ended up wearing for a long time. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b5290c"
+    },
+    {
+      "id": "70915fb4-0945-4902-80ac-93d58184782b",
+      "linkedTossupId": "2e48636e-9f9d-4b25-a9e9-31837f40b1a8",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "An important point on a phase diagram is this point, where the binary system melts as a whole instead of forming distinct phases. This point is where the liquidus and solidus meet.",
+          "answer": "eutectic",
+          "acceptableAnswers": [
+            "eutectic",
+            "The eutectic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "To determine the mole fraction of each part of the binary system in each phase, one should use this equation, named in analogy to the balance achieved by the weights on a simple machine.",
+          "answer": "lever",
+          "acceptableAnswers": [
+            "lever",
+            "The lever"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the steel phase diagram, at high temperatures and low carbon concentrations, steel forms this phase. This phase is also known as gamma-phase iron.",
+          "answer": "austenite",
+          "acceptableAnswers": [
+            "austenite",
+            "The austenite"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "You'll get over it, it's just a phase diagram. Answer some questions about two component systems. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "660a2cfb38190d8ac17b45a4"
+    },
+    {
+      "id": "5666dcf0-8639-4801-8fa9-12e127eae5e1",
+      "linkedTossupId": "579b151f-94c0-4be7-b564-3a9dea8a586a",
+      "category": "Literature",
+      "subcategory": "Other Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the most recent installment of this game series where Vault-Tec attempts to aid you in post-nuclear survival.",
+          "answer": "Fallout 4",
+          "acceptableAnswers": [
+            "Fallout 4",
+            "The Fallout 4"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Fallout 4 was developed by this company who also developed the fifth game of The Elder Scrolls series, Skyrim.",
+          "answer": "Bethesda",
+          "acceptableAnswers": [
+            "Bethesda",
+            "The Bethesda"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This device serves as an inventory, a map, and a way to check your character's status in Fallout 4.",
+          "answer": "Pip-Boy",
+          "acceptableAnswers": [
+            "Pip-Boy",
+            "The Pip-Boy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A series of teasers for this game shows what makes you S.P.E.C.I.A.L. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eec31bb669367617b8c91a"
+    },
+    {
+      "id": "0ca5a1b9-5c1e-4b4d-919a-cd137cbd8a0b",
+      "linkedTossupId": "f80b4662-940a-455f-b808-2ae0e5cee3c1",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this golden boar, whose name appropriately means \"golden-bristled.\"",
+          "answer": "Gullinbursti",
+          "acceptableAnswers": [
+            "Gullinbursti",
+            "The Gullinbursti"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gullinbursti worked for this sun, rain, and harvest god, whose other possessions included the collapsible boat Skidbladnir and a sword that killed giants of its own accord.",
+          "answer": "Frey",
+          "acceptableAnswers": [
+            "Frey",
+            "The Frey"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Brokk and Eitri were part of a group of skilled dwarves known as the \"sons of\" this figure.",
+          "answer": "Ivaldi",
+          "acceptableAnswers": [
+            "Ivaldi",
+            "The Ivaldi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of many cool things made by Brokk and Eitri, this creature's function is to pull a chariot. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cf99fc"
+    },
+    {
+      "id": "2d15656b-9c7f-4513-bbd4-839d1a471185",
+      "linkedTossupId": "1d36cce8-9a9a-4ce3-a143-ddf09ef27466",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The Commission is commonly named for this Chief Justice who headed it. He served on the court until 1969.",
+          "answer": "Warren",
+          "acceptableAnswers": [
+            "Warren",
+            "The Warren"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Commission concluded Kennedy was assassinated by this man who had previously defected to the Soviet Union. Jack Ruby killed him as he was being moved to a jail.",
+          "answer": "Oswald",
+          "acceptableAnswers": [
+            "Oswald",
+            "The Oswald"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One Michigan member of the commission was this House Minority Leader, who later ascended to other posts upon the resignations of others.",
+          "answer": "Ford",
+          "acceptableAnswers": [
+            "Ford",
+            "The Ford"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In 1963 a committee was formed to investigate the JFK assassination. For 10 points each-",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a4e9"
+    },
+    {
+      "id": "174a9581-3a1b-4009-bbc4-0ccf9ee23314",
+      "linkedTossupId": "0f9705ed-d72b-422d-ac42-d038bcef092a",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this king of England who was forced to sign the Magna Carta and ruled in the absence of his brother, Richard I.",
+          "answer": "John",
+          "acceptableAnswers": [
+            "John",
+            "The John"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "John initially faced challenge to his rule from this son of his elder brother, Geoffrey of Brittany. He was killed, possibly by his uncle, after Philip Augustus recognized him as the heir to the Angevin Empire.",
+          "answer": "Arthur",
+          "acceptableAnswers": [
+            "Arthur",
+            "The Arthur"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "John got a papal interdict all up in his face during the controversy over Stephen Langton's appointment as Archbishop of Canterbury, in which this Pope, who also called the Fourth Lateran Council, thoroughly \"pwned\" John.",
+          "answer": "Innocent III",
+          "acceptableAnswers": [
+            "Innocent III",
+            "The Innocent III"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He was known as Lackland for his lack of inheritance and Soft-Sword for his poor record on the battlefield. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a456080a"
+    },
+    {
+      "id": "c043aaa5-68e5-4138-8b5e-23fac0d37daf",
+      "linkedTossupId": "985ec8fa-a3b6-4656-bc52-42d1d7efd252",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this character who ends up being forced on board the Covenant where he meets people like Mr. Shuan and Mr. Riach.",
+          "answer": "David",
+          "acceptableAnswers": [
+            "David",
+            "either underlined answer",
+            "The David"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "David Balfour is the protagonist of Kidnapped, a book by this author of Treasure Island.",
+          "answer": "Stevenson",
+          "acceptableAnswers": [
+            "Stevenson",
+            "The Stevenson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Stevenson also wrote some books of this type of story. Stories of this type were also collected by Jean de la Fontaine.",
+          "answer": "fable",
+          "acceptableAnswers": [
+            "fable",
+            "The fable"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After the death of his father, this character is told to visit his uncle Ebenezer, whom he quickly discovers is evil. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df8012e66cc66ca571d2a1"
+    },
+    {
+      "id": "c56ce596-1579-4789-8a40-f721a671d913",
+      "linkedTossupId": "776e46ae-ffba-4dfb-8765-56b73979de7a",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this sea where privateers and buccaneers operated from islands like Hispaniola and the Bahamas.",
+          "answer": "Caribbean",
+          "acceptableAnswers": [
+            "Caribbean",
+            "The Caribbean"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Welsh privateer attacked Panama City in a 1671 raid, unknowingly violating the Treaty of Madrid. This man later served as Lieutenant Governor of Panama under Thomas Lynch.",
+          "answer": "Morgan",
+          "acceptableAnswers": [
+            "Morgan",
+            "The Morgan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Havens for pirates, such as the Bahamian city of Nassau, began to fade after the British secured access to the asiento system via this treaty that ended the War of the Spanish Succession.",
+          "answer": "Utrecht",
+          "acceptableAnswers": [
+            "Utrecht",
+            "The Utrecht"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Arawak word for the wooden frame used to slow cook meat lends its name to a group of privateers who operated in this body of water and made money selling sailors that meat. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc082"
+    },
+    {
+      "id": "2fa1164f-2672-4e64-8071-6f82cfe6b6bb",
+      "linkedTossupId": "835673fa-50f8-4f9e-8676-c5c15004ba3f",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Holocaust cantata for narrator, men's chorus, and orchestra. The police's demands for a headcount, represented by the narrator's German interjections, are countered by the chorus singing Shema Yisrael.",
+          "answer": "Survivor from Warsaw",
+          "acceptableAnswers": [
+            "Survivor from Warsaw",
+            "The Survivor from Warsaw"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Austrian composer of A Survivor from Warsaw wrote the string sextet Transfigured Night and the opera Moses und Aron.",
+          "answer": "Schoenberg",
+          "acceptableAnswers": [
+            "Schoenberg",
+            "Arnold Schönberg",
+            "The Schoenberg"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Schoenberg developed this compositional technique that uses every pitch in the chromatic scale. Tone rows within this technique divert emphasis from any particular note and are manipulated into transformations.",
+          "answer": "twelve-tone",
+          "acceptableAnswers": [
+            "twelve-tone",
+            "dodecaphony",
+            "twelve-tone serialism",
+            "twelve-note composition",
+            "accept obvious equivalents",
+            "prompt on “serialism”",
+            "The twelve-tone"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The narrator begins this work by saying, \"I cannot remember everything. I must have been unconscious most of the time.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a385"
+    },
+    {
+      "id": "7a0c4f45-b5bf-43c8-9ec3-452876656c7e",
+      "linkedTossupId": "fe31a7f2-e30d-4d1e-bf22-7381d5186e12",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this 2000 novel about the families of World War II veterans Samad Iqbal and Archie Jones, the first by Zadie Smith.",
+          "answer": "White Teeth",
+          "acceptableAnswers": [
+            "White Teeth",
+            "The White Teeth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this most recent Smith novel, the unnamed narrator joins Australian popstar Aimee on trips to Africa to scout out potential charity projects and later reunites with her childhood friend Tracey. This novel takes its title from an Astaire and Rogers musical film.",
+          "answer": "Swing Time",
+          "acceptableAnswers": [
+            "Swing Time",
+            "The Swing Time"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The first section of Smith's novel On Beauty uses this unusual narrative device. This narrative device is used for the entirety of David Llewellyn's novel Eleven and for the 2000 debut novel of Matt Beaumont.",
+          "answer": "email",
+          "acceptableAnswers": [
+            "email",
+            "epistolary",
+            "correspondence",
+            "prompt on internet",
+            "reject “letters",
+            "” “mail",
+            "” “texts",
+            "”",
+            "“instant messages”",
+            "The email"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Magid (\"muh-JEED\") returns from Bangladesh to work with Marcus Chalfen on FutureMouse in this novel. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db4678d"
+    },
+    {
+      "id": "f3c614be-dc05-4b18-a56d-e42221ea2085",
+      "linkedTossupId": "113b2fe4-590f-4f53-9226-3166c9dac060",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Frenchman whose hilariously wrong theory of evolution posited that giraffes passed on stretched necks to their offspring.",
+          "answer": "Lamarck",
+          "acceptableAnswers": [
+            "Lamarck",
+            "Lamarckian theory",
+            "The Lamarck"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this evolutionary process, explained by Darwin in On the Origin of Species, favorable traits are amplified because they make the organism more fit to survive and reproduce.",
+          "answer": "natural selection",
+          "acceptableAnswers": [
+            "natural selection",
+            "The natural selection"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Darwin concluded that natural selection drives evolution after studying these animals on the Galapagos islands, whose beaks were suited to the specific kind of food they ate.",
+          "answer": "finch",
+          "acceptableAnswers": [
+            "finch",
+            "birds",
+            "The finch"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man's theory was based on use and disuse, and the inheritance of acquired traits. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1826"
+    },
+    {
+      "id": "d00e2f93-453a-42e2-a14b-d039edbd1b72",
+      "linkedTossupId": "9e8b737d-f5f4-424e-a188-6438f409495a",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this work which describes the Apollonian and Dionysian aspects of the title art form. This work describes the works of Richard Wagner as a reincarnation of the title art form.",
+          "answer": "Birth of Tragedy",
+          "acceptableAnswers": [
+            "Birth of Tragedy",
+            "The Birth of Tragedy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This German early existentialist author wrote The Birth of Tragedy. He also wrote Thus Spake Zarathustra, and his assertion that \"God is dead, and we have killed him\" has often been co-opted by edgy teenagers.",
+          "answer": "Nietzsche",
+          "acceptableAnswers": [
+            "Nietzsche",
+            "The Nietzsche"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This aphorism in The Birth of Tragedyrepresents the nihilist influence on Nietzsche by Arthur Schopenhauer. It's often expanded as meaning \"it is best not to be born at all; and next to that, it is better to die than to live,\" and this phrase is named for a Greek satyr.",
+          "answer": "Wisdom of Silenus",
+          "acceptableAnswers": [
+            "Wisdom of Silenus",
+            "The Wisdom of Silenus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work describes the title object as an art form that transcends the negativities of daily life. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a3b06"
+    },
+    {
+      "id": "97138861-7118-4a17-a593-6b00c4b42845",
+      "linkedTossupId": "4cbeedf6-8635-4559-a328-67ebdc8a1b31",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these conflicts that culminated with the execution of Charles I in January, 1649.",
+          "answer": "English Civil War",
+          "acceptableAnswers": [
+            "English Civil War",
+            "obvious equivalents like British Civil Wars",
+            "etc.",
+            "The English Civil War"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The first important victory for the Parliamentarians, this June 2, 1644 battle of the English Civil Wars saw a Royalist force relieve York and pursue its besiegers under Fairfax out of town, only to be smashed largely due to the efforts of Cromwell's left wing. It was followed up by the Battle of Naseby.",
+          "answer": "Marston Moor",
+          "acceptableAnswers": [
+            "Marston Moor",
+            "The Marston Moor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This mezzotint enthusiast won a string of early Royalist victories but could not overcome internal rivals to his command and poorly trained troops, so his forces were badly defeated at Marston Moor. He later became involved with Hudson's Bay Company.",
+          "answer": "Rupert",
+          "acceptableAnswers": [
+            "Rupert",
+            "Prince Rupert of the Palatinate",
+            "Prinz Rupert",
+            "Prinz Ruprecht",
+            "prompt on Duke of Cumberland",
+            "Earl of Holderness",
+            "The Rupert"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This series of conflicts began with the Covenanters' Revolt and Bishops' Wars, which forced Charles I to call the Short and Long Parliaments. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43aa6"
+    },
+    {
+      "id": "24d5b8f9-3cf1-4727-b1ab-63ffd3df3de4",
+      "linkedTossupId": "15fa4fcd-5334-4b87-8eef-cd04f288825c",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Recent research has questioned whether these exceptionally detailed memories of important events, such as seeing 9/11, are actually any different from other memories.",
+          "answer": "flashbulb",
+          "acceptableAnswers": [
+            "flashbulb",
+            "The flashbulb"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This process occurs when a person speaks made-up information about their memories without any intention to lie or consciousness of what they're doing. Amnesiacs with Korsakoff's syndrome often do this.",
+          "answer": "confabulation",
+          "acceptableAnswers": [
+            "confabulation",
+            "confabulating",
+            "The confabulation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A story about a 5-year-old child in this situation was used in a study by Elizabeth Loftus to show that priming and suggestion often lead people to report false memories.",
+          "answer": "lost",
+          "acceptableAnswers": [
+            "lost",
+            "any answer involving a child being separated from his/her family and/",
+            "unaware of his/her location within a shopping center",
+            "The lost"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about memory research, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62df8ab610329be735a33f62"
+    },
+    {
+      "id": "ce10f848-0608-4bb1-a325-898108508a03",
+      "linkedTossupId": "b29f563d-37ed-43ac-a52f-079ae368387c",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this city, where the building of the El Badi palace was funded by ransom money demanded from the Portuguese after its rulers' victory at the Battle of Alcácer Quibir [al-KAH-ser KEE-beer].",
+          "answer": "Marrakech",
+          "acceptableAnswers": [
+            "Marrakech",
+            "The Marrakech"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Marrakech is a city in this country, where the Portuguese king Sebastian went missing at Alcácer Quibir.",
+          "answer": "Morocco",
+          "acceptableAnswers": [
+            "Morocco",
+            "The Morocco"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Moroccan dynasty established its capital at Marrakech and defeated the alliance of Sebastian and its deposed ruler Abu Abdallah Mohammed II. Succeeded by the reining Alouite dynasty, this dynasty defended Morocco from the Ottomans and defeated the Songhai empire at the Battle of Tondibi.",
+          "answer": "Saadi",
+          "acceptableAnswers": [
+            "Saadi",
+            "The Saadi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One country's capital was moved from Taroudant to this city after its new rulers gained the support of the Hintata tribes in the surrounding Atlas Mountains. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6300226cdcc9d816c18b770c"
+    },
+    {
+      "id": "1715735a-9221-4801-95fc-2e718d575eaf",
+      "linkedTossupId": "12b9cdae-1c43-449d-bcd2-0f3d18b24ab4",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Woodward led the Harvard team, which joined forces with Albert Eschenmoser's ETH team, in the total synthesis of this compound. This largest B vitamin's central corrin ring contains a cobalt atom.",
+          "answer": "B12",
+          "acceptableAnswers": [
+            "B12",
+            "cobalamin",
+            "The B12"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The first step of Woodward's classic strychnine (\"STRICK-neen\") synthesis begins with a Fischer indole synthesis, involving a phenyl derivative of this compound. The Olin Raschig process produces this compound found in rocket fuels.",
+          "answer": "hydrazine",
+          "acceptableAnswers": [
+            "hydrazine",
+            "N2H4",
+            "accept phenylhydrazine",
+            "The hydrazine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Woodward and Doering's 1944 total synthesis of quinine stood until this chemist published a stereoselective pathway in 2001. Carbonyls are selectively alkylated in this chemist's namesake enamine synthesis.",
+          "answer": "Stork",
+          "acceptableAnswers": [
+            "Stork",
+            "Stork enamine synthesis",
+            "The Stork"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about Robert Woodward's contributions to total syntheses, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "673ec01090236da031c2d0a4"
+    },
+    {
+      "id": "2fc466ef-27b6-4e73-9eba-fbb320bd55ad",
+      "linkedTossupId": "d3ef6c21-2749-421d-9af4-d0bcd762e0fb",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this neo-expressionist dance tradition and form created by Kurt Jooss (\"YOHSS\") and developed by a choreographer known for the trauma-informed themes of her works, such as Café Müller. The original language term is required.",
+          "answer": "Tanztheater",
+          "acceptableAnswers": [
+            "Tanztheater",
+            "The Tanztheater"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Tanztheater contributor Pina Bausch is known for her choreography of this ballet that called for the stage to be completely covered in soil. The original choreography for this ballet was reconstructed for the Joffrey Ballet by Millicent Hodson.",
+          "answer": "Rite of Spring",
+          "acceptableAnswers": [
+            "Rite of Spring",
+            "Le Sacre du printemps",
+            "The Rite of Spring"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bausch's piece Nelken (Carnations) was partly set to the music of this composer, who also wrote the music for the Fred Astaire-Ginger Rogers ballet film Shall We Dance set to lyrics by his brother Ira.",
+          "answer": "Gershwin",
+          "acceptableAnswers": [
+            "Gershwin",
+            "The Gershwin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a dance piece from this tradition set to the music of Henry Purcell, performers danced with their eyes closed while other dancers moved furniture out of their way. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f5c57693c38435a5a33c55"
+    },
+    {
+      "id": "605d830e-0b0e-4538-9afb-e6ecc5fe88d1",
+      "linkedTossupId": "ffed7b2d-5a41-4b5d-8b32-7cc6af4ac2fb",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Vietnamese-American poet, whose \"Aubade with Burning City\" describes \"Milkflower petals on the street\" during the Fall of Saigon. This poet wrote the epistolary novel On Earth We're Briefly Gorgeous.",
+          "answer": "Vuong",
+          "acceptableAnswers": [
+            "Vuong",
+            "The Vuong"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Vuong's \"Untitled (Blue, Green, and Brown)\" takes its title from one of these works by Mark Rothko. Anne Sexton's poem \"The Starry Night\" takes its title from one of these works by Vincent van Gogh.",
+          "answer": "painting",
+          "acceptableAnswers": [
+            "painting",
+            "art",
+            "artworks",
+            "The painting"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Vuong writes \"Suppose you do change your life\" in his poem \"Torso of Air,\" a response to a poem by this author. This German poet wrote the Duino Elegies.",
+          "answer": "Rilke",
+          "acceptableAnswers": [
+            "Rilke",
+            "The Rilke"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A poem by this author is interspersed with lyrics from Irving Berlin's \"White Christmas,\" which began Operation Frequent Wind. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "689a0d6f2d8608f4ad851901"
+    },
+    {
+      "id": "018e8998-7f8e-4125-b22f-6ac531e9c8fb",
+      "linkedTossupId": "a973ab37-a668-4f81-b40c-3f0cf04b0626",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this term for a 1492 event which titles a 1972 ecological history by Alfred W. Crosby.",
+          "answer": "Columbian Exchange",
+          "acceptableAnswers": [
+            "Columbian Exchange",
+            "The Columbian Exchange"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of Collapse discussed the interactions between Europeans and groups like the Inca in his book Guns, Germs and Steel.",
+          "answer": "Diamond",
+          "acceptableAnswers": [
+            "Diamond",
+            "The Diamond"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Redcliffe Salaman wrote a book on The History and Social Influence of this crop, part of the Columbian Exchange. Frederick the Great once ordered his troops to guard a field of them in order to trick his subjects into thinking they were worth stealing and eating.",
+          "answer": "Potato",
+          "acceptableAnswers": [
+            "Potato",
+            "The Potato"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This term defines the spread westward of diseases like smallpox and malaria and the spread eastward of crops like maize. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faa6a2"
+    },
+    {
+      "id": "05bd2bad-ba1c-4232-b63f-f0d5c450f554",
+      "linkedTossupId": "734f5bac-a886-4e0d-a687-102c9cafe798",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this institution that Strepsiades makes his son attend. This institution's founder Socrates is first seen being hoisted in a basket to observe the Sun.",
+          "answer": "Thinkery",
+          "acceptableAnswers": [
+            "Thinkery",
+            "the Thoughtery",
+            "the Thinkeria",
+            "the Phrontisterion",
+            "The Thinkery"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Thinkery appears in The Clouds, a play by this Greek comic playwright of The Frogs.",
+          "answer": "Aristophanes",
+          "acceptableAnswers": [
+            "Aristophanes",
+            "The Aristophanes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other play by Aristophanes features an oath to not \"crouch like the lioness on the cheese grater.\" The title woman of this play leads a movement to swear off sex until the Peloponnesian War ends.",
+          "answer": "Lysistrata",
+          "acceptableAnswers": [
+            "Lysistrata",
+            "The Lysistrata"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A man claims he is getting into a \"subtle argument\" with this institution before lighting it on fire with a torch. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "689a0d6c2d8608f4ad851831"
+    }
+  ]
+}

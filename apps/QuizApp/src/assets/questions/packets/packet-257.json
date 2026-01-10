@@ -1,0 +1,1123 @@
+{
+  "packetId": "packet-257",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Fine Arts",
+    "Literature",
+    "Mythology",
+    "History",
+    "Science",
+    "Philosophy",
+    "Human Body"
+  ],
+  "tossups": [
+    {
+      "id": "8eeb7add-46ee-4362-aa02-4babbc82c14b",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "The leftmost standing figure in this work wears what is likely a Cholet handkerchief at his hip, as well as a white cockade across his chest. One man in this painting has only a left shoe; another has only a right sock. A young man peers over a pile of stones in this painting while holding a sword above a man in a white shirt lying on the ground. Headgear featured in this painting includes a Phrygian cap and a bicorne. The central figure of this painting, often associated with Marianne, is a topless woman who holds a rifle and a tricolor flag. For 10 points, name this painting depicting the July Revolution by Eugene Delacroix.",
+      "powerMarkPosition": 292,
+      "answer": "Liberty Leading the People",
+      "acceptableAnswers": [
+        "Liberty Leading the People",
+        "La Liberté guidant le peuple",
+        "The Liberty Leading the People"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423247"
+    },
+    {
+      "id": "22f514f8-98aa-468a-a9c8-becfd292649a",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "In a poem, this man described \"fine collapses\" that \"are not lies any more than the pirouettes of any pliant cane.\" That poem by this man begins by saying \"we make our meek adjustments contented with such random consolations.\" This poet described how the title figure of one poem observed \"the dice of drowned men's bones\" \"bequeath an embassy.\" In a different poem, this poet of \"Chaplinesque\" and \"At Melville's Tomb\" described the addressee's guerdon as \"obscure as the heaven of the Jews.\" This poet included \"Proem: To Brooklyn\" as the opening section of an epic poem, whose other sections include \"Powhatan's Daughter\" and \"Cape Hatteras.\" For 10 points, name this modernist American poet of the epic poem The Bridge.",
+      "powerMarkPosition": 402,
+      "answer": "Crane",
+      "acceptableAnswers": [
+        "Crane",
+        "Harold Hart Crane",
+        "The Crane"
+      ],
+      "source": "qbreader",
+      "sourceId": "6406d0dee39f8dfd08fc25f1"
+    },
+    {
+      "id": "4f41bfca-a1e0-4140-a53d-d8bd5b0fbc6e",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "In the mythology of these people, two young lizard-men known as the Wati kutjara castrate the \"Man in the Moon\" because he tried to rape the first woman. A network in the mythology of these people is called Tingarri cycle. These people have several versions of a myth of the morning star Jukurra-Jukurra chasing the Pleiades constellation across the sky. A figure in the mythology of these people regurgitates a group of sisters after being bitten by an ant. These people believe in an evil spirit resembling a large black seal that lurks near waterholes, called a bunyip. Paths called \"songlines\" appear in the mythology of these people who believe the world was created during Dreamtime by the Rainbow Serpent. For 10 points, name these original inhabitants of Australia.",
+      "powerMarkPosition": 440,
+      "answer": "Indigenous Australian",
+      "acceptableAnswers": [
+        "Indigenous Australian",
+        "Aboriginal Australians",
+        "Australian Aborigines",
+        "The Indigenous Australian"
+      ],
+      "source": "qbreader",
+      "sourceId": "664d3b267fccf73196050265"
+    },
+    {
+      "id": "9fef8185-9984-4a51-b11d-02e354557b97",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "A short story named for a battle in this war sees an unnamed boy confronted by maimed soldiers retreating from a battle; unaware of the seriousness of their wounds, the boy plays at leading those soldiers before discovering his own house burned and his mother killed. The author of that story set in this war also wrote a story in which the protagonist hears a loud and regular metallic clanging which he soon realizes is the ticking of his own watch; his senses are heightened due to his impending hanging by opposing soldiers in this war. For 10 points, the stories \"An Occurrence at Owl Creek Bridge,\" which depicts the hanging of Peyton Farquhar, and \"Chickamauga,\" are set during what war?",
+      "powerMarkPosition": 267,
+      "answer": "Civil War",
+      "acceptableAnswers": [
+        "Civil War",
+        "equivalents",
+        "such as War of Southern Aggression",
+        "The Civil War"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0ca1f"
+    },
+    {
+      "id": "3a4ab53d-c306-48cf-afc6-714506b93d8b",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This artist of several portraits of Madame Ginoux [jee-NOH] painted a narrow room cluttered with pictures in Bedroom in Arles [ahr-l]. Many of his later works depict sunflowers. One painting by this man shows five peasants pouring tea and cutting into the title food. Another shows a shadowy cypress in front of a sky filled with balls of swirling light. For 10 points, name this Dutch artist, who painted The Potato Eaters and Starry Night.",
+      "powerMarkPosition": 291,
+      "answer": "van Gogh",
+      "acceptableAnswers": [
+        "van Gogh",
+        "The van Gogh"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f2059"
+    },
+    {
+      "id": "9c59c4bc-7d84-4fcd-a221-b9919b38270c",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This painter's Pastoral Concert, originally misattributed to Giorgione, his teacher, inspired Luncheon on the Grass. The titular female was seen impregnated by Zeus in his series on Danae, including one with a nursemaid, and Cupid and Venus attended a wedding in his Sacred and Profane Love. His most famous painting sees two maids in the background and a dog accompanying the titular goddess in the foreground, who reclines on a bed naked. For 10 points, identify this Italian painter of Venus of Urbino.",
+      "powerMarkPosition": 291,
+      "answer": "Titian",
+      "acceptableAnswers": [
+        "Titian",
+        "The Titian"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f05d9"
+    },
+    {
+      "id": "e6a3943a-da19-407b-a401-b9d0412ccfd9",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "text": "Description Acceptable. A group of warriors subject to this policy known as the \"Forty Warriors\" were banished to the middle of a frozen lake in Sebaste. Lactantius exaggerated a policy of this type sometimes dated to a conversation between an oracle and a haruspex at Didyma. People subject to a policy of this type could avoid punishment by signing a libelli, certifying they'd performed a sacrifice, and would then become known as lapsi, or \"fallen.\" Gallienus provided temporary relief from a policy of this type, leading to a \"Little Peace\" described by Eusebius. Decius used a policy of this type as a loyalty oath. From Serdica, Galerius ended the largest instance of this policy, two years before its targets were granted legal status by the Edict of Milan. For 10 points, give this type of policy undertaken by Diocletian to suppress an Abrahamic religion.",
+      "powerMarkPosition": 433,
+      "answer": "persecution",
+      "acceptableAnswers": [
+        "persecution",
+        "any answer indicating the persecution",
+        "suppression of Christians",
+        "Christianity",
+        "accept the Decian Persecution",
+        "accept the Diocletianic Persecution",
+        "The persecution"
+      ],
+      "source": "qbreader",
+      "sourceId": "6574dd369e75c9fcbfec8137"
+    },
+    {
+      "id": "67e8784f-d704-4736-b138-65d5a5113a5f",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "A character in this novel describes how a farmer had built a restaurant for his mistress, but she had run away with another man, leaving the farmer's wife to operate the restaurant bearing the mistress's name. At the beginning of this novel, the protagonist uses a mirror to stare into the eye of a beautiful young girl caring for a sick man on a train. In a scene in this novel, a character sings \"Dark Hair\" in a childish voice while playing the samisen. At its end, a cocoon warehouse, which had been converted into a movie theatre, burns down, and Yukio's former caregiver leaps to her death. The protagonist is an expert in western ballet despite never having seen one performed. For 10 points, name this novel centering on the romance between Shimamura and the geisha Komako, by Yasunari Kawabata.",
+      "powerMarkPosition": 447,
+      "answer": "Snow Country",
+      "acceptableAnswers": [
+        "Snow Country",
+        "Yukiguni",
+        "The Snow Country"
+      ],
+      "source": "qbreader",
+      "sourceId": "63052605c887e5458fc3307a"
+    },
+    {
+      "id": "27e939ad-1296-411b-b969-f15c59051ce1",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "text": "This composer's letters have been collected and commented on by his friend Lisa M. Peppercorn. One work by this man, the tenth in a series, has a mostly wordless, percussive choral part but does contain excerpts from the poem \"Tear Out my Heart.\" This man also composed music for a ballet based on legends about the Musician Wren. \"Homage to the Countryman\" is the first of his Five Preludes for guitar, for which he also composed twelve etudes. This composer of Uirapuru and Choros is perhaps best known for a work originally scored for soprano and a cello choir, which is the fifth work in a set which adapts the techniques of a German baroque composer to the melodies of his native country in Latin America. For 10 points, name this composer of Bachianas Brasileiras.",
+      "powerMarkPosition": 462,
+      "answer": "Villa-Lobos",
+      "acceptableAnswers": [
+        "Villa-Lobos",
+        "The Villa-Lobos"
+      ],
+      "source": "qbreader",
+      "sourceId": "646912af2e8fbb82d5768b16"
+    },
+    {
+      "id": "2b175848-f296-47ef-b361-a04b905fbd4e",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "A song about this group claims that \"some get drunk on demon rum, and some get drunk on glory.\" An essay by \"the new Bernal Díaz del Castillo\" criticized \"the legitimate descendents of the ancient Tlaxcalans\" for taking part in the \"atrocious order\" to hang members of this group. Along with the \"Bravos\" national guard battalion, this group was assigned to fortify the Franciscan convent of San Mateo, which protected a bridge just east of Coyoacán. Although cannoneers from this group three times ripped down a white flag, they were forced to surrender when General William Worth's attack ended the Battle of Churubusco. Major John Riley was a leader of this group, which carried a green silk banner emblazoned with a harp and the motto \"Erin go Bragh.\" For 10 points, name this group of Irish-Americans who deserted from the U.S. Army and switched sides during the Mexican War.",
+      "powerMarkPosition": 610,
+      "answer": "Saint Patrick",
+      "acceptableAnswers": [
+        "Saint Patrick",
+        "The Saint Patrick"
+      ],
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa49f"
+    },
+    {
+      "id": "7779cb6c-5c8f-4249-a87b-d1169f47ad3d",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "In what is now this state, Alexander Arbuthnot and Robert Armbrister were executed on the orders of Andrew Jackson. In exchange for giving up claims to Spanish Texas, the United States received this territory as part of the Adam-Onis treaty. The Dade Massacre occurred in this state during a war stemming from Seminole resistance to the Trail of Tears. For 10 points, name this state where colonists in Saint Augustine often clashed with Native Americans.",
+      "powerMarkPosition": 223,
+      "answer": "Florida",
+      "acceptableAnswers": [
+        "Florida",
+        "The Florida"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3101eabc146a6b8189279"
+    },
+    {
+      "id": "f9fad25f-c91a-41c1-8707-98eef0afe95d",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "This equation can be visualized in reciprocal space using a Ewald sphere. It may also be obtained from considering Brillouin zones, the first of which is the reciprocal of the Wigner-Seitz primitive cell, and from von Laue equations. von Laue had been the first to work with the technique most commonly associated with this equation, using a variety of wavelengths to irradiate a crystal. Providing a geometric condition for constructive interference, For 10 points identify this equation that relates crystal interplanar spacing with the wavelength of light and the angle made with the crystal planes, commonly used in X-ray diffraction and derived by a British father and son.",
+      "powerMarkPosition": 388,
+      "answer": "Bragg’s law",
+      "acceptableAnswers": [
+        "Bragg’s law",
+        "The Bragg’s law"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d432e4"
+    },
+    {
+      "id": "f2df1d98-5e28-433e-9308-58753a621ad3",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "Sky-clad Jain monks are required to remove this physical feature by hand. Two of the FIve Ks of SIkhism are kanga, an object used to clean this body part, and kesh, which indicates that this body part should remain uncut; as a result, Sikhs often wear this body part coiled under a dastar turban. For 10 points, name this human body part that may be worn in dreadlocks by Rastas.",
+      "powerMarkPosition": 214,
+      "answer": "hair",
+      "acceptableAnswers": [
+        "hair",
+        "The hair"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2cd03"
+    },
+    {
+      "id": "9a336f52-6c42-4cb4-b440-0bf428e4b0f7",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "The Morrison formation is composed of sedimentary rock from this period, which is named for a mountain range on the Swiss-French border. The Nevadan Orogeny occurred during this period, and coralline algae first appeared during this time. The Tethys Sea was formed during this period when Pangaea divided into Laurasia and Gondwana, and its Tithonian stage preceded the Cretaceous period. This period saw the evolution of flying birds, like the archeopteryx [ar - kee - OP - ter - iks], as well as sauropods such as the apatosaurus and the brachiosaurus. For 10 points, identify this period of the Mesozoic era following the Triassic which is known for the proliferation of dinosaurs.",
+      "powerMarkPosition": 296,
+      "answer": "Jurassic",
+      "acceptableAnswers": [
+        "Jurassic",
+        "The Jurassic"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474aa14"
+    },
+    {
+      "id": "4c1d20d2-886d-47ef-b7ce-86aedd8952b0",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "Dozens of limestone \"reserve heads\" have been found in this modern-day country, where an unknown artist sculpted \"The Seated Scribe\". Ushabti (\"oob-shab-tee\") figurines were often sculpted out of this country's namesake \"faience\" (\"feye-ons\"). Two serpopards are carved on the Narmer Palette, which was found in this country. This country's Amarna style was exemplified by a limestone bust that is missing its left eye. Artists from this country created iconic blue hippopotamus sculptures. Interest in this country's art surged after a 1925 discovery by Howard Carter. Scarabs were a common sculptural motif in, for 10 points, what country where the Bust of Nefertiti was created?",
+      "powerMarkPosition": 340,
+      "answer": "Egypt",
+      "acceptableAnswers": [
+        "Egypt",
+        "Arab Republic of Egypt",
+        "The Egypt"
+      ],
+      "source": "qbreader",
+      "sourceId": "6549e61add7828c4e244d625"
+    },
+    {
+      "id": "3ce5aa78-69e0-4a22-b270-4a4037c0fea3",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "Observing this character, her relative claims that \"it's a great advantage not to drink among hard-drinking people\". Upon recalling being carried from the Punch Bowl to keep her shoes dry, this character throws a cigarette and burning match onto the carpet. This character has a voice \"full of money\", throws away an expensive pearl necklace, and bursts into tears at the sight of silk shirts. This character's former lover often looks over to her dock light, which the narrator notices after she accidentally kills Myrtle Wilson. For 10 points, name this character, the cousin of Nick Carraway in The Great Gatsby.",
+      "powerMarkPosition": 301,
+      "answer": "Daisy",
+      "acceptableAnswers": [
+        "Daisy",
+        "just Buchanan",
+        "The Daisy"
+      ],
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db469a3"
+    },
+    {
+      "id": "5a455e8f-0547-495f-a1a9-e734d49ddc29",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "This man designed a massive wall relief out of 16,000 bricks for the Bouwcentrum in Rotterdam, and his first public commission was to design the West Wind for the 55 Broadway London Underground headquarters. He celebrated Enrico Fermi's controlled reaction twenty-five years to the minute later with Nuclear Energy, and his style, as seen in works at the UNESCO headquarters, was influenced by a Chac Mool statue he saw at Chichen Itza. For 10 points, name this organic abstractionist English sculptor known for his bronze Reclining Figures.",
+      "powerMarkPosition": 207,
+      "answer": "Moore",
+      "acceptableAnswers": [
+        "Moore",
+        "The Moore"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0c8fd"
+    },
+    {
+      "id": "0f8f07d3-1928-4cc3-8c6c-fee4cd9265ce",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for epidermis structure. It plays a key role in the integumentary system and is one of the most studied parts of human anatomy. For ten points, name this epidermis-related structure.",
+      "powerMarkPosition": 73,
+      "answer": "Epidermis",
+      "acceptableAnswers": [
+        "epidermis",
+        "Epidermis"
+      ],
+      "explanation": "The epidermis is a key component of the Integumentary system, involved in epidermis structure.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e77c703e-4c0c-4df8-8508-f6d987e9074d",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This work includes the aria \"Un bel di,\" describing a beautiful day when a ship will arrive with the singer's husband after three years away. Unfortunately, the consul Sharpless informs the title character that her husband has married Kate, an American worman. Lieutenant Pinkerton abandons the title character of, for 10 points, what Giacomo Puccini opera about Cio-Cio San, a Japanese woman known by an insect nickname?",
+      "powerMarkPosition": 271,
+      "answer": "Madame Butterfly",
+      "acceptableAnswers": [
+        "Madame Butterfly",
+        "Madama butterfly",
+        "The Madame Butterfly"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c3fc"
+    },
+    {
+      "id": "2a438f69-db8e-492f-9240-be61ca0193d8",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "The sun deity of this myth system hid in a cave after her brother threw a flayed horse at her, but she was lured out with a dance and a mirror. After visiting the underworld, one of this myth system's gods washed his face, giving birth to the storm god Susano'o, the moon god Tsukuyomi, and the sun goddess Amaterasu. Kami are the spiritual essences of, for 10 points, what mythological system practiced in Japan?",
+      "powerMarkPosition": 275,
+      "answer": "Shinto",
+      "acceptableAnswers": [
+        "Shinto",
+        "The Shinto"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c407"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "a85d65a3-d84e-479b-a5a7-b5fe197d3c05",
+      "linkedTossupId": "8eeb7add-46ee-4362-aa02-4babbc82c14b",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This infuriatingly catchy song by Pharrell came from the Despicable Me 2 soundtrack. It asks you to let him \"know if you feel like a room without a roof.\"",
+          "answer": "Happy",
+          "acceptableAnswers": [
+            "Happy",
+            "The Happy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Taylor Swift song appeared on the Hunger Games soundtrack. It features the Civil Wars, and the music video sees Swift sit on a gravestone and sing. It shares its name with a Capital Cities hit.",
+          "answer": "Safe & Sound",
+          "acceptableAnswers": [
+            "Safe & Sound",
+            "The Safe & Sound"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While 1996 isn't actually recent, this title song of a Tom Hanks-directed film was supposedly written by The Wonders. It was actually written by the guy from Fountains of Wayne, not Tom Everett Scott.",
+          "answer": "That Thing You Do",
+          "acceptableAnswers": [
+            "That Thing You Do",
+            "The That Thing You Do"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some songs that have appeared on recent movie soundtracks. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c61193495df"
+    },
+    {
+      "id": "02391865-3d52-4f25-9e4a-e5b28ff8eb99",
+      "linkedTossupId": "22f514f8-98aa-468a-a9c8-becfd292649a",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this author of a poem that opens \"when I consider how my light is spent.\" Another work by this blind author is meant to \"justify the ways of God to man.\"",
+          "answer": "Milton",
+          "acceptableAnswers": [
+            "Milton",
+            "The Milton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this epic poem by Milton, Satan believes that it is \"better to reign in Hell, than to serve in Heaven\" and tempts Eve into sin.",
+          "answer": "Paradise Lost",
+          "acceptableAnswers": [
+            "Paradise Lost",
+            "The Paradise Lost"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Milton commemorated the drowning of Edward King as a \"bitter constraint and sad occasion\" in this poem, which commands, \"Look homeward Angel now, and melt with ruth.\"",
+          "answer": "Lycidas",
+          "acceptableAnswers": [
+            "Lycidas",
+            "The Lycidas"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a poem by this author that contemplates \"this dark world and wide,\" the speaker concludes that \"they also serve who only stand and wait.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63506cec1b4438a94f2a2a47"
+    },
+    {
+      "id": "9d3f7790-e245-4c9a-863b-aa28673d61cc",
+      "linkedTossupId": "4f41bfca-a1e0-4140-a53d-d8bd5b0fbc6e",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Heracles strangled two of what type of creatures sent by Hera to kill him in his crib?",
+          "answer": "snakes",
+          "acceptableAnswers": [
+            "snakes",
+            "serpents",
+            "accept equivalents",
+            "The snakes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Rainbow Serpent is a primordial deity of the people of this modern country.",
+          "answer": "Australia",
+          "acceptableAnswers": [
+            "Australia",
+            "The Australia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This serpent, sometimes considered to be a dragon, gnaws on the roots of Yggdrasil, the World Tree of Norse myth.",
+          "answer": "Nidhogg",
+          "acceptableAnswers": [
+            "Nidhogg",
+            "The Nidhogg"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Echidna of Greek myth fame was half-woman, half one of these creatures. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0ce8c"
+    },
+    {
+      "id": "f3ea536d-2a48-465f-8e87-a3ad5adfe30c",
+      "linkedTossupId": "9fef8185-9984-4a51-b11d-02e354557b97",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this country, whose grotesque king Ubu was written about in a play by Alfred Jarry. A playwright from this country satirized Stalinism in his play Tango.",
+          "answer": "Poland",
+          "acceptableAnswers": [
+            "Poland",
+            "The Poland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Like Sławomir Mrożek, this Eastern European playwright wrote about the absurdities of life under Communism in plays like The Garden Party and The Memorandum. He was also the first president of the Czech Republic.",
+          "answer": "Havel",
+          "acceptableAnswers": [
+            "Havel",
+            "The Havel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another politically active European playwright during the Cold War era was Dario Fo, a Nobel Laureate from this country. Fo often drew on stock characters from this country's Commedia dell'arte tradition.",
+          "answer": "Italy",
+          "acceptableAnswers": [
+            "Italy",
+            "The Italy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Spanish Golden Age playwright Calderon de la Barca wrote about a prince of this non-Spain country locked away in a tower in Life is a Dream. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c06e578a78206cf20924"
+    },
+    {
+      "id": "7cf6d0ac-6222-4ecf-9f7f-4ba76e055d5e",
+      "linkedTossupId": "3a4ab53d-c306-48cf-afc6-714506b93d8b",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this type of composition for orchestra, choir, and soloists, examples of which include Handel's Messiah.",
+          "answer": "oratorio",
+          "acceptableAnswers": [
+            "oratorio",
+            "The oratorio"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Immediately before the Hallejuah Chorus in Handel's Messiah is \"Thou shalt break them,\" a solo for this vocal range, the higher male voice in four-voice choral music.",
+          "answer": "tenor",
+          "acceptableAnswers": [
+            "tenor",
+            "The tenor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other type of choral composition developed in the Renaissance era. These secular polyphonic songs are contrasted with sacred motets, and are commonly performed today in the context of holiday dinner theater.",
+          "answer": "madrigal",
+          "acceptableAnswers": [
+            "madrigal",
+            "The madrigal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Examples of this often-sacred choral genre include Haydn's The Creation and The Seasons. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e6a0924256318ac861"
+    },
+    {
+      "id": "5c786bff-8dd1-4e89-b612-6f923f6ab760",
+      "linkedTossupId": "9c59c4bc-7d84-4fcd-a221-b9919b38270c",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "That sculpture was for the tomb of Pope Julius II, a patron of this Florentine artist. This artist depicted Mary holding Jesus' dead body in their only signed sculpture, the Pietà.",
+          "answer": "Michelangelo",
+          "acceptableAnswers": [
+            "Michelangelo",
+            "either underlined portion",
+            "The Michelangelo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Michelangelo painted The Creation of Adam as part of his ceiling design for this building in Vatican City. He also painted The Last Judgment on the altar wall of this building.",
+          "answer": "Sistine",
+          "acceptableAnswers": [
+            "Sistine",
+            "Sacellum Sixtinum",
+            "Cappella Sistina",
+            "The Sistine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Florence's Galleria dell'Accademia features a 17-foot-tall Michelangelo sculpture of this Biblical figure holding a rock and a sling before he faces Goliath.",
+          "answer": "David",
+          "acceptableAnswers": [
+            "David",
+            "The David"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A mistranslation of the Bible may have caused this artist to sculpt Moses with horns. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66e1bbb6b3ec1cfe3cd4a609"
+    },
+    {
+      "id": "6e388a35-058d-4405-b9fe-205f4e76b378",
+      "linkedTossupId": "e6a3943a-da19-407b-a401-b9d0412ccfd9",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this conservative politician who holds a post previously occupied by Ken Livingstone.",
+          "answer": "B",
+          "acceptableAnswers": [
+            "B",
+            "Johnson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Boris Johnson is the mayor of this metropolitan area; after Livingstone, he is only the second elected mayor of this city after the office was democratized in 2000.",
+          "answer": "London",
+          "acceptableAnswers": [
+            "London",
+            "The London"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Johnson compared the annual money that he made while writing for this newspaper to chicken feed. It is currently edited by Tony Gallagher, who busted a bunch of MPs deducting expenses overgenerously in 2009.",
+          "answer": "Telegraph",
+          "acceptableAnswers": [
+            "Telegraph",
+            "The Telegraph"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man forced the resignation of police chief Ian Blair after the police mistakenly killed Jean Charles de Menezes in the aftermath of the July 7 bombings. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6deda0f"
+    },
+    {
+      "id": "2019d7b0-5bd1-4b91-bf04-fb8c7b534a34",
+      "linkedTossupId": "67e8784f-d704-4736-b138-65d5a5113a5f",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this war that was also depicted in Joseph Heller's Catch-22.",
+          "answer": "World War II",
+          "acceptableAnswers": [
+            "World War II",
+            "The World War II"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tyrone Slothrop's sexual assignations correspond to V-2 bomb hits in this sprawling novel by Thomas Pynchon.",
+          "answer": "Gravity’s Rainbow",
+          "acceptableAnswers": [
+            "Gravity’s Rainbow",
+            "The Gravity’s Rainbow"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "John Hersey also wrote a non-fiction account of the dropping of the first atomic bomb on Japan in this book that he expanded from a New Yorker magazine article.",
+          "answer": "Hiroshima",
+          "acceptableAnswers": [
+            "Hiroshima",
+            "The Hiroshima"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "John Hersey's A Bell for Adano and Norman Mailer's Naked and the Dead are set during this conflict. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636eee04"
+    },
+    {
+      "id": "366a3ba3-c2cd-4d86-9990-f3b465fbc490",
+      "linkedTossupId": "27e939ad-1296-411b-b969-f15c59051ce1",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This painting sits across from La Disputa in the Stanza della Segnatura. It shows a bunch of Greek philosophers lounging around.",
+          "answer": "School of Athens",
+          "acceptableAnswers": [
+            "School of Athens",
+            "The School of Athens"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Stanza della Segnatura also houses this painting, in which Apollo plays a violin and is surrounded by the Muses, nine ancient poets, and nine contemporary poets. It shares its name with a fresco by Anton Raphael Mengs.",
+          "answer": "Parnassus",
+          "acceptableAnswers": [
+            "Parnassus",
+            "The Parnassus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Perugino-esque painting has the sun and moon flanking the letters I.N.R.I. St. Jerome kneels at the bottom of this painting, which also shows two angels collecting Jesus's blood in chalices.",
+          "answer": "Mond Crucifixion",
+          "acceptableAnswers": [
+            "Mond Crucifixion",
+            "The Mond Crucifixion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some Raphael paintings, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63002656ea186ec68c3bd7f1"
+    },
+    {
+      "id": "4241e1f4-200d-4299-be48-6b84cf259c57",
+      "linkedTossupId": "2b175848-f296-47ef-b361-a04b905fbd4e",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this controversial tax. Patrick Lalor urged others not to pay this tax in an 1830s war over it in Ireland.",
+          "answer": "tithe",
+          "acceptableAnswers": [
+            "tithe",
+            "Tithe War",
+            "The tithe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Patrick Lalor's brother Peter led an uprising of men in this profession called the Eureka Stockade. Men in this profession flocked to Australia during the Ballarat gold rush.",
+          "answer": "miner",
+          "acceptableAnswers": [
+            "miner",
+            "The miner"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During the Eureka Stockade, the rebels chanted \"Remember Vinegar Hill!\" referencing this man's unsuccessful 1798 rebellion in Ireland. Lord Cornwallis defeated this leader of the United Irishmen.",
+          "answer": "Tone",
+          "acceptableAnswers": [
+            "Tone",
+            "The Tone"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A dispute over the collection of this tax led to a clash between the Irish Constabulary and tenant farmers in the Battle of Carrickshock. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbeb03c3c9bf58ab2ab93c"
+    },
+    {
+      "id": "1c31f3c5-018c-4fb2-9a4f-caa8aeb59129",
+      "linkedTossupId": "7779cb6c-5c8f-4249-a87b-d1169f47ad3d",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this war that saw the battles at Porto Bello and Cartagena that was sparked by the Spanish seizure of its namesake's ship, Rebecca.",
+          "answer": "Jenkins’ Ear",
+          "acceptableAnswers": [
+            "Jenkins’ Ear",
+            "The Jenkins’ Ear"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The War of Jenkin's Ear merged into this greater conflict after 1742 that supposedly started because Salic law forbid a woman from inheriting the Habsburg throne.",
+          "answer": "Austrian Succession",
+          "acceptableAnswers": [
+            "Austrian Succession",
+            "The Austrian Succession"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the aforementioned woman; she succeeded to the throne after her father, Charles VI, died in 1740 and proclaimed her son, Joseph II, co-ruler after her husband, Francis I, died.",
+          "answer": "Maria",
+          "acceptableAnswers": [
+            "Maria",
+            "The Maria"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The war saw the British under Anson attacking the Manila Galleon, after which he circumnavigated the globe. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0d1e"
+    },
+    {
+      "id": "5437c436-bd50-4a03-a087-01d375fb8bc1",
+      "linkedTossupId": "f9fad25f-c91a-41c1-8707-98eef0afe95d",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The fact that cats can turn around in mid-air to land on their feet is an apparent contradiction of the conservation of this quantity. This quantity, symbolized L, equals rotational inertia times angular velocity.",
+          "answer": "angular momentum",
+          "acceptableAnswers": [
+            "angular momentum",
+            "The angular momentum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The apparent violation comes from treating the cat as one of these objects. The distance between all pairs of points is constant in these non-deformable objects.",
+          "answer": "rigid",
+          "acceptableAnswers": [
+            "rigid",
+            "The rigid"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Falling cats are an example of a system that [emphasize]lacks this property. Systems with this property have the same number of degrees of freedom as generalized coordinates.",
+          "answer": "holonomic",
+          "acceptableAnswers": [
+            "holonomic",
+            "The holonomic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a letter to his wife, James Maxwell described throwing cats out of windows at Cambridge to investigate this quantity. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "692330ebf1f28d19289b7f7d"
+    },
+    {
+      "id": "435329a0-511b-459b-afc9-426389b67c0a",
+      "linkedTossupId": "f2df1d98-5e28-433e-9308-58753a621ad3",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this German philosopher who wrote that the Christian moralities of nineteenth century Europe wouldinevitably collapse inThus Spoke Zarathustra.",
+          "answer": "Nietszche",
+          "acceptableAnswers": [
+            "Nietszche",
+            "The Nietszche"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Thus Spoke Zarathustraopens with Zarathustraproclaiming to his own heart that God has suffered this fate.Nietzsche'sThe Gay Sciencealso makes this proclamation,causing many scholars to call Nietzsche an atheist.",
+          "answer": "dead",
+          "acceptableAnswers": [
+            "dead",
+            "The dead"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Many scholars feel that Nietszche's writings, while critical of Judaism, do not actually advocate this position,a general prejudice against Jewish people.",
+          "answer": "antisemitism",
+          "acceptableAnswers": [
+            "antisemitism",
+            "The antisemitism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This thinker's sister, Elisabeth, was responsible for many of the posthumous edits and revisions thatmade his works popular among Nazi leaders. For ten points each,",
+      "source": "qbreader",
+      "sourceId": "6837af63278db02eb79f1ce1"
+    },
+    {
+      "id": "85ddaddf-7dec-4eb4-8a2c-57a106695962",
+      "linkedTossupId": "9a336f52-6c42-4cb4-b440-0bf428e4b0f7",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this thermodynamic quantity, defined as H minus T times S, which represents the maximum amount of useful work that can be done by a system.",
+          "answer": "Gibbs free",
+          "acceptableAnswers": [
+            "Gibbs free",
+            "The Gibbs free"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The value of Gibbs free energy for a reaction can determine whether or not it has this thermodynamic property, meaning the reaction can occur without constant energy input.",
+          "answer": "spontaneous",
+          "acceptableAnswers": [
+            "spontaneous",
+            "spontaneity",
+            "similar word forms",
+            "The spontaneous"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "For reactions under non-standard conditions, the difference between the standard and actual Gibbs free energy is RT times the natural logarithm of this quantity. This quantity approaches the equilibrium constant as the reaction progresses.",
+          "answer": "reaction quotient",
+          "acceptableAnswers": [
+            "reaction quotient",
+            "Q",
+            "The reaction quotient"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This quantity is related to the potential of an electrochemical cell by a factor of negative nF. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0023a69364e383bef6a8b"
+    },
+    {
+      "id": "66883ff5-1bdc-4b4d-a193-1379df67a57e",
+      "linkedTossupId": "4c1d20d2-886d-47ef-b7ce-86aedd8952b0",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This composer's four ballades inspired by Adam Mickiewicz's (\"ah-DOM meets-kʼYEV-itchʼs\") poetry are perhaps the most famous in the genre. This Polish composer's other piano works include the \"Black Key\" and \"Revolutionary\" etudes.",
+          "answer": "Chopin",
+          "acceptableAnswers": [
+            "Chopin",
+            "The Chopin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer wrote a set of four ballades inspired by Chopin as his Opus 10. This composer also included a \"Ballade\" movement in his Six Pieces for Piano, Opus 118, whose second entry is a famous \"Intermezzo.\"",
+          "answer": "Brahms",
+          "acceptableAnswers": [
+            "Brahms",
+            "The Brahms"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chopin's four ballades all employ a time signature described as this type of meter, since they are in 6/4 (\"six four time\") or 6/8 (\"six eight time\"). Meters described by this adjective subdivide each beat into three notes, rather than two as in simple meter.",
+          "answer": "compound",
+          "acceptableAnswers": [
+            "compound",
+            "The compound"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the piano ballade, a virtuosic piece written in a narrative style, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "652ebb718051389c667bd09b"
+    },
+    {
+      "id": "9585f5a9-a9a2-4378-aa7f-48581f4ae11c",
+      "linkedTossupId": "3ce5aa78-69e0-4a22-b270-4a4037c0fea3",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this novel whose secondary characters include John Raffles, who knows about Bulstrode's sordid financial past.",
+          "answer": "Middlemarch",
+          "acceptableAnswers": [
+            "Middlemarch",
+            "The Middlemarch"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Middlemarch is the masterpiece of this author of Silas Marner.",
+          "answer": "Eliot",
+          "acceptableAnswers": [
+            "Eliot",
+            "The Eliot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "On his deathbed, Edward Casaubon implies that he doesn't want Dorothea Brooke to do this. Dorothea later discovers that Casaubon's will stipulates that she will lose her inheritance if she does this.",
+          "answer": "marries",
+          "acceptableAnswers": [
+            "marries",
+            "The marries"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Virginia Woolf called it \"one of the few English novels written for grown-up people.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63002656ea186ec68c3bd74f"
+    },
+    {
+      "id": "f6d45db7-c250-44eb-89ae-5f24ff884786",
+      "linkedTossupId": "5a455e8f-0547-495f-a1a9-e734d49ddc29",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this symphony whose name derives from its second movement, which features \"Turkish\" instruments, timpani rolls, loud outbursts in A flat major, and trumpets playing fanfares and bugle calls.",
+          "answer": "Military",
+          "acceptableAnswers": [
+            "Military",
+            "Joseph Haydn's Symphony No. 100 in G major",
+            "Hoboken I/100",
+            "The Military"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Military Symphony is one of the twelve symphonies written by Joseph Haydn during his time in this English city. Ralph Vaughan Williams titled his second symphony for this city, whose Royal College of Music he attended.",
+          "answer": "London",
+          "acceptableAnswers": [
+            "London",
+            "The London"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This London symphony, the first listed in the Hoboken catalogue, has the oboes quote the aria \"Viva la libertà\" from Mozart's Don Giovanni in its final movement. It also includes a bassoon \"fart\" in its second movement.",
+          "answer": "93",
+          "acceptableAnswers": [
+            "93"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This composition features an allegro section in its first movement that is notably scored for only flutes and oboes. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df3a4b1c64d9772f738a3b"
+    },
+    {
+      "id": "0451179d-8ff9-4d23-88ad-e704ff22ed13",
+      "linkedTossupId": "0f8f07d3-1928-4cc3-8c6c-fee4cd9265ce",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with skin cell types.",
+          "answer": "epidermis",
+          "acceptableAnswers": [
+            "epidermis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the epidermis in the integumentary system?",
+          "answer": "Skin cell types",
+          "acceptableAnswers": [
+            "Skin cell types"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the integumentary system related to skin cell types.",
+          "answer": "dermis",
+          "acceptableAnswers": [
+            "dermis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human integumentary system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c98b80b6-f33c-4718-8521-cf356469ad45",
+      "linkedTossupId": "e77c703e-4c0c-4df8-8508-f6d987e9074d",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Japanese art form in which pieces of paper are folded into intricate shapes without cutting.",
+          "answer": "origami",
+          "acceptableAnswers": [
+            "origami",
+            "The origami"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The paper used for origami is most often this shape when completely unfolded.",
+          "answer": "square",
+          "acceptableAnswers": [
+            "square",
+            "The square"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the most popular origami designs is this bird which is important in Japanese culture. Folding 1,000 of these birds is supposed to bring one luck or a wish.",
+          "answer": "crane",
+          "acceptableAnswers": [
+            "crane",
+            "The crane"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about a Japanese art form, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b51f2c"
+    },
+    {
+      "id": "6d8c290c-9439-4c47-ae08-d2f1034b682a",
+      "linkedTossupId": "2a438f69-db8e-492f-9240-be61ca0193d8",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "That myth originated from this indigenous Japanese faith.",
+          "answer": "Shinto",
+          "acceptableAnswers": [
+            "Shinto",
+            "The Shinto"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Amaterasu is the goddess of this object. Other deities of this object are Helios and Ra.",
+          "answer": "sun",
+          "acceptableAnswers": [
+            "sun",
+            "sun god",
+            "The sun"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Torii gates are commonly found at the entrance of Shinto shrines, and are painted this bright color.",
+          "answer": "vermillion",
+          "acceptableAnswers": [
+            "vermillion",
+            "red",
+            "orange",
+            "The vermillion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "When Izanagi washed his face, Amaterasu, Tsukuyomi, and Susanoo were born from him. For 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c5be"
+    }
+  ]
+}

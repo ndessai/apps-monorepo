@@ -1,0 +1,1101 @@
+{
+  "packetId": "packet-033",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Social Science",
+    "Human Body",
+    "Philosophy",
+    "Literature",
+    "Science",
+    "Mythology",
+    "History",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "158a182a-b9af-4ebb-a016-171436dcfa8e",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "Two of this scientist's research subjects were the polio-stricken Mr. McGregor and David Graybeard. Important discoveries by this anthropologist was that her subjects ate meat, even hunting colobus monkeys, and used tools, such as using straws to pick up termites to eat. Goliath was the alpha male in her community at Gombe Stream National Park. For ten points, name this woman who spent over four decades in Tanzania studying chimpanzees.",
+      "powerMarkPosition": 254,
+      "answer": "Goodall",
+      "acceptableAnswers": [
+        "Goodall",
+        "The Goodall"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eaa0924256318acca3"
+    },
+    {
+      "id": "1761a249-2e2a-443d-ac55-dd83ec53cf63",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for blood types and rh factor. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this erythrocyte-related structure.",
+      "powerMarkPosition": 82,
+      "answer": "Erythrocyte",
+      "acceptableAnswers": [
+        "erythrocyte",
+        "Erythrocyte"
+      ],
+      "explanation": "The erythrocyte is a key component of the Cardiovascular system, involved in blood types and rh factor.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "3e9ed7ac-86e6-49be-93c5-a9f866b53d46",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "In this thinker'sGroundwork of the Metaphysics ofMorals, he argues that you should act only by rulesthat could be universally sound, called the \"categoricalimperative.\" In one example, this man suggested it would be wrong to lie even to a murderer asking for the location of his intended victim. The \"father of modern ethics\" is an epithet of, for ten points, what German philosopher of massive books likeCritique of Pure Reason?",
+      "powerMarkPosition": 143,
+      "answer": "Kant",
+      "acceptableAnswers": [
+        "Kant",
+        "The Kant"
+      ],
+      "source": "qbreader",
+      "sourceId": "6837af65278db02eb79f1d60"
+    },
+    {
+      "id": "2be36dc0-24cd-4f29-9b66-0c4e57db1912",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "The main character of this book is told that \"the only horrible thing in the world is ennui\" and is stalked by a man who is later accidentally shot by a hunter. One corpse in this work is identified only by the rings it wears, while another body is disposed of by Alan Campbell. The protagonist of this novel dumps a woman after she performs in Romeo and Juliet, causing her to kill herself by drinking acid. This novel's protagonist leaves Sibyl Vane and commits suicide due to his guilt from stabbing Basil Hallward. For 10 points, name this book in which the title work of art ages in place of its subject, the only novel by Oscar Wilde.",
+      "powerMarkPosition": 308,
+      "answer": "Picture of Dorian Gray",
+      "acceptableAnswers": [
+        "Picture of Dorian Gray",
+        "The Picture of Dorian Gray"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a2a1d"
+    },
+    {
+      "id": "661dce26-5dcf-4c10-aa9e-776500faa214",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "One character in this novel lives with the s ́eance-holding Madame Williamsuntil her boyfriend Richard slits his wrists after being accused of robbery. Anothercharacter gave a sermon about Isaiah's quote \"Woe is me\" on the twelfth night ofa revival. Those episodes appear in this novel's middle section, (+) The Prayers ofthe Saints, along with another one in which that preacher fathered the bastard Royal during an affair with Esther. The protagonist of this novel goes to a movie on his fourteenth birthday and returns to find his brother Roy stabbed. Later, he has a vision at a tarry service with Elisha at the Temple of the Fire Baptized, the Harlem church of his father, Gabriel. For ten points, name this novel about the religious experiences of John Grimes written by James Baldwin.",
+      "powerMarkPosition": 489,
+      "answer": "Go Tell It on the Mountain",
+      "acceptableAnswers": [
+        "Go Tell It on the Mountain",
+        "The Go Tell It on the Mountain"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a5af2"
+    },
+    {
+      "id": "911b3b37-dc00-4b85-a1bd-738c63e9bd88",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "text": "These correspond to first-order saddle points on reaction coordinate-potential surfaces, so they can be located by optimizing the potential energy of the corresponding quantum system. Positronium acts as one of these for the annihilation reaction of anti-electrons. For an Arrhenius reaction, the rate is proportional to the negative exponential of the enthalpy required to form it, which is known as the activation energy. Often denoted with a star to indicate that it is energetic, ideal irreversible reactions always go to completion on reaching it, and its structure resembles that of the reaction species closest to it in free energy according to the Hammond postulate. FTP, name this point in a reaction, the structure of which is the activated complex.",
+      "powerMarkPosition": 423,
+      "answer": "transition state",
+      "acceptableAnswers": [
+        "transition state",
+        "The transition state"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d93f124fa392c5b68c474b"
+    },
+    {
+      "id": "78d33591-32c7-4264-b22d-87bbcdb31682",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "The Song of Grótti was adapted into a folktale used to attribute a central property of this entity to slave girls Fenja and Menja, while the Poetic Edda uses the phrase \"Kolga's sisters\" when describing it. The Lokasenna is set at a feast hosted by a god of this domain. The goddess Ran and her husband Aegir personify this place, and are the parents of the nine \"billow maidens\" who reside there. Skadi married a god associated with this place after selecting him based on the beauty of his feet, thinking they belonged to Baldr. That Vanir god of this place is Njord. Before being killed by Thor, the Jormungandr, or World Serpent, resided in this place, which circled Midgard. For 10 points, name this aquatic location where the Kraken lives.",
+      "powerMarkPosition": 362,
+      "answer": "sea",
+      "acceptableAnswers": [
+        "sea",
+        "the world ocean",
+        "accept salt water",
+        "accept waves",
+        "prompt on water",
+        "The sea"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eea9fb047a67fbbb305d06"
+    },
+    {
+      "id": "92b5ce0a-29ad-4a8e-8911-5959c8ac0e39",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for skin cell types. It plays a key role in the integumentary system and is one of the most studied parts of human anatomy. For ten points, name this epidermis-related structure.",
+      "powerMarkPosition": 96,
+      "answer": "Epidermis",
+      "acceptableAnswers": [
+        "epidermis",
+        "Epidermis"
+      ],
+      "explanation": "The epidermis is a key component of the Integumentary system, involved in skin cell types.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "b546b876-456d-433f-b44e-a6b34d2e63cb",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "This man was the host of the popular General Electric Theatre show. This man created a program used to defend the United States called Star Wars or the (+) Strategic Defense Initiative. This man gave the \"A Time for Choosing\" speech and swiftly ended a strike of air traffic controllers. He also initiated Operation Urgent Fury for the invasion of Grenada. This man was embroiled in a scandal where he supplied arms to rebels in Nicaragua. This president told Mikhail Gorbachev to \"Tear down this wall\" and faced the Iran - Contra scandal. For 10 points - name this actor and 40th US president.",
+      "powerMarkPosition": 418,
+      "answer": "Reagan",
+      "acceptableAnswers": [
+        "Reagan",
+        "The Reagan"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004d9c"
+    },
+    {
+      "id": "d9a8a940-bdd4-480f-91cb-dd9cf9f06d99",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for major veins (vena cava, jugular, portal). It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this aorta-related structure.",
+      "powerMarkPosition": 87,
+      "answer": "Aorta",
+      "acceptableAnswers": [
+        "aorta",
+        "Aorta"
+      ],
+      "explanation": "The aorta is a key component of the Cardiovascular system, involved in major veins (vena cava, jugular, portal).",
+      "source": "ai-generated"
+    },
+    {
+      "id": "6074affc-2c89-42de-93a4-cb08ab7daa07",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for thymus gland. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this lymph-related structure.",
+      "powerMarkPosition": 67,
+      "answer": "Lymph",
+      "acceptableAnswers": [
+        "lymph",
+        "Lymph"
+      ],
+      "explanation": "The lymph is a key component of the Immune system, involved in thymus gland.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "337c8823-f91a-494d-80e1-10df48122f24",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for arteries vs veins vs capillaries. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this aorta-related structure.",
+      "powerMarkPosition": 77,
+      "answer": "Aorta",
+      "acceptableAnswers": [
+        "aorta",
+        "Aorta"
+      ],
+      "explanation": "The aorta is a key component of the Cardiovascular system, involved in arteries vs veins vs capillaries.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "2ab2b8d9-bdc1-4a9a-9907-a0ccb9c8e450",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "This figure was called Polieos [poh-lee-AY-ohs] for his role in protecting city-states. He fathered Hebe [hee-bee], the cupbearer of the gods, he immortalized his lover Ganymede among the stars, and he swallowed Metis whole. This son of Rhea won the Titanomachy [\"titan\"-ah-mah-kee] by forcing Cronus to vomit this god's siblings, including Demeter and Hades, allowing the age of Olympians to begin. Hera was the sister-wife of, for 10 points, what lightning-wielding chief Greek god?",
+      "powerMarkPosition": 236,
+      "answer": "Zeus",
+      "acceptableAnswers": [
+        "Zeus",
+        "The Zeus"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e5a0924256318ac7e0"
+    },
+    {
+      "id": "fc3bab1e-f1bf-497e-bb17-7ec121799518",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "A thinker from this country argued that the use of arguments based on \"comprehensive doctrines\" should be minimized in politics. Another thinker from this country used the example of paying a superstar athlete to criticize a maxim of distributive justice named for another thinker from it. A thinker from here held that justice should be decided from an \"original position\" behind a \"veil of ignorance\" to fulfill the concept of \"justice as fairness.\" Anarchy, State, and Utopia, by a thinker from this country, criticized another work from it, A Theory of Justice. For 10 points, name this country, home to the libertarian Robert Nozick and his liberal Harvard colleague John Rawls.",
+      "powerMarkPosition": 382,
+      "answer": "United States",
+      "acceptableAnswers": [
+        "United States",
+        "either underlined parts",
+        "USA",
+        "The United States"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b168e"
+    },
+    {
+      "id": "05d7c07f-d78e-4879-90a8-4eb5f1cbb397",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "Michael Frayn's Wild Honey is an adaptation of an early, untitled play by this man. His one-act plays include one in which Smirnov tears a chair in half while demanding money from, then falling in love with, Mrs. Popov. Another of his plays features a governess named Charlotta who performs magic tricks and an eccentric manservant named Firs. Another play this author of The Boor met with little success until it was staged by the MAT under the direction of Constantin Stanislavsky; that play ends with Irinia Arkadina's son Treplev committing suicide partly because of his jealousy regarding the writer Trigorin. In another of his plays, Lopakhin buys Madame Ranevskaya's estate and plans to cut down the title landmark. For 10 points, name this Russian playwright of The Seagull and The Cherry Orchard.",
+      "powerMarkPosition": 469,
+      "answer": "Chekhov",
+      "acceptableAnswers": [
+        "Chekhov",
+        "The Chekhov"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c32158"
+    },
+    {
+      "id": "5f5cc231-7d0a-49f3-b01d-992c7bc467ac",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "During this war, the English had constant control over the English Channel thanks to the early victory at the Battle of Sluys. England also claimed Calais during this war, which they held onto even after the war ended. The English king was descended from the female side of Charles IV, and was disqualified from rule according to Salic law. The English pulled off victories early in the war at Crecy and Poitiers thanks to the longbow, and in 1415, the English army under Henry V won again over the French in the Battle of Agincourt. For 10 points, name this war in which Joan of Arc helped rally the French at the Siege of Orleans and did not actually last the stated amount of time.",
+      "powerMarkPosition": 218,
+      "answer": "Hundred Years",
+      "acceptableAnswers": [
+        "Hundred Years",
+        "The Hundred Years"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0a64"
+    },
+    {
+      "id": "d0a61a83-b589-4a73-9382-6824a5d0c34a",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "An autobiographical book by this author recounts his time living in Barcelona's Barrio Chino, where he encounters Salvador and the pimp Stilitano. A character created by this author venerates twenty photos of murderers in his prison cell. In a novel by this author, Darling Daintyfoot shares an attic room with the drag queen Divine. This author recounted his time as a sex worker throughout Europe in The Thief's Journal. A woman avoids drinking poisoned tea when she notices that a phone is off the hook in a play by this author, whose two protagonists love the milkman Mario. This author of Our Lady of the Flowers wrote a play in which Claire and Solange take turns role-playing as Madame. For 10 points, name this French author of The Maids.",
+      "powerMarkPosition": 333,
+      "answer": "Genet",
+      "acceptableAnswers": [
+        "Genet",
+        "The Genet"
+      ],
+      "source": "qbreader",
+      "sourceId": "6797c22b6d78eee804a378ad"
+    },
+    {
+      "id": "f8f0e19e-2058-417c-bab5-7fb0c83e60c1",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "Pablo Picasso and Edvard Munch both created their own depictions of this work, which contains a box on its bottom right containing the name of the artist. The central figure in this work, who wears a white sheet as a turban, holds a note in his left hand which reads \"I am just too unhappy to deserve your kindness\" and a quill in his right hand which can be seen at the base of a bathtub. For 10 points, identify this painting which depicts a Frenchman stabbed to death in a bathtub by Charlotte Corday, a work by Jacques-Louis David.",
+      "powerMarkPosition": 389,
+      "answer": "Death of Marat",
+      "acceptableAnswers": [
+        "Death of Marat",
+        "The Death of Marat"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0583"
+    },
+    {
+      "id": "dcdad8f5-010d-4e51-894b-93c7d2aa5940",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "college",
+      "text": "This person is the oldest in a series of supposed letters documented in the Arabic manuscript Secret of Secrets. Plutarch hinted that this person engaged in a poisoning plot after a ruler executed this person's great-nephew Callisthenes. This native of Stagira refused to let Athens \"sin twice\" and fled to Euboea (\"yoo-BEE-ah\") after receiving impiety charges. This person taught that barbarians and slaves were identical to a student he took under the patronage of Philip II. A cloister where this person and his students walked lends its name to the Peripatetic school he founded at the Lyceum. For 10 points, name this tutor to Alexander the Great, a Greek philosopher who wrote the Nicomachean Ethics.",
+      "powerMarkPosition": 361,
+      "answer": "Aristotle",
+      "acceptableAnswers": [
+        "Aristotle",
+        "Aristotéles",
+        "The Aristotle"
+      ],
+      "source": "qbreader",
+      "sourceId": "671d6e2a704068afc3e9292d"
+    },
+    {
+      "id": "4018ea24-3000-4e41-aec8-c3b311af8e3a",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "text": "The main characters of this work are brought together by an underling who got the job through his connected uncle. One character admits drowning her child, while another was gassed in her sleep. A journalist from Rio was shot by a Mexican firing squad and spends the entirety of the play banally attempting to convince Estelle and Inez of his virtue. For 10 points, name this play in which these characters become \"roommates\" forever, showing that \"hell is other people,\" a work by Jean-Paul Sartre.",
+      "powerMarkPosition": 194,
+      "answer": "No Exit",
+      "acceptableAnswers": [
+        "No Exit",
+        "Huis Clos",
+        "The No Exit"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9840b79"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "09072279-2900-4631-bf1b-e4aed0214e41",
+      "linkedTossupId": "158a182a-b9af-4ebb-a016-171436dcfa8e",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel in which Brian is equipped only with the title object, given to him by his mother.",
+          "answer": "Hatchet",
+          "acceptableAnswers": [
+            "Hatchet",
+            "The Hatchet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Brian was heading to visit his father at the oil fields in this country.",
+          "answer": "Canada",
+          "acceptableAnswers": [
+            "Canada",
+            "The Canada"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This sequel to Hatchet sees Brian using a raft to help save a psychologist named Derek.",
+          "answer": "River",
+          "acceptableAnswers": [
+            "River",
+            "The River"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This Gary Paulsen novel sees Brian trying to survive in the wilderness. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c776"
+    },
+    {
+      "id": "b9c50848-a067-450a-a5be-fa72da39d1b7",
+      "linkedTossupId": "1761a249-2e2a-443d-ac55-dd83ec53cf63",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with stress response.",
+          "answer": "adrenal",
+          "acceptableAnswers": [
+            "adrenal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the adrenal in the endocrine system?",
+          "answer": "Stress response",
+          "acceptableAnswers": [
+            "Stress response"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to stress response.",
+          "answer": "cortisol",
+          "acceptableAnswers": [
+            "cortisol"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "46e7e6e5-03b7-4516-9b0d-cf4e00fa0b85",
+      "linkedTossupId": "3e9ed7ac-86e6-49be-93c5-a9f866b53d46",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Proudhon's work The Philosophy of Poverty was criticized by this German thinker's The Poverty of Philosophy. This author is better known for a collaboration with Friedrich Engels, The Communist Manifesto.",
+          "answer": "Marx",
+          "acceptableAnswers": [
+            "Marx",
+            "The Marx"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Proudhon asked \"What is\" this concept in the title of an 1840 book, answering \"it is theft!\" This concept, which Locke associated with \"life and liberty,\" refers to things that are owned.",
+          "answer": "property",
+          "acceptableAnswers": [
+            "property",
+            "The property"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In What is Property?, Proudhon defined this philosophy as \"the absence of a master.\" This philosophy, whose name comes from the Greek for \"without leaders,\" often advocates for the overthrow of governments.",
+          "answer": "anarchism",
+          "acceptableAnswers": [
+            "anarchism",
+            "The anarchism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Give the following about French thinker Pierre-Joseph Proudhon for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318aca70"
+    },
+    {
+      "id": "90c26fd5-822e-49b8-adf3-5f472a993b86",
+      "linkedTossupId": "2be36dc0-24cd-4f29-9b66-0c4e57db1912",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this fairy tale in which the miller's daughter is saved from execution by the title character, who demands her firstborn in payment. She foils the plot of the title character of this fairy tale when she guesses his name correctly.",
+          "answer": "Rumpelstiltskin",
+          "acceptableAnswers": [
+            "Rumpelstiltskin",
+            "The Rumpelstiltskin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another fairy tale describes musicians of this town. The musicians, a donkey, dog, cat, and rooster, scare off a band of robbers from a house outside this town, though they never actually reach the town itself.",
+          "answer": "Bremen",
+          "acceptableAnswers": [
+            "Bremen",
+            "“The Bremen Town Musicians”",
+            "“The Town Musicians of Bremen”",
+            "The Bremen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A pair of German brothers with this last name collected \"Rumpelstiltskin\" and \"The Bremen Town Musicians\" in Children's and Household Tales, which also includes fairy tales like \"Rapunzel.\"",
+          "answer": "Grimm",
+          "acceptableAnswers": [
+            "Grimm",
+            "Jakob and Wilhelm Grimm",
+            "The Grimm"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this fairy tale, a miller claims that his daughter can spin straw into gold. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52bdb"
+    },
+    {
+      "id": "ff39d63e-4354-4df6-8324-21eba9036a9a",
+      "linkedTossupId": "661dce26-5dcf-4c10-aa9e-776500faa214",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this play, in which Beatrice-Joanna induces Deflores to kill her fiancé, so that she might wed Alsemero, but the two die together after their affair is discovered by Alsemero and Tomazo seeks revenge for his brother.",
+          "answer": "Changeling",
+          "acceptableAnswers": [
+            "Changeling",
+            "The Changeling"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Changeling was written by William Rowley and this Jacobean dramatist, whose other works include A Chaste Maid in Cheapside, Women Beware Women, and A Game of Chess. Contemporary work believes that he, not Cyril Torneur, wrote The Revenger's Tragedy.",
+          "answer": "Middleton",
+          "acceptableAnswers": [
+            "Middleton",
+            "The Middleton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gary Taylor concluded that Middleton wrote approximately eleven percent of this Shakespeare tragedy, particularly the scenes with Hecate, Act 3, Scene 5 and Act 4, Scene 1. Its title thane becomes king of Scotland after murdering Duncan.",
+          "answer": "Macbeth",
+          "acceptableAnswers": [
+            "Macbeth",
+            "The Macbeth"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Antonio and Franciscus, who feigned foolishness and madness so as to seduce Isabella, are originally accused of the central murder of this play, which occurs when a servant shows Alonzo de Piracquo secret passages. For 10 points:",
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dedc45"
+    },
+    {
+      "id": "f47ce091-cde1-4028-91f9-c0286d9cad53",
+      "linkedTossupId": "911b3b37-dc00-4b85-a1bd-738c63e9bd88",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This unit vector is defined as the derivative with respect to distance along the curve of the position vector.",
+          "answer": "tangent",
+          "acceptableAnswers": [
+            "tangent",
+            "The tangent"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The unit tangent vector and the principal normal unit vector define this plane; for a plane curve, this plane contains the curve.",
+          "answer": "osculating",
+          "acceptableAnswers": [
+            "osculating",
+            "The osculating"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the Serret-Frenet formulae states that the derivative of the unit binormal vector equals minus one times the principal normal unit vector times this quantity. It shares its name with a type of balance employed in Coulomb's experiments on electrostatic force.",
+          "answer": "torsion",
+          "acceptableAnswers": [
+            "torsion",
+            "The torsion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these things associated with twisted curves.",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1b5f"
+    },
+    {
+      "id": "a8685472-c726-4078-9f8d-7f6cca3dc3bc",
+      "linkedTossupId": "78d33591-32c7-4264-b22d-87bbcdb31682",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this goddess of fire who resides in Kilauea and created several islands via volcanic eruptions.",
+          "answer": "Pele",
+          "acceptableAnswers": [
+            "Pele",
+            "The Pele"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pele is a goddess from the mythology of these people, whose other deities include I'o (ee-oh), the source of all who breathed life into Kane, the creator god. Temples from this mythology are called heiau (hay-ow).",
+          "answer": "Hawai’i",
+          "acceptableAnswers": [
+            "Hawai’i",
+            "Polynesian",
+            "The Hawai’i"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another creation story of the Hawai'ian Islands involves this trickster deity, who pulled them up from the ocean on his fishing line. In Maori mythology, this figure lengthens the day by restraining the sun with a jawbone.",
+          "answer": "Maui",
+          "acceptableAnswers": [
+            "Maui",
+            "The Maui"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This deity was banished from Tahiti for fighting with her sister Na-mako-o-Kaha'i, the Goddess of the Sea. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0ba53"
+    },
+    {
+      "id": "8cc59d90-325d-43ea-8c11-b0086d690b35",
+      "linkedTossupId": "92b5ce0a-29ad-4a8e-8911-5959c8ac0e39",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with smooth muscle locations.",
+          "answer": "sarcomere",
+          "acceptableAnswers": [
+            "sarcomere"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the sarcomere in the musculoskeletal system?",
+          "answer": "Smooth muscle locations",
+          "acceptableAnswers": [
+            "Smooth muscle locations"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to smooth muscle locations.",
+          "answer": "myofibril",
+          "acceptableAnswers": [
+            "myofibril"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "44953c64-dedc-4b77-9231-aed410912138",
+      "linkedTossupId": "b546b876-456d-433f-b44e-a6b34d2e63cb",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this island which titles an 1815 \"Letter\" advocating for Latin American unity. Earlier, this island was the site of Maroon revolts led by Nanny and Cudjoe.",
+          "answer": "Jamaica",
+          "acceptableAnswers": [
+            "Jamaica",
+            "the Letter from Jamaica",
+            "The Jamaica"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This \"Libertador\" of South America wrote the Letter from Jamaica after leaving his home country of Venezuela. This man met with fellow independence leader José de San Martín at the Guayaquil Conference.",
+          "answer": "Bolívar",
+          "acceptableAnswers": [
+            "Bolívar",
+            "The Bolívar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While leading the \"Admirable Campaign\" to liberate Venezuela, Bolivar issued this document which legalized and encouraged atrocities against Spanish-born residents of South America.",
+          "answer": "Decree of War to the Death",
+          "acceptableAnswers": [
+            "Decree of War to the Death",
+            "Decreto de Guerra a Muerte",
+            "The Decree of War to the Death"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "While staying on this island, one leader was warned of an attempted assassination by Jose Antonio Paez. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b1991"
+    },
+    {
+      "id": "4d4aca3c-8c65-47af-be61-f21408d71b71",
+      "linkedTossupId": "d9a8a940-bdd4-480f-91cb-dd9cf9f06d99",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with bronchi and bronchioles.",
+          "answer": "bronchus",
+          "acceptableAnswers": [
+            "bronchus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the bronchus in the respiratory system?",
+          "answer": "Bronchi and bronchioles",
+          "acceptableAnswers": [
+            "Bronchi and bronchioles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to bronchi and bronchioles.",
+          "answer": "bronchiole",
+          "acceptableAnswers": [
+            "bronchiole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "f9288a84-b6d1-4cc0-9386-984fa9a153fe",
+      "linkedTossupId": "6074affc-2c89-42de-93a4-cb08ab7daa07",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with anterior pituitary hormones.",
+          "answer": "hypothalamus",
+          "acceptableAnswers": [
+            "hypothalamus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hypothalamus in the endocrine system?",
+          "answer": "Anterior pituitary hormones",
+          "acceptableAnswers": [
+            "Anterior pituitary hormones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to anterior pituitary hormones.",
+          "answer": "pituitary",
+          "acceptableAnswers": [
+            "pituitary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "22481e9a-6056-4ab5-a144-d25ed82e3b5c",
+      "linkedTossupId": "337c8823-f91a-494d-80e1-10df48122f24",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with hepatic portal system.",
+          "answer": "liver",
+          "acceptableAnswers": [
+            "liver"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the liver in the digestive system?",
+          "answer": "Hepatic portal system",
+          "acceptableAnswers": [
+            "Hepatic portal system"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to hepatic portal system.",
+          "answer": "bile",
+          "acceptableAnswers": [
+            "bile"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a1fb37db-d8ac-445e-b32b-281adc750b7a",
+      "linkedTossupId": "2ab2b8d9-bdc1-4a9a-9907-a0ccb9c8e450",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "The Cretan Bull ended up mating with Pasiphae, the wife of this king of Crete who later became a judge in the underworld.",
+          "answer": "Minos",
+          "acceptableAnswers": [
+            "Minos",
+            "The Minos"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "From that union came this monster, which resided in a labyrinth designed by Daedalus and was slain by Theseus with the help of Ariadne.",
+          "answer": "Minotaur",
+          "acceptableAnswers": [
+            "Minotaur",
+            "The Minotaur"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Cretan Bull was supposed to be sacrificed to this god, but when Minos wanted to keep it, this god caused Pasiphae to fall in love with it.",
+          "answer": "Poseidon",
+          "acceptableAnswers": [
+            "Poseidon",
+            "The Poseidon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about the Cretan Bull.",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced92a"
+    },
+    {
+      "id": "9550738b-e5bd-41af-9000-eca4b005e6aa",
+      "linkedTossupId": "fc3bab1e-f1bf-497e-bb17-7ec121799518",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This school of thought claims that mind and matter are separate categories. It suffers from the problem of interaction, and it can come in \"property\" or \"substance\" forms.",
+          "answer": "Dualism",
+          "acceptableAnswers": [
+            "Dualism",
+            "substance dualism",
+            "property dualism",
+            "The Dualism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This philosopher defended substance dualism in Meditations on First Philosophy. This philosopher also stated, \"I think, therefore I am,\" in his Discourse on the Method.",
+          "answer": "Descartes",
+          "acceptableAnswers": [
+            "Descartes",
+            "The Descartes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One alternative to dualism and physicalism is this idea, which posits that all matter has consciousness qualities. David Chalmers proposed a similar theory in The Conscious Mind.",
+          "answer": "Panpsychism",
+          "acceptableAnswers": [
+            "Panpsychism",
+            "The Panpsychism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer these questions about the philosophy of mind. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97422ebe"
+    },
+    {
+      "id": "7fd38855-ad52-45a4-81fc-d811952a5b11",
+      "linkedTossupId": "05d7c07f-d78e-4879-90a8-4eb5f1cbb397",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this type of person who is addressed in a poem that notes that \"early though the laurel grows / It withers quicker than the rose.\"",
+          "answer": "athlete",
+          "acceptableAnswers": [
+            "athlete",
+            "“To an Athlete Dying Young”",
+            "accept runners",
+            "The athlete"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of \"To an Athlete Dying Young\" included poems like \"Loveliest of trees, the cherry now\" in his collection A Shropshire Lad.",
+          "answer": "Housman",
+          "acceptableAnswers": [
+            "Housman",
+            "Alfred Edward Housman",
+            "The Housman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The speaker of this Housman poem reflects on a \"Roman and his trouble\" being \"ashes under Uricon\" while watching a gale buffet the woods at the title place.",
+          "answer": "On Wenlock Edge",
+          "acceptableAnswers": [
+            "On Wenlock Edge",
+            "descriptions of poem 31 from A Shropshire Lad",
+            "The On Wenlock Edge"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a poem titled for one of them, one of these people is \"chaired... through the market-place\" and \"brought [home] shoulder-high.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6551b0912c809f9dfdac1ea8"
+    },
+    {
+      "id": "33ffb16a-6272-4067-89a3-14282d544811",
+      "linkedTossupId": "5f5cc231-7d0a-49f3-b01d-992c7bc467ac",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "During the American Revolution, soldiers in the British army were known as \"lobsters\" and as this colorful term, based on their uniforms.",
+          "answer": "redcoat",
+          "acceptableAnswers": [
+            "redcoat",
+            "The redcoat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Redshirts were loyal supporters of this Italian unifier who led the Expedition of a Thousand and fought in the Uruguayan Civil War.",
+          "answer": "Garibaldi",
+          "acceptableAnswers": [
+            "Garibaldi",
+            "The Garibaldi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Red Phrygian caps were used as an anti-nobility symbol during this country's violent 18th century revolution, which began with the storming of the Bastille.",
+          "answer": "France",
+          "acceptableAnswers": [
+            "France",
+            "The France"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, give the following about colorful symbols throughout history.",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004c9b"
+    },
+    {
+      "id": "bcd515e5-9afa-4a20-859a-1d9d54ca74bf",
+      "linkedTossupId": "d0a61a83-b589-4a73-9382-6824a5d0c34a",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this contemporary Canadian lesbian playwright of Goodnight Desdemona, who won the Commonwealth Writers Prize for her debut novel, Fall on Your Knees.",
+          "answer": "MacDonald",
+          "acceptableAnswers": [
+            "MacDonald",
+            "The MacDonald"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The protagonist of Goodnight Desdemona, Constance, seeks one of these characters who she believed was removed from Othello and Romeo and Juliet, as both tragedies feature plot contrivances more typical of comedies. One of these characters adds a note of comic wit to King Lear with his constant mockery.",
+          "answer": "fool",
+          "acceptableAnswers": [
+            "fool",
+            "The fool"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "For their violent tonal shifts between comedy and dark psychological drama, All's Well That Ends Well, Troilus and Cressida, and Measure for Measure are collectively described by critics with this term.",
+          "answer": "problem play",
+          "acceptableAnswers": [
+            "problem play",
+            "The problem play"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the first act of a play by this author, Professor Claude Night criticizes the dissertation topic of the protagonist, who angrily throws her manuscript in a wastebasket that she is then sucked into. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c08d5b3dc7dc712c795c"
+    },
+    {
+      "id": "d19c7239-460b-42ba-826c-9acfae82464b",
+      "linkedTossupId": "f8f0e19e-2058-417c-bab5-7fb0c83e60c1",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this 20th-century American composer of the music for Appalachian Spring and Billy the Kid.",
+          "answer": "Copland",
+          "acceptableAnswers": [
+            "Copland",
+            "The Copland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In one piece, Copland depicted a dance hall in this country that he visited with Carlos Chávez. Genres of music from this country include Jalisco and Mariachi.",
+          "answer": "Mexico",
+          "acceptableAnswers": [
+            "Mexico",
+            "The Mexico"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other ballet composed by Copland features sections such as \"Hoe-Down\" and \"Buckaroo Holiday\".",
+          "answer": "Rodeo",
+          "acceptableAnswers": [
+            "Rodeo",
+            "The Rodeo"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This composer collaborated with Martha Graham on his most famous ballet. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b949"
+    },
+    {
+      "id": "dd2fcb63-c65e-4e01-99cc-2580d2d2fd41",
+      "linkedTossupId": "dcdad8f5-010d-4e51-894b-93c7d2aa5940",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this military force led by the Duke of Medina Sedonia and defeated off Gravelines by an English fleet.",
+          "answer": "Spanish Armada",
+          "acceptableAnswers": [
+            "Spanish Armada",
+            "Gran Armada",
+            "The Spanish Armada"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "As a preemptive strike prior to the Armada's launch, this English privateer raided Cadiz in April of 1587. He also served as vice admiral of the English fleet under Lord Howard.",
+          "answer": "Drake",
+          "acceptableAnswers": [
+            "Drake",
+            "The Drake"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man foiled numerous plots against Elizabeth I as her spymaster, and gathered intelligence on the assembly of the Armada.",
+          "answer": "Walsingham",
+          "acceptableAnswers": [
+            "Walsingham",
+            "The Walsingham"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This fleet departed Lisbon on May 28th, 1588 with 130 ships and 30,000 men. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dee02b"
+    },
+    {
+      "id": "ac2ab78d-ece2-4326-a01f-24374d12f979",
+      "linkedTossupId": "4018ea24-3000-4e41-aec8-c3b311af8e3a",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this playwright whose most famous play features the characters of George and Martha, who try to embarrass each other at a party where they host the biology professor Nick.",
+          "answer": "Albee",
+          "acceptableAnswers": [
+            "Albee",
+            "The Albee"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "George and Martha appear in this Albee play whose title references a British author.",
+          "answer": "Who’s Afraid of Virginia Woolf?",
+          "acceptableAnswers": [
+            "Who’s Afraid of Virginia Woolf?",
+            "The Who’s Afraid of Virginia Woolf?"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Act I of the play, George tells Martha not to bring up this person while they are hosting Nick and Honey. In Act III it is revealed that this person was made up by George and Martha and doesn't exist.",
+          "answer": "child",
+          "acceptableAnswers": [
+            "child",
+            "The child"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This playwright created the characters of Peter and Jerry who meet in Central Park in Zoostory: a play in which Jerry impales himself on a knife. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31bb1"
+    }
+  ]
+}

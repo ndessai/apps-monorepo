@@ -1,0 +1,1162 @@
+{
+  "packetId": "packet-219",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Literature",
+    "Fine Arts",
+    "Science",
+    "Human Body",
+    "Social Science",
+    "Philosophy"
+  ],
+  "tossups": [
+    {
+      "id": "053a2611-ad6e-4492-a990-7266d84c0370",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "A nurse born on this island ran the \"British Hotel\" during the Crimean War. This island, the birthplace of Mary Seacole, faced the Morant Bay Rebellion and wars involving escaped slaves called \"Maroons.\" From his base on this island, Henry Morgan raided Spanish settlements in Panama. On this island, the nickname \"Sodom of the New World\" was given to the notorious pirate haven of Port Royal. For 10 points, what Caribbean island has its capital at Kingston?",
+      "powerMarkPosition": 313,
+      "answer": "Jamaica",
+      "acceptableAnswers": [
+        "Jamaica",
+        "The Jamaica"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7ded72"
+    },
+    {
+      "id": "0433bd31-9b7f-4e9a-ae56-53877a3daf00",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "In one play by this author, Hillcrist blackmails Hornblower into selling him a piece of land called The Sentry. In addition to The Skin Game, he wrote a play in which Jones steals the title object from John Barthwick, The Silver Box. He is better known for a series featuring the troubled marriage of Winifred and Montague and Fleur's marriage to Michael Mont. That series is about a man whose wife is more interested in Young Jolyon and Philip Bosinney than in him, and includes the novels To Let and In Chancery. For 10 points, name this author of A Man of Property and the rest of the Forsyte saga.",
+      "powerMarkPosition": 233,
+      "answer": "Galsworthy",
+      "acceptableAnswers": [
+        "Galsworthy",
+        "The Galsworthy"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be744d"
+    },
+    {
+      "id": "15c93297-a5ca-46e1-adb5-bf4e4a92394e",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "text": "One character in this movie is a blacksmith whose wife Lisa takes on the name Ariadne while having an extra marital affair. One figure comes in possession of an armlet during a commotion which sees the death of Ravel, while in one scene, the protagonist is offered milk and strawberries after he is introduced to young Michael, the son of Mia and Jof. The protagonist meets a troupe of acrobats traveling for a show at Elsinore, and throughout the movie, the protagonist sees flagellants. For 10 points, name this movie in which Antonius Block is a knight returning from the crusades who plays chess with death, directed by Ingmar Bergman.",
+      "powerMarkPosition": 351,
+      "answer": "Seventh Seal",
+      "acceptableAnswers": [
+        "Seventh Seal",
+        "Det Sjunde Inseglet",
+        "The Seventh Seal"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d439dd"
+    },
+    {
+      "id": "61e6525d-689f-470f-9dee-545e4427d8d5",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "This person was arrested after trying to claim Cosmopolitan's $2,000 reward for an interview. Walter Kaner, using the alias \"Mose,\" tried to rebut this figure's claims. This individual was fined $10,000 for saying \"Now you fellows have lost all your ships.\" After a Morley Safer report showed the trial convicting this person was filled with perjury, she was pardoned by Gerald Ford. Walter Winchell claimed to target this person after receiving a letter from the mother of a dead soldier. In her most notable job, she referred to her audience as \"my fellow orphans\" and said she was \"your Number One enemy.\" This person used the alias \"Orphan Ann\" while broadcasting on The Zero Hour, but she never really used her famous nickname, which was used by other announcers. For 10 points, name this Japanese-American who broadcast propaganda to Allied servicemen during World War II.",
+      "powerMarkPosition": 480,
+      "answer": "Toguri D'Aquino",
+      "acceptableAnswers": [
+        "Toguri D'Aquino",
+        "either part",
+        "Tokyo Rose",
+        "accept Orphan Ann until mentioned",
+        "The Toguri D'Aquino"
+      ],
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faa814"
+    },
+    {
+      "id": "b2fc4c37-3940-404d-aa2c-5b02b8619f34",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "In 2011, the Supreme Court granted cert in a case arising from this amendment, Jones v. United States, in which the D.C. Circuit had previously created the \"mosaic\" interpretation of its protections. The Katz case ties this amendment's protection to a \"reasonable expectation of privacy.\" Mapp v. Ohio ruled that the \"exclusionary rule\" of this amendment's construction applies to the states. For 10 points, name this amendment in the Bill of Rights that guarantees protection from unreasonable searches and seizures.",
+      "powerMarkPosition": 199,
+      "answer": "Four",
+      "acceptableAnswers": [
+        "Four",
+        "The Four"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dee047"
+    },
+    {
+      "id": "8166f899-a886-4794-b7ef-49e517cbb8fc",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "One author with this surname described the destruction of the Praying Town Indians in A Century of Dishonor. A novel by a different author with this surname describes the ostracism of the Blackwood family in the title building after many of their members die of arsenic poisoning and is titled We Have Always Lived in the Castle. In the best known work of that author with this surname, wood chips are substituted for paper in a barbaric ritual that results in the stoning of Tess Hutchinson. For 10 points, give this surname of the author of the short story \"The Lottery.\"",
+      "powerMarkPosition": 293,
+      "answer": "Jackson",
+      "acceptableAnswers": [
+        "Jackson",
+        "Helen Hunt Jackson",
+        "accept Shirley Jackson",
+        "The Jackson"
+      ],
+      "source": "qbreader",
+      "sourceId": "636ca2cb1b6aedfbdb9efe8b"
+    },
+    {
+      "id": "04fb0168-044e-4b57-8b79-64beff8ee8d2",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "One figure with this name had his remains dug up, burnt, mixed with gunpowder, and fired into the air in order to counteract the sorcery he had been working from the grave. Another man of this name was shot and beheaded by the Tatar prince Peter Urusov in revenge for the flogging he had given him. The death of another figure of this name prompted a riot in Uglich, although it was later claimed that he had stabbed himself in the throat. Polish noblewoman Marina Mniszech married two people of this name, the first of whom was supported by Polish king Sigismund III Vasa. That ruler of this name was overthrown by Vasily IV, or Vasily Shuisky. Another person who held this name was probably killed by Boris Godunov. For 10 points, name the son of Ivan the Terrible whom three men pretended to be during the Time of Troubles.",
+      "powerMarkPosition": 298,
+      "answer": "Dmitri",
+      "acceptableAnswers": [
+        "Dmitri",
+        "The Dmitri"
+      ],
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faad8e"
+    },
+    {
+      "id": "fe303c9e-ee2e-48ff-9371-dedfa55053b4",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "In their namesake \"puzzle,\" these particles have a higher-than-expected detection rate in the LHC Forward experiment. The Higgs boson was discovered by both the ATLAS collaboration and the Compact Solenoid detector named for these particles. An inconsistency in the Standard Model is the 3.5-standard-deviation discrepancy between this particle's measured and predicted g-factor. By increasing the reduced mass of hydrogen, these particles are hypothesized to catalyze a type of cold fusion. The Rossi-Hall experiment showed time dilation by observing discrepancies in the 2.2-microsecond decay time of these particles after they were produced in the atmosphere by cosmic rays. For 10 points, name this unstable lepton with a mass between that of the tauon and electron.",
+      "powerMarkPosition": 379,
+      "answer": "muon",
+      "acceptableAnswers": [
+        "muon",
+        "mu mesons",
+        "accept muon puzzle",
+        "muon-catalyzed fusion",
+        "Compact Muon Solenoid",
+        "reject “mesons”",
+        "The muon"
+      ],
+      "source": "qbreader",
+      "sourceId": "673ec01090236da031c2d071"
+    },
+    {
+      "id": "a99b8854-9114-4852-8c36-83ea63aa48a3",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "open",
+      "text": "To oppose a rule regarding this process, Nana Saheb laid siege to Cawnpore. Regulating the ratios used in this process was the main purpose of the medieval Irish system of derbfine, which survived for centuries outside the Pale of Settlement. James Broun-Ramsay, the first Duke of Dalhousie, introduced a rule regarding this process in Satara; another application of that rule incensed the Rani of Jhansi and motivated her to lead an army during the 1857 Indian Rebellion. Under Queen Anne, protestants in Ireland began to disproportionately benefit from this process through the Gavelkind Act, though the British monarchy itself used a form of primogeniture that did not fully exclude women. The British East India company justified annexing lands in India when there was a lack of men for this process in a policy called the \"doctrine of lapse\". For 10 points, name this process that in England typically favored the first son of a monarch's or landowner's family.",
+      "powerMarkPosition": 579,
+      "answer": "inheritance",
+      "acceptableAnswers": [
+        "inheritance",
+        "succession",
+        "accept the doctrine of lapse until mentioned",
+        "prompt on annexation",
+        "descriptions of taking land and ask “a lack of men for what process was used as justification?”",
+        "The inheritance"
+      ],
+      "source": "qbreader",
+      "sourceId": "673b8e856a9f877eb58c9bd8"
+    },
+    {
+      "id": "156137ab-6944-41f2-a6e8-c8cab21b8753",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for alveoli structure and function. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this bronchus-related structure.",
+      "powerMarkPosition": 82,
+      "answer": "Bronchus",
+      "acceptableAnswers": [
+        "bronchus",
+        "Bronchus"
+      ],
+      "explanation": "The bronchus is a key component of the Respiratory system, involved in alveoli structure and function.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "7a5857df-fabf-427f-ae00-c43830532bc1",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "This group's ideas were first published as a five hundred page plan known as \"el ladrillo\" or \"the brick.\" A member of this group used the Portfolio Sale to strongly advocate a fixed exchange rate of 39:1 with the U.S. dollar while serving as Minister of Planning; that one was Miguel Kast. This group was recruited out of one hundred candidates from the Pontifical Catholic University, and often instructed at the \"finance workshop\" of Arnold Harberger. They were instructed to take an opposite course from developmentalism and produced a certain \"miracle\" after enrolling in the \"money and banking workshop\" of their most well-known mentor. Hernan Buchi and Jose Pinera are usually counted among this group despite doing advanced work at Columbia and Harvard, respectively. For 10 points, name this group of economists who studied under Milton Friedman before returning to Chile in the 1970s and 80s.",
+      "powerMarkPosition": 414,
+      "answer": "Chicago Boys",
+      "acceptableAnswers": [
+        "Chicago Boys",
+        "The Chicago Boys"
+      ],
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faab3a"
+    },
+    {
+      "id": "1c8f1b33-7b3a-4309-8d45-e62e3a102b11",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "An expedition led by Alfred Gaselee helped to end this conflict, during which one country invaded over the Amur River. In this conflict, 40 missionaries were killed in the Taiyuan Massacre. The German minister Clemens von Ketteler's execution of a young boy during this conflict led to the burning of the Legation Quarter. During this revolt, a Muslim force known as the Kansu Braves allied with Dowager Empress Cixi and was defeated by the Eight Nation Alliance. The Society of Righteous and Harmonious Fists waged, for 10 points, what 1899-1901 anti-Western revolt in China?",
+      "powerMarkPosition": 304,
+      "answer": "Boxer Rebellion",
+      "acceptableAnswers": [
+        "Boxer Rebellion",
+        "The Boxer Rebellion"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f743b20e8b632d5cf141c4"
+    },
+    {
+      "id": "df9a0e69-22d0-4ab8-bdf9-853ad11abff5",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "One writer with this surname collected poems like \"Chaplinesque\" and \"For the Marriage of Faustus and Helen\" in the book White Buildings, along with a long 1930 poem that includes the sections \"Atlantis\" and \"Cutty Sark.\" Another man with this surname wrote the poetry collection The Black Riders. The author of the long poem \"The Bridge\" shares this surname with the author a short story in which The Swede dies soon after a fight with Johnny at the title location, the Blue Hotel. For 10 points what surname was shared by the poet Hart and the author of The Red Badge of Courage, Stephen?",
+      "powerMarkPosition": 297,
+      "answer": "Crane",
+      "acceptableAnswers": [
+        "Crane",
+        "The Crane"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0ceb2"
+    },
+    {
+      "id": "201a1ea1-5e56-42ff-9e18-48f2fd19f186",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "The economic damage inflicted by responses to this phenomenon are reflected by the sacrifice ratio. The opportunity costs of this are often referred to as \"shoe leather costs. Academic predictions that it would be triggered by monetary overhang in 1990s Europe proved right everywhere except Hungary, which was then judged to have already begun liberalization. It is represented by pi in the Fisher Equation, which uses it to compare real and nominal interest rates. The Mundell-Tobin effect posits that there is not a direct relationship between nominal interest rates and this. Robert Gordon developed the \"Triangle Model\" of this phenomenon, which assumes adaptive expectations, supply shocks, and increases in aggregate demand causes its three main types. Plotted in the Philips curve against unemployment and often considered in cost-push and demand-pull varieties, for 10 points, name this rise in price level over time.",
+      "powerMarkPosition": 360,
+      "answer": "Inflation",
+      "acceptableAnswers": [
+        "Inflation",
+        "The Inflation"
+      ],
+      "source": "qbreader",
+      "sourceId": "63052604c887e5458fc32e44"
+    },
+    {
+      "id": "72976436-d49c-4fcc-a74f-b051b7121e6e",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "This work features sections entitled \"The Attitude Towards Personality,\" \"Maturity and Old Age,\" and \"Education for Choice,\" and uses people like Lola, Fala, Mala, and Siva as examples. Its 68 test subjects lived in three villages on the lee side of the island of Tau, and were all between the ages of about 9 and 20. Based on eight months living in the namesake locale, the author concluded that social and cultural structures play a large role in adolescent development. For 10 points, name this book, the best-known work of Margaret Mead.",
+      "powerMarkPosition": 317,
+      "answer": "Coming of Age in Samoa",
+      "acceptableAnswers": [
+        "Coming of Age in Samoa",
+        "The Coming of Age in Samoa"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596d77"
+    },
+    {
+      "id": "84991868-5e79-4304-b3d6-239caa50ba15",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "The Boussinesq approximation is used to model the \"natural\" type of this process, in which fluid motion is generated by density differences due to temperature gradients. Cells of this process in the atmosphere include the Hadley cell and the polar vortex. One subtype of this process transports substances using the fluid's bulk motion in a particular direction - that type is called advection. For 10 points, identify this term that combines advection and diffusion, the type of energy transfer that occus with the movement of a heated fluid in its namesake currents.",
+      "powerMarkPosition": 169,
+      "answer": "convection",
+      "acceptableAnswers": [
+        "convection",
+        "The convection"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f05d7"
+    },
+    {
+      "id": "403029a5-6504-4c43-8726-1b79162493fb",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "The Soave equation adds an acentric factor to this statement, and the virial equation measures deviations from this law using a compressibility factor. This law derived by Benoit Clapeyron can account for density in its \"dirty mop\" form, and when A and B terms are added to account for the volume and interactions between particles, it is called van der Waals equation. Containing a namesake constant that is Boltzmann's constant times Avogadro's number is, for 10 points, what law usually stated as PV equals nRT?",
+      "powerMarkPosition": 369,
+      "answer": "Ideal Gas",
+      "acceptableAnswers": [
+        "Ideal Gas",
+        "The Ideal Gas"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f09b7"
+    },
+    {
+      "id": "8d894805-2898-4c82-95ad-5a67dd039022",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "One of this author's plays begins with a prologue by the Senecan ghost Machiavel; the main character of that play poisons his daughter Abigail for joining a nunnery and becoming a Christian. This writer wrote a poem which Sir Walter Raleigh penned a \"Nymph's Reply\" to, whose speaker asks the reader to \"come live with me and be my love.\" This author created a character who falls into his own boiling cauldron at the end of one play, the Jewish merchant Barabas. For 10 points, identify this Elizabethan-era playwright and possible spy, the author of The Jew of Malta and \"The Passionate Shepherd to his Love.\"",
+      "powerMarkPosition": 249,
+      "answer": "Marlowe",
+      "acceptableAnswers": [
+        "Marlowe",
+        "The Marlowe"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be75fb"
+    },
+    {
+      "id": "a725cfbd-8d7c-495d-a1be-6379f9b2542c",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "This thinker compared the use of language with the projection of shapes between two parallel planes in his paper Some Remarks on Logical Form. At the beginning of another work, this thinker imagined a shopkeeper reading a slip of paper requesting \"five red apples.\" This thinker described the \"beetle in a box\" thought experiment, and he developed the \"picture theory\" of language in a work that ends with the words, \"that of which we cannot speak, we must pass over in silence.\" For 10 points, name this philosopher and author of Philosophical Investigations and Tractatus Logico-Philosophicus.",
+      "powerMarkPosition": 189,
+      "answer": "Wittgenstein",
+      "acceptableAnswers": [
+        "Wittgenstein",
+        "The Wittgenstein"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfea66"
+    },
+    {
+      "id": "a1479bbe-40be-4a87-8074-3ad3ca62a49c",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "This ruler was targeted in the Ridolfi and Throckmorton Plots, but both were foiled by this ruler's spymaster Francis Walsingham. This monarch gave the Tilbury Speech after a victory at the Battle of Gravelines [Grav-leen], which repelled the Spanish Armada. Pro-Catholic forces schemed to depose this ruler and replace her with Mary, Queen of Scots. For 10 points, name this English monarch, a daughter of Henry VIII known as the \"Virgin Queen.\"",
+      "powerMarkPosition": 242,
+      "answer": "Elizabeth I",
+      "acceptableAnswers": [
+        "Elizabeth I",
+        "Elizabeth alone",
+        "do not accept “Elizabeth II”",
+        "The Elizabeth I"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9d08"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "069d1572-228b-4e41-adff-7f373704c13f",
+      "linkedTossupId": "053a2611-ad6e-4492-a990-7266d84c0370",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Named for the Washington, DC hotel home of the DNC, name this scandal, that would eventually force the resignation of President Richard Nixon.",
+          "answer": "Watergate",
+          "acceptableAnswers": [
+            "Watergate",
+            "The Watergate"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Reporters Bob Woodward and Carl Bernstein of the Washington Post used this anonymous source during their reporting on the scandal. In 2005, former FBI Associate Director Mark Felt stepped forward as the source.",
+          "answer": "Deep Throat",
+          "acceptableAnswers": [
+            "Deep Throat",
+            "The Deep Throat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This leader of the \"White House Plumbers\" unit organized the Watergate break-in and served over four years in prison. Since 1992, he has hosted a syndicated conservative talk radio show.",
+          "answer": "Liddy",
+          "acceptableAnswers": [
+            "Liddy",
+            "The Liddy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This event began with an attempted break-in of the Democratic National Committee's headquarters. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f200c"
+    },
+    {
+      "id": "6c91c71d-8393-41b6-91aa-4df2276746e5",
+      "linkedTossupId": "0433bd31-9b7f-4e9a-ae56-53877a3daf00",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this character who successfully stabs the protagonist in the ribs after he makes a deal to \"like\" his superiors. The novel she appears ends with her attempting to stab the protagonist one last time, but missing.",
+          "answer": "Nately’s whore",
+          "acceptableAnswers": [
+            "Nately’s whore",
+            "The Nately’s whore"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Nately's whore repeatedly tries to kill this Air Force captain of purported Assyrian heritage, the protagonist of Catch-22.",
+          "answer": "John",
+          "acceptableAnswers": [
+            "John",
+            "either",
+            "The John"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another character in Catch-22 is the Native American Chief White Halfoat, who holds a grudge against the white man for forcibly relocating his family every time that they accidentally did this.",
+          "answer": "strike oil",
+          "acceptableAnswers": [
+            "strike oil",
+            "any synonym for “strike",
+            "” such as “discover”",
+            "“find”",
+            "The strike oil"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After having bad news broken to her, this character yells \"Bruto!\" before trying to kill the protagonist with a potato peeler, her fingernails, a bread knife, an ashtray, a vase, a wine bottle, and the bread knife again. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df40b44c1b765cb43c399e"
+    },
+    {
+      "id": "cbbcf7d6-9897-4e4f-a1b6-3d30371789f5",
+      "linkedTossupId": "15c93297-a5ca-46e1-adb5-bf4e4a92394e",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this artist whose album Big Science features a surprise hit that riffs on an aria from Jules Massenet's (\"zhool mass-NAY's\") opera Le Cid (\"luh seed\") to declare, \"O Superman / O Judge / O mom and dad.\"",
+          "answer": "Anderson",
+          "acceptableAnswers": [
+            "Anderson",
+            "Laura Philips Anderson",
+            "The Anderson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Anderson often uses a vocoder to manipulate her voice towards a masculine register, which she dubs the audio analog of this gender-expressive performance art form whose practitioners call themselves \"queens\" or \"kings.\"",
+          "answer": "drag",
+          "acceptableAnswers": [
+            "drag",
+            "drag queens",
+            "drag kings",
+            "prompt on crossdressing",
+            "The drag"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Anderson's collaborative partner and husband was Lou Reed, the main songwriter of this group. An Andy Warhol print of a banana appears on the cover of this group's debut album, which was written with German singer Nico (\"NEE-koh\").",
+          "answer": "Velvet",
+          "acceptableAnswers": [
+            "Velvet",
+            "The Velvet Underground & Nico",
+            "The Velvet"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The 2021 Hirshhorn (\"HER-shorn\") retrospective The Weather showcased the works of this multidisciplinary artist, who has invented several instruments, such as the talking stick and magnetic tape-bow violin. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63682fe4906588de7855662a"
+    },
+    {
+      "id": "3fec553b-44dc-4871-ab3f-f147d2dc5add",
+      "linkedTossupId": "61e6525d-689f-470f-9dee-545e4427d8d5",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this military strongman and emperor-maker who first promoted, then deposed Majorian.",
+          "answer": "Ricimer",
+          "acceptableAnswers": [
+            "Ricimer",
+            "The Ricimer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Majorian and Ricimer more or less defended Rome from the encroachments of this Germanic tribe. Under Gaiseric, it had captured Carthage in 439 and sacked Rome in 455.",
+          "answer": "Vandal",
+          "acceptableAnswers": [
+            "Vandal",
+            "Asdingi",
+            "Silingi",
+            "Alani",
+            "The Vandal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ricimer's prominence coincided with the reigns of two men of this name and regnal number, one a Thracian Eastern Emperor whose reprisal campaign against the Vandals was utterly defeated in 468, the other a Pope whose intercession could not stop the Vandal sack of Rome.",
+          "answer": "Leo I",
+          "acceptableAnswers": [
+            "Leo I",
+            "The Leo I"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This Suebian Arian defeated and killed the Western Roman emperors Avitus and Anthemius, the former at the 456 Battle of Piacenza and the latter at a 472 sack of Rome. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e43e30eb21ef1b791017ad"
+    },
+    {
+      "id": "9a479d92-fb57-4797-8405-044302e8aa4c",
+      "linkedTossupId": "b2fc4c37-3940-404d-aa2c-5b02b8619f34",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This 1965 case protected the right to privacy, as being found in \"penumbras\" and \"emanations\" of the Constitution, even though privacy is never mentioned in the Bill of Right. As a result, a Connecticut law preventing the sale of contraceptives was struck down.",
+          "answer": "Griswold",
+          "acceptableAnswers": [
+            "Griswold",
+            "The Griswold"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 1986 case was prompted by the arrest of the defendant for violating Georgia's anti sodomy law, and the court ruled that the Constitution did not create \"a fundamental right upon homosexuals to engage in sodomy.\"",
+          "answer": "Bowers v. Hardwick",
+          "acceptableAnswers": [
+            "Bowers v. Hardwick",
+            "The Bowers v. Hardwick"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 1961 case was prompted by the warrantless search and seizure of pornography and sexually suggestive objects from the house of the plaintiff. The Supreme Court ruled that evidence obtained in violation of the Fourth Amendment was not permissible in a court of law.",
+          "answer": "Mapp",
+          "acceptableAnswers": [
+            "Mapp",
+            "The Mapp"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For nine people in black robes, the Supreme Court can get pretty kinky. Name these Supreme Court cases related to sex for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa5913201359"
+    },
+    {
+      "id": "fa98cde5-35b3-4da7-b8e0-fbfa0f8a884a",
+      "linkedTossupId": "8166f899-a886-4794-b7ef-49e517cbb8fc",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this English novelist, author of Parade's End and a biography about his painter grandfather.",
+          "answer": "Ford",
+          "acceptableAnswers": [
+            "Ford",
+            "The Ford"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ford may be best known for this novel, originally titled The Saddest Story and told mostly in flashbacks, about two seemingly perfect couples before World War I.",
+          "answer": "Good Soldier",
+          "acceptableAnswers": [
+            "Good Soldier",
+            "The Good Soldier"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ford Maddox Ford collaborated with Joseph Conrad on this novel, in which the title characters style themselves Fourth Dimensionalists. The newspaper editor Fox is one of them, as is Charles Gunard, a Cabinet member.",
+          "answer": "Inheritors",
+          "acceptableAnswers": [
+            "Inheritors",
+            "The Inheritors"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His novel Ladies Whose Bright Eyes sought to portray a 'reversal' of Twain's Connecticut Yankee. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f02c1"
+    },
+    {
+      "id": "f257e230-3a91-4002-9077-fbff5a447f44",
+      "linkedTossupId": "04fb0168-044e-4b57-8b79-64beff8ee8d2",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this general born to a slave woman and French nobleman in Saint-Domingue whose son later used parts of his life in novels.",
+          "answer": "Dumas",
+          "acceptableAnswers": [
+            "Dumas",
+            "Thomas-Alexandre Davy de la Pailleterie",
+            "The Dumas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Dumas was called the Horatius Cocles of the Tyrol by this French commander, who later became emperor.",
+          "answer": "Bonaparte",
+          "acceptableAnswers": [
+            "Bonaparte",
+            "Napoleon I",
+            "The Bonaparte"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Dumas and Napoleon did not get along, especially during Dumas's time leading the cavalry during the failed expedition in this country, which started with a 1798 invasion and ended in failure in 1801. Dumas's attempted journey back to France from this country led to his imprisonment in Italy.",
+          "answer": "Egypt",
+          "acceptableAnswers": [
+            "Egypt",
+            "Jumhuriyat Misr al-Arabiyah",
+            "The Egypt"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Tom Reiss wrote a 2013 Pulitzer Prize-winning biography of this man, who quickly rose to command the Army of the Alps, was likely saved by the Thermidorian Reaction from execution, and spent two years in a prison in Taranto before returning home penniless and in poor health. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b8b1"
+    },
+    {
+      "id": "4c2dcd04-5626-4267-8ce6-405eb3cbc201",
+      "linkedTossupId": "fe303c9e-ee2e-48ff-9371-dedfa55053b4",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this technique that separates the components of a mixture by boiling point. Azeotropes are mixtures that cannot be separated by this technique.",
+          "answer": "distillation",
+          "acceptableAnswers": [
+            "distillation",
+            "The distillation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Azeotropes occur when the two elements have the smallest value of this quantity for mixing. The change in this quantity at equilibrium equals negative RT times the log of the equilibrium constant.",
+          "answer": "free energy",
+          "acceptableAnswers": [
+            "free energy",
+            "delta-G",
+            "The free energy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These apparatuses, which are often used to aid azeotropic distillation, consist of a boiling flask connected to a side arm to collect water.",
+          "answer": "Dean-Stark",
+          "acceptableAnswers": [
+            "Dean-Stark",
+            "Dean-Stark trap",
+            "The Dean-Stark"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This technique is commonly paired with a vapor condenser. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66763417fe8264b343f111b1"
+    },
+    {
+      "id": "bac0bee9-cbea-4cf3-8e2a-df778c72c2fc",
+      "linkedTossupId": "a99b8854-9114-4852-8c36-83ea63aa48a3",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these structures that include one built by Senwosret III south of Semna and an octagonal one reconstructed by Caliph Al-Mutawakkil at Rhoda. Elephantine's Temple of Satis preserves one of these structures divided into cubits.",
+          "answer": "nilometer",
+          "acceptableAnswers": [
+            "nilometer",
+            "The nilometer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Egyptian farmers used nilometers to time irrigation with the shaduf and the sāqiyah type of these structures. Egypt didn't have to reinvent their Mesopotamian design of spokes around an axle.",
+          "answer": "wheel",
+          "acceptableAnswers": [
+            "wheel",
+            "water wheels",
+            "The wheel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sāqiyah water wheels enabled intensive sorghum-based agriculture after the period named for this city, whose \"island\" produced charcoal and smelted iron. This Kushite capital near Napata names two partially deciphered scripts.",
+          "answer": "Meroë",
+          "acceptableAnswers": [
+            "Meroë",
+            "Medewi",
+            "Meruwi",
+            "Bedewi",
+            "Meruwah",
+            "accept Meroitic script",
+            "accept Meroitic Period",
+            "Post-Meroitic Period",
+            "accept island of Meroë",
+            "Buṭāna",
+            "accept Bagrawiyah",
+            "The Meroë"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Specific term required. Mosaics from Sepphoris, Israel, and Sarrīn, Syria, depict these structures, whose original corridor and well models were replaced by the column design. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d6dbb47c00e8c6f8d88823"
+    },
+    {
+      "id": "55b3bfcf-f93c-4649-a63c-946a21ec6148",
+      "linkedTossupId": "156137ab-6944-41f2-a6e8-c8cab21b8753",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with muscle fiber types.",
+          "answer": "sarcomere",
+          "acceptableAnswers": [
+            "sarcomere"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the sarcomere in the musculoskeletal system?",
+          "answer": "Muscle fiber types",
+          "acceptableAnswers": [
+            "Muscle fiber types"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to muscle fiber types.",
+          "answer": "myofibril",
+          "acceptableAnswers": [
+            "myofibril"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c417916a-0e06-4461-95f3-c7767b4b755e",
+      "linkedTossupId": "7a5857df-fabf-427f-ae00-c43830532bc1",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this model proposed in 1958 that involves a \"decision demon\" that selects the largest output produced by inferior \"cognitive demons.\"",
+          "answer": "pandemonium",
+          "acceptableAnswers": [
+            "pandemonium",
+            "The pandemonium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The second of the four stages in the pandemonium model consists of demons that respond to these pieces of information. These things name a theory of attention proposed by Anne Treisman in which they are processed automatically before being integrated into a \"saliency map.\"",
+          "answer": "feature",
+          "acceptableAnswers": [
+            "feature",
+            "feature integration theory",
+            "The feature"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The pandemonium model was influenced by work done by Jerry Lettvin and Humberto Maturana on visual perception in these animals. 19th-century psychologists studied the response of these animals to boiling water.",
+          "answer": "frog",
+          "acceptableAnswers": [
+            "frog",
+            "The frog"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This model of visual processing was developed by Oliver Selfridge, grandson of the founder of the Selfridges department stores. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66b83d77e381fe913c42f8a9"
+    },
+    {
+      "id": "94311a97-f69b-4d19-b4b0-662ac51cac8f",
+      "linkedTossupId": "1c8f1b33-7b3a-4309-8d45-e62e3a102b11",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Civil War battle in Tennessee at which forces led by Ulysses S. Grant defeated those of P. G. T. Beauregard.",
+          "answer": "Shiloh",
+          "acceptableAnswers": [
+            "Shiloh",
+            "Battle of Pittsburgh Landing",
+            "The Shiloh"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Confederate forces at Shiloh were initially led by this general, whose death in the battle made him the highest ranking officer on either side to die in the war.",
+          "answer": "Johnston",
+          "acceptableAnswers": [
+            "Johnston",
+            "The Johnston"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Second Corps of the Confederate Army at Shiloh was led by this man. This general was defeated by Don Carlos Buell at the Battle of Perryville.",
+          "answer": "Bragg",
+          "acceptableAnswers": [
+            "Bragg",
+            "The Bragg"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The fiercest fighting in this battle took place on Joseph Duncan's farm, at a location now known as the \"Sunken Road.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a4d585770cd7127f7dac3e"
+    },
+    {
+      "id": "7d975dba-4fa6-4ae6-81e2-a3b7f0892568",
+      "linkedTossupId": "df9a0e69-22d0-4ab8-bdf9-853ad11abff5",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this character, who claims her real name is Sherlock Holmes. This character rambles about two daughters' red and white eyes in an aside that claims Donald is not Donald and Elizabeth is not Elizabeth.",
+          "answer": "Mary",
+          "acceptableAnswers": [
+            "Mary",
+            "The Mary"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author created the maid Mary in The Bald Soprano. This author of Exit the King wrote a play in which Bérenger [\"bay-rehn-zhay\"] refuses to capitulate, Rhinoceros.",
+          "answer": "Ionesco",
+          "acceptableAnswers": [
+            "Ionesco",
+            "The Ionesco"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ionesco also wrote this \"tragic farce,\" in which the Old Man imitates the month of February. At the end of this play, the Old Man and the Old Woman throw themselves out of a window into the ocean.",
+          "answer": "Chairs",
+          "acceptableAnswers": [
+            "Chairs",
+            "The Chairs"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the play in which she appears, this character recites a poem beginning with the line \"the polypoids were burning in the wood.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed60f81539231f571ee2e9"
+    },
+    {
+      "id": "bab68047-16c3-4fd3-ac63-d2fb89334c4b",
+      "linkedTossupId": "201a1ea1-5e56-42ff-9e18-48f2fd19f186",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this author of Principles of Topological Psychology, creator of t-groups, and founder Research Center for Group Dynamics at MIT.",
+          "answer": "Lewin",
+          "acceptableAnswers": [
+            "Lewin",
+            "The Lewin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lewin was influenced by this line of psychological thought associated with Wertheimer and Kohler. It posits that one cannot just study the components of the mind in isolation as it is greater than the sum of its parts.",
+          "answer": "Gestalt",
+          "acceptableAnswers": [
+            "Gestalt",
+            "The Gestalt"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This law which is central to gestalt states that we perceive things as simply and symmetrically as possible.",
+          "answer": "pragnanz",
+          "acceptableAnswers": [
+            "pragnanz",
+            "The pragnanz"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man used the term \"life space\" to describe the total environment of an individual. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c05525875973c5"
+    },
+    {
+      "id": "d165f316-6145-4442-bc1a-5a2a9538b3bc",
+      "linkedTossupId": "72976436-d49c-4fcc-a74f-b051b7121e6e",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this \"offensive realist\" IR scholar who wrote The Tragedy of Great Power Politics.",
+          "answer": "Mearsheimer",
+          "acceptableAnswers": [
+            "Mearsheimer",
+            "John Joseph Mearsheimer",
+            "The Mearsheimer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mearsheimer and Stephen Walt wrote a controversial book about the American lobby for this country, which they say consists not only of a subset of Jewish people but also Christian Zionists and various conservatives.",
+          "answer": "Israel",
+          "acceptableAnswers": [
+            "Israel",
+            "State of Israel",
+            "Medīnat Yīsrāʾēl",
+            "Dawlat ʾIsrāʾīl",
+            "accept The Israel Lobby and U.S. Foreign Policy",
+            "The Israel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mearsheimer has investigated this phenomenon, in which states exert power over other states through economic and social means. Antonio Gramsci (\"GRAHM-shee\") defined the \"cultural\" form of this phenomenon.",
+          "answer": "hegemon",
+          "acceptableAnswers": [
+            "hegemon",
+            "word forms like hegemonic",
+            "accept cultural hegemony",
+            "egemonia culturale",
+            "The hegemon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the aftermath of the breakup of the USSR, this thinker wrote the Foreign Affairs article \"The Case for a Ukrainian Nuclear Deterrent.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63682fe4906588de785563fa"
+    },
+    {
+      "id": "d1997e3a-215d-4c32-a36e-72e849e43ebd",
+      "linkedTossupId": "84991868-5e79-4304-b3d6-239caa50ba15",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this class of algorithms which put data in order.",
+          "answer": "sort",
+          "acceptableAnswers": [
+            "sort",
+            "The sort"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This fastest common sorting algorithm places each element in a list before or after a chosen pivot element, and then recursively applies itself to the two sublists generated.",
+          "answer": "quicksort",
+          "acceptableAnswers": [
+            "quicksort",
+            "The quicksort"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this sorting algorithm, after the nth iteration, only the first n items in the original list have been examined, but they are in sorted order.",
+          "answer": "insertion",
+          "acceptableAnswers": [
+            "insertion",
+            "The insertion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One algorithm of this type is named for Donald Shell, and the \"bubble\" variety is terribly inefficient because of so-called \"turtle\" values. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43ee0"
+    },
+    {
+      "id": "41cd5c43-5dd9-4e36-8db9-90494c03d0cc",
+      "linkedTossupId": "403029a5-6504-4c43-8726-1b79162493fb",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "June Huh is a 2022 recipient of this award that is described as the \"Nobel Prize of Mathematics.\" This award is given every 4 years to accomplished mathematicians who are under the age of 40.",
+          "answer": "Fields",
+          "acceptableAnswers": [
+            "Fields",
+            "The Fields"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The award was given for Huh's work finding a link between using algebraic techniques to solve problems in this field and combinatorics. This field deals with shapes and their properties.",
+          "answer": "geometry",
+          "acceptableAnswers": [
+            "geometry",
+            "The geometry"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Huh worked with polynomials that described the number of ways to apply these things to a graph. The first major computer-assisted proof showed that any map can be completed with only four of these things so that no two bordering regions share the same one.",
+          "answer": "color",
+          "acceptableAnswers": [
+            "color",
+            "four color map theorem",
+            "The color"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about poet-turned-mathematician June Huh, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65666dfe443a0a5dea00440e"
+    },
+    {
+      "id": "321cd097-e829-4c95-b5bc-629c8c8062b1",
+      "linkedTossupId": "8d894805-2898-4c82-95ad-5a67dd039022",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this novel in which Fermina Daza marries Juvenal Urbino, but ultimately decides that Florentino Ariza is the one for her.",
+          "answer": "Love in the Time of Cholera",
+          "acceptableAnswers": [
+            "Love in the Time of Cholera",
+            "El amor en los tiempos del cólera",
+            "The Love in the Time of Cholera"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Love in the Time of Cholera, Fermina and Florentino are able to marry after Urbino dies falling off a tree trying to catch one of these animals.",
+          "answer": "parrot",
+          "acceptableAnswers": [
+            "parrot",
+            "birds",
+            "avian",
+            "something else synonymous to “bird”",
+            "The parrot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of Love in the Time of Cholera and creator of Macondo created the Buendia family. His other works include Chronicle of a Death Foretold and One Hundred Years of Solitude.",
+          "answer": "García Márquez",
+          "acceptableAnswers": [
+            "García Márquez",
+            "Márquez",
+            "Gabo",
+            "The García Márquez"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One character in this novel sets the age of twenty-one as \"the deadline\" and another is a mule driver. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895997a0d8ea074be7c50"
+    },
+    {
+      "id": "8002b102-30e7-4cbc-b396-c4ef31f619b0",
+      "linkedTossupId": "a725cfbd-8d7c-495d-a1be-6379f9b2542c",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Greek term, which is often translated as \"final cause.\"",
+          "answer": "telos",
+          "acceptableAnswers": [
+            "telos",
+            "The telos"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Aristotle claims that an object's telos is pretty important in this book, which takes Zeno's paradox apart to explain how motion is possible. This book was followed by an Aristotle book on the nature of being.",
+          "answer": "Physics",
+          "acceptableAnswers": [
+            "Physics",
+            "Phusike akroasis",
+            "Physicae Auscultationes",
+            "The Physics"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "According to Aristotle, all change takes place in the realm below this fifth element. The Sun and Moon and everything else above the terrestrial sphere move around in this element.",
+          "answer": "ether",
+          "acceptableAnswers": [
+            "ether",
+            "quintessence",
+            "The ether"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This concept is often elucidated with the example that a seed \"wants\" to become an adult plant and high objects \"want\" to fall. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a48e8"
+    },
+    {
+      "id": "ee959a31-871b-495b-9f20-2f8d7aac7d03",
+      "linkedTossupId": "a1479bbe-40be-4a87-8074-3ad3ca62a49c",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Some historians believe this tsar lost his sanity when his wife died in 1560. His son Feodor's unsuccessful reign led to the Time of Troubles.",
+          "answer": "Ivan the Terrible",
+          "acceptableAnswers": [
+            "Ivan the Terrible",
+            "Ivan IV",
+            "The Ivan the Terrible"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This tsar moved the Russian capital from Moscow to a city named for him. He also defeated the Swedish Empire in the Great Northern War.",
+          "answer": "Peter the Great",
+          "acceptableAnswers": [
+            "Peter the Great",
+            "Peter I",
+            "The Peter the Great"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This tsar, the last of the Romanov dynasty, was killed along with his wife and children in 1918 prior to the formation of the Soviet Union.",
+          "answer": "Nicholas II",
+          "acceptableAnswers": [
+            "Nicholas II",
+            "The Nicholas II"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these Russian tsars, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c438"
+    }
+  ]
+}

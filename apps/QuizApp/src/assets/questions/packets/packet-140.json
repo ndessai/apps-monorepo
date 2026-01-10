@@ -1,0 +1,1137 @@
+{
+  "packetId": "packet-140",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Human Body",
+    "Literature",
+    "Philosophy",
+    "Science",
+    "Mythology",
+    "Social Science",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "99a4532a-ffc8-4a93-a2ed-6869940d53de",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "Twenty percent of the population of this country's capital was massacred by colonial forces during Yekatit 12. A leader of this country proclaimed \"Death to the counterrevolutionaries!\" before smashing three bottles of blood to launch a Red Terror campaign that targeted the socialist MEISON party. This country's defeat at Nakfa by the EPLF preceded a regime change prompted by Dawud Ibsa Ayana's militia joining forces with a northern secessionist organization. A 1980s famine in this country was exacerbated by harsh policies against this country's Tigray people. Mengistu Haile Mariam led a campaign of terror in this country as the chairman of its Derg military junta. For 10 points, name this East African nation once led by Halie Selassie.",
+      "powerMarkPosition": 436,
+      "answer": "Ethiopia",
+      "acceptableAnswers": [
+        "Ethiopia",
+        "People’s Democratic Republic of Ethiopia",
+        "Provisional Military Government of Ethiopia",
+        "Federal Democratic Republic of Ethiopia",
+        "prompt on Derg by asking “what country did the Derg control?”",
+        "The Ethiopia"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f1b8aed2b97d3109c68378"
+    },
+    {
+      "id": "6d9ee31f-6b58-45da-bb3f-f4bcf449057b",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for immunodeficiency. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this vaccine-related structure.",
+      "powerMarkPosition": 93,
+      "answer": "Vaccine",
+      "acceptableAnswers": [
+        "vaccine",
+        "Vaccine"
+      ],
+      "explanation": "The vaccine is a key component of the Immune system, involved in immunodeficiency.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ffa318f2-f5a4-4180-befb-673afba225e4",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for allergies and hypersensitivity. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this vaccine-related structure.",
+      "powerMarkPosition": 81,
+      "answer": "Vaccine",
+      "acceptableAnswers": [
+        "vaccine",
+        "Vaccine"
+      ],
+      "explanation": "The vaccine is a key component of the Immune system, involved in allergies and hypersensitivity.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "370fde7c-f61b-47d9-a60e-580fe9a99e5f",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "In Naked Lunch, William S. Burroughs writes that his \"pen hath its will like\" this figure, to whom he compares himself. This figure recalls that \"never a saint took pity on my soul in agony.\" He laments the sight of \"the bloody Sun, at noon\" in \"a hot and copper sky.\" This man notices water snakes and \"blessed them unaware.\" This man of \"long grey beard and glittering eye\" tells his story to one of three wedding guests. For 10 points, name this figure, who \"laid full low the harmless albatross\" in a \"Rime\" by Samuel Taylor Coleridge.",
+      "powerMarkPosition": 423,
+      "answer": "Mariner",
+      "acceptableAnswers": [
+        "Mariner",
+        "Rime of the Ancient Mariner",
+        "The Mariner"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6ded8ef"
+    },
+    {
+      "id": "75c439c5-7345-475c-a659-00801c44aa74",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for cerebellum function. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this cerebrum-related structure.",
+      "powerMarkPosition": 71,
+      "answer": "Cerebrum",
+      "acceptableAnswers": [
+        "cerebrum",
+        "Cerebrum"
+      ],
+      "explanation": "The cerebrum is a key component of the Nervous system, involved in cerebellum function.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "d41d8300-f8d1-41af-83a5-6ad96e64ccec",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "In this biblical book, a man envisions a sheet covered in animals descending from the heavens, as a voice says, \"Kill and eat.\" In this book, after valuable sorcery scrolls are burned, merchants chant, \"Great is Artemis of the Ephesians\" during a riot. This second of two texts addressed to Theophilus includes an account of tongues of fire appearing above heads. In this book, coats are laid at the feet of a man who approves of the stoning of Stephen. This non-gospel, which is traditionally attributed to St. Luke, includes the story of St. Paul's conversion on the road to Damascus. For 10 points, name this 5th book of the New Testament that follows Jesus' disciples after the resurrection.",
+      "powerMarkPosition": 252,
+      "answer": "Acts",
+      "acceptableAnswers": [
+        "Acts",
+        "The Acts of the Apostles",
+        "prompt on Luke-Acts",
+        "The Acts"
+      ],
+      "source": "qbreader",
+      "sourceId": "68fc54d95b5d7bee38aa404a"
+    },
+    {
+      "id": "18f013cd-edf2-439a-899a-f92779db57bb",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "The Uehling potential modifies this law by accounting for vacuum polarization. Tests of this law provide a common way to find an upper bound on the rest mass of a photon. The uniqueness theorem of Poisson's equation allows this law to be applied on both the real and image in the method of images. The Gamow factor gives the probability that two particles overcome an energy barrier named after this law. This non-gravitational law was discovered with the help of a torsion balance by its namesake. This law's proportionality constant, which equals 1 over 4 pi times epsilon-naught, is approximately equal to 9 times 10 to the 9th in SI units. For 10 points, name this inverse square law that gives the electrostatic force between two point charges.",
+      "powerMarkPosition": 367,
+      "answer": "Coulomb",
+      "acceptableAnswers": [
+        "Coulomb",
+        "The Coulomb"
+      ],
+      "source": "qbreader",
+      "sourceId": "644dff39de0b658d0841af55"
+    },
+    {
+      "id": "8015ae46-259e-443a-807d-6c8cdebe7e1f",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for platelets and clotting. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this erythrocyte-related structure.",
+      "powerMarkPosition": 81,
+      "answer": "Erythrocyte",
+      "acceptableAnswers": [
+        "erythrocyte",
+        "Erythrocyte"
+      ],
+      "explanation": "The erythrocyte is a key component of the Cardiovascular system, involved in platelets and clotting.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "f0ff1216-a0f5-4791-9a3b-12246dcf0216",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "In one myth, this god's constant quarrels with his brother caused the destruction and creation of several ages of man. This god is said to have created fifth-world mankind by mixing the bones of previous races with his own blood. This god's promise to return caused Hernán Cortés [\"air\"-NAHN kor-TEZ] to be mistaken for this god by Montezuma. This god was typically associated with the planet Venus. For ten points, name this \"feathered serpent\" god, brother and rival of Tezcatlipoca [tayz-kahnt-lee-POH-kah], from Aztec mythology.",
+      "powerMarkPosition": 265,
+      "answer": "Quetzalcoatl",
+      "acceptableAnswers": [
+        "Quetzalcoatl",
+        "The Quetzalcoatl"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f723df56e0dff73abedb1"
+    },
+    {
+      "id": "ca9dce03-fd9d-4fb2-9067-c5974333255c",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "A character in this novel is introduced as \"the girl with eyes like Egypt and nylons the color of smoke.\" That character travels out-of-state to get married before eighth grade, and abandons the protagonist by a display of red clowns at a carnival, after which the protagonist is sexually assaulted. The protagonist of this novel steals two dollars from her sister to buy a bike by pooling money with her new friends Lucy and Rachel. The protagonist of this novel dislikes her name and wishes to change it to \"Zeze the X.\" The protagonist and her sister Nenny play with other neighborhood kids while living at the title location in Chicago in this novel. For 10 points, name this novel composed of 44 vignettes centered on the life of Esperanza Cordero, written by Sandra Cisneros.",
+      "powerMarkPosition": 508,
+      "answer": "House on Mango Street",
+      "acceptableAnswers": [
+        "House on Mango Street",
+        "The House on Mango Street"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a8021"
+    },
+    {
+      "id": "459414e7-582f-4597-aaed-16b7a0d93cd4",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "Clayton Alderfer created the ERG Theory as a refinement of this man's most famous contribution. This author of A Theory of Human Motivation claimed that people have \"peak experiences\" as a period of interconnectedness and joy, and this man studied \"exemplary people\" such as Albert Einstein and Frederick Douglass. This man's most famous creation has categories such as \"physiological\" and \"esteem,\" and at the top is \"self-actualization.\" For 10 points, name this psychologist, who developed a namesake hierarchy of needs.",
+      "powerMarkPosition": 314,
+      "answer": "Maslow",
+      "acceptableAnswers": [
+        "Maslow",
+        "The Maslow"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0661"
+    },
+    {
+      "id": "4dbc78b1-6383-4394-9dbc-66ac465f0270",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "Although completely surrounded, this ruler's use of wagons and firearms at the Battle of Khanwa resulted in his victory over Rana Sanga, a leader of Mewar, and he initially rose to prominence as the ruler of Fergana. Muhammad Shaybani took Samarkand from this man, only for him to regain it shortly after, and in the meantime this ruler captured Kabul. This ruler defeated Ibrahim Lodhi at the First Battle of Panipat, which marked the beginning of an empire that would last three centuries until its replacement by the British Raj in India. For 10 points, name this father of Humayun and grandfather of Akbar, the founder of the Mughal Dynasty.",
+      "powerMarkPosition": 216,
+      "answer": "Babur",
+      "acceptableAnswers": [
+        "Babur",
+        "Zahir ud-Din Muhammad bin Omar Sheikh",
+        "The Babur"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a456025f"
+    },
+    {
+      "id": "a6faad03-8d8c-495c-9022-81e3c8e4de88",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "The image of this figure on his mount is associated with three interlocking triangles, the Valknut. This god worked for Baugi and seduced Gunnlod to obtain a substance made from Kvasir's blood. Along with Vili and Ve, this god was the son of Borr and Bestla. This god's possessions include the throne Hlidskjalf and the ring Draupnir. This god receives half of the Einherjar in Valhalla, where they are served by his Valkyrie messengers. After making a trip to Mimir's Well, this god lost one eye. Huginn and Muninn are ravens loyal to, for 10 points, what chief Norse deity?",
+      "powerMarkPosition": 258,
+      "answer": "Odin",
+      "acceptableAnswers": [
+        "Odin",
+        "Woden",
+        "Wotan",
+        "anything like that",
+        "The Odin"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a45601ec"
+    },
+    {
+      "id": "f0236dfc-fd64-4f49-9447-9ee3033c9e4f",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "This author argued that Moses may have been the pharoah Akenhaten in the book Moses and Monotheism. He described behaviors as guided by Thanatos, the death drive, as a companion to sexual drive in his Beyond the Pleasure Principle. Carl Jung opposed this man's theory of the psyche, in which the superego controls one's instincts. For 10 points, name this Austrian psychoanalyst, the author of The Ego and the Id and The Interpretation of Dreams.",
+      "powerMarkPosition": 231,
+      "answer": "Freud",
+      "acceptableAnswers": [
+        "Freud",
+        "The Freud"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eaa0924256318acc50"
+    },
+    {
+      "id": "efb146db-bc7d-41bc-a31a-15838b5099d6",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "This constellation's second-brightest star appears in the Winter Triangle with Sirius and Procyon [\"PRO-see-on\"]. Alnitak, Alnilam, and Mintaka form a three-star asterism [AST-uh-rih-zum] named for this constellation. Halley's comet produces a meteor shower named for this constellation, which peaks during late October. This constellation's two brightest stars are Rigel and Betelgeuse [\"beetle-juice\"]. For ten points, name this constellation named after a mythological Greek hunter.",
+      "powerMarkPosition": 243,
+      "answer": "Orion",
+      "acceptableAnswers": [
+        "Orion",
+        "The Orion"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f723ef56e0dff73abee56"
+    },
+    {
+      "id": "c7a17f9e-cfce-4a6e-891c-5abaafc83785",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "A work by Lewis Hyde titled after a work by this other thinker discusses the way that art is subsumed by a market and is subtitled \"Creativity and the Artist in the Modern World\". With WSF Pickering, this man wrote an unfinished work detailing how rites tend to regress while the title observances stay constant as a religion develops. This author of \"On Prayer\" outlines a \"scheme\" which varies with general and specific functions in a work detailing a practice with an entry, middle, and exit section that brings the sacred and profane worlds together. He wrote that work with Henri Hubert , entitled Sacrifice: Its Nature and Function. Another phenomenon studied by this thinker is a \"total phenomenon\" that is woven into the social and cultural fabric of a society, and For 10 points, name this French anthropologist who studied the potlatch and kula exchange in his \"The Gift\".",
+      "powerMarkPosition": 591,
+      "answer": "Mauss",
+      "acceptableAnswers": [
+        "Mauss",
+        "The Mauss"
+      ],
+      "source": "qbreader",
+      "sourceId": "646912af2e8fbb82d5768af0"
+    },
+    {
+      "id": "a4b8892c-3143-4bbe-8008-4a4c9ca787cb",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "A fifth movement to this composer's Serenade No. 13 in G Major does not survive. Near the end of his life, he composed a Clarinet Quintet and a Clarinet Concerto for his friend, Anton Stadler. He did not live to complete the Lacrimosa section of his Requiem Mass, but this child prodigy did finish 41 symphonies, including the Jupiter Symphony. Eine Kleine Nachtmusik [\"eye\"-nuh kl\" eye\"-nuh nahkt moo-zeek] was composed by, for 10 points, what Austrian composer?",
+      "powerMarkPosition": 224,
+      "answer": "Mozart",
+      "acceptableAnswers": [
+        "Mozart",
+        "The Mozart"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac9e1"
+    },
+    {
+      "id": "5c113305-836f-4958-b3c0-84b6ab476693",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "text": "This unnamed character cites celebrations of the \"debaucheries of Jupiter\" and \"the continence of Xenocrates being revered\" as examples of evil in men, but concludes that \"at the bottom of our hearts [is] an innate principle of justice and virtue.\" While in a \"state of uncertainty and doubt which Descartes considers to be necessary for the search for truth,\" this character \"ponders\" on the \"sad fate of mortals\" before deciding to follow the \"Inner Light.\" After its author was charged with \"impiety\" for creating the ideas spoken by this character, he wrote Letters from the Mountain to defend ancient civic religion. In Reveries of a Solitary Walker, the author who created this character suggests that this figure's ideas about natural religion may \"one day make a revolution amongst men.\" For 10 points, name this religious figure, who explains his \"Creed\" in Jean-Jacques Rousseau's Emile.",
+      "powerMarkPosition": 621,
+      "answer": "Savoyard Vicar",
+      "acceptableAnswers": [
+        "Savoyard Vicar",
+        "The Profession of Faith of the Savoyard Priest",
+        "accept any answer indicating that it is a priest from Savoy",
+        "prompt on priest",
+        "vicar",
+        "The Savoyard Vicar"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df3a4b1c64d9772f738834"
+    },
+    {
+      "id": "46570f22-889b-492e-b4b5-373e322a5e41",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "Theodosia Ivie won one of the first alimony payments from an early administrator of this city. A rebel against a colonial province named for this city is sometimes called \"the first suicide bomber\" for covering herself in butter, lighting herself on fire, and jumping into a powder storeroom. Though used elsewhere, the ryotwari land tenure system was devised in and most associated with this city's environs. The colonial province named for this city suppressed local leaders called Polygars. The warrior queen Velu Nachiyar opposed colonial forces based in this city, which backed Muhammad Ali Khan Wallajah against Chanda Sahib. This city's namesake army faced the Vellore Mutiny. Supplanting this city as a colonial center was the goal of (*) Joseph François Dupleix [doo-PLEX] in a conflict that included the Battle of Wandiwash. This city was traded for Louisbourg in the Treaty of Aix-La-Chapelle during its rivalry with French Pondicherry in the Carnatic Wars. For 10 points, give this namesake of the British East India Company's southernmost \"presidency\" and capital of Tamil Nadu.",
+      "powerMarkPosition": 483,
+      "answer": "Madras",
+      "acceptableAnswers": [
+        "Madras",
+        "Chennai",
+        "accept Fort St. George",
+        "The Madras"
+      ],
+      "source": "qbreader",
+      "sourceId": "6554318c4579e16ae2938e55"
+    },
+    {
+      "id": "c7185208-1bb8-4e00-a352-14f24ba6e6b8",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "One of the London equations relates the curl of the superconducting current density to this quantity. The charge times this quantity divided by the mass equals the angular frequency in a cyclotron. This quantity is equal to the curl of the vector potential. The cross product of the electric field with this quantity is proportional to the Poynting vector. The Lorentz force on a charged particle has a term proportional to the cross product of the velocity with this quantity. Gauss's law says that the integral of this quantity through a closed surface is zero. For 10 points, name this quantity that is generated by moving electric charges, often measured in Teslas and symbolized B.",
+      "powerMarkPosition": 257,
+      "answer": "magnetic field",
+      "acceptableAnswers": [
+        "magnetic field",
+        "B-field before mention",
+        "magnetic flux density",
+        "The magnetic field"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c05525875979c6"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "2e6d0866-d9aa-40f0-89ba-f6db7b3f9d32",
+      "linkedTossupId": "99a4532a-ffc8-4a93-a2ed-6869940d53de",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this 1899-1902 civil war in Colombia, fought between the Liberal and Conservative parties.",
+          "answer": "Thousand Days",
+          "acceptableAnswers": [
+            "Thousand Days",
+            "Guerra de los Mil Dias",
+            "The Thousand Days"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Liberals lost the War of a Thousand Days in most of Colombia, but due to their masterful victory at this 1901 battle, at which they were outnumbered 6:1, they were able to keep control of Panama.",
+          "answer": "Aguadulce",
+          "acceptableAnswers": [
+            "Aguadulce",
+            "The Aguadulce"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Just a year after the war ended, Liberal-dominated Panama seceded from Colombia and signed this treaty with the United States, which led directly to the Panama Canal.",
+          "answer": "Hay-Bunau-Varilla",
+          "acceptableAnswers": [
+            "Hay-Bunau-Varilla",
+            "The Hay-Bunau-Varilla"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The losing side in this war was led by Rafael Uribe Uribe. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae8c0d"
+    },
+    {
+      "id": "3aec159a-3906-4a9b-a9c8-f897347692aa",
+      "linkedTossupId": "6d9ee31f-6b58-45da-bb3f-f4bcf449057b",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with cerebellum function.",
+          "answer": "cerebrum",
+          "acceptableAnswers": [
+            "cerebrum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cerebrum in the nervous system?",
+          "answer": "Cerebellum function",
+          "acceptableAnswers": [
+            "Cerebellum function"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to cerebellum function.",
+          "answer": "cerebellum",
+          "acceptableAnswers": [
+            "cerebellum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "d9b07cb8-7168-43da-b97f-f08dabda0d26",
+      "linkedTossupId": "ffa318f2-f5a4-4180-befb-673afba225e4",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with nutrient absorption.",
+          "answer": "duodenum",
+          "acceptableAnswers": [
+            "duodenum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the duodenum in the digestive system?",
+          "answer": "Nutrient absorption",
+          "acceptableAnswers": [
+            "Nutrient absorption"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to nutrient absorption.",
+          "answer": "jejunum",
+          "acceptableAnswers": [
+            "jejunum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ce85d30b-61a4-4fbd-9854-86770ee3d81d",
+      "linkedTossupId": "370fde7c-f61b-47d9-a60e-580fe9a99e5f",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this author of If He Hollers Let Him Go. He also wrote a mystery series about Gravedigger Jones and Coffin Ed Johnson that includes The Real Cool Killers.",
+          "answer": "Himes",
+          "acceptableAnswers": [
+            "Himes",
+            "The Himes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Himes' aforementioned detective series is set in this neighborhood. This neighborhood names a literary movement that includes Langston Hughes, Claude McKay, and other African American writers.",
+          "answer": "Harlem",
+          "acceptableAnswers": [
+            "Harlem",
+            "the Harlem Renaissance",
+            "The Harlem"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Harlem Renaissance writer Countee Cullen asks this type of person \"Is your heart as true as your arm?\" in one poem. A John Cheever story titled for this type of person chronicles Neddy Merrill's trip home from a party.",
+          "answer": "swimmer",
+          "acceptableAnswers": [
+            "swimmer",
+            "“To the Swimmer”",
+            "“The Swimmer”",
+            "The swimmer"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Bob Jones feels like \"King Kong\" when near Madge Perkins in one of this man's novels. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6406d0dee39f8dfd08fc2602"
+    },
+    {
+      "id": "c6c1e4bb-dafc-47e6-b33e-d7ae2e103450",
+      "linkedTossupId": "75c439c5-7345-475c-a659-00801c44aa74",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with major arteries (aorta, carotid, femoral).",
+          "answer": "aorta",
+          "acceptableAnswers": [
+            "aorta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the aorta in the cardiovascular system?",
+          "answer": "Major arteries (aorta, carotid, femoral)",
+          "acceptableAnswers": [
+            "Major arteries (aorta, carotid, femoral)"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to major arteries (aorta, carotid, femoral).",
+          "answer": "vena cava",
+          "acceptableAnswers": [
+            "vena cava"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "1db77a7d-2bf7-4ef7-8c1a-008b2435a5f4",
+      "linkedTossupId": "d41d8300-f8d1-41af-83a5-6ad96e64ccec",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this substance which is consumed through a device called a Chalice which is used to connect worshipers to Jah.",
+          "answer": "marijuana",
+          "acceptableAnswers": [
+            "marijuana",
+            "cannabis",
+            "ganja",
+            "pot",
+            "weed",
+            "sticky-icky",
+            "etc",
+            "prompt on hemp",
+            "The marijuana"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Marijuana is used in the groundations of Rastafari. The Rastafari movement is associated with this genre of music -- which helped popularize Rasta in the United States. Bob Marley used this genre of music to summarize Rastafari teachings.",
+          "answer": "Reggae",
+          "acceptableAnswers": [
+            "Reggae",
+            "The Reggae"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other form of Rastafarian music consists of chanting and drumming and is used to reach states of greater spirituality. This form of music shares its name with the oldest Rastafari mansion which does not believe in violence.",
+          "answer": "Nyabingi",
+          "acceptableAnswers": [
+            "Nyabingi",
+            "The Nyabingi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This substance is used in community meetings called groundations. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab8ae"
+    },
+    {
+      "id": "3c1bbff0-2ad0-4d4f-bd9d-91c729cc8ba1",
+      "linkedTossupId": "18f013cd-edf2-439a-899a-f92779db57bb",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The speed of sound in liquids and solids is inversely proportional to the square root of this quantity, which is symbolized by the lower case Greek letter rho, and equals mass over volume.",
+          "answer": "density",
+          "acceptableAnswers": [
+            "density",
+            "The density"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Within 5%, give the speed of sound in meters per second in dry air at 20 degrees Celsius.",
+          "answer": "343",
+          "acceptableAnswers": [
+            "343",
+            "any answers between 325-361 meters per second",
+            "The 343"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The equation for the speed of sound in an ideal gas includes the adiabatic index, which has this numerical value for a diatomic gas, and is 5/3 for a monatomic gas.",
+          "answer": "1.4",
+          "acceptableAnswers": [
+            "1.4",
+            "7/5",
+            "accept other mathematical equivalents",
+            "The 1.4"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the speed of sound, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a28df"
+    },
+    {
+      "id": "9f4ce212-7e82-4b05-976d-e71dc2165974",
+      "linkedTossupId": "8015ae46-259e-443a-807d-6c8cdebe7e1f",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with four chambers of the heart.",
+          "answer": "atrium",
+          "acceptableAnswers": [
+            "atrium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the atrium in the cardiovascular system?",
+          "answer": "Four chambers of the heart",
+          "acceptableAnswers": [
+            "Four chambers of the heart"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to four chambers of the heart.",
+          "answer": "ventricle",
+          "acceptableAnswers": [
+            "ventricle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "6706b50a-9dd0-4eb5-827d-f9b85e209c54",
+      "linkedTossupId": "f0ff1216-a0f5-4791-9a3b-12246dcf0216",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "In this Aristophanes play, the title chorus of amphibians annoy Dionysus as he crosses their lake on his way to Hades by chanting \"bre-ke-ke-kax-koax-koax,\" an ancient Greek onomatopoeia similar to the English \"ribbit.\"",
+          "answer": "Frog",
+          "acceptableAnswers": [
+            "Frog",
+            "The Frog"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Aristophanes play, Pisthetaerus and Euelpides [yoo-EL-pih-deez] convince the title animals to build a city in the sky called cloud-cuckoo-land, under the direction of the Hoopoe [hoo-poo].",
+          "answer": "Birds",
+          "acceptableAnswers": [
+            "Birds",
+            "The Birds"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The chorus of this Aristophanes play represent Athenian jurors who swarm like the title creatures as Procleon despairs over his useless son, who is addicted to attending trials.",
+          "answer": "Wasp",
+          "acceptableAnswers": [
+            "Wasp",
+            "The Wasp"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify some comic plays by Aristophanes named for animals, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004d45"
+    },
+    {
+      "id": "37f67e40-90ae-467e-90e7-8b82d8da8a95",
+      "linkedTossupId": "ca9dce03-fd9d-4fb2-9067-c5974333255c",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Irish poet whose other female characters include Leda in \"Leda and the Swan\" and a stand-in for the real-life Maud Gonne, who appears in \"Easter 1916.\"",
+          "answer": "Yeats",
+          "acceptableAnswers": [
+            "Yeats",
+            "The Yeats"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another important woman in Yeats' life was this collaborator of his who ran the Abbey Theater. Her own works include the play The Rising of the Moon and the collection of Irish legends Cuchulain of Muirthemne.",
+          "answer": "Gregory",
+          "acceptableAnswers": [
+            "Gregory",
+            "The Gregory"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a Yeats poem titled for Michael Robartes and one of these people, the male character explains that the dragon in a painting they are looking at represents a woman's intellect. Yeats' poem \"Among School Children\" closes by asking how we can know a person of this type from the action they perform.",
+          "answer": "dancer",
+          "acceptableAnswers": [
+            "dancer",
+            "“How can we know the dancer from the dance”",
+            "The dancer"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This poet wrote a series of poem about Crazy Jane that appear in his collection Words for Music Perhaps. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c06e578a78206cf20a09"
+    },
+    {
+      "id": "34d5fa25-d531-474e-a1bd-985528a9fd72",
+      "linkedTossupId": "459414e7-582f-4597-aaed-16b7a0d93cd4",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this woman, an anthropologist who wrote Coming of Age in Samoa as well as Sex and Temperament in Three Primitive Societies.",
+          "answer": "Mead",
+          "acceptableAnswers": [
+            "Mead",
+            "The Mead"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mead studied at this Ivy League university in New York City, where Franz Boas [Bo-azz]founded the first PhD program in anthropology.",
+          "answer": "Columbia",
+          "acceptableAnswers": [
+            "Columbia",
+            "Barnard College",
+            "The Columbia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ruth Benedict, another Columbia product, wrote The Chrysanthemum and the Sword about this country's culture. Benedict's research on this country helped persuade FDR to keep Hirohito in power after World War II.",
+          "answer": "Japan",
+          "acceptableAnswers": [
+            "Japan",
+            "Nippon",
+            "The Japan"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Derek Freeman criticized this woman's work in his The Fateful Hoaxing of [this woman]. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9d0e"
+    },
+    {
+      "id": "4885b41e-154f-4adb-9275-58017db28311",
+      "linkedTossupId": "4dbc78b1-6383-4394-9dbc-66ac465f0270",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this modern-day country, which saw an explosion of witch trials following its conversion to Protestantism by Christian III. This country had earlier agreed to a Christian union as part of the Old Covenant.",
+          "answer": "Iceland",
+          "acceptableAnswers": [
+            "Iceland",
+            "Denmark",
+            "The Iceland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The nabrok were also named after this ethnicity because they were considered to be magicians. These reindeer-herding peoples of northern Scandinavia were also associated with the Devil.",
+          "answer": "Sami",
+          "acceptableAnswers": [
+            "Sami",
+            "Lapps",
+            "but remind players that the term is derogatory.",
+            "The Sami"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The nabrok only worked if the user drew one of these things known as a nábrókarstafur. The Elder Futhark alphabet of these symbols was used to write various Norse languages.",
+          "answer": "runes",
+          "acceptableAnswers": [
+            "runes",
+            "The runes"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This country's witches believed that wearing the enchanted skin of dead people, known as nabrok, could make them rich. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32c8153c44a298923c28f"
+    },
+    {
+      "id": "f6f9fb0b-0468-466e-8984-ff7027bbb778",
+      "linkedTossupId": "a6faad03-8d8c-495c-9022-81e3c8e4de88",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this early Egyptian god who created the bodies of children out of clay on his potter's wheel.",
+          "answer": "Khnum",
+          "acceptableAnswers": [
+            "Khnum",
+            "Chnum",
+            "Khnemu",
+            "The Khnum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After Khnum finished forming human bodies, Heket and Meskhenet were responsible for creating this spiritual essence and breathing it into them. It is not to be confused with the ba, or the soul.",
+          "answer": "ka",
+          "acceptableAnswers": [
+            "ka"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Khnum was also worshipped as the source of this rather important entity. Khnum's wife Satet was the deification of its annual floods, while the god Sobek was responsible for its population of crocodiles.",
+          "answer": "Nile",
+          "acceptableAnswers": [
+            "Nile",
+            "An Nil",
+            "Iteru",
+            "H’pi",
+            "Piaro",
+            "Phiaro",
+            "Abbai",
+            "The Nile"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He shared a temple at Esna with Neith and Heka, though his worship was centered primarily at Elephantine, where he was worshipped alongside Satis and Anuket. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da79c"
+    },
+    {
+      "id": "6ee44377-9e57-46a8-aa5f-63cf85d53e5b",
+      "linkedTossupId": "f0236dfc-fd64-4f49-9447-9ee3033c9e4f",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This founder of individual psychology described how organ deficiencies can change a child's development and developed the theory of the inferiority complex.",
+          "answer": "Adler",
+          "acceptableAnswers": [
+            "Adler",
+            "The Adler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This American psychologist formulated a namesake hierarchy of needs ranging from physiological needs to self-actualization.",
+          "answer": "Maslow",
+          "acceptableAnswers": [
+            "Maslow",
+            "The Maslow"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Swiss psychologist and educator described the cognitive development of children in four stages, beginning with sensorimotor and ending with formal operational.",
+          "answer": "Piaget",
+          "acceptableAnswers": [
+            "Piaget",
+            "The Piaget"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some psychologists who worked on development for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4396d"
+    },
+    {
+      "id": "f1becf28-8922-4ed4-b098-b813e34e1392",
+      "linkedTossupId": "efb146db-bc7d-41bc-a31a-15838b5099d6",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this term which refers to the different physical forms in which an element may exist.",
+          "answer": "allotrope",
+          "acceptableAnswers": [
+            "allotrope",
+            "The allotrope"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The conversion of this element's allotrope of diamond into graphite is thermodynamically favorable, but takes an extremely long time. This element has the chemical symbol C.",
+          "answer": "carbon",
+          "acceptableAnswers": [
+            "carbon",
+            "The carbon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This element is found in rhombic, monoclinic, and amorphous allotropes. At standard conditions, eight atoms of this element form a cyclic molecule, and it appears as a yellow solid.",
+          "answer": "sulfur",
+          "acceptableAnswers": [
+            "sulfur",
+            "The sulfur"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The interconversion between dioxygen gas and ozone, which are two of these entities for oxygen, occurs in the Chapman cycle. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "673aef78cbbbb69a5263cdae"
+    },
+    {
+      "id": "21138aae-598c-40ae-9d6b-c290eb1ffda0",
+      "linkedTossupId": "c7a17f9e-cfce-4a6e-891c-5abaafc83785",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this three-word theory arguing that hunter-gatherers took the \"Zen\" road of \"want not, lack not\" to meeting their needs.",
+          "answer": "original affluent society",
+          "acceptableAnswers": [
+            "original affluent society",
+            "The original affluent society"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The notion of the \"original affluent society\" was introduced in this anthropologist's Stone Age Economics.",
+          "answer": "Sahlins",
+          "acceptableAnswers": [
+            "Sahlins",
+            "The Sahlins"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sahlins contrasted the \"Zen\" path toward affluence with one named for this economist, who argued for increased public spending in his 1958 book The Affluent Society.",
+          "answer": "Galbraith",
+          "acceptableAnswers": [
+            "Galbraith",
+            "The Galbraith"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "According to this theory's formulator, it generally describes cultures in which \"mobility and property [were] in contradiction.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c2fba161cf1fc5965680"
+    },
+    {
+      "id": "b6fdb2a2-ffcd-4bda-b64d-96cd85ae880f",
+      "linkedTossupId": "a4b8892c-3143-4bbe-8008-4a4c9ca787cb",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this family of German Baroque and classical composers. Its most famous member, who wrote the Goldberg Variations and numerous canons and fugues, was named Johann Sebastian.",
+          "answer": "Bach",
+          "acceptableAnswers": [
+            "Bach",
+            "The Bach"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "J. S. Bach wrote the Toccata and Fugue in D minor for this instrument. This large keyboard instrument is frequently played in churches, and produces sound by forcing air through huge pipes.",
+          "answer": "organ",
+          "acceptableAnswers": [
+            "organ",
+            "The organ"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "J. S. Bach's oldest son, Wilhelm Friedemann Bach, taught music to the great-aunt of this later German composer, who helped repopularize Bach's work. This composer wrote the Hebrides Overture and incidental music for A Midsummer Night's Dream.",
+          "answer": "Mendelssohn",
+          "acceptableAnswers": [
+            "Mendelssohn",
+            "Jakob Ludwig Felix Mendelssohn Bartholdy",
+            "The Mendelssohn"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Two members of this family were known as the \"London\" and \"Hamburg\" ones due to their residences. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "673aef78cbbbb69a5263cd22"
+    },
+    {
+      "id": "44ba3e9e-7f45-4ae3-bb25-417dd807b80d",
+      "linkedTossupId": "5c113305-836f-4958-b3c0-84b6ab476693",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these things. Act-based utilitarianism is often contrasted with a form of utilitarianism based on these things.",
+          "answer": "rule",
+          "acceptableAnswers": [
+            "rule",
+            "\"Two Concepts of Rules\"",
+            "rule utilitarianism",
+            "The rule"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This thinker defended utilitarianism from \"punishment\" and \"promise-keeping\" objections in \"Two Concepts of Rules.\" He introduced the \"original position\" thought experiment in A Theory of Justice.",
+          "answer": "Rawls",
+          "acceptableAnswers": [
+            "Rawls",
+            "The Rawls"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rawls expanded on his ethical theory in a paper titled \"From [this concept] to Goodness.\" A 1985 follow-up to A Theory of Justice is titled for \"Justice as [this concept.]\"",
+          "answer": "fairness",
+          "acceptableAnswers": [
+            "fairness",
+            "The fairness"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In an essay titled for these things, a philosopher imagined an institution called \"telishment\" where innocent people are punished whenever it is most convenient. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6797c22b6d78eee804a378b6"
+    },
+    {
+      "id": "ef8c4800-a560-4399-b8dc-c48c9ad7ab6b",
+      "linkedTossupId": "46570f22-889b-492e-b4b5-373e322a5e41",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Greek writer, known both as the \"father of history\" and the \"father of lies\", who tells of the lead up to and the fighting of the Persian Wars.",
+          "answer": "Herodotos",
+          "acceptableAnswers": [
+            "Herodotos",
+            "The Herodotos"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Other Delphic oracles reported by Herodotos deal with this kingdom, such as one which caused Alyattes to stop fighting Miletos to rebuild a temple to Athena, and one which led its king to fight against Persia and cause a great kingdom to fall, his own.",
+          "answer": "Lydia",
+          "acceptableAnswers": [
+            "Lydia",
+            "The Lydia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Herodotos also reports several oracles related to Kypselos's rise to power in this city, including his birth as a lion to his father Eetion, his overthrow of the Bakkhiadai as rulers here, and the rule of his son Periander.",
+          "answer": "Corinth",
+          "acceptableAnswers": [
+            "Corinth",
+            "Korinthos",
+            "The Corinth"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Among the many Delphic oracles this figure cites are the one which led Thebes to seek an alliance with Aigina, as they were named for the same mythical sister, and one which required Athens to wait thirty years before avenging Aigina's attacks. For 10 points:",
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dedc3c"
+    },
+    {
+      "id": "cf81285e-c106-4612-b64c-decd27e77ea0",
+      "linkedTossupId": "c7185208-1bb8-4e00-a352-14f24ba6e6b8",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this object, whose strength is measured in teslas. According to the Lorentz force law, the force exerted by one of these objects is proportional to the cross product of a particle's velocity and this object.",
+          "answer": "magnetic field",
+          "acceptableAnswers": [
+            "magnetic field",
+            "“B”",
+            "The magnetic field"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The magnetic field is equal to the curl of this quantity, symbolized with a capital A. Along with another quantity symbolized phi, this quantity can be used to rewrite the laws of electromagnetism.",
+          "answer": "vector potential",
+          "acceptableAnswers": [
+            "vector potential",
+            "“A”",
+            "The vector potential"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a magnetic field, the vector potential appears in the expression for this quantum mechanical operator, which gives a system's total energy. In classical mechanics, this operator computes kinetic energy plus potential energy.",
+          "answer": "Hamiltonian",
+          "acceptableAnswers": [
+            "Hamiltonian",
+            "“H”",
+            "The Hamiltonian"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the presence of one of these objects, an electron's energy spectrum is quantized into highly degenerate Landau levels. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edb4fedff988263841bc01"
+    }
+  ]
+}

@@ -1,0 +1,1157 @@
+{
+  "packetId": "packet-255",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Philosophy",
+    "Mythology",
+    "Human Body",
+    "Science",
+    "Literature",
+    "Fine Arts",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "e4b587e1-18cc-4c86-9123-ed052752aae8",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "During this man's administration, America paid Tripoli $60,000 after the capture of the USS Philadelphia. Along with James Madison, this man authored the Kentucky and Virginia Resolutions, and this man banned exports from the United States with the Embargo Act. After purchasing land from Napoleon, this inhabitant of Monticello ordered Lewis and Clark to explore the Louisiana Purchase. For 10 points, name the third President of the United States.",
+      "powerMarkPosition": 248,
+      "answer": "Jefferson",
+      "acceptableAnswers": [
+        "Jefferson",
+        "The Jefferson"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eda0924256318ace8c"
+    },
+    {
+      "id": "9300be1f-4511-4a51-8f13-586f57c64016",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "This philosopher recounts his attempt to restructure the court of Dionysius II in his Seventh Letter, and he wrote of a slave who was taught geometry to prove ideas are innate in Meno. His work Timaeus describes Atlantis; another work of this founder of the Academy uses an allegorical cave to describe his theory of forms, while other dialogues featuring his teacher include Phaedo, Apology, and Crito. For 10 points, name this author of The Republic and pupil of Socrates.",
+      "powerMarkPosition": 184,
+      "answer": "Plato",
+      "acceptableAnswers": [
+        "Plato",
+        "The Plato"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43fc5"
+    },
+    {
+      "id": "47ceae93-121f-4786-a441-ee37ef301975",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "A dyslexic senator from this state used aides to help read the Pentagon Papers, leading to a 1972 Supreme Court ruling that Congressional aides fell under the Speech or Debate Clause. It's not Oregon, but a senator from here cast a vote against the Gulf of Tonkin Resolution. This state had a governor who fired Public Safety Commissioner Walt Monegan, who said he refused to fire State Trooper Mike Wooten, the governor's ex-brother-in-law. A senator from here infamously described the Internet as a \"series of tubes\" and died in a 2010 plane crash. Ted Stevens was from this state, which was once governed by the author of the book Going Rogue, a former mayor of Wasilla. It was the site of the 1989 Exxon Valdez oil spill. For 10 points, name this state once governed by Sarah Palin.",
+      "powerMarkPosition": 386,
+      "answer": "Alaska",
+      "acceptableAnswers": [
+        "Alaska",
+        "The Alaska"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34bdd"
+    },
+    {
+      "id": "15820b27-3c60-4176-a88f-9b6707536d4b",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "Specific term required. In a story recorded by DT Niane, one of these people reminds a king of a hunter who prophesied that \"the silk-cotton tree emerges from a tiny seed.\" A partridge singing the Dausi predicts that a prince of Wagadu will become one of these people. In that story collected by Leo Frobenius, after a particular object is soaked in the blood of his sons during battle, Gassire becomes one of these people. One of these people serves as an emissary to the owner of a chamber of human skin and exhorts the son of Sogolon to \"arise.\" That example of these people is briefly stolen by the owner of a magical balafon (\"BAL-uh-fon\"). Balla Fasséké witnesses the defeat of Sumanguru while serving Sundiata as one of these people. For 10 points, give this term for West African advisors who functioned as historians, diplomats, and praise-singers.",
+      "powerMarkPosition": 528,
+      "answer": "griot",
+      "acceptableAnswers": [
+        "griot",
+        "griottes",
+        "djeli",
+        "guewel",
+        "jeseré",
+        "mabo",
+        "accept praise singers until read",
+        "prompt on oral historian",
+        "bard",
+        "singer",
+        "storyteller",
+        "poet",
+        "musician",
+        "advisors",
+        "diplomats by asking “what is the specific cultural term?”",
+        "The griot"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be061e6537282fb101c5f2"
+    },
+    {
+      "id": "fe36af78-d7c0-4631-b5c1-94f96e840ed7",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "The illumination of the Cervera Bible depicts one of these objects against a blue background and derives from a symbolic passage about Zerubbabel, the governor of Judah. Psalm 67 is traditionally depicted in the shape of these objects on shiviti documents. For one design, Gabriel and Maxim Shamir removed prohibited depictions of animals from one of these objects. In Yemen, these objects were depicted as a symbolic series of squares and circles in straight lines and were based on drawings in Maimonides' Mishneh Torah. Depictions of these objects are central to the idea of pirsumei nisa, which roughly translates to \"publicizing the miracle.\" A dream of Zechariah inspired depictions of this object flanked by olive trees. Soldiers hoist this looted object in a scene from the Arch of Titus. For 10 points, depictions of what object from the Temple include seven branches?",
+      "powerMarkPosition": 495,
+      "answer": "menorah",
+      "acceptableAnswers": [
+        "menorah",
+        "the temple menorah",
+        "candelabra",
+        "prompt on lamp",
+        "lampstand",
+        "The menorah"
+      ],
+      "source": "qbreader",
+      "sourceId": "68a26a3d2371a424b101c9d9"
+    },
+    {
+      "id": "48a7344e-7065-43f1-bb49-e828d2394859",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for cerebellum function. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this cerebrum-related structure.",
+      "powerMarkPosition": 95,
+      "answer": "Cerebrum",
+      "acceptableAnswers": [
+        "cerebrum",
+        "Cerebrum"
+      ],
+      "explanation": "The cerebrum is a key component of the Nervous system, involved in cerebellum function.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "fcd5dc79-69fa-4e36-997c-76c654ddc4f7",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "Semiotics was applied to the deconstruction of this profession by J. B. Harley, who wrote several volumes on its history. In the 18th century, a standard in this profession named for Rigobert Bonne replaced one named for Johannes Werner. The Pizigano brothers worked in this profession. Charles Hapgood cited Piri Reis's work in this profession to promote conspiracy theories. The so-called \"Majorcan\" school of this profession, mostly made of Catalonian Jews, included Abraham Cresques. Medieval members of this profession made heavy use of a so-called \"T-O\" pattern and created numerous portolans. A man of this profession honored Amerigo Vespucci by using the term \" America\" on his Universalis Cosmographia. For 10 points, name this profession of Martin Waldseemuller and Gerardus Mercator.",
+      "powerMarkPosition": 469,
+      "answer": "cartography",
+      "acceptableAnswers": [
+        "cartography",
+        "cartographer",
+        "accept any answer that indicates the making of maps",
+        "prompt on geography",
+        "geographer",
+        "The cartography"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a878b"
+    },
+    {
+      "id": "6c8ed494-0c93-4857-a695-344383334e59",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "One form of this element cleaves alkenes at their double bond. The active compound in photodynamic therapy is this element's singlet state, while MO theory is needed to explain the paramagnetism of its more common triplet state. This element is given off upon heating of potassium chlorate, and its liquid state is a translucent blue. This element is the most abundant in the Earth's crust, and it was discovered independently by Carl Wilhelm Scheele and Joseph Priestley. Making up about a fifth of the Earth's atmosphere, for 10 points, name this element necessary for respiration and combustion with atomic number 8.",
+      "powerMarkPosition": 180,
+      "answer": "oxygen",
+      "acceptableAnswers": [
+        "oxygen",
+        "The oxygen"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be7478"
+    },
+    {
+      "id": "833d8884-d50f-4d17-97cf-7d8f9bf429c2",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "In this city, two soldiers were branded with an \"M\" after an event that occurred on King Street. After the ship Dartmouth arrived in this city, conspirators planned at its Old South Meeting House. The death of Crispus Attucks occurred after volleys of snowballs were thrown at soldiers during a riot in this city. The Intolerable Acts were passed after members of the Sons of Liberty dumped tea into this city's harbor. For 10 points, name this city, whose \"Massacre\" and \"Tea Party\" helped spark the American Revolution.",
+      "powerMarkPosition": 317,
+      "answer": "Boston",
+      "acceptableAnswers": [
+        "Boston",
+        "Boston Massacre",
+        "Boston Tea Party",
+        "The Boston"
+      ],
+      "source": "qbreader",
+      "sourceId": "66e1bbb5b3ec1cfe3cd4a5d3"
+    },
+    {
+      "id": "50c5a2b4-ae48-441c-873c-0a1985b25bdb",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "Jim Traficant was the last person to vote for a member of another party for this office. This position was stripped of much of its power after Democrats and rogue Republicans team up during the 1910 \"Cannon Revolt,\" which eliminated its dual role as chairman of the rules committee, while one of the holders of this position held after-hours \"Board of Education\" meetings. This office, which was first held by Frederick Muhlenberg, was later held by a man from Massachusetts who claimed that \"all politics is local.\" Sam Rayburn, Tip O'Neill, and James Blaine all held, for 10 points, which position whose current orange inhabitant is John Boehner?",
+      "powerMarkPosition": 372,
+      "answer": "Speaker",
+      "acceptableAnswers": [
+        "Speaker",
+        "The Speaker"
+      ],
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faada3"
+    },
+    {
+      "id": "547f7901-6f87-4608-a325-d439eb69cf90",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "William Alexander Morgan helped overthrow a government in this country, whose inept post-war leadership included Grau San Martin and Prio Socarras. This country sent soldiers overseas to assist the MPLA, and in the 1990s its economy collapsed in the \"Special Period\" due to a drop in sugar subsidies from its main trading partner. A leader of this country attacked the Moncada Barracks in 1953, delivered the \"History Will Absolve Me\" speech, and led the 26 of July Movement. Citizens of this country sought exile in the Mariel boatlift, and it was once ruled by Fulgencio Batista. This subject of the Teller and Platt Amendments saw fighting at San Juan Hill in the Spanish-American War. For 10 points, name this Communist country long ruled by Fidel Castro.",
+      "powerMarkPosition": 408,
+      "answer": "Cuba",
+      "acceptableAnswers": [
+        "Cuba",
+        "The Cuba"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aeac2"
+    },
+    {
+      "id": "72c7a635-722f-4211-8723-b27216e06aad",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "In response to this work, Mohammad Khatami proposed a theory that replaced one word in this work's title with the word \"Dialogue.\" Its title had previously appeared in an Atlantic Monthly article written by Bernard Lewis about Islam. This work notes that Alfred Toynbee had identified 21 of the title concepts, but now there are only six, although Ethiopia and Haiti are \"lone states.\" Originally published in Foreign Affairs, this work was later expanded into a book with the words \"and the Remaking of World Order\" appended to its title. A direct response to Francis Fukuyama's The End of History and the Last Man, this essay organizes the title groups into categories like \"Western,\" \"Eastern,\" and \"Muslim.\" For 10 points, name this Samuel Huntington essay which predicts the next major conflict will stem from people's cultural and religious identities.",
+      "powerMarkPosition": 539,
+      "answer": "Clash of Civilizations",
+      "acceptableAnswers": [
+        "Clash of Civilizations",
+        "The Clash of Civilizations and the Remaking of World Order",
+        "The Clash of Civilizations"
+      ],
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c6119349ade"
+    },
+    {
+      "id": "db563576-d238-492d-90fa-503f98abbc90",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "In one novel with this adjective in the title, The Marshal is stricken with the title illness and not cured by Dr. Galen, while another sees Arabella March face off with Adam Salton, who uses dynamite to destroy the title creature. In addition to a Karel Capek novel about a plague of this type, and Bram Stoker's The Lair of the [this] Worm, this color describes the jacket of a sailor on the Neversink in a Melville work and a woman in a Wilkie Collins novel, as well as titling a novel about Jack Gladney, a professor of Hitler Studies. For 10 points, identify this color which accompanies \"Noise\" in the title of a Don DeLillo work, the color of a man whose burden was discussed by Rudyard Kipling.",
+      "powerMarkPosition": 439,
+      "answer": "white",
+      "acceptableAnswers": [
+        "white",
+        "The white"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a871"
+    },
+    {
+      "id": "44ef0bfe-28af-40b1-a73a-8a841d4dba96",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "text": "One form of this technique was first fully described by Lev Koblyakov. A piece composed with this technique includes \"gamelan-style\" rhythmic shifts, \"koto-style\" guitar playing, and has lyrics about a \"red caravan on the edge of a nail.\" This term was derided as \"almost without meaning\" by a prominent composer who uses this technique, Charles Wuorinen. This technique was first used in a Rhythm Étude titled \"Modes of Values and Intensities\" by Messiaen (\"mess-YANN\"). A piece written with this technique has an ensemble built on a continuum of timbre from alto voice and alto flute through vibraphone and xylorimba, and has movements like \"L'artisanat furieux.\" The use of this technique characterized the Darmstadt School. It was used to write Le marteau sans maître by Pierre Boulez and many pieces by Karlheinz Stockhausen. For 10 points, name this musical technique derived from twelve-tone writing, which uses a \"row\" or \"series\" to generate all the parameters of a composition.",
+      "powerMarkPosition": 579,
+      "answer": "serial",
+      "acceptableAnswers": [
+        "serial",
+        "more specific types of serialism",
+        "do not accept “twelve-tone”",
+        "The serial"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0dc7a"
+    },
+    {
+      "id": "80b649a0-cc8e-474d-9800-4b2b98d8e44f",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "This book's narrator is dissuaded from vegetarianism when he smells a tasty cod, noting \"so convenient a thing it is to be a reasonable creature.\" This book details an attempt to arrive at moral perfection by coming up with thirteen virtues and keeping track of which ones are not achieved in a weekly ledger. Its first part is addressed to its author's son William, and explains the writing of the Silence Do-good letters. It also details its author's founding of the Junto, marriage to Deborah Read, and creation of the first Subscription Library. For 10 points, name this book written by the inventor of a namesake stove and bifocals about his own life, which recalls a famous kite experiment.",
+      "powerMarkPosition": 309,
+      "answer": "Autobiography",
+      "acceptableAnswers": [
+        "Autobiography",
+        "Benjamin Franklin’s Autobigraphy",
+        "The Memoirs of Benjamin Franklin",
+        "accept “Ben” for Benjamin",
+        "The Autobiography"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da890"
+    },
+    {
+      "id": "43f57dc5-0a0e-40d8-a725-c4817a0b5a4d",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for lung volumes and capacities. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this diaphragm-related structure.",
+      "powerMarkPosition": 82,
+      "answer": "Diaphragm",
+      "acceptableAnswers": [
+        "diaphragm",
+        "Diaphragm"
+      ],
+      "explanation": "The diaphragm is a key component of the Respiratory system, involved in lung volumes and capacities.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c71152bd-b36e-4bce-b9fa-39c39f9dd418",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "A director with this first name was inspired by the friendship of James Joyce and Samuel Beckett to make a film about a garbageman who writes a pornographic \"great American poem.\" A director with this first name referenced his editing job on Norman Jewison's The Thomas Crown Affair in a scene in which a married woman fails to seduce a man by re-enacting that movie's \"chess kiss\" scene. A director with this first name used deadpan dialogue in 90s indie films like Amateur, Trust, and Henry Fool. In a film by a director with this first name, a man leaves his apartment for the first time in decades as the soundtrack plays a funk remix of \"Thus Spake Zarathustra.\" A lifelong gardener carries a remote around Washington, D.C. in a satire by a director with this first name, who had Cat Stevens score a rom-com whose title lovers have a 60-year age gap. For 10 points, the director of Being There and Harold and Maude had what first name and the surname Ashby?",
+      "powerMarkPosition": 593,
+      "answer": "Hal",
+      "acceptableAnswers": [
+        "Hal",
+        "Hal Hartley",
+        "Hal Ashby",
+        "accept William Hal Ashby",
+        "prompt on William by asking “what was the first name of his stage name?”",
+        "The Hal"
+      ],
+      "source": "qbreader",
+      "sourceId": "67aecd57e40fc2c0d1676116"
+    },
+    {
+      "id": "7c6c04b0-eb98-4e72-92ff-90109ea32a0b",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "In the Chinese epic Journey to the West, Xuanzang [shi-AHN tsang] is nearly eaten by female monsters in the form of this creature in Gossamer Cave. A man in this form taught the Navajo how to build looms, and his wife taught them to weave. A woman who competed against Athena was turned into this creature, and was named Arachne. In African folklore, the trickster Anansi is one of these animals. For 10 points, name this eight-legged creature.",
+      "powerMarkPosition": 232,
+      "answer": "spider",
+      "acceptableAnswers": [
+        "spider",
+        "The spider"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f20ef"
+    },
+    {
+      "id": "b3bbc8d3-3716-477e-a625-71e7a515f139",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "Matthew Kroenig's book about the \"logic\" of these things critiques Robert Jervis, who had published a book on their \"illogic\" decades earlier. These things are likened to \"crystal balls\" foretelling the consequences of war in works on their ethics written by one of the theorists of complex interdependence. The stability-instability paradox refers to these things' ability to increase minor conflict while decreasing major conflict. Scott Sagan and Kenneth Waltz debated whether the world is a better place with these things in it. Defensive realists believe that these objects prevent war through their second-strike capabilities. For 10 points, what weapons may prevent war through the threat of mutually assured destruction?",
+      "powerMarkPosition": 457,
+      "answer": "nuclear",
+      "acceptableAnswers": [
+        "nuclear",
+        "nuclear bombs",
+        "nuclear warheads",
+        "accept nukes",
+        "accept weapons of mass destruction",
+        "WMDs",
+        "prompt on bombs",
+        "missiles",
+        "warheads",
+        "prompt on weapons until read",
+        "The nuclear"
+      ],
+      "source": "qbreader",
+      "sourceId": "686e1e5a786d3dcf273bf5c7"
+    },
+    {
+      "id": "9636a8aa-3907-4c33-8548-a6175f26dc4b",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "This leader ordered the successful Operation Barras, which freed five soldiers held captive by the \"West Side Junglers.\" Under this leader, the Hutton Inquiry investigated the circumstances surrounding the death of David Kelly, who asserted that the September Dossier had been \"sexed up\" to exaggerate its urgency. This British prime minister signed the \"letter of eight\" and had his foreign policy criticized in the Chilcot Report. The British Army was dispatched to fight the RUF under this prime minister in the Sierra Leone Civil War. Brexit threatened the open borders requirements of an agreement signed by this prime minister with Bertie Ahern to end the Troubles signed on Good Friday. For 10 points, Britain entered the Iraq War under what \"New Labour\" prime minister succeeded by Gordon Brown?",
+      "powerMarkPosition": 514,
+      "answer": "Blair",
+      "acceptableAnswers": [
+        "Blair",
+        "Sir Anthony Charles Lynton Blair",
+        "The Blair"
+      ],
+      "source": "qbreader",
+      "sourceId": "66763419fe8264b343f11218"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "ed7afc90-2585-40e4-bcd2-270b6cc90cb8",
+      "linkedTossupId": "e4b587e1-18cc-4c86-9123-ed052752aae8",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "The student of Aristotle and son of Philip II, this Macedonian created a massive empire that included Persia after he defeated Darius III.",
+          "answer": "Alexander",
+          "acceptableAnswers": [
+            "Alexander",
+            "The Alexander"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Tsar defeated Charles XII of Sweden at the Battle of Poltava during the Great Northern War, an attempt to gain land on the Baltic Sea to open up Russia for trade with the West.",
+          "answer": "Peter",
+          "acceptableAnswers": [
+            "Peter",
+            "The Peter"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Otto the Great was the first emperor of this polity, and other leaders included Frederick Barbarossa and a dozen members of the Habsburg Dynasty. It dissolved after being defeated by Napoleon in 1806.",
+          "answer": "Holy Roman",
+          "acceptableAnswers": [
+            "Holy Roman",
+            "The Holy Roman"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about people with the epithet \"the Great\" for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1dd6"
+    },
+    {
+      "id": "41e0a9ef-65e0-484a-9e8c-0390fdc77a0d",
+      "linkedTossupId": "9300be1f-4511-4a51-8f13-586f57c64016",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this fifth pillar of Islam, a required trip to certain cities in Saudi Arabia.",
+          "answer": "Haj",
+          "acceptableAnswers": [
+            "Haj",
+            "The Haj"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The destination of the Hajj is this holiest city of Islam, from which Muhammad fled during the Hijra.",
+          "answer": "Mecca",
+          "acceptableAnswers": [
+            "Mecca",
+            "The Mecca"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Immediately after arriving in Mecca, pilgrims walk around this ancient house of worship, Arabic for \"cube,\" which was built by Abraham according to the Qur'an.",
+          "answer": "Ka'aba",
+          "acceptableAnswers": [
+            "Ka'aba",
+            "Kaaba",
+            "Ka'ba",
+            "Qaaba",
+            "The Ka'aba"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Every able-bodied Muslim is required to take this pilgrimage at least once in their lifetime. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b63c"
+    },
+    {
+      "id": "3485d1ce-5d20-44ca-a72e-08f406ec267e",
+      "linkedTossupId": "47ceae93-121f-4786-a441-ee37ef301975",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this controversial four-word phrase spoken at Expo 67. It was seen by many as a statement in support of a radical separatist movement.",
+          "answer": "Vive le Québec libre!",
+          "acceptableAnswers": [
+            "Vive le Québec libre!",
+            "“Long live free Québec!”",
+            "The Vive le Québec libre!"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The phrase \"Vive le Québec libre\" was uttered during a visit to Montreal by this President of France, who had previously led the Free French Forces during WWII, and came out of retirement to found the Fifth Republic.",
+          "answer": "de Gaulle",
+          "acceptableAnswers": [
+            "de Gaulle",
+            "The de Gaulle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Three years after the expo, the FLQ took De Gaulle's message to an extreme and kidnapped British trade commissioner James Cross. Pierre Trudeau responded by invoking this controversial statute, allowing the government to suspend certain civil liberties and detain civilians.",
+          "answer": "War Measures",
+          "acceptableAnswers": [
+            "War Measures",
+            "The War Measures"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The speaker of these words told a friend \"They will hear me over there, it will make waves!\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63059e1643cf02018762352c"
+    },
+    {
+      "id": "b312d686-825a-4e2a-a377-60b37aae0ae6",
+      "linkedTossupId": "15820b27-3c60-4176-a88f-9b6707536d4b",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this ancestral god of the Suwa clan, who fights the similarly-named Takemikazuchi (\"TAH-keh-MEE-kah-ZOO-chee\") in the first sumo wrestling match.",
+          "answer": "Takeminakata",
+          "acceptableAnswers": [
+            "Takeminakata",
+            "The Takeminakata"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Takeminakata is most commonly the grandson of this Japanese storm god and brother of Amaterasu.",
+          "answer": "Susano’o",
+          "acceptableAnswers": [
+            "Susano’o",
+            "Susanoo-no-Mikoto",
+            "The Susano’o"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Takeminakata succeeds his father Okuninushi (\"OH-KOO-nee-NOO-shee\") as the ruler of this historical region of Japan. This is where Okuninushi helps the hare of Inaba, and where Susanoo slays Yamato-no-Orochi.",
+          "answer": "Izumo",
+          "acceptableAnswers": [
+            "Izumo",
+            "Unshū",
+            "The Izumo"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Upon his arrival, this deity feuds with the native god Moreya for sovereignty over Nagano and central Japan. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db461ac"
+    },
+    {
+      "id": "b2302ee7-d241-41c7-9caf-196c9ab3f276",
+      "linkedTossupId": "fe36af78-d7c0-4631-b5c1-94f96e840ed7",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The City of God was written to console Christians in the aftermath of this historical event, which many contemporaries interpreted as punishment for the adoption of Christianity.",
+          "answer": "sack of Rome",
+          "acceptableAnswers": [
+            "sack of Rome",
+            "The sack of Rome"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The City of God, Augustine argued that the reference to \"six days\" in the creation narrative in this chapter of the Bible should be interpreted allegorically.",
+          "answer": "Genesis 1",
+          "acceptableAnswers": [
+            "Genesis 1",
+            "The Genesis 1"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Augustine reacts against the naturalistic explanations of religious phenomena set forth in the Divine Antiquities by this Roman scholar.",
+          "answer": "Varro",
+          "acceptableAnswers": [
+            "Varro",
+            "Varro Reaticus",
+            "The Varro"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about Augustine's City of God, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa5913201a41"
+    },
+    {
+      "id": "d825abb3-7da6-434f-ac90-43ce83472c15",
+      "linkedTossupId": "48a7344e-7065-43f1-bb49-e828d2394859",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with tonsils and malt.",
+          "answer": "lymph",
+          "acceptableAnswers": [
+            "lymph"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the lymph in the immune system?",
+          "answer": "Tonsils and MALT",
+          "acceptableAnswers": [
+            "Tonsils and MALT"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to tonsils and malt.",
+          "answer": "lymph node",
+          "acceptableAnswers": [
+            "lymph node"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "60e21994-59a1-4fe2-be18-8f298ade71ba",
+      "linkedTossupId": "fcd5dc79-69fa-4e36-997c-76c654ddc4f7",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Seleucid ambassador to the Mauryan court who wrote Indica about his experiences.",
+          "answer": "Megasthenes",
+          "acceptableAnswers": [
+            "Megasthenes",
+            "The Megasthenes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another Indica written by the historian Arrian describes this Macedonian king's campaigns against Indian rulers including Porous, who he defeated at the Battle of the Hydaspes.",
+          "answer": "Alexander",
+          "acceptableAnswers": [
+            "Alexander",
+            "The Alexander"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another Greek historian who spent a lot of time in the East was this author of the Anabasis and Cyropaedia, who commanded a retreat of a party of Greek mercenaries from Persia after their patron was defeated.",
+          "answer": "Xenophon",
+          "acceptableAnswers": [
+            "Xenophon",
+            "The Xenophon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The full text of this author's most famous work has been lost, but large parts of it are still present. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db46440"
+    },
+    {
+      "id": "8e0c6316-26c6-4bf4-9db4-b4dca34b9de7",
+      "linkedTossupId": "6c8ed494-0c93-4857-a695-344383334e59",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these particles, the quanta of light.",
+          "answer": "photon",
+          "acceptableAnswers": [
+            "photon",
+            "The photon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Quantum electrodynamics was developed by Tomonaga, Schwinger, and this physicist. This longtime professor at Caltech also developed the path integral formulation of quantum mechanics.",
+          "answer": "Feynman",
+          "acceptableAnswers": [
+            "Feynman",
+            "Richard Phillips Feynman",
+            "The Feynman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The energy of a photon is equal to its frequency times this constant, symbolized h. This constant, named for a German physicist, is approximately 6.626 times 10 to the negative 34th joule-seconds.",
+          "answer": "Planck",
+          "acceptableAnswers": [
+            "Planck",
+            "The Planck"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Two of these particles are produced when an electron and positron annihilate each other. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68b2ff0d8940d9f7c563a1e2"
+    },
+    {
+      "id": "4d60ffc1-6463-4f0f-a518-4e5a6fb9f77d",
+      "linkedTossupId": "833d8884-d50f-4d17-97cf-7d8f9bf429c2",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Washington's first battlefield experience came at Jumonville Glen, where he ambushed the French, retreated,and hastily built this fort for protection. This fort surrendered and was abandoned on July 4th, 1754.",
+          "answer": "Necessity",
+          "acceptableAnswers": [
+            "Necessity",
+            "The Necessity"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Battles of Fort Necessity and Jumonville Glen took place in what is now this U.S. state. In the winter of1777 to 1778, Washington set up camp in this state at Valley Forge, just outside Philadelphia.",
+          "answer": "Pennsylvania",
+          "acceptableAnswers": [
+            "Pennsylvania",
+            "The Pennsylvania"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At this 1781 battle, a series of temporary mini-forts called redoubts were assaulted, one by AlexanderHamilton on Washington's order. The British surrender at this Virginia battle effectively ended the Revolution.",
+          "answer": "Yorktown",
+          "acceptableAnswers": [
+            "Yorktown",
+            "The Yorktown"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Give the following about military encampments built or attacked by George Washington, for ten pointseach.",
+      "source": "qbreader",
+      "sourceId": "6837af64278db02eb79f1d29"
+    },
+    {
+      "id": "c9c1a993-f79b-436f-843b-e26454d3daae",
+      "linkedTossupId": "50c5a2b4-ae48-441c-873c-0a1985b25bdb",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this online magazine whose slogan is \"Free Minds and Free Markets.\" Nick Gillespie has written for this website wrote a book with this website's writer Matt Welch called The Declaration of Independents.",
+          "answer": "Reason",
+          "acceptableAnswers": [
+            "Reason",
+            "The Reason"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Reason has historically aligned itself with this American political party whose 2016 presidential candidate was Gary Johnson.",
+          "answer": "Libertarian",
+          "acceptableAnswers": [
+            "Libertarian",
+            "The Libertarian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other magazine, a socialist magazine published in New York, has been praised by people such as Noam Chomsky. Partially edited by Bhaskar Sunkara, this magazine supports political movements such as the Democratic Socialists.",
+          "answer": "Jacobin",
+          "acceptableAnswers": [
+            "Jacobin",
+            "The Jacobin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An article on this website by Elizabeth Nolan Brown detailed how FOSTA has actually not reduced the long-term prevalence of online ads for sexual activities. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db464c5"
+    },
+    {
+      "id": "08fe8f51-fea6-46e3-9445-449ff2d707c1",
+      "linkedTossupId": "547f7901-6f87-4608-a325-d439eb69cf90",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "A national holiday is celebrated on July 14 of each year in France to commemorate the 1789 storming of this prison governed by the Marquis de Launay.",
+          "answer": "Bastille",
+          "acceptableAnswers": [
+            "Bastille",
+            "The Bastille"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The National Convention reasserted power over the Committee of Public Safety on the ninth of this Revolutionary calendar month, executing Robespierre and over 100 other Jacobins.",
+          "answer": "Thermidor",
+          "acceptableAnswers": [
+            "Thermidor",
+            "The Thermidor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After the Third Estate declared itself the National Assembly, royal officials locked it out of the meeting hall, resulting in this declaration.",
+          "answer": "Oath",
+          "acceptableAnswers": [
+            "Oath",
+            "Le serment du jeu de paume",
+            "The Oath"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these things from the French Revolution, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9840379"
+    },
+    {
+      "id": "62c5da9b-e067-4d55-a9a7-9701440034c3",
+      "linkedTossupId": "72c7a635-722f-4211-8723-b27216e06aad",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this Middle Eastern country where Ali Abdullah Saleh was replaced in 2012 by Abd Rabbuh Mansur Hadi, who is currently embroiled in a civil war.",
+          "answer": "Yemen",
+          "acceptableAnswers": [
+            "Yemen",
+            "The Yemen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The major non-governmental parties in the Yemeni Civil War are al-Qaeda in the Arabian Peninsula and this northern group, named for a Zaidi cleric, that took over the government for 4 months in 2014.",
+          "answer": "Houthi",
+          "acceptableAnswers": [
+            "Houthi",
+            "Ansar Allah",
+            "The Houthi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Saudi national is AQAP's chief bombmaker. He was behind the foiled 2009 Underwear Bomber, and packed his own brother's anus with plastic explosives in a failed assassination attempt in Jeddah.",
+          "answer": "Asiri",
+          "acceptableAnswers": [
+            "Asiri",
+            "The Asiri"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "British Ambassador Timothy Torlot was nearly killed in a 2010 bombing in this country. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba964af"
+    },
+    {
+      "id": "79708ed7-39a2-4393-b9ea-191a83c62cc3",
+      "linkedTossupId": "db563576-d238-492d-90fa-503f98abbc90",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this novel in which Étienne Lantier (ay-tee-EN lawn-tee-AY) becomes the leader of a coal miners' strike. It is named after a spring month of the French revolutionary calendar.",
+          "answer": "Germinal",
+          "acceptableAnswers": [
+            "Germinal",
+            "The Germinal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Germinal is part of the Rougon-Macquart (roo-GON-mah-CAR) cycle by this French author, a pioneer of naturalism.",
+          "answer": "Zola",
+          "acceptableAnswers": [
+            "Zola",
+            "Émile Édouard Charles Antoine Zola",
+            "The Zola"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Zola's novel La Bête humaine (la BET oo-MEN), Jacques Lantier is extremely attached to one of these objects he calls La Lison. In a Patricia Highsmith novel partly titled for one of these objects, Charles Anthony Bruno proposes that he and Guy Haines exchange murders.",
+          "answer": "train",
+          "acceptableAnswers": [
+            "train",
+            "locomotive",
+            "train/locomotive engine",
+            "accept Strangers on a Train",
+            "The train"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Early in this novel, the protagonist arrives in Montsou, where Maheu (mah-OO) gets him a job pushing carts at Le Voreux. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae832d"
+    },
+    {
+      "id": "7919fa0d-20ab-4771-b15a-6869d7108919",
+      "linkedTossupId": "44ef0bfe-28af-40b1-a73a-8a841d4dba96",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this composer who broke tradition by using the Luther Bible in his German Requiem. He wrote the Academic Festival Overture for the University of Breslau, which gave him an honorary degree.",
+          "answer": "Brahms",
+          "acceptableAnswers": [
+            "Brahms",
+            "The Brahms"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Brahms notably wrote one of these songs, utilizing lyrics from Des Knaben Wunderhorn. Brahms's song of this type was dedicated to Bertha Faber and her young child, and was intended to help him go to sleep.",
+          "answer": "lullaby",
+          "acceptableAnswers": [
+            "lullaby",
+            "Cradle Song",
+            "Wiegenlied",
+            "The lullaby"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Brahms's first symphony, which was dubbed \"Beethoven's 10th\" for its similarity to Beethoven's symphonies, was written in this key. Beethoven's 5th was also written in this key, commonly used for dramatic pieces.",
+          "answer": "C minor",
+          "acceptableAnswers": [
+            "C minor",
+            "The C minor"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This composer used Paganini's 24th caprice as the basis for his Variations on a Theme of Paganini. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edb4fedff988263841bbd3"
+    },
+    {
+      "id": "b6d2de8e-b57c-4645-bf51-7e6f4f01778c",
+      "linkedTossupId": "80b649a0-cc8e-474d-9800-4b2b98d8e44f",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Peter Weiss (\"VISE\") play, whose original 1964 production drew heavily from Antonin Artaud's \"Theater of Cruelty\". In this play, prisoners at the Charenton asylum re-enact a brutal murder.",
+          "answer": "Marat/Sade",
+          "acceptableAnswers": [
+            "Marat/Sade",
+            "The Persecution and Assassination of Jean‐Paul Marat as Performed by the Inmates of the Asylum of Charenton Under the Direction of the Marquis de Sade",
+            "The Marat/Sade"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This theater director directed the original 1964 production of Marat/Sade. This founder of the International Center for Theater Research was heavily influenced by the mystic George Gurdjieff (\"GUR-jeff\").",
+          "answer": "Brook",
+          "acceptableAnswers": [
+            "Brook",
+            "The Brook"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "As a child, Brook staged a full-length puppet version of this play, Shakespeare's longest by number of lines. Ophelia hands out flowers during her \"mad scene\" in this play.",
+          "answer": "Hamlet",
+          "acceptableAnswers": [
+            "Hamlet",
+            "The Hamlet"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Around 30 theatergoers per night walked out on the London revival of this play in 2011. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65d14218270be3aedf05a2e0"
+    },
+    {
+      "id": "f3031173-df8d-4ef7-9e5a-43cf0b67ccd0",
+      "linkedTossupId": "43f57dc5-0a0e-40d8-a725-c4817a0b5a4d",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with cartilage types.",
+          "answer": "synovial",
+          "acceptableAnswers": [
+            "synovial"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the synovial in the musculoskeletal system?",
+          "answer": "Cartilage types",
+          "acceptableAnswers": [
+            "Cartilage types"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to cartilage types.",
+          "answer": "cartilage",
+          "acceptableAnswers": [
+            "cartilage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "2be6275e-fbc3-4179-bbe6-9d8d50c75b4b",
+      "linkedTossupId": "c71152bd-b36e-4bce-b9fa-39c39f9dd418",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify these artists whose work was abruptly halted when they all succumbed to plague. Sixty years later, a project begun by this group was completed by Jean Colombe.",
+          "answer": "Limbourg",
+          "acceptableAnswers": [
+            "Limbourg",
+            "Herman",
+            "Paul",
+            "and Johan Limbourg",
+            "The Limbourg"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Limbourg brothers'Tres Riches Heures (\"tray reesh ER\") was produced for the Duc de Berry in this style, best exemplified by Gentile da Fabriano's Strozzi Altarpiece. It peaked in popularity at the start of the quattrocento.",
+          "answer": "International Gothic",
+          "acceptableAnswers": [
+            "International Gothic",
+            "Gothic",
+            "The International Gothic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Da Fabriano's altarpiece is dominated by a version of this scene populated by such exotic animals as lions, camels and monkeys. In Botticelli's version of this scene, Cosimo de' Medici and his sons present frankincense and myrrh to the Virgin Mary.",
+          "answer": "Adoration of the Magi",
+          "acceptableAnswers": [
+            "Adoration of the Magi",
+            "The Adoration of the Magi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An \"intermediate painter\" sometimes identified as Barthelemy van Eyck contributed to a project undertaken by these artists. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db4629f"
+    },
+    {
+      "id": "e10f3ee8-f652-4575-abc5-00cf00c8fc4b",
+      "linkedTossupId": "7c6c04b0-eb98-4e72-92ff-90109ea32a0b",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this snake-haired Gorgon from Greek myth, whose gaze turned those who looked at her to stone.",
+          "answer": "Medusa",
+          "acceptableAnswers": [
+            "Medusa",
+            "The Medusa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Greek hero slew Medusa with the help of a reflective shield, which allowed him to see her withoutbeing frozen by her gaze.",
+          "answer": "Perseus",
+          "acceptableAnswers": [
+            "Perseus",
+            "The Perseus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Perseus cut off Medusa's head and gave it to Athena, who had set it into the center of this object, her shield.",
+          "answer": "Aegis",
+          "acceptableAnswers": [
+            "Aegis",
+            "The Aegis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This mythical figure was the mortal sister of Stheno and Euryale[yoo-REE-ah-lee], and she wascursedinto her most famous form by Athena. For ten points each,",
+      "source": "qbreader",
+      "sourceId": "6837af67278db02eb79f1dfe"
+    },
+    {
+      "id": "13e95909-0844-4c70-a4a4-854d2dc1faea",
+      "linkedTossupId": "b3bbc8d3-3716-477e-a625-71e7a515f139",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this economist, who showed in that article that a competitive equilibrium in an asset market could not exist with costly-but-accurate information since the price would convey information and therefore make paying for it sub-optimal.",
+          "answer": "Stiglitz",
+          "acceptableAnswers": [
+            "Stiglitz",
+            "The Stiglitz"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "That article is a critique of this concept, which at the time held that asset prices always reflect all available information. Subsequent refinements of this concept have made it either false or tautological.",
+          "answer": "Efficient Markets Hypothesis",
+          "acceptableAnswers": [
+            "Efficient Markets Hypothesis",
+            "The Efficient Markets Hypothesis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An entirely different critique of EMH from complexity theory was proposed by Philip Maymin, who showed that markets are efficient if and only if [this statement]. Since this statement is probably not correct, markets are probably not efficient because they cannot be an algorithm capable of solving a sufficiently complex problem.",
+          "answer": "P=NP",
+          "acceptableAnswers": [
+            "P=NP",
+            "The P=NP"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man wrote a 1980 article with Sanford Grossman entitled \"On the Impossibility of Informationally Efficient Markets.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b2215"
+    },
+    {
+      "id": "cfb08424-1be8-49f2-b903-2f91e4203dbd",
+      "linkedTossupId": "9636a8aa-3907-4c33-8548-a6175f26dc4b",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this explorer, who in 1488 became the first European to sail around the southern tip of Africa.",
+          "answer": "Dias",
+          "acceptableAnswers": [
+            "Dias",
+            "The Dias"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Dias died in an expedition where he led a ship under this explorer, who was supposed to follow Da Gama's path to India. He apparently sailed southwest from the Cape Verde islands and ended up discovering Brazil.",
+          "answer": "Cabral",
+          "acceptableAnswers": [
+            "Cabral",
+            "The Cabral"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Portuguese explorer displaced some Muslim rulers of Goa in the early 1500s, and then went on to father more children after his conquest of Malacca.",
+          "answer": "Albuquerque",
+          "acceptableAnswers": [
+            "Albuquerque",
+            "The Albuquerque"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His crew erected a cross at Algoa Bay, and apparently refused to continue the journey after they saw the African coast turning north-eastward. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fe05"
+    }
+  ]
+}

@@ -1,0 +1,1137 @@
+{
+  "packetId": "packet-078",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Philosophy",
+    "Science",
+    "Literature",
+    "History",
+    "Geography",
+    "Fine Arts",
+    "Mythology",
+    "Human Body"
+  ],
+  "tossups": [
+    {
+      "id": "400aaef2-18c3-4bda-a25d-00eb927482da",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "In its 36th and final chapter, we learn that the daughters of Zelophehad did as the Lord commanded and married sons of their father's brothers. In the beginning of the book, a divinely-commanded census is taken, while later chapters feature a woman who becomes leprous and a mission in which twelve spies are sent from Paran to . It also describes the revolt of Korah, Dathan, and Abiram, and features Barak's summons of Balaam, whose ass is notoriously recalcitrant. For 10 points, name this book of the Old Testament which comes between Leviticus and Deuteronomy.",
+      "powerMarkPosition": 329,
+      "answer": "Numbers",
+      "acceptableAnswers": [
+        "Numbers",
+        "The Numbers"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fa1a"
+    },
+    {
+      "id": "4c2e65de-1ce6-4d64-b60e-268810d3277f",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "The poorwill is the only bird to demonstrate this behavior, which can be defined as sustained torpor. It is called estivation (\"ess-tiv-AY-shun\") if it occurs during the summer. Animals must either collect or eat lots of food during the fall so that they do not starve while doing it. For 10 points, name this behavior in which an animal goes into a deep sleep for the entire winter.",
+      "powerMarkPosition": 177,
+      "answer": "hibernation",
+      "acceptableAnswers": [
+        "hibernation",
+        "word forms",
+        "The hibernation"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec667f"
+    },
+    {
+      "id": "3320e13d-4d00-48e4-a886-82a9e6b50d12",
+      "category": "Literature",
+      "subcategory": "Other Literature",
+      "difficulty": "high_school",
+      "text": "In a poem by this author, he mentions the time \"when the sorrows lays us low\" and describes \"the taste of fruit / the taste of water.\" This author of \"Shinto\" wrote a story in which an object has the power to create obsession when an individual glances at it. In another story by this author, Scharlach kills a detective named Lonnrot, who was investigating three murders at the time. This author of \"Death and the Compass\" penned a story in which a point from the basement of Carlos Daneri allows one to see every point in the universe, titled \"The Aleph.\" For 10 points, Name this Argentine author whose stories are collected in Ficciones.",
+      "powerMarkPosition": 406,
+      "answer": "Borges",
+      "acceptableAnswers": [
+        "Borges",
+        "The Borges"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e9b655469ef3ae75f63c16"
+    },
+    {
+      "id": "bdb408f0-a938-42de-9790-e2f76d46ad74",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "This work's fourth section includes a calculation of the cost of the British Navy, arguing that America should build a navy herself. Royalties from this work were donated to the Continental Army by its author, who published it anonymously. This work notes the absurdity of an island ruling a continent, and argues that the colonies should declare independence from Britain. For 10 points, name this 1776 pamphlet written by Thomas Paine.",
+      "powerMarkPosition": 259,
+      "answer": "Common Sense",
+      "acceptableAnswers": [
+        "Common Sense",
+        "The Common Sense"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318aca25"
+    },
+    {
+      "id": "e9938cb2-4b95-4910-a018-d04b7203f7ed",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "This country, said to be \"at war\" with feral cats, recently announced a five-year plan to kill them with a toxic gel. An airline passenger was fined nearly $2000 for bringing McDonald's food into this country. The Great Emu War was waged in this country. After the American Revolution, England sent many of its convicts to penal colonies in this modern-day country's New South Wales. For ten points, name this country and island continent with capital at Canberra.",
+      "powerMarkPosition": 219,
+      "answer": "Australia",
+      "acceptableAnswers": [
+        "Australia",
+        "The Australia"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f723bf56e0dff73abed2d"
+    },
+    {
+      "id": "cddac725-0994-400b-a5a4-6373701600cb",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "One proposal regarding this legislation would have freed slaves on their 25th birthday; the Senate's refusal to accept that Tallmadge Amendment delayed this agreement by a year. The Dred Scott case ruled it unconstitutional, though it had already been repealed by Stephen Douglas's Kansas-Nebraska Act. Maine joined the union as a free state via, for 10 points, what agreement that established a certain slave state west of the Mississippi River?",
+      "powerMarkPosition": 181,
+      "answer": "Missouri Compromise",
+      "acceptableAnswers": [
+        "Missouri Compromise",
+        "The Missouri Compromise"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e6a0924256318ac7fc"
+    },
+    {
+      "id": "d1e347ac-f48f-451f-9c3e-a9dfafadece4",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "In response to this action, a presidential candidate stood on a flatbed truck in Indiana and urged Americans to show \"love and wisdom.\" It targeted a man who was working to support striking sanitation workers. The target of this action was standing on the balcony of the Lorraine Motel and had given the \"I've Been to the Mountaintop\" speech the night before. This action was carried out by a fugitive named James Earl Ray in Memphis, Tennessee. For 10 points, name this April 4, 1968, murder of a Nobel Peace Prize winning civil rights leader.",
+      "powerMarkPosition": 209,
+      "answer": "assassination",
+      "acceptableAnswers": [
+        "assassination",
+        "the assassination of MLK",
+        "accept things like \"murder\" for assassination",
+        "The assassination"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0cd04"
+    },
+    {
+      "id": "4652e7ae-4d46-4774-992c-f0ac9129fdf1",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "An artist collaborated with physicist Thomas Mee to surround the Pepsi-Cola Pavilion with this substance during Expo '70. Works made up of this substance and illuminated with projections arranged by Joan Brigham, Otto Piene, and Paul Earls made up the piece Center Beam displayed at documenta 6. Rocks and this sort of substance makeup and title a Robert Morris artwork at Western Washington University. Fujiko Nakaya is best known for her artworks made of this material, such as one located above a pond in the Canberra National Gallery sculpture garden and another located just outside the Guggenheim Bilbao. It's not fire since that's only a substance in mythology questions, but Jean-Paul Riopelle's Montreal public sculpture La Joute produces patterns of this substance cyclically over 30 minutes. This substance was used to create the namesake effect in Diller Scofidio + Renfro's Blur Building. Machines for producing this substance on stage often use mixtures of water and glycerin that are chilled or heated. For 10 points, what substance could be employed in sculpture or stagecraft using atomizing nozzles?",
+      "powerMarkPosition": 886,
+      "answer": "gas",
+      "acceptableAnswers": [
+        "gas",
+        "steam",
+        "fog",
+        "water vapor",
+        "smoke",
+        "mist",
+        "prompt on water",
+        "The gas"
+      ],
+      "source": "qbreader",
+      "sourceId": "676a112a97acc2cc958b3166"
+    },
+    {
+      "id": "2d5f63cc-b766-423b-bb7f-0ae85b3783a7",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "Music from \"Święty Boże [\"sh-VYEN-tee bo-zhe], the Polish translation of the Triagon, appears in one of these works composed by Krzysztof Penderecki [\"KRIS-toff pen-duh-RET-ski\"]. Four offstage trumpets build up to an orchestral crescendo before a vocal bass solo in a section of one of these works which was composed for Alessandro Manzoni and written by Giuseppe Verdi; that section is the \"Tuba Mirum.\" Franz von Walsegg commissioned one of these works from Mozart so he could pass it off as his own; that work cuts off after the first 8 bars of the \"Lacrimosa\" section and contains a notable \"Dies Irae.\" For 10 points, name these masses for the dead, such as Mozart's unfinished D minor one.",
+      "powerMarkPosition": 355,
+      "answer": "requiem",
+      "acceptableAnswers": [
+        "requiem",
+        "mass for the dead until read",
+        "The requiem"
+      ],
+      "source": "qbreader",
+      "sourceId": "639f712311983f92aa71f78a"
+    },
+    {
+      "id": "44ec976d-d1a8-4ba9-be7d-d1a0b8a6970c",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "This composer wrote his \"Coronation Concerto\" with unfinished parts for the left hand. Another of this composer's piano concertos was used in a film depicting the Danish tightrope walker, Elvira Madigan. This composer only wrote two of his forty-two symphonies in a minor key, both the \"Little\" and \"Great\" G Minor Symphonies. For 10 points, name this German \"child prodigy,\" known for his Eine Kleine Nachtmusik.",
+      "powerMarkPosition": 239,
+      "answer": "Mozart",
+      "acceptableAnswers": [
+        "Mozart",
+        "The Mozart"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6bad0"
+    },
+    {
+      "id": "1bf655a5-bb1f-4f43-a6a4-1631d15ba879",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "A folk hero from this country died from exhaustion after completing the construction of a tunnel, which he had dug faster than a steam drill. That \"steel-driving man\" from this country was named John Henry. Another folk hero from this country had a pet blue ox named Babe and was renowned for his skill at lumberjacking. For 10 points, name this country whose folk heroes include Paul Bunyan.",
+      "powerMarkPosition": 257,
+      "answer": "United States",
+      "acceptableAnswers": [
+        "United States",
+        "just America",
+        "the USA",
+        "other obvious equivalents",
+        "The United States"
+      ],
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6edc3"
+    },
+    {
+      "id": "cc61e788-e990-435a-b2fd-a76209e1dde3",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "text": "Horns and trumpets alternate short phrases with strings to open an A major symphony by this composer. The imposing four-note figure C-sharp, D, F-sharp, C-sharp opens the first of two intermezzi by this composer. In the scherzo of another symphony by this composer, the trio develops from an oboe motif consisting of the notes E, D, B, D, C. This composer wrote symphonic pictures of (+) Heinrich Heine and Ivan Turganev. The andante comodamente second movement of a symphony by this composer opens and closes with a section in which harp and first violins oscillate in eighth notes between G and E-flat. That symphony's lyricism and use of folk songs emulated Tchaikovsky, who recommended this composer for their two conducting positions. For 10 points, tuberculosis cut short the career of what Russian composer, best known for their first symphony in G minor?",
+      "powerMarkPosition": 640,
+      "answer": "Kalinnikov",
+      "acceptableAnswers": [
+        "Kalinnikov",
+        "The Kalinnikov"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ead0bf8c91030f69d5bb44"
+    },
+    {
+      "id": "83bc78aa-65cd-4552-a4e5-367bbba7a5fe",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "The main character in this novel lives in the exclusive Floral Heights section of the city of Zenith. His daughter Verona is 22 years old and is a recent graduate of Bryn Mawr, his son is named after Teddy Roosevelt, and his other daughter is named Tinka. The titular character's neighbor, Howard Littlefield, is an executive at the Zenith Street Traction Company. The titular character's closest friend is Paul Riesling, and he also devises many ridiculous schemes to quit smoking. For ten points, name this novel about a 46 year old real-estate dealer written by Sinclair Lewis.",
+      "powerMarkPosition": 289,
+      "answer": "Babbitt",
+      "acceptableAnswers": [
+        "Babbitt",
+        "The Babbitt"
+      ],
+      "source": "qbreader",
+      "sourceId": "6531aa9dcde02a8be25ff2c4"
+    },
+    {
+      "id": "92b1ef42-e0db-4d05-8c10-d0caaf34bbe9",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "The 1638 Portsmouth Compact established a settlement that would become part of this colony. Its founder published The Bloody Tenet of Persecution in 1644 and purchased land for this colony from the Narragansett Indians. Anne Hutchinson fled religious persecution in Massachusetts to join this colony with the support of Roger Williams, its founder. For 10 points, name this colony in New England with capital Providence.",
+      "powerMarkPosition": 235,
+      "answer": "Rhode",
+      "acceptableAnswers": [
+        "Rhode",
+        "The Rhode"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e9a0924256318acbdd"
+    },
+    {
+      "id": "ecb527de-79e0-49de-89e6-896deb18b575",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "A work of \"theory-fiction\" from this country that discusses ideas like the \"Tellurian Insurgency\" against \"Solar Capitalism\" is entitled Cyclonopedia. An author from this country wrote a book that recounts an incident in Oklahoma in which a group of students tortured another student who they suspected of being a secret police agent. The narrator of that book meets a man who she calls her \"magician\" after being expelled from a university post. A girl from this country is sent to Vienna to attend a French school at the end of \"The Story of a Childhood,\" the first part of an autobiographical graphic novel by an author born in this country. A memoir from this country is about a book club whose members read The Great Gatsby and a novel by Vladimir Nabokov. For 10 points, name this birth country of Marjane Satrapi (\"mar-ZHAHN sah-trah-pee\") and Azar Nafisi, the authors of Persepolis and Reading Lolita in Tehran.",
+      "powerMarkPosition": 334,
+      "answer": "Iran",
+      "acceptableAnswers": [
+        "Iran",
+        "Islamic Republic of Iran",
+        "Jomhuri-ye Eslami-ye Iran",
+        "Persia",
+        "The Iran"
+      ],
+      "source": "qbreader",
+      "sourceId": "6326bf0f692d593d1d7a8bae"
+    },
+    {
+      "id": "3e07b08c-fb44-48fd-ad71-b49816869775",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for heart valves and their functions. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this atrium-related structure.",
+      "powerMarkPosition": 84,
+      "answer": "Atrium",
+      "acceptableAnswers": [
+        "atrium",
+        "Atrium"
+      ],
+      "explanation": "The atrium is a key component of the Cardiovascular system, involved in heart valves and their functions.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "81181f4e-14cf-4fb9-85ec-5bff9935d134",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "In functional analysis, two types of this concept differ in whether they allow for infinite sums or not; those are the Schauder and Hamel types. Given a set of this type in a function's target space, the function is continuous if and only if the preimage of every element of this set is open. A free module is a module equipped with a set of this type. Taking unions of elements from this set yields all elements of a topology. An algorithm for modifying a set of this type forms an element \"u sub n\" by taking \"v sub n\" and subtracting the projections of each previous \"u sub i\" onto \"v sub n;\" that orthonormalization is called the Gram-Schmidt process. The \"standard\" one for Rn (\"R-n\") is the set of unit vectors, and the number of elements in this set equals the dimension of a vector space. For 10 points, give this term for a set of linearly independent vectors that span a vector space.",
+      "powerMarkPosition": 403,
+      "answer": "basis",
+      "acceptableAnswers": [
+        "basis",
+        "The basis"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a1bc6"
+    },
+    {
+      "id": "57bb57ef-59e3-4cc6-8c61-51aff1134ac9",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "The Eridanos was a freshwater river system that flowed millions of years ago where this now brackish body of water is located. In 2011, treasure hunters searching this body of water produced a sonar image of a supposed UFO called this body's \"anomaly,\" though that image likely just showed a rock formation. The Gutasaga describes the history of an island in this body of water which contains Visby; that island is Gotland. The Aland islands separate this sea from the Gulf of Bothnia, while the Gulfs of Finland and Riga are both offshoots of this body of water. Tallinn lies on the shores of, for 10 point, what sea that names the grouping of states that includes Estonia, Lithuania and Latvia?",
+      "powerMarkPosition": 414,
+      "answer": "Baltic",
+      "acceptableAnswers": [
+        "Baltic",
+        "Gulf of Riga before “Riga”",
+        "prompt on Gulf of Bothnia before “Bothnia”",
+        "The Baltic"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382c06e578a78206cf20846"
+    },
+    {
+      "id": "f2a195a7-08e8-4e9b-8d63-81d393827b9a",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "In the 13th canto of the Kalevala, Lemminkainen is tasked with slaying the Hiisi elk, which is said to have one of these made from a stump. In Japanese myth, Yamato no Orochi is said to have eight of them, while the Slavic deity Triglav possesses three. In the Skaldskaparmal, after surpassing the craftsmanship of the sons of Ivaldi, Brokk demands the one belonging to Loki. Britain could not be invaded so long as the one belonging to Bran was planted facing across the Channel, and the one belonging to Mimir was preserved by Odin as an oracle after it was sent back by the Vanir. Perseus stored Medusa's in a magic wallet. For 10 points, identify this body part which, when detached from the body of Orpheus, floated down a river singing.",
+      "powerMarkPosition": 253,
+      "answer": "head",
+      "acceptableAnswers": [
+        "head",
+        "The head"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d44347"
+    },
+    {
+      "id": "59ac3da4-d626-4b71-b373-89559d5dab84",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "A so-called \"antagonist\" to a substance that increases this measure can be called a sartan or an ARB. One mechanism by which this measure is controlled relies on the release of the enzyme renin and the removal of amino acid residues from angiotensin I, preventing conversion into angiotensin II by the ACE inhibitor. When measuring it with a sphygmometer, an optimum reading of the systolic to diastolic is \"120 over 80.\" For 10 points, name this measure which when too high is referred to as hypertension.",
+      "powerMarkPosition": 341,
+      "answer": "blood pressure",
+      "acceptableAnswers": [
+        "blood pressure",
+        "The blood pressure"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be78b5"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "0dc40981-6ca8-42c9-8e98-6a3015fecf51",
+      "linkedTossupId": "400aaef2-18c3-4bda-a25d-00eb927482da",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Give the original-language term for this event, during which a man who feared assassination by the Quraysh (\"koo-raysh\") fled his home city.",
+          "answer": "Hijra",
+          "acceptableAnswers": [
+            "Hijra",
+            "The Hijra"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Hijra lends its name to this system in Islam, which is based on the lunar cycle. Periods of this system include Muharram and Ramadan, as well as holidays like Eid al-Adha (\"eed al-AHD-hah\").",
+          "answer": "calendar",
+          "acceptableAnswers": [
+            "calendar",
+            "Hijri calendar",
+            "The calendar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In another journey undertaken by Muhammad, he flew on the back of a winged horse to this city's Al-Aqsa Mosque. In Islam, this is the third holiest city after Mecca and Medina.",
+          "answer": "Jerusalem",
+          "acceptableAnswers": [
+            "Jerusalem",
+            "The Jerusalem"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The main participant of this event was assisted by the ansar, who renamed the city of Yathrib after it occurred . For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6549e61bdd7828c4e244d6b3"
+    },
+    {
+      "id": "b3b21906-5c12-4aa6-80f1-0c00ecb7044a",
+      "linkedTossupId": "4c2e65de-1ce6-4d64-b60e-268810d3277f",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these fundamental particles that come in flavors like up, charm, and bottom.",
+          "answer": "quark",
+          "acceptableAnswers": [
+            "quark",
+            "The quark"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Quarks can only have values of positive and negative one-half for this quantity, the intrinsic angular momentum carried by elementary particles.",
+          "answer": "spin",
+          "acceptableAnswers": [
+            "spin",
+            "The spin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Because of their spin, quarks belong to this class of particles with half-integer spin. They are contrasted with bosons.",
+          "answer": "fermion",
+          "acceptableAnswers": [
+            "fermion",
+            "The fermion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These particles make up hadrons and cannot be found in isolation. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c664"
+    },
+    {
+      "id": "1dd20433-b532-482e-9834-e6df5efcb71e",
+      "linkedTossupId": "3320e13d-4d00-48e4-a886-82a9e6b50d12",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this common title in English, which is shared by a travelogue written in the 17th century in haibun verse, one of the most important texts of Japanese literature.",
+          "answer": "Narrow Road to the Deep North",
+          "acceptableAnswers": [
+            "Narrow Road to the Deep North",
+            "Narrow Road to the Interior",
+            "The Narrow Road to the Deep North"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of Narrow Road to the Deep North is best-known for verses about a frog jumping into a pond, one of his many haikus.",
+          "answer": "Basho",
+          "acceptableAnswers": [
+            "Basho",
+            "The Basho"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The first and last lines of a haiku both have this many syllables. Most of Shakespeare's poetry consists of this many feet per line.",
+          "answer": "five",
+          "acceptableAnswers": [
+            "five",
+            "The five"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Dorrigo Evans is the protagonist of a Richard Flanagan novel with this title, which won the Booker Prize in 2014. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d315"
+    },
+    {
+      "id": "c6d40d05-671a-4691-bb84-e204488f0c08",
+      "linkedTossupId": "bdb408f0-a938-42de-9790-e2f76d46ad74",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this business magnate who became a steamboat entrepreneur before feuding with James Fisk and Jay Gould in a different industry. This entrepreneur was nicknamed \"The Commodore.\"",
+          "answer": "Vanderbilt",
+          "acceptableAnswers": [
+            "Vanderbilt",
+            "The Vanderbilt"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gibbons and Vanderbilt competed with Ogden for control of the waters of New York, especially this river. The very first commercial steamboat trip took passengers from New York City to Albany on this river.",
+          "answer": "Hudson",
+          "acceptableAnswers": [
+            "Hudson",
+            "The Hudson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After working with steamboats, Vanderbilt rose to the top of the industry making networks of these tracks across the nation. A major event in that industry's history was the construction of a Transcontinental one.",
+          "answer": "rail",
+          "acceptableAnswers": [
+            "rail",
+            "train tracks",
+            "The rail"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Early in his career, this tycoon worked under Thomas Gibbons to dismantle the steamboat monopoly held by Aaron Ogden. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a50468"
+    },
+    {
+      "id": "0986c157-25e7-410e-ab71-b791d897bfc9",
+      "linkedTossupId": "e9938cb2-4b95-4910-a018-d04b7203f7ed",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This nuclear disaster, which led to the evacuation of Pripyat, Ukraine, led to the spread of cesium-137 throughout Europe.",
+          "answer": "Chernobyl",
+          "acceptableAnswers": [
+            "Chernobyl",
+            "The Chernobyl"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 2011, the Tohoku earthquake and tsunami led to the nuclear meltdown of the Fukushima plant in this country.",
+          "answer": "Japan",
+          "acceptableAnswers": [
+            "Japan",
+            "The Japan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A partial meltdown occurred in 1979 at a Pennsylvania U.S. nuclear plant, located on this island within the Susquehanna River.",
+          "answer": "Three Mile Island",
+          "acceptableAnswers": [
+            "Three Mile Island",
+            "The Three Mile Island"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these nuclear disasters:",
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e139e"
+    },
+    {
+      "id": "67e2baea-5993-497e-968d-ea02a2a28ede",
+      "linkedTossupId": "cddac725-0994-400b-a5a4-6373701600cb",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This leader took power after the death of Lenin and led the USSR during and after World War II.",
+          "answer": "Stalin",
+          "acceptableAnswers": [
+            "Stalin",
+            "The Stalin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Leonid Breshnev led a conspiracy to remove this leader from power. He criticized Stalin's policies in the 1956 Secret Speech, and debated then-US Vice President Nixon in a model kitchen.",
+          "answer": "Khrushchev",
+          "acceptableAnswers": [
+            "Khrushchev",
+            "The Khrushchev"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This leader's policies, including glasnost and perestroika, led to the end of the Soviet Union. He was famously implored by Reagan to tear down the Berlin Wall.",
+          "answer": "Gorbachev",
+          "acceptableAnswers": [
+            "Gorbachev",
+            "The Gorbachev"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following Soviet leaders for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1e79"
+    },
+    {
+      "id": "0cef3de9-6c05-454d-85af-d23ce33154c0",
+      "linkedTossupId": "d1e347ac-f48f-451f-9c3e-a9dfafadece4",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Give the name of those soldiers who invaded other countries without the support of the US military. It was later used to describe a procedure that aimed to delay or prevent a vote in the Senate.",
+          "answer": "filibuster",
+          "acceptableAnswers": [
+            "filibuster",
+            "freebooters",
+            "accept filibustering",
+            "The filibuster"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This filibuster created the Republic of Lower California when he took Baja California as part of his plan to found the Republic of Sonora. He also ruled Nicaragua until he surrendered to Commander Davis in 1857.",
+          "answer": "Walker",
+          "acceptableAnswers": [
+            "Walker",
+            "The Walker"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This former vice president was arrested on charges of treason after he attempted to carve his own country out of Louisiana and other western territories.",
+          "answer": "Burr",
+          "acceptableAnswers": [
+            "Burr",
+            "The Burr"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the 19th century, this label was given to Americans engaging in combat in Latin America with the goal of taking over territory. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0702bb8d2514c62130a7d"
+    },
+    {
+      "id": "70c45f82-f91f-4233-ae0b-5c4f0d89755c",
+      "linkedTossupId": "4652e7ae-4d46-4774-992c-f0ac9129fdf1",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The three basic transformations are L, for leading-tone, R, for relative, and P, which refers to this term for major and minor keys that share a tonic. Thus, the P transformation changes G major to G minor and vice versa.",
+          "answer": "parallel keys",
+          "acceptableAnswers": [
+            "parallel keys",
+            "parallel major",
+            "parallel minor",
+            "The parallel keys"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Neo-Riemannian transformations can be visualized on an infinite grid called the Tonnetz (\"TONE-nets\"). The Tonnetz can be folded into a torus when analyzing equal temperament because notes like F-sharp and G-flat have this type of equivalence, meaning that they're spelled differently but have the same pitch.",
+          "answer": "enharmonic",
+          "acceptableAnswers": [
+            "enharmonic",
+            "The enharmonic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Neo-Riemannian theory can analyze this concept, related to counterpoint, in which smoothly moving melodic lines are combined to form a harmonic progression and create polyphonic textures. Conventions relating to this concept include the avoidance of large leaps and parallel fifths.",
+          "answer": "voice leading",
+          "acceptableAnswers": [
+            "voice leading",
+            "part writing",
+            "prompt on partial answer",
+            "The voice leading"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about Neo-Riemannian (\"neo-ree-MAH-nee-in\") music theory, which bases harmony on transformations between major and minor triads, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6326bf0e692d593d1d7a8703"
+    },
+    {
+      "id": "8c48043a-0b52-4549-a840-3c90b78f2e02",
+      "linkedTossupId": "2d5f63cc-b766-423b-bb7f-0ae85b3783a7",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this set of four violin concertos by Antonio Vivaldi depicting the title occurrences, with movements like \"L'inverno.\"",
+          "answer": "Four Seasons",
+          "acceptableAnswers": [
+            "Four Seasons",
+            "Le quattro stagioni",
+            "The Four Seasons"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer created a vastly similar work in oratorio form in The Seasons. This man's symphonic works include one where the performers leave the stage at the end, the Farewell Symphony, and the Drumroll Symphony.",
+          "answer": "Haydn",
+          "acceptableAnswers": [
+            "Haydn",
+            "The Haydn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This French-Italian composed a ballet called The Seasons. This master of the Baroque era and composer of The Triumph of Love died of gangrene after hitting himself in the foot with a conducting baton.",
+          "answer": "Lully",
+          "acceptableAnswers": [
+            "Lully",
+            "The Lully"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This set of pieces appeared in The Contest Between Harmony and Invention. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63059e1543cf02018762336f"
+    },
+    {
+      "id": "2920808e-66d1-45f8-89ee-0088ae7673bd",
+      "linkedTossupId": "44ec976d-d1a8-4ba9-be7d-d1a0b8a6970c",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these buildings, one of which Alberti designed for the Rucellai (\"ROO-chuh-lye\") family. A copy of Michelangelo's David stands in one of these buildings nicknamed \"vecchio\" (\"VEH-kee-oh\").",
+          "answer": "palace",
+          "acceptableAnswers": [
+            "palace",
+            "palazzo",
+            "palazzi",
+            "accept Palazzo Rucellai",
+            "accept Palazzo Vecchio",
+            "The palace"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Both the Palazzo Rucellai and Palazzo Vecchio stand in this city. Filippo Brunelleschi used a herringbone pattern to construct a dome in this city that, to this day, remains the world's largest brick and mortar dome.",
+          "answer": "Florence",
+          "acceptableAnswers": [
+            "Florence",
+            "Firenze",
+            "The Florence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Many palazzi like the Palazzo Pitti now function as these institutions. Other examples of these institutions include the Uffizi and the Louvre.",
+          "answer": "museum",
+          "acceptableAnswers": [
+            "museum",
+            "art gallery",
+            "The museum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Leon Battista Alberti's trabeated three-tiered design for the facade of one of these buildings progresses from rustication to ornamentation with each ascending floor. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec2b2977063e8d403f08cb"
+    },
+    {
+      "id": "2946df8b-71ab-4d4b-b75c-1c58adedd01a",
+      "linkedTossupId": "1bf655a5-bb1f-4f43-a6a4-1631d15ba879",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Greek goddess of love and beauty.",
+          "answer": "Aphrodite",
+          "acceptableAnswers": [
+            "Aphrodite",
+            "The Aphrodite"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Aphrodite's jealous husband was this god, who in some stories fell from Olympus after Hera created him by herself.",
+          "answer": "Hephaestus",
+          "acceptableAnswers": [
+            "Hephaestus",
+            "The Hephaestus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Aphrodite was also the lover of this extraordinarily beautiful mortal man, and became so distraught at this man's death during a hunt that she caused anemone flowers to bloom where his blood fell.",
+          "answer": "Adonis",
+          "acceptableAnswers": [
+            "Adonis",
+            "The Adonis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This goddess had an affair with Ares, which was revealed when her husband captured them together in a fine net and dragged them to Olympus in shame. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004cc1"
+    },
+    {
+      "id": "2457439a-5594-4ac1-bd50-1e4547d75ddc",
+      "linkedTossupId": "cc61e788-e990-435a-b2fd-a76209e1dde3",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This conductor served as long time music director of the New York Philharmonic in addition to composing music for Candide and West Side Story.",
+          "answer": "Bernstein",
+          "acceptableAnswers": [
+            "Bernstein",
+            "The Bernstein"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Austrian conductor was a member of the Nazi party and a conductor at La Scala. As director of the Berlin Philharmonic, he flooded the markets with his recordings.",
+          "answer": "Karajan",
+          "acceptableAnswers": [
+            "Karajan",
+            "The Karajan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This British conductor organized the Academy of St. Martin-in-the-Fields, and won a Grammy as the music supervisor and conductor for the film Amadeus.",
+          "answer": "Marriner",
+          "acceptableAnswers": [
+            "Marriner",
+            "The Marriner"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these 20th century orchestra conductors for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa14e"
+    },
+    {
+      "id": "2989eb82-8d36-495e-b3b0-f9dd2bf8ba83",
+      "linkedTossupId": "83bc78aa-65cd-4552-a4e5-367bbba7a5fe",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this woman. In another poem by the same author, her rape is symbolized by the lines \"The broken wall, the burning roof and tower / And Agamemnon dead\" after she is hit by \"A sudden blow.\"",
+          "answer": "Leda",
+          "acceptableAnswers": [
+            "Leda",
+            "a Ledaen body",
+            "The Leda"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Among School Children\" and \"Leda and the Swan\" were both written by this poet, who also wrote a poem about seeing \"nine-and-fifty\" of the title \"Wild Swans at Coole (\"cool\").\"",
+          "answer": "Yeats",
+          "acceptableAnswers": [
+            "Yeats",
+            "W. B. Yeats",
+            "The Yeats"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Biblically titled poem, Yeats laments \"Things fall apart; the centre cannot hold\" before asking \"what rough beast... slouches towards Bethlehem to be born?\"",
+          "answer": "Second Coming",
+          "acceptableAnswers": [
+            "Second Coming",
+            "The Second Coming"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the poem \"Among School Children,\" the speaker dreams of a body he compares to this figure being \"bent / Above a sinking fire.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed60f71539231f571edb9f"
+    },
+    {
+      "id": "ae174a32-b007-46a3-9669-c459416e12ba",
+      "linkedTossupId": "92b1ef42-e0db-4d05-8c10-d0caaf34bbe9",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "In a heavily embellished account, John Smith credited what daughter of Chief Powhatan with saving him from an execution?",
+          "answer": "Pocahontas",
+          "acceptableAnswers": [
+            "Pocahontas",
+            "Matoaka",
+            "The Pocahontas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "John Rolfe and John Smith were both men from this Virginia colony, the first permanent English settlement in the Americas.",
+          "answer": "Jamestown",
+          "acceptableAnswers": [
+            "Jamestown",
+            "The Jamestown"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "John Rolfe introduced this cash crop to Jamestown. King James I wrote \"A Counterblaste to [this crop]\" to express how much he despised it.",
+          "answer": "tobacco",
+          "acceptableAnswers": [
+            "tobacco",
+            "The tobacco"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This woman took the name Rebecca after converting to Christianity and later married John Rolfe. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b97d"
+    },
+    {
+      "id": "3f3890a0-d72c-402c-bce8-b08dc20b7e62",
+      "linkedTossupId": "ecb527de-79e0-49de-89e6-896deb18b575",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this roman à clef about a group of French intellectuals including the editor of L'Espoir, Henri Perron.",
+          "answer": "Mandarins",
+          "acceptableAnswers": [
+            "Mandarins",
+            "Les Mandarins",
+            "The Mandarins"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This French existentialist wrote The Mandarins. This writer also wrote about Francoise's strained relationship with Pierre in She Came to Stay.",
+          "answer": "Beauvoir",
+          "acceptableAnswers": [
+            "Beauvoir",
+            "The Beauvoir"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Mandarins, Henri Perron represents this other existentialist. Meursault kills an Arab in his novel The Stranger.",
+          "answer": "Camus",
+          "acceptableAnswers": [
+            "Camus",
+            "The Camus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this novel, Anne Dubreuilh, a stand-in for the author, has an affair with Lewis Brogan, who represents Nelson Algren. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df8ab610329be735a34015"
+    },
+    {
+      "id": "b7448a7a-6374-454e-956c-0d92b889b3a7",
+      "linkedTossupId": "3e07b08c-fb44-48fd-ad71-b49816869775",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with arteries vs veins vs capillaries.",
+          "answer": "aorta",
+          "acceptableAnswers": [
+            "aorta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the aorta in the cardiovascular system?",
+          "answer": "Arteries vs veins vs capillaries",
+          "acceptableAnswers": [
+            "Arteries vs veins vs capillaries"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to arteries vs veins vs capillaries.",
+          "answer": "vena cava",
+          "acceptableAnswers": [
+            "vena cava"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "cbbc897a-ef0b-47b3-be84-4fb2fd293a40",
+      "linkedTossupId": "81181f4e-14cf-4fb9-85ec-5bff9935d134",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Launched in 2004, this spacecraft finally reached Mercury earlier this year and mapped 30% of its surface on a flyby. This craft will repeat two more flybys and be inserted into the planets orbit by 2011.",
+          "answer": "MESSENGER",
+          "acceptableAnswers": [
+            "MESSENGER",
+            "The MESSENGER"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "MESSENGER was able to photograph the Caloris Basin, a massive impact crater that is characterized by this type of geography; a plain of ridges and fractures that form a roughly polygonal pattern.",
+          "answer": "Weird",
+          "acceptableAnswers": [
+            "Weird",
+            "The Weird"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "MESSENGER probably won't have any luck finding this tiny fabled planet that was in the 19th century used to explain the gravitational anomalies of Mercury's orbit before the onset of general relativity.",
+          "answer": "Vulcan",
+          "acceptableAnswers": [
+            "Vulcan",
+            "The Vulcan"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following things about the exploration of everyone's favorite smallest planet, Mercury, FTPE.",
+      "source": "qbreader",
+      "sourceId": "64683d300d0d0e5f184a346c"
+    },
+    {
+      "id": "00d04afc-c557-405d-bf77-8f5eaaf5cd4c",
+      "linkedTossupId": "57bb57ef-59e3-4cc6-8c61-51aff1134ac9",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "What large plateau lies between the Western and Eastern Ghats mountain ranges on a large subcontinent?",
+          "answer": "Deccan",
+          "acceptableAnswers": [
+            "Deccan",
+            "The Deccan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Deccan Plateau makes up much of the middle and southern portion of this second-most populous nation with capital New Delhi.",
+          "answer": "India",
+          "acceptableAnswers": [
+            "India",
+            "The India"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The four major rivers of the Deccan Plateau flow eastward, all emptying into this large indentation of the Indian Ocean.",
+          "answer": "Bay of Bengal",
+          "acceptableAnswers": [
+            "Bay of Bengal",
+            "The Bay of Bengal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This region's namesake \"traps\" are an area of rocky lava flow topography. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0ca8f"
+    },
+    {
+      "id": "b2e9874f-975e-4f07-81be-9992423b2a91",
+      "linkedTossupId": "f2a195a7-08e8-4e9b-8d63-81d393827b9a",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this snake-haired Gorgon woman, whose gaze turned all who saw her into stone.",
+          "answer": "Medusa",
+          "acceptableAnswers": [
+            "Medusa",
+            "The Medusa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Greek hero, the son of Zeus and Danae, slew Medusa and later married Andromeda.",
+          "answer": "Perseus",
+          "acceptableAnswers": [
+            "Perseus",
+            "The Perseus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Perseus returned Medusa's head to Athena, who affixed it to this legendary shield.",
+          "answer": "Aegis",
+          "acceptableAnswers": [
+            "Aegis",
+            "The Aegis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This mythical figure was the sister of Stheno and Euryale, and became the mother of Chrysaor and Pegasus after her death. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004c9e"
+    },
+    {
+      "id": "80fcc20b-1e4e-42d5-9e66-f8683e355491",
+      "linkedTossupId": "59ac3da4-d626-4b71-b373-89559d5dab84",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this cohesive force that minimizes the surface area of a fluid. It appears to result in an elastic film lying on top of a fluid.",
+          "answer": "surface tension",
+          "acceptableAnswers": [
+            "surface tension",
+            "The surface tension"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The capillary pressure due to surface tension can be calculated using an equation named for this scientist and Laplace. A quantity named for this scientist is equal to stress over strain.",
+          "answer": "Young",
+          "acceptableAnswers": [
+            "Young",
+            "Young-Laplace equation",
+            "Young’s modulus",
+            "The Young"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The radius terms in the Young-Laplace equation can be defined in terms of this angle, which quantifies the hydrophobicity of a surface.",
+          "answer": "contact angle",
+          "acceptableAnswers": [
+            "contact angle",
+            "theta",
+            "The contact angle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This force explains how water striders walk across water. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc015"
+    }
+  ]
+}

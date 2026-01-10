@@ -1,0 +1,1163 @@
+{
+  "packetId": "packet-032",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Fine Arts",
+    "Mythology",
+    "Science",
+    "Literature",
+    "Geography",
+    "History",
+    "Social Science",
+    "Philosophy"
+  ],
+  "tossups": [
+    {
+      "id": "f2a3881e-a81d-44e2-9894-3a66981c5f70",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "A news report about a murder inspired an artist from this country to include blood spatters on the frame of her painting A Few Small Nips. An artist working in this country painted a man with a checkered robe that seamlessly connects to the floor in her painting Useless Science or the Alchemist. European Surrealists who moved to this country include Leonora Carrington and Remedios Varo. Another artist from this country painted herself as a deer shot by arrows and substituted a cracked Ionic column for her spine in two paintings about a bus accident she experienced. That artist from this country also painted herself wearing a thorn necklace with a dead hummingbird. For 10 points, name this home country of the unibrowed artist Frida Kahlo.",
+      "powerMarkPosition": 296,
+      "answer": "Mexico",
+      "acceptableAnswers": [
+        "Mexico",
+        "United Mexican States",
+        "Estados Unidos Mexicanos",
+        "The Mexico"
+      ],
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490bf6d"
+    },
+    {
+      "id": "4221d5d3-4588-4ac0-87e9-2dd6951b9f92",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "The son of the man who tied the Gordian Knot possessed this ability. It's not immortality, but an object which granted this ability was created as part of the Magnum Opus. A man who possessed this ability lost it when he bathed in the river Pactolus. This ability was taught by a syncretized version of Hermes and Thoth named Trismegistus. A worshipper of Pan who once had this ability received donkey ears for siding against Apollo in a music contest. This ability was granted to a man who hosted the satyr Silenus. This power was given by the mythical Philosophers' Stone. For 10 points, name this ability which Dionysus granted to Midas.",
+      "powerMarkPosition": 394,
+      "answer": "gold",
+      "acceptableAnswers": [
+        "gold",
+        "transmutation",
+        "alchemy",
+        "chrysopoeia",
+        "the Midas touch",
+        "obvious equivalents",
+        "prompt on King Midas",
+        "The gold"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d212"
+    },
+    {
+      "id": "ddea5cf0-dfb8-4551-aa2e-6177594ccfa7",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "Biodiesel is produced by a reaction in which the R groups of two of these compounds are switched. Two of these compounds can form carbon-carbon bonds through the Claisen condensation. These compounds can be formed by refluxing a carboxylic acid with an alcohol with an acid catalyst in a reaction named for Fischer. These compounds can be hydrolyzed by a base to make soaps in saponification. These compounds often have names ending in -ate or -oate. For 10 points, name these compounds that contain a carbon attached to a carbonyl and an oxygen, which give off various fruity aromas.",
+      "powerMarkPosition": 183,
+      "answer": "ester",
+      "acceptableAnswers": [
+        "ester",
+        "The ester"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff22b"
+    },
+    {
+      "id": "06dc77a4-d82d-4377-9254-ba0c846b3ce3",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "Sarah Roche-Mahdi translated a poem in this genre that has become the subject of a growing body of gender-theoretical readings due to its depiction of a girl raised as a boy named Silence. A satire titled for this genre is the source of the phrase \"curry favor\" and follows the rise to power of a fallow-colored horse. In a poem titled for this genre, a crowned woman descends from her tower to give a 3,000-line lecture to a companion of Fair Welcome who is obsessed with the image he saw in the fountain that Narcissus drowned in. A poem in this genre gives its name to the 12-syllable alexandrine line. A poem titled for this genre is set in a walled garden and was the subject of a querelle in which Christine de Pizan attacked its misogyny. For 10 points, what medieval French genre of narrative verse titles Guillaume de Lorris (\"ghee-YOHM duh lor-EESE\") and Jean de Meun's dream vision poem about a rose?",
+      "powerMarkPosition": 496,
+      "answer": "roman",
+      "acceptableAnswers": [
+        "roman",
+        "romance",
+        "accept Roman de Silence",
+        "Roman de la Rose",
+        "Roman d’Alexandre",
+        "Roman de Fauvel",
+        "Alexander Romances",
+        "The roman"
+      ],
+      "source": "qbreader",
+      "sourceId": "66b83d73e381fe913c42f74d"
+    },
+    {
+      "id": "dc6183c7-fd1e-4f85-a55d-61cd38423866",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "A popular comestible in this country is aebleskiver [ah-bul-skivver], a spherical type of pancake pastry. The enjoyment of aebleskiver and rod polse, a local red sausage, are aspects of the veneration of coziness and comfort with friends and family in this country's culture, a concept called hygge [hoo-gah]. This country's parliament, the Folketing, no longer legislates for its former constituent states of the Faroe Islands and Greenland. Ole Kirk Christiansen invented Legos in this country. For 10 points, what Scandinavian country has its capital at Copenhagen?",
+      "powerMarkPosition": 309,
+      "answer": "Denmark",
+      "acceptableAnswers": [
+        "Denmark",
+        "The Denmark"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52070"
+    },
+    {
+      "id": "33df2a56-97e8-430c-9d16-47beabb950b3",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "college",
+      "text": "Edward Gibbon claimed a King who would defeat these people was guided by a \"flaming meteor\" above the Cathedral of Poitiers. They're not the Huns, but to bury their first King, these people diverted the Busento River, buried the King, undiverted the river, and massacred the workers who had dug the grave. These people re-allied with Rome under Atahualf, who made peace with Honorius, who had avoided one of these peoples' attacks by staying in nearby Ravenna. These people established a Kingdom at Toledo after a defeat at the Battle of Vouillé forced them to flee Toulouse. A King of these people who allied with Flavius Aetius died fighting Attila the Hun at the Battle of Chalons. For 10 points, name these people who sacked Rome in 410 AD under Alaric I.",
+      "powerMarkPosition": 451,
+      "answer": "Visigoth",
+      "acceptableAnswers": [
+        "Visigoth",
+        "Kingdom of the Visigoths",
+        "Visigothic Kingdom",
+        "prompt on goth",
+        "The Visigoth"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0aebc5"
+    },
+    {
+      "id": "2559aca1-d335-429a-b93e-dd35612782af",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "Hydrogen is represented as a circle with a dot and helium as a circle with a line in a weird notation created by this man. This man discovered that adding certain salts to water did not increase his volume, and he also independently rediscovered the Hadley cell. This man included a definition of the dew point along with the observation that rain occurs when temperature decreases in his Meteorological Observations. This scientist thought that discoloration of the liquid in his eye led to his colorblindness, and he proposed an incorrect \"law of greatest simplicity.\" This scientist postulated that atoms combine in whole-number ratios to form compounds, and he also found that the total pressure of a mixture of gases is equal to the sum of its partial pressures. For 10 points, name this English chemist who names a law of \"multiple proportions\" and also pioneered the atomic theory.",
+      "powerMarkPosition": 388,
+      "answer": "Dalton",
+      "acceptableAnswers": [
+        "Dalton",
+        "The Dalton"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a887b"
+    },
+    {
+      "id": "d6bd8ccb-26e2-4db6-add1-3374c1dbcc1b",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "The first statistical study of these objects was published in 1935 by Gerard Kuiper, who noted a large period gap in the two subpopulations of these objects. The fact that most planetary nebulae are non-spherical suggests that they are formed by ejection from these objects. Methods of discovering these objects include the common proper motion technique as well as observing dual sets of spectroscopic lines with periodically varying radial velocities and eclipsing patterns. In these systems, mass transfer occurs through the first Lagrangian point when one object within them accretes enough mass to fill its Roche lobe. Examples of these objects include Mizar, the middle star of the Big Dipper's handle, and Algol. For 10 points, identify these systems which consist of a pair of stars in mutual orbit.",
+      "powerMarkPosition": 476,
+      "answer": "binary",
+      "acceptableAnswers": [
+        "binary",
+        "The binary"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587597140"
+    },
+    {
+      "id": "535db2a3-a400-4d9a-86a5-43cd29f6083d",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "Clayton Alderfer adapted this man's most famous theory into the ERG paradigm. In one of his works, he acknowledged that applying his most famous theory to children was much more likely to induce terror in them than happiness, comparing it to separating them from the herd. He criticized other psychologists for writing lists of psychological drives, instead of a unified system, in A Theory of Human Motivation. In Motivation and Personality, he described transcendental experiences that fundamentally alter their subjects, which he termed peak experiences, as part of a theory that culminates in self-actualization. For 10 points, name this psychologist who wrote Towards a New Psychology and created the hierarchy of needs.",
+      "powerMarkPosition": 399,
+      "answer": "Maslow",
+      "acceptableAnswers": [
+        "Maslow",
+        "The Maslow"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a559"
+    },
+    {
+      "id": "ea161869-bed4-45fd-842e-85b9bf003adf",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "text": "This composer followed Ferdinand Hiller's advice in amping up the difficulty of his Piano Trio No. 1, a piece that caused Robert Schumann to call him the \"Mozart of the 19th century.\" Another of this composer's chamber works in the repertoire is an octet with a scherzo that he used in place of the minuet in his first symphony. He closely collaborated with Ferdinand David on a concerto that used a held bassoon note to link the first and second movements and unusually opened directly with the soloist. In addition to writing the Opus 64 Violin Concerto in E minor, he included the Roman saltarello and the Neapolitan tarantella in his fourth symphony, the Italian. For 10 points, name this Romantic composer whose incidental music to A Midsummer Night's Dream is often used at weddings.",
+      "powerMarkPosition": 404,
+      "answer": "Mendelssohn",
+      "acceptableAnswers": [
+        "Mendelssohn",
+        "The Mendelssohn"
+      ],
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa338"
+    },
+    {
+      "id": "81033761-dbe8-4727-8ed3-ca89da206583",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "Jacoba of Bavaria ceded three counties to this ruler after losing the very last Hook and Cod War to him. Jean de Tavernier executed the miniatures for a Book of Hours copied by this ruler's scribe Jean Miélot. His father was murdered at Montrereau as revenge for killing Louis of Orleans. This ruler promised to lead a crusade, but never did, during the Pledge of the Pheasant, a feast held in response to the news that the Turks took Constantinople. Such luminaries as Guilliame Dufay and Jan van Eyck were artists in this man's court. The support of the Praguerie by this son of John the Fearless ended a short alliance that he forged with Charles VII via the Treaty of Arras. In the campaign against Compeigne, his troops captured Joan of Arc and handed her to his English allies. For 10 points, name this combatant in the Hundred Years War, a powerful Duke of Burgundy.",
+      "powerMarkPosition": 450,
+      "answer": "Philip III",
+      "acceptableAnswers": [
+        "Philip III",
+        "Philip the Good",
+        "Philip le Bon",
+        "prompt on “Philip”",
+        "The Philip III"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae8e42"
+    },
+    {
+      "id": "d791e971-cd8a-4db1-bbf7-1ba141383e05",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "The Vosges [vohj] are the \"Block\" form of these structures, and include numerous horsts. These features can arise as a result of delamination, and form by orogeny. The windward side of these features receives more precipitation than the leeward side in the \"rain shadow\" effect. The collision of continental plates can form these features by forcing rock together, as in the underwater Mid-Atlantic Ridge. For 10 points, name these geologic features exemplified by the Himalayan range.",
+      "powerMarkPosition": 213,
+      "answer": "mountain",
+      "acceptableAnswers": [
+        "mountain",
+        "The mountain"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3114afad1e88c874a2dd2"
+    },
+    {
+      "id": "86fc3b7a-4d7b-44e2-9293-dd3f982213a7",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "According to one story, this figure's heart was cleaned in a gold basin while he was a child. His caretaker at one point was Halimah, and one classification of his helpers were known as the Ansar. He employed clever defense tactics at the Battle of the Ditch. According to tradition, he was instructed to read by an angel, but stated that he was unable to do so. His sayings are collectively known as Ahadeeth. Name this man who married Khadija and was the final prophet of Islam.",
+      "powerMarkPosition": 304,
+      "answer": "Muhammad",
+      "acceptableAnswers": [
+        "Muhammad",
+        "The Muhammad"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1e0e"
+    },
+    {
+      "id": "2299c292-3b1f-4a52-bc99-d7920eb8a470",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "In one story by this author, Captain Giles leads a ship while the narrator describes his coming of age. This author of The Shadow Line created a reoccurring character named Tom Lingard. Another of his works concerns the owner of a porn shop named Mr. Verloc, who tries to blow up a Greenwich Observatory. Another novel by this author of The Secret Agent that is set in Costaguana is about Senor Gould entrusting the title character with some silver. His most famous novel is narrated by Marlow, who journeys up the Congo to meet Kurtz. For 10 points, name this Polish born author of Lord Jim, Nostromo, and Heart of Darkness.",
+      "powerMarkPosition": 340,
+      "answer": "Conrad",
+      "acceptableAnswers": [
+        "Conrad",
+        "The Conrad"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895997a0d8ea074be7c33"
+    },
+    {
+      "id": "b2a0e4e0-2547-4c2b-a67c-3b1020b8275c",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "It isn't in Oregon, but this peninsula's \"Valley of the Giants\" contains many gigantic cactuses. This peninsula was explored by Francisco de Ulloa [\"day oo-YO-uh\"], who disproved the long-held misconception that this peninsula was actually an island. Japanese immigrants to this peninsula's city of Ensenada may have invented the fish taco. The mouth of the Colorado River is located on the northeastern base of this peninsula. Many obnoxious American college students visit this peninsula's resort town of Cabo San Lucas. For 10 points, Tijuana is the largest city in what Mexican-controlled peninsula located to the south of California?",
+      "powerMarkPosition": 250,
+      "answer": "Baja",
+      "acceptableAnswers": [
+        "Baja",
+        "The Baja"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff405"
+    },
+    {
+      "id": "a8dc75e1-3797-4f1a-b361-5b60f2e12c65",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "A molecule important in this process is formed when beta-oxidation breaks down fatty acids, and one step in it produces L-malate from fumarate. Beginning when oxaloacetate and acetyl CoA react, it sends succinate, FADH2, and NADH to the electron transport chain. Pyruvate from glycolysis starts this pathway that occurs in the matrix of the mitochondrion. For 10 points, name this second stage of cellular respiration, often named for a German-born biologist.",
+      "powerMarkPosition": 143,
+      "answer": "Krebs",
+      "acceptableAnswers": [
+        "Krebs",
+        "Krebs-Szent-Gyorgi cycle",
+        "accept citric acid cycle",
+        "citrate cycle",
+        "prompt on tricarboxylic acid cycle",
+        "The Krebs"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43f4e"
+    },
+    {
+      "id": "1850ed10-516d-4da9-98ec-78d9834cfc44",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "A ruler of this dynasty, nicknamed \"the Brilliant,\" created a code of laws called the Regulations of the Royal Court and used the execution of a prince called Chuban as a pretext to rebel against Abu Sa'id Khan. Despite his nickname of \"the Great\", a ruler of this non-Macedonian dynasty named Alexander disintegrated his kingdom after he appointed his three sons as co-rulers and abdicated to become a monk. With help from local Kipchaks, a ruler of this dynasty leading monaspa calvary encircled a Seljuk army, aided by the title mountain, at the Battle of Didgori. The upper classes of this dynasty, called the eristavi and aznauri, were at the top of the patronqmoba feudal system. This dynasty ruled three kingdoms of Kakheti, Imerti, and Kartli after their country fractured under invasions from the Mongols and Timurids. For 10 points, identify this dynasty, whose members like Tamar the Great and David the Builder ruled medieval Georgia.",
+      "powerMarkPosition": 558,
+      "answer": "Bagrationi",
+      "acceptableAnswers": [
+        "Bagrationi",
+        "The Bagrationi"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae46f"
+    },
+    {
+      "id": "59a3b3ff-683a-4958-a9c1-ce322f254795",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "text": "This character's room is left bare after a writing desk and chest of drawers is removed. This character's father refuses to take off his uniform after getting a job at a bank. Milk and bread are left uneaten by this character, who prizes a framed picture of a woman in a fur hat and boa. This character saves money to send his sister to a violin conservatory. He is seen by three lodgers who leave without paying rent and dies after being injured by an apple thrown at his back. For 10 points, name this brother of Grete who turns into a giant bug in Franz Kafka's The Metamorphosis.",
+      "powerMarkPosition": 338,
+      "answer": "Gregor",
+      "acceptableAnswers": [
+        "Gregor",
+        "either underlined part",
+        "The Gregor"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b529a8"
+    },
+    {
+      "id": "7aff33b8-9174-4765-9265-23865064b4e4",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "This war saw Quang Tri (koo-AHN \"tree\") province attacked by the Easter Offensive. Marines and Rangers were besiged in a mountain base during this war at the Battle of Khe Sanh (\"kay\" SAN-huh), which may have been a distraction from an attack that saw urban warfare in Huế (hoo-AY) after a surprise guerilla attack during a Lunar New Year truce. Name this conflict which saw the Tet Offensive result in an attack on the US embassy in Saigon by the Vietcong.",
+      "powerMarkPosition": 298,
+      "answer": "Vietnam",
+      "acceptableAnswers": [
+        "Vietnam",
+        "The Vietnam"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1de6"
+    },
+    {
+      "id": "8f85b661-e591-4a17-8fa7-0d9179b674f1",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "One senator from this state proposed the forty bale hypothesis. A representative from this state proposed the first gag rule and proclaimed that \"Cotton is King.\" Represented by James Hammond and George McDuffie, this state was the site of a failed uprising that occurred during the mayorship of James Hamilton and in which Peter Poyas participated. This state's former capital was surrendered by Benjamin Lincoln to Henry Clinton and was the site of Denmark Vesey's failed rebellion. One man from this state protested the Tariff of Abominations by writing this state's \"Exposition and Protest.\" For 10 points, what state defied the federal government in the Nullification Crisis and was represented by John C. Calhoun?",
+      "powerMarkPosition": 349,
+      "answer": "South Carolina",
+      "acceptableAnswers": [
+        "South Carolina",
+        "The South Carolina"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df87c09bc4e61b2fb37899"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "1dfd8778-7357-4c96-a91b-dc25b8f80bc7",
+      "linkedTossupId": "f2a3881e-a81d-44e2-9894-3a66981c5f70",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this diary edited and published by Pat Hackett. It was adapted into a documentary series in 2022 by Netflix.",
+          "answer": "Andy Warhol Diaries",
+          "acceptableAnswers": [
+            "Andy Warhol Diaries",
+            "The Andy Warhol Diaries"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The documentary series dwells on Warhol's relationship with this man and interior B. designer, who had taken care of Warhol following his shooting by Valerie Solanas. This man collaborated frequently with the architect Alan Wanzenburg.",
+          "answer": "Johnson",
+          "acceptableAnswers": [
+            "Johnson",
+            "The Johnson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Warhol's own television show, Andy Warhol's Fifteen Minutes, aired from 1985 to 1987 on this television network. In the television show, Warhol interviewed various pop culture icons and celebrities, in-line with the reputation of this network.",
+          "answer": "MTV",
+          "acceptableAnswers": [
+            "MTV",
+            "The MTV"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work is a condensation of over eleven years of morning conversations between its subject and author. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "652ebb788051389c667bd234"
+    },
+    {
+      "id": "2941d1bf-3639-4ae4-8c79-a54653479137",
+      "linkedTossupId": "4221d5d3-4588-4ac0-87e9-2dd6951b9f92",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these mischievous figures from Native American folklore, who can vary from helpful to downright annoying. Raven and Crow are examples of these figures.",
+          "answer": "trickster",
+          "acceptableAnswers": [
+            "trickster",
+            "The trickster"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This trickster was responsible for creating people from a ball of mud. Sometimes known as \"Old Man,\" this animal showed his more heroic side by defeating the Thunderbird in one story.",
+          "answer": "Coyote",
+          "acceptableAnswers": [
+            "Coyote",
+            "The Coyote"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In another story, the Thunderbird drops one of these animals from the sky to the earth. In an Inuit tale, Raven discovers a lost girl by finding one of these animals.",
+          "answer": "whale",
+          "acceptableAnswers": [
+            "whale",
+            "The whale"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The spider god Iktomi is an example of this kind of figure. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a2ab3"
+    },
+    {
+      "id": "4c3a0791-c504-4982-a64e-b3a554183845",
+      "linkedTossupId": "ddea5cf0-dfb8-4551-aa2e-6177594ccfa7",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this operation that multiplies the elements of a group by an element and its inverse on opposite sides. The same word indicates sending a complex number a plus b i to a minus b i.",
+          "answer": "conjugation",
+          "acceptableAnswers": [
+            "conjugation",
+            "word forms like conjugate",
+            "conjugacy",
+            "accept complex conjugation",
+            "The conjugation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Elements of these groups are conjugate if and only if they have the same cycle structure. These groups of order n consist of the various permutations of the n elements.",
+          "answer": "symmetric",
+          "acceptableAnswers": [
+            "symmetric",
+            "S sub n",
+            "prompt on Sn",
+            "The symmetric"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Symmetric groups have only inner automorphisms except the one on this many elements, which has an outer automorphism due to an exotic embedding of the symmetric group on one fewer element.",
+          "answer": "six",
+          "acceptableAnswers": [
+            "six",
+            "the symmetric group on six elements",
+            "equivalent phrasings",
+            "S6",
+            "S sub 6",
+            "The six"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A group automorphism is inner if it's given by performing this operation. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae694"
+    },
+    {
+      "id": "0a62e967-bfa1-4d95-9a23-2f3a32986550",
+      "linkedTossupId": "06dc77a4-d82d-4377-9254-ba0c846b3ce3",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this poem which repeats the phrase \"they are all gone away.\"",
+          "answer": "House on the Hill",
+          "acceptableAnswers": [
+            "House on the Hill",
+            "The House on the Hill"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"The House on the Hill\" was written by this American poet of \"Richard Cory\" and \"Miniver Cheevy.\"",
+          "answer": "Robinson",
+          "acceptableAnswers": [
+            "Robinson",
+            "The Robinson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Robinson wrote \"The dark will end the dark\" in this poem, which instructs the title character to \"Go to the western gate.\"",
+          "answer": "Luke Havergal",
+          "acceptableAnswers": [
+            "Luke Havergal",
+            "The Luke Havergal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This poem ends by noting \"There is nothing more to say\" about the title object, which is \"shut and still\" and has \"broken wall\" that let the \"winds blow bleak and shrill.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa252"
+    },
+    {
+      "id": "161353d4-15f7-46fb-9951-e1cdf41a5384",
+      "linkedTossupId": "dc6183c7-fd1e-4f85-a55d-61cd38423866",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This largest ice shelf of Antarctica is largely owned by New Zealand. Its namesake attempted to get through it using the ships Erebus and Terror, but failed.",
+          "answer": "Ross",
+          "acceptableAnswers": [
+            "Ross",
+            "The Ross"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ross Island is the home to this largest research station in Antarctica, owned by the United States. It houses about 1000 people during the summer.",
+          "answer": "McMurdo",
+          "acceptableAnswers": [
+            "McMurdo",
+            "The McMurdo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This body of water is directly south of the Scotia sea and Argentina, and immediately east of the Bellinghausen sea. New Hailey and Druzhnaya 1 are on its coast.",
+          "answer": "Weddell Sea",
+          "acceptableAnswers": [
+            "Weddell Sea",
+            "The Weddell Sea"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The geography of Antarctica is too often neglected. Not today. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d44159"
+    },
+    {
+      "id": "e4c0573e-2edb-4853-98cf-033530f9812f",
+      "linkedTossupId": "33df2a56-97e8-430c-9d16-47beabb950b3",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this ruler who developed the Hangul alphabet and created a research institution called the Hall of Worthies.",
+          "answer": "Sejong",
+          "acceptableAnswers": [
+            "Sejong",
+            "Sejong Dawewang",
+            "Chungnyeong",
+            "Yi Do",
+            "The Sejong"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sejong the Great ruled this Asian peninsula as part of its Joseon Dynasty.",
+          "answer": "Korea",
+          "acceptableAnswers": [
+            "Korea",
+            "the Korean Peninsula",
+            "Hanguk",
+            "The Korea"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sejong the Great launched the Oei invasion against a group of these people called wokou who were based around Tsushima Island. Western examples of these people included Mary Read and Stede Bonnet.",
+          "answer": "pirate",
+          "acceptableAnswers": [
+            "pirate",
+            "corsairs",
+            "buccaneers",
+            "swashbucklers",
+            "privateers",
+            "prompt on sailors",
+            "seamen",
+            "The pirate"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This ruler granted members of the enslaved nobi class 100 days of maternity leave. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "652ebb708051389c667bd03b"
+    },
+    {
+      "id": "5eabfd6f-d9ba-4191-af2e-fe5d7983c489",
+      "linkedTossupId": "2559aca1-d335-429a-b93e-dd35612782af",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Fluorine has the highest value of this property on the Pauling scale, the tendency for an atom to attract an electron pair towards itself.",
+          "answer": "electronegativity",
+          "acceptableAnswers": [
+            "electronegativity",
+            "The electronegativity"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Fluorine forms a particularly strong bond with this element in PTFE, or Teflon, contributing to the polymer's high stability. This element's tetravalency allows it to form a vast amount of different compounds.",
+          "answer": "carbon",
+          "acceptableAnswers": [
+            "carbon",
+            "The carbon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Although molecules with fluorine carbon bonds aren't very reactive, a compound of five fluorine atoms bonded to this metalloid element forms the strongest known Lewis Acid, and reacts with nearly every compound.",
+          "answer": "antimony",
+          "acceptableAnswers": [
+            "antimony",
+            "The antimony"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Fluorine likes bonding with friends. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa591320174c"
+    },
+    {
+      "id": "a54c86b6-b593-4357-a52c-a0b2c7e89e65",
+      "linkedTossupId": "d6bd8ccb-26e2-4db6-add1-3374c1dbcc1b",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this property that is [emphasize] not possessed by the proof that IP=PSPACE because the proof uses arithmetization. Baker, Gill, and Solovay showed that proofs of P=NP could [emphasize] not have this property.",
+          "answer": "relativizable",
+          "acceptableAnswers": [
+            "relativizable",
+            "word forms of relativize",
+            "The relativizable"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An equivalent definition of relativization is that the proof is valid if all the Turing machines in the original proof were to be given one of these things. These things answer certain decision problems in a single operation.",
+          "answer": "oracle",
+          "acceptableAnswers": [
+            "oracle",
+            "The oracle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An oracle Turing machine that solves this problem for standard Turing machines cannot solve it for equivalent machines. This undecidable problem asks if a Turing machine will stop for a given input.",
+          "answer": "halting",
+          "acceptableAnswers": [
+            "halting",
+            "The halting"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This property is possessed by proofs about a Turing degree D that carry over to degrees above D. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423fc6"
+    },
+    {
+      "id": "1fb2d5fb-3040-4d4b-9bdc-1664b7bdcd26",
+      "linkedTossupId": "535db2a3-a400-4d9a-86a5-43cd29f6083d",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this phenomenon, originated by John Darley and Bibb Latané, in which an individual is less likely to offer help to a victim when others are present.",
+          "answer": "bystander",
+          "acceptableAnswers": [
+            "bystander",
+            "The bystander"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The concept of the bystander effect arose after the 1964 murder of this woman. There were supposedly thirty eight witnesses around when she called for help outside her Queens apartment.",
+          "answer": "Kitty",
+          "acceptableAnswers": [
+            "Kitty",
+            "either",
+            "The Kitty"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The bystander effect is often attributed to the \"diffusion of\" this principle. Darley and Latané listed three factors that affected the degree of this principle felt by a bystander.",
+          "answer": "responsibility",
+          "acceptableAnswers": [
+            "responsibility",
+            "equivalents mentioning “responsible”",
+            "The responsibility"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A 2007 study concluded seven primary reasons a child may exhibit this phenomenon in school. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edc1ba974521c293e495f5"
+    },
+    {
+      "id": "f47e8ca1-dd69-471c-9bc7-fe49c2926aa6",
+      "linkedTossupId": "ea161869-bed4-45fd-842e-85b9bf003adf",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this character who-due to his enormous size-never actually appears on stage in a Benjamin Britten operetta titled for him.",
+          "answer": "Paul",
+          "acceptableAnswers": [
+            "Paul",
+            "either",
+            "The Paul"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cyril Dickinson and James Payton built the enormous concrete and wood statues of Paul Bunyan and Babe the Blue Ox in this state's city of Bemidji, which claims to be Bunyan's birthplace.",
+          "answer": "Minnesota",
+          "acceptableAnswers": [
+            "Minnesota",
+            "The Minnesota"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Disney animated short Paul Bunyan was directed by this most-senior member of the \"Nine Old Men,\" who-along with Ub Iwerks and Wilifred Jackson-animated Steamboat Willie.",
+          "answer": "Clark",
+          "acceptableAnswers": [
+            "Clark",
+            "Leslie James Clark",
+            "The Clark"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Milton Warchoff voiced this character in the premiere of a 1941 operetta, in which he claims \"I am the eternal guest, I am way, I am act\" after Inkslinger asks him who he really is. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97422c55"
+    },
+    {
+      "id": "b5d5ab72-3dfe-4e5a-b352-b87c62e2dbb5",
+      "linkedTossupId": "81033761-dbe8-4727-8ed3-ca89da206583",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this dynasty that ruled Portugal after it regained its independence from Spain. Two members of this dynasty would also rule Brazil.",
+          "answer": "Braganza",
+          "acceptableAnswers": [
+            "Braganza",
+            "Sereníssima Casa de Bragança",
+            "The Braganza"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The House of Braganza rose to power after rebelling against this king of Spain, who ruled that country during the Thirty Years' War and was the patron of Diego Velázquez.",
+          "answer": "Philip IV",
+          "acceptableAnswers": [
+            "Philip IV",
+            "Philip III of Portugal",
+            "Filipe III",
+            "prompt on partial answers",
+            "The Philip IV"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Távora affair saw the namesake family implicated in a failed assassination attempt on the Braganza monarch Joseph I. This prime minister used the affair to strengthen his already extensive power by ruthlessly executing the entire Távora family.",
+          "answer": "Melo",
+          "acceptableAnswers": [
+            "Melo",
+            "either underlined portion",
+            "accept 1st Count of Oeiras",
+            "The Melo"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One princess of this dynasty married King Charles II of England. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c05525875976a2"
+    },
+    {
+      "id": "eb1489e9-b24f-40ae-a6f6-653d4ecb8c15",
+      "linkedTossupId": "d791e971-cd8a-4db1-bbf7-1ba141383e05",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this measure of \"disorder\" in a system. It is typically symbolized S.",
+          "answer": "entropy",
+          "acceptableAnswers": [
+            "entropy",
+            "The entropy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "According to the second law of thermodynamics, the amount of entropy in a closed system must obey this general trend. A description is acceptable.",
+          "answer": "increases",
+          "acceptableAnswers": [
+            "increases",
+            "obvious equivalents and answers like \"it does not decrease\"",
+            "The increases"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In statistical mechanics, entropy is equal to the log of the number of microstates times this man's namesake constant, which is equal to about 1.38 times 10-23joules per kelvin. This scientist also co-names a distribution for particle speeds in gas with Maxwell.",
+          "answer": "Boltzmann",
+          "acceptableAnswers": [
+            "Boltzmann",
+            "The Boltzmann"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The third law of thermodynamics says that this value is a well-defined constant at absolute zero. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0adf4b"
+    },
+    {
+      "id": "56924904-1448-4e25-aa72-f32f5571465b",
+      "linkedTossupId": "86fc3b7a-4d7b-44e2-9293-dd3f982213a7",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this type of work that many people associate with sad endings.",
+          "answer": "tragedy",
+          "acceptableAnswers": [
+            "tragedy",
+            "The tragedy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Shakespeare tragedy about a Danish prince who is the nephew of Claudius contains the line, \"To be or not to be.\"",
+          "answer": "Hamlet",
+          "acceptableAnswers": [
+            "Hamlet",
+            "The Hamlet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Both Christopher Marlowe and Johann Wolfgang von Goethe wrote tragic plays about this man who makes a deal with Mephistopheles.",
+          "answer": "Faust",
+          "acceptableAnswers": [
+            "Faust",
+            "The Faust"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Aristotle wrote that this type of literature uses pity and fear to achieve catharsis. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b66b"
+    },
+    {
+      "id": "bc3171d3-c658-4c49-8655-4f1ccce3539f",
+      "linkedTossupId": "2299c292-3b1f-4a52-bc99-d7920eb8a470",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this novel in which Pierre Bezukhov eventually marries Natasha, a chronicle of the invasion of Russia by Leo Tolstoy.",
+          "answer": "War and Peace",
+          "acceptableAnswers": [
+            "War and Peace",
+            "Voyna i Mir",
+            "The War and Peace"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Anna Pavlovna speaks War and Peace's first lines in this language, the first language of Marya's governess. In one scene, characters are fined for speaking this language, which the work's aristocrats use to appear sophisticated.",
+          "answer": "French",
+          "acceptableAnswers": [
+            "French",
+            "le français",
+            "la langue française",
+            "Frantsuzskiy Yazyk",
+            "The French"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In War and Peace, this wealthy friend of Pierre gets wounded at Austerlitz, where he meditates upon the \"infinite sky\" and gets found by Napoleon. He dies of another wound, from an exploding shell at Borodino.",
+          "answer": "Andrei",
+          "acceptableAnswers": [
+            "Andrei",
+            "either underlined part",
+            "The Andrei"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this novel, an ever-kind peasant named Platon Karataev accompanies the protagonist when both are taken prisoner and marched around by their French captors. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f86328cdb0cbb3f4645c5f"
+    },
+    {
+      "id": "7e56c0a3-f331-47c1-8999-75b034b03a54",
+      "linkedTossupId": "b2a0e4e0-2547-4c2b-a67c-3b1020b8275c",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this river, the largest in its country by volume, which flows through the city of Zaragoza.",
+          "answer": "Ebro",
+          "acceptableAnswers": [
+            "Ebro",
+            "The Ebro"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Ebro River is located in the northeast of this Iberian country, which is also home to the Manzanares river, which flows past Madrid.",
+          "answer": "Spain",
+          "acceptableAnswers": [
+            "Spain",
+            "The Spain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The most populous autonomous community of Spain is this territory in southern Spain, which contains the city of Seville as well as the old Moorish stronghold of Granada.",
+          "answer": "Andalusia",
+          "acceptableAnswers": [
+            "Andalusia",
+            "The Andalusia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This river's tributaries, such as the Gallego and Serge, flow south from the Pyrenees. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b605"
+    },
+    {
+      "id": "d89eb828-4684-4d70-a7a3-2b28c67215c5",
+      "linkedTossupId": "a8dc75e1-3797-4f1a-b361-5b60f2e12c65",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Circuits always need a voltage source. The double-A kind of these objects can produce 1.5 volts, and another common type of these devices produces 9 volts.",
+          "answer": "battery",
+          "acceptableAnswers": [
+            "battery",
+            "The battery"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a circuit, a light bulb functions as one of these devices. These devices are used to slow down the flow of electrons and are governed by Ohm's Law.",
+          "answer": "resistor",
+          "acceptableAnswers": [
+            "resistor",
+            "The resistor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this circuit configuration, current must pass directly from one light bulb to another; thus, if one light bulb goes out, all light bulbs in the circuit go out.",
+          "answer": "series",
+          "acceptableAnswers": [
+            "series",
+            "The series"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about circuits:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec65b7"
+    },
+    {
+      "id": "ca7ee92e-a521-4113-9b6e-443d1200619e",
+      "linkedTossupId": "1850ed10-516d-4da9-98ec-78d9834cfc44",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Borivoj, Boleslav, and Vladislav were members of what first Bohemian dynasty, which was supplanted by John of Luxembourg after the assassination of its last member?",
+          "answer": "Presmysl",
+          "acceptableAnswers": [
+            "Presmysl",
+            "The Presmysl"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The three Presmyslid kings who bore this name included one whose religious loyalties were contested by his Christian grandmother Ludmila and pagan mother Dragomir until he was martyred and became Bohemia's patron saint and one whose 1306 death ended the line.",
+          "answer": "Wenceslas",
+          "acceptableAnswers": [
+            "Wenceslas",
+            "The Wenceslas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The martyrdom of the first Wenceslas was perpetrated by nobles angry over Wenceslas's submission to this king of Saxony and Franconia, rival to Gisilbert and Arnulf, and father of Otto the Great.",
+          "answer": "Henry the Fowler",
+          "acceptableAnswers": [
+            "Henry the Fowler",
+            "The Henry the Fowler"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Founded by the plowman husband of Libuše, its rulers held the title of kníze until Otakar I was made a subsidiary king to the Holy Roman Emperor. For ten points each...",
+      "source": "qbreader",
+      "sourceId": "6643bbed01cbf053963dd749"
+    },
+    {
+      "id": "562f8ded-551a-4be4-b884-54d465bbd57b",
+      "linkedTossupId": "59a3b3ff-683a-4958-a9c1-ce322f254795",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this title character whose name comes from the one word that Sethe could afford to have engraved on a tombstone. Paul D is suspicious of this character.",
+          "answer": "Beloved",
+          "acceptableAnswers": [
+            "Beloved",
+            "The Beloved"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Beloved is a novel by this Nobel Laureate who also wrote Song of Solomon and The Bluest Eye.",
+          "answer": "Morrison",
+          "acceptableAnswers": [
+            "Morrison",
+            "Chloe Ardelia Wofford",
+            "The Morrison"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Beloved, Sethe's youngest daughter Denver seeks education from the mixed-race Lady Jones, who hates this feature of herself so much that she dislikes everyone around her because she thinks they also despise it.",
+          "answer": "hair",
+          "acceptableAnswers": [
+            "hair",
+            "The hair"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character mysteriously appears soaking wet on the doorstep of 124 Bluestone Road. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "639f712311983f92aa71f7c1"
+    },
+    {
+      "id": "401a67e0-38ac-46fa-a79d-1471af9359fa",
+      "linkedTossupId": "7aff33b8-9174-4765-9265-23865064b4e4",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this 1854 act which essentially provoked the American Civil War.",
+          "answer": "Kansas-Nebraska",
+          "acceptableAnswers": [
+            "Kansas-Nebraska",
+            "The Kansas-Nebraska"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This political party formed in 1854 in opposition to the Kansas-Nebraska Act. It nominated John C. Fremont as its first Presidential nominee in 1856 and first won the White House in 1860.",
+          "answer": "Republican",
+          "acceptableAnswers": [
+            "Republican",
+            "The Republican"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 1860 Presidential winner came out of political retirement to campaign against the Kansas-Nebraska Act. He would win re-election before being shot by John Wilkes Booth in 1865.",
+          "answer": "Lincoln",
+          "acceptableAnswers": [
+            "Lincoln",
+            "The Lincoln"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This act sponsored by Illinois Senator Stephen Douglas repealed the Missouri Compromise restrictions on slavery in favor of \"popular sovereignty\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1e4d"
+    },
+    {
+      "id": "9fff0768-e096-4984-bc02-15c4a9dbbcc9",
+      "linkedTossupId": "8f85b661-e591-4a17-8fa7-0d9179b674f1",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This \"grand itinerant\" broke with John Wesley over Arminianism and later denied the authority of Alexander Gardiner, the rationalist Anglican commissary of South Carolina.",
+          "answer": "Whitefield",
+          "acceptableAnswers": [
+            "Whitefield",
+            "The Whitefield"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "He ended his career as missionary to the Indians at Stockbridge, where he completed The Great Christian Doctrine of Original Sin Defended.",
+          "answer": "Edwards",
+          "acceptableAnswers": [
+            "Edwards",
+            "The Edwards"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Both Whitefield and Edwards were attacked by this Boston divine, whose 1742 sermon Enthusiasm Described and Cautioned Against saw in the Awakening the legacy of the Munster Anabaptists and Antinomians.",
+          "answer": "Chauncy",
+          "acceptableAnswers": [
+            "Chauncy",
+            "The Chauncy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these figures from the age of the first Great Awakening, FTPE.",
+      "source": "qbreader",
+      "sourceId": "6643bbed01cbf053963dd76f"
+    }
+  ]
+}

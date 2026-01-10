@@ -1,0 +1,1138 @@
+{
+  "packetId": "packet-130",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Philosophy",
+    "Literature",
+    "History",
+    "Fine Arts",
+    "Human Body",
+    "Science",
+    "Geography",
+    "Mythology",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "70798496-5f68-4040-83b9-9eb0998407db",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "One of this philosopher's thought experiments sparked the introduction of the quus function. An extended quote from Augustine's Confessions that illustrates the power of words opens one of his books, which considers the example of a man who has a note reading \"five red apples.\" This man's doctoral dissertation consisted of seven parts and introduced its author's logical atomism. That work by this thinker states \"The world is all that is the case.\" This man used the \"beetle in the box\" thought experiment to consider whether a private language is consistent with reality in his book Philosophical Investigations. For 10 points, name this Austrian philosopher who wrote Tractatus Logico-Philosophicus.",
+      "powerMarkPosition": 324,
+      "answer": "Wittgenstein",
+      "acceptableAnswers": [
+        "Wittgenstein",
+        "The Wittgenstein"
+      ],
+      "source": "qbreader",
+      "sourceId": "63059e1643cf0201876234e1"
+    },
+    {
+      "id": "57fd9eba-ed77-4278-9448-4f87618f49fe",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "In this novel, Isaac loses his sight shortly after the Night of the Broken Trophies. A character who doesn't light his cigarettes uses his Wish to bring him and the protagonist to Amsterdam, where they meet author Peter Van Houten. Shailene Woodley will play this novel's protagonist in a 2014 movie adaptation. For 10 points, name this 2012 novel about cancer patients Augustus Waters and Hazel Grace Lancaster, written by John Green.",
+      "powerMarkPosition": 213,
+      "answer": "Fault in Our Stars",
+      "acceptableAnswers": [
+        "Fault in Our Stars",
+        "The Fault in Our Stars"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318acaac"
+    },
+    {
+      "id": "0cd6fa72-5bb8-4e5e-8eb8-76bcac7ad3a8",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "middle_school",
+      "text": "During one of these conflicts, one side was saved by the leadership of the mercenary Xanthippus, while the last of these conflicts occurred concurrently with the razing of Corinth. One of these conflicts included the battle of Lake Trasimene as well as a battle in which the winning commander completely enveloped the armies of Varro and Paullus. The victor at that Battle of Cannae would later be defeated by Scipio Africanus at Zama many years after he crossed the Alps to invade Italy. For 10 points, name these series of three conflicts between Rome and Carthage, the second of which featured the genius of Hannibal.",
+      "powerMarkPosition": 346,
+      "answer": "Punic",
+      "acceptableAnswers": [
+        "Punic",
+        "things like “Wars between Rome and Carthage”",
+        "The Punic"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0822"
+    },
+    {
+      "id": "bc6b4b87-4848-4406-abd7-97482c543116",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "A painting of this man hangs in the background of Millais' The Black Brunswicker. This man is shown despondent in a snowy landscape in a realist painting by Delaroche. A clock reading 4:13am shows that this man has been writing all night in a painting showing him in his study; the same artist also depicted him crowning his wife. Idealised depictions of this man include an ironically-named colossus of him as the god Mars, and one at the St Bernard Pass, painted by David, showing this leader Crossing the Alps. Often depicted with one hand in his pocket, for 10 points, name this French emperor.",
+      "powerMarkPosition": 330,
+      "answer": "Napoleon",
+      "acceptableAnswers": [
+        "Napoleon",
+        "either part",
+        "The Napoleon"
+      ],
+      "source": "qbreader",
+      "sourceId": "6413cd9afdc648a1ed709830"
+    },
+    {
+      "id": "a8042d9a-2639-492f-9006-844e27831ef3",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for duodenum, jejunum, ileum. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this duodenum-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Duodenum",
+      "acceptableAnswers": [
+        "duodenum",
+        "Duodenum"
+      ],
+      "explanation": "The duodenum is a key component of the Digestive system, involved in duodenum, jejunum, ileum.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "03f00203-8867-441e-b7f5-266b5250e98c",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "This operation is typically applied to n in the binomial theorem, as well as to the time variable in the formula for compound interest. The base of this operation can be zero, unlike the base of its inverse operation, the logarithm. This type of function will always, eventually, grow faster than a polynomial. The \"two\" in \"y equals x squared\" indicates, for 10 points, what mathematical operation that is written above and to the right of a number?",
+      "powerMarkPosition": 221,
+      "answer": "exponent",
+      "acceptableAnswers": [
+        "exponent",
+        "The exponent"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba9718b"
+    },
+    {
+      "id": "67d383ab-c2a7-40ee-9c73-cda3c0cee4b4",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "In this province, Fred Dixon and J. S. Woodsworth were arrested following Bloody Saturday. The capital of this province was the site of Fort Rogue, constructed by Pierre Gaultier de Varennes. A later settlement in this province was destroyed in the Seven Oaks Massacre. Its capital contains the Golden Boy statue and was the site of a strike blamed on the One Big Union. Controversy over Catholic education led to this province's namesake Schools Question, which brought down the Mackenzie Bowell government. This province emerged from the Red River Settlement. For 10 points, name this Canadian province home to the 1919 General Strike in Winnipeg.",
+      "powerMarkPosition": 248,
+      "answer": "Manitoba",
+      "acceptableAnswers": [
+        "Manitoba",
+        "The Manitoba"
+      ],
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faa5c6"
+    },
+    {
+      "id": "db1e515a-6546-4005-a591-64aa8f712c7f",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Alan Boss posited an \"instability\" mechanism for this process, which avoids the \"meter-size barrier\". One phase of this process has a rate that is proportional to to the Safronov number, which is an expression involving the ratio of the square of the escape velocity to the relative velocity. An early step in this process is the formation of a two-dimensional structure via the Goldreich-Ward mechanism. One theory of this process posits an initial \"runaway\" phase followed by a slower \"oligarchic\" phase. This process is posited to go through a transition at the isolation mass, which is calculated from the Hill sphere. This process is posited to have been followed by a migration and rearrangement in the Nice model, which was used to explain the Late Heavy Bombardment. This process takes on the order of 10 million years and begins with a circumstellar disk according to the nebular hypothesis. For 10 points, name this process by which bodies like Mars and Jupiter form.",
+      "powerMarkPosition": 609,
+      "answer": "planet formation",
+      "acceptableAnswers": [
+        "planet formation",
+        "solar system formation",
+        "common-language equivalents",
+        "anti-prompt on the formation of specific planets",
+        "moons",
+        "The planet formation"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e07665f7a23ab4441dfd39"
+    },
+    {
+      "id": "3d5d23d1-4231-4602-99f9-ec774dc57ac8",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "The Nazirite vow requires that the person taking it abstain from consuming this product. On the shabbat, obligatory blessings called kiddush are made over this product. During the Passover Seder, everyone present drinks four cups of this substance. Along with the host, a sacramental type of this substance is an element of the Eucharist. For 10 points, name this alcoholic drink made from fermented grape juice that is significant in Jewish and Christian traditions.",
+      "powerMarkPosition": 263,
+      "answer": "wine",
+      "acceptableAnswers": [
+        "wine",
+        "alcohol",
+        "prompt on grapes with “What kind of drink is made with grapes?”",
+        "The wine"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a504b2"
+    },
+    {
+      "id": "33ebe013-c6e8-4383-87cb-3780475998f7",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "A people in this country use the endonym Atoni and use a tongue referred to as \"the language of the dry.\" Bunak is an allochthonous language spoken in this country's west. This nation administers the former island-of-exile Atauro, which is now a resort center, and a beach called Baucau is popular there despite its population of crocodiles. The aforementioned Baikeno-speakers live in the sandalwood-forested exclave of Oecussi Ambeno (we-KU-si Am-BEE-no) in this nation. Most of its rain falls on the range of Mt. Tatamailau (ta-ta-MAI-lau), its highest point. Inhabitants of this nation's capital speak a creole version of Tetun with many Portuguese borrowings. For 10 points, name this nation on the Arafura Sea with capital Dili.",
+      "powerMarkPosition": 341,
+      "answer": "East Timor",
+      "acceptableAnswers": [
+        "East Timor",
+        "The East Timor"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff4d8"
+    },
+    {
+      "id": "fb63a7ae-5d6b-44a6-9b77-a0e6a07f3df5",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "This work's third book quotes extensively from the \"Homeric Hymn to Apollo\" to provide an account of Delos and an account of the life of Homer. Books XI and XII of the major work of Diodorus Siculus cover the scope of this book, and it uses the term Pentecontaetia to describe a period of time marked by a number of domestic successes. A section of this book named after Mytilene recounts how peasants hope that the inhabitants of Lesbos won't get slaughtered. Its eighth and final book details the Ionian Revolt and ends with the Battle of Cynossema. It recounts the massacre of the isle of Milo after presenting the Melian dialogue, and it claims that during the plague of Athens, Pericles gave a speech defending his decisions in the title conflict. For 10 points, identify this book that relates a war between Athens and Sparta, the major work of Thucydides.",
+      "powerMarkPosition": 430,
+      "answer": "History of the Peloponnesian War",
+      "acceptableAnswers": [
+        "History of the Peloponnesian War",
+        "The History of the Peloponnesian War"
+      ],
+      "source": "qbreader",
+      "sourceId": "63059e1643cf020187623558"
+    },
+    {
+      "id": "46c0e44a-4f2f-4231-a7ca-0316e88d371b",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "text": "A choral work by this composer sets Psalm 100 to music in D major and does not include altos. In this composer's final opera in Italian, Deidamia confesses her love for Achilles. This composer reused the interlude from his Israel in Egypt for his The Cuckoo and the Nightingale, a concerto for pipe organ. The final movement of this composer's fifth suite in E major for harpsichord is often called The Harmonious Blacksmith. A vocal work by this composer includes sopranos singing (read slowly) D - down to A - up to B - down to A motif twice. This composer worked as kapellmeister to the Elector of Hanover before spending most of his career in England, where he wrote an oratorio that features the Hallelujah chorus. For 10 points, name this Baroque composer who composed Water Music and Messiah.",
+      "powerMarkPosition": 398,
+      "answer": "Handel",
+      "acceptableAnswers": [
+        "Handel",
+        "The Handel"
+      ],
+      "source": "qbreader",
+      "sourceId": "6884699f641a9dc975af892d"
+    },
+    {
+      "id": "a7db4792-0033-4e0a-9b24-d49df33d37fc",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "These people caused the extinction of the moa due to over-hunting. Sir Apirana Ngata led a 20th-century cultural revival for these people that included a resurgence of the kapa haka dance style. This people's chief Hone Heke led a rebellion known as the Flagstaff War, and these people fought each other in the 19th-century Musket Wars. William Hobson negotiated the Treaty of Waitangi with these people, and these people practiced an art of facial marking called te moko. For 10 points, name these indigenous people of New Zealand.",
+      "powerMarkPosition": 376,
+      "answer": "Maori",
+      "acceptableAnswers": [
+        "Maori",
+        "The Maori"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9e72"
+    },
+    {
+      "id": "070e5fe1-aca4-40de-9d07-1056a181a271",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "Two creatures of this type drowned Suttungr's [suht-uhn-ger's] father to obtain Kvasir's [k-vah-seer's] remains, and were named Fjalar [fee-YAH-lahr] and Galar [GAH-lahr]. One of these creatures, Hreidmar [h-RYM-dahr], was killed by his son Fafnir [FAAF-neer] for a ring of cursed gold. The Sons of Ivaldi [ee-vahl-dee] are these creatures, who created Skidbladnir [skid-\"blade\"-neer] and Mjolnir [mee-YAHL-neer]; and Dvalin [d-VAH-lihn] was one of these who was turned to stone by the sun. For 10 points, name this race of subterranean master smiths in Norse mythology.",
+      "powerMarkPosition": 388,
+      "answer": "Dwarf",
+      "acceptableAnswers": [
+        "Dwarf",
+        "The Dwarf"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f2114"
+    },
+    {
+      "id": "2748df09-7f15-4f09-8d0e-42ebcd5c487b",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "This figure was monetarily supported by Guimara de Ulloa, and this figure ran away with her brother Rodrigo in childhood to become martyrs. St Francis of Borgia stopped this figure's bout of self-mutilation after she believed her visions were from the devil, and this figure worked with John of the Cross and Anthony of Jesus to found a religious order in Duruelo, and this figure extensively read de Osuna's Third Spiritual Alphabet during her cloistering, in which her sickness lead to euphoric visions. For 10 points, name this saint and leader of the Barefoot Carmelites, who was depicted being pierced by an angel's arrow in a Bernini sculpture.",
+      "powerMarkPosition": 505,
+      "answer": "Theresa",
+      "acceptableAnswers": [
+        "Theresa",
+        "The Theresa"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d435d7"
+    },
+    {
+      "id": "feb2d54e-73e1-4a77-8269-36afddd2984c",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "In this play, a woman reads an advertisement for an Arab sheik who provides character analyses, leading another woman to say \"There's two w's in your future. Work or want, and no Arabian Knight can tell you different.\" This play's central character refuses to drink a cold remedy consisting of milk with a pill dissolved in it given to her by a former male nurse. After seeing and detesting Variation on a Theme, a 19-year-old was inspired to write this play and send it to Joan Littlewood. One character in this play wears an engagement ring on a hair ribbon around her neck. That character in this play flings away a life-sized doll given to her by the gay art student Geof. At the end of this play, a woman walks out on her daughter, who is in labor, because the baby's father is Black. For 10 points, Helen and her daughter Jo feature in what early kitchen sink realist play by Shelagh (\"SHEE-luh\") Delaney?",
+      "powerMarkPosition": 547,
+      "answer": "Taste of Honey",
+      "acceptableAnswers": [
+        "Taste of Honey",
+        "The Taste of Honey"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d17df3ce0dacc4ef84b93a"
+    },
+    {
+      "id": "69a21163-5955-4a1f-992c-c69242edc555",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "When Tefnut angrily fled to Nubia, this god was sent to calm her. Sometimes appearing as a baboon in the form of A'an, this god once gambled with Khonsu to allow Nut to give birth, and Seshat was variously said to be his wife and daughter. His control over magic allowed him to help Isis reassemble Osiris, and he also invented writing. His feminine counterpart was Ma'at, and he records the verdict of the scales in judging the dead. For 10 points, identify this Egyptian god of justice and wisdom, who had an ibis head.",
+      "powerMarkPosition": 239,
+      "answer": "Thoth",
+      "acceptableAnswers": [
+        "Thoth",
+        "Djehuty",
+        "Tehuti",
+        "Tahuti",
+        "Zehuti",
+        "The Thoth"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9841375"
+    },
+    {
+      "id": "1c5579a0-8aac-45a4-b369-6f136595d1d6",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "Nillie Lavie invoked 'loads' to address this phenomenon's 'early or late selection' debate. 80% valid and 20% invalid trials with moving arrows are mixed in the Posner test of this phenomenon, which has \"top-down\" and \"bottom-up\" orientations. 'Conjunction search' and 'feature search' are key to Anne Treisman's 'feature integration model' of this phenomenon, which may lapse in 'deafness' and 'blindness' illusions, like the Stroop effect. Broadbent's 'bottleneck' filter model cannot account for the 'cocktail party effect' on this phenomenon, which was targeted in a test in which subjects overlooked a person in a gorilla suit while counting basketball passes. For 10 points, name this cognitive ability to selectively concentrate, which has a 'deficit' in people with ADHD.",
+      "powerMarkPosition": 394,
+      "answer": "attention",
+      "acceptableAnswers": [
+        "attention",
+        "The attention"
+      ],
+      "source": "qbreader",
+      "sourceId": "63aca784728d604710bf868b"
+    },
+    {
+      "id": "58c0ce19-1c94-4de6-acea-e0e01dec2e7c",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "Lytton Strachey argued that \"A Demon possessed\" this person in the second section of Eminent Victorians. This person used the term \"coxcomb\" to refer to the polar area diagrams which represented this person's data analysis. This person led a team of volunteers, including Eliza Roberts, to Selimiye (\"say-lee-mee-yeh\") Barracks in Scutari. In 1912, the Red Cross established an award named after this person, who set up a school based at St Thomas' Hospital in London. This person refused to work with Mary Seacole while ministering to soldiers in the Crimean War. For 10 points, which so-called \"lady with the lamp\" was a pioneering figure in modern nursing?",
+      "powerMarkPosition": 339,
+      "answer": "Nightingale",
+      "acceptableAnswers": [
+        "Nightingale",
+        "The Nightingale"
+      ],
+      "source": "qbreader",
+      "sourceId": "68fc54d85b5d7bee38aa3f87"
+    },
+    {
+      "id": "91180890-aba8-42c0-9c74-21db9b04214c",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "This writer of A Letter Concerning Toleration also helped draft the Fundamental Constitution of the Carolinas. In one this man's works, he criticizes the so-called Divine Right of Kings and designates the role of the government as protecting the natural rights of mankind. This man's most famous idea is that men learn and gain ideas through experience and begin with a state of mind called the \"tabula rasa.\" For 10 points, name this thinker, who wrote An Essay Concerning Human Understanding and Two Treatises of Government.",
+      "powerMarkPosition": 272,
+      "answer": "Locke",
+      "acceptableAnswers": [
+        "Locke",
+        "The Locke"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0652"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "0ac3d6ce-8f95-4924-a899-718542246591",
+      "linkedTossupId": "70798496-5f68-4040-83b9-9eb0998407db",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this philosophical tract which argues for a relationship with God that transcends one's relationship with the world. This book also describes God as the \"Eternal\" version of one of the title things.",
+          "answer": "I and Thou",
+          "acceptableAnswers": [
+            "I and Thou",
+            "The I and Thou"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "I and Thou was written by this Jewish philosopher, whose other workss include Die Geschichten des Rabbi Nachman and Paths in Utopia.",
+          "answer": "Buber",
+          "acceptableAnswers": [
+            "Buber",
+            "The Buber"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another famous Jewish philosopher is this Spaniard, who developed 13 Articles of Faith and wrote Guide to the Perplexed.",
+          "answer": "Maimonides",
+          "acceptableAnswers": [
+            "Maimonides",
+            "The Maimonides"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This book advocates its title relationship as preferable to one based on objects, which it terms \"its.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0517"
+    },
+    {
+      "id": "1f091505-71a7-49e1-8809-3ece8ddaca84",
+      "linkedTossupId": "57fd9eba-ed77-4278-9448-4f87618f49fe",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This novel by Hemingway about World War I ambulance drivers centers on the love between the expatriate Frederic Henry and the nurse Catherine Barkley.",
+          "answer": "Farewell to Arms",
+          "acceptableAnswers": [
+            "Farewell to Arms",
+            "The Farewell to Arms"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Hemingway novel popularized the running of the bulls in Pamplona, which in the novel is watched by the protagonist Jake Barnes and his love interest Lady Brett Ashley.",
+          "answer": "Sun Also Rises",
+          "acceptableAnswers": [
+            "Sun Also Rises",
+            "The Sun Also Rises"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This novella by Hemingway focuses on the unlucky fisherman Santiago, who is on the eighty-fifth day of a streak of not catching any fish.",
+          "answer": "Old Man and the Sea",
+          "acceptableAnswers": [
+            "Old Man and the Sea",
+            "The Old Man and the Sea"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For ten points each, name these works by the great American writer Ernest Hemingway:",
+      "source": "qbreader",
+      "sourceId": "676f723df56e0dff73abedda"
+    },
+    {
+      "id": "4a3a295b-18e2-476e-ba07-f053c4ad991b",
+      "linkedTossupId": "0cd6fa72-5bb8-4e5e-8eb8-76bcac7ad3a8",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this most populous city in the Southern hemisphere, located a few hundred miles west of Rio de Janeiro.",
+          "answer": "São Paulo",
+          "acceptableAnswers": [
+            "São Paulo",
+            "The São Paulo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "São Paulo is the largest city of this largest South American nation, whose capital is Brasilia.",
+          "answer": "Brazil",
+          "acceptableAnswers": [
+            "Brazil",
+            "The Brazil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This woman succeeded Luiz Inacio Lula da Silva as President of Brazil in 2011.",
+          "answer": "Rousseff",
+          "acceptableAnswers": [
+            "Rousseff",
+            "The Rousseff"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Ipiranga Brook, site of Dom Pedro the First's declaration of independence, flows through a suburb of this city. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e9a0924256318acb7e"
+    },
+    {
+      "id": "6f800d3a-daec-4baa-bd20-add1575d5a79",
+      "linkedTossupId": "bc6b4b87-4848-4406-abd7-97482c543116",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this form of artwork which Gù Kǎizhī used to make Admonitions of the Court Instructress. Many works of calligraphy in China were made in this form that are meant to be unraveled as one views them.",
+          "answer": "scrolls",
+          "acceptableAnswers": [
+            "scrolls",
+            "handscrolls",
+            "The scrolls"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A handscroll painting depicting this event by Song dynasty painter Zhāng Zéduān was dubbed the \"China's Mona Lisa\" and features a boat that is seemingly about to crash under a bridge.",
+          "answer": "Qingming",
+          "acceptableAnswers": [
+            "Qingming",
+            "Ching Ming Festival",
+            "Tomb-Sweeping Day",
+            "Chinese Memorial Day",
+            "Ancestors’ Day",
+            "accept Along the River During the Qingming Festival",
+            "Qingming Shanghe Tu",
+            "The Qingming"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another Song dynasty scroll painting by Guō Xī uses an \"angle of totality\" to depict an early one of these time periods. A Botticelli painting named after this time period depicts the three Graces dancing in an orange grove.",
+          "answer": "Spring",
+          "acceptableAnswers": [
+            "Spring",
+            "Primavera",
+            "Early Spring",
+            "Zǎo Chūn Tú",
+            "prompt on seasons",
+            "The Spring"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One artwork of this type depicts figures mentioned in the text Wise and Benevolent Women. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "652ebb6e8051389c667bcf1d"
+    },
+    {
+      "id": "b0b451ea-3319-4ef1-9051-df2c7ab4dbc8",
+      "linkedTossupId": "a8042d9a-2639-492f-9006-844e27831ef3",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with cerebellum function.",
+          "answer": "cerebrum",
+          "acceptableAnswers": [
+            "cerebrum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cerebrum in the nervous system?",
+          "answer": "Cerebellum function",
+          "acceptableAnswers": [
+            "Cerebellum function"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to cerebellum function.",
+          "answer": "cerebellum",
+          "acceptableAnswers": [
+            "cerebellum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "75f84345-38ce-459d-93b1-ac1372a1a9bd",
+      "linkedTossupId": "03f00203-8867-441e-b7f5-266b5250e98c",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this lab technique in which an electric current passes through a gel, separating molecules intofragments and sorting them.",
+          "answer": "electrophoresis",
+          "acceptableAnswers": [
+            "electrophoresis",
+            "The electrophoresis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The \"SDS\" in SDS-PAGE stands for the sodium dodecyl compound of an ion containing this chemicalelement, whose symbol is S.",
+          "answer": "sulfur",
+          "acceptableAnswers": [
+            "sulfur",
+            "The sulfur"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sodium dodecyl sulfate is also useful as this type of chemical that decreases surface tension. Because thesechemicals make fats more water-soluble, they're typically used in cleaning products, particularly for clothes.",
+          "answer": "detergent",
+          "acceptableAnswers": [
+            "detergent",
+            "The detergent"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One form of this technique, called SDS-PAGE, is used to identify proteins, particularly in HIV testing.For ten points each,",
+      "source": "qbreader",
+      "sourceId": "6837af69278db02eb79f1e6f"
+    },
+    {
+      "id": "5419aaa2-023b-4132-b499-e9b5c3b37419",
+      "linkedTossupId": "67d383ab-c2a7-40ee-9c73-cda3c0cee4b4",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this state where Sir Robert Carr conquered the settlement of New Amstel, renaming it New Castle. Beginning in 1682, it was ruled by Pennsylvania and known as the Lower Counties.",
+          "answer": "Delaware",
+          "acceptableAnswers": [
+            "Delaware",
+            "The Delaware"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man commanded the settlers on the ships Fogel Grip and Kalmar Nyckel, establishing Fort Christina in modern-day Delaware. He'd later perish in a hurricane on his way to Saint Christopher.",
+          "answer": "Minuit",
+          "acceptableAnswers": [
+            "Minuit",
+            "Pieter Minuit",
+            "Pierre Minuit",
+            "Peter Minnewit",
+            "The Minuit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man made a midnight ride from Dover to Philadelphia to break a tie amongst Delaware's delegates on whether or not to support signing the Declaration of Independence.",
+          "answer": "Rodney",
+          "acceptableAnswers": [
+            "Rodney",
+            "The Rodney"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A regiment from this state was commanded by Colonel John Haslet during the Revolutionary War. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faab77"
+    },
+    {
+      "id": "83f448ef-800b-4751-9a03-f9af8d743777",
+      "linkedTossupId": "db1e515a-6546-4005-a591-64aa8f712c7f",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Members of this phylum exhibit radial symmetry and have two germ layers. Their digestive system has one opening unlike many coelomates.",
+          "answer": "cnidaria",
+          "acceptableAnswers": [
+            "cnidaria",
+            "The cnidaria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Though most members of class hydrozoa exhibit two body shapes, the Hydra only exhibits this one. In this body shape, a dorsal mouth is surrounded by tentacles.",
+          "answer": "polyp",
+          "acceptableAnswers": [
+            "polyp",
+            "The polyp"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cnidarians have these organelles located in the epidermis, especially on the tentacles. These structures contain stinging thread capsules called nematocysts.",
+          "answer": "cnidocytes",
+          "acceptableAnswers": [
+            "cnidocytes",
+            "The cnidocytes"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer these related questions about a phylum For 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b10d4"
+    },
+    {
+      "id": "72d4c1b5-c075-4358-9cb9-b9e97c653aad",
+      "linkedTossupId": "3d5d23d1-4231-4602-99f9-ec774dc57ac8",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This German philosopher of The Science of Logic described the spirit of the age, or zeitgeist, in The Phenomenology of Mind.",
+          "answer": "Hegel",
+          "acceptableAnswers": [
+            "Hegel",
+            "The Hegel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hegel wrote about this method of change, in which conflict between a thesis and its antithesis yields a synthesis with elements of both.",
+          "answer": "dialectic",
+          "acceptableAnswers": [
+            "dialectic",
+            "The dialectic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This follower of Hegel outlined his \"dialectical materialism\" in Das Kapital and, with Friedrich Engels, co-authored The Communist Manifesto.",
+          "answer": "Marx",
+          "acceptableAnswers": [
+            "Marx",
+            "The Marx"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer some questions about a German philosopher:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43e50"
+    },
+    {
+      "id": "d7d3c287-29a0-4b7a-8fd5-9d9ca1ec770f",
+      "linkedTossupId": "33ebe013-c6e8-4383-87cb-3780475998f7",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this series of border skirmishes between Maryland and Pennsylvania that occurred during the 1730s. This \"war\" was ended by intervention from George II.",
+          "answer": "Cresap's",
+          "acceptableAnswers": [
+            "Cresap's",
+            "The Cresap's",
+            "Cresap"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The eventual boundary between Maryland and Pennsylvania would be part of this \"line,\" named for two surveyors, that is often considered to be a cultural demarcation between the north and the south.",
+          "answer": "Mason-Dixon",
+          "acceptableAnswers": [
+            "Mason-Dixon",
+            "The Mason-Dixon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The ferries that were fought over during Cresap's War spanned tributaries of this river. James Clinton dammed this river near its source of Otsego Lake and then destroyed the dam to make it navigable during the Revolutionary War.",
+          "answer": "Susquehanna",
+          "acceptableAnswers": [
+            "Susquehanna",
+            "The Susquehanna"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of the disputes during this conflict centered on the rights to the Blue Rock Ferry. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df8012e66cc66ca571d331"
+    },
+    {
+      "id": "60864b98-c383-4dab-ace7-dfe093765b0f",
+      "linkedTossupId": "fb63a7ae-5d6b-44a6-9b77-a0e6a07f3df5",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this king who won a chariot race for the hand of Hippodamia after his left shoulder was eaten by Demeter during a feast for the Olympians.",
+          "answer": "Pelops",
+          "acceptableAnswers": [
+            "Pelops",
+            "The Pelops"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This father of Pelops served him to the Olympians. This man also stole ambrosia and nectar and was punished by being unable to reach some water and low-hanging fruit despite it being right there.",
+          "answer": "Tantalus",
+          "acceptableAnswers": [
+            "Tantalus",
+            "The Tantalus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One granddaughter of Pelops was this wife of Amphitryon and later Rhadamanthys. She was aided by Lucina and Galanthis in giving birth to Hercules.",
+          "answer": "Alcmene",
+          "acceptableAnswers": [
+            "Alcmene",
+            "Alcmena",
+            "The Alcmene"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This figure enlisted Myrtilus to aid him in a task that thirteen suitors died trying to do. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a45600c5"
+    },
+    {
+      "id": "766d88e6-a17e-4267-b51a-3ac659adfe59",
+      "linkedTossupId": "46c0e44a-4f2f-4231-a7ca-0316e88d371b",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this man who popularized the Young People's Concerts while Music Director of the New York Philharmonic, and who also composed the Jeremiah and Kaddish symphonies.",
+          "answer": "Bernstein",
+          "acceptableAnswers": [
+            "Bernstein",
+            "The Bernstein"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Leonard Bernstein composed the music to this musical, in which Tony and Maria fall in love. This musical includes two rival gangs, the Jets and the Sharks.",
+          "answer": "West Side Story",
+          "acceptableAnswers": [
+            "West Side Story",
+            "The West Side Story"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bernstein also composed this operetta, whose closing number is \"Make Our Garden Grow.\"",
+          "answer": "Candide",
+          "acceptableAnswers": [
+            "Candide",
+            "The Candide"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This conductor made his Carnegie Hall debut in 1943 after Bruno Walter got sick. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0cb0e"
+    },
+    {
+      "id": "bd380fb3-2bb3-4194-9c9e-9d1b8b8995b3",
+      "linkedTossupId": "a7db4792-0033-4e0a-9b24-d49df33d37fc",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Give this business term for net money earned by a company after expenses have been deducted. It can be calculated by subtracting cost from revenue.",
+          "answer": "profit",
+          "acceptableAnswers": [
+            "profit",
+            "The profit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Corporations can either hold on to profits, recording them as retained earnings on the balance sheet, or distribute the profits to their shareholders with these payments.",
+          "answer": "dividend",
+          "acceptableAnswers": [
+            "dividend",
+            "The dividend"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A profitable company may find itself the target of an \"LBO,\" or this type of buyout, in which the purchaser takes out loans to finance the purchase and uses their new company's profits to pay back the loan. Generally, this term refers to the practice of taking on debt in an attempt to multiply the return on an investment.",
+          "answer": "leverage",
+          "acceptableAnswers": [
+            "leverage",
+            "The leverage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Ambrose Bierce defined a corporation as \"an ingenious device for obtaining\" this concept \"without individual responsibility.\" For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318aca9c"
+    },
+    {
+      "id": "558db64e-7b9c-48b9-992b-eb136941f513",
+      "linkedTossupId": "070e5fe1-aca4-40de-9d07-1056a181a271",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this hero, who accidentally caused Aegeus to commit suicide after forgetting to change his sails from black to white.",
+          "answer": "Theseus",
+          "acceptableAnswers": [
+            "Theseus",
+            "The Theseus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Theseus volunteered to be one of fourteen youths sent to this location to be eaten by the Minotaur. While in this location, Theseus was guided by a golden string given to him by Ariadne.",
+          "answer": "labyrinth",
+          "acceptableAnswers": [
+            "labyrinth",
+            "The labyrinth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Theseus was nearly poisoned by this witch before Aegeus noticed his sandals and sword and saved him. This figure was abandoned by Jason after the search for the golden fleece.",
+          "answer": "Medea",
+          "acceptableAnswers": [
+            "Medea",
+            "The Medea"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This hero killed Procrustes by forcing him to fit in his own bed and pushed Scirion [SKIH-REE-ON] off of his own cliff while travelling to Athens. For 10 points each--",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7df8"
+    },
+    {
+      "id": "0de8065f-3136-48ed-989c-ab23a997104a",
+      "linkedTossupId": "2748df09-7f15-4f09-8d0e-42ebcd5c487b",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this genre of art whose other practitioners included Carolee Schneemann and Allan Kaprow. In this genre of art, the artist typically demonstrates artistic expression in front of a live audience.",
+          "answer": "performance",
+          "acceptableAnswers": [
+            "performance",
+            "relational art",
+            "The performance"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Serbian \"grandmother of performance art\" invited MOMA visitors to sit across from her in her work The Artist is Present. During her early career this artist collaborated with Ulay.",
+          "answer": "Abramović",
+          "acceptableAnswers": [
+            "Abramović",
+            "The Abramović"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Lovers, Ulay and Abramović walked towards each other from opposite ends of one of these structures. Dmitri Vrubel's My God, Help Me to Survive This Deadly Love depicting two world leaders kissing was painted on one of these structures.",
+          "answer": "wall",
+          "acceptableAnswers": [
+            "wall",
+            "Great Wall of China",
+            "accept Wànlǐ chángchéng",
+            "accept Berlin Wall",
+            "accept Berliner Mauer",
+            "The wall"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Rirkrit Tiravanija cooked for gallery visitors in a work called pad thai, an example of this genre. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab97c"
+    },
+    {
+      "id": "3109d8aa-f87e-4e20-8caf-bbd1778d8032",
+      "linkedTossupId": "feb2d54e-73e1-4a77-8269-36afddd2984c",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this lover of Horacio Oliveira.",
+          "answer": "La Maga",
+          "acceptableAnswers": [
+            "La Maga",
+            "Lucia",
+            "The La Maga"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "La Maga is a character in Hopscotch, a novel by this Argentine author of the story \"Blow-Up.\"",
+          "answer": "Cortazar",
+          "acceptableAnswers": [
+            "Cortazar",
+            "The Cortazar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hopscotch is set in this city. This real-life site of Sylvia Beach's bookstore is also the setting of Fitzgerald's story \"Babylon Revisited.",
+          "answer": "Paris",
+          "acceptableAnswers": [
+            "Paris",
+            "The Paris"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Ossip nags this character into telling of the time she was raped in Montevideo, and she is joined by her son Rocamadour when she is unable to pay for his care. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa245"
+    },
+    {
+      "id": "3a2e075f-9b7b-454d-971e-83e394e7c7b7",
+      "linkedTossupId": "69a21163-5955-4a1f-992c-c69242edc555",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Norse goddess, the wife of Thor. During a series of insults in the Poetic Edda, Loki accuses this deity of having an affair with him.",
+          "answer": "Sif",
+          "acceptableAnswers": [
+            "Sif",
+            "The Sif"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sif's headpiece was crafted by this group of dwarves, whose other crafts include Odin's spear Gungnir and Frey's ship Skidbladnir.",
+          "answer": "Sons of Ivaldi",
+          "acceptableAnswers": [
+            "Sons of Ivaldi",
+            "The Sons of Ivaldi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Loki bet his own head that the Sons of Ivaldi were better crafters than the dwarf Eitri, but lost the bet when Eitri crafted some objects for the gods including Mjolnir, one of these weapons, for Thor.",
+          "answer": "hammer",
+          "acceptableAnswers": [
+            "hammer",
+            "The hammer"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After Loki cut off this goddess' hair as a prank, her husband demands that Loki swear to get her a golden headpiece to replace it. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "639f712311983f92aa71f86b"
+    },
+    {
+      "id": "0ae2ef2f-9818-42f8-8886-a5ddad135913",
+      "linkedTossupId": "1c5579a0-8aac-45a4-b369-6f136595d1d6",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The doctrine of survival says that if two people die in a way that makes it impossible to determine order of death, the person with this trait is said to have died first. In primogeniture, the son with this trait is first to inherit.",
+          "answer": "older",
+          "acceptableAnswers": [
+            "older",
+            "being eldest",
+            "accept equivalents",
+            "but prompt on just age",
+            "being old",
+            "accept being born first",
+            "The older"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another legal fiction involved this historic English county. Because the Court of King's Bench only had jurisdiction over crimes taking place in this county, spurious charges for trespassing here would be brought against a defendant, then quietly substituted with the actual complaint.",
+          "answer": "Middlesex",
+          "acceptableAnswers": [
+            "Middlesex",
+            "the Bill of Middlesex",
+            "The Middlesex"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This English philosopher claimed fiction was as of much use to law as swindling was to trade. This advocate of codifying common law into statutes wrote A Fragment on Government.",
+          "answer": "Bentham",
+          "acceptableAnswers": [
+            "Bentham",
+            "The Bentham"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The \"doctrine of survival\" is a legal fiction still used in parts of the United States in cases of simultaneous death. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6406d0dee39f8dfd08fc25fa"
+    },
+    {
+      "id": "e4acefb0-4d0c-4544-a01a-3c96595b1b90",
+      "linkedTossupId": "58c0ce19-1c94-4de6-acea-e0e01dec2e7c",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Command of the Mexican Rebel forces was first under this man, who famously rallied support through his famous \"Cry of Dolores\" speech. He is considered the \"Father of Mexico.\" He was captured and subsequently executed following the Battle of Calderon Bridge.",
+          "answer": "Hidalgo",
+          "acceptableAnswers": [
+            "Hidalgo",
+            "The Hidalgo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rebel forces were finally led to victory by this former Spanish commander who switched sides and subsequently crowned himself the first emperor of Mexico.",
+          "answer": "Iturbide",
+          "acceptableAnswers": [
+            "Iturbide",
+            "Agustin I of Mexico",
+            "The Iturbide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Iturbide was overthrown less than a year later by this Mexican general who later became president. He led Mexican troops during the Battle of the Alamo and was defeated by Sam Houston at the Battle of San Jacinto.",
+          "answer": "Santa Anna",
+          "acceptableAnswers": [
+            "Santa Anna",
+            "The Santa Anna"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions on the Mexican war of independence:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0baab"
+    },
+    {
+      "id": "8f2652fe-467d-462e-a27e-ce9e65d373e0",
+      "linkedTossupId": "91180890-aba8-42c0-9c74-21db9b04214c",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this sexually transmitted disease that afflicts Doctor Pangloss in a 1759 satirical novel.",
+          "answer": "syphilis",
+          "acceptableAnswers": [
+            "syphilis",
+            "The syphilis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Doctor Pangloss advises the title character of this satirical novel by Voltaire that \"all is for the best\" because we live in the \"best of all possible worlds.\"",
+          "answer": "Candide",
+          "acceptableAnswers": [
+            "Candide",
+            "The Candide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the novel, Candide reunites with the syphilitic Pangloss and is shocked to find that this part of his face has been eaten away by the disease. In the opening chapter of Candide, Pangloss explains his optimistic philosophy by claiming that spectacles exist because this body part was formed to hold them up.",
+          "answer": "nose",
+          "acceptableAnswers": [
+            "nose",
+            "The nose"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A literary character described as the \"greatest philosopher of the whole world\" claims that this disease is a \"necessary ingredient in the best of worlds,\" because if Christopher Columbus' men hadn't brought it back from America, he also wouldn't have brought back chocolate. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004fe4"
+    }
+  ]
+}

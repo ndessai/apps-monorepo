@@ -1,0 +1,1143 @@
+{
+  "packetId": "packet-062",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Human Body",
+    "Literature",
+    "Science",
+    "Fine Arts",
+    "Philosophy",
+    "History"
+  ],
+  "tossups": [
+    {
+      "id": "6af3d539-e9e1-4303-8a1f-26f01807e6c2",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for metabolism regulation. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this thyroid-related structure.",
+      "powerMarkPosition": 96,
+      "answer": "Thyroid",
+      "acceptableAnswers": [
+        "thyroid",
+        "Thyroid"
+      ],
+      "explanation": "The thyroid is a key component of the Endocrine system, involved in metabolism regulation.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "98b9e64d-6469-4365-8e7e-8bafa2607703",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "This novel's protagonist fights traders from Toledo who insult a woman from Toboso, and fights with Samson Carrasco disguised as the Knight of the White Moon. A woman in this novel burns her uncle's library of chivalric novels to stop him from riding around on Rocinante with Sancho Panza, tilting at windmills that he thinks are giants. For 10 points, name this novel by Miguel de Cervantes in which the title man believes he is a knight.",
+      "powerMarkPosition": 209,
+      "answer": "Don Quijote",
+      "acceptableAnswers": [
+        "Don Quijote",
+        "The Don Quijote"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3114afad1e88c874a2e00"
+    },
+    {
+      "id": "2235e39d-ef1b-4946-9c17-12ecb78046e3",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "Two of these types of theories include one based on SO(32) and another based on E 8 cross E 8, which both state that left-moving and right-moving excitations don't communicate. Those are described as heterotic. The objects central to these theories can be described by the Nambu-Goto or Polyakov actions, and these theories are said to be dual to conformal field theories in the AdS-CFT correspondence. These theories, which include the IA, IB, IIA, and IIB theories and predict that Calabi-Yau manifolds are the form of the extra dimensions of spacetime, are a leading candidate for the theory of everything. For 10 points, name these theories, which state that subatomic particles are actually different vibrations of namesake one-dimensional objects.",
+      "powerMarkPosition": 402,
+      "answer": "String",
+      "acceptableAnswers": [
+        "String",
+        "The String"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43d29"
+    },
+    {
+      "id": "3034f993-7571-4d37-a52a-77c30867354e",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "The back right of this painting shows a man on a white horse, just above a man in the foreground wearing a black hat with a red feather. To the left of the knee of this painting's title figure is a black man with most of his face obscured. The original copy of this work was destroyed in Bremen by the Royal Air Force, and this work was defaced in 2003 when a picture of the 9/11 attacks was glued to it. The banner at the center of this painting is historically incorrect, and is being hosted by James Monroe as rowers paddle around chunks of ice. For 10 points, name this Emmanuel Leutze painting that shows the first U.S. president leading troops to the Battle of Trenton.",
+      "powerMarkPosition": 239,
+      "answer": "Washington Crossing the Delaware",
+      "acceptableAnswers": [
+        "Washington Crossing the Delaware",
+        "The Washington Crossing the Delaware"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43bd6"
+    },
+    {
+      "id": "b19e9a4a-55cc-4835-bb29-e2b755cc4784",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This artist created the print Fiesta Pig and organized the Exploding Plastic Inevitable events for creators who worked with this man in his studio, \"The Factory.\" This artist created a Diptych of Marilyn Monroe using silkscreens, and created a series of paintings showing mass-produced items in \"Pepper Pot\" and \"Beef Noodle\" flavors. For 10 points, name this artist who painted a series of Campbell's Soup Cans.",
+      "powerMarkPosition": 152,
+      "answer": "Warhol",
+      "acceptableAnswers": [
+        "Warhol",
+        "The Warhol"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc005096"
+    },
+    {
+      "id": "af8b5221-855a-44a9-8a15-26e612abd5c6",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "William Henry Green criticized an attempt to calculate this quantity for assuming too much precision in its source material. The Omphalos hypothesis denies the validity of physical evidence for calculating this quantity. The ambiguity of the word yom is central to efforts to syncretize opposing views on the value of this quantity. Georges-Louis Leclerc, Comte du Buffon, attempted to determine this quantity by measuring the cooling rate of a sphere of iron. Catastrophists countered geological evidence for a relatively large value for this quantity by promoting the effects of one or more floods. In 1650, this quantity was calculated by James Ussher to be exactly 5,654 years based on genealogical evidence in the Bible. For 10 points, what is this quantity, now believed to be approximately 4.54 billion years, that represents how long the third planet from the Sun has existed?",
+      "powerMarkPosition": 485,
+      "answer": "age",
+      "acceptableAnswers": [
+        "age",
+        "The age"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae3b8"
+    },
+    {
+      "id": "51f2942b-5ff9-418e-85f0-dc147bb36636",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for autonomic nervous system. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this cranial nerve-related structure.",
+      "powerMarkPosition": 98,
+      "answer": "Cranial nerve",
+      "acceptableAnswers": [
+        "cranial nerve",
+        "Cranial nerve"
+      ],
+      "explanation": "The cranial nerve is a key component of the Nervous system, involved in autonomic nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "1335a83c-8e72-4b27-8ee6-775ec97d4a4a",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for autonomic nervous system. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this cranial nerve-related structure.",
+      "powerMarkPosition": 80,
+      "answer": "Cranial nerve",
+      "acceptableAnswers": [
+        "cranial nerve",
+        "Cranial nerve"
+      ],
+      "explanation": "The cranial nerve is a key component of the Nervous system, involved in autonomic nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "2b9f3887-8029-46b9-9548-c3fb866e4034",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "text": "One of these individuals instantly ages 20 years and is sent to assassinate a shady figure called the Patron by aliens to prevent a nuclear terrorist attack. As a set, these characters are inspired by the composer of two eponymous CDs and the film score of A Quiet Life; that inspiration is the subject of Rouse Up O Young Men of the New Age! One of these who travels with an enormous fat man is given the nickname \"Eeyore,\" while yet another is spared the death by diluted milk and sugar water recommended for him by doctors. The earlier examples, from The Pinch Runner Memorandum and Teach Us to Outgrow Our Madness, are both named Mori. For 10 points, name this class of individuals, one of whom gives Bird anxiety in A Personal Matter, a fixture inspired by Hikari Oe in nearly all literary works by Kenzaburo Oe.",
+      "powerMarkPosition": 414,
+      "answer": "disabled",
+      "acceptableAnswers": [
+        "disabled",
+        "disabled sons",
+        "accept mentally retarded",
+        "mentally challenged",
+        "intellectually disabled for “mentally disabled”",
+        "do not accept “autistic” at any point",
+        "prompt “Oe characters” throughout",
+        "prompt “children with brain hernias”",
+        "“children with alleged brain hernias” despite it being ambiguous with regards to the enormous fat man clue",
+        "accept “people named Mori” and equivalents until “diluted milk” is read",
+        "The disabled"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a64f"
+    },
+    {
+      "id": "42d2662f-c74e-4f92-9440-dad75f837516",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "This thinker kept up a correspondence with Samuel Clarke until his death, and he claimed that we formulate perceptions subconsciously, which he called petites perceptions. This man claimed that a concept carries with it all of its relations to other concepts, which he called the doctrine of marks and traces. His name is sometimes appended to the principle of the identity of indiscernibles. This thinker, who satirized a John Locke title in his New Essays on Human Understanding and wrote the Theodicy, believed that everything was made up of entities that have unity, harmony, and the capacity for action. He drew harsh criticism from Voltaire, who satirized him as Dr. Pangloss in Candide. For 10 points, name this German thinker who believed in the power of monads and who developed calculus independently of Isaac Newton.",
+      "powerMarkPosition": 309,
+      "answer": "Leibniz",
+      "acceptableAnswers": [
+        "Leibniz",
+        "The Leibniz"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31961"
+    },
+    {
+      "id": "c040b4a9-0f22-4239-8034-234cff946b4d",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for neurotransmitters. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this axon-related structure.",
+      "powerMarkPosition": 75,
+      "answer": "Axon",
+      "acceptableAnswers": [
+        "axon",
+        "Axon"
+      ],
+      "explanation": "The axon is a key component of the Nervous system, involved in neurotransmitters.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "122af6c9-7213-40a9-aac2-16df99dd9629",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "Combined with dexamethasone, this drug is prescribed to treat a cancer of white blood cells called multiple myeloma. The pharmaceutical company Celgene markets this drug as a treatment for leprosy. The Kefauver-Harris Amendment, passed in 1962, was a direct response to this drug, whose sale in the US was blocked by Frances Kelsey. This teratogenic drug was used over-the-counter as a sedative and anti-emetic during pregnancy, as it was thought to be safer than barbiturates. This racemic drug was eventually pulled from the market after it caused thousands of birth defects, especially in West Germany. For ten points, name this drug, which resulted in a scandal in the early 1960s after it caused limb deformities.",
+      "powerMarkPosition": 417,
+      "answer": "thalidomide",
+      "acceptableAnswers": [
+        "thalidomide",
+        "Contergan",
+        "accept Thalomid",
+        "The thalidomide"
+      ],
+      "source": "qbreader",
+      "sourceId": "68d7483b23ecd621bd0ceb1c"
+    },
+    {
+      "id": "832d5242-de0c-403b-9d86-3c9adf727b8d",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "The legal requirements that allowed men in this city to publicly engage in homosexual behavior included shouting profanities at passers-by and carrying around a basket of kittens. In this city, men expressed affection for women by throwing scented eggshells at them. The \"mute servant\" was an article of clothing worn by noblewomen in this city. Margaret Rosenthal wrote a biography of a woman from this city named Veronica Franco who belonged to a social class of \"honest\" courtesans. It's not Paris, but a man from this city fell out of favor with his patroness, the Marquise d'Urfé (\"mar-KEEZ dur-FAY\"), after falsely claiming he could help her impregnate herself. That man from this city used an iron spike hidden in a Bible and a rope made from bedsheets to escape from a prison in this city called the Piombi. For 10 points, name this home of Giacomo Casanova where prostitutes used to frequent the bridges spanning its canals.",
+      "powerMarkPosition": 473,
+      "answer": "Venice",
+      "acceptableAnswers": [
+        "Venice",
+        "Venezia",
+        "The Venice"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f5c57693c38435a5a33dba"
+    },
+    {
+      "id": "6a7ed718-1984-44f7-9c41-a83af803b47f",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "text": "Hamilton Harty rearranged two works by this composer for full orchestra. One of this composer's works calls for side drums to play ad libitum during the first and second movements, but no parts were written for them. A French overture of one work by this composer divides the nine natural trumpets and horns into three separate groups. The Bourrée of that work by this composer is followed by a Largo Alla Siciliana movement. The premiere of a work by this composer caused a 3-hour traffic jam on London Bridge and resulted in one soldier losing his hand as a result of a pyrotechnics mishap. One movement frequently excerpted from a piece by this composer is La Réjouissance [\"rage-wee-SAWNS\"]. For 10 points, name this composer of Music for the Royal Fireworks, a piece that is often paired with this composer's Water Music.",
+      "powerMarkPosition": 394,
+      "answer": "Handel",
+      "acceptableAnswers": [
+        "Handel",
+        "George Frideric Handel",
+        "The Handel"
+      ],
+      "source": "qbreader",
+      "sourceId": "6406d0dee39f8dfd08fc250b"
+    },
+    {
+      "id": "0e2c9c0b-b6e3-4728-b6f7-1240940cad3a",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "1. According to the Pali Canon, it can be achieved via vipassana alone or the four foundations of mindfulness. In Jainism, it results from an Arhat extinguishing all remaining aghatiya karmas. In Hinduism, it is attained along with Moksha, during which one achieves union with Brahman. It is seen as antithesis to samsara, and is the state of being free from dukka, or suffering. Seen as the end of the cycle of reincarnation once enlightenment is reached, for 10 points, identify this Buddhist equivalent of heaven.",
+      "powerMarkPosition": 192,
+      "answer": "nirvana",
+      "acceptableAnswers": [
+        "nirvana",
+        "The nirvana"
+      ],
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced97a"
+    },
+    {
+      "id": "0142b790-3a4e-456b-88f1-4c2ab899df9a",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "This site is responsible for a ceremony replacing a rope that weighs over a ton that joins the \"wedded rocks,\" which are located in a nearby sea. Each October 15, this site is home to a harvest ritual in which the first crops of the year and a five-colored silk cloth are offered to a deity. One area at this site is an empty lot with a \"sacred central pole.\" The central building of this site consists of a heavy gabled roof with logs crossing the top and is built entirely from cypress. This site consists of an Outer and Inner complex, the latter of which is called Naiku, is accessible via the Uji Bridge, and supposedly contains the Sacred Mirror. For 10 points, name this site whose buildings are torn down and rebuilt on alternating sites every twenty years, the holiest shrine in Shintoism, which is dedicated to Amaterasu.",
+      "powerMarkPosition": 291,
+      "answer": "Ise",
+      "acceptableAnswers": [
+        "Ise",
+        "Ise Jingu",
+        "Kotai jingu",
+        "prompt on Naiku",
+        "The Ise"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae8d95"
+    },
+    {
+      "id": "5ecdf743-5a6b-4a9c-b3f1-55c7e6f4ff12",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "While still a teenager, this man fought in the War of the Second Coalition where he was held prisoner by the British after his ship was captured. Later, he fought in the Peninsular War, where he was awarded a gold medal and a promotion for his actions at the Battle of Bailén. In the Yatasto Relay, command over Army of the North was transferred from Manuel Belgrano to this man. In 1817, this man allied with Bernardo O'Higgins and led an army across the Andes, subsequently winning the Battles of Maipu and Chacabuco to secure Chilean independence. For 10 points, name this Argentine general who met with Simon Bolivar at the Guayaquil Conference and liberated many South American countries from Spanish rule.",
+      "powerMarkPosition": 409,
+      "answer": "San Martín",
+      "acceptableAnswers": [
+        "San Martín",
+        "The San Martín"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a837b"
+    },
+    {
+      "id": "269a08bc-faf7-4918-8dcf-37644443768d",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "In one of this author's stories, a castle made of glass, a glass beehive, and a tree of life made of glass are used by the \"desert prince\" Sasan to woo the \"Arctic princess\" Fiammarosa. Philip Warren enters the \"Purchase House\" and becomes the apprentice to the eccentric potter Benedict Fludd in a novel by this writer. This author included \"Cold\" and other \"stories of ice and fire\" in her collection Elementals. This author created the character Leonora Stern, a lesbian scholar from Tallahassee who tries to seduce a woman by smothering her. A 2009 novel by this author about the Wellwood family is titled The Children's Book.In another of her books, the burgeoning romance between the scholars Roland Michell and Maud Bailey parallels the the historical relationship between the poets Christabel LaMotte and Randolph Henry Ash. For 10 points, name this author of Possession.",
+      "powerMarkPosition": 414,
+      "answer": "Byatt",
+      "acceptableAnswers": [
+        "Byatt",
+        "A. S. Duffy",
+        "The Byatt"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df3a4b1c64d9772f738ad4"
+    },
+    {
+      "id": "cba19abf-7110-46d3-995b-7db88773756e",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "text": "This process was studied using the \"King and Wells method\" by Cambridge researchers who developed a single-crystal calorimeter to measure the heat released by it. The Clausius-Clapeyron equation can be used to derive the isosteric heat of this process, symbolized qst(\"q sub s t\"), and this process's inverse can be modeled using the Polanyi-Wigner equation. An alternative to cryogenic distillation is known as the \"pressure swing\" type of this process. A simple model for this process was extended to multiple layers of material by Brunauer, Emmett, and Teller. Graphs used to study this process can be classified into five or six types, each named after a Roman numeral, and plot the ratio of the total amounts of mass of the two phases against pressure. This process is modeled by isotherms named after Freundlich and Langmuir, and it comes in \"associative\" and \"dissociative,\" as well as \"physical\" and \"chemical,\" types. For 10 points, name this process in which particles adhere to a surface.",
+      "powerMarkPosition": 454,
+      "answer": "adsorption",
+      "acceptableAnswers": [
+        "adsorption",
+        "chemisorption",
+        "chemical adsorption",
+        "physisorption",
+        "physical adsorption",
+        "prompt on “sorption”",
+        "do not accept",
+        "prompt on “absorption”",
+        "The adsorption"
+      ],
+      "source": "qbreader",
+      "sourceId": "6361e01fec1ecd3e795a414b"
+    },
+    {
+      "id": "7ead92c6-6106-4bb6-bad2-fe4afbc6aabc",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "Stories about these beings in a collection of one hundred avadana often end with the instruction to \"work hard to get rid of your meanness.\" These beings were heard wailing outside the palace of Bimbisara, causing the Buddha to recommend offerings to the Sangha in an example of transfer of merit. Another woman was reincarnated as a dog after first becoming one of these beings, in whose mouth rice turned into hot coals. The Yulanpen Sutra describes the rescue of that one of these beings by Mùlián. Along with those of animals and hell, the realm of these beings is one of the three lower realms in Buddhist cosmology. These beings, who have throats as narrow as needles and swollen bellies, are among the spirits that roam free during the seventh month before lanterns guide them away. For 10 points, evil deeds or neglecting one's ancestors might cause them to become what beings cursed with insatiable desire?",
+      "powerMarkPosition": 493,
+      "answer": "preta",
+      "acceptableAnswers": [
+        "preta",
+        "hungry ghosts",
+        "èguǐ",
+        "prompt on ghosts",
+        "the dead",
+        "spirits before mention",
+        "prompt on ancestors",
+        "prompt on parents",
+        "mothers with “What kind of being had they reincarnated as?”",
+        "reject “vetalas”",
+        "The preta"
+      ],
+      "source": "qbreader",
+      "sourceId": "68a26a3b2371a424b101c91c"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "5f5f2869-0ffe-44f5-873a-5e5693a364ab",
+      "linkedTossupId": "6af3d539-e9e1-4303-8a1f-26f01807e6c2",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with major arteries (aorta, carotid, femoral).",
+          "answer": "aorta",
+          "acceptableAnswers": [
+            "aorta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the aorta in the cardiovascular system?",
+          "answer": "Major arteries (aorta, carotid, femoral)",
+          "acceptableAnswers": [
+            "Major arteries (aorta, carotid, femoral)"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to major arteries (aorta, carotid, femoral).",
+          "answer": "vena cava",
+          "acceptableAnswers": [
+            "vena cava"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "5adfab7c-02b6-4785-9bbb-16edc4f5e689",
+      "linkedTossupId": "98b9e64d-6469-4365-8e7e-8bafa2607703",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this violin-playing resident of 221B Baker Street, whose exploits are usually narrated by Watson.",
+          "answer": "Sherlock",
+          "acceptableAnswers": [
+            "Sherlock",
+            "either",
+            "The Sherlock"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of The Sign of Four killed off Sherlock Holmes in The Final Problem but brought him back due to popular demand.",
+          "answer": "Doyle",
+          "acceptableAnswers": [
+            "Doyle",
+            "The Doyle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Final Problem, this \"Napoleon of Crime,\" an archenemy of Sherlock Holmes, is found to have died when he fought Holmes over Reichenbach Falls and fell alongside him.",
+          "answer": "James",
+          "acceptableAnswers": [
+            "James",
+            "either name",
+            "The James"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He is introduced in A Study in Scarlet, and his full-length adventures include The Hound of the Baskervilles. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43948"
+    },
+    {
+      "id": "55d5faa4-544a-428c-9642-93cc2cb62880",
+      "linkedTossupId": "2235e39d-ef1b-4946-9c17-12ecb78046e3",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these immortalized human cells beloved by researchers that were unethically taken from cervical cancer specimens of a patient at Johns Hopkins.",
+          "answer": "HeLa",
+          "acceptableAnswers": [
+            "HeLa",
+            "Henrietta Lacks",
+            "The HeLa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "HeLa cells were essential for developing vaccines for this pathogen after Harald zur Hausen found that genetic information from strain 18 of this virus was present within them and almost certainly caused Lacks' cervical cancer.",
+          "answer": "HPV",
+          "acceptableAnswers": [
+            "HPV",
+            "human papillomavirus",
+            "The HPV"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The presence of HPV genes in the HeLa genome is due to this general process of genetic information moving between organisms in a nonreproductive manner.",
+          "answer": "horizontal gene transfer",
+          "acceptableAnswers": [
+            "horizontal gene transfer",
+            "HGT",
+            "accept lateral gene trasnsfer",
+            "The horizontal gene transfer"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These cells' hypertriploid chromosome number is somewhere from 76 to 80. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "664d3b257fccf73196050226"
+    },
+    {
+      "id": "9bda62c0-c29e-4f9f-9e05-a726efd721e3",
+      "linkedTossupId": "3034f993-7571-4d37-a52a-77c30867354e",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this genre, other examples of which include a work that Dvorak composed in Spillville, Iowa shortly after completing the New World Symphony.",
+          "answer": "string quartet",
+          "acceptableAnswers": [
+            "string quartet",
+            "The string quartet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This San Francisco-based string quartet has had over 900 works commissioned for them over its 40-year history. This quartet also performed the soundtrack for Requiem for a Dream.",
+          "answer": "Kronos",
+          "acceptableAnswers": [
+            "Kronos",
+            "The Kronos"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another film score performed by the Kronos quartet was for this composer's score to the 1931 film Dracula. This minimalist composer also wrote Einstein on the Beach.",
+          "answer": "Glass",
+          "acceptableAnswers": [
+            "Glass",
+            "The Glass"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Some scholars have suggested that Alexander Borodin's second piece in this genre is a 20th anniversary gift to his wife. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "640020a88d3cf1e72e2348ab"
+    },
+    {
+      "id": "33dacb37-87af-4db0-9e6e-7f0ab3155478",
+      "linkedTossupId": "b19e9a4a-55cc-4835-bb29-e2b755cc4784",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Modest Mussorgsky suite, based on paintings of Viktor Hartmann. It contains such movements as The Great Gate of Kiev.",
+          "answer": "Pictures at an Exhibition",
+          "acceptableAnswers": [
+            "Pictures at an Exhibition",
+            "The Pictures at an Exhibition"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the name given to the recurring theme that represents the composer walking from picture to picture. Its theme eventually finds its way into other sections, like The Great Gate of Kiev.",
+          "answer": "Promenade",
+          "acceptableAnswers": [
+            "Promenade",
+            "The Promenade"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mussorgsky was a member of a Russian group of this many composers called the \"Mighty Handful.\" This is the number of instruments in a wind quintet.",
+          "answer": "Five",
+          "acceptableAnswers": [
+            "Five",
+            "the Mighty Five",
+            "The Five"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A movement of this piece uses augmented second intervals to represent the two title Jewish people, Samuel Goldenberg and Schmuyle. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eeadce1032cda62a6773f7"
+    },
+    {
+      "id": "321d35ff-a011-4f1b-8b0a-089ff8961074",
+      "linkedTossupId": "af8b5221-855a-44a9-8a15-26e612abd5c6",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this compound which is added onto proteins with the aid of an E3 ligase such as the SCF complex or mdm2.",
+          "answer": "ubiquitin",
+          "acceptableAnswers": [
+            "ubiquitin",
+            "The ubiquitin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other complex binds to cdc20 and polyubiquitinylates securin, resulting in the activation of separase. Separase then cleaves cohesins which hold sister chromatids together, thus activating the namesake event of this complex.",
+          "answer": "Anaphase Promoting Complex",
+          "acceptableAnswers": [
+            "Anaphase Promoting Complex",
+            "APC/C",
+            "The Anaphase Promoting Complex"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The aforementioned mdm2 polyubiquitinylates this protein, which activates transcription of the Cdk inhibitor p21. It is activated by Checkpoint kinases and it prevents cells with damaged DNA from undergoing mitosis.",
+          "answer": "p53",
+          "acceptableAnswers": [
+            "p53",
+            "tumor protein 53",
+            "The p53"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This polypeptide is attached to lysine residues via isopeptide bonds. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e62eb8"
+    },
+    {
+      "id": "5bc16116-66a6-4ed1-a1fa-784d504767f6",
+      "linkedTossupId": "51f2942b-5ff9-418e-85f0-dc147bb36636",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with hypodermis function.",
+          "answer": "epidermis",
+          "acceptableAnswers": [
+            "epidermis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the epidermis in the integumentary system?",
+          "answer": "Hypodermis function",
+          "acceptableAnswers": [
+            "Hypodermis function"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the integumentary system related to hypodermis function.",
+          "answer": "dermis",
+          "acceptableAnswers": [
+            "dermis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human integumentary system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "581ed5f2-76c7-44e4-a623-ac59f1870684",
+      "linkedTossupId": "1335a83c-8e72-4b27-8ee6-775ec97d4a4a",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with water absorption.",
+          "answer": "colon",
+          "acceptableAnswers": [
+            "colon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the colon in the digestive system?",
+          "answer": "Water absorption",
+          "acceptableAnswers": [
+            "Water absorption"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to water absorption.",
+          "answer": "cecum",
+          "acceptableAnswers": [
+            "cecum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "44893d82-7d4e-452f-a43e-598dff6d4fc1",
+      "linkedTossupId": "2b9f3887-8029-46b9-9548-c3fb866e4034",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The plot of this John Steinbeck novel revolves around the story of Cain and Abel from Genesis. The title references the relative direction of where Cain finally settled, the Land of Nod.",
+          "answer": "East of Eden",
+          "acceptableAnswers": [
+            "East of Eden",
+            "The East of Eden"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This novel by Ernest Hemingway about Jake Barnes and Lady Brett Ashley was inspired by an Ecclesiastes passage that references how human concerns are minor relative to the entire world.",
+          "answer": "Sun Also Rises",
+          "acceptableAnswers": [
+            "Sun Also Rises",
+            "The Sun Also Rises"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This William Faulkner novel takes its name from a son of a king of Israel who rebelled against his father's empire, a reference to the protagonist's own rebellious son Henry.",
+          "answer": "Absalom, Absalom!",
+          "acceptableAnswers": [
+            "Absalom, Absalom!",
+            "The Absalom, Absalom!"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these stories whose titles were inspired by the Bible. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "639f7290036417219c961cd8"
+    },
+    {
+      "id": "fa85d061-eb74-4fcf-bf5b-c2bc57d6dff8",
+      "linkedTossupId": "42d2662f-c74e-4f92-9440-dad75f837516",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this philosopher, who introduced a symbol for the universal quantifier in a book on Concept Script, and used the Morning Star and Evening Star to contrast sense and reference.",
+          "answer": "Frege",
+          "acceptableAnswers": [
+            "Frege",
+            "The Frege"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Frege wrote about the \"foundations\" of this field in a work distinguishing between 1+1=2 and a+b = b+a. The \"fundamental theorem\" of this field is that every number greater than 1 is either prime or expressible using primes.",
+          "answer": "arithmetic",
+          "acceptableAnswers": [
+            "arithmetic",
+            "The arithmetic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Foundations of Arithmetic, Frege derived the Peano axioms using this idea, which says that the number of Fs and Gs will be equal if there is a bijection between the Fs and Gs.",
+          "answer": "Hume’s principle",
+          "acceptableAnswers": [
+            "Hume’s principle",
+            "The Hume’s principle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of the main interpreters of this philosopher was the late Michael Dummett, who revived interest in their work by writing about their Philosophy of Language. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63aca784728d604710bf87c2"
+    },
+    {
+      "id": "71626b4e-d6fa-45c2-8dfb-b7fe5c0b6dfd",
+      "linkedTossupId": "c040b4a9-0f22-4239-8034-234cff946b4d",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with liver functions.",
+          "answer": "liver",
+          "acceptableAnswers": [
+            "liver"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the liver in the digestive system?",
+          "answer": "Liver functions",
+          "acceptableAnswers": [
+            "Liver functions"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to liver functions.",
+          "answer": "bile",
+          "acceptableAnswers": [
+            "bile"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a515f25f-7abf-4311-b712-b8f78894542b",
+      "linkedTossupId": "122af6c9-7213-40a9-aac2-16df99dd9629",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this astronomical diagram that plots a star's luminosity versus its temperature.",
+          "answer": "H",
+          "acceptableAnswers": [
+            "H"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The lower portion of the HR diagram contains these stars whose mass is lower than the Chandrasekhar limit. These stars are held together via electron degeneracy pressure.",
+          "answer": "white dwarf",
+          "acceptableAnswers": [
+            "white dwarf",
+            "The white dwarf"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A portion of the HR diagram known as instability strip contains this type of star that come in Cepheid and RR Lyrae varieties.",
+          "answer": "variable",
+          "acceptableAnswers": [
+            "variable",
+            "The variable"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A diagonal line running through this chart is referred to as the \"main sequence.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b286"
+    },
+    {
+      "id": "75955f76-3177-403f-a0c8-1479295be678",
+      "linkedTossupId": "832d5242-de0c-403b-9d86-3c9adf727b8d",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Give these two geographic terms that delimit the two centers of Maya civilization. One of these two zones is divided into a northern area that includes Cobá and Izamal and southern sites like Seibal and Uaxactun (\"wah-shahk-TOON\") in Petén.",
+          "answer": "Highland",
+          "acceptableAnswers": [
+            "Highland",
+            "área meridional in place of “Highlands”",
+            "accept Northern Lowlands",
+            "área septentrional",
+            "Southern Lowlands",
+            "área central in place of “Lowlands”",
+            "The Highland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The tombs at Kaminaljuyú suggest that the Highland Maya used stingray spines for this practice, which Lady Xoc (\"shoke\") performs in lintels from Yaxchilán (\"yahsh-chee-LAHN\"). Themison of Laodicea pioneered leeches for this ancient medical practice.",
+          "answer": "blood",
+          "acceptableAnswers": [
+            "blood",
+            "blood sacrifice",
+            "shedding blood",
+            "similar answers like bleeding",
+            "The blood"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Diego de Landa was horrified by group genital bloodletting rituals like those depicted in the Madrid Codex, which mainly instructed this activity that many cultures performed with beans, knucklebones, or molten metal.",
+          "answer": "divination",
+          "acceptableAnswers": [
+            "divination",
+            "predicting the future",
+            "fortune-telling",
+            "similar",
+            "accept sortition",
+            "casting lots",
+            "accept molybdomancy",
+            "favomancy",
+            "astragalomancy",
+            "The divination"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Alfred V. Kidder identified Verapaz as a site of trade between these two broad areas, which included a zone that was dominated by the early hydraulic state of Kaminaljuyú (\"ka-mee-nal-HOO-yoo\") during the Late Preclassic period. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae8a08"
+    },
+    {
+      "id": "91d281f9-c14a-4ca2-bd26-5fba4bd8d780",
+      "linkedTossupId": "6a7ed718-1984-44f7-9c41-a83af803b47f",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this Italian composer, who created Madame Butterfly.",
+          "answer": "Puccini",
+          "acceptableAnswers": [
+            "Puccini",
+            "The Puccini"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The titular Chinese princess of this opera featuring the aria \"Nessun Dorma,\" which was left unfinished at Puccini's death, must learn the name of Prince Calaf by dawn or be forced to marry him.",
+          "answer": "Turandot",
+          "acceptableAnswers": [
+            "Turandot",
+            "The Turandot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This opera begins at the Polka Saloon, where the title character, Minnie, falls in love with the bandit Ramirez, who disguised himself under the alias Dick Johnson.",
+          "answer": "Girl of the Golden West",
+          "acceptableAnswers": [
+            "Girl of the Golden West",
+            "La Fanciulla del West",
+            "The Girl of the Golden West"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He wrote an operatic version of Abbé Prévost's Manon Lescault, as well as the operas La Rondine and Edgar. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455ff07"
+    },
+    {
+      "id": "2e49aae5-59be-4f04-b787-ea37a3000cc8",
+      "linkedTossupId": "0e2c9c0b-b6e3-4728-b6f7-1240940cad3a",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this sexually transmitted disease that afflicts Doctor Pangloss in a 1759 satirical novel.",
+          "answer": "syphilis",
+          "acceptableAnswers": [
+            "syphilis",
+            "The syphilis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Doctor Pangloss advises the title character of this satirical novel by Voltaire that \"all is for the best\" because we live in the \"best of all possible worlds.\"",
+          "answer": "Candide",
+          "acceptableAnswers": [
+            "Candide",
+            "The Candide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the novel, Candide reunites with the syphilitic Pangloss and is shocked to find that this part of his face has been eaten away by the disease. In the opening chapter of Candide, Pangloss explains his optimistic philosophy by claiming that spectacles exist because this body part was formed to hold them up.",
+          "answer": "nose",
+          "acceptableAnswers": [
+            "nose",
+            "The nose"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A literary character described as the \"greatest philosopher of the whole world\" claims that this disease is a \"necessary ingredient in the best of worlds,\" because if Christopher Columbus' men hadn't brought it back from America, he also wouldn't have brought back chocolate. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2cd94"
+    },
+    {
+      "id": "4c9d98d4-4176-487f-aea3-809294593ea0",
+      "linkedTossupId": "0142b790-3a4e-456b-88f1-4c2ab899df9a",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Jealousy will get you reborn into this one of the six realms, named for the group of wicked warlike deities. The same word is used in Hinduism for the group opposed to the devas.",
+          "answer": "asura",
+          "acceptableAnswers": [
+            "asura",
+            "The asura"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The first of these teaches that all of life is suffering and the last provides the way to end that suffering.",
+          "answer": "Four Noble Truths",
+          "acceptableAnswers": [
+            "Four Noble Truths",
+            "The Four Noble Truths"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These are the five aggregates or bundles that compose the ego of a person, including form, feeling, perceptions, concept and consciousness.",
+          "answer": "skandha",
+          "acceptableAnswers": [
+            "skandha",
+            "The skandha"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about numbered things in Buddhism, For 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b1884"
+    },
+    {
+      "id": "410b0ed5-aa2b-40f8-ae77-be71b3fc9149",
+      "linkedTossupId": "5ecdf743-5a6b-4a9c-b3f1-55c7e6f4ff12",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this event that saw the Land and Freedom Army fight against British rule under the leadership of Dedan Kimathi and General China. The Kapenguria Six were put on trial for being the purported ringleaders of this event.",
+          "answer": "Mau Mau",
+          "acceptableAnswers": [
+            "Mau Mau",
+            "The Mau Mau"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Mau Mau uprising took place in this east African country. Many British colonists settled in this country's capital of Nairobi during the colonial period.",
+          "answer": "Kenya",
+          "acceptableAnswers": [
+            "Kenya",
+            "Republic of Kenya",
+            "The Kenya"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Ugandan dictator participated in the Mau Mau uprising as an officer in the King's African Rifles. This dictator was forced out of power after a failed invasion of Tanzania in the Kagera War.",
+          "answer": "Amin",
+          "acceptableAnswers": [
+            "Amin",
+            "The Amin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The use of mass internment in response to this rebellion is discussed in Caroline Elkins' 2005 book Imperial Reckoning. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec2b2977063e8d403f080b"
+    },
+    {
+      "id": "0c53d709-385e-4f37-a2ae-696cc30dd061",
+      "linkedTossupId": "269a08bc-faf7-4918-8dcf-37644443768d",
+      "category": "Literature",
+      "subcategory": "Other Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this New Yorker theater critic who included people like Malcolm X's mother in the title category of his book White Girls. He won the 2017 Pulitzer Prize for Criticism.",
+          "answer": "Als",
+          "acceptableAnswers": [
+            "Als",
+            "The Als"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "White Girls also includes a portrait of André Leon Talley, the former editor-at-large of this fashion magazine currently helmed by Anna Wintour (\"winter\").",
+          "answer": "Vogue",
+          "acceptableAnswers": [
+            "Vogue",
+            "The Vogue"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An essay from White Girls about Eminem shares its title with this novel in which Jack Gladney is spooked by the Airborne Toxic Event.",
+          "answer": "White Noise",
+          "acceptableAnswers": [
+            "White Noise",
+            "The White Noise"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A book by this author includes the autobiographical essay \"Tristes Tropiques,\" which discusses the experience of \"twinning\" with a loved one referred to only as SL. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6326bf0f692d593d1d7a8d4c"
+    },
+    {
+      "id": "e57c3bca-9397-44d6-870a-7fc0e3f070ca",
+      "linkedTossupId": "cba19abf-7110-46d3-995b-7db88773756e",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these bilocular structures, which can be basifixed or versatile and lie on top of the filament.",
+          "answer": "Anther",
+          "acceptableAnswers": [
+            "Anther",
+            "The Anther"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These pollen sacs, found in the anther, contain haploid gametophytes. Poricidal or longitudinal dehiscence relases pollen from them.",
+          "answer": "Microsporangia",
+          "acceptableAnswers": [
+            "Microsporangia",
+            "The Microsporangia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Flowers typically have six stamen in this structure, which refers to the collection of the calyx and corolla.",
+          "answer": "Perianth",
+          "acceptableAnswers": [
+            "Perianth",
+            "The Perianth"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In sunflowers, these structures are connate, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "676f82f7c626ea977c7a34a1"
+    },
+    {
+      "id": "efd3bc1e-7e4b-4831-a62d-c2a35c63c093",
+      "linkedTossupId": "7ead92c6-6106-4bb6-bad2-fe4afbc6aabc",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this non-space dimension, often illustrated in philosophy using an arrow that points in one direction.",
+          "answer": "time",
+          "acceptableAnswers": [
+            "time",
+            "arrow of time",
+            "The time"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Oxford Calculators' kinematics influenced this Parisian philosopher, who names a thought experiment about a hungry, thirsty donkey equidistant from hay and water.",
+          "answer": "Buridan",
+          "acceptableAnswers": [
+            "Buridan",
+            "Buridan's ass",
+            "The Buridan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Buridan helped develop this quasi-Aristotelian kinematic theory, which he illustrated with a thought experiment about a cannonball falling in a tunnel dug through the entire earth. This theory's namesake quantity is a kind of motive force often seen as prefiguring the concept of inertia.",
+          "answer": "impetus",
+          "acceptableAnswers": [
+            "impetus",
+            "The impetus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Oxford Calculators' mean speed theorem effectively involved an integral with respect to this quantity. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6334baae3df8739d684ba938"
+    }
+  ]
+}

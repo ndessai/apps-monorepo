@@ -1,0 +1,1138 @@
+{
+  "packetId": "packet-037",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Human Body",
+    "Mythology",
+    "History",
+    "Science",
+    "Fine Arts",
+    "Literature",
+    "Philosophy"
+  ],
+  "tossups": [
+    {
+      "id": "17aaa011-5605-4d7d-92d4-c46a0d5efc2a",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for pancreas digestive enzymes. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this liver-related structure.",
+      "powerMarkPosition": 73,
+      "answer": "Liver",
+      "acceptableAnswers": [
+        "liver",
+        "Liver"
+      ],
+      "explanation": "The liver is a key component of the Digestive system, involved in pancreas digestive enzymes.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "0895eca6-d833-4153-a2d8-15720dbda933",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "This figure defeats a fire-breathing monster beneath the Aventine Hill, Cacus, in the Aeneid. Lovers of this figure included Iole and Deianira, who gave him a robe poisoned with the blood of Nessus, killing him. After his death, his bow and arrows were taken up by Philoctetes. Also notable for diverting a river to clean the Augean stables and for fighting the Nemean Lion, this is, for 10 points, what Greek hero who slew the Hydra as part of twelve labors employing his incredible strength?",
+      "powerMarkPosition": 211,
+      "answer": "Heracles",
+      "acceptableAnswers": [
+        "Heracles",
+        "The Heracles"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4392f"
+    },
+    {
+      "id": "e76181b3-f8d2-46c7-af78-12e255eed502",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "In the Samguk Sagi, one of these objects oozes blood after its two halves are matched up by Yuri and his father Jumong. According to legend, a fisherman who repeatedly catches and throws a part of one of these objects back into the water eventually decides to put it in the corner of his house. A glowing, gem-encrusted part of one of these objects was found in the branches of a banyan tree. That one of these objects was later taken by a golden turtle. One of these objects saved Yamato Takeru from a burning field. The Vietnamese emperor Lê Lợi used one of these objects named Heaven's Will. One of these objects was found in a tail of the serpent Yamata no Orochi by Susano'o. For 10 points, the legendary Kusanagi, or Grass-Cutter, is what type of weapon from Shinto mythology?",
+      "powerMarkPosition": 481,
+      "answer": "sword",
+      "acceptableAnswers": [
+        "sword",
+        "blade",
+        "hilt by asking",
+        "“What larger type of object was that a part of ?”",
+        "prompt on weapon by asking",
+        "“What kind of weapon?”",
+        "The sword"
+      ],
+      "source": "qbreader",
+      "sourceId": "664d3b2b7fccf731960503fb"
+    },
+    {
+      "id": "4b5eb5cb-b8e7-4825-ba60-2f5d3ec7790e",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "During this battle, the crew of Hugh Robinson was forced to scuttle the Guadeloupe. During this battle, Robert Abercromby led an unsuccessful attempt to sabotage enemy cannons. Cannon fire from the Comte de Rochambeau (\"row-shawm-BOH\") preceded an assault on redoubts 9 and 10 in this battle. Prior to this battle, one side achieved naval superiority in the Battle of the Chesapeake. The Articles of Capitulation were signed at Moore House after this event. In a popular legend, soldiers on the losing side of this battle played The World Turned Upside Down following their defeat. For 10 points, Charles Cornwallis surrendered to George Washington at what final battle of the American Revolution?",
+      "powerMarkPosition": 292,
+      "answer": "Yorktown",
+      "acceptableAnswers": [
+        "Yorktown",
+        "Siege of Yorktown",
+        "The Yorktown"
+      ],
+      "source": "qbreader",
+      "sourceId": "68fc54d75b5d7bee38aa3f08"
+    },
+    {
+      "id": "757e976c-a651-4bef-b05c-e103b479152f",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "Every finite extension of a finite field has this kind of Galois (\"gal-WAH\") group, since they are all simple radical extensions. The orders of these objects are described as \"elementary divisors\" or \"invariant factors\" in an important pair of decompositions. By the Jordan-Hölder Theorem, these objects are the factors in any composition series of a finite solvable group. According to a Fundamental Theorem, every finitely generated abelian group is isomorphic to a direct product of these objects. If the order of a group is squarefree, its Sylow (\"SEE-lohv\") p-subgroups must be this kind of group. Under multiplication, the nth roots of unity form this kind of group, as do the rotations in a dihedral group. Every group of prime order is this kind of group. Every finite one of these groups is isomorphic to Z mod n-Z, since they can all be represented as modular addition. These abelian groups are all generated by one element. For 10 points, name these simplest possible groups.",
+      "powerMarkPosition": 641,
+      "answer": "cyclic",
+      "acceptableAnswers": [
+        "cyclic",
+        "primary cyclic groups",
+        "prompt on “groups”",
+        "The cyclic"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0dd99"
+    },
+    {
+      "id": "adb6e893-0241-4df1-8590-dc852a74955c",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "An anonymous musician who plays this instrument while wearing a distinctive mask with two circular white eyes is known for their song \"Toxic\". Israel Kamakawiwo'ole used this instrument on his rendition of \"Somewhere Over the Rainbow\". A \"BoyWith\" this instrument has achieved viral popularity on TikTok. For 10 points, name this four-stringed Hawaiian instrument which resembles a miniature guitar.",
+      "powerMarkPosition": 205,
+      "answer": "ukulele",
+      "acceptableAnswers": [
+        "ukulele",
+        "uke",
+        "accept BoyWithUke",
+        "The ukulele"
+      ],
+      "source": "qbreader",
+      "sourceId": "65666dff443a0a5dea004452"
+    },
+    {
+      "id": "3d372e09-0eb5-44b4-befc-3e6648507f00",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "A poem by this author takes place \"by the shores of Gitchee Goomie\" and describes the title character's marriage to Minnehaha. This author created a character whose \"cry of alarm\" reached \"every Middlesex village and farm.\" In a poem by this author, a man is told to hang lanterns, \"one if by land, and two if by sea,\" to warn of British troops. For 10 points, name this poet of \"The Song of Hiawatha\" and \"Paul Revere's Ride.\"",
+      "powerMarkPosition": 271,
+      "answer": "Longfellow",
+      "acceptableAnswers": [
+        "Longfellow",
+        "The Longfellow"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004d51"
+    },
+    {
+      "id": "3b27d19d-4da6-44f5-8e89-4361f38d97c7",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "Description acceptable. This cause was the subject of a Herblock cartoon titled \"How About One More Try?\" and depicts a \"genie\" described by John F. Kennedy. To benefit this cause, Cyrus Eaton funded the first Pugwash Conferences. This cause was first presented to the United Nations by the Baruch Plan. Richard Nixon's détente policy was \"linked\" to this cause primarily via the first of two 1970s treaties. This cause gained followers after a 1962 event that prompted the creation of the \"red telephone.\" The SALT and START programs were designed to achieve this cause's goals. For 10 points, name this cause that seeks to limit the scope of \"weapons of mass destruction.\"",
+      "powerMarkPosition": 388,
+      "answer": "nuclear arms control",
+      "acceptableAnswers": [
+        "nuclear arms control",
+        "nuclear disarmament",
+        "nuclear non-proliferation",
+        "denuclearization",
+        "accept any prior answers not including “nuclear” after “nuclear”",
+        "prompt on arms control with “Of what nature?”",
+        "The nuclear arms control"
+      ],
+      "source": "qbreader",
+      "sourceId": "66cd4c3fc5459312fdcc581e"
+    },
+    {
+      "id": "6c3c9204-c2ff-4ae7-ab43-a7653f68b771",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "One 1973 book named for this color was refuted by texts including The Timely Shower and Rain of Adamant Fire. That book written by Kyabje Zemey Rinpoche recounts the stories of religious figures who were struck down by the god Dorje Shugden after violating his commands. In accordance with Bon tradition, prayer flags of this color must be placed furthest to the right in displays; those prayer flags symbolize the earth. One sect named for this color is sometimes named for the Ganden monastery that its founder established. The leader of one sect named for this color is currently housed at the Namgyal Monastery. That sect named for this color was founded by Je Tsongkhapa, and is also known as the Gelug. That sect's leaders formerly ruled from Potala Palace and include the Panchen and Dalai Lamas. For 10 points, name this color of the hats that name Tibetan Buddhism's dominant sect, which is contrasted with \"red hats.\"",
+      "powerMarkPosition": 485,
+      "answer": "yellow",
+      "acceptableAnswers": [
+        "yellow",
+        "The yellow"
+      ],
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db463fd"
+    },
+    {
+      "id": "f306c772-f724-4e7d-b2a6-8686d2537b0d",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "When types of these specific entities which contain a z component separate from their non-z counterparts, a type of Jahn-Teller distortion called an elongation occurs. These specific entities may split into t2g[T-sub-2-G] and eg[E-sub-G] components according to crystal field theory, which also describes the bright colors present in certain coordination complexes. These entities may be preferentially filled with electrons from a 4s orbital in elements like copper. Transition metals are the first to fill, for 10 points, which atomic orbitals that come between p and f orbitals?",
+      "powerMarkPosition": 341,
+      "answer": "d",
+      "acceptableAnswers": [
+        "d"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ead0bf8c91030f69d5bab6"
+    },
+    {
+      "id": "e266e239-cc19-4170-b850-640e08a7f2d7",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "Franz Liszt premiered this composer's twenty-ninth piano sonata, whose name comes from a German word for piano. Student Julie Guicciardi[gwit-CHARD-ee]was the dedicatee of this man's fourteenth piano sonata, which a critic compared to viewing Lake Lucerne at night. TheHammerklavierandMoonlight sonatas were written by, for ten points, what German composer who used a \"short, short, short, long\" motif in his Fifth Symphony before becoming almost completely deaf?",
+      "powerMarkPosition": 258,
+      "answer": "Beethoven",
+      "acceptableAnswers": [
+        "Beethoven",
+        "The Beethoven"
+      ],
+      "source": "qbreader",
+      "sourceId": "6837af65278db02eb79f1d39"
+    },
+    {
+      "id": "d39d22e5-3d16-40a8-a982-370ccad8707e",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "text": "The opening prelude of an opera by this composer supposedly ends with a song using a \"fate\" motif that only Satan knew as he was expelled from paradise by Allah. Another of this composer's characters calls on \"air spirits, spirits of the wave\" and takes a three-part oath of chastity in \"Je le jure.\" This composer wrote an opera in which Ralph and Henry Smith duel over the honor of Catherine Glover; in another of his works, two characters echo the line \"let us swear to remain friends.\" This composer wrote \"Oh Dieu Brahma\" and \"Au fond du temple saint,\" in which Nadir and Zurga promise not to vie for the love of Leila. However, his most famous work features a dancer who seduces the soldier Don Jose, listens to Escamillo sing the Toreador Song, and sings the Habanera. For 10 points, name this composer of The Pearl Fishers and Carmen.",
+      "powerMarkPosition": 509,
+      "answer": "Bizet",
+      "acceptableAnswers": [
+        "Bizet",
+        "The Bizet"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97422885"
+    },
+    {
+      "id": "6fb8f1b7-1a96-4bf4-92a7-000d228a10ff",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "If the probability that two randomly selected elements of a group commute is greater than this number over eight, than that group must be abelian. There are this many sporadic Mathieu groups, the largest of which is this number-transitive. If a group is n-transitive and n is greater than this number, then that group is either symmetric or alternating. The alternating group of this order is the smallest non-abelian simple group. The symmetric group of this order is the smallest symmetric group not to be solvable. This is the smallest number of nodes that a nonplanar graph can possess. This is the only number to be both two more and two less than a prime number. This is the length of the hypotenuse of the smallest right triangle with integer sides. For 10 points, identify this number, which is the largest member of a Pythagorean triple including 3 and 4.",
+      "powerMarkPosition": 417,
+      "answer": "5",
+      "acceptableAnswers": [
+        "5",
+        "five"
+      ],
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db463fc"
+    },
+    {
+      "id": "5709afea-4129-4186-b23f-4d746989c365",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "A character in this play is described as wearing twenty-three-inch-bottom trousers and blanco-white tennis shoes. In one scene in this play, a character compares the gloss of a magazine to the smoothness of a parrot's breast. Later, a character plucks the armpit hairs of one character hard after learning he intends to take another wife. That character in this play earns the nickname \"the fox\" after preventing a railway from running through the central town by bribing a surveyor. In the \"Noon\" act of this play, a character has her photograph featured in a Western magazine and rejects Sadiku's invitation to attend a dinner. In this work, Lakunle refuses to pay a bride price for the woman he wishes to marry. For 10 points, name the play featuring Baroka and Sidi, a play by Wole Soyinka.",
+      "powerMarkPosition": 338,
+      "answer": "Lion and the Jewel",
+      "acceptableAnswers": [
+        "Lion and the Jewel",
+        "The Lion and the Jewel"
+      ],
+      "source": "qbreader",
+      "sourceId": "630adb562eacc381ae57fb4e"
+    },
+    {
+      "id": "df96bd67-01cb-415f-8898-a6ab25d810b3",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "Mary Lazenby's story of this man's life claims he wrote articles for the Maryland Almanac under the name \"Philosopher of the Alleghanies.\" Early in life, he started a commune called the Sandy Creek Association, which folded after two years. He wrote that \"obedience to just laws and subjection to slavery is two different things\" in his tract An Impartial Relation of the First Rise. He assumed the name \"Tuscape Death\" while hiding with Isaac Cox in the Glades, where he amassed a fortune. His pamphlet \"Show Yourselves to be Freemen\" protested the \"oppressive taxation of the Piedmont.\" He raised a pole reading \"Liberty and No Excise\" in Pennsylvania during the Whiskey Rebellion. This Quaker refused to fight as he led followers into battle at Alamance Creek, after which he fled the arrest of Governor William Tryon. For 10 points, name this leader of the Regulator movement in North Carolina.",
+      "powerMarkPosition": 383,
+      "answer": "Husband",
+      "acceptableAnswers": [
+        "Husband",
+        "Harmon Husband",
+        "The Husband"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97422c32"
+    },
+    {
+      "id": "5c1dbe11-f355-4c7b-b9bc-34b2332f315d",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "One event in this religion's history was the Five Pecks of Rice Rebellion, which was led by a \"Celestial Master.\" One important analogy to this religion is the idea that followers abide in this system the way a fish abides in water. In a legend of this religion, the creator god Pangu holds up the sky for eighteen thousand years. Concepts in this religion include ming and wu wei, which are \"clarity\" and \"effortless action.\" For 10 points, identify this religion, whose principal text is the Tao Te Ching, which was written by Lao-Tzu, and features the concepts of yin and yang.",
+      "powerMarkPosition": 232,
+      "answer": "Daoism",
+      "acceptableAnswers": [
+        "Daoism",
+        "Taoism",
+        "The Daoism"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f095a"
+    },
+    {
+      "id": "88ee540c-9ef6-4944-b596-5816d463921a",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "text": "This philosopher rejected Kant's assertion that nature conforms to the laws of the intellect in a paper that claims the chicken-egg question can be answered with \"an earlier egg.\" This man's Tanner Lecture introduced a threefold separation of reality into the physical world, mental events, and the body of human thought and knowledge; that theory was expanded into a book co-written with John Eccles. This author of The Self and Its Brain devised a formula to measure verisimilitude in Conjectures and Refutations, and he argued against confusing \"trends with laws\" in a work that rejects the teleological view of history. Another work by this man claims the only criterion that separates science from non-science is falsifiability. For 10 points, name this Austrian-British philosopher who wrote The Logic of Scientific Discovery.",
+      "powerMarkPosition": 468,
+      "answer": "Popper",
+      "acceptableAnswers": [
+        "Popper",
+        "The Popper"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0e34d"
+    },
+    {
+      "id": "5b2f622f-2948-48f1-a0fe-029af3fdcb1c",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "In the wake of this event, Dr. Willard Bliss demanded $25,000 from Congress for his efforts. A policeman named Patrick Kearney prevented a lynching from occurring immediately after it. One participant in this event had printed hundreds of copies of a speech denouncing Winfield Scott Hancock and had written a letter demanding the firing of Secretary of State James Blaine. Alexander Graham Bell devised a metal detector to treat the victim of this event. It was responsible for spurring the passage of the Pendleton Act. The man who carried out this action reportedly shouted \"I am a Stalwart!\" and mentioned Chester Arthur's name. For 10 points, name this 1881 event in which an American president was gunned down by disappointed office-seeker Charles Guiteau.",
+      "powerMarkPosition": 405,
+      "answer": "assassination",
+      "acceptableAnswers": [
+        "assassination",
+        "equivalents for “assassination”",
+        "The assassination"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c321ff"
+    },
+    {
+      "id": "5cab85b2-e821-410a-84ce-eea754c7fc7b",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "Schizophrenic Paul dreams of a world made of this, in a Conrad Aiken story about a \"silent\" and \"secret\" type of it. Inspired by his wife's death, Henry Longfellow claimed he wore a \"cross of\" it. The alleged killing of Carl Heine by a Japanese American is at the center of a David Guterson novel about it \"Falling on Cedars,\" and Robert Frost wrote of woods filling up with it in a poem that ends \"And miles to go before I sleep.\" For 10 points, name this phenomenon, which Ernest Hemingway found atop Mount Kilimanjaro.",
+      "powerMarkPosition": 196,
+      "answer": "snow",
+      "acceptableAnswers": [
+        "snow",
+        "The snow"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a98412f8"
+    },
+    {
+      "id": "243a1a71-6218-4348-b237-19f1e6c50969",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "In this story, a drunkard who likes to insult Germans at any opportunity refuses to comply with the protagonist's wishes to repair rather than replace an object. A doctor asks the protagonist's landlady to order a coffin in this story. Early in this story, the narrator lists a series of names that were rejected by the mother of the protagonist, who as a titular councilor deeply enjoys hand-copying documents. A government official who had slighted the protagonist is visited by the protagonist's ghost in St. Petersburg in this short story. For 10 points, name this story in which Akaky Akakievich buys and then loses the title garment, written by Nikolai Gogol.",
+      "powerMarkPosition": 235,
+      "answer": "Overcoat",
+      "acceptableAnswers": [
+        "Overcoat",
+        "“The Cloak”",
+        "“Shinel”",
+        "The Overcoat"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125d3f3"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "9c7f20bd-377f-4090-aa71-60953b104bc9",
+      "linkedTossupId": "17aaa011-5605-4d7d-92d4-c46a0d5efc2a",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with appendicular skeleton.",
+          "answer": "skull",
+          "acceptableAnswers": [
+            "skull"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the skull in the musculoskeletal system?",
+          "answer": "Appendicular skeleton",
+          "acceptableAnswers": [
+            "Appendicular skeleton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to appendicular skeleton.",
+          "answer": "vertebra",
+          "acceptableAnswers": [
+            "vertebra"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "f0bc1c3f-e153-488d-a889-50b7d038b3e3",
+      "linkedTossupId": "0895eca6-d833-4153-a2d8-15720dbda933",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This princess in Greek mythology had the gift of being able to see the future, but was cursed so that people would never believe her prophecies.",
+          "answer": "Cassandra",
+          "acceptableAnswers": [
+            "Cassandra",
+            "The Cassandra"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cassandra received the ability to see the future from this Greek god of light and prophecy, who was the twin brother of Artemis. He cursed her after she turned down his romantic advances.",
+          "answer": "Apollo",
+          "acceptableAnswers": [
+            "Apollo",
+            "The Apollo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cassandra was a princess from this city. She foresaw its fall to Agamemnon's Greek army.",
+          "answer": "Troy",
+          "acceptableAnswers": [
+            "Troy",
+            "The Troy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the mythical daughter of Priam and Hecuba, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba9714d"
+    },
+    {
+      "id": "60b6f2c2-766a-4fce-816f-3c33a8302444",
+      "linkedTossupId": "e76181b3-f8d2-46c7-af78-12e255eed502",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The chief god of Babylon, this character crushed the armies of Kingu and slew Tiamat to retrieve the Tablets of Destinies.",
+          "answer": "Marduk",
+          "acceptableAnswers": [
+            "Marduk",
+            "Amar-utu",
+            "Meri-dug",
+            "Merodach",
+            "Mardochaios",
+            "The Marduk"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Ugaritic storm god, most famously worshiped in Caanan as the son of El, was killed by Mot. In revenge, this god's co-consort and sister Anat hacked Mot to pieces, which she burned. His name means \"lord\" in various Semitic languages.",
+          "answer": "Ba’al",
+          "acceptableAnswers": [
+            "Ba’al",
+            "The Ba’al"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This savage lived with animals until the temple prostitute Shamhat tamed him. He then met Gilgamesh, the king of Uruk, and traveled with him to slay the giant Humbaba.",
+          "answer": "Enkidu",
+          "acceptableAnswers": [
+            "Enkidu",
+            "The Enkidu"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some figures from the mythology of the Fertile Crescent and its surroundings, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d434ec"
+    },
+    {
+      "id": "c6628bcf-322a-4897-94fb-a965badc2930",
+      "linkedTossupId": "4b5eb5cb-b8e7-4825-ba60-2f5d3ec7790e",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this proponent of \"brinkmanship\" and \"massive retaliation\" who served as Secretary of State under Eisenhower. His younger brother Allen was CIA Director in the 1950s and early 1960s.",
+          "answer": "Dulles",
+          "acceptableAnswers": [
+            "Dulles",
+            "The Dulles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Dulles brothers supported Operation PBSUCCESS, a CIA-led plot to overthrow this democratically elected president of Guatemala. His land reform policies antagonized the United Fruit Company, which owned the majority of Guatemala's banana plantations.",
+          "answer": "Árbenz",
+          "acceptableAnswers": [
+            "Árbenz",
+            "The Árbenz"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Dulles brothers also orchestrated a 1953 coup in this country, which strengthened Shah Mohammad Reza Pahlavi's grip on this country's throne. In 1979, an angry mob captured the US embassy in this country's capital city of Tehran.",
+          "answer": "Iran",
+          "acceptableAnswers": [
+            "Iran",
+            "The Iran"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man described one of his policies as the \"necessary art\" of \"getting to the verge without getting into the war.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff418"
+    },
+    {
+      "id": "b4242eab-8ee3-499e-a75c-6909a5c879de",
+      "linkedTossupId": "757e976c-a651-4bef-b05c-e103b479152f",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this English mathematician. His namesake \"algebra\" involves variables that can be either true or false, and it includes functions like AND, OR, and NOT.",
+          "answer": "Boole",
+          "acceptableAnswers": [
+            "Boole",
+            "Boolean algebra",
+            "The Boole"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Boolean expressions can be simplified using these laws named after another 19th century mathematician. They state that the negation of a disjunction is a conjunction of negations, and vice versa.",
+          "answer": "De Morgan’s",
+          "acceptableAnswers": [
+            "De Morgan’s",
+            "The De Morgan’s"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Boolean \"true\" and \"false\" are often represented as a 1 and a 0 inside of a computer. This number system, which uses only ones and zeroes, is used in almost all computer systems.",
+          "answer": "binary",
+          "acceptableAnswers": [
+            "binary",
+            "base 2",
+            "The binary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Several of this man's ideas are collected in The Laws of Thought. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125cea8"
+    },
+    {
+      "id": "dd686a96-a8db-4bd3-bc6b-eba2793bc3bd",
+      "linkedTossupId": "adb6e893-0241-4df1-8590-dc852a74955c",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Give the term for two colors on opposite sides of the color wheel.",
+          "answer": "complementary",
+          "acceptableAnswers": [
+            "complementary",
+            "The complementary"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Printer ink is based on the subtractive CMYK color model. What color does the M stand for in CMYK?",
+          "answer": "magenta",
+          "acceptableAnswers": [
+            "magenta",
+            "The magenta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Colors of light, on the other hand, are an additive model. What color results when you mix red, green and blue light, such as on a TV screen?",
+          "answer": "white",
+          "acceptableAnswers": [
+            "white",
+            "The white"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about certain combinations of colors.",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c818"
+    },
+    {
+      "id": "4aa93cc2-dc1c-49b4-9027-952ba783b36b",
+      "linkedTossupId": "3d372e09-0eb5-44b4-befc-3e6648507f00",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Often considered the first modern novel, this magnum opus of Cervantes follows a retired gentleman obsessed with chivalry and his many journeys.",
+          "answer": "Don Quixote",
+          "acceptableAnswers": [
+            "Don Quixote",
+            "The Don Quixote"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the novel, Don Quixote's skinny horse is given this name.",
+          "answer": "Rocinante",
+          "acceptableAnswers": [
+            "Rocinante",
+            "The Rocinante"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Despite being a simple peasant in his hometown, Don Quixote imagines her to be the most beautiful woman in the world, though he has never spoken with this woman.",
+          "answer": "Dulcinea",
+          "acceptableAnswers": [
+            "Dulcinea",
+            "The Dulcinea"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about Miguel Cervantes.",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced95e"
+    },
+    {
+      "id": "61a90daf-d1d0-425c-8e83-2665be00c75a",
+      "linkedTossupId": "3b27d19d-4da6-44f5-8e89-4361f38d97c7",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this non-American state. This state shares its name with its capital, which is the most populous city in its country.",
+          "answer": "São Paulo",
+          "acceptableAnswers": [
+            "São Paulo",
+            "The São Paulo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "São Paulo is a state in this largest South American country, which gained independence from Portugal in 1822.",
+          "answer": "Brazil",
+          "acceptableAnswers": [
+            "Brazil",
+            "Federative Republic of Brazil",
+            "The Brazil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man was Brazil's dictator during the Estado Novo period. The Integralist movement sought to overthrow this politician, who committed suicide after angering the military by assassinating a rival.",
+          "answer": "Vargas",
+          "acceptableAnswers": [
+            "Vargas",
+            "Getúlio Dornelles Vargas",
+            "The Vargas"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the Old Republic system of coffee with milk politics, this state's coffee industry was contrasted with the dairy industry of Minas Gerais (MEE-naas jir-ISE). For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66423ff2515f1173a58a2782"
+    },
+    {
+      "id": "5a7f014b-2aed-43f1-8f01-9a6695b7d579",
+      "linkedTossupId": "6c3c9204-c2ff-4ae7-ab43-a7653f68b771",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Taking their name from the Hebrew word for \"readers\", this denomination is characterized for its reliance on strict, literal interpretations of the Tanakh as the only source for required religious practice. The leaders of this denomination in Israel are primarily of Egyptian Jewish descent and most of those residing in America live near Daly City, California.",
+          "answer": "Karaite",
+          "acceptableAnswers": [
+            "Karaite",
+            "The Karaite"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Often called Ultra-Orthodox by outsiders, this group, whose name comes from the Hebrew word for \"one who trembles\", often maintains styles of dress from the 18th and 19th centuries, and they discourage watching television, reading secular newspapers, using the internet, or studying at secular universities.",
+          "answer": "Haredi",
+          "acceptableAnswers": [
+            "Haredi",
+            "The Haredi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Founded in the 18th Century by Israel ben Eliezer as a response to the perceived \"academic\" nature of Jewish customs, this group, whose name comes from the Hebrew words for \"loving kindness\", seeks to reemphasize spirituality and joy. Almost immediately, a schism developed and members of this group dubbed their opponents the mitnagdim.",
+          "answer": "Hasidic Judaism",
+          "acceptableAnswers": [
+            "Hasidic Judaism",
+            "The Hasidic Judaism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following Judaic denominations from a brief description F10PE.",
+      "source": "qbreader",
+      "sourceId": "64d93f124fa392c5b68c479a"
+    },
+    {
+      "id": "f3cfd4f1-bfb1-4aa9-9187-0d9575eac1b7",
+      "linkedTossupId": "f306c772-f724-4e7d-b2a6-8686d2537b0d",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This term refers to memory that only stores bits so long as it has input power; a typical example is normal random-access memory using flip-flop circuitry on a microchip.",
+          "answer": "volatile",
+          "acceptableAnswers": [
+            "volatile",
+            "The volatile"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The direction of this property of 1960s era core memory denoted a 1 or a 0; this non-volatile property has its direction written and read with a \"head\" that scans a film of cobalt alloy in a standard modern hard disc drive.",
+          "answer": "magnetisation",
+          "acceptableAnswers": [
+            "magnetisation",
+            "The magnetisation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this type of device used for the erasable memory of the US's first commercial computer, the UNIVAC, piezoelectric quartz crystals excited bits as acoustic pulses that bounced up and down a tube of mercury.",
+          "answer": "delay line",
+          "acceptableAnswers": [
+            "delay line",
+            "The delay line"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following on the ways that computers can remember things:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636eeb2d"
+    },
+    {
+      "id": "ee204be3-3bb0-4bef-9328-c5b5bfcba08d",
+      "linkedTossupId": "e266e239-cc19-4170-b850-640e08a7f2d7",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this set of four operas, in which the realm of the gods burns while the Rhinemaidens reclaim the title golden object stolen by Albrecht.",
+          "answer": "Ring",
+          "acceptableAnswers": [
+            "Ring",
+            "Der Ring des Nibelungen",
+            "The Ring of the Nibelung",
+            "The Ring"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This German composer wrote the Ring cycle, as well as The Flying Dutchman and Die Meistersinger von Nürnberg.",
+          "answer": "Wagner",
+          "acceptableAnswers": [
+            "Wagner",
+            "The Wagner"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This excerpt from the Ring Cycle describes the travels of Norse spirits like Brünnhilde, who accompany dead warriors to the halls of the gods.",
+          "answer": "Ride of the Valkyries",
+          "acceptableAnswers": [
+            "Ride of the Valkyries",
+            "Walkürenritt",
+            "Ritt der Walküren",
+            "The Ride of the Valkyries"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This long work includes the operas Das Rheingold and Götterdämmerung. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c4e7"
+    },
+    {
+      "id": "04d3485e-deba-49db-b6f9-0ebe1b37823c",
+      "linkedTossupId": "d39d22e5-3d16-40a8-a982-370ccad8707e",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this involuntary action, a \"musical\" instance of which opens another opera, Háry János.",
+          "answer": "sneeze",
+          "acceptableAnswers": [
+            "sneeze",
+            "sneezing",
+            "The sneeze"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this opera, a sneezing fit brought on by some powder prevents Rosina from telling Bartolo whether she has been speaking to the title character. That recitativo in this opera comes shortly after Rosina sings the aria Una voce poco fa.",
+          "answer": "Barber of Seville",
+          "acceptableAnswers": [
+            "Barber of Seville",
+            "The Barber of Seville"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer's opera sketch Hin und zurück begins and ends with a sneeze. This composer of the children's opera We Are Building a City outlined his distinctive theory of tonality in The Craft of Musical Composition.",
+          "answer": "Hindemith",
+          "acceptableAnswers": [
+            "Hindemith",
+            "The Hindemith"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A 2016 Royal Opera House production of a certain opera featured a chorus of strangely-costumed tap dancers whose interlude was punctuated by this involuntary action. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64306481335bc8c468cbb3e4"
+    },
+    {
+      "id": "18d0dd01-1def-4c05-b41d-08d6b7eb9582",
+      "linkedTossupId": "6fb8f1b7-1a96-4bf4-92a7-000d228a10ff",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this functional group, which consists of a carbon triple bonded to a nitrogen.",
+          "answer": "Nitrile",
+          "acceptableAnswers": [
+            "Nitrile",
+            "The Nitrile"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This reaction synthesizes nitriles by adding a cyanide ion to an alkyl or aryl halide. Unfortunately isonitriles are often created as a side product.",
+          "answer": "Kolbe",
+          "acceptableAnswers": [
+            "Kolbe",
+            "The Kolbe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other nitrile synthesis takes an aromatic carboxylic acid to a nitrile by using a thiocyanate reagent.",
+          "answer": "Letts",
+          "acceptableAnswers": [
+            "Letts",
+            "The Letts"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These compounds self-react in the Thorpe reaction, while one of these compounds is partially reduced in the Stephens Aldehyde Synthesis. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d6bd28e96d73a0dccd5d22"
+    },
+    {
+      "id": "a232a6f6-9cca-4d2e-ac60-a72ca4a19c5d",
+      "linkedTossupId": "5709afea-4129-4186-b23f-4d746989c365",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this author who described various scoundrels in the collection A Universal History of Infamy. In a story by this author, a spy tells a man \"But I am your friend\" before shooting him in the back.",
+          "answer": "Borges",
+          "acceptableAnswers": [
+            "Borges",
+            "The Borges"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Borges short story, Yu Tsun murders Stephen Albert in order to communicate the name of a city to bomb. This story is named for a labyrinth in a novel created by Ts'ui Pen.",
+          "answer": "Garden of Forking Paths",
+          "acceptableAnswers": [
+            "Garden of Forking Paths",
+            "“El jardín de senderos que se bifurcan”",
+            "The Garden of Forking Paths"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This title woman of a Borges story shoots Aaron Loewenthal and claims that he raped her, after he drives her father to suicide by accusing him of embezzlement.",
+          "answer": "Zunz",
+          "acceptableAnswers": [
+            "Zunz",
+            "Emma Zunz",
+            "The Zunz"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author describes a woman who surrendered with the words \"the vixen seeks the dragon's wing\" before she \"dedicated her slow old age to opium smuggling\" in \"The Widow Ching - Pirate.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6326bf0e692d593d1d7a8a81"
+    },
+    {
+      "id": "9f84ed40-e6b4-42c3-8aec-f5a5ceb985c1",
+      "linkedTossupId": "df96bd67-01cb-415f-8898-a6ab25d810b3",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Democratic mayor of New York who served from 1854 to 1857 and again from 1860 to 1863. His mayoral terms were sandwiched between terms in the U.S. House of Representatives.",
+          "answer": "Wood",
+          "acceptableAnswers": [
+            "Wood",
+            "The Wood"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Fernando Wood and other Tammany Hall members were supported by this gang of New York immigrants, who often clashed with the Bowery Boys and Atlantic Guards. Hell-Cat Maggie was a member of this gang, which names an 1857 riot.",
+          "answer": "Dead",
+          "acceptableAnswers": [
+            "Dead",
+            "Black Birds",
+            "The Dead"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Fernando Wood left the mayor's office just before violent 1863 New York riots over this wartime practice.",
+          "answer": "draft",
+          "acceptableAnswers": [
+            "draft",
+            "equivalents like conscription",
+            "The draft"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Tammany Hall first came to prominence after successfully electing this candidate in New York's 1854 mayoral election. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63565e81aa22adfc267912fd"
+    },
+    {
+      "id": "36e4576f-a991-4707-b360-388adf6e11e2",
+      "linkedTossupId": "5c1dbe11-f355-4c7b-b9bc-34b2332f315d",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this first book of both the Torah and Old Testament, which details the creation of the world and is usually attributed to Moses.",
+          "answer": "Genesis",
+          "acceptableAnswers": [
+            "Genesis",
+            "The Genesis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "King David is credited with writing most of the poems in this book, including a verse that begins \"The Lord is my shepherd / I shall not want.\"",
+          "answer": "Psalms",
+          "acceptableAnswers": [
+            "Psalms",
+            "The Psalms"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "David's son Solomon is usually credited with many of the Proverbs, Ecclesiastes, and this book, which describes God as a lover and the Hebrew people as his beloved.",
+          "answer": "Song of Songs",
+          "acceptableAnswers": [
+            "Song of Songs",
+            "The Song of Songs"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Many books in the Tanakh and biblical Old Testament have a well-established tradition regarding their authorship. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004c92"
+    },
+    {
+      "id": "ce6c7773-4e05-4537-a989-b5349612b45e",
+      "linkedTossupId": "88ee540c-9ef6-4944-b596-5816d463921a",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this thought experiment by Derek Parfit that appeals to human intuitions about happiness to force the reader to accept that the happiest world contains an infinite number of people whose lives are barely worth living.",
+          "answer": "repugnant conclusion",
+          "acceptableAnswers": [
+            "repugnant conclusion",
+            "The repugnant conclusion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Derek Parfit specializes in this field of philosophy which asks what relation objects bear to themselves. Philosophers in this field wonder if the Ship of Theseus, whose parts get replaced, is fundamentally the same object.",
+          "answer": "identity",
+          "acceptableAnswers": [
+            "identity",
+            "identitas",
+            "The identity"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another idea about the ideal society comes from this man, who explored which society an individual would choose from behind a \"veil of ignorance\" in his A Theory of Justice.",
+          "answer": "Rawls",
+          "acceptableAnswers": [
+            "Rawls",
+            "The Rawls"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This argument presents four different worlds, each of which is posited to be \"happier\" than the one before it. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e71dc"
+    },
+    {
+      "id": "28f21398-baee-4bd1-8fc4-969c0c8ef531",
+      "linkedTossupId": "5b2f622f-2948-48f1-a0fe-029af3fdcb1c",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this chief executive whose decision not to pay tribute to North Africans led to the First Barbary War.",
+          "answer": "Jefferson",
+          "acceptableAnswers": [
+            "Jefferson",
+            "The Jefferson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During the war, this American frigate ran aground and was captured by residents of Tripoli, who installed her as a gun battery. In a daring raid, Lieutenant Stephen Decatur destroyed this vessel to deny her use by the enemy.",
+          "answer": "Philadelphia",
+          "acceptableAnswers": [
+            "Philadelphia",
+            "The Philadelphia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Later in the war, American forces marched from Alexandria to capture this city in the Cyrenaica (\"see-reh-NAY-ih-kuh\") region of modern-day Libya, marking a turning point in the war.",
+          "answer": "Derna",
+          "acceptableAnswers": [
+            "Derna",
+            "Battle of Derne",
+            "The Derna"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In 1801, this man refused to pay 225,000 dollars in tribute to the Pasha of Tripoli. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "636ca2cb1b6aedfbdb9f0029"
+    },
+    {
+      "id": "35231308-5e61-47c1-8306-5ae2e269ad40",
+      "linkedTossupId": "5cab85b2-e821-410a-84ce-eea754c7fc7b",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Give this last name of three British literary sisters. One woman with this surname created Catherine Earnshaw and Heathcliff under the pseudonym Ellis Bell, while another called herself Currer Bell and wrote Jane Eyre.",
+          "answer": "Brontë",
+          "acceptableAnswers": [
+            "Brontë",
+            "any of Anne",
+            "Emily",
+            "Charlotte Brontë",
+            "The Brontë"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other British writer used the pseudonym \"Boz\" for much of his early work, including the eponymous Sketches by Boz. Later, he published his writing serially in the weekly periodical Master Humphrey's Clock.",
+          "answer": "Dickens",
+          "acceptableAnswers": [
+            "Dickens",
+            "The Dickens"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Unlike Dickens and the Brontë sisters, this author is best known by his pseudonym. This man, whose real name was Charles Dodgson, wrote \"The Hunting of the Snark\" and a poem that begins \"'Twas brillig.\"",
+          "answer": "Carroll",
+          "acceptableAnswers": [
+            "Carroll",
+            "The Carroll"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A woman with this last name wrote The Tenant of Wildfell Hall under the pseudonym Acton Bell. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0adb64"
+    },
+    {
+      "id": "bd536516-823b-4028-9a8e-55fc643ae76b",
+      "linkedTossupId": "243a1a71-6218-4348-b237-19f1e6c50969",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these animals used to farm pearls by Gussie H. Bondy after Captain Van Toch discovers them on an island in the Pacific in a novel titled for the \"War with\" these creatures.",
+          "answer": "newt",
+          "acceptableAnswers": [
+            "newt",
+            "salamanders",
+            "mloky",
+            "The newt"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "War With the Newts is a novel by this Czech author who introduced the word \"robot\" in his play R.U.R.",
+          "answer": "Čapek",
+          "acceptableAnswers": [
+            "Čapek",
+            "The Čapek"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While watching a performance of R.U.R., Čapek asked this author whether he had the patience to make it through his \"stupid, boring\" play. This pioneer of the \"people's theatre\" wrote a 10-volume novel sequence about the German composer Jean-Christophe.",
+          "answer": "Rolland",
+          "acceptableAnswers": [
+            "Rolland",
+            "The Rolland"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of these animals kept at the London Zoo named Andrew Scheuchzer learns English by reading newspapers. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32f19679b6464bbdf73f1"
+    }
+  ]
+}

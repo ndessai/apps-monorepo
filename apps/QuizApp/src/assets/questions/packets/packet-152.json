@@ -1,0 +1,1148 @@
+{
+  "packetId": "packet-152",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Science",
+    "Geography",
+    "Philosophy",
+    "Social Science",
+    "Mythology",
+    "Literature",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "c2c1e6a3-6504-45e4-a57c-5a0268ea775c",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "This man defeated Charles of Lorraine with a charge of the Bayreuth Dragoons in the Battle Hohenfriedeberg, and this man defeated Charles again by utilizing an attack in oblique order at Leuthen. Earlier, he destroyed a French army under Soibise by interrupting its flanking maneuver at Rossbach. Those battles helped this man secure the province of Silesia, which he had taken from Maria Theresa in the War of Austrian Succession and subsequently defended in the Seven Years' War. For 10 points, name this King of Prussia from 1746 to 1780, a notable enlightened monarch.",
+      "powerMarkPosition": 195,
+      "answer": "Frederick the Great",
+      "acceptableAnswers": [
+        "Frederick the Great",
+        "Frederick II of Prussia",
+        "accept Frederick IV of Brandenburg",
+        "prompt on Frederick",
+        "The Frederick the Great"
+      ],
+      "source": "qbreader",
+      "sourceId": "657fd7d4de6df0163bbe3a0a"
+    },
+    {
+      "id": "c0d7ce8b-e395-41c4-8b1e-3086ebf7dc50",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "This organ is derived from splanchnopleuric mesenchyme in the neural plate during embryonic development. Tendon-resembling fibrous cords of connective tissue in this organ connect the papillary muscles to openings in this organ; those cords are called chordae tendineae. An oval-shaped depression in the wall of one section of this organ is a remnant of an opening in the same area called the foramen ovale. Metoprolol is one drug in a class of medications that slows down this organ by blocking the effects of epinephrine; those medications are beta blockers. The tricuspid valve in this organ allows for fluid flow between its right atrium and right ventricle. For 10 points, name this muscular organ with four sections that pumps blood through the vessels in the circulatory system.",
+      "powerMarkPosition": 388,
+      "answer": "heart",
+      "acceptableAnswers": [
+        "heart",
+        "The heart"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0aeca5"
+    },
+    {
+      "id": "0e9cbf8b-a34f-42bb-8c41-bd28499e33e6",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "This river creates the Mana Pools, a flood plain that serves as a wildlife conservation area. The Cuando River flows into this river, whose namesake coastal flooded savanna has been damaged by the destruction of waterbuck and buffalo by FRELIMO and RENAMO forces. This river, which generates hydroelectric power at the Kariba and Cahora Bassa dams, contains a feature that includes the Devil's Cataract and six gorges over which water plunges. For 10 points, name this African river that flows through Zambia and Zimbabwe and over Victoria Falls.",
+      "powerMarkPosition": 263,
+      "answer": "Zambezi",
+      "acceptableAnswers": [
+        "Zambezi",
+        "The Zambezi"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6ded8c6"
+    },
+    {
+      "id": "3d34e81b-7b51-4556-84a1-0fc0335134e3",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "These people lost to Dmitri Ivanovich at the battle of Kulikovo, causing him to take the name 'Donskoy'. One leader of these people was later killed following the Great Stand on the Ugra River, where these people were defeated. Previously, at the battle of the Kalka River, these people used the tactic of feigned retreat to achieve victory while led by Subutai. One group of these people were named for the color of their tents, the Golden Horde. For 10 points, name these people that conquered significant portions of Eastern Europe and Russia under the leadership of Genghis Khan.",
+      "powerMarkPosition": 305,
+      "answer": "Mongols",
+      "acceptableAnswers": [
+        "Mongols",
+        "Mongolia",
+        "anti prompt on Golden Horde before read",
+        "The Mongols"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e9b655469ef3ae75f63c40"
+    },
+    {
+      "id": "cab7dd1d-3d21-4af5-af28-92b2c0715c53",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "A function that outputs 91 for certain inputs, and is used to test automatic formal verification of this concept, was created by John McCarthy, who developed the first formalism for this concept. Successor, projection, and composition are functions that axiomatize the primitive form of this concept. Algorithms that use this concept can be analyzed with the three cases of the master theorem. Stack overflows can be avoided using this concept's tail form. Top-down dynamic programming employs this concept in breaking down a problem into subproblems. This concept, often used when calculating Fibonacci numbers and factorials, is contrasted with iteration. For 10 points, name this concept in which a function or problem is defined in terms of itself.",
+      "powerMarkPosition": 445,
+      "answer": "recursion",
+      "acceptableAnswers": [
+        "recursion",
+        "accept primitive recursion",
+        "tail recursion",
+        "prompt on divide and conquer",
+        "The recursion"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d89b901b9f4c4f11ae1b65"
+    },
+    {
+      "id": "c0eb93b0-6c95-4baa-ae97-740934233063",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "high_school",
+      "text": "One leader who fought for this polity was falsely accused by Richard Piggott of supporting the Invincibles in the Phoenix Park Murders; another early leader was known as Wolfe Tone. A rebellion in this polity involved the takeover of the General Post Office and resulted in the execution of Roger Casement. Its war for independence is known as the Black and Tan War, and the Battle of the Boyne was fought in this nation. Its first Taoseach [TEA-shock], Éamon de Valera, was the leader of Sinn Fein. For 10 points, the Easter Rising took place in what nation, which gained its independence from Great Britain many decades after the Potato Famine?",
+      "powerMarkPosition": 290,
+      "answer": "Ireland",
+      "acceptableAnswers": [
+        "Ireland",
+        "Eire",
+        "The Ireland"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfed9b"
+    },
+    {
+      "id": "df934b2c-51ee-43b0-a136-5c9f8b607fa4",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "This man wrote that \"faith, hope and love abide\" and that \"the greatest of these is love\" in one of his letters. This man advocated for the torture of Christians until Jesus came to him in a vision which left him blind for three days. This man then became a Christian missionary in Asia Minor and the Aegean until he was imprisoned in Rome. For 10 points, name this apostle who converted on the Road to Damascus and abandoned the name Saul.",
+      "powerMarkPosition": 234,
+      "answer": "Paul",
+      "acceptableAnswers": [
+        "Paul",
+        "Saul of Tarsus until “Saul”",
+        "The Paul"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c5a5"
+    },
+    {
+      "id": "eb8f3566-b8fe-45da-bb5c-8c57b4821e0e",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "A thinker from this country contradicted their \"copy principle\" with a thought experiment involving a \"missing shade of blue.\" That thinker from this country authored An Enquiry Concerning Human Understanding. A thinker from this country imagined individuals acting in their self-interest as an \"invisible hand\" that affects the market. That thinker from this country used a pin factory to imagine specialization in a book critiquing mercantilism. For 10 points, David Hume and Adam Smith hailed from what constituent country of the United Kingdom, which is north of England?",
+      "powerMarkPosition": 328,
+      "answer": "Scotland",
+      "acceptableAnswers": [
+        "Scotland",
+        "Alba",
+        "prompt on United Kingdom",
+        "Great Britain before it is read",
+        "The Scotland"
+      ],
+      "source": "qbreader",
+      "sourceId": "66e1bbb8b3ec1cfe3cd4a79f"
+    },
+    {
+      "id": "78ccaa1e-ea78-4ef9-87ff-beb26a992b41",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "The \"polarity\" of this feature in certain languages cannot be represented with the feature-matrix representational model, leading linguists to instead argue for an autosegmental model. Oklahoma Cherokee has this feature yet North Carolina Cherokee does not, due to contact-induced genesis of this feature. Meeussen's rule describes a change of this feature in Bantu languages, which can also undergo \"terracing,\" a form of this feature's \"sandhi\" (\"SUN-dee\"). This feature may comprise a morpheme on its own, called \"floating [this feature],\" and can undergo downstep from HH to HL. The importance of this feature in Mandarin is often demonstrated with minimal pairs of the syllable ma (\"mah\"), and this feature is romanized with diacritics in Pīnyīn. For 10 points, name this linguistic feature that can convey lexical information through rising or falling pitches.",
+      "powerMarkPosition": 437,
+      "answer": "tone",
+      "acceptableAnswers": [
+        "tone",
+        "pitch",
+        "The tone"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ec2f74c5548754cbcb0468"
+    },
+    {
+      "id": "83779c71-24f4-4894-b536-bd2b8ff40891",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "The centaur Nessus gave Deianira (\"day-uh-neer-uh\") a tunic containing his blood and a substance from this creature as a gift to her husband, which kills him when he wears it. Hera turns the crab Cancer into a constellation after it is killed during a battle with this creature. Chiron gave up his immortality after he accidentally pierces himself with an arrow dipped in this creature's highly poisonous blood. Iolaus helped his uncle Heracles slay this creature which resided in the poisonous swamp near Lake Lerna. During that battle with this creature, Heracles repeatedly decapitated it while Iolaus used a firebrand to cauterize the stumps. For 10 points, name this monster that, whenever one of its heads was cut off, would sprout two more.",
+      "powerMarkPosition": 371,
+      "answer": "Hydra",
+      "acceptableAnswers": [
+        "Hydra",
+        "The Hydra"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f1bd4b1d1753da7fbbfaef"
+    },
+    {
+      "id": "16af3543-cb4f-42c1-b9d2-8612c778f2cd",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "high_school",
+      "text": "The Iberian Bacurius launched an unauthorized cavalry attack to begin this battle, but was rebuffed by the return of the losing side's foraging cavalry. This battle ends a work by Ammianus Marcellinus that records how the losing commander was resting in a building when enemy troops happened by and fortuitously decided to burn it out of boredom. The losing commander was incorrectly told that the enemy had only ten thousand men, and chose not to wait for the reinforcements of Gratian before marching to the victors' wagon circle. In the wake of this battle, Thrace was ravaged for four years by the forces of Fritigern. Emperor Valens was killed fighting the Goths at, for 10 points, what 378 battle regarded as the collapse of the Western Roman Empire?",
+      "powerMarkPosition": 478,
+      "answer": "Adrianople",
+      "acceptableAnswers": [
+        "Adrianople",
+        "Battle of Hadrianopolis",
+        "The Adrianople"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aed5d"
+    },
+    {
+      "id": "002c975b-a2b0-4fba-9f79-348ff7bce0b8",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "Along with Chandler Owen, this man was a leader in the \"Garvey Must Go\" campaign and a founder of The Messenger magazine. From 1960 to 1966, he was president of the Negro American Labor Council, which fought discrimination in the AFL-CIO. Franklin Roosevelt's Executive Order 8802, which banned racial discrimination in the defense industry, was a result of this man's threat to lead a march on Washington. This man became the first president of a union in 1925 in part because he was not a Pullman employee. For 10 points, name this organizer of the Brotherhood of Sleeping Car Porters who was also the director of the 1963 March on Washington.",
+      "powerMarkPosition": 238,
+      "answer": "Randolph",
+      "acceptableAnswers": [
+        "Randolph",
+        "The Randolph"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df83920c3a38102cd7586a"
+    },
+    {
+      "id": "c07f59e0-3f29-45f0-88ba-a7aada552a53",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "college",
+      "text": "Kenneth Scott wrote about the cult of this man's family, and modern scholarship suggests a poem about the Seven Champions of Thebes is critical of him. This man responded to the Revolt of the Batavi by sending a huge army led by Quintus Cerialis. This man had Helvidius Priscus killed for his Stoic teachings, was pelted with turnips at an uprising in Hadrumetum, and implemented a tax on urinals. This man was sent by Claudius to invade the Isle of Wight and later sent Agricola to expand the Empire into modern-day Scotland. This man won the second battle of Bedriacum to replace Vitellius as Emperor, becoming the fourth emperor to rule Rome in 69 CE. For 10 points, name this Roman Emperor who began work on the Colosseum and founded the Flavian dynasty.",
+      "powerMarkPosition": 418,
+      "answer": "Vespasian",
+      "acceptableAnswers": [
+        "Vespasian",
+        "Titus Flavius Caesar Vespasianus Augustus",
+        "The Vespasian"
+      ],
+      "source": "qbreader",
+      "sourceId": "62edba2365d377e2cebbd0e6"
+    },
+    {
+      "id": "f32c190f-95a7-4526-8e13-b7c31495876c",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "The narrator of this novel describes the \"freak accident\" that killed his \"very photogenic mother\" with the parenthetical \"(picnic, lightning)\". This novel's narrator considers drowning his wife while swimming at Hourglass Lake before she is killed on a rainy day by a car that swerved to avoid hitting a dog. This novel's narrator traces his pathology to a thwarted sexual encounter with a girl he calls Annabel Leigh. The foreword to this novel, which is attributed to John Ray Jr., claims that the 17-year-old \"Mrs. Richard F. Schiller\" died during a stillbirth on Christmas Day. As the two central characters of this novel stay at numerous roadside inns, they are trailed by an Aztec-red convertible driven by a playwright named Clare Quilty. For 10 points, name this novel in which the title \"nymphet\" is lusted after by Humbert Humbert, written by Vladimir Nabokov.",
+      "powerMarkPosition": 404,
+      "answer": "Lolita",
+      "acceptableAnswers": [
+        "Lolita",
+        "The Lolita"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531ffa61a9ba79f359d8"
+    },
+    {
+      "id": "93892348-df63-4651-ab15-9b2f356bed5e",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This type of instrument was played by Gene Krupa and Buddy Rich, who appear together on only one song from a joint 1956 album. This type of instrument plays an ostinato throughout all of Maurice Ravel's Bolero. Only one performer plays this type of instrumentin Beethoven's Fifth Symphony, using the tunings G and C for the two timpani. A typical orchestra has brass, woodwinds, strings, and, for ten points, what fourth instrument section, including snares and cymbals?",
+      "powerMarkPosition": 202,
+      "answer": "percussion",
+      "acceptableAnswers": [
+        "percussion",
+        "The percussion"
+      ],
+      "source": "qbreader",
+      "sourceId": "6837af66278db02eb79f1db4"
+    },
+    {
+      "id": "43976d4e-2cbe-41fa-8981-8ba8ad386b28",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "The Yasuni-ITT initiative was proposed to protect a region in this country. Almost all balsa wood in the world comes from this country, including the wood in Kon-Tiki. This country's largest island is Isabela, which lies on a hotspot near the edge of the Nazca Plate. This country contains Mount Cotopaxi, and its Mount Chimborazo is the farthest point on Earth's surface from its center. Darwin's Finches and giant tortoises live in this country's Galapagos Islands. North of Peru, for 10 points, name this country with largest city Guayaquil and capital Quito, named for its latitude.",
+      "powerMarkPosition": 319,
+      "answer": "Ecuador",
+      "acceptableAnswers": [
+        "Ecuador",
+        "The Ecuador"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144ddc"
+    },
+    {
+      "id": "c1427407-bd1a-4650-b45b-a28320a4afc1",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "A commander in this battle mistook casualties for retreating soldiers and committed Milhaud's cavalry to a series of charges. Its loser tried to use the Imperial Guard to retake Plancenoit, but was driven back by Maitland's Foot Guards. Ney's assault on La Haye Sainte occurred at this battle, which was preceded by failed attacks at Quatre-Bras and Ligny and began with a bombardment of Hougoumont Farm. The arrival of Blucher's Prussians guaranteed victory at this battle for the Duke of Wellington. For 10 points, name this final defeat of Napoleon Bonaparte.",
+      "powerMarkPosition": 236,
+      "answer": "Waterloo",
+      "acceptableAnswers": [
+        "Waterloo",
+        "The Waterloo"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dede99"
+    },
+    {
+      "id": "dfd1f41d-75f9-4bf7-a934-0522b581fb32",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "middle_school",
+      "text": "This leader fought with co-emperor Licinius in battles at Cibalae (SEE-ball-AY) and Adrianople. It is said that he had a vision before the Battle of Milvian Bridge. He called for the Council of Nicaea and issued the Edict of Milan. He was the first Roman Emperor to convert to Christianity, and he established an eastern capital at Byzantium. For 10 points, name this Roman Emperor who lent his name to the city now called Istanbul.",
+      "powerMarkPosition": 164,
+      "answer": "Constantine",
+      "acceptableAnswers": [
+        "Constantine",
+        "Constantine the Great",
+        "Flavius Valerius Aurelius Constantinus",
+        "Saint Constantine",
+        "The Constantine"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec6783"
+    },
+    {
+      "id": "419852db-cc60-4d63-8e8e-0584560ef997",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "The canals of Amsterdam are compared to the circles of hell by Clamence in one work by this author. In another work by him, Rambert is quarantined in Oran but plans to escape to see his lover in Paris, and after many rats die in the streets, Dr. Rieux starts to notice many people dying. In his most famous work, a man does not cry at his mother's funeral and blames the sun for his shooting of an Arab; that man is Meursault [mare-SOW]. The author of The Fall, name this French-Algerian author of The Plague and The Stranger.",
+      "powerMarkPosition": 327,
+      "answer": "Camus",
+      "acceptableAnswers": [
+        "Camus",
+        "The Fall",
+        "La Chute before \"this author\"",
+        "The Camus"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d0867240107e0f1f89"
+    },
+    {
+      "id": "3922ef96-9312-49c0-bd1a-c6165aa118f0",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "In Bahai'sm, this person is the namesake of the Cycle of Prophecy, which began around six thousand years ago and preceded the current Cycle of Fulfillment. Joseph Smith claimed that this figure lived in Jackson County, Missouri, and an accepted LDS doctrine holds that he was the archangel Michael in his former life. A controversial disavowed position held by Brigham Young espoused that this being sat on a heavenly throne and fathered Jesus. In the Qur'an, Iblis becomes Satan and is expelled from heaven after refusing to bow to this figure, who fathers Habil and Qabil. In Jewish tradition, this father of Seth is asked \"Where art thou\" and is told \"dust thou art, and unto dust thou return.\" For 10 points, name this man tasked with naming the animals, the husband of Eve who lives in the Garden of Eden.",
+      "powerMarkPosition": 610,
+      "answer": "Adam",
+      "acceptableAnswers": [
+        "Adam",
+        "The Adam"
+      ],
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa12b"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "13bc45e5-a96f-4fb8-bc60-143f1634bbf6",
+      "linkedTossupId": "c2c1e6a3-6504-45e4-a57c-5a0268ea775c",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Tudor king, who founded the Anglican Church in 1534 in order to divorce Catherine of Aragon, the first of his six wives.",
+          "answer": "Henry VIII",
+          "acceptableAnswers": [
+            "Henry VIII",
+            "Henry",
+            "The Henry VIII"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After breaking from the Catholic Church, Henry VIII faced this massive revolt originally based in Yorkshire, which was led by Robert Aske (\"ask\") and caused the deaths of over 50,000 protesters.",
+          "answer": "Pilgrimage of Grace",
+          "acceptableAnswers": [
+            "Pilgrimage of Grace",
+            "The Pilgrimage of Grace"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Before being executed, many rebels including Robert Aske were taken to this location. Richard, Duke of Gloucester, imprisoned and may have murdered two princes at this castle.",
+          "answer": "Tower of London",
+          "acceptableAnswers": [
+            "Tower of London",
+            "“ Tower ”",
+            "The Tower of London"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Under this king, Parliament passed the Acts of Supremacy, which enabled the dissolution of monasteries. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "689206aa282b420d4a198a7a"
+    },
+    {
+      "id": "9073b50a-0ef8-4051-878b-d506d4d34a58",
+      "linkedTossupId": "c0d7ce8b-e395-41c4-8b1e-3086ebf7dc50",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this astronomer who collaborated with Eleanor Burbidge, Geoffrey Burbidge, and William Fowler on a landmark 1957 paper about stellar nucleosynthesis.",
+          "answer": "Hoyle",
+          "acceptableAnswers": [
+            "Hoyle",
+            "The Hoyle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hoyle's theory of panspermia claimed that life arrived on Earth aboard some of these icy astronomical objects, one of which with a 76-year period is named for Edmond Halley.",
+          "answer": "comet",
+          "acceptableAnswers": [
+            "comet",
+            "Halley’s Comet",
+            "The comet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hoyle's work on panspermia arose from his investigations into the supposed organic nature of this substance in the interstellar medium. This substance causes interstellar reddening.",
+          "answer": "dust",
+          "acceptableAnswers": [
+            "dust",
+            "interstellar dust",
+            "spacedust",
+            "The dust"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "With Chandra Wickramasinghe (\"WICK-rum-uh-sing-uh\"), this astronomer developed a theory of panspermia, which some have claimed led to him not sharing the 1983 Nobel Prize in Physics. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63682fe4906588de78556550"
+    },
+    {
+      "id": "3c211a28-1bff-4bbd-9aa3-495d487f891b",
+      "linkedTossupId": "0e9cbf8b-a34f-42bb-8c41-bd28499e33e6",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "1. points) Vienna",
+          "answer": "Danube",
+          "acceptableAnswers": [
+            "Danube",
+            "The Danube"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Brazzaville",
+          "answer": "Congo or Zaire",
+          "acceptableAnswers": [
+            "Congo or Zaire",
+            "The Congo or Zaire"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "1. points) Riga",
+          "answer": "Daugava",
+          "acceptableAnswers": [
+            "Daugava",
+            "The Daugava"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "5-10-15, name the major river that flows through or past the following capitals.",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596c7d"
+    },
+    {
+      "id": "849b3f9e-adb5-4886-8b92-81dc9ce44386",
+      "linkedTossupId": "3d34e81b-7b51-4556-84a1-0fc0335134e3",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Central American country which was ruled by Maximilian Hernández Martínez in 1932 when thousands of peasants, including their leader Farabundo Martí, were killed in \"La Matanza.\"",
+          "answer": "El Salvador",
+          "acceptableAnswers": [
+            "El Salvador",
+            "The El Salvador"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An oligarchy made up of fourteen families dominated Salvadoran politics during the 19th and early 20th centuries. Those families got rich growing this crop, whose Arabica cultivar is grown in Brazil and Java.",
+          "answer": "coffee",
+          "acceptableAnswers": [
+            "coffee",
+            "The coffee"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Later in El Salvador's history, a man with this profession named Óscar Romero spoke out against government atrocities before he was assassinated in 1980.",
+          "answer": "bishop",
+          "acceptableAnswers": [
+            "bishop",
+            "The bishop"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One dictator of this country argued that it was a greater crime to kill an ant than a man, since people get reincarnated and ants do not. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc392"
+    },
+    {
+      "id": "beb5b541-edbe-4664-8366-9545048a4457",
+      "linkedTossupId": "cab7dd1d-3d21-4af5-af28-92b2c0715c53",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this fundamental database operation used to retrieve data from a database, often represented by the SQL keyword SELECT. It is the Q in the abbreviation \"SQL\".",
+          "answer": "query",
+          "acceptableAnswers": [
+            "query",
+            "The query"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "SQL is usually used in this database model, which organizes data into tables with rows and columns. Edgar F. Codd's 12 rules are the requirements needed for a database to follow this model.",
+          "answer": "relational",
+          "acceptableAnswers": [
+            "relational",
+            "relational model",
+            "The relational"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This SQL clause is used to filter records before any groupings are made with the GROUP BY clause. Unlike the HAVING clause, this clause cannot be used with aggregated data.",
+          "answer": "WHERE",
+          "acceptableAnswers": [
+            "WHERE",
+            "The WHERE"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This operation allows for efficient data retrieval, storage, and manipulation within a database. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6884699a641a9dc975af88ca"
+    },
+    {
+      "id": "8abfe10d-95c2-40bc-9c35-2c6ea34800ff",
+      "linkedTossupId": "c0eb93b0-6c95-4baa-ae97-740934233063",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this speech, which outlined an invisible threat that \"all the legislation in the world can't fix.\"",
+          "answer": "Malaise",
+          "acceptableAnswers": [
+            "Malaise",
+            "“crisis of confidence” speech",
+            "The Malaise"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Jimmy Carter's \"Malaise\" speech was primarily aimed to address the 1970s crisis of this resource. Carter encouraged carpools and public transportation in order to conserve this resource.",
+          "answer": "oil",
+          "acceptableAnswers": [
+            "oil",
+            "petroleum",
+            "accept gasoline",
+            "accept energy crisis",
+            "The oil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The initial positive reception to the \"Malaise\" speech was overshadowed in Carter's legacy by his failure to deal with this crisis that was resolved on the first day of the next president's inauguration.",
+          "answer": "Iran",
+          "acceptableAnswers": [
+            "Iran",
+            "answers that mention the capture of the Tehran American embassy and its inhabitants",
+            "The Iran"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This speech discusses how a concept has manifested itself in the \"loss of unity of purpose for our nation.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b19b5"
+    },
+    {
+      "id": "1f67b3b3-1aba-40aa-b916-b110e1000927",
+      "linkedTossupId": "df934b2c-51ee-43b0-a136-5c9f8b607fa4",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify these Biblical stories told by Jesus to convey a message.",
+          "answer": "parable",
+          "acceptableAnswers": [
+            "parable",
+            "The parable"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This parable tells of a Jew who was beaten and left on the side of the road. The title character helps him, while a priest and a Levite merely pass him by.",
+          "answer": "Good Samaritan",
+          "acceptableAnswers": [
+            "Good Samaritan",
+            "Samaritan",
+            "The Good Samaritan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This short parable describes a very small seed that grows into a tree with birds lodged in its branches.",
+          "answer": "Mustard",
+          "acceptableAnswers": [
+            "Mustard",
+            "The Mustard"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "They include the \"Unjust Judge\", \"Great Banquet\", and \"Prodigal Son\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec680d"
+    },
+    {
+      "id": "fb5fe291-1dd9-43fd-8e1f-1deef58a1316",
+      "linkedTossupId": "eb8f3566-b8fe-45da-bb5c-8c57b4821e0e",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this twentieth century feminist philosopher who decried how Aristotle defined women as men without certain qualities in her magnum opus, The Second Sex.",
+          "answer": "Beauvoir",
+          "acceptableAnswers": [
+            "Beauvoir",
+            "The Beauvoir"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Second Sex, Beauvoir [boh-v'WAHR] famously notes that \"One is not born, but rather becomes, a woman,\"in an early discussion of the distinction between biological sex and this social characteristic.",
+          "answer": "gender",
+          "acceptableAnswers": [
+            "gender",
+            "The gender"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Simone de Beauvoir and her husband, Jean-Paul Sartre, were leading figures in this twentieth century philosophical movement, which concerns the feelings and will of the individual.",
+          "answer": "existential",
+          "acceptableAnswers": [
+            "existential",
+            "The existential"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This French author co-edited the journal Les Temps modernes with thinkers like Maurice Merleau-Ponty, Raymond Aron, and her husband. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004f24"
+    },
+    {
+      "id": "ed89c2f8-3c1b-4f3c-9133-0bd71d15b168",
+      "linkedTossupId": "78ccaa1e-ea78-4ef9-87ff-beb26a992b41",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this international relations theorist who wrote Why Leaders Lie and collaborated with Stephen Walt on The Israel Lobby and U.S. Foreign Policy.",
+          "answer": "Mearsheimer",
+          "acceptableAnswers": [
+            "Mearsheimer",
+            "The Mearsheimer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mearsheimer wrote a gushing blurb for this Holocaust denier's book The Wandering Who?, and denied that its passages affirming the truth of the blood libel were anti-Semitic.",
+          "answer": "Atzmon",
+          "acceptableAnswers": [
+            "Atzmon",
+            "The Atzmon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mearsheimer helpfully categorized all the Jews in the world as either \"righteous Jews\" or these type of people in his lecture \"The Future of Palestine.\" This term is specifically applied to such unrelated people as Abraham Foxman, Charles Krauthammer, and Sheldon Adelson.",
+          "answer": "new Afrikaners",
+          "acceptableAnswers": [
+            "new Afrikaners",
+            "The new Afrikaners"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author described \"offensive realism\" in The Tragedy of Great Power Politics. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f331699980c350cba7382b"
+    },
+    {
+      "id": "9278ce0d-b029-427e-ac4c-8cdb00db3757",
+      "linkedTossupId": "83779c71-24f4-4894-b536-bd2b8ff40891",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this stock character of Russian folklore, the youngest of three sons and husband of Marya Morevna, often depicted wielding the possibly-magical Sword Kladenets.",
+          "answer": "Ivan Tsarevich",
+          "acceptableAnswers": [
+            "Ivan Tsarevich",
+            "partial",
+            "The Ivan Tsarevich"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Stories generally pit Ivan against this 'Deathless' evil wizard, who escapes Marya Morevna's dungeon after tricking Ivan into giving him twelve buckets of water. He hides his soul in an egg.",
+          "answer": "Koshchei",
+          "acceptableAnswers": [
+            "Koshchei",
+            "The Koshchei"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ivan gets killed a lot: for example, he was sliced up by his brothers and revived during his quest for this mythical bird, commonly seen throughout Slavic folklore and the subject of a Stravinsky ballet.",
+          "answer": "Firebird",
+          "acceptableAnswers": [
+            "Firebird",
+            "zhar-ptitsa",
+            "The Firebird"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one story, this figure shoots an arrow into the air to find a wife, and it is caught by a frog who just so happens to be the transformed princess Vasilisa the Wise. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63aca784728d604710bf866f"
+    },
+    {
+      "id": "d9749d11-e835-4e1f-9917-a2b385757fe6",
+      "linkedTossupId": "16af3543-cb4f-42c1-b9d2-8612c778f2cd",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Japanese troops under General Kuribayashi lost at what battle that saw American forces raise a flag on top of Mt. Suribachi?",
+          "answer": "Iwo Jima",
+          "acceptableAnswers": [
+            "Iwo Jima",
+            "Operation Detachment",
+            "The Iwo Jima"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Hell's Pocket\" and \"Purple Heart Ridge\" were parts of this other Pacific Campaign battle. Troops under Holland Smith captured Isley airfield from troops led by Yoshitsugu Saito's troops at this battle.",
+          "answer": "Saipan",
+          "acceptableAnswers": [
+            "Saipan",
+            "The Saipan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Battle of Iwo Jima was the first invasion of the Japanese Home Islands, then under the rule of this emperor. His \"Jewel Voice Broadcast\" ultimately ended Japan's war against the U.S.",
+          "answer": "Hirohito",
+          "acceptableAnswers": [
+            "Hirohito",
+            "Emperor Showa",
+            "Showa Emperor",
+            "The Hirohito"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This event was immortalized in a picture by Joe Rosenthal. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be7616"
+    },
+    {
+      "id": "76872d89-77b4-419b-a21f-36ccb94653ec",
+      "linkedTossupId": "002c975b-a2b0-4fba-9f79-348ff7bce0b8",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this man who conquered Najd and the Hejaz, and defeated the Ikhwan, before consolidating his holdings and founding a kingdom in 1932.",
+          "answer": "Saud",
+          "acceptableAnswers": [
+            "Saud",
+            "Abdulaziz ibn Abdul Rahman ibn Faisal ibn Turki ibn Abdullah ibn Muhammad al-Saud",
+            "Abdulaziz",
+            "The Saud"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ibn Saud received tons of cash from ARAMCO, a company which harvested this resource in Saudi Arabia.",
+          "answer": "oil",
+          "acceptableAnswers": [
+            "oil",
+            "petroleum",
+            "accept similar answers",
+            "The oil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Sharif of Mecca, who exchanged a series of letters with Henry McMahon about the status of Ottoman lands, was defeated in 1924 by Ibn Saud, who secured control of Hejaz as a result. One of this man's sons, Faisal, became king of Iraq.",
+          "answer": "Hussein",
+          "acceptableAnswers": [
+            "Hussein",
+            "al-á¸¤usayn ibn Ali al-Hashimi",
+            "The Hussein"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man provided refuge for the German diplomat Fritz Grobba, and was persuaded by his adviser Harry St. John Philby to award concessions to American companies. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed6a483fe041d20f4a49c5"
+    },
+    {
+      "id": "58e616ac-1bd2-4881-9076-6079394dc710",
+      "linkedTossupId": "c07f59e0-3f29-45f0-88ba-a7aada552a53",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this country where the Bay of Pigs invasion failed to overthrow its Prime Minister and leader of its Communist Party -- Fidel Castro.",
+          "answer": "Cuba",
+          "acceptableAnswers": [
+            "Cuba",
+            "República de Cuba",
+            "The Cuba"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 2000, a SWAT operation in Miami reunited this boy with his Cuban father. The handling of this boy's custody battle likely cost Al Gore crucial votes in Florida in the 2000 election.",
+          "answer": "González",
+          "acceptableAnswers": [
+            "González",
+            "The González"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This first female Attorney General oversaw the González incident as well as the Waco raid and the conviction of the 1993 World Trade Center bombers.",
+          "answer": "Reno",
+          "acceptableAnswers": [
+            "Reno",
+            "The Reno"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Guantánamo Bay is on the southern coast of the main island of this country. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab910"
+    },
+    {
+      "id": "cdbe46c6-adcc-412c-bce3-9967933e6876",
+      "linkedTossupId": "f32c190f-95a7-4526-8e13-b7c31495876c",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this American writer who created the characters Cora Munro and Duncan Heyward in addition to writing The Prairie.",
+          "answer": "Cooper",
+          "acceptableAnswers": [
+            "Cooper",
+            "The Cooper"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This character is this protagonist of Cooper's Leatherstocking Tales, which includes the novels The Deerslayer and The Pathfinder. He is also called \"Hawkeye.\"",
+          "answer": "Natty",
+          "acceptableAnswers": [
+            "Natty",
+            "either",
+            "The Natty"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This character in The Last of the Mohicans was stabbed in the back by Magua while trying to protect Cora. He is the son of Chingachgook and the novel's title refers to him.",
+          "answer": "Uncas",
+          "acceptableAnswers": [
+            "Uncas",
+            "The Uncas"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "John Paul Jones was the model for the protagonist of his naval novel, The Pilot: A Tale of the Sea. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b35c"
+    },
+    {
+      "id": "fe9d8bdc-3e53-41b9-ad76-25e756c9abd7",
+      "linkedTossupId": "93892348-df63-4651-ab15-9b2f356bed5e",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this cubist painting overlapping positions of a woman as she performs the titular action.",
+          "answer": "Nude Descending a Staircase",
+          "acceptableAnswers": [
+            "Nude Descending a Staircase",
+            "The Nude Descending a Staircase"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This artist of Nude Descending a Staircase attached a bicycle wheel to a stool for one of his \"readymades.\"",
+          "answer": "Duchamp",
+          "acceptableAnswers": [
+            "Duchamp",
+            "The Duchamp"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another of Duchamp's \"readymades\" is L.H.O.O.Q., which is simply a moustache drawn on the subject of this Leonardo da Vinci portrait.",
+          "answer": "Mona Lisa",
+          "acceptableAnswers": [
+            "Mona Lisa",
+            "The Mona Lisa"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work was criticized as an \"explosion in a shingle factory\" by the New York Times at the 1913 Armory Exposition. For 10 points each--",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7ca9"
+    },
+    {
+      "id": "72c13693-4138-4dd9-bd62-d9446319c931",
+      "linkedTossupId": "43976d4e-2cbe-41fa-8981-8ba8ad386b28",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this country whose capital is Reykjavik.",
+          "answer": "Iceland",
+          "acceptableAnswers": [
+            "Iceland",
+            "Lydveldid Island",
+            "The Iceland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The settlement of Alert is the northernmost permanent settlement in the world. It is located on what large island in the Canadian Arctic?",
+          "answer": "Ellesmere",
+          "acceptableAnswers": [
+            "Ellesmere",
+            "The Ellesmere"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Russian port city on the Kola Gulf of the Barents Sea is the largest city in the world north of the Arctic Circle.",
+          "answer": "Murmansk",
+          "acceptableAnswers": [
+            "Murmansk",
+            "The Murmansk"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Though Godthab in Greenland is closer to the Arctic Circle, this country's capital is the most northern of any independent state. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9840cc5"
+    },
+    {
+      "id": "c7f3fbca-6614-4bc6-8fab-ecf6a7ebaca8",
+      "linkedTossupId": "c1427407-bd1a-4650-b45b-a28320a4afc1",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this city that served as Japan's official capital during the Heian and Tokugawa eras. The Temple of the Golden Pavilion is located in this city dubbed Japan's \"cultural capital.\"",
+          "answer": "Kyoto",
+          "acceptableAnswers": [
+            "Kyoto",
+            "The Kyoto"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Upon having his titles and lands revoked, Yoshinobu Tokugawa besieged the Imperial Court in Kyoto at the start of this war. His defeat in this war marks the official end of the Tokugawa shogunate.",
+          "answer": "Boshin",
+          "acceptableAnswers": [
+            "Boshin",
+            "The Boshin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The capital of Japan was moved from Kyoto to Edo, which was later renamed to Tokyo, under this emperor who began a period of rapid modernization known as his \"restoration.\"",
+          "answer": "Meiji",
+          "acceptableAnswers": [
+            "Meiji",
+            "The Meiji"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "At this city's Ikedaya Inn, former samurai from the Choshu and Tosa clans who plotted to burn down this city violently clashed with the Shinsengumi. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f1bd4b1d1753da7fbbfb62"
+    },
+    {
+      "id": "573ea77e-8259-4d58-a805-8734db360144",
+      "linkedTossupId": "dfd1f41d-75f9-4bf7-a934-0522b581fb32",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this politician who ran for president five times, the last time from a prison cell.",
+          "answer": "Debs",
+          "acceptableAnswers": [
+            "Debs",
+            "The Debs"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Debs led the American Railway Union in this strike after railway workers' wages were cut. President Cleveland ordered this strike crushed on the grounds that it was disrupting mail service.",
+          "answer": "Pullman",
+          "acceptableAnswers": [
+            "Pullman",
+            "The Pullman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Debs helped found this union, which promoted freedom of speech and industrial unionism instead of the craft unionism of the AFL. Mostly drawn from the original Western Federation of Miners, this organization was once led by Big Bill Haywood.",
+          "answer": "International Workers of the World",
+          "acceptableAnswers": [
+            "International Workers of the World",
+            "The International Workers of the World"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Though he was convicted under the Espionage Act of 1917, his sentence was commuted in 1921 by President Harding. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f06ea"
+    },
+    {
+      "id": "e5451953-cf12-42f1-b6f5-c18b02cb3745",
+      "linkedTossupId": "419852db-cc60-4d63-8e8e-0584560ef997",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this poem whose speaker \"bathed in the Euphrates when dawns were young\" and was lulled to sleep by the Congo.",
+          "answer": "Negro Speaks of Rivers",
+          "acceptableAnswers": [
+            "Negro Speaks of Rivers",
+            "The Negro Speaks of Rivers"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This poet of \"The Negro Speaks of Rivers\" and \"Theme for English B\" told of a man \"who slept like a rock or a man that's dead\" in \"The Weary Blues.\"",
+          "answer": "Hughes",
+          "acceptableAnswers": [
+            "Hughes",
+            "The Hughes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Langston Hughes, along with Zora Neale Hurston, Countee Cullen, and others, was a member of this blossoming of African American literature named for a New York neighborhood.",
+          "answer": "Harlem Renaissance",
+          "acceptableAnswers": [
+            "Harlem Renaissance",
+            "The Harlem Renaissance"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This poem's speaker's soul \"has grown deep like the rivers.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d437cd"
+    },
+    {
+      "id": "defb1035-b334-467e-9e4e-e384e1bb323a",
+      "linkedTossupId": "3922ef96-9312-49c0-bd1a-c6165aa118f0",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this philosopher, who criticized the notion of God having an end goal as being born out of fear in a treatise which argues that Moses did not write the Torah, since it was clearly a compilation.",
+          "answer": "Spinoza",
+          "acceptableAnswers": [
+            "Spinoza",
+            "The Spinoza"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Spinoza's most famous treatise is this one, written in geometrical order. It describes God as being equivalent to nature and having infinite attributes.",
+          "answer": "Ethics",
+          "acceptableAnswers": [
+            "Ethics",
+            "Ethica",
+            "ordine geometrico demonstrata",
+            "The Ethics"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Spinoza, like other philosophers of his time, gave this Latin name to the existential inertia that constitutes the essence of any given being.",
+          "answer": "conatus",
+          "acceptableAnswers": [
+            "conatus",
+            "The conatus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This philosopher described perception through the order of nature as an unreliable form of \"knowledge from random experience.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974226ef"
+    }
+  ]
+}

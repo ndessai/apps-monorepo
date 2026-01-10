@@ -1,0 +1,1141 @@
+{
+  "packetId": "packet-101",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "Social Science",
+    "History",
+    "Philosophy",
+    "Fine Arts",
+    "Human Body",
+    "Literature"
+  ],
+  "tossups": [
+    {
+      "id": "a3397a01-ba83-4b63-ab7b-875a6d7081ff",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "The luminal A and luminal B subtypes of one form of this disease can be treated with SERMs like tamoxifen (\"tah-MOCK-sih-fen\"). A difficult-to-treat form of this disease that lacks estrogen receptors, progesterone receptors, and the HER2 (\"her-2\") protein is known as its \"triple negative\" type. A Rebecca Skloot book details how cells from a patient with a form of this disease were unethically used to establish the immortal HeLa cell line. Immunotherapy is one of the four \"pillars\" for treating these diseases, which also includes surgical resections such as mastectomies. For 10 points, name this group of diseases characterized by uncontrolled cell growth that results in tumours.",
+      "powerMarkPosition": 417,
+      "answer": "cancer",
+      "acceptableAnswers": [
+        "cancer",
+        "specific types of cancer like triple negative breast cancer",
+        "cervical cancer",
+        "prompt on TNBC",
+        "The cancer"
+      ],
+      "source": "qbreader",
+      "sourceId": "6549e61bdd7828c4e244d6cc"
+    },
+    {
+      "id": "decb65e8-aae6-48a5-9dff-019d2f6a4d4b",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "The internal structure of these organizations is the subject of May's law of curvilinear disparity. Richard Katz and Peter Mair argued that some of these organizations function as cartels. Applying the same formula that is used in other fields to compute the Simpson index and the Herfindahl-Hirschman index to these organizations, Laakso (\"LOCK-soh\") and Taagepera (\"TAH-gay-pay-rah\") quantified their effective number. The expressive, instrumental, and representative functions of these organizations were distinguished by Lipset and Rokkan, who argued that cleavage structures are responsible for their formation. According to Duverger's (\"doo-vair-ZHAY's\") law, systems such as first-past-the-post tend to have exactly two of these organizations with a significant amount of power. For 10 points, the United States is an example of a system dominated by exactly two of what political organizations?",
+      "powerMarkPosition": 420,
+      "answer": "parties",
+      "acceptableAnswers": [
+        "parties",
+        "political party",
+        "The parties"
+      ],
+      "source": "qbreader",
+      "sourceId": "644932c99f0045ff841d6924"
+    },
+    {
+      "id": "55e4b9e5-2248-4a1a-b0c5-a9bf330c94ca",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "This number squared over six is the solution to the Basel problem, which concerns an infinite sum of inverse squares. E raised to this number times i is equal to negative one according to Euler's (OY-lur's) identity. Squaring the circle is an impossible task because this number is transcendental. This number is the period of the tangent function, and this number of radians is equal to 180 degrees. This irrational number is the ratio of a circle's circumference to its diameter. For 10 points, name this number that is approximately equal to 3.14.",
+      "powerMarkPosition": 281,
+      "answer": "pi",
+      "acceptableAnswers": [
+        "pi"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d81df703b5396be47593b4"
+    },
+    {
+      "id": "9697fd36-1a05-48f1-ab71-ecc8752df341",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "George Polya introduced the toroidal version of the problem named for these objects and showed that the problem is only solvable when the number of them is not divisible by two or three. In Donald Knuth's paper \"Reducing Links,\" he reduces the problem named for these things to an exact cover problem by constructing a matrix with \"n to the 4th\" entries in it. Bizarrely, the number of fundamental solutions for the problem of these items is greater for the case when there are five of them rather than when there are six of them, for which there is only one solution. A depth-first search backtracking algorithm for the constraint satisfaction problem named for these items was given by Dijkstra. For an n- by-n grid, these objects can be placed on the grid in a non-attacking fashion if n is four or greater. For 10 points, name these pieces that must be validly arranged on a chessboard in a problem from computer science.",
+      "powerMarkPosition": 360,
+      "answer": "queen",
+      "acceptableAnswers": [
+        "queen",
+        "“chess pieces”",
+        "equivalents",
+        "The queen"
+      ],
+      "source": "qbreader",
+      "sourceId": "63565e81aa22adfc267913bb"
+    },
+    {
+      "id": "da0be98a-68a1-4722-a54a-ff569bec0e3b",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "In 2015, Donald Trump installed a placard at his golf course along this river reading \"The River of Blood\" to commemorate a battle that never actually happened. White's \"Comanches\" were established to protect this river. The Joint Committee on the Conduct of War was established after a battle in which Union troops had to cross this river and Edward Baker became the first sitting US Senator to die in battle. Battle plans were discovered in cigar wraps before a battle that forced one side to retreat across this river. This river names both the Confederate Army that lost at the First Battle of Bull Run and the reorganized Army of Northeastern Virginia under George McClellan. For 10 points, name this river, on which Washington D.C. was built.",
+      "powerMarkPosition": 442,
+      "answer": "Potomac",
+      "acceptableAnswers": [
+        "Potomac",
+        "The Potomac"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0aebf2"
+    },
+    {
+      "id": "6f944ee0-024c-41c5-8b70-e52d9f6ce4ba",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "A god in this religion's trinity divided time into different epochs while another is often depicted with a fan and fly-whisk. The founder of this faith advocated retiring from the world after he left his job as an archivist of the royal court. One book about this faith contained sayings such as \"Even a 1,000-mile journey starts with a single step\". The high god associated with this faith assigned animals to the zodiac and rules heaven as the Jade Emperor. The I-ching contains the principles of yin and yang which are central to this religion. The teachings of Laozi are central to -for 10 points- what Chinese religion whose followers try to follow \"the way\"?",
+      "powerMarkPosition": 314,
+      "answer": "Daoism",
+      "acceptableAnswers": [
+        "Daoism",
+        "The Daoism"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31b41"
+    },
+    {
+      "id": "4e905316-0799-4e35-ad2c-93df73cb7064",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "Michael Rosenzweig described how models of this behavior tend to destabilize after an increase in resource availability in the paradox of enrichment. It's not competition, but the differential Lotka-Volterra equations can predict oscillations in this behavior. One model of this behavior incorporates variables like search time and handling time, resulting in a type II functional response. In many ecosystems, organisms performing this behavior are responsible for top-down trophic cascades. Organisms defend against this behavior via Batesian and Müllerian mimicry. For 10 points, name this behavior in which organisms catch, kill, and eat prey.",
+      "powerMarkPosition": 260,
+      "answer": "predation",
+      "acceptableAnswers": [
+        "predation",
+        "word forms such as predators",
+        "accept predator-prey interactions",
+        "prompt on hunting",
+        "foraging",
+        "eating",
+        "do NOT accept prey",
+        "The predation"
+      ],
+      "source": "qbreader",
+      "sourceId": "671d6e2b704068afc3e92a1f"
+    },
+    {
+      "id": "21ecb03d-900c-4183-bfb0-e05bcdd1ab2b",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "Two background figures in a portrait by this artist were probably based on Charles Le Brun's Les expressions des passions de l'ȃme. In a work by this artist, a smiling woman in mauve pulls a man in an Anthony van Dyck outfit away from a woman in blue. A woman points towards the sky in that painting by this man which depicts the actor David Garrick Between Tragedy and Comedy. In another portrait, this artist painted Terror offering a chalice while Pity droopily holds a dagger behind the title actress who sits on a throne. A performance of Lady Macbeth inspired this artist's Sarah Siddons as the Tragic Muse. For 10 points, name this 18th century British painter, the first president of the Royal Academy of Arts.",
+      "powerMarkPosition": 341,
+      "answer": "Reynolds",
+      "acceptableAnswers": [
+        "Reynolds",
+        "The Reynolds"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed60f71539231f571ede8b"
+    },
+    {
+      "id": "275c7c6a-023e-43e2-9623-62e8a0519948",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for muscle fatigue. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this contraction-related structure.",
+      "powerMarkPosition": 73,
+      "answer": "Contraction",
+      "acceptableAnswers": [
+        "contraction",
+        "Contraction"
+      ],
+      "explanation": "The contraction is a key component of the Musculoskeletal system, involved in muscle fatigue.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "fe8b0035-169e-459a-9ac0-53ffb82422d6",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "The first of these passages rants about \"modern sex-yahoos\" and \"eunuchs parading with the phallus\" before recounting an embarrassing childhood memory involving Jack Frazer and a brothel. In two of these passages, a character describes himself as someone \"who, passed beyond desire, has all the luck at last\"; the second time occurs as the speaker watches his wife contentedly fall asleep, and is at the very end of the play, shortly after that wife calls the universe \"the electrical display of God the Father.\" These passages, which are parodied by Groucho Marx in Animal Crackers, are filled with very frequent pauses, marked by ellipses. These passages are the most famous feature of a play about a woman who marries both Sam Evans and Charles Marsden. For 10 points, name these speeches from a Eugene O'Neill play about Nina Leeds.",
+      "powerMarkPosition": 473,
+      "answer": "soliloquy",
+      "acceptableAnswers": [
+        "soliloquy",
+        "internal monologues from Strange Interlude",
+        "asides from Strange Interlude",
+        "The soliloquy"
+      ],
+      "source": "qbreader",
+      "sourceId": "640020a88d3cf1e72e23410b"
+    },
+    {
+      "id": "05430d97-812e-43d5-9bbd-cc6a0b829c9d",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "The Garcia-Koelling experiment discovered constraints on this paradigm due to the close relations of flavor with X-ray-induced nausea. A mathematical model describing this paradigm calls lambda maximum associative strength and states that the incremental change in strength is proportional to factors like salience. That is the Rescorla-Wagner model. A more traditional experiment at Johns Hopkins saw the subject come to fear all white fluffy things due to stimulus generalization common to this form of learning. That experiment saw a CR of crying to a harmless rat eventually evoked thanks to the banging of metal behind a child's head. FTP, name this type of learning exemplified by the Little Albert experiment, as well as teaching a dog to salivate at the sound of a bell, a type of conditioning elucidated by Pavlov.",
+      "powerMarkPosition": 430,
+      "answer": "classical conditioning",
+      "acceptableAnswers": [
+        "classical conditioning",
+        "just classical at end",
+        "accept Pavlovian conditioning until “Pavlov”",
+        "The classical conditioning"
+      ],
+      "source": "qbreader",
+      "sourceId": "67b3c0236aa8a3da38aa8048"
+    },
+    {
+      "id": "812ab9ae-b382-4add-8c4d-a679bd476740",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "In Ancient Rome, the pullus variety of this good came from southern Italy. Spanish nobility would sponsor trips on cañadas to the Consulado of Burgos, a center for the trade in this good. A medieval guild that controlled production of this good funded Michelangelo's David. Approximately 13,000 people briefly gained access to political office following a revolt led by people who worked with this good who seized the Palazzo Vecchio in 1378. A guild of men working with this good was formed following Florence's Ciompi Revolt; some of those workers used special combs when \"carding\" this good. The finest variety of this good was produced in England until the introduction of the merino breed into Spain. For 10 points, name this material shorn from sheep.",
+      "powerMarkPosition": 501,
+      "answer": "wool",
+      "acceptableAnswers": [
+        "wool",
+        "fleece",
+        "prompt on sheep",
+        "lambs",
+        "prompt on textiles",
+        "fiber",
+        "cloth",
+        "clothing",
+        "The wool"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed60f71539231f571edd07"
+    },
+    {
+      "id": "d1d19e57-5b11-4177-9ba1-18e331b78bed",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "Disorders of this organelle are typically maternally inherited because this organelle, along with chloroplasts, became part of the cell through endosymbiosis. This organelle's matrix is the site of the Krebs cycle. This organelle produces most of the cell's ATP through cellular respiration so it can be used to produce chemical energy. For 10 points, name this organelle sometimes called the \"powerhouse of the cell.\"",
+      "powerMarkPosition": 257,
+      "answer": "mitochondria",
+      "acceptableAnswers": [
+        "mitochondria",
+        "mitochondrion",
+        "The mitochondria"
+      ],
+      "source": "qbreader",
+      "sourceId": "65666dfd443a0a5dea0043d2"
+    },
+    {
+      "id": "3f3ee777-193b-4db6-9f8d-5c94865a66e0",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "Films made in this country that depict historic military achievements and emulate Hollywood special effects are said to follow the \"main melody\". At the end of a film from this a country, a slow-motion shot shows a young boy running through a crowd going the opposite direction cuts to an empty hill, where a man in uniform had been walking. After a foreign invasion, a city in this country became home to the leftist \"Solitary Island\" film movement that continued the style of its pre-war first Golden Age. A film set in this country, which was censored for years because of its apolitical plot, is bookended with shots of the woman who narrates the film walking along the town walls. Political changes in this country allowed a newly reopened Film Academy showing foreign films in its capital to produce a visually expressive movement called its \"Fifth Generation\", which ended in 1989. In film from this country, a man whose wealth has been lost in war is visited by an old friend, who is coincidentally his wife's former lover. For 10 points, identify this country, the setting of Yellow Earth and Spring in a Small Town.",
+      "powerMarkPosition": 673,
+      "answer": "China",
+      "acceptableAnswers": [
+        "China",
+        "The China"
+      ],
+      "source": "qbreader",
+      "sourceId": "6306e3725252479dd12943c5"
+    },
+    {
+      "id": "8886ccf0-21c8-443a-9ea9-336b198fc148",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "This substance forms in the Bergeron process, in which vapor pressure drops as crystals grow. It can be produced by the lake effect, and it always stays below freezing, unlike sleet, which melts and refreezes as it falls. For 10 points, name this type of precipitation which falls as six-sided flakes.",
+      "powerMarkPosition": 158,
+      "answer": "snow",
+      "acceptableAnswers": [
+        "snow",
+        "\"precipitation\"",
+        "The snow"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c52f"
+    },
+    {
+      "id": "d4c05303-fbab-42c0-93f8-0d05c37a267a",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "Two fixtures for hanging chandeliers appear on the ceiling in this painting, but no chandeliers are seen. Two pictures hang above an open doorway, where a man in black stands. The left side of this painting is obscured by a large canvas. The central figure stands near a dwarf, whose foot is on a sleeping dog. The artist himself appears in what painting, depicting the Infanta Margarita of Spain, by Diego Velazquez?",
+      "powerMarkPosition": 270,
+      "answer": "Meniñas",
+      "acceptableAnswers": [
+        "Meniñas",
+        "The Meniñas"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f20c8"
+    },
+    {
+      "id": "967cc585-24de-48c6-b01f-55dcff672bd6",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "This man defeated Desiderius at Pavia to conquer the Lombard kingdom, and then conquered Saxony and Bavaria. Advised by the scholar Alcuin of York and the subject of a biography by Einhard, this ruler's education reforms led to a namesake \"renaissance.\" This king established Aachen as his capital and was a grandson of Charles Martel. He was crowned the first Holy Roman Emperor by Pope Leo III on Christmas Day, 800 CE. For 10 points, name this \"great\" Frankish king.",
+      "powerMarkPosition": 238,
+      "answer": "Charlemagne",
+      "acceptableAnswers": [
+        "Charlemagne",
+        "The Charlemagne"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b7a4"
+    },
+    {
+      "id": "76a7545f-031b-4b77-9948-6bda4f4c3d79",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for inspiration and expiration. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this diaphragm-related structure.",
+      "powerMarkPosition": 75,
+      "answer": "Diaphragm",
+      "acceptableAnswers": [
+        "diaphragm",
+        "Diaphragm"
+      ],
+      "explanation": "The diaphragm is a key component of the Respiratory system, involved in inspiration and expiration.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "4400ee23-01f1-4c12-9039-6405acf013c8",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for trachea structure. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this bronchus-related structure.",
+      "powerMarkPosition": 95,
+      "answer": "Bronchus",
+      "acceptableAnswers": [
+        "bronchus",
+        "Bronchus"
+      ],
+      "explanation": "The bronchus is a key component of the Respiratory system, involved in trachea structure.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a5a40937-591f-4946-9578-3506ec297bd6",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "text": "A vacationing family awakens in Ludovico's bedchamber in one work from this author's collection Strange Pilgrims. One novel by this author involves a man dying in an attempt to get his parrot out of a mango tree and features the characters [*] Dr. Urbino and Fermina Daza. An incestuous relationship between Amaranta and Aureliano occurs in a novel by this author set in Macondo. For ten points, name this Colombian author who wrote about the Buendía family in One Hundred Years of Solitude.",
+      "powerMarkPosition": 247,
+      "answer": "García Márquez",
+      "acceptableAnswers": [
+        "García Márquez",
+        "The García Márquez"
+      ],
+      "source": "qbreader",
+      "sourceId": "66f0f7235f18a88258296d4a"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "4b9e9c26-99e8-4b83-8258-9ccf595d0884",
+      "linkedTossupId": "a3397a01-ba83-4b63-ab7b-875a6d7081ff",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Blurring due to optical aberrations results in this function deviating from its ideal Airy pattern. This function is the inverse Fourier transform of the optical transfer function and is the impulse response for an imaging system.",
+          "answer": "point spread",
+          "acceptableAnswers": [
+            "point spread",
+            "PSF",
+            "prompt on Green’s function",
+            "The point spread"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A basic method in adaptive optics uses deformable versions of these objects to correct aberrations. Unlike lenses, these objects reflect light rays.",
+          "answer": "mirror",
+          "acceptableAnswers": [
+            "mirror",
+            "deformable mirrors",
+            "The mirror"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A modern tool in adaptive optics uses spatial light modulators made from these materials. These materials are placed between layers of polarizers in namesake electronic displays.",
+          "answer": "liquid crystal",
+          "acceptableAnswers": [
+            "liquid crystal",
+            "liquid crystal displays",
+            "liquid crystal spatial light modulators",
+            "prompt on LC",
+            "LCD",
+            "LCSLM",
+            "reject “liquids”",
+            "“crystals” alone",
+            "The liquid crystal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about adaptive optics, the process of correcting optical aberrations, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6551b0912c809f9dfdac1ede"
+    },
+    {
+      "id": "c0b40141-1729-47f3-8c40-c539959e7bad",
+      "linkedTossupId": "decb65e8-aae6-48a5-9dff-019d2f6a4d4b",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "George Stigler formulated a theory of this process, which is a key part of public choice theory. This form of political corruption happens when an agency created to serve the public interest ends up creating negative externalities by serving special interest groups.",
+          "answer": "regulatory capture",
+          "acceptableAnswers": [
+            "regulatory capture",
+            "capture",
+            "The regulatory capture"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A key focus of public choice analysis is groups that are \"seeking\" these benefits from zero or negative-sum transactions, thereby enriching themselves without creating new wealth.",
+          "answer": "rent",
+          "acceptableAnswers": [
+            "rent",
+            "The rent"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Besides advancing public choice analysis, this economist examined criminology in his 1968 paper cited by the Nobel committee, \"Crime and punishment: an economic approach.\" He also devised the \"rotten kid theorem\" in family economics.",
+          "answer": "Becker",
+          "acceptableAnswers": [
+            "Becker",
+            "The Becker"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about public choice theory, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62df3a4b1c64d9772f738a97"
+    },
+    {
+      "id": "1d374035-d205-45f6-b276-ef2726282cd0",
+      "linkedTossupId": "55e4b9e5-2248-4a1a-b0c5-a9bf330c94ca",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this man, who also names a statistical distribution with Fermi which can be used to approximate the distribution of electrons in an atom. That theory laid the foundations for modern density functional theory.",
+          "answer": "Thomas",
+          "acceptableAnswers": [
+            "Thomas",
+            "The Thomas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Thomas also names a type of this effect which accounts for special relativity. This process occurs in torque-free and torque-induced forms and explains the motion of gyroscopes.",
+          "answer": "precession",
+          "acceptableAnswers": [
+            "precession",
+            "The precession"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Precession is defined as change in the first Euler angle, but if the second Euler angle changes, then this effect occurs. This effect is physically manifested as a wobble or a swaying motion in the axis of rotation.",
+          "answer": "nutation",
+          "acceptableAnswers": [
+            "nutation",
+            "The nutation"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man's \"collapse\" occurs when the three-body binding energy is infinite. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a8983"
+    },
+    {
+      "id": "a506185d-d2ec-4c19-a606-b6c1b7c318b4",
+      "linkedTossupId": "9697fd36-1a05-48f1-ab71-ecc8752df341",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these moities which are added to compounds in multistep organic syntheses to prevent a functional group from being affected by one or more reactions.",
+          "answer": "protecting group",
+          "acceptableAnswers": [
+            "protecting group",
+            "The protecting group"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ketones and aldehydes can be protecting by reacting them with an alcohol under acidic conditions to form this functional group. It is composed of two oxygens single bonded to a carbon atom and a side chain.",
+          "answer": "acetal",
+          "acceptableAnswers": [
+            "acetal",
+            "The acetal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "If these reagents contain carbonyls, the carbonyl groups must always be protected since a runaway self reaction will consume all of the reagent. These organo-magnesium halides form Schlenk equilibria.",
+          "answer": "Grignard",
+          "acceptableAnswers": [
+            "Grignard",
+            "The Grignard"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Pairs of these moities are referred to as orthogonal when one of them can be added or removed without affecting the other, for 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289cafd6"
+    },
+    {
+      "id": "b4174d18-3687-418d-b2d9-be9d9a611362",
+      "linkedTossupId": "da0be98a-68a1-4722-a54a-ff569bec0e3b",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This American missionary in China during World War II was described in a Robert Welch biography as the first casualty of the Cold War. Welch named a conspiracy-peddling anti-Communist organization after this man.",
+          "answer": "Birch",
+          "acceptableAnswers": [
+            "Birch",
+            "John Birch Society",
+            "The Birch"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Claire Lee Chennault led the American Volunteer Group, a volunteer air force in China during World War II that is usually referred to by this two-word English nickname.",
+          "answer": "Flying Tiger",
+          "acceptableAnswers": [
+            "Flying Tiger",
+            "The Flying Tiger"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Jimmy Doolittle's namesake 1942 Doolittle Raid was intended to land in China after attacking this Japanese capital city.",
+          "answer": "Tokyo",
+          "acceptableAnswers": [
+            "Tokyo",
+            "Edo",
+            "The Tokyo"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about the United States' involvement in China during World War II, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "652ebb718051389c667bd08b"
+    },
+    {
+      "id": "27d77795-11ba-48ac-89e6-52cae2d206ba",
+      "linkedTossupId": "6f944ee0-024c-41c5-8b70-e52d9f6ce4ba",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this branch of philosophy that studies the use of deductive reasoning, with statements like if a then b.",
+          "answer": "logic",
+          "acceptableAnswers": [
+            "logic",
+            "more specific answers like first-order logic",
+            "The logic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This type of deductive argument uses two premises to come to a conclusion. A classic example is \"All men are mortal, Socrates is a man, therefore Socrates is mortal\".",
+          "answer": "syllogism",
+          "acceptableAnswers": [
+            "syllogism",
+            "The syllogism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This mathematician proved that no consistent system of axioms can prove all the truths of basic arithmetic in the first of his two incompleteness theorems.",
+          "answer": "Godel",
+          "acceptableAnswers": [
+            "Godel",
+            "Kurt Friedrich Gödel",
+            "The Godel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A key result in this field of philosophy is the law of the excluded middle, which states either a proposition or its negation is true. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68b2ff0d8940d9f7c563a1b7"
+    },
+    {
+      "id": "142f57f9-9f3c-402b-9477-8d667334fbb7",
+      "linkedTossupId": "4e905316-0799-4e35-ad2c-93df73cb7064",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this large area of thinly covered igneous and metamorphic rocks that extends north from the Great Lakes through its namesake country.",
+          "answer": "Canadian Shield",
+          "acceptableAnswers": [
+            "Canadian Shield",
+            "Bouclier Canadien",
+            "The Canadian Shield"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Canadian Shield forms the Thousand Islands when it meets this river, which forms the bulk of a seaway between the Atlantic Ocean and the Great Lakes. It also forms part of the boundary between Ontario and New York.",
+          "answer": "St. Lawrence",
+          "acceptableAnswers": [
+            "St. Lawrence",
+            "Fleuve Saint-Laurent",
+            "The St. Lawrence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Canadian Shield reaches its southernmost extent at these New York mountains whose highest peak is Mount Marcy.",
+          "answer": "Adirondack",
+          "acceptableAnswers": [
+            "Adirondack",
+            "Adirondacks",
+            "The Adirondack"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This geographic area is sometimes called the Laurentian Plateau. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edb4fedff988263841bc95"
+    },
+    {
+      "id": "078792b6-d57f-48f8-9c15-93123125e22d",
+      "linkedTossupId": "21ecb03d-900c-4183-bfb0-e05bcdd1ab2b",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The popularity of the \"little black dress\" is often credited to this designer of the 2.55 handbag. This French woman's signature perfume was \"number 5\".",
+          "answer": "Chanel",
+          "acceptableAnswers": [
+            "Chanel",
+            "The Chanel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The wife of Pierre Gautreau wears a black dress in this John Singer Sargent portrait. Sargent attempted to make the model anonymous after the public disapproved of her sensual look.",
+          "answer": "Madame X",
+          "acceptableAnswers": [
+            "Madame X",
+            "The Madame X"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Little Black Dress\" is a song on the Midnight Memories album of this group whose members include Liam Payne and Harry Styles.",
+          "answer": "One Direction",
+          "acceptableAnswers": [
+            "One Direction",
+            "The One Direction"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each-give these answers related to black dresses:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a514"
+    },
+    {
+      "id": "d9ba7896-d1d8-43f6-ac30-5aa1c342013a",
+      "linkedTossupId": "275c7c6a-023e-43e2-9623-62e8a0519948",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with nail anatomy.",
+          "answer": "hair follicle",
+          "acceptableAnswers": [
+            "hair follicle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hair follicle in the integumentary system?",
+          "answer": "Nail anatomy",
+          "acceptableAnswers": [
+            "Nail anatomy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the integumentary system related to nail anatomy.",
+          "answer": "nail",
+          "acceptableAnswers": [
+            "nail"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human integumentary system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e66c33a4-c465-4fe1-81a2-0fad42583273",
+      "linkedTossupId": "fe8b0035-169e-459a-9ac0-53ffb82422d6",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "His long short story, Tamango, about a slave rebellion on a ship, was collected in the same volume as his novella Mateo Falcone.",
+          "answer": "Mérimée",
+          "acceptableAnswers": [
+            "Mérimée",
+            "The Mérimée"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Harlem Renaissance author fictionalized the Prosser revolt in the 1936 novel Black Thunder. He may be better known for the novels Drums at Dusk and God Sends Sunday.",
+          "answer": "Bontemps",
+          "acceptableAnswers": [
+            "Bontemps",
+            "The Bontemps"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Based on a volume written by Thomas Gray, this 1968 Pulitzer Prize-winner by William Styron is probably the best known work about a slave revolt.",
+          "answer": "Confessions of Nat Turner",
+          "acceptableAnswers": [
+            "Confessions of Nat Turner",
+            "The Confessions of Nat Turner"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about some works that center on slave revolts, For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b171d"
+    },
+    {
+      "id": "fea90aa2-f7b1-4a0e-9533-b1b95c08cd27",
+      "linkedTossupId": "05430d97-812e-43d5-9bbd-cc6a0b829c9d",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this linguistic feature whose name derives from Romance language pronouns for \"you,\" which expresses differing degrees of formality and familiarity between speakers.",
+          "answer": "T–V distinction",
+          "acceptableAnswers": [
+            "T–V distinction",
+            "tu-vos distinction",
+            "prompt on honorifics",
+            "The T–V distinction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A paper by Albert Gilman and this social psychologist introduced the concept of the \"T-V distinction.\" He also outlined five stages of childhood language acquisition in his book A First Language.",
+          "answer": "Brown",
+          "acceptableAnswers": [
+            "Brown",
+            "The Brown"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The informal pronoun neo is replaced by general kinship terms and common nouns in the most familiar of this language's seven \"speech levels,\" an example of T-V distinction. This Asian language is written using hangul.",
+          "answer": "Korean",
+          "acceptableAnswers": [
+            "Korean",
+            "Hangugeo",
+            "Chosonmal",
+            "The Korean"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The English language lost this feature when \"thee\" and \"thou\" fell out of usage. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c2fba161cf1fc596565f"
+    },
+    {
+      "id": "7d820a9f-0c3b-45e3-a700-8b889b8a5fe5",
+      "linkedTossupId": "812ab9ae-b382-4add-8c4d-a679bd476740",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this French Jacobin who dominated the Committee of Public Safety and replaced the Cult of Reason with the Cult of Supreme Being.",
+          "answer": "Robespierre",
+          "acceptableAnswers": [
+            "Robespierre",
+            "The Robespierre"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Robespierre presided over this period of the French Revolution, during which thousands of political dissidents were put to death by guillotine.",
+          "answer": "Reign of Terror",
+          "acceptableAnswers": [
+            "Reign of Terror",
+            "The Reign of Terror"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This coup ended the Reign of Terror and resulted in the death of Louis Antoine de Saint-Just and Robespierre. It's named for the month on the Revolutionary French calendar in which it occurred.",
+          "answer": "Thermidorian",
+          "acceptableAnswers": [
+            "Thermidorian",
+            "The Thermidorian"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man's unshakeable commitment to his beliefs led him to be called \"the Incorruptible\", for 10 points:",
+      "source": "qbreader",
+      "sourceId": "62eec31bb669367617b8c8c5"
+    },
+    {
+      "id": "8317866f-5c74-4eb2-8f51-55325930e833",
+      "linkedTossupId": "d1d19e57-5b11-4177-9ba1-18e331b78bed",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these cells which make up the nervous system.",
+          "answer": "neuron",
+          "acceptableAnswers": [
+            "neuron",
+            "nerve cell",
+            "The neuron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Neurons communicate with one another across these junctions. Neurotransmitters like dopamine travel across these junctions to send messages throughout the body.",
+          "answer": "synapse",
+          "acceptableAnswers": [
+            "synapse",
+            "The synapse"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Donald Hebb proposed that repeated firing across synapses causes a strengthening of that pathway, perhaps helping to build this capability of the brain to store information.",
+          "answer": "memory",
+          "acceptableAnswers": [
+            "memory",
+            "learning",
+            "The memory"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These cells consist of the cell body, dendrites, and axons. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c5c6"
+    },
+    {
+      "id": "524f36c2-0401-4475-9d3b-7a6053e47ba2",
+      "linkedTossupId": "3f3ee777-193b-4db6-9f8d-5c94865a66e0",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this artist who also painted innocent-looking girls in Alone in the World and The Knitting Girl. In a mythical scene by this artist, several putti recline atop a porpoise as its central nude figure stands atop a clam shell.",
+          "answer": "Bouguereau",
+          "acceptableAnswers": [
+            "Bouguereau",
+            "The Bouguereau"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bouguereau produced most of his works in this style, which focused on values and standards instilled by formal institutes of art.",
+          "answer": "academic",
+          "acceptableAnswers": [
+            "academic",
+            "academism",
+            "academicism",
+            "The academic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Academic art bridged neoclassicism with this other broad artistic movement, which emphasized strong emotion and nature. Caspar David Friedrich's Wanderer Above the Sea of Fog exemplifies this movement.",
+          "answer": "Romanticism",
+          "acceptableAnswers": [
+            "Romanticism",
+            "Romantic art",
+            "The Romanticism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Sheep graze in the background as the title girl looks over her shoulder at the viewer in this artist's The Young Shepherdess. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee6e5"
+    },
+    {
+      "id": "d03a2668-2d91-49d3-bf6d-74502d6ba431",
+      "linkedTossupId": "8886ccf0-21c8-443a-9ea9-336b198fc148",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this equation named after an 18th century Swiss mathematician.",
+          "answer": "Euler’s",
+          "acceptableAnswers": [
+            "Euler’s",
+            "Euler’s equation",
+            "The Euler’s"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Leonhard Euler was the first to prove this man's \"little theorem,\" which states that for a prime number p and integer a, a to the p minus a will be evenly divisible by p.",
+          "answer": "Fermat",
+          "acceptableAnswers": [
+            "Fermat",
+            "The Fermat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Euler was also the first to prove that there was no solution to this mathematical problem, in which one tried to find a path that traveled through each of the titular structures exactly once.",
+          "answer": "Seven Bridges of Konigsberg",
+          "acceptableAnswers": [
+            "Seven Bridges of Konigsberg",
+            "The Seven Bridges of Konigsberg"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It states that eiπ + 1 = 0 (e to the i pi plus one equals zero). For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0ef5"
+    },
+    {
+      "id": "d0680343-a0d7-4c38-ad82-2631a2f495cf",
+      "linkedTossupId": "d4c05303-fbab-42c0-93f8-0d05c37a267a",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this composer of The Barber of Seville who didn't compose any operas for the last four decades of his life.",
+          "answer": "Rossini",
+          "acceptableAnswers": [
+            "Rossini",
+            "The Rossini"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This was Rossini's last opera; in its third act, the title character instructs his son to \"stay still\" as he shoots an arrow at an apple on his head.",
+          "answer": "William Tell",
+          "acceptableAnswers": [
+            "William Tell",
+            "Guillaume Tell",
+            "The William Tell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This famous selection from William Tell ends with a rousing galop movement. This type of instrumental piece typically acts as a prelude to open an opera or musical.",
+          "answer": "overture",
+          "acceptableAnswers": [
+            "overture",
+            "William Tell Overture",
+            "The overture"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This composer adapted \"Cinderella\" into the opera La Cenerentola. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b6c2"
+    },
+    {
+      "id": "9dc98134-597f-441e-bea8-7211a09a18df",
+      "linkedTossupId": "967cc585-24de-48c6-b01f-55dcff672bd6",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Italian explorer working for Spain, who landed in America on October 12, 1492.",
+          "answer": "Columbus",
+          "acceptableAnswers": [
+            "Columbus",
+            "The Columbus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Christopher Columbus was funded by this king of Spain, who completed the Reconquista along with his wife, Isabella I of Castile.",
+          "answer": "Ferdinand",
+          "acceptableAnswers": [
+            "Ferdinand",
+            "The Ferdinand"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This confessor of Isabella also led the the Spanish Inquisition as the Grand Inquisitor.",
+          "answer": "Torquemada",
+          "acceptableAnswers": [
+            "Torquemada",
+            "The Torquemada"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Despite underestimating the Earth's circumference by a factor of 5, his trip was still a success. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0749"
+    },
+    {
+      "id": "4f6d3bb9-dd17-41b3-bc83-aa09b1e03dad",
+      "linkedTossupId": "76a7545f-031b-4b77-9948-6bda4f4c3d79",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with trachea structure.",
+          "answer": "bronchus",
+          "acceptableAnswers": [
+            "bronchus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the bronchus in the respiratory system?",
+          "answer": "Trachea structure",
+          "acceptableAnswers": [
+            "Trachea structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to trachea structure.",
+          "answer": "bronchiole",
+          "acceptableAnswers": [
+            "bronchiole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "57847c09-e501-488a-97b1-33d4d601be5f",
+      "linkedTossupId": "4400ee23-01f1-4c12-9039-6405acf013c8",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with axial skeleton bones.",
+          "answer": "skull",
+          "acceptableAnswers": [
+            "skull"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the skull in the musculoskeletal system?",
+          "answer": "Axial skeleton bones",
+          "acceptableAnswers": [
+            "Axial skeleton bones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to axial skeleton bones.",
+          "answer": "vertebra",
+          "acceptableAnswers": [
+            "vertebra"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "4ba05379-0c99-45cd-ae42-aa78d614b3c2",
+      "linkedTossupId": "a5a40937-591f-4946-9578-3506ec297bd6",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this novel by Antoine de Saint-Exupery, whose title character asks the narrator to draw him a sheep after they meet in the Sahara desert.",
+          "answer": "Little Prince",
+          "acceptableAnswers": [
+            "Little Prince",
+            "The Little Prince"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Little Prince left his home after a falling-out with one of these objects which he loved. In a Shakespeare play, Juliet notes that one of these flowers \"by any other name would smell as sweet.\"",
+          "answer": "rose",
+          "acceptableAnswers": [
+            "rose",
+            "The rose"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The narrator of The Little Prince decided as a child to give up art after everyone he met could not correctly identify a drawing of these two animals, one of which is digesting the other.",
+          "answer": "boa",
+          "acceptableAnswers": [
+            "boa",
+            "The boa"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work's protagonist visits six asteroids after leaving his own. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a5eb"
+    }
+  ]
+}

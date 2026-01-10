@@ -1,0 +1,1107 @@
+{
+  "packetId": "packet-067",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Literature",
+    "Science",
+    "Mythology",
+    "Geography",
+    "Philosophy",
+    "Social Science",
+    "Fine Arts",
+    "Human Body",
+    "History"
+  ],
+  "tossups": [
+    {
+      "id": "05972dfb-61cf-46b3-8b6e-ba3a3a8dd5d8",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "In one novel set in this town, Hank Clinton courts a woman who later finds a pamphlet titled \"The Black Plague\" in her father's house. A school-boy refuses a nickel from Ms. Caroline to buy lunch in this town, where a man nicknamed \"One-Shot\" kills a rabid dog. A man who leaves gum and figurines in a tree knot prevents an attack on a girl in a ham costume in this town, where Atticus Finch defends Tom Robinson against Mayella Ewell's accusations of rape. For 10 points, name this fictional Alabama town, the setting of the novels Go Set a Watchman and To Kill a Mockingbird.",
+      "powerMarkPosition": 301,
+      "answer": "Maycomb",
+      "acceptableAnswers": [
+        "Maycomb",
+        "The Maycomb"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7ce4"
+    },
+    {
+      "id": "2c1ca437-68de-428c-b337-7f6a167c51be",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "Palladium is a substance of this type in the Heck reaction, and one named for Raney consists of powdered nickel. An industrial process that produces ammonia uses one of these substances consisting of iron, and these substances can be poisoned when species bind to them chemically to block their active sites. The addition of these substances does not affect the value of a reaction's equilibrium constant, and they are contrasted with inhibitors, which may reduce these substances' activity. These substances in biology are called enzymes, and they work by lowering activation energy. For 10 points, name these chemical species that speed up a reaction but are not themselves consumed.",
+      "powerMarkPosition": 308,
+      "answer": "catalyst",
+      "acceptableAnswers": [
+        "catalyst",
+        "The catalyst"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a30c"
+    },
+    {
+      "id": "734cb276-27ed-4c0b-81af-6570e118733a",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "According to a Japanese myth, arrows tipped with this substance were the only way that the archer Tawara Toda was able to kill a giant centipede plaguing the kingdom of Ryujin, while in a Chinese myth, Pangu created an ox out of clay and this substance to hold up the earth. In an Egyptian myth, Apep was created from some of this substance left behind by Neith floating in the primordial waters, while in another Egyptian myth, Isis used some of this substance belonging to Ra mixed with dirt to create a snake to bite Ra in order to learn the latter's true name. In a Mayan myth, some of this substance falling from the skull of Hun-Hunahpu onto the hand of Xquic caused the latter to become pregnant with the Hero Twins. The god Kvasir was born from the intermingling of, For 10 points, what substance, contributed by each of the Vanir and Æsir?",
+      "powerMarkPosition": 564,
+      "answer": "Saliva",
+      "acceptableAnswers": [
+        "Saliva",
+        "Spittle",
+        "The Saliva"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1edb"
+    },
+    {
+      "id": "79ba17e5-a25d-4b94-95f0-723d1b3daeb2",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "This country disputes the Scarborough Shoal with China and Taiwan as part of a territory claim along the nine-dash line. This country's Sebwano language is commonly spoken in Palawan province and on the island of Mindanao, although this nation's official language is Tagalog. This country's most populous city, Quezon City, is near its capital on the island of Luzon. For 10 points, name this southeast Asian archipelago governed from Manila.",
+      "powerMarkPosition": 212,
+      "answer": "Philippines",
+      "acceptableAnswers": [
+        "Philippines",
+        "The Philippines"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3114afad1e88c874a2e5d"
+    },
+    {
+      "id": "82d3f53e-588e-448f-91c4-44c841a21008",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "The generative lithology of this area's signature features was used to create its first man-made structure, the walls of a monastery belonging to the Pauline Fathers, at this site on a ridge above one of its features named Gradina. One of the largest of those features was supposedly created due to a prayer to the Black Queen, and another is said to host the Treasure of Gavan. The dominant rock type central to this location also comprises the surrounding Lika Plain, which saw its nation's nobility nearly extinguished at a battle known as that nation's \"first dissolution.\" Because this protected area sits between the strategic Ljubovo Pass and the D50 state highway, this site also found itself at the center of a namesake Bloody Easter incident which began its nation's independence war, and landmines have still not fully been cleared from it. This area shares similar features to those created by calcareous sinter banks within the more southern canyons of the Una, and a joint venture is proposed to connect them via the Plješevice Virgin Forest. Those features include Golovac, Prošćansko and Kozjak, which are formed by shallow tufa dams on the Matica River, which joins its namesake via the cascades of the Sastavci to form the Korana. FTP, name this famous national park located in the Dinaric Alps known for its Karstic lakes and waterfalls, Croatia's first UNESCO world heritage site.",
+      "powerMarkPosition": 632,
+      "answer": "Plitvice Lakes",
+      "acceptableAnswers": [
+        "Plitvice Lakes",
+        "The Plitvice Lakes"
+      ],
+      "source": "qbreader",
+      "sourceId": "67e9a3e560d5e25024711fe3"
+    },
+    {
+      "id": "2894c623-e8e9-4c44-8893-289319cc44b0",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "Attempts to codify this work's contents include \"The Prepared Table\", the \"Book of Rows\", and the \"Decided Laws\". It exists in two versions, the longer of which is the \"Bavli\", or \"Babylonian\" version, which has more authority than the shorter \"Yerushalmi\", or \"Palestinian\" version. It consists of two parts, the second of which, the \"Gemara\", is commentary on the laws found in the first part, the \"Mishnah\". For 10 points, what is this book of Judaism second in importance only to the Bible?",
+      "powerMarkPosition": 283,
+      "answer": "The Talmud",
+      "acceptableAnswers": [
+        "The Talmud",
+        "Talmud"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596d15"
+    },
+    {
+      "id": "c178f748-a4af-4a3c-8693-b4feee1e49ef",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "Historical precursors of this language experienced three distinct shortening processes resulting in trisyllabic laxness. The Brown Corpus and a Survey of this language's Usage grounded a \"Comprehensive Grammar\" of this language produced by Randolph Quirk. Dialects of this language are separated by the Humber-Lune Line. This language's grammar was studied by Otto Jespersen, who described how long vowels in this language broke from their spelling in a process he called the Great Vowel Shift. The \"Original Pronunciation\" dialect reconstructs the phonology of this language's Early Modern form and is named in contrast to contemporary \"received pronunciation.\" For 10 points, name this language whose spelling was standardized by Samuel Johnson's dictionary.",
+      "powerMarkPosition": 359,
+      "answer": "English",
+      "acceptableAnswers": [
+        "English",
+        "Early Modern English",
+        "accept Middle English",
+        "reject “Old English”",
+        "The English"
+      ],
+      "source": "qbreader",
+      "sourceId": "68846960641a9dc975af834a"
+    },
+    {
+      "id": "6d6979b4-93e0-4784-8737-6af754a76111",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "These people believed that the moon got its spots because when the fox tried to steal it, the moon instead hugged it tightly. These people believed that their creator deity first created a stupid race of stone giants who were then wiped away by a flood. These people viewed the Milky Way as a jug from which a god gave rain. At the order of the sun god Inti, an ancestor of these people named Manco Capac settled where a golden stick sunk into the ground. The creator god of these people, Viracocha, rose from Lake Titicaca to create light. For 10 points, name these people who honored their gods in places like the Temple of the Sun in Machu Picchu.",
+      "powerMarkPosition": 352,
+      "answer": "Inca",
+      "acceptableAnswers": [
+        "Inca",
+        "The Inca"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b18d3"
+    },
+    {
+      "id": "ad07d780-fc7b-4acc-a4cf-528448eb1a10",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "F.R. Leyland commissioned this man to create the Peacock Room, and he painted several depictions of the Old Battersea Bridge. He painted Joanna Heffernan in a white dress in Symphony in White, no. 1. He painted fireworks in the night sky in a painting that was heavily criticized by John Ruskin called Nocturne in Black and Gold. For 10 points, name this artist, whose Arrangement in Grey and Black, no. 1 is more often called The Artist's Mother.",
+      "powerMarkPosition": 199,
+      "answer": "Whistler",
+      "acceptableAnswers": [
+        "Whistler",
+        "The Whistler"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d44023"
+    },
+    {
+      "id": "b4e8b00b-fd54-43a4-a641-9d4baef4dcc5",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "The outer surface of this organ is divided into sulci and gyri, which are indentations and ridges respectively. The two halves of this organ are connected by the corpus callosum. One structure in this organ is named for its resemblance to a seahorse, the hippocampus. For 10 points, name this organ that is split into four lobes and is the main component of the central nervous system.",
+      "powerMarkPosition": 254,
+      "answer": "brain",
+      "acceptableAnswers": [
+        "brain",
+        "The brain"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e1365"
+    },
+    {
+      "id": "7060b60b-dd80-40d4-813b-572bd65fbd74",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "One reaction in this organelle is driven by the cyclic interconversion of Coenzyme Q10 between ubiquinol and ubiquinone. Reducing equivalents, like FADH2 and NADH, serve as the inputs in a pathway in this organelle. In this organelle, a series of protein complexes named I through IV create a chemiosmotic potential that allows ATP synthase to produce ATP. This organelle contains the Krebs cycle and electron transport chain. For 10 points, name this organelle, the powerhouse of the cell.",
+      "powerMarkPosition": 292,
+      "answer": "mitochondria",
+      "acceptableAnswers": [
+        "mitochondria",
+        "mitochondrion",
+        "The mitochondria"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7ded47"
+    },
+    {
+      "id": "4830bca5-eb74-491f-8855-241ce84a97d5",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "In one story, this god branded his uncle, who was disguised as a leopard, with a hot iron rod and then flayed him and wore his pelt. This god was called \"First of the Westerners\" before Osiris took that spot, and this god was born after Nephthys disguised herself as Isis to sleep with Osiris. A priest wears a mask of this god during the Opening of the Mouth ceremony, and this god feeds hearts to the demon Ammit. This god weighs hearts against the feather of Ma'at in his role as the \"Guardian of the Scales.\" For 10 points, name this jackal-headed Egyptian god of embalming and death.",
+      "powerMarkPosition": 285,
+      "answer": "Anubis",
+      "acceptableAnswers": [
+        "Anubis",
+        "The Anubis"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52afb"
+    },
+    {
+      "id": "66d23cff-20c6-4042-b65a-40ddeab8dc4a",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for larynx and vocal cords. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this pharynx-related structure.",
+      "powerMarkPosition": 73,
+      "answer": "Pharynx",
+      "acceptableAnswers": [
+        "pharynx",
+        "Pharynx"
+      ],
+      "explanation": "The pharynx is a key component of the Respiratory system, involved in larynx and vocal cords.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "91a3f9fa-b268-4b1d-879f-bbbd358441b5",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "This country's Corn Islands were leased by the United States for 99 years. China planned to build a canal along this country's San Juan river before abandoning the plan due to deforestation concerns. Ometepe Island is located in this country's namesake lake, the largest in Central America. This nation owns most of the Mosquito Coast and borders both the Pacific Ocean and the Caribbean Sea. For 10 points, name this nation that is governed from Managua.",
+      "powerMarkPosition": 252,
+      "answer": "Nicaragua",
+      "acceptableAnswers": [
+        "Nicaragua",
+        "The Nicaragua"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ead0be8c91030f69d5b708"
+    },
+    {
+      "id": "8876e36a-c01c-4026-aec9-992de20d67e7",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "The diplomat David Patterson derided the 'culture of violence' on this island, which was forced to give up territory on the mainland after the Abushiri Revolt. A powerful figure who served the rulers of this island was nicknamed 'Tippu Tib' for the sound his guns made. On this island, Basil Cave scolded Khalid bin Barghash to 'do as you are told' before the destruction of the HHS Glasgow. British consuls forced the Busaidi dynasty to end this island's slave trade, which supported its exports of cloves and coral. This island's city of Stone Town briefly became the capital of the Sultanate of Oman, and it fought a war with Britain that lasted just 38 minutes. For 10 points, name this East African island that later formed a union with Tanganyika.",
+      "powerMarkPosition": 269,
+      "answer": "Zanzibar",
+      "acceptableAnswers": [
+        "Zanzibar",
+        "Unguja",
+        "The Zanzibar"
+      ],
+      "source": "qbreader",
+      "sourceId": "6300226cdcc9d816c18b76aa"
+    },
+    {
+      "id": "af546d1d-66b5-49e3-8f3a-4ff3bebeeb55",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for respiratory rate control. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this diaphragm-related structure.",
+      "powerMarkPosition": 81,
+      "answer": "Diaphragm",
+      "acceptableAnswers": [
+        "diaphragm",
+        "Diaphragm"
+      ],
+      "explanation": "The diaphragm is a key component of the Respiratory system, involved in respiratory rate control.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "16f62a09-a78f-47fb-91dd-f0d541f06920",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for stress response. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this adrenal-related structure.",
+      "powerMarkPosition": 70,
+      "answer": "Adrenal",
+      "acceptableAnswers": [
+        "adrenal",
+        "Adrenal"
+      ],
+      "explanation": "The adrenal is a key component of the Endocrine system, involved in stress response.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "0d87a0f6-cb3c-49ba-b005-68baa2a270a6",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "In the early 1980s, Texas congressman Henry B. González asked for the impeachment of a leader of this institution during every congressional session for three years. A leader of this institution described its duty as \"removing the punch bowl just as the party is warming up.\" The structure of this institution, which publishes the Beige Book, was secretly planned during a meeting disguised as a \"duck hunt\" at the Jekyll Island Club in Georgia. Robert Owen and Carter Glass sponsored the bill that established this institution. This institution's structure was based on findings of a committee led by Nelson Aldrich after the Panic of 1907. Former leaders of this institution have included Paul Volcker and Alan Greenspan. For 10 points, name this central banking system of the United States that determines interest rates.",
+      "powerMarkPosition": 452,
+      "answer": "Federal Reserve",
+      "acceptableAnswers": [
+        "Federal Reserve",
+        "the Fed",
+        "The Federal Reserve"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f32f19679b6464bbdf7332"
+    },
+    {
+      "id": "98297ea6-c892-4deb-bf63-78c198452a10",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "The decay of this particle is mediated by X and Y bosons in the Georgi-Glashow model. A 2010 experiment by Pohl et. al used muons to more accurately calculate this particle's charge radius. This particle's anti-particle was discovered at the Bevatron collider in 1955. Andrei Sakharov theorized that this particle would decay into a neutral pion and positron. In positron emission, this particle releases a positron and electron neutrino to become a neutron. This baryon consist of two up-quarks and one down-quark. For 10 points, name this positively charged particle paired with neutrons in the atomic nucleus.",
+      "powerMarkPosition": 332,
+      "answer": "proton",
+      "acceptableAnswers": [
+        "proton",
+        "The proton"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab8a0"
+    },
+    {
+      "id": "2c6125af-3ee5-4074-a7a0-848ac343d489",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "Operation in these devices is governed by the multi-group equations, which give the scalar flux; the power density in one is given by the average binding energy release times the scalar flux times the cross-section for their namesake process. Some of these have hard, fast spectra and use liquid metal coolant, but more conventional moderation is with graphite or water. For 10 points, name these devices including PWR's, BWR's and breeders that split atoms of uranium, plutonium or thorium via fission to make electricity.",
+      "powerMarkPosition": 242,
+      "answer": "nuclear",
+      "acceptableAnswers": [
+        "nuclear",
+        "The nuclear"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a98413e9"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "7f312838-9ecb-4941-b3c8-485dc88ca92c",
+      "linkedTossupId": "05972dfb-61cf-46b3-8b6e-ba3a3a8dd5d8",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "How many vertices does the doghouse have?",
+          "answer": "five",
+          "acceptableAnswers": [
+            "five",
+            "The five"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "How many edges does the doghouse have?",
+          "answer": "eight",
+          "acceptableAnswers": [
+            "eight",
+            "The eight"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What name is given to the vertex at the top of the pyramid at which the triangular faces meet?",
+          "answer": "apex",
+          "acceptableAnswers": [
+            "apex",
+            "The apex"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "COMPUTATION: Nolan is building a doghouse in the shape of a square pyramid. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c895"
+    },
+    {
+      "id": "8614b539-7909-45ec-8e16-5a67432084b8",
+      "linkedTossupId": "2c1ca437-68de-428c-b337-7f6a167c51be",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this process that occurs in a five-prime to three-prime direction and sees a cell duplicate its genetic material.",
+          "answer": "DNA Replication",
+          "acceptableAnswers": [
+            "DNA Replication",
+            "The DNA Replication"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During DNA replication, the lagging strand sees the addition of these short fragments following the addition of an RNA primer. They are subsequently made continuous by the enzyme DNA ligase.",
+          "answer": "Okazaki",
+          "acceptableAnswers": [
+            "Okazaki",
+            "The Okazaki"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These enzymes regulate the unwinding of DNA by temporarily breaking strands during replication. One example of them, DNA gyrase, adds negative supercoils to the helix.",
+          "answer": "Topoisomerase",
+          "acceptableAnswers": [
+            "Topoisomerase",
+            "The Topoisomerase"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Meselson-Stahl experiment exhibited that this process occurs in a semi-conservative manner. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d7b3"
+    },
+    {
+      "id": "5e065cbc-c5a4-4093-89fc-c16ddfc43823",
+      "linkedTossupId": "734cb276-27ed-4c0b-81af-6570e118733a",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these domains. Zao Jun became a Chinese deity of these domains after he set himself on fire upon recognizing his estranged wife.",
+          "answer": "kitchen",
+          "acceptableAnswers": [
+            "kitchen",
+            "hearth",
+            "prompt on home by asking “what part of the home?”",
+            "The kitchen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Ainu term for spirits in their mythology is similar to this Japanese word for deities including Amaterasu and Susanoo.",
+          "answer": "kami",
+          "acceptableAnswers": [
+            "kami",
+            "The kami"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ainu people sacrifice these animals after raising them for two years in the Iomante (\"ee-oh-MAHN-tay\") practice. Onikumas are demon varieties of these animals known for stealing livestock.",
+          "answer": "bear",
+          "acceptableAnswers": [
+            "bear",
+            "The bear"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Kamuy-Fuchi is an Ainu deity of these domains who gained the name \"People Teacher\" for instructing women on how to make girdles. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edc5411249c9578b2abef6"
+    },
+    {
+      "id": "e154495b-0a9c-48ef-a710-f3afd6c4a853",
+      "linkedTossupId": "79ba17e5-a25d-4b94-95f0-723d1b3daeb2",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This island chain is a hotspot in the center of the Pacific plate and is an American state with capital Honolulu.",
+          "answer": "Hawaii",
+          "acceptableAnswers": [
+            "Hawaii",
+            "The Hawaii"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Pacific plate is surrounded by a zone of active underwater volcanoes commonly referred to by this 3 word phrase.",
+          "answer": "Ring of Fire",
+          "acceptableAnswers": [
+            "Ring of Fire",
+            "The Ring of Fire"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "French is the official language of this largest and most populous island of French Polynesia.",
+          "answer": "Tahiti",
+          "acceptableAnswers": [
+            "Tahiti",
+            "The Tahiti"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about landmarks in the Pacific Ocean.",
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e131e"
+    },
+    {
+      "id": "cb1235a2-11aa-417f-9237-7ce5c8f3517c",
+      "linkedTossupId": "82d3f53e-588e-448f-91c4-44c841a21008",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this crop. Over 70% of America's commercial honeybee colonies are imported into this crop's farms during pollination season, resulting in 30% mortality, likely from pesticides and diseases.",
+          "answer": "almond",
+          "acceptableAnswers": [
+            "almond",
+            "Prunus amygdalus",
+            "Prunus dulcis",
+            "The almond"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Californian almond production is centered in Fresno County, part of this fertile valley that comprises the southern half of the Central Valley. It contains the basin of its namesake river and the Tulare (\"too-LAIR-ee\") Lake basin.",
+          "answer": "San Joaquin",
+          "acceptableAnswers": [
+            "San Joaquin",
+            "The San Joaquin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While almonds are California's leading agricultural export, they lag behind dairy and this fruit in production due to domestic use. California's Sonoma County and Napa Valley are centers for the use of this fruit in viniculture.",
+          "answer": "grape",
+          "acceptableAnswers": [
+            "grape",
+            "The grape"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Around 80% of the world's production of this crop occurs in the US. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67e338db63ef71fce09dfb42"
+    },
+    {
+      "id": "ea54f8db-9f42-4576-9a2a-4f37befdd5d4",
+      "linkedTossupId": "2894c623-e8e9-4c44-8893-289319cc44b0",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "A popular thought experiment concerns one of these objects belonging to Theseus, whose planks are replaced one by one until none of the original planks remain.",
+          "answer": "ship",
+          "acceptableAnswers": [
+            "ship",
+            "The ship"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Donald Davidson's \"Swampman\" thought experiment imagines Davidson being killed in this manner at the same moment that a being identical to Davidson is created in this manner.",
+          "answer": "lightning",
+          "acceptableAnswers": [
+            "lightning",
+            "The lightning"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This philosopher believes that people do not have personal identity apart from their physical components. He argued that utilitarianism strictly applied leads to a \"repugnant conclusion\" in his book Reasons and Persons.",
+          "answer": "Parfit",
+          "acceptableAnswers": [
+            "Parfit",
+            "The Parfit"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about problems concerning identity in philosophy, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f32e2883e2636cb3c96489"
+    },
+    {
+      "id": "530ac19a-7559-437c-afa0-bfbda26e4519",
+      "linkedTossupId": "c178f748-a4af-4a3c-8693-b4feee1e49ef",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this article, which argues that a certain form of economic organization is superior because of the \"cost of using the price mechanism\" and its superior ability to navigate transaction costs.",
+          "answer": "Nature of the Firm",
+          "acceptableAnswers": [
+            "Nature of the Firm",
+            "The Nature of the Firm"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Coase, the author of The Nature of the Firm, proved a theorem stating low transaction costs will lead to bargaining addressing these indirect effects. Pollution is a classic example of a negative form of these costs.",
+          "answer": "externalities",
+          "acceptableAnswers": [
+            "externalities",
+            "The externalities"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Coase's work on externalities was a refutation of this economist, who names a form of tax that charges the source of a negative externality like a pollution tax.",
+          "answer": "Pigou",
+          "acceptableAnswers": [
+            "Pigou",
+            "The Pigou"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This paper, written while its author was in undergrad, was cited along with \"The Problem of Social Cost\" by the Nobel committee. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7df0d7"
+    },
+    {
+      "id": "6476aa95-f815-42bd-b584-324412db190e",
+      "linkedTossupId": "6d6979b4-93e0-4784-8737-6af754a76111",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this subject of a Greek tragedy that, after killing his father Laius and sleeping with his mother Jocasta, fulfills a prophecy and gouges his own eyes out.",
+          "answer": "Oedipus",
+          "acceptableAnswers": [
+            "Oedipus",
+            "Oedipus Rex",
+            "Oedipus the King",
+            "The Oedipus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Greek tragedian wrote a cycle of plays about Oedipus, as well as Ajax, Philoctetes, and The Women of Trachis.",
+          "answer": "Sophocles",
+          "acceptableAnswers": [
+            "Sophocles",
+            "The Sophocles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Sophocles play concerns Oreste's sister and her quest to ruin Clytemnestra and Aegithus after they murdered her father Agamemnon.",
+          "answer": "Electra",
+          "acceptableAnswers": [
+            "Electra",
+            "Elektra",
+            "The Electra"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He gives an answer of \"Man\" to the sphinx's riddle and has a daughter named Antigone. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895997a0d8ea074be7bd3"
+    },
+    {
+      "id": "af1cd0c6-4a1d-4612-908d-ffa3d71b6fb4",
+      "linkedTossupId": "ad07d780-fc7b-4acc-a4cf-528448eb1a10",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Also known as the \"Red Priest,\" this Baroque composer is best known for a suite in his The Contest between Harmony and Invention that includes the L'estate and La Primavera concertos.",
+          "answer": "Vivaldi",
+          "acceptableAnswers": [
+            "Vivaldi",
+            "The Vivaldi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Baroque composer wrote some nine books of madrigals and was one of the earliest writers of operas, such as L'Arianna and L'Orfeo, the latter of which is still regularly performed.",
+          "answer": "Monteverdi",
+          "acceptableAnswers": [
+            "Monteverdi",
+            "The Monteverdi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This musicologist, while not publishing editions of works by Vivaldi and Monteverdi, wrote some tone poems in his Roman Trilogy that described some fountains, pines, and festivals of that city.",
+          "answer": "Respighi",
+          "acceptableAnswers": [
+            "Respighi",
+            "The Respighi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some Italian composers, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0eaf"
+    },
+    {
+      "id": "f6191d45-47be-4129-b427-e278f933cc1e",
+      "linkedTossupId": "b4e8b00b-fd54-43a4-a641-9d4baef4dcc5",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Aqua regia is a mix of two of these compounds at a ratio of one part nitric to three parts hydrochloric.",
+          "answer": "acids",
+          "acceptableAnswers": [
+            "acids",
+            "The acids"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Aqua regia is known for its ability to dissolve platinum and this precious metal with chemical symbol Au [spell it].",
+          "answer": "gold",
+          "acceptableAnswers": [
+            "gold",
+            "The gold"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Aqua regia was commonly used by practitioners of this, a medieval precursor to chemistry that sought to transmute base metals into gold.",
+          "answer": "alchemy",
+          "acceptableAnswers": [
+            "alchemy",
+            "The alchemy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Aqua regia is a mixture of two compounds that can dissolve several precious metals. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62f07cea5295951080e2cc5d"
+    },
+    {
+      "id": "997bd522-49a4-4c78-91c5-46307523c994",
+      "linkedTossupId": "7060b60b-dd80-40d4-813b-572bd65fbd74",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this kind of number whose only factors are one and itself.",
+          "answer": "prime",
+          "acceptableAnswers": [
+            "prime",
+            "The prime"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This kind of number is not prime, and has additional factors other than one and itself. The number one is neither prime nor this type of number.",
+          "answer": "composite",
+          "acceptableAnswers": [
+            "composite",
+            "The composite"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the next prime number after 31.",
+          "answer": "37",
+          "acceptableAnswers": [
+            "37"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Sieve of Eratosthenes can be used to find these numbers, of which 2 is the only even one. For 10 points:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c83e"
+    },
+    {
+      "id": "041ec581-7c8a-41b2-9787-c29a253598da",
+      "linkedTossupId": "4830bca5-eb74-491f-8855-241ce84a97d5",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Give the common two-word English term for this creature that lives in waterholes and, in many stories, creates the world during a prehistoric era called the Dreamtime.",
+          "answer": "Rainbow Serpent",
+          "acceptableAnswers": [
+            "Rainbow Serpent",
+            "The Rainbow Serpent"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Various versions of the Rainbow Serpent appear in the myths of the indigenous peoples of Australia, who are collectively referred to with this term.",
+          "answer": "Aborigines",
+          "acceptableAnswers": [
+            "Aborigines",
+            "Aboriginal Australians",
+            "The Aborigines"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In an Aboriginal story about the origin of death, one of these animals debates with a crab about the best way to die. A three-legged example of these animals called yata-garasu led the first Japanese emperor, Jimmu, to his new homeland.",
+          "answer": "crow",
+          "acceptableAnswers": [
+            "crow",
+            "ravens",
+            "Australian ravens",
+            "Corvus",
+            "corvids",
+            "The crow"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Gunwinggu (\"gun-WING-goo\") people call this creature Ngalyod (\"NYAH-lod\") and believe it rests under billabongs (\"BILL-uh-bongs\") during the dry season. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f2c8e7e2ddc83d7b753569"
+    },
+    {
+      "id": "cbeb9219-12dd-4237-a167-bf16ebb4a0d6",
+      "linkedTossupId": "66d23cff-20c6-4042-b65a-40ddeab8dc4a",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with memory cells.",
+          "answer": "T cell",
+          "acceptableAnswers": [
+            "T cell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the T cell in the immune system?",
+          "answer": "Memory cells",
+          "acceptableAnswers": [
+            "Memory cells"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to memory cells.",
+          "answer": "B cell",
+          "acceptableAnswers": [
+            "B cell"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "47511093-fb8b-458f-9036-a43e86235c4f",
+      "linkedTossupId": "91a3f9fa-b268-4b1d-879f-bbbd358441b5",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Lhasa is the capital city of this autonomous region in southwestern China, which is the native land of the Dalai Lama.",
+          "answer": "Tibet",
+          "acceptableAnswers": [
+            "Tibet",
+            "The Tibet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The region of Aksai Chin is a disputed region in Xinjiang province between China and this country, who claims it to be part of its state of Arunachal Pradesh.",
+          "answer": "India",
+          "acceptableAnswers": [
+            "India",
+            "The India"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Tarim River in Xinjiang forms a basin that can be described by this term, which means that it does not flow into an ocean but rather into an inland lake or swamp. Other examples include the basins around the Caspian and Aral seas.",
+          "answer": "Endorheic",
+          "acceptableAnswers": [
+            "Endorheic",
+            "The Endorheic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the geography of Western and Southwestern China. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c6119349980"
+    },
+    {
+      "id": "03a2bebe-7f6f-416a-9db7-321ed2de7d22",
+      "linkedTossupId": "8876e36a-c01c-4026-aec9-992de20d67e7",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this dictator who massacred thousands in the Qey Shibir to stamp out the EPRP and MEISON parties.",
+          "answer": "Mengistu",
+          "acceptableAnswers": [
+            "Mengistu",
+            "The Mengistu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mengistu led this country, where the communist Derg overthrew Emperor Haile Selassie in 1974.",
+          "answer": "Ethiopia",
+          "acceptableAnswers": [
+            "Ethiopia",
+            "The Ethiopia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mengistu's regime defended this namesake disputed region against a Somali invasion with massive aid from the Soviet bloc, putting the US in the odd position of supplying Marxist Somalia.",
+          "answer": "Ogaden",
+          "acceptableAnswers": [
+            "Ogaden",
+            "The Ogaden"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "During this man's rule, families had to pay a tax known as the \"wasted bullet\" to kebele (\"kuh-bay-lay\") militias to receive the bodies of their relatives. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97422fc4"
+    },
+    {
+      "id": "203533ad-f871-46a8-883f-5aebcd31fa4a",
+      "linkedTossupId": "af546d1d-66b5-49e3-8f3a-4ff3bebeeb55",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with lung volumes and capacities.",
+          "answer": "diaphragm",
+          "acceptableAnswers": [
+            "diaphragm"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the diaphragm in the respiratory system?",
+          "answer": "Lung volumes and capacities",
+          "acceptableAnswers": [
+            "Lung volumes and capacities"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to lung volumes and capacities.",
+          "answer": "tidal volume",
+          "acceptableAnswers": [
+            "tidal volume"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "705ea52e-4e9c-44dd-be36-f7f9eaae9766",
+      "linkedTossupId": "16f62a09-a78f-47fb-91dd-f0d541f06920",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with hair follicle structure.",
+          "answer": "hair follicle",
+          "acceptableAnswers": [
+            "hair follicle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hair follicle in the integumentary system?",
+          "answer": "Hair follicle structure",
+          "acceptableAnswers": [
+            "Hair follicle structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the integumentary system related to hair follicle structure.",
+          "answer": "nail",
+          "acceptableAnswers": [
+            "nail"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human integumentary system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "5134a60a-19ae-4e60-9085-8a220aff3a47",
+      "linkedTossupId": "0d87a0f6-cb3c-49ba-b005-68baa2a270a6",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this city. A crowd supporting the repeal of the Corn Laws in this city was attacked by cavalry in the Peterloo Massacre.",
+          "answer": "Manchester",
+          "acceptableAnswers": [
+            "Manchester",
+            "The Manchester"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Manchester was a former industrial center of this commodity. A production surge in India and Egypt bypassed blockades of Confederate shipments of this commodity used to make textiles.",
+          "answer": "cotton",
+          "acceptableAnswers": [
+            "cotton",
+            "The cotton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This British historian described Manchester as \"very best and the very worst\" of cities. This historian interpreted the Dutch Golden Age in his book The Embarrassment of Riches.",
+          "answer": "Schama",
+          "acceptableAnswers": [
+            "Schama",
+            "Simon Michael Schama",
+            "The Schama"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In his book The Condition of the Working Class in England, Friedrich Engels argued that the Industrial Revolution worsened the living conditions of Liverpool and this city. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "664d3b297fccf73196050344"
+    },
+    {
+      "id": "46f7ad6b-2d1e-4ca8-9d99-388be4f3057f",
+      "linkedTossupId": "98297ea6-c892-4deb-bf63-78c198452a10",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this biochemical pathway.",
+          "answer": "glycolysis",
+          "acceptableAnswers": [
+            "glycolysis",
+            "The glycolysis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Two molecules of this end product are produced for every round of glycolysis. It is converted to acetyl-CoA before the start of the citric acid cycle.",
+          "answer": "pyruvate",
+          "acceptableAnswers": [
+            "pyruvate",
+            "The pyruvate"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This important regulatory enzyme uses ATP hydrolysis to catalyze the third step of glycolysis. Its action is the first step separating glycolysis from the pentose phosphate pathway.",
+          "answer": "p",
+          "acceptableAnswers": [
+            "p"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It contains intermediates like 1,3-bisphosphoglycerate and glyceraldehyde-3-phosphate, and produces 2 ATP molecules and 2 NADH molecules per round. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fcec"
+    },
+    {
+      "id": "3c7fc232-b741-40ca-8c1e-6135b9af35d5",
+      "linkedTossupId": "2c6125af-3ee5-4074-a7a0-848ac343d489",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Developed by a Guinness employee using a pseudonym, this continuous distribution is used when population variance is unknown. For infinite degrees of freedom, it converges to the normal distribution.",
+          "answer": "Student",
+          "acceptableAnswers": [
+            "Student",
+            "The Student"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This distribution governs the probability of a certain number of successes in a given number of trials, where only two outcomes are possible for each trial.",
+          "answer": "binomial",
+          "acceptableAnswers": [
+            "binomial",
+            "The binomial"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This distribution, a normal distribution raised to a certain power, is commonly used to assess goodness of fit and in examining observed versus estimated values in a contingency table.",
+          "answer": "chi square",
+          "acceptableAnswers": [
+            "chi square",
+            "The chi square"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name the following statistical distributions for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9840cbe"
+    }
+  ]
+}

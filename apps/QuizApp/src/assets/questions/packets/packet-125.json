@@ -1,0 +1,1137 @@
+{
+  "packetId": "packet-125",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Human Body",
+    "Geography",
+    "Science",
+    "Literature",
+    "Fine Arts",
+    "Social Science",
+    "Mythology",
+    "Philosophy"
+  ],
+  "tossups": [
+    {
+      "id": "4483f075-6b8b-44c0-936f-89a5daa3688e",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "Frank Borman was the first person in this profession to go on a good-will tour of the USSR. Lily Koppel's book on a club of wives married to men in this profession living in Togethersville, Texas, documents the tragic story of the widow of Ed White. The Hasselblad camera was made famous by people in this profession such as William Anders and Harrison Schmitt. Roger B. Chaffee was one of three people in this profession who died in a 1967 electrical fire at Cape Kennedy. A US senator from Ohio returned to this profession in the 1970s as part of STS-95. In the 1960s, Tang was widely marketed as being a drink used by these people such as John Glenn. For 10 points, name this profession of Apollo 11 commander Neil Armstrong.",
+      "powerMarkPosition": 440,
+      "answer": "astronaut",
+      "acceptableAnswers": [
+        "astronaut",
+        "pilot",
+        "test pilot",
+        "anti-prompt on payload specialist",
+        "commander",
+        "do not accept",
+        "prompt on “cosmonaut”",
+        "“taikonaut”",
+        "The astronaut"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed60f71539231f571edc5d"
+    },
+    {
+      "id": "32a6eec8-363d-4f07-ae97-3101e55ccb36",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for blood vessel structure. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this aorta-related structure.",
+      "powerMarkPosition": 73,
+      "answer": "Aorta",
+      "acceptableAnswers": [
+        "aorta",
+        "Aorta"
+      ],
+      "explanation": "The aorta is a key component of the Cardiovascular system, involved in blood vessel structure.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "43570bec-3540-4dba-9d27-870559204fab",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "The Sands Corporation controls many centers for this activity, such as Marina Bay in Singapore and multiple locations in the suburb of Paradise. Macau is a popular destination for this activity, which the economies of multiple Native American reservations are built around. Tourists primarily visit the Las Vegas Strip to engage in this activity. For 10 points, name this activity done in casinos.",
+      "powerMarkPosition": 226,
+      "answer": "gambling",
+      "acceptableAnswers": [
+        "gambling",
+        "The gambling"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b9bd"
+    },
+    {
+      "id": "0913d707-f8d6-4688-94b3-baeff6c7fc10",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "Retrospection and Introspection, No and Yes, and Unity of Good are three of the Prose Works authored by the founder of this religion. This religion fosters a discussion of 26 set topics twice each on every Sunday during the Lesson-Sermon, and its services are conducted by Readers. The literature of this religion is distributed in its namesake \"Reading Rooms,\" which publisher Virginia Harris helped popularize. Augusta Stetson was excommunicated by its Mother Church, which is in Boston. For 10 points, name this Christian denomination whose namesake discipline is laid out along with \"Health with Key to the Scriptures,\" founded by Mary Baker Eddy.",
+      "powerMarkPosition": 281,
+      "answer": "Christian Science",
+      "acceptableAnswers": [
+        "Christian Science",
+        "Church of Christ",
+        "Scientist",
+        "The Christian Science"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a45602b6"
+    },
+    {
+      "id": "e0c12605-2113-4a58-85e7-ccf2648562d1",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "One type of this molecule carries anticodons and amino acids and binds to another type of this molecule during the creation of proteins. That type of this molecule is synthesized from a similarly named molecule during transcription. This molecule contains the nitrogenous base uracil instead of adenine. Transfer and messenger are types of, for 10 points, what single-stranded molecule contrasted with DNA?",
+      "powerMarkPosition": 276,
+      "answer": "RNA",
+      "acceptableAnswers": [
+        "RNA",
+        "ribonucleic acid",
+        "The RNA"
+      ],
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ed7e"
+    },
+    {
+      "id": "ecda9ede-4336-49b8-a66d-b69bf0be0fed",
+      "category": "Literature",
+      "subcategory": "Classical Literature",
+      "difficulty": "high_school",
+      "text": "A poetry collection by this author notes how he dedicated his poems to Cornelius which were \"just polished off with dry pumice.\" In a two-line poem, this author wrote, \"I feel it happening and I am tortured.\" This author, who threatened Aurelius and Furius in his 16th poem of a collection, stated \"I hate and I love\" in a poem in which he mourns a woman's sparrow. The lines \"Hail and Farewell\" appear in a poem addressed to his dead brother. \"Ave Atque Vale\" (AH-way AHT-kway WAH-lay) was written by, for 10 points, what Roman poet who wrote love poems to Lesbia?",
+      "powerMarkPosition": 263,
+      "answer": "Catullus",
+      "acceptableAnswers": [
+        "Catullus",
+        "The Catullus"
+      ],
+      "source": "qbreader",
+      "sourceId": "6605c17e7891dce02ea7d08c"
+    },
+    {
+      "id": "59010904-5f1b-4b15-85a8-23fc03893bd0",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "In the Luo-Benson expression, this quantity is related to the number of valence shell electrons divided by the atomic radius. Another method to calculate this quantity uses effective nuclear charge values, and is named for Allred and Rochow. Electron affinity and ionization energy are added together in a measure of this property named for Mulliken, and fluorine has the largest value on the scale of it named for Pauling. For 10 points, name this property that measures the ability of an atom to draw the electrons in a bond to itself.",
+      "powerMarkPosition": 241,
+      "answer": "electronegativity",
+      "acceptableAnswers": [
+        "electronegativity",
+        "The electronegativity"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee273"
+    },
+    {
+      "id": "1d0a4a59-638f-43c3-b5c8-3578c365822d",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "One painter belonging to this art movement painted \"Street in Moret\"; that painter was Alfred Sisley. Other artists associated with this art movement included Berthe Morisot and expatriate painter of women and children Mary Cassatt. Another artist from this art movement painted a Japanese bridge in all four seasons and depicted many poplars and haystacks. That artist later suffered from cataracts and painted water lilies at his Giverny residence and numerous views of Rouen Cathedral, as well as a sunrise which coined this movement's name. For 10 points, identify this French art movement linked with Claude Monet.",
+      "powerMarkPosition": 223,
+      "answer": "Impressionism",
+      "acceptableAnswers": [
+        "Impressionism",
+        "word forms",
+        "The Impressionism"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be7500"
+    },
+    {
+      "id": "926cbc54-5db6-41cc-a680-f6e286bdc380",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "The only surviving manuscript of this poem contains an interpolated lullaby about a baby with a smock made from marten skins. One passage of this poem gives a day-by-day chronicle of events beginning, \"On Tuesday they donned their dark armour,\" and concluding, \"On Monday, men were seen waist-deep in blood.\"This poem chastises a group whose \"high spirits lessened their life-spans\" in the second of two stanzas beginning, \"Men went to [a certain place] at dawn.\" The earliest surviving reference to (+) King Arthur may be this poem's brief mention of him as an exemplum of bravery. In this poem, warriors feast and drink mead for a year at the court of King Mynyddog Mwynfawr before they accompany him to a battle where they are vastly outnumbered. For 10 points, name this Welsh-language poem attributed to the bard Aneirin in which the title kingdom is defeated by Angles at the Battle of Catraeth.",
+      "powerMarkPosition": 817,
+      "answer": "Gododdin",
+      "acceptableAnswers": [
+        "Gododdin",
+        "The Gododdin"
+      ],
+      "source": "qbreader",
+      "sourceId": "640017e9c0c9463aced4598b"
+    },
+    {
+      "id": "88c750e7-f3c6-441c-8dd8-1f5c5119f9ca",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "text": "He wrote several pieces for violin and piano, including the Pastourelle, the Bizarrerie, and the Salut d'Amour, and composed for the Powick Asylum Band early in his career. Poetry inspired many of his works, including the 1901 Grania and Dairmid, co-written with William Butler Yeats and The Black Knight and St. Olaf, both written in 1896 and inspired by the works of Robert Longfellow. His first symphony, dedicated to Hans Richter, is unusual for being in A flat major and for its opening movement being marked Andante nobilmente. His Catholicism was a great influence in his work, including his setting of Cardinal Newman's poem The Dream of Gerontius. For 10 points, identify this composer of the Pomp and Circumstance Marches and the Enigma Variations",
+      "powerMarkPosition": 312,
+      "answer": "Elgar",
+      "acceptableAnswers": [
+        "Elgar",
+        "The Elgar"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f04b9"
+    },
+    {
+      "id": "5b8888e4-e715-48cc-90e0-fa4cc18ea45e",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "This object has the largest number of known Trojan asteroids, and in 1994 it was hit by a comet discovered by and named for two amateur astronomers, Shoemaker-Levy 9. One feature on this planet orbits with a period of about six days; that hurricane-like storm in its southern hemisphere is known as the Great Red Spot. Its moons include Callisto, Europa, Io, and Ganymede. For 10 points, name this planet, the largest in the solar system.",
+      "powerMarkPosition": 166,
+      "answer": "Jupiter",
+      "acceptableAnswers": [
+        "Jupiter",
+        "The Jupiter"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d44015"
+    },
+    {
+      "id": "56b03534-9d42-42fe-b765-22025cdcd636",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "An admiral in this novel is executed for failing to put enough men to death, with the idea of motivating his nation's other admirals to fight. Another character in this novel survives hanging because the executioner was experienced with burnings, but incompetent with a rope. To avoid having his brains blown out with twelve bullets, a third character in this novel elects to receive 4,000 lashes. After shooting the simian lovers of two girls, a pair of travelers in this novel are captured by big-eared cannibals, but are saved upon proving that they murdered a Jesuit. At the advice of the University of Coimbra, an inquisitor in this novel orders a \"superb auto-da-fé.\" After settling in Turkey, this novel's characters debate whether to kill Baron Thunder-ten-Trock. Leibniz's idea that this is \"the best of all possible worlds\" as presented by Pangloss is mocked in, for 10 points, what novella by Voltaire?",
+      "powerMarkPosition": 416,
+      "answer": "Candide",
+      "acceptableAnswers": [
+        "Candide",
+        "The Candide"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eea92bec6a1624964894c8"
+    },
+    {
+      "id": "4a86f6c3-730b-4fed-87c3-3fd7a31e362f",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "Ashley Montagu called these concepts a \"fallacy\" in the book Man's Most Dangerous Myth, and he helped UNESCO issue a 1950 statement that treated these concepts scientifically. Johann Blumenbach proposed five of these concepts, and subscribed to the \"degenerist\" view that these concepts can be traced back to Adam and Eve. Samuel Morton used craniometric skull measurements to create these constructs, to support his polygenist account of the origin of these groups. Historical examples of these groupings include Caucasoid, Mongoloid, and Negroid; in the modern era police officers often create \"profiles\" based on these constructs. For 10 points, name these sociological groupings of humans into categories, such as \"black\" or \"white\" people.",
+      "powerMarkPosition": 416,
+      "answer": "race",
+      "acceptableAnswers": [
+        "race",
+        "The race"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f2c8e7e2ddc83d7b753429"
+    },
+    {
+      "id": "04150214-22bf-457e-a56f-327aa77ffdf5",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "In The Bacchae, this man and Cadmus warned King Pentheus to not denounce Dionysus as a god. After dying from Apollo's arrow while drinking from the tainted spring Tilphussa, he gave Odysseus advice about the cattle of Helios. He could understand birdsong, but he also received two curses, one from striking a pair of mating snakes with his staff, and another from stumbling upon Athena bathing, from which he was converted to a woman and struck blind, respectively. For 10 points, identify this blind prophet of Thebes.",
+      "powerMarkPosition": 225,
+      "answer": "Tiresias",
+      "acceptableAnswers": [
+        "Tiresias",
+        "The Tiresias"
+      ],
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced973"
+    },
+    {
+      "id": "334371c3-8eb5-46d9-86cb-55c117e5dae2",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "As well as founding the American Communist Party, a revolutionary known as \"John Pepper\" founded this country's communist party. The paramilitary Lenin Boys operated during this country's short stint as a Soviet republic, which occurred following the failure of the Aster Revolution. After this country's eastern neighboroccupied Alba Iulia and Cluj, it was forced tocede territory in the punitive Treaty of Trianon, which was later opposed by the fascist Arrow Cross Party. This country experienced a \"red terror\" under Béla Kun, who was \"rehabilitated\" during a 1956 democratic revolution led by Imre Nagy. For 10 points, name this country which ended its dual monarchy with Austria following World War I.",
+      "powerMarkPosition": 344,
+      "answer": "Hungary",
+      "acceptableAnswers": [
+        "Hungary",
+        "The Hungary"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f32c8153c44a298923c26c"
+    },
+    {
+      "id": "2a44994a-85ba-4d59-9940-d70e23a03bcf",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "The length of this ceremony corresponded to the length of time that the star Sothis disappeared, or 70 days. If this process were successful, its subject would reach the \"field of reeds.\" This process, during which the \"opening of the mouth\" occurred, utilized natron, onions, and cedar oil. This ritual ensured that the ba and the ka could recognize each other. It was followed by a procession called the \"Kites of Nephthys.\" After this ritual, canopic jars stored the lungs, stomach, liver, and intestine of the subject. Osiris was represented wrapped in linen after having undergone-for 10 points-what ancient Egyptian preservation ritual?",
+      "powerMarkPosition": 286,
+      "answer": "mummification",
+      "acceptableAnswers": [
+        "mummification",
+        "descriptive equivalents like making a mummy",
+        "prompt on embalming",
+        "do not accept",
+        "prompt on anything related to “burial”",
+        "The mummification"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0adb4b"
+    },
+    {
+      "id": "f095d139-a8d6-4d98-a7ce-2c5ccdaf0806",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "This instrument is featured in Livre du Saint Sacrement, composed by Olivier Messiaen (MESS-ai-an). In a performance slated to end in the year 2640, this instrument plays John Cage's As Slow as Possible. Dietrich Buxtehude's (boogs-teh-HOO-duhz) skill on this instrument legendarily inspired another composer to walk over 400 kilometers to see him. In another piece, this instrument plays the rapid notes (read slowly) A, G, A before rapidly descending down the D minor scale to C-sharp. The bottommost of the three staffs used to write music for this instrument notates a part for the pedal. J. S. Bach wrote Toccata (tuh-KAH-tuh) and Fugue (fewg) in D minor for this instrument. For 10 points, name this instrument whose sound comes through pipes, often found in churches.",
+      "powerMarkPosition": 461,
+      "answer": "organ",
+      "acceptableAnswers": [
+        "organ",
+        "The organ"
+      ],
+      "source": "qbreader",
+      "sourceId": "66423ff5515f1173a58a2873"
+    },
+    {
+      "id": "8ca8eb38-5be6-4c9b-952b-97958ef83d37",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "This monarch aided the Dutch via the Treaty of Nonsuch, and ordered the execution of Mary of Scotland for her involvement in the Babington Plot. This monarch gave the Tilbury Speech before Sir Francis Drake helped to defeat the Spanish Armada. Succeeded by the first Stuart leader, James I, this daughter of Anne Boleyn was nicknamed the \"Virgin Queen\". For 10 points, name this Tudor queen of England.",
+      "powerMarkPosition": 227,
+      "answer": "Elizabeth I",
+      "acceptableAnswers": [
+        "Elizabeth I",
+        "The Elizabeth I"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e1385"
+    },
+    {
+      "id": "82c8b8eb-ec36-4217-ac73-38518537c8d7",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "It's not related to elasticity, but when studying a regime named for this scientist, calculations can be simplified using potentials that satisfy the biharmonic equation in the Papkovich-Neuber technique. This scientist names the aforementioned flow regime which minimizes dissipation for given boundary conditions. This scientist who also names the 'creeping flow' regime, in which inertial forces are neglected, names the law stating '6 pi mu a U' is the drag on a sphere moving in a viscous fluid. This scientist is the second namesake of a result that reduces to the Euler equation when the term 'mu times the Laplacian of velocity' is neglected. That equation of which this scientist is the second namesake is hard to solve in turbulent conditions. For 10 points, name this Irish-born scientist who co-names the fundamental equations of fluid mechanics with Claude-Louis Navier.",
+      "powerMarkPosition": 315,
+      "answer": "Stokes",
+      "acceptableAnswers": [
+        "Stokes",
+        "The Stokes"
+      ],
+      "source": "qbreader",
+      "sourceId": "631a175612170ac0a81b97e2"
+    },
+    {
+      "id": "7c3eacd2-74bc-408e-aeaa-d04b099c0122",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for action potentials. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this axon-related structure.",
+      "powerMarkPosition": 93,
+      "answer": "Axon",
+      "acceptableAnswers": [
+        "axon",
+        "Axon"
+      ],
+      "explanation": "The axon is a key component of the Nervous system, involved in action potentials.",
+      "source": "ai-generated"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "7e9c61ba-f657-4f3a-bf47-3a157fce04cd",
+      "linkedTossupId": "4483f075-6b8b-44c0-936f-89a5daa3688e",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This man managed to lose to Dwight Eisenhower in both the 1952 and 1956 Presidential elections. He had served as Governor of Illinois prior to that.",
+          "answer": "Stevenson",
+          "acceptableAnswers": [
+            "Stevenson",
+            "The Stevenson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Later in life, Stevenson served as the ambassador to this organization, which replaced the League of Nations as the leading international cooperative group after being formed in 1945.",
+          "answer": "United Nations",
+          "acceptableAnswers": [
+            "United Nations",
+            "The United Nations"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This prominent \"court historian\" to the Kennedy administration also served as a speechwriter for Stevenson, and his eyewitness accounts of the Kennedy administration include details about Stevenson's zealous hatred of Kennedy, including his seeming glee at his assassination.",
+          "answer": "Schlesinger",
+          "acceptableAnswers": [
+            "Schlesinger",
+            "The Schlesinger"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about everyone's favorite egghead. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c611934979f"
+    },
+    {
+      "id": "a61a94e2-decf-4125-96d0-22b9433ffb72",
+      "linkedTossupId": "32a6eec8-363d-4f07-ae97-3101e55ccb36",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with arteries vs veins vs capillaries.",
+          "answer": "aorta",
+          "acceptableAnswers": [
+            "aorta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the aorta in the cardiovascular system?",
+          "answer": "Arteries vs veins vs capillaries",
+          "acceptableAnswers": [
+            "Arteries vs veins vs capillaries"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to arteries vs veins vs capillaries.",
+          "answer": "vena cava",
+          "acceptableAnswers": [
+            "vena cava"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ce8467dc-7c48-4b8f-865e-5ac7bde464ea",
+      "linkedTossupId": "43570bec-3540-4dba-9d27-870559204fab",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "It is the primary drainage of the Great Lakes Basin, and its mouth forms the largest estuary in the world. Cities on its shores include Quebec City and Montreal.",
+          "answer": "St. Lawrence",
+          "acceptableAnswers": [
+            "St. Lawrence",
+            "The St. Lawrence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "It begins in the Llewellyn Glacier in British Columbia, and flows through its namesake territory in northwest Canada before entering Alaska. It drains into the Bering Sea.",
+          "answer": "Yukon",
+          "acceptableAnswers": [
+            "Yukon",
+            "The Yukon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This longest river in Canada originates in the Great Slave Lake and flows north to the Arctic Ocean. It was once called Disappointment River as it did not lead to the Northwest Passage.",
+          "answer": "Mackenzie",
+          "acceptableAnswers": [
+            "Mackenzie",
+            "The Mackenzie"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these important Canadian rivers, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0d75"
+    },
+    {
+      "id": "a285b5d1-d9b3-4ce1-9a08-1667ad2d6a6c",
+      "linkedTossupId": "0913d707-f8d6-4688-94b3-baeff6c7fc10",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this island southeast of India that was ruled by the Kingdom of Kandy before becoming the British colony of Ceylon.",
+          "answer": "Sri Lanka",
+          "acceptableAnswers": [
+            "Sri Lanka",
+            "The Sri Lanka"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Sri Lanka Moors are Muslim members of this minority ethnic group, whose \"Tigers\" fought the Sinhala majority in the Sri Lankan Civil War from 1983 to 2009.",
+          "answer": "Tamil",
+          "acceptableAnswers": [
+            "Tamil",
+            "The Tamil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This branch of Buddhism originated in Sri Lanka and is still the majority religion there. Its scriptures are contained in the Pali Canon, and it emphasises monasticism more heavily than Mahayana Buddhism.",
+          "answer": "Theravada",
+          "acceptableAnswers": [
+            "Theravada",
+            "The Theravada"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Sirimavo Bandaranaike became the first elected female head of state in the world when she was elected Prime Minister of this country in 1960. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6413cd9afdc648a1ed7098de"
+    },
+    {
+      "id": "ee7aa159-9ba8-468d-879b-ef45033daafa",
+      "linkedTossupId": "e0c12605-2113-4a58-85e7-ccf2648562d1",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this property that describes the extent of space occupied by matter, sometimes measured in liters.",
+          "answer": "volume",
+          "acceptableAnswers": [
+            "volume",
+            "The volume"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This law, named for an Italian scientist, states that at constant temperature and pressure, the volume of a gas is directly proportional to its number of particles.",
+          "answer": "Avogadro",
+          "acceptableAnswers": [
+            "Avogadro",
+            "The Avogadro"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Avogadro's law only holds for this type of gas, in which individual molecules have insignificant volume or intermolecular forces. These gases obey the law PV equals n R T.",
+          "answer": "ideal",
+          "acceptableAnswers": [
+            "ideal",
+            "The ideal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Molarity is the concentration of a substance per unit of this quantity. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac9eb"
+    },
+    {
+      "id": "d9b5bb03-c2ae-4d21-9de1-3185563b7536",
+      "linkedTossupId": "ecda9ede-4336-49b8-a66d-b69bf0be0fed",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Nobel prize-winner and author of The Black Book and My Name is Red.",
+          "answer": "Pamuk",
+          "acceptableAnswers": [
+            "Pamuk",
+            "Ferit Orhan Pamuk",
+            "The Pamuk"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name the novel by Pamuk that contains a setting of The Spanish Tragedy, in which the poet Ka rekindles his love with Ipek while investigating a rash of suicides in a small town.",
+          "answer": "Snow",
+          "acceptableAnswers": [
+            "Snow",
+            "The Snow"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Snow, Kadife agrees to remove this item of clothing, contentiously religious in secular Turkey, during a televised performance of The Spanish Tragedy.",
+          "answer": "headscarf",
+          "acceptableAnswers": [
+            "headscarf",
+            "The headscarf"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He wrote a novel in which a slave trades identities with his master, The White Castle. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841956"
+    },
+    {
+      "id": "031efee3-606b-4b29-9599-66c4edb00bc7",
+      "linkedTossupId": "59010904-5f1b-4b15-85a8-23fc03893bd0",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these leptons with charge of negative one that are 207 times more massive than their more stable counterpart.",
+          "answer": "muon",
+          "acceptableAnswers": [
+            "muon",
+            "The muon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Muons decay into these more stable leptons, whose antiparticle is the positron.",
+          "answer": "electron",
+          "acceptableAnswers": [
+            "electron",
+            "The electron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 1940 experiment, performed at Echo Lake, gave a confirmation of time dilation while measuring muons. This experiment was followed up with the Frisch-Smith experiment 23 years later.",
+          "answer": "Rossi-Hall",
+          "acceptableAnswers": [
+            "Rossi-Hall",
+            "partial answers",
+            "The Rossi-Hall"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These particles move towards Earth at 99% the speed of light and have a halflife of roughly 2.2 microseconds. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab9d6"
+    },
+    {
+      "id": "f8fad1ce-8466-4cff-bf3e-a550ca5973f7",
+      "linkedTossupId": "1d0a4a59-638f-43c3-b5c8-3578c365822d",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this American composer of the bassoon concerto The Five Sacred Trees. He wrote \"The Imperial March\" for Star Wars.",
+          "answer": "Williams",
+          "acceptableAnswers": [
+            "Williams",
+            "John Towner Williams",
+            "The Williams"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Williams recorded the soundtrack for the first six Star Wars films with this orchestra, which shares the Barbican Hall with the BBC Orchestra. It was led by Colin Davis from 1995 to 2007.",
+          "answer": "London Symphony",
+          "acceptableAnswers": [
+            "London Symphony",
+            "LSO",
+            "do not accept",
+            "prompt on “London Philharmonic Orchestra”",
+            "The London Symphony"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sir Simon Rattle took over the LSO in 2017 after leading this orchestra for the previous 15 years. It was directed for 45 years by Herbert von Karajan.",
+          "answer": "Berlin",
+          "acceptableAnswers": [
+            "Berlin",
+            "Berliner Philharmoniker",
+            "The Berlin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This composer wrote a menacing leitmotif that is introduced by a chorus intoning \"Korah matah\" in Sanskrit. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed60f71539231f571edcfc"
+    },
+    {
+      "id": "b203bfc6-944b-428f-b731-d1e9153f4d1c",
+      "linkedTossupId": "926cbc54-5db6-41cc-a680-f6e286bdc380",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The Loved One is a novel by this author of A Handful of Dust and Brideshead Revisited.",
+          "answer": "Waugh",
+          "acceptableAnswers": [
+            "Waugh",
+            "Arthur Evelyn St. John Waugh",
+            "The Waugh"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Loved One, Mr. Joyboy works at one of these places, while Dennis Barlow goes to work at one of these places called the Happier Hunting Ground.",
+          "answer": "cemeteries",
+          "acceptableAnswers": [
+            "cemeteries",
+            "cemetery",
+            "graveyard",
+            "pet cemetery",
+            "funeral parlor",
+            "mortician's parlor",
+            "undertaker's parlor",
+            "accept other obvious equivalents",
+            "The cemeteries"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Barlow's housemate, Sir Francis Hinsley, works in this industry in the United States. F. Scott Fitzgerald, who also dabbled in this industry, depicted it in his book The Last Tycoon.",
+          "answer": "film",
+          "acceptableAnswers": [
+            "film",
+            "motion pictures",
+            "Hollywood",
+            "The film"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the novel The Loved One, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490c234"
+    },
+    {
+      "id": "bde4ae49-a5bf-4504-bd2a-528811d31f91",
+      "linkedTossupId": "88c750e7-f3c6-441c-8dd8-1f5c5119f9ca",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this author and artist, who created the album cover for Buffalo Springfield Again. Julian Wasser photographed this artist nude playing chess with a clothed Marcel Duchamp at the Pasadena Art Museum.",
+          "answer": "Babitz",
+          "acceptableAnswers": [
+            "Babitz",
+            "The Babitz"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In May 2022, this artist's photograph Le Violon d'Ingres, which depicts Kiki de Montparnasse, became the most expensive photograph ever sold. This artist also depicted himself kissing Kiki in a photogram.",
+          "answer": "Ray",
+          "acceptableAnswers": [
+            "Ray",
+            "Emmanuel Radnitzky",
+            "The Ray"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This artist created many paintings of his lover Dora Maar, most famously as The Weeping Woman. During their abusive relationship, Maar took photographs of this artist creating Guernica.",
+          "answer": "Picasso",
+          "acceptableAnswers": [
+            "Picasso",
+            "The Picasso"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This woman is shown from the neck up in Ed Ruscha (roo-shay)'s article \"Five 1965 Girlfriends.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7def90"
+    },
+    {
+      "id": "0068ea08-9438-4493-9bbc-ca18542b5eb4",
+      "linkedTossupId": "5b8888e4-e715-48cc-90e0-fa4cc18ea45e",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "The Storm Prediction Center is part of the National Weather Service, which is a part of this larger agency with a four-letter acronym. In addition to the weather, it is also responsible for deep-sea exploration and marine wildlife protection.",
+          "answer": "NOAA",
+          "acceptableAnswers": [
+            "NOAA",
+            "National Oceanic and Atmospheric Administration",
+            "The NOAA"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One type of bad weather predicted by the Storm Prediction Center is weather that is likely to result in one of these events. The smoke produced by these events can reduce air quality.",
+          "answer": "fire",
+          "acceptableAnswers": [
+            "fire",
+            "The fire"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Storm Prediction Center is headquartered in this state's city of Norman. The highest wind speeds recorded on earth occurred in a tornado over 2.5 miles wide outside this state's city of El Reno.",
+          "answer": "Oklahoma",
+          "acceptableAnswers": [
+            "Oklahoma",
+            "The Oklahoma"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about the Storm Prediction Center, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65666dff443a0a5dea004457"
+    },
+    {
+      "id": "02b9c8cc-853b-4da7-99fb-6c4ff9dc4e21",
+      "linkedTossupId": "56b03534-9d42-42fe-b765-22025cdcd636",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this youth who seeks the titular \"red badge of courage\" after fleeing combat.",
+          "answer": "Henry",
+          "acceptableAnswers": [
+            "Henry",
+            "either",
+            "The Henry"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Red Badge of Courage was written by this American author, who also penned the influential poetry collection The Black Riders.",
+          "answer": "Crane",
+          "acceptableAnswers": [
+            "Crane",
+            "The Crane"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Red Badge of Courage, the war humbles this \"loud soldier\" who gives an envelope to Henry to inform his family of his death, but he captures a Confederate flag with Henry and lives.",
+          "answer": "Wilson",
+          "acceptableAnswers": [
+            "Wilson",
+            "The Wilson"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character joins the Union Army, hoping to earn honor like a Greek and return with his shield or on it. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587597952"
+    },
+    {
+      "id": "9ba1e68a-323e-4eff-8da4-95f7951df703",
+      "linkedTossupId": "4a86f6c3-730b-4fed-87c3-3fd7a31e362f",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this anthropologist who adopted and subsequently studied Ishi, the last of the Yahi people.",
+          "answer": "Kroeber",
+          "acceptableAnswers": [
+            "Kroeber",
+            "The Kroeber"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Kroeber studied at Columbia University under this pioneering American anthropologist, who also taught Margaret Mead and Ruth Benedict. This man argued against the link between cranial size and race.",
+          "answer": "Boas",
+          "acceptableAnswers": [
+            "Boas",
+            "The Boas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Yahi language was documented by Kroeber with the help of this other Columbia anthropology student. He co-names a theory also called \"linguistic relativity\" with his student Benjamin Lee Whorf.",
+          "answer": "Sapir",
+          "acceptableAnswers": [
+            "Sapir",
+            "Sapir-Whorf hypothesis",
+            "The Sapir"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This anthropologist performed perhaps the most famous example of \"salvage ethnography\" alongside his wife Theodora. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a2c7"
+    },
+    {
+      "id": "d2b999cb-d81b-4ff0-adeb-4f54b55fe280",
+      "linkedTossupId": "04150214-22bf-457e-a56f-327aa77ffdf5",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Tlaloc and the aforementioned god reigned on the Templo Mayor in Tenochtitlan in this mythology, in an empire ruled by Montezuma.",
+          "answer": "Aztec",
+          "acceptableAnswers": [
+            "Aztec",
+            "The Aztec"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hernan Cortes was mistaken to be this Aztec feathered-serpent god. He is the virgin twin of Xolotl.",
+          "answer": "Quetzalcoatl",
+          "acceptableAnswers": [
+            "Quetzalcoatl",
+            "The Quetzalcoatl"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tezcatlipoca, the god of the night sky, turned into one of these predators to get revenge on Quetzalcoatl in one myth. Aztec warriors sometimes dressed as these big cats.",
+          "answer": "Jaguar",
+          "acceptableAnswers": [
+            "Jaguar",
+            "ocelots",
+            "The Jaguar"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "People made human sacrifices to Huitzilopochtli (hoo-EETZ-a-lo-PAHKT-lee). For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "663809d0867240107e0f1f9d"
+    },
+    {
+      "id": "795fdb8f-c765-4c13-ba5f-b7d288694916",
+      "linkedTossupId": "334371c3-8eb5-46d9-86cb-55c117e5dae2",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Give this conflict, which begins Eric Hobsbawm's history The Age of Extremes. Barbara Tuchman covered the first month of this conflict in her The Guns of August.",
+          "answer": "World War I",
+          "acceptableAnswers": [
+            "World War I",
+            "The World War I"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "According to Hobsbawm, World War I was preceded by this time period, which was the subject of a trilogy of books he wrote. This phrase characterizes the vast changes that occurred prior to World War I.",
+          "answer": "long 19th century",
+          "acceptableAnswers": [
+            "long 19th century",
+            "the 19th century",
+            "The long 19th century"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The first book in Hobsbawm's trilogy on the \"long 19th century\" centers around the French Revolution and this other simultaneous revolution, which saw the rapid expansion of manufacturing in the U.K. and U.S.",
+          "answer": "Industrial",
+          "acceptableAnswers": [
+            "Industrial",
+            "The Industrial"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A.J.P. Taylor's \"railway thesis\" describes the origins of this conflict. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32c8153c44a298923c25f"
+    },
+    {
+      "id": "d0592f93-af9b-435d-b6fe-eeb226a75da0",
+      "linkedTossupId": "2a44994a-85ba-4d59-9940-d70e23a03bcf",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this first book of the New Testament.",
+          "answer": "Matthew",
+          "acceptableAnswers": [
+            "Matthew",
+            "The Matthew"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chapters 5 to 7 of Matthew contain this speech of Jesus. It contains the beatitudes and tells listeners that they are the light of the world and the salt of the earth.",
+          "answer": "Sermon on the Mount",
+          "acceptableAnswers": [
+            "Sermon on the Mount",
+            "The Sermon on the Mount"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In contrast to the common adage \"an eye for an eye and a tooth for a tooth,\" the sermon on the mount contains the command to turn the other cheek and, if someone takes your coat, to do this.",
+          "answer": "Give them your coat",
+          "acceptableAnswers": [
+            "Give them your coat",
+            "The Give them your coat"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Like Luke, this book contains the verses in which a young man tells Jesus that he will follow Jesus after he buries his father, to which Jesus replies \"let the dead bury the dead.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c61193497db"
+    },
+    {
+      "id": "f09cf094-07e4-40aa-8403-a6432035cf31",
+      "linkedTossupId": "f095d139-a8d6-4d98-a7ce-2c5ccdaf0806",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this allegorical woman painted by Eugene Delacroix as a bare-breasted woman holding a French flag and leading the people while stepping over bodies.",
+          "answer": "Liberty",
+          "acceptableAnswers": [
+            "Liberty",
+            "La Liberté",
+            "prompt on \"Marianne\"",
+            "The Liberty"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Delacroix painting, a Turkish soldier looks down at a central group of captives while his horse rears up, and a burning town appears behind two groups of mostly nude captives from a Greek island.",
+          "answer": "Massacre at Chios",
+          "acceptableAnswers": [
+            "Massacre at Chios",
+            "Scène des massacres de Scio",
+            "The Massacre at Chios"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Delacroix depicted a ruler of this non-European country in a yellow robe under a parasol outside a city wall.",
+          "answer": "Morocco",
+          "acceptableAnswers": [
+            "Morocco",
+            "Al Mamlakah al-Magribiyah",
+            "Tagldit N Lmgrib",
+            "Maroc",
+            "The Morocco"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This concept is shown \"enlightening the world\" in a sculpture by Frederic Bartholdi. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f86328cdb0cbb3f4645d28"
+    },
+    {
+      "id": "4f01069e-712c-4587-8b54-118bcbcbf6d8",
+      "linkedTossupId": "8ca8eb38-5be6-4c9b-952b-97958ef83d37",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this stage actor who shouted \"Sic semper tyrannis\" as he assassinated Abraham Lincoln.",
+          "answer": "Booth",
+          "acceptableAnswers": [
+            "Booth",
+            "The Booth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Booth shot Lincoln at this Washington, DC, theatre where Lincoln was watching a performance of Our American Cousin.",
+          "answer": "Ford’s",
+          "acceptableAnswers": [
+            "Ford’s",
+            "The Ford’s"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Booth had assigned his friend Lewis Powell to kill this secretary of state, whose purchase of Alaska became known as his \"folly\".",
+          "answer": "Seward",
+          "acceptableAnswers": [
+            "Seward",
+            "The Seward"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man was shot and killed by a Union soldier after the barn where he was hiding was set on fire. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c86b"
+    },
+    {
+      "id": "159b0179-5bd3-4fbe-8164-fa9bda7bed80",
+      "linkedTossupId": "82c8b8eb-ec36-4217-ac73-38518537c8d7",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This island group is nominally owned by Norway, but, according to the Spitsbergen Treaty of 1920, citizens of any signatory nation, including Russia and the USA, have access to the archipelago and its resources.",
+          "answer": "Svalbard",
+          "acceptableAnswers": [
+            "Svalbard",
+            "The Svalbard"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This settlement is the capital of Svalbard and its largest town. It is named after an American miner and its population is surprisingly multinational - 16% is non-Norwegian, including a substantial Thai minority.",
+          "answer": "Longyearbyen",
+          "acceptableAnswers": [
+            "Longyearbyen",
+            "The Longyearbyen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One area where all the signatories of the Treaty agree on Svalbard's use is science. As well as many glaciers and smaller ice caps, it contains this ice cap, the largest by area in Europe, making it of great interest to glaciology.",
+          "answer": "Austfonna",
+          "acceptableAnswers": [
+            "Austfonna",
+            "The Austfonna"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Arctic has a lot of island groups, some of which are becoming increasingly strategic as the ice melts. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db468e9"
+    },
+    {
+      "id": "a3fc376f-9d49-411d-becc-8c347b027973",
+      "linkedTossupId": "7c3eacd2-74bc-408e-aeaa-d04b099c0122",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with trachea structure.",
+          "answer": "bronchus",
+          "acceptableAnswers": [
+            "bronchus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the bronchus in the respiratory system?",
+          "answer": "Trachea structure",
+          "acceptableAnswers": [
+            "Trachea structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to trachea structure.",
+          "answer": "bronchiole",
+          "acceptableAnswers": [
+            "bronchiole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    }
+  ]
+}

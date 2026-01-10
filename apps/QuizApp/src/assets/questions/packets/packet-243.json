@@ -1,0 +1,1146 @@
+{
+  "packetId": "packet-243",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "Fine Arts",
+    "Social Science",
+    "Human Body",
+    "Geography",
+    "Literature",
+    "History",
+    "Philosophy",
+    "Mythology"
+  ],
+  "tossups": [
+    {
+      "id": "79510679-7eb8-4c8a-a0b5-352f64611196",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Because a Young Tableau consists of rows and columns of numbers that are sorted, functions that search and extract the minimum value from these data structures are easily extended to such. Implementing a priority queue using this data structure provides good performance for Dijkstra's algorithm, especially when its Fibonacci type is used. An in-place sorting algorithm named for these data structures has an average runtime of big O of n log n, combining the best properties of insertion and merge sort, respectively. The binary type of these data structures must be complete binary trees. For 10 points, name these data structures whose order property dictates that data stored in a node must be less than or equal to all the node's descendants, so the smallest value is the root node.",
+      "powerMarkPosition": 340,
+      "answer": "heap",
+      "acceptableAnswers": [
+        "heap",
+        "trees",
+        "The heap"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df7ca243aee49db2f76aaf"
+    },
+    {
+      "id": "415a0a91-e060-4a45-92a3-a94775a6aea9",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "In a tone poem by Modest Mussorgsky, evil spirits celebrate during one of these periods of time on Bald Mountain. This time period appears in the English title of Mozart's Serenade Number Thirteen that is called a \"little\" piece of music for this time period. In Saint-Saens' Danse macabre, a rooster crow representing sunrise ends, for 10 points, what time period that is depicted in a nocturne?",
+      "powerMarkPosition": 213,
+      "answer": "night",
+      "acceptableAnswers": [
+        "night",
+        "The night"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2cd3d"
+    },
+    {
+      "id": "e92f0e43-7642-4dab-ab4d-bdc6007d8fcb",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "The idea that this process is context-dependent suggests that you can do better on tests by listening to the same music while studying and taking the test. George Miller joked that most people can only hold seven or so ideas in the short-term type of this process. The inability to do this process is known as amnesia. For ten points, name this mental process of storing and retrieving information.",
+      "powerMarkPosition": 231,
+      "answer": "memory",
+      "acceptableAnswers": [
+        "memory",
+        "The memory"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a42c1"
+    },
+    {
+      "id": "b709579a-9182-41af-a373-d8afbbe0ba18",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for lung lobes and segments. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this bronchus-related structure.",
+      "powerMarkPosition": 98,
+      "answer": "Bronchus",
+      "acceptableAnswers": [
+        "bronchus",
+        "Bronchus"
+      ],
+      "explanation": "The bronchus is a key component of the Respiratory system, involved in lung lobes and segments.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "624a772f-8f2f-4336-bc6c-a2ca3c93d611",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "One essay about this concept compares the story of the ring of Polycrates to a person who angrily wishes that an old man will die two weeks before that old man dies from a stroke. The first major work to discuss this concept argued that children are more susceptible to it than adults because they are mentally undeveloped, and was written by Ernst Jentsch. Another essay considers how this concept arises from repetitions, such as a person seeing the number 62 over and over in a short period of time. An essay about this concept connects the fear of losing one's eyes to the fear of castration, and discusses at length the etymology of the German word for this concept, unheimlich. That essay considers how this concept is produced by E. T. A Hoffman's character the Sand-Man and argues that it is caused by prosaic things which have been repressed. For 10 points, name this feeling that something is both strange and familiar at the same time, a concept which titles a 1919 essay by Sigmund Freud.",
+      "powerMarkPosition": 357,
+      "answer": "uncanny",
+      "acceptableAnswers": [
+        "uncanny",
+        "Das Unheimliche before mentioned",
+        "The uncanny"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae9268"
+    },
+    {
+      "id": "fedfd096-727f-4a34-b505-03e2fd053e7e",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "A rock formation called Camel Rock is found in the Tesuque Reservation north of this state's capital. That capital of this state contains the Cathedral Basilica of St. Francis of Assisi and the Institute of American Indian Arts. Walter De Maria's destination art piece The Lightning Field is located in this state, which also contains the Very Large Area radio telescope facility. Carlsbad Caverns are in the southeastern corner of this state, and this state also contains the town of Truth or Consequences, named after a game show. The atomic bomb was developed at Los Alamos National Laboratory in this state. It's not Colorado, but this state's capital has the highest elevation of any state capital. For 10, points, name this southwestern state whose capital is Santa Fe.",
+      "powerMarkPosition": 380,
+      "answer": "New Mexico",
+      "acceptableAnswers": [
+        "New Mexico",
+        "NM",
+        "The New Mexico"
+      ],
+      "source": "qbreader",
+      "sourceId": "636ca2cb1b6aedfbdb9efdc7"
+    },
+    {
+      "id": "feb90fbd-d5ff-4ef6-9a3d-de0a3834aa22",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "One work by this author describes a doctor's attempts to convince his town that its baths are contaminated and another sees Halvard Solness fall from a tower on the top of his home, An Enemy of the People and The Master Builder. In another play the title character commits suicide with one of her father's pistols. For 10 points, name this Norwegian playwright who wrote about Jørgen Tesman's wife and Nora Helmer's escape from the title dwelling in Hedda Gabler and A Doll's House.",
+      "powerMarkPosition": 228,
+      "answer": "Ibsen",
+      "acceptableAnswers": [
+        "Ibsen",
+        "The Ibsen"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d437ae"
+    },
+    {
+      "id": "96ab84b3-3640-4182-9445-970e9342671d",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "This 9th largest city in the DPRK is home to a namesake Industrial Region close to the border with South Korea, and served as the capital of the Taebong Kingdom and Goryeo dynasty?",
+      "powerMarkPosition": 55,
+      "answer": "Kaesong",
+      "acceptableAnswers": [
+        "Kaesong",
+        "The Kaesong"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dedd93"
+    },
+    {
+      "id": "b29c50d0-4f74-4478-b80a-409a67dd0737",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "The early portion of this work describes a \"superorganism\" crying \"pulsi! pulsi!\" and tells how the narrator and his wife received mumbled salutations of the \"ultimate nonword,\" \"yes.\" This work claims that those not involved in the central event pay only sidelong attention while those who are involved sit through it as though embarrassed. A set of rules at the end of this essay describes betting patterns, favorites, and loyalties in the titular activity. The narrator describes how a slit gong is played during the title action, and how handlers known as pengangkeb affix spurs. It famously claims that the title people \"never do anything in a simple way that they can contrive to do in a complicated one.\" Describing an Indonesian custom using \"thick description,\" for 10 points, name this anthropological essay that closes Clifford Geertz's The Interpretation of Cultures, about some aggressive roosters.",
+      "powerMarkPosition": 341,
+      "answer": "Deep Play",
+      "acceptableAnswers": [
+        "Deep Play",
+        "either",
+        "prompt on The Interpretation of Cultures early",
+        "because we are loving people",
+        "The Deep Play"
+      ],
+      "source": "qbreader",
+      "sourceId": "6465625b39f9588b048d2319"
+    },
+    {
+      "id": "e5cfb3ba-cc93-4ca4-a017-c6f6e4e66f9b",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "An essay about this man recounts how he was called \"lagnuso, lazy, meschino, good-for-nothing\" by his father, Zio Pepe, and opens in a time that is \"not quite spring . . . before the search for salmon,\" in San Francisco. That essay about this man describes a cheering crowd with the line \"[this man] had returned, they were young again, it was yesterday.\" The epigraph of that essay about this man includes a speculation that this man \"was as poor as we are and would understand.\" This subject of Gay Talese's \"The Silent Season of a Hero\" is depicted as abusive in Joyce Carol Oates's Blonde. This man's resilience despite his bone spurs is extolled by a character who says, \"I think the great [this man] would be proud of us today,\" after a fight with a marlin. For 10 points, name this baseball player admired by Santiago in The Old Man and the Sea.",
+      "powerMarkPosition": 593,
+      "answer": "DiMaggio",
+      "acceptableAnswers": [
+        "DiMaggio",
+        "Joseph Paul DiMaggio",
+        "prompt on Joe",
+        "Joltin’ Joe",
+        "The DiMaggio"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382c08d5b3dc7dc712c78a3"
+    },
+    {
+      "id": "fd41e670-b79e-419d-8f71-fc5d79ff5a06",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "Among others, Adrienne Clarkson, a former holder of this office, has proposed that the selection process for this post include a televised trivia quiz on the country it represents. Another person in this position claimed that the conflict between the conservative culture of the Patriotes and that of the majority had created a rebellion. In 1952, Vincent Massey became the first holder of this position to not be a member of the peerage. Perhaps the best known holder of this office did not dissolve Parliament at the request of Prime Minister William Lyon Mackenzie King. For 10 points, this is what position held by the likes of John Lambton, 1st Earl of Durham and Julian Byng that represents the monarch of the Commonwealth in America's northern neighbor?",
+      "powerMarkPosition": 429,
+      "answer": "Governour General",
+      "acceptableAnswers": [
+        "Governour General",
+        "The Governour General"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0ae7c93b216c5acc06fd9"
+    },
+    {
+      "id": "cb47b637-2523-4b91-9503-e3398ed54d03",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "Hypothetical examples of these particles theoretically allow for proton decay in the Georgi-Glashow model. A set of 1964 papers in the Physical Review Letters predicted a mechanism for these particles describing how fundamental ones gain mass. A subclass of these particles that arises in theories exhibiting spontaneous symmetry breaking is described by Goldstone's theorem. These particles' wavefunctions are symmetric under exchange and follow a statistics distribution partially named for Einstein. Collections of these particles can occupy the same energy level and so do not follow the Pauli exclusion principle. The weak force is mediated by examples of these particles dubbed \"W\" and \"Z.\" For 10 points, name these particles with integer spin, which include one named for Higgs.",
+      "powerMarkPosition": 375,
+      "answer": "boson",
+      "acceptableAnswers": [
+        "boson",
+        "gauge bosons",
+        "Nambu–Goldstone bosons",
+        "accept X boson",
+        "Y boson",
+        "W boson",
+        "Z boson",
+        "Higgs boson",
+        "reject specific answers that do not mention “boson”",
+        "The boson"
+      ],
+      "source": "qbreader",
+      "sourceId": "6551b0942c809f9dfdac1fbd"
+    },
+    {
+      "id": "f2d59475-3b18-4124-b636-f298c41e622f",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "A book titled for this medium that investigates the production of meaning in it introduced the term 'semiotic democracy' and was written by John Fiske. Hidden and overt messages in this medium are discussed in Theodor Adorno's essay 'How to look at [this medium]'. A 'discourse' named for this medium appears in the title of a Stuart Hall paper which introduces the encoding/decoding model. This medium's 'invisible structures' are discussed in a Pierre Bourdieu (\"PYEHR boor-DYER\") essay which criticises censorship in this medium. In Bowling Alone, Robert Putnam argued that twenty-five percent of the decline in American social capital was due to this medium and similar technologies 'privatising our leisure time'. This medium is compared to the fictional drug 'soma' in Neil Postman's Amusing Ourselves to Death. For 10 points, what medium aired the political advert Daisy?",
+      "powerMarkPosition": 446,
+      "answer": "television",
+      "acceptableAnswers": [
+        "television",
+        "TV",
+        "The television"
+      ],
+      "source": "qbreader",
+      "sourceId": "67df4c94d5921688cff9e558"
+    },
+    {
+      "id": "10883ec5-d70c-493b-84c5-0740ec4e5837",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "Propofol is commonly used at the beginning of this process. Early chemicals used for this process included chloroform and ether. Nitrous oxide is often used for this process by dentists. Lidocaine is injected in the \"local\" form of this process, which removes pain sensation in a specific part of the body but does not induce unconsciousness. For 10 points, what process is done to patients before major surgeries to ensure they are not awake?",
+      "powerMarkPosition": 259,
+      "answer": "anesthesia",
+      "acceptableAnswers": [
+        "anesthesia",
+        "equivalents like sedation",
+        "descriptive answers like putting someone to sleep",
+        "The anesthesia"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef79cbbbb69a5263ce5b"
+    },
+    {
+      "id": "5a444544-7da3-40b4-b8b7-f0e0fcda13b2",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "At the end of this story, the narrator throws a key out a window, where it lands under a plantain leaf. The narrator of this story notices \"an interminable string of toadstools\" where she had earlier imagined a figure with a broken neck and bulbous eyes. In this story, the protagonist hurts her teeth while trying to bite off part of a bed that is nailed to the floor. This story's protagonist is prescribed rest by her physician husband John, leading her to see a woman in the patterns of a hideous decoration. For 10 points, name this short story by Charlotte Perkins Gillman in which a woman goes insane thanks to the namesake sulfur-colored decoration.",
+      "powerMarkPosition": 397,
+      "answer": "Yellow Wallpaper",
+      "acceptableAnswers": [
+        "Yellow Wallpaper",
+        "The Yellow Wallpaper"
+      ],
+      "source": "qbreader",
+      "sourceId": "66cd4c3dc5459312fdcc562c"
+    },
+    {
+      "id": "c21eecc3-b0f8-443b-b72b-147e52981a39",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "One member of this school once told a king that his militaristic ambitions were as foolish as \"searching for fish up a tree.\" After a stable burned down, this school's founder famously did not ask about the horses, demonstrating this philosophy's \"virtue of virtues,\" an intrinsic appreciation of the qualities of humanity known as ren. This philosophy emphasizes the Five Relationships, including between ruler and subject and father and son. A Guo Jujing text lists 24 \"exemplars\" of this philosophy's concept of filial piety. For 10 points, name this ancient Chinese philosophy whose founding text is the Analects.",
+      "powerMarkPosition": 331,
+      "answer": "Confucianism",
+      "acceptableAnswers": [
+        "Confucianism",
+        "The Confucianism"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0af093"
+    },
+    {
+      "id": "20ed0d8f-7285-4679-8200-5973c8458ac2",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "A platinum wire around a ceramic core forms the highly accurate resistance type of this device. A psychrometer uses both the wet- and dry-bulb types of this to find the dew point, and one of them is used to collect data from a calorimeter. An ammonium chloride mixture will register zero on the mercury type of this device invented by Gabriel Fahrenheit. For 10 points, name this device that may use the Celsius scale to measure temperature.",
+      "powerMarkPosition": 226,
+      "answer": "thermometer",
+      "acceptableAnswers": [
+        "thermometer",
+        "The thermometer"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004bc2"
+    },
+    {
+      "id": "2a2d4b07-fb5c-417a-829c-b73ad01db5cc",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "In Chinese mythology, the founder of the Xia Dynasty, Yu the Great, survived one of these events. In the Epic of Gilgamesh, Gilgamesh visits Utnapishtim, the survivor of one of these events. Pyrrha and Deucalion repopulated the earth after a Greek one of these events. For 10 points, name these archetypal natural disasters in mythology, one of which was survived by Noah after he built an Ark.",
+      "powerMarkPosition": 190,
+      "answer": "Flood",
+      "acceptableAnswers": [
+        "Flood",
+        "The Flood"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7deeb9"
+    },
+    {
+      "id": "cd89c607-2f63-4eb3-954b-14f3b3f92614",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "This process is suppressed to measure the iridocorneal angle in gonioscopy. It's not fluorescence, but cell adhesion is studied by a form of microscopy named for this process, which penetrates to a depth of about 100 nanometers. A shift in polarization induced by this process is called the Imbert-Fedorov or Goos-Hanchen effect. It's not tunneling, but this process creates an evanescent wave at the interface. This process repeatedly occurs between the core and cladding of an optical fiber. The onset of this process is calculated by finding the arcsine of the ratio of two indices of refraction. Setting the angle of refraction in Snell's law to 90 degrees gives the critical angle of this effect. For 10 points, name this process where light bounces back from an interface.",
+      "powerMarkPosition": 454,
+      "answer": "total internal reflection",
+      "acceptableAnswers": [
+        "total internal reflection",
+        "TIR",
+        "accept frustrated total internal reflection",
+        "frustrated TIR",
+        "FTIR",
+        "prompt on reflection",
+        "The total internal reflection"
+      ],
+      "source": "qbreader",
+      "sourceId": "6884698e641a9dc975af8795"
+    },
+    {
+      "id": "5f08de2d-909a-42bd-8b2b-470c0eea6f05",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "Odin used the eyes of one of these beings to create two new stars; that figure of this type transformed into an eagle to help steal the apples of youth, and is named Thiazi. Lif and Lifthrasir will avoid the onslaught of these beings by hiding in Hoddmimis holt. Another of these beings sustains itself on the milk of Audhumla. Thor is challenged to to an eating contest by one named Utgard-Loki. One named Surtr will lead his hordes onto the rainbow bridge, Bifrost, after being freed from Muspelheim. One of the first of these beings was Ymir. They are split into Fire and Frost variants. For 10 points, name these humanoids from Norse myth known as jotunn, who are enormous.",
+      "powerMarkPosition": 262,
+      "answer": "giant",
+      "acceptableAnswers": [
+        "giant",
+        "frost giant",
+        "fire giant",
+        "rock giant",
+        "accept jotunn before mentioned",
+        "The giant"
+      ],
+      "source": "qbreader",
+      "sourceId": "63059e1543cf02018762325c"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "307dfacf-3367-42d3-b2dc-087e615ca45d",
+      "linkedTossupId": "79510679-7eb8-4c8a-a0b5-352f64611196",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this phenomenon arising from and named for an r squared force law, in which simple electrostatic force between two particles tends to push them apart.",
+          "answer": "Coulomb",
+          "acceptableAnswers": [
+            "Coulomb",
+            "The Coulomb"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This quantity measures the Coulombic repulsion between particles in a colloid. A high enough value of this, larger than about ten millivolts, prevents flocculation or coagulation.",
+          "answer": "Zeta potential",
+          "acceptableAnswers": [
+            "Zeta potential",
+            "The Zeta potential"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This distance denotes the length scale at which Coulombic interactions between charged particles are of the same magnitude as thermal energies, that is, close to Boltzmann's constant times temperature.",
+          "answer": "Bjerrum",
+          "acceptableAnswers": [
+            "Bjerrum",
+            "The Bjerrum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Two particles with the same charge experience this effect. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d6bd28e96d73a0dccd5da3"
+    },
+    {
+      "id": "7c96609e-9a14-41df-8e77-a43a21b1e2e2",
+      "linkedTossupId": "415a0a91-e060-4a45-92a3-a94775a6aea9",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this printing style, most famously used in Japan by Katsushika Hokusai [kah-tsoo-shee-kah hoh-koo-\"sigh\"]. Its name translates as \"pictures of the floating world.\"",
+          "answer": "Ukiyo-e",
+          "acceptableAnswers": [
+            "Ukiyo-e",
+            "The Ukiyo-e"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hokusai made a woodblock print of a great one of these towering over fishing boats off the coast of Kanagawa. Surfers are commonly seen on tidal varieties of these.",
+          "answer": "wave",
+          "acceptableAnswers": [
+            "wave",
+            "The wave"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Great Wave off Kanagawa is the first in a series of woodblock prints titled \"36 Views of\" this snowcapped dormant volcano in Japan, which can be seen in the background of each print.",
+          "answer": "Fuji",
+          "acceptableAnswers": [
+            "Fuji",
+            "The Fuji"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This artistic technique was prevalent in East Asia and influenced many impressionists. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f206b"
+    },
+    {
+      "id": "896f4151-2e9e-472b-9c55-be4a4bd469a3",
+      "linkedTossupId": "e92f0e43-7642-4dab-ab4d-bdc6007d8fcb",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this act of taking one's own life.",
+          "answer": "suicide",
+          "acceptableAnswers": [
+            "suicide",
+            "killing oneself",
+            "self-harm",
+            "The suicide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This French sociologist, the author of The Division of Labor in Society, made those aforementioned divisions in his study Suicide.",
+          "answer": "Durkheim",
+          "acceptableAnswers": [
+            "Durkheim",
+            "The Durkheim"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This French structuralist author of The Savage Mind included The Raw and the Cooked in his Mythologiques. He died at age 100 in 2009.",
+          "answer": "Levi-Strauss",
+          "acceptableAnswers": [
+            "Levi-Strauss",
+            "The Levi-Strauss"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An honorable Japanese type of this is known as seppuku, has a subtype called hara-kiri, and one study divided it into altruistic, egoistic, anomic, and fatalistic types. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43f86"
+    },
+    {
+      "id": "b89fa5f3-001b-46f4-be16-69daea62c2ae",
+      "linkedTossupId": "b709579a-9182-41af-a373-d8afbbe0ba18",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with alveoli structure and function.",
+          "answer": "bronchus",
+          "acceptableAnswers": [
+            "bronchus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the bronchus in the respiratory system?",
+          "answer": "Alveoli structure and function",
+          "acceptableAnswers": [
+            "Alveoli structure and function"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to alveoli structure and function.",
+          "answer": "bronchiole",
+          "acceptableAnswers": [
+            "bronchiole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "8d897f73-351e-4150-913b-4e9c15de61bd",
+      "linkedTossupId": "624a772f-8f2f-4336-bc6c-a2ca3c93d611",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "He argued that there were six major divisions of Indian Languages in North America, published the 1921classic Language: An Introduction to the Study of Speech, and founded the department of Anthropology at Yale in 1931.",
+          "answer": "Sapir",
+          "acceptableAnswers": [
+            "Sapir",
+            "The Sapir"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this monograph Sapir formalizes the method implicit in his mentor. Boas' reconstruction of the history of cultures.",
+          "answer": "Time Perspective in Aboriginal American Culture",
+          "acceptableAnswers": [
+            "Time Perspective in Aboriginal American Culture",
+            "The Time Perspective in Aboriginal American Culture"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sapir wrote a host of articles on subjects like \"Dialect,\" \"Custom,\" and \"Symbolism\" for this multivolume work that appeared between 1930 and 1935 and was edited by Edwin Seligman and Alvin Johnson.",
+          "answer": "Encyclopedia of the Social Sciences",
+          "acceptableAnswers": [
+            "Encyclopedia of the Social Sciences",
+            "The Encyclopedia of the Social Sciences"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about a social scientist and his work:",
+      "source": "qbreader",
+      "sourceId": "64d9443acb996cf5df5a8210"
+    },
+    {
+      "id": "5e5c0c0a-e02f-44f1-a785-9210c2569ed1",
+      "linkedTossupId": "fedfd096-727f-4a34-b505-03e2fd053e7e",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this largest Canadian island that lies across the Davis Strait from Greenland and across the Hudson Strait from Quebec. It is a part of the territory of Nunavut.",
+          "answer": "Baffin",
+          "acceptableAnswers": [
+            "Baffin",
+            "The Baffin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The largest city on Baffin Island, Iqaluit, lies at the end of this bay, which is flanked by the Hall Peninsula and the Meta Incognita Peninsula.",
+          "answer": "Frobisher",
+          "acceptableAnswers": [
+            "Frobisher",
+            "The Frobisher"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Frobisher Bay is actually an inlet of this larger sea, which is named after the easternmost region of mainland Canada.",
+          "answer": "Labrador",
+          "acceptableAnswers": [
+            "Labrador",
+            "The Labrador"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Its peaks include Mount Odin, Mount Asgard, and Mount Thor. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f33042333cf2cfbd44ad08"
+    },
+    {
+      "id": "e060252e-a2c4-4179-925c-a1ac1f442e16",
+      "linkedTossupId": "feb90fbd-d5ff-4ef6-9a3d-de0a3834aa22",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this book where Fedallah and Daggoo serve as harpooners on the Pequod, a ship captained by Ahab. It is narrated by Ishmael.",
+          "answer": "Moby Dick",
+          "acceptableAnswers": [
+            "Moby Dick",
+            "The Moby Dick"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of Typee and Omoo collected short stories in The Piazza Tales. He also wrote Moby Dick.",
+          "answer": "Melville",
+          "acceptableAnswers": [
+            "Melville",
+            "The Melville"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other work by Melville features \"Red Whiskers,\" Lieutenant Ratcliffe, and Captain Vere, and it is about a seaman who is hanged for killing John Claggart.",
+          "answer": "Billy Budd",
+          "acceptableAnswers": [
+            "Billy Budd",
+            "The Billy Budd"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work features characters named Pip and Dough-boy. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43ea7"
+    },
+    {
+      "id": "205ac550-5c94-4ad7-98fc-101e9225ee78",
+      "linkedTossupId": "96ab84b3-3640-4182-9445-970e9342671d",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this city, to which Cimon was sent to help by Athens following an earthquake and subsequent revolt of its helots, who fortified themselves on Mt Ithome in Messenia.",
+          "answer": "Sparta",
+          "acceptableAnswers": [
+            "Sparta",
+            "The Sparta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lacedaemonius, that son of Cimon, was involved in the preliminary skirmishes of the Peloponnesian War fought between the island of Corcyra and this other Greek city, which, according to Thucydides, urged the Spartans to declare war on the Athenians.",
+          "answer": "Corinth",
+          "acceptableAnswers": [
+            "Corinth",
+            "The Corinth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Plutarch tells the story that Cimon dedicated his bridle at the Acropolis to show his support for Themistocles prior to this battle earlier in his career. Cimon's death was hidden from his forces to keep morale high prior to a battle at a city in Cyprus with this name.",
+          "answer": "Salamis",
+          "acceptableAnswers": [
+            "Salamis",
+            "The Salamis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Cimon [Ki-MOAN] of Athens, the proxenos of this city, showed his admiration for it by naming one of his sons in honour of it. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6300226cdcc9d816c18b7669"
+    },
+    {
+      "id": "eeb0c27e-fcfd-426a-b652-378db3baf0a2",
+      "linkedTossupId": "b29c50d0-4f74-4478-b80a-409a67dd0737",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Derek Freeman argued that this study's author was \"fatefully hoaxed\" by subjects feeding her sexual fantasies. This Margaret Mead work described what she saw as the title island's free and healthy psychosexual development.",
+          "answer": "Coming of Age in Samoa",
+          "acceptableAnswers": [
+            "Coming of Age in Samoa",
+            "The Coming of Age in Samoa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This discredited work by Patrick Tierney alleged that Napoleon Chagnon (\"SHA-nyin\") and Jacques Lizot (\"lee-ZOH\") spread violence and measles among and sexually abused the Yanomami. Studies of the Yanomami still remain controversial.",
+          "answer": "Darkness in El Dorado",
+          "acceptableAnswers": [
+            "Darkness in El Dorado",
+            "The Darkness in El Dorado"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Robert Redfield's depiction of this Mexican village's social harmony was savaged by Oscar Lewis, who found rampant alcoholism and social conflict in a \"re-study\" that partly inspired Lewis's \"culture of poverty\" thesis.",
+          "answer": "Tepoztlan",
+          "acceptableAnswers": [
+            "Tepoztlan",
+            "The Tepoztlan"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about anthropology case studies that later proved controversial in some respect, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db46184"
+    },
+    {
+      "id": "665ed176-abf6-46eb-aacd-bbb8970e3535",
+      "linkedTossupId": "e5cfb3ba-cc93-4ca4-a017-c6f6e4e66f9b",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this language used for the 2022 International Booker-winning novel Tomb of Sand, which details the journey of the 80-year-old Ma.",
+          "answer": "Hindi",
+          "acceptableAnswers": [
+            "Hindi",
+            "The Hindi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Modern Hindi plays were greatly influenced by earlier Sanskrit plays, like a play by Kalidasa about this character who affirms her love through a message on a birch leaf and is \"won by valor.\"",
+          "answer": "Urvasi",
+          "acceptableAnswers": [
+            "Urvasi",
+            "The Urvasi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bengali literature has gained widespread international recognition due to the reputation of this Nobel Prize-winning author of the play The Post Office and the poetry collection Gitanjali.",
+          "answer": "Tagore",
+          "acceptableAnswers": [
+            "Tagore",
+            "Rabindranath Thakur",
+            "The Tagore"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of the earliest modern plays in this language, which translates as \"City of Darkness,\" describes a foolish king being fooled into hanging himself by a holy man and his two disciples. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65dfe1431274f833e5a3c750"
+    },
+    {
+      "id": "9cbee9e6-da43-4fc3-b29c-07b17c70c6eb",
+      "linkedTossupId": "fd41e670-b79e-419d-8f71-fc5d79ff5a06",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this crop whose \"empire\" is the subject of a \"global history\" by Sven Beckert. It was called \"king\" in the Antebellum South.",
+          "answer": "cotton",
+          "acceptableAnswers": [
+            "cotton",
+            "King Cotton",
+            "The cotton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This state's economic reliance on cotton grown with slave labor led to many boycotts by abolitionists. For example, this state's Fruitlands utopian community banned the wearing of cotton, wearing only canvas.",
+          "answer": "Massachusetts",
+          "acceptableAnswers": [
+            "Massachusetts",
+            "any reference to Mass",
+            "Massholes",
+            "The Massachusetts"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Most cotton in the US is from the Gossypium hirsutum strain, which is thought to have originated in this country and is named as such. The US aimed to avert a conflict in this country through a conference with the \"ABC Powers.\"",
+          "answer": "Mexico",
+          "acceptableAnswers": [
+            "Mexico",
+            "United Mexican States",
+            "accept Mexican cotton",
+            "The Mexico"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Walter Johnson's River of Dark Dreams examines the political economy of this crop and its ties to the rise of a global capitalist system. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6326bf0e692d593d1d7a872c"
+    },
+    {
+      "id": "3a2b087d-e889-4167-b542-ea2ddbe7dd8c",
+      "linkedTossupId": "cb47b637-2523-4b91-9503-e3398ed54d03",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this set of notoriously hard-to-solve differential equations that describe the movement of viscous fluids.",
+          "answer": "Navier-Stokes",
+          "acceptableAnswers": [
+            "Navier-Stokes",
+            "The Navier-Stokes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An open problem in physics asks if given a set of initial conditions, whether or not the Navier-Stokes equations always have a solution of this type. This property is analogous to the number of continuous derivatives that a function has.",
+          "answer": "smooth",
+          "acceptableAnswers": [
+            "smooth",
+            "The smooth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another unsolved question resulting from the Navier-Stokes equations is the existence of this type of flow, contrasted with laminar flow, in which a fluid experiences chaotic changes in velocity and pressure.",
+          "answer": "turbulence",
+          "acceptableAnswers": [
+            "turbulence",
+            "The turbulence"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The equations central to magnetohydrodynamics are derived by combining these equations with Maxwell's equations. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125d470"
+    },
+    {
+      "id": "cb9d45c3-ea0c-4c96-906b-d11417592bbc",
+      "linkedTossupId": "f2d59475-3b18-4124-b636-f298c41e622f",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The Exner scoring system is used to evaluate the results of this test, named for a Swiss psychologist, in which subjects identify images that they perceive in a series of inkblots.",
+          "answer": "Rorschach",
+          "acceptableAnswers": [
+            "Rorschach",
+            "The Rorschach"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This test is used to measure reaction times of processing words because the visual cue of the nature of the font is inherently slower than the mind's ability to understand the meaning of the printed word.",
+          "answer": "Stroop",
+          "acceptableAnswers": [
+            "Stroop",
+            "The Stroop"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Developed by Henry Murray and Christiana Morgan, this test shows the subject a series of cards with pictures on them and asks the subject to develop stories related to the picture that they see.",
+          "answer": "T",
+          "acceptableAnswers": [
+            "T"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name some psychological tests:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d0f5"
+    },
+    {
+      "id": "1e9eba3b-c6e3-4a1c-8b2e-32dc5fa5bdf7",
+      "linkedTossupId": "10883ec5-d70c-493b-84c5-0740ec4e5837",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This covers most of inland Alaska and the north central part of the North American continent. It is characterized by conifer trees and is the world's largest terrestrial biome.",
+          "answer": "boreal forest",
+          "acceptableAnswers": [
+            "boreal forest",
+            "The boreal forest"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is a grassland ecosystem where the trees are so far apart that the canopy does not close. The largest amount of this biome is found in Africa, and it covers about 20% of the land surface.",
+          "answer": "savannah",
+          "acceptableAnswers": [
+            "savannah",
+            "The savannah"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The subsoil is permafrost, and tree growth is limited by subzero temperatures or short growing seasons. Most vegetation in this biome is grasses, lichens or mosses.",
+          "answer": "tundra",
+          "acceptableAnswers": [
+            "tundra",
+            "The tundra"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about terrestrial biomes, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0d80"
+    },
+    {
+      "id": "f4f93c65-b637-4788-9921-d449362a0324",
+      "linkedTossupId": "5a444544-7da3-40b4-b8b7-f0e0fcda13b2",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this country, also home to the author of The Vegetarian. A portion of David Mitchell's Cloud Atlas takes place in Nea So Copros, a dystopian future version of this country.",
+          "answer": "South Korea",
+          "acceptableAnswers": [
+            "South Korea",
+            "Republic of Korea",
+            "ROK",
+            "Taehan-minguk",
+            "Hanguk",
+            "prompt on Korea",
+            "reject \"North Korea\"",
+            "\"Democratic People's Republic of Korea\"",
+            "The South Korea"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cloud Atlas uses tropes of this literary genre, whose other major works include NK Jemisen's Broken Earth trilogy. The Hugo and Nebula awards are given for works in this genre, which includes Isaac Asimov's I, Robot.",
+          "answer": "science fiction",
+          "acceptableAnswers": [
+            "science fiction",
+            "sci-fi",
+            "speculative fiction",
+            "The science fiction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author also used sci-fi tropes in their novel about a solar-powered artificial friend called Klara and the Sun. A group of clones created to serve as organ donors are the protagonists of this author's Never Let Me Go.",
+          "answer": "Ishiguro",
+          "acceptableAnswers": [
+            "Ishiguro",
+            "The Ishiguro"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An author from this country wrote their poem \"Monster\" about a different poet from this country who chronicled the lives of everyone he's met in Ten Thousand Lives. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66423ff4515f1173a58a27fe"
+    },
+    {
+      "id": "bcf6051f-956c-4f81-8116-a971cb2bcd64",
+      "linkedTossupId": "c21eecc3-b0f8-443b-b72b-147e52981a39",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This tradition of Islamic jurisprudence often determines the punishments. According to its Hanafi school, blasphemy and apostasy are equally grave offenses, and violators should be executed if the offenses are proven.",
+          "answer": "fiqh",
+          "acceptableAnswers": [
+            "fiqh",
+            "The fiqh"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Non-Muslims who blaspheme are given a chance to convert before execution in the Ja'fari school of fiqh, which is prominent in this second largest branch of Islam, after Sunni.",
+          "answer": "Shi’a",
+          "acceptableAnswers": [
+            "Shi’a",
+            "Shi’ite",
+            "The Shi’a"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Because no punishment for blasphemy is specified in the Qur'an, most judgments are based on interpretations of these reports of the words and actions of Muhammad, compiled long after his death.",
+          "answer": "hadith",
+          "acceptableAnswers": [
+            "hadith",
+            "hadiths",
+            "The hadith"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about punishments for blasphemy in Islam.",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae3bd"
+    },
+    {
+      "id": "74b14402-55fc-432e-8bc7-11c6df8ada1f",
+      "linkedTossupId": "20ed0d8f-7285-4679-8200-5973c8458ac2",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this process named for German chemists that is used in the production of fertilizer.",
+          "answer": "Haber",
+          "acceptableAnswers": [
+            "Haber",
+            "The Haber"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Haber-Bosch process generates this compound that has a chemical formula of NH3 and is also the product of nitrogen fixation.",
+          "answer": "Ammonia",
+          "acceptableAnswers": [
+            "Ammonia",
+            "The Ammonia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The formation of ammonia depends on the separation of one of these bonds, which exists between the nitrogen atoms in a diatomic molecule.",
+          "answer": "Triple",
+          "acceptableAnswers": [
+            "Triple",
+            "The Triple"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This process utilizes an iron or ruthenium catalyst in a high pressure environment. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663809d2867240107e0f214a"
+    },
+    {
+      "id": "91989792-e1b0-4a7d-bcab-19908fa3b707",
+      "linkedTossupId": "2a2d4b07-fb5c-417a-829c-b73ad01db5cc",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this mythological three-headed dog, who guarded the entrance to Hades to prevent anyone from escaping.",
+          "answer": "Cerberus",
+          "acceptableAnswers": [
+            "Cerberus",
+            "The Cerberus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Whenever this mythological monster lost one of its heads, two would grow back in its place; luckily for Heracles, only the center head was immortal.",
+          "answer": "Hydra",
+          "acceptableAnswers": [
+            "Hydra",
+            "The Hydra"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While riding Pegasus, Bellerophon was able to slay this multi-headed beast, which had heads of a snake, goat, and lion.",
+          "answer": "Chimera",
+          "acceptableAnswers": [
+            "Chimera",
+            "The Chimera"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Orpheus, Heracles, and Aeneas were some of the very few who were able to slip past it. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0a3d"
+    },
+    {
+      "id": "d634418b-485b-4ed3-8205-a390362e3148",
+      "linkedTossupId": "cd89c607-2f63-4eb3-954b-14f3b3f92614",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this part of the brain located in the diencephalon just above the brainstem.",
+          "answer": "hypothalamus",
+          "acceptableAnswers": [
+            "hypothalamus",
+            "The hypothalamus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This region in the anterior hypothalamus receives signals via the retinohypothalamic tract and regulates Circadian rhythms.",
+          "answer": "Suprachiasmatic nuclei",
+          "acceptableAnswers": [
+            "Suprachiasmatic nuclei",
+            "The Suprachiasmatic nuclei"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "LeVay has attempted to find a biological basis for this condition by demonstrating that men with this condition have substantially smaller suprachiasmatic nuclei. The jury is apparently still out.",
+          "answer": "homosexuality",
+          "acceptableAnswers": [
+            "homosexuality",
+            "The homosexuality"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This area of the brain can be affected by sarcoid granulomas, and its responsibilities include the interpretation of smells and the regulation of body temperature. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0347"
+    },
+    {
+      "id": "c5fcd51a-f223-477f-9ab8-d675ab7005da",
+      "linkedTossupId": "5f08de2d-909a-42bd-8b2b-470c0eea6f05",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this hideous object with snakes for hair that could turn any living thing to stone. The blood that spurted from it gave rise to Pegasus and Chrysaor.",
+          "answer": "Medusa",
+          "acceptableAnswers": [
+            "Medusa",
+            "The Medusa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Unlike her sisters Stheno and Euryale, Medusa was the only one of these petrifying hideous creatures that was mortal. Blood from their right side revives, while blood from their left kills.",
+          "answer": "Gorgon",
+          "acceptableAnswers": [
+            "Gorgon",
+            "The Gorgon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Medusa's head was ultimately mounted on this object of Athena's, where the head serves to terrify her enemies. It is made out of goat-skin.",
+          "answer": "aegis",
+          "acceptableAnswers": [
+            "aegis",
+            "shield",
+            "buckler",
+            "The aegis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "According to Ovid, beautiful coral was created when Perseus delicately placed this item onto soft leaves. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eec0e50657a21915d9f5dc"
+    }
+  ]
+}

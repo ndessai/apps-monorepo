@@ -1,0 +1,1109 @@
+{
+  "packetId": "packet-251",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Philosophy",
+    "Science",
+    "Human Body",
+    "Literature",
+    "History",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "2aa4f721-9d0d-4b79-bb35-98f5960a4249",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "One leader of a branch of this religion is said to be the reincarnation of the Bodhisattva of Compassion. That leader of a Tibetan branch of this religion is the Dalai Lama. One branch of this religion developed a Zen type popular in parts of Asia. The founder of this religion preached the Four Noble Truths and the Middle Way. For 10 points, name this religion that includes the Theravada and Mahayana schools, a religion founded by Siddhartha Gautama.",
+      "powerMarkPosition": 173,
+      "answer": "Buddhism",
+      "acceptableAnswers": [
+        "Buddhism",
+        "The Buddhism"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c552"
+    },
+    {
+      "id": "c154f4f5-ce31-4deb-a723-0808f84e8eae",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "The Claus process can produce this element from raw natural gas, and in ancient times the Sicilian process was used. The Frasch process uses boiling water to extract it from underground deposits. When rapidly cooled from a molten state, this element becomes \"plastic.\" It can form the functional group thiol with a hydrogen atom, and it forms the bonds in tertiary protein structures when formed between cysteine residues. Used in vulcanizing rubber, for 10 points, identify this element that can form a smelly gas when combined with two hydrogen ions, an element with atomic number 16 and symbol S.",
+      "powerMarkPosition": 195,
+      "answer": "sulfur",
+      "acceptableAnswers": [
+        "sulfur",
+        "The sulfur"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0cdf"
+    },
+    {
+      "id": "5cca3e08-68d4-42a9-807f-22951462c721",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for inspiration and expiration. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this diaphragm-related structure.",
+      "powerMarkPosition": 81,
+      "answer": "Diaphragm",
+      "acceptableAnswers": [
+        "diaphragm",
+        "Diaphragm"
+      ],
+      "explanation": "The diaphragm is a key component of the Respiratory system, involved in inspiration and expiration.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "f8c0b1b0-0417-417f-b673-06085ae4fe76",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "This is the number of possible arrangements of a pair of identical bosons in a two-level system. A DC circuit that exhibits damped harmonic oscillation must contain at least this many passive elements. This is the smallest nonexistent multipole moment. Any gravitating system with at least this many bodies is not analytically integrable. The electron's charge is this number times the down quark charge. The thermodynamic law of this number isn't really a law, and describes the entropy of ideal crystals in a certain limit. There are this many generations of quarks. For 10 points, give this number that is also the number of observable spatial dimensions in the universe.",
+      "powerMarkPosition": 252,
+      "answer": "three",
+      "acceptableAnswers": [
+        "three",
+        "tripole",
+        "The three"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f86327cdb0cbb3f4645aeb"
+    },
+    {
+      "id": "ea6b6b51-31ad-42b6-b7d8-5ee7afd8b65d",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for platelets and clotting. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this erythrocyte-related structure.",
+      "powerMarkPosition": 99,
+      "answer": "Erythrocyte",
+      "acceptableAnswers": [
+        "erythrocyte",
+        "Erythrocyte"
+      ],
+      "explanation": "The erythrocyte is a key component of the Cardiovascular system, involved in platelets and clotting.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "23a74774-a50e-45ff-868f-99aabd757341",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "The first mention of this prayer being employed in its best-known context comes from the 13th century text entitled Or Zarua, and its earliest version is sometimes called the \"half\" version. Under certain circumstances, a chazzan may recite the \"half\" variety following a Torah reading, and its \"rabbinical\" version is recited by those studying the midrash or aggada. Its \"Great\" version contains a prayer for the rebuilding of Jerusalem and the Temple, and the full version adds two sentences which begin, respectively, \"Yohei shlomo rabba\" and \"Oseh shalom.\" This prayer, whose purpose is sometimes confused with the prayer \"El Molai Rachamim.\" opens with the line \"yit'gadal v'yit'kadash sh'mei raba,\" and a variant of it is recited by mourners after the death of a loved one. For 10 points, identify this Jewish prayer extolling the coming kingdom of God.",
+      "powerMarkPosition": 367,
+      "answer": "Kaddish",
+      "acceptableAnswers": [
+        "Kaddish",
+        "The Kaddish"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4433c"
+    },
+    {
+      "id": "51927d3f-6c4f-4f68-956a-a530de6c9644",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "While pacing the floor, this philosopher was asked whether he was \"thinking about logic or [his] sins,\" to which he replied \"both.\" During a period in which this thinker became known as \"the man with the gospels\" for his constant espousal of Tolstoy, he was informed of the death of David Hume Pinsent. The first book by this philosopher ends by drawing an analogy between it and a ladder that, once climbed, must be discarded. This philosopher's \"late\" period is often seen as having precipitated his break with Bertrand Russell. A book by this thinker is structured around seven main propositions, the first of which is \"the world is everything that is the case.\" For 10 points, name this Austrian philosopher of language who wrote the Tractatus Logico-Philosophicus.",
+      "powerMarkPosition": 302,
+      "answer": "Wittgenstein",
+      "acceptableAnswers": [
+        "Wittgenstein",
+        "Ludwig Josef Johann Wittgenstein",
+        "The Wittgenstein"
+      ],
+      "source": "qbreader",
+      "sourceId": "6551b0902c809f9dfdac1e3d"
+    },
+    {
+      "id": "5a733753-399d-4763-aa74-d5d642813591",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "In this novel, Lise dies in childbirth and her sister-in-law, Mary, raises the child. When Helene's husband discovers her affair, he challenges her seducer to a duel in this novel, which opens at a party thrown by Anna Scherer. A woman in this novel agrees to a one-year engagement with Andrew, but later plans to elope with Anatole. That woman in this novel is Natasha Rostova, who eventually marries a man who believes it is his duty to kill Napoleon, Pierre Bezukov. For 10 points, name this novel by Leo Tolstoy.",
+      "powerMarkPosition": 227,
+      "answer": "War and Peace",
+      "acceptableAnswers": [
+        "War and Peace",
+        "Voyna i Mir",
+        "The War and Peace"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dede3b"
+    },
+    {
+      "id": "440c04f9-ffc6-4c14-8be8-371c4bc4baa0",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for coronary arteries. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this atrium-related structure.",
+      "powerMarkPosition": 72,
+      "answer": "Atrium",
+      "acceptableAnswers": [
+        "atrium",
+        "Atrium"
+      ],
+      "explanation": "The atrium is a key component of the Cardiovascular system, involved in coronary arteries.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "7e4f6863-a803-4abb-bb46-31d549e457e2",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for esophagus and swallowing. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this esophagus-related structure.",
+      "powerMarkPosition": 81,
+      "answer": "Esophagus",
+      "acceptableAnswers": [
+        "esophagus",
+        "Esophagus"
+      ],
+      "explanation": "The esophagus is a key component of the Digestive system, involved in esophagus and swallowing.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "db457ed9-24d9-49b2-b166-3f6e90b65845",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "This country's namesake defense league was formed by Winston Churchill. Constitutional reform in this country was investigated by the Simon Commission. This country's first Prime Minister wrote world history textbooks for his daughter. One independence leader of this country practiced satyagraha and was assassinated by Nathuram Godse. This country's first Prime Minister was Jawaharlal Nehru, who was a protege of the man who led the Salt March in this country. Differences between its namesake congress and the Muslim League led to the creation of Pakistan out of part of this country. For 10 points, name this Asian country whose independence Gandhi fought for.",
+      "powerMarkPosition": 285,
+      "answer": "India",
+      "acceptableAnswers": [
+        "India",
+        "The India"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be764b"
+    },
+    {
+      "id": "6e007e3c-deb1-42f3-b18b-7fbb53765101",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for gastric secretions. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this esophagus-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Esophagus",
+      "acceptableAnswers": [
+        "esophagus",
+        "Esophagus"
+      ],
+      "explanation": "The esophagus is a key component of the Digestive system, involved in gastric secretions.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "92b260ec-0806-48d7-8c54-fdb70cf14978",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "This man's works included The Sandy Foundation Shaken, in which he questioned the concept of the Holy Trinity, and No Cross, No Crown, written while imprisoned. His arrest with William Mead provided the basis for Bushell's Case, which established the independence of the English jury. Later he would become known for supposedly concluding a \"Great Treaty\" at Shackamaxon and buying land from the Lenni Lenape tribe, led by Chief Tammany. His First Frame of Government established the right of all property-owning men to vote and hold office, and granted religious freedom to all Christians in the colony that he founded. For 10 points identify this man who received a grant from Charles II to found a safe haven for Quakers.",
+      "powerMarkPosition": 284,
+      "answer": "Penn",
+      "acceptableAnswers": [
+        "Penn",
+        "The Penn"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43338"
+    },
+    {
+      "id": "d2f94076-3d4e-4458-bad1-3c87fe176abf",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "These proteins are divided into families based on the structure of their CRD. A commonly used one of these proteins is concanavalin A and, in animals, they act like velcro to link cells together. Proteins with a collagen-like region and a region similar to these proteins play an important role in the innate immune system, such as the mannan-binding one. The influenza virus uses one of them to bind to sialic acid. A heterodimer that consists of an enzyme that inhibits protein synthesis and one of these proteins is ricin, which was discovered when an extract of castor beans agglutinated red blood cells. One isolated from bananas is a potent inhibitor of HIV replication. For 10 points, identify this class of proteins that binds carbohydrates and really likes sugars.",
+      "powerMarkPosition": 355,
+      "answer": "lectin",
+      "acceptableAnswers": [
+        "lectin",
+        "phytohemagglutinins",
+        "phytagglutinins",
+        "prompt on glycan-binding protein",
+        "prompt on GBP",
+        "prompt on agglutinins before \"agglutinated\" is read",
+        "The lectin"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f331699980c350cba739f3"
+    },
+    {
+      "id": "b37de2ea-6bba-43cc-acef-8291d929a96b",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "Animals abound in this poem, they include the oxen with his low call, the bats who flitt about, and the mouse who \"shrieked behind the mouldering wainscot.\" The sixth of its seven stanzas begins three consecutive lines with the word \"old,\" which is used to describe faces, footsteps, and voices, all of which the title character dismisses. The fifth stanza describes how \"The shadow of the poplar fell/ upon her bed across her brow\" and she seemed to \"walk forlorn\" through the night without being able to sleep. The speaker continuously harps on the disrepair of her abode which is covered in \"marish mosses.\" Every part ends with the realization \"that he cometh not\" and that she wants to die. That he, would be Angelo, who has left her behind in \"the moated grange,\" FTP, name this character from Measure for Measure, the title figure of a poem by Tennyson.",
+      "powerMarkPosition": 328,
+      "answer": "Mariana",
+      "acceptableAnswers": [
+        "Mariana",
+        "The Mariana"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d9443acb996cf5df5a81cd"
+    },
+    {
+      "id": "cb1f3cea-78c0-4e73-863d-d09ee7958d15",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "The speaker of one of this author's poems is opposed by an old woman who seeks to separate him from his beloved. Another work by this writer is a 516-line ode describing the battle between Ignorance and the Muses. In addition to The Anti-erotic and Musagneomachie, he noted, \"Happy the man who, like Ulysses, has travelled well\" in one of 192 alexandrine sonnets written while in \"exile\" in Rome, his Regrets. He also wrote the sonnet sequence Antiquities of Rome and imitated Petrarch in his sequence of love sonnets, L'Olive. Another of his works was inspired by Sebillet and declared that great poetry could only be achieved by imitating the Greeks and Romans. This author of Defense and Illustration of the French Language also wrote a manifesto for the group that he was in, along with writers like Remy Belleau and Pierre de Ronsard. FTP, name this French poet and member of Le Pleiade.",
+      "powerMarkPosition": 577,
+      "answer": "Bellay",
+      "acceptableAnswers": [
+        "Bellay",
+        "The Bellay"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e35effc080082733afc515"
+    },
+    {
+      "id": "6f04e4e0-92c0-404f-b950-64d8febd1aaf",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "A 1995 paper by Aumann and Brandenburger about the \"epistemic conditions\" for this state showed that it can be reached even without common knowledge. Given a large enough discount factor, the folk theorem establishes that, in an infinite setting, almost any outcome is a refinement of this state. Its namesake proved this state's existence in his dissertation using Brouwer's (BRAU-erz) fixed-point theorem. Since this state is always rationalizable, it often can be found by iteratively removing the strictly dominated strategies. In the prisoner's dilemma, this state is reached when both players defect. For 10 points, an American mathematician names what game-theoretic equilibrium where every player's strategy is a best-response to their rivals?",
+      "powerMarkPosition": 296,
+      "answer": "Nash",
+      "acceptableAnswers": [
+        "Nash",
+        "equilibrium before read",
+        "The Nash"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f1bf365ffd63b5f24c1c90"
+    },
+    {
+      "id": "246f0e7c-9206-49c2-82fa-a728245682a2",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "This man was Christian Doppler's most significant student at the University of Vienna, and to date, genes coding for four of the seven traits he studied have been sequenced. His most influential paper, Experiments on Plant Hybridization, contained the laws of segregation and independent assortment. For 10 points, name this Austrian monk who coined the terms dominant and recessive while discovering the laws of heredity using pea plants.",
+      "powerMarkPosition": 259,
+      "answer": "Mendel",
+      "acceptableAnswers": [
+        "Mendel",
+        "The Mendel"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acd46"
+    },
+    {
+      "id": "c6391538-2594-4a20-bf6c-d7d2f8413e62",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "A work narrated by this character was allegedly plagiarized from The Vicar of Weilby. In another work, this character says \"All I wanted was to go somewheres\" while complaining about being scolded by Miss Watson. This boy meets the Duke and the Dauphin while rafting down the Mississippi river with the slave Jim. For 10 points, name this narrator of Tom Sawyer, Detective, a Missouri boy created by Mark Twain.",
+      "powerMarkPosition": 204,
+      "answer": "Huckleberry",
+      "acceptableAnswers": [
+        "Huckleberry",
+        "The Huckleberry"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc005049"
+    },
+    {
+      "id": "d8594259-adc5-4534-a0b6-236801e912f7",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This artist painted a muddled gray portrait of his wife, Camille, on her deathbed, and painted her holding a parasol in a field in Argenteuil [ahr-zhon-TWEE]. He created a series of paintings of haystacks, and of an arched green bridge in his garden in Giverny [zhee-vayr-NEE]. He depicted shadowy boats and a low, orange sun over a harbor in a work that named the Impressionist movement. The painter of Waterlilies is, for 10 points, what French creator of Impression, Sunrise?",
+      "powerMarkPosition": 228,
+      "answer": "Monet",
+      "acceptableAnswers": [
+        "Monet",
+        "The Monet"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eca0924256318ace11"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "681e0b25-31b5-4c6d-83be-c7a1ac1046ca",
+      "linkedTossupId": "2aa4f721-9d0d-4b79-bb35-98f5960a4249",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Islamic shrine that contains the Well of Souls and a namesake stone from which Muhammad and Gabriel departed on a \"Night Journey\" into heaven.",
+          "answer": "Dome of the Rock",
+          "acceptableAnswers": [
+            "Dome of the Rock",
+            "Qubbat as-Sakhrah",
+            "The Dome of the Rock"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Dome of the Rock is situated on this former site of the Jewish Temple. It also contains the Al-Aqsa Mosque and the Western Wall.",
+          "answer": "Temple Mount",
+          "acceptableAnswers": [
+            "Temple Mount",
+            "Har haBayit",
+            "Haram esh-Sharif",
+            "accept Mount Moriah",
+            "The Temple Mount"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Temple Mount is in this city in Israel, which is sacred to Muslims, Jews, and Christians.",
+          "answer": "Jerusalem",
+          "acceptableAnswers": [
+            "Jerusalem",
+            "Y'rushalayim",
+            "accept Al-Kuds Sharif",
+            "The Jerusalem"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Jews, Christians, and Muslims believe that this building is the site of the foundation stone. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "663809d0867240107e0f1f22"
+    },
+    {
+      "id": "f86d5d34-aebe-43b4-bde6-dbad16aa4f09",
+      "linkedTossupId": "c154f4f5-ce31-4deb-a723-0808f84e8eae",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these phenomena which result when rotating updrafts generate a rapidly spinning column of air. When they occur over water, they are typically termed waterspouts.",
+          "answer": "tornado",
+          "acceptableAnswers": [
+            "tornado",
+            "The tornado"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tornadoes are measured on the Fujita scale, with the least severe tornadoes being given a rating of F1, and the most severe tornadoes being given this rating.",
+          "answer": "F5",
+          "acceptableAnswers": [
+            "F5"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tornadoes typically form from this kind of thunderstorm. They are distinguished from standard thunderstorms by their possession of a mesocyclone, a strong rotating updraft which can develop into a tornado.",
+          "answer": "supercell",
+          "acceptableAnswers": [
+            "supercell",
+            "The supercell"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These events are most common in a namesake \"alley\" in the Great Plains. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ed5a"
+    },
+    {
+      "id": "d5f441b9-f6d1-4c8d-af5d-99bedb13f1d7",
+      "linkedTossupId": "5cca3e08-68d4-42a9-807f-22951462c721",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with action potentials.",
+          "answer": "axon",
+          "acceptableAnswers": [
+            "axon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the axon in the nervous system?",
+          "answer": "Action potentials",
+          "acceptableAnswers": [
+            "Action potentials"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to action potentials.",
+          "answer": "dendrite",
+          "acceptableAnswers": [
+            "dendrite"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9497982a-e340-4eb4-bdde-3813ce703f84",
+      "linkedTossupId": "f8c0b1b0-0417-417f-b673-06085ae4fe76",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this phenomenon in which one species imitates another.",
+          "answer": "Mimicry",
+          "acceptableAnswers": [
+            "Mimicry",
+            "The Mimicry"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This type of mimicry occurs when two or more poisonous species that share common predators mimic each other's warning signals, in contrast to Batesian mimicry.",
+          "answer": "Mullerian",
+          "acceptableAnswers": [
+            "Mullerian",
+            "The Mullerian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This species of butterfly uses Mullerian mimicry to imitate the poisonous Monarch butterfly.",
+          "answer": "Viceroy",
+          "acceptableAnswers": [
+            "Viceroy",
+            "The Viceroy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This phenomenon is the result of groups of organisms evolving to have common characteristics to another, less preyed upon species. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe9d0"
+    },
+    {
+      "id": "ea67ad3d-d505-4f30-84fc-de8d8e89de90",
+      "linkedTossupId": "ea6b6b51-31ad-42b6-b7d8-5ee7afd8b65d",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with brainstem structures.",
+          "answer": "cerebrum",
+          "acceptableAnswers": [
+            "cerebrum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cerebrum in the nervous system?",
+          "answer": "Brainstem structures",
+          "acceptableAnswers": [
+            "Brainstem structures"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to brainstem structures.",
+          "answer": "cerebellum",
+          "acceptableAnswers": [
+            "cerebellum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "89c823dc-6806-4e4a-ad33-66e2b741e05f",
+      "linkedTossupId": "23a74774-a50e-45ff-868f-99aabd757341",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this method, which uses the process of \"sublation\" to resolve a tension between a thesis and an antithesis to find a synthesis. Each figure recognizes the other as self-conscious in the \"master-slave\" form of this method.",
+          "answer": "dialectic",
+          "acceptableAnswers": [
+            "dialectic",
+            "master-slave dialectic",
+            "accept Dialectic of Enlightenment",
+            "accept but DO NOT REVEAL Hegelian dialectic",
+            "The dialectic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The master-slave dialectic was developed by this German philosopher in The Phenomenology of Spirit.",
+          "answer": "Hegel",
+          "acceptableAnswers": [
+            "Hegel",
+            "The Hegel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This philosopher's materialist version of the dialectic \"turned Hegel on his head\". This philosopher wrote Das Kapital and collaborated with Engels on The Communist Manifesto.",
+          "answer": "Marx",
+          "acceptableAnswers": [
+            "Marx",
+            "The Marx"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Theodore Adorno and Max Horkheimer proposed the idea of a \"culture industry\" in a book titled for [this method] of Enlightenment. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6549e618dd7828c4e244d58e"
+    },
+    {
+      "id": "b579c888-6e81-47c0-a338-ba89c9c5ee98",
+      "linkedTossupId": "51927d3f-6c4f-4f68-956a-a530de6c9644",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this work, published posthumously 1677, which argued against the mind-body dualism of Descartes while written in a \"geometrical order.\"",
+          "answer": "Ethics",
+          "acceptableAnswers": [
+            "Ethics",
+            "The Ethics"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ethics was written by this Dutch philosopher, who defended a secular government in Tractatus Theologico-Politicus and had his Treatise on the Improvement of Understanding and Hebrew Grammar published posthumously.",
+          "answer": "Spinoza",
+          "acceptableAnswers": [
+            "Spinoza",
+            "The Spinoza"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This German philosopher wrote a work that detailed the history of philosophy between Bacon and Spinoza. His other works include Principles of the Philosophy of the Future and The Essence of Christianity.",
+          "answer": "Feuerbach",
+          "acceptableAnswers": [
+            "Feuerbach",
+            "The Feuerbach"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Its author stated that a person's inability to \"moderate and restrain the affects\" is a kind of \"sickness of the mind\" in the section \"On Human Bondage, or the Powers of the Affects.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d44450"
+    },
+    {
+      "id": "40537eb9-ae39-4487-967f-c126cbd3f81c",
+      "linkedTossupId": "5a733753-399d-4763-aa74-d5d642813591",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Heian-era story about the title prince, the son of Emperor Kiritsubo, written by Lady Murasaki Shikibu.",
+          "answer": "Tale of Genji",
+          "acceptableAnswers": [
+            "Tale of Genji",
+            "Genji monogatari",
+            "The Tale of Genji"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Tale of Genji is considered the first modern example of this literary form, the most common type of long fiction. Literary critics often try to identify the \"Great American\" work of this type.",
+          "answer": "novel",
+          "acceptableAnswers": [
+            "novel",
+            "The novel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Tale of Genji, the chapter \"Vanished into the Clouds\" uses this form to symbolize Genji's death.",
+          "answer": "blank",
+          "acceptableAnswers": [
+            "blank",
+            "blank chapter",
+            "The blank"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The title character of this novel tries to adopt Murasaki many times and is refused, so he decides to kidnap her. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631674033d364b3265eaf178"
+    },
+    {
+      "id": "3d530895-cf59-4a23-acf9-711276727529",
+      "linkedTossupId": "440c04f9-ffc6-4c14-8be8-371c4bc4baa0",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with water absorption.",
+          "answer": "colon",
+          "acceptableAnswers": [
+            "colon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the colon in the digestive system?",
+          "answer": "Water absorption",
+          "acceptableAnswers": [
+            "Water absorption"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to water absorption.",
+          "answer": "cecum",
+          "acceptableAnswers": [
+            "cecum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "aa4040a8-a335-4bd0-a06b-b0ea26a8349e",
+      "linkedTossupId": "7e4f6863-a803-4abb-bb46-31d549e457e2",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with muscle fatigue.",
+          "answer": "contraction",
+          "acceptableAnswers": [
+            "contraction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the contraction in the musculoskeletal system?",
+          "answer": "Muscle fatigue",
+          "acceptableAnswers": [
+            "Muscle fatigue"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to muscle fatigue.",
+          "answer": "troponin",
+          "acceptableAnswers": [
+            "troponin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "f4619dcb-ef3b-47a7-b578-9ea3acc11820",
+      "linkedTossupId": "db457ed9-24d9-49b2-b166-3f6e90b65845",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The three-fifths compromise that applied to early censuses in the United States was abolished by this first of the Civil War amendments. This amendment also abolished slavery.",
+          "answer": "Thirteenth",
+          "acceptableAnswers": [
+            "Thirteenth",
+            "The Thirteenth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Census Bureau paid for the development of this early computer, which was later used to predict the results of the presidential election of 1952. A successor to ENIAC, it holds the distinction of being the first commercial computer used in the US.",
+          "answer": "UNIVAC",
+          "acceptableAnswers": [
+            "UNIVAC",
+            "The UNIVAC"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Census of 1890 led Frederick Jackson Turner to put forth this famous thesis, outlined in a work about the importance of this entity in American history. It stresses the importance of the experience of its namesake ever-changing region to the American character.",
+          "answer": "Frontier",
+          "acceptableAnswers": [
+            "Frontier",
+            "The Frontier"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following about the U.S. Census, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a57f"
+    },
+    {
+      "id": "3e0f6f7a-5ac5-4b77-a3a0-cef408512811",
+      "linkedTossupId": "6e007e3c-deb1-42f3-b18b-7fbb53765101",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with skeletal muscle structure.",
+          "answer": "sarcomere",
+          "acceptableAnswers": [
+            "sarcomere"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the sarcomere in the musculoskeletal system?",
+          "answer": "Skeletal muscle structure",
+          "acceptableAnswers": [
+            "Skeletal muscle structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to skeletal muscle structure.",
+          "answer": "myofibril",
+          "acceptableAnswers": [
+            "myofibril"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "7961d067-80a3-49d0-95d7-bbde9e416841",
+      "linkedTossupId": "92b260ec-0806-48d7-8c54-fdb70cf14978",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this war, the turning point in which occurred after Empress Elizabeth died and Russia dropped out of the conflict. Earlier, alliances had changed during the \"Diplomatic Revolution.\"",
+          "answer": "Seven Years’",
+          "acceptableAnswers": [
+            "Seven Years’",
+            "French and Indian War",
+            "The Seven Years’"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Russia dropped out of the war because Elizabeth's successor Peter III was enamored with this Prussian leader and didn't want to fight him. Earlier, this man had won the Potato war.",
+          "answer": "Frederick II",
+          "acceptableAnswers": [
+            "Frederick II",
+            "Frederick the Great",
+            "The Frederick II"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This term refers to the German \"League of Princes\" that Frederick unified in 1785 to oppose Joseph II's designs on Bavaria. It was the first time that the German states were united under Prussian leadership.",
+          "answer": "Furstenbund",
+          "acceptableAnswers": [
+            "Furstenbund",
+            "The Furstenbund"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The disastrous Braddock expedition undertaken to capture Fort Duquesne during this war resulted in Braddock's death. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31973"
+    },
+    {
+      "id": "b4640135-81be-45ef-9b7f-b16c978083fe",
+      "linkedTossupId": "d2f94076-3d4e-4458-bad1-3c87fe176abf",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this quantity measuring the difference between two forms of mutual information that is zero in classical physics. The fact that this quantity, in general, is non-zero implies that quantum correlations exist in mixed states.",
+          "answer": "quantum discord",
+          "acceptableAnswers": [
+            "quantum discord",
+            "The quantum discord"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The von Neumann entropy used to calculate the discord is left invariant under these transformations, which preserve the inner product. A matrix whose conjugate transpose is its inverse has this property.",
+          "answer": "unitarity",
+          "acceptableAnswers": [
+            "unitarity",
+            "word forms",
+            "The unitarity"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Discord implies that nonclassical behavior can be present even without this other property, in which the states of two particles cannot be described independently. Einstein ridiculed this property as \"spooky action at a distance.\"",
+          "answer": "entanglement",
+          "acceptableAnswers": [
+            "entanglement",
+            "word forms",
+            "The entanglement"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This quantity equals the von Neumann entropy of subsystem A minus the entropy of the system plus the conditional entropy of subsystem B. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c08d5b3dc7dc712c7672"
+    },
+    {
+      "id": "aa90dcf4-c090-45ca-a7d5-5bf3a7272157",
+      "linkedTossupId": "b37de2ea-6bba-43cc-acef-8291d929a96b",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this novel in which Jed becomes famous by painting his Series of Simple Professions. One portrait in the series depicts this novel's author, Michel Houellebecq (whell-beck), who is murdered in his home by a thief using a laser cutter.",
+          "answer": "Map and the Territory",
+          "acceptableAnswers": [
+            "Map and the Territory",
+            "La carte et le territoire",
+            "The Map and the Territory"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a story by this author, Roberto Michel takes a photograph of what he believes to be a blonde woman seducing a teenage boy. This Argentinian author of \"Blow-Up\" also wrote the stories \"Continuity of Parks\" and \"Axolotl\" (AX-uh-LOT-ull).",
+          "answer": "Cortázar",
+          "acceptableAnswers": [
+            "Cortázar",
+            "Jules Florencio Cortázar",
+            "The Cortázar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Ian McEwan's Amsterdam, Vernon Halliday obtains photographs of Julian Garmony cross-dressing. Garmony is preparing to vie for this governmental position, which was held by Tony Blair when Amsterdam was published.",
+          "answer": "prime minister",
+          "acceptableAnswers": [
+            "prime minister",
+            "PM",
+            "The prime minister"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this novel, the artist Jed Martin begins a relationship with Olga Sheremoyova after telling her that he has taken over 800 photographs of Michelin travel guides. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64307e9f1357bcd3ef98b7f6"
+    },
+    {
+      "id": "4bde8483-4c1c-4f9c-9b7c-0218e6b1ed83",
+      "linkedTossupId": "cb1f3cea-78c0-4e73-863d-d09ee7958d15",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this novel in which Liu Bei defeats Cao Cao at the Battle of the Red Cliffs.",
+          "answer": "Romance of the Three Kingdoms",
+          "acceptableAnswers": [
+            "Romance of the Three Kingdoms",
+            "Sanguozhi Yanyi",
+            "The Romance of the Three Kingdoms"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Romance of the Three Kingdoms is the first of this country's Four Great Classical Novels.",
+          "answer": "China",
+          "acceptableAnswers": [
+            "China",
+            "The China"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This novel was one of the Four Great Classical Novels until it was replaced by Dream of the Red Chamber. It details seventy-two sexual encounters of the lecherous Ximen Qing.",
+          "answer": "Plum in the Golden Vase",
+          "acceptableAnswers": [
+            "Plum in the Golden Vase",
+            "The Golden Lotus",
+            "Jin Ping Mei",
+            "The Plum in the Golden Vase"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Zhuge Liang is commanded to produce one-hundred thousand arrows in this novel, whose events are set into motion by the Yellow Turban Rebellion. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df8012e66cc66ca571d0e1"
+    },
+    {
+      "id": "e100157b-adb4-470e-813f-d7e79b30c406",
+      "linkedTossupId": "6f04e4e0-92c0-404f-b950-64d8febd1aaf",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify these materials which have electrical conducting states on the surface but not in the bulk. They were experimentally verified in 2010 in a sample of bismuth antimonide.",
+          "answer": "topological insulators",
+          "acceptableAnswers": [
+            "topological insulators",
+            "partial answers",
+            "The topological insulators"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The behavior of topological insulators is analogous to this effect discovered by von Klitzing, in which a strong magnetic field forces electrons into discrete Landau levels.",
+          "answer": "quantum Hall",
+          "acceptableAnswers": [
+            "quantum Hall",
+            "The quantum Hall"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This physicist offered a theoretical explanation based on gauge invariance to explain why the quantized resistance observed in the quantum Hall effect is always the same no matter what material is used.",
+          "answer": "Laughlin",
+          "acceptableAnswers": [
+            "Laughlin",
+            "The Laughlin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Like in grapheme, Dirac cones, which are a cone-shaped band structure, can be observed in these materials. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e35effc080082733afc712"
+    },
+    {
+      "id": "bffe04ef-3a32-48a8-95f4-d676106bc2b4",
+      "linkedTossupId": "246f0e7c-9206-49c2-82fa-a728245682a2",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Consisting of the filament and the anther, this is the pollen producing reproductive part of the flower.",
+          "answer": "Stamen",
+          "acceptableAnswers": [
+            "Stamen",
+            "The Stamen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This female counterpart of the stamen consists of the ovary, the style, and the stigma.",
+          "answer": "Pistil",
+          "acceptableAnswers": [
+            "Pistil",
+            "Gynoecium",
+            "The Pistil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Collectively known as the calyx, these parts of the flower are usually green. They protect the flower when in bud and offer support for the petals when in bloom.",
+          "answer": "Sepal",
+          "acceptableAnswers": [
+            "Sepal",
+            "The Sepal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these parts of a flower for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0912"
+    },
+    {
+      "id": "8aa5007d-97f6-4a96-b98c-cacdfe391adc",
+      "linkedTossupId": "c6391538-2594-4a20-bf6c-d7d2f8413e62",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Shakespeare play, in which the title prince seeks to avenge his father against his uncle, Claudius, who has married Queen Gertrude.",
+          "answer": "Hamlet",
+          "acceptableAnswers": [
+            "Hamlet",
+            "The Hamlet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In one of his soliloquies, Hamlet wishes that his \"too, too solid\" this \"would melt.\" In another Shakespeare play, a Jewish moneylender demands a measure of this substance from Antonio.",
+          "answer": "flesh",
+          "acceptableAnswers": [
+            "flesh",
+            "The flesh"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The moneylender, Shylock, demands a pound of flesh from Antonio in this Shakespeare play, in which Portia disguises herself as the lawyer Balthasar to defend Bassanio and Antonio.",
+          "answer": "Merchant of Venice",
+          "acceptableAnswers": [
+            "Merchant of Venice",
+            "The Merchant of Venice"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this play, the main character watches as Yorick, a jester, is exhumed to make room for Ophelia's grave. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318acaea"
+    },
+    {
+      "id": "bba272db-da51-4e48-a6b7-106d323fb6af",
+      "linkedTossupId": "d8594259-adc5-4534-a0b6-236801e912f7",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this country that was also home to composers such as Henryk Gorecki and Wojciech [WOH-chek] Kilar. The mazurka and polonaise are both dances from this country.",
+          "answer": "Poland",
+          "acceptableAnswers": [
+            "Poland",
+            "The Poland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Although he was half-French, this composer is Poland's most famous. All of his compositions, which include mazurkas, polonaises, and four ballades, feature this composer's instrument, the piano.",
+          "answer": "Chopin",
+          "acceptableAnswers": [
+            "Chopin",
+            "The Chopin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chopin is best known for these pieces, which include the \"Revolutionary.\" They are short pieces primarily designed to improve both musical and technical aspects of playing as their name suggests.",
+          "answer": "étude",
+          "acceptableAnswers": [
+            "étude",
+            "The étude"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A symphony named after this country unusually uses sarrusophone to produce a jarring, military sound. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b6bb"
+    }
+  ]
+}

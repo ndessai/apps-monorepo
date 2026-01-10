@@ -1,0 +1,1159 @@
+{
+  "packetId": "packet-260",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Science",
+    "Social Science",
+    "Fine Arts",
+    "Literature",
+    "Human Body"
+  ],
+  "tossups": [
+    {
+      "id": "fc89623a-d86a-4ddf-bb45-40f903c1e8b2",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "A guild of wax merchants that functioned as this historical state's commercial court was called the \"Saint John's Hundred.\" This state was likely partly governed by a group of magistrates and nobles that assembled in the \"Chamber of Facets.\" In this state, a drawing of a four-legged animal with the caption \"I am a wild beast\" was produced by a six-year-old boy, whose doodles are among this state's thousand-plus excavated birch-bark documents. This state, which was home to the young artist Onfim, contained a kontor of the Hanseatic League called the Peterhof. Inhabitants of this state chose mayors called posadniki in a popular assembly that any citizen could theoretically convene by ringing a bell. This state's veche (\"v'YETCH-yeh\") was dissolved in 1478, when Ivan III brought its lands under Muscovy's rule. For 10 points, name this medieval merchant republic in northern Rus' (\"ROOSE\") that was centered on a city called \"Veliky.\"",
+      "powerMarkPosition": 446,
+      "answer": "Novgorod",
+      "acceptableAnswers": [
+        "Novgorod",
+        "Novgorodskaya respublika",
+        "accept Veliky Novgorod",
+        "Great Novgorod",
+        "The Novgorod"
+      ],
+      "source": "qbreader",
+      "sourceId": "644932c99f0045ff841d691f"
+    },
+    {
+      "id": "12f164df-bea0-4f02-b6a9-2442c8c24dd5",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Description acceptable. A 1983 thesis on algorithms for this task notes the inadequacy of rule-based or table-based schemes, and invents a better approach to this task using a packed trie (\"try\") data structure. The paper that introduced Bloom filters gives this task as a sample application. A popular algorithm for this task was made by Frank Liang, who wrote the \"patgen\" program to generate the patterns it uses. In one system, parameters like \"tolerance\" and \"pretolerance\" affect whether this action is allowed, and performing this action results in a penalty, where a penalty of 10,000 means this action is disabled. The \"overfull hbox\" error directly results from LaTeX (\"LAY-tech\") failing to perform this task, meaning the user might need to manually specify it for certain words. For 10 points, name this typesetting task often paired with justification to ensure that text is spaced well, which is especially important when columns are narrow.",
+      "powerMarkPosition": 671,
+      "answer": "hyphenation",
+      "acceptableAnswers": [
+        "hyphenation",
+        "syllabification",
+        "accept descriptions of adding line breaks to text",
+        "breaking words across lines",
+        "prompt on “typesetting text” before “typesetting”",
+        "reject “justification”",
+        "“alignment”",
+        "The hyphenation"
+      ],
+      "source": "qbreader",
+      "sourceId": "657fd7dade6df0163bbe3bba"
+    },
+    {
+      "id": "33dfdb9e-f839-4224-a732-6eec0f83c6c7",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "text": "Based on the account of a merchant named Diogenes, several places along the coast of this body of water have been proposed as the site of an important port trading in tortoise shells called Rhapta. Roman sources described towns on this body of water south of Opone like Nikon and Serapion in Azania. According to one theory, the Ma'anyan people were brought west across this body of water as laborers and slaves, settling one island around 500 to 700 AD. Cities like Muziris on this body of water, the largest described in the Periplus of the Erythraean Sea, were at the eastern end of the sea-based Incense Road. Austronesians originating in Borneo settled an island in this body of water, mixing with the native African population. For 10 points, name this body of water whose monsoons were used by ancient sailors from the Chola Empire and crossed by the settlers of Madagascar.",
+      "powerMarkPosition": 466,
+      "answer": "Indian Ocean",
+      "acceptableAnswers": [
+        "Indian Ocean",
+        "The Indian Ocean"
+      ],
+      "source": "qbreader",
+      "sourceId": "639a46d925fac6a63b2b803e"
+    },
+    {
+      "id": "eb87b7b9-afd4-4d78-ae2f-e8d53a3080af",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "This author wrote about the Paliau cargo cult on Manus in New Lives for Old and transcribed tape-recorded discussions with James Baldwin to create A Rap on Race. This anthropologist compared gender roles in different cultures in Male and Female and Sex and Temperament in Three Primitive Societies, while she studied family and education on Manus in Growing Up in New Guinea. Her most famous work discussed the taupou system of ceremonial virginity and was challenged by Derek Freeman. The author of an early book of popular anthropology contrasting Pacific Island and American girls' adolescences, for 10 points, name this American anthropologist who wrote Coming of Age in Samoa.",
+      "powerMarkPosition": 248,
+      "answer": "Mead",
+      "acceptableAnswers": [
+        "Mead",
+        "The Mead"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be765d"
+    },
+    {
+      "id": "e4b851ca-69f5-4c4a-b169-a21ac7c8f481",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "An equation modeling the movement of this substance can be simplified by the Dupuit-Forchheimer (\"doo-PWEE FORK-high-mer\") assumption. Graphs showing the movement of this substance feature a \"rising limb.\" The Theis (\"tice\") equation describes the movement of this substance, and is more widely-used than another equation derived from applying a mass balance to Darcy's law. The phreatic (\"free-ATTIC\") zone lies below a \"table\" named for this substance, which lowers into a cone of depression in a process that depletes this resource called overdrafting. Many fields are circular as a result of using a \"center-pivot\" method of delivering this substance, which is also used to cool off livestock. The Dust Bowl resulted from the lack of this resource, which is distributed to crops via irrigation. For 10 points, name this substance found in aquifers.",
+      "powerMarkPosition": 474,
+      "answer": "water",
+      "acceptableAnswers": [
+        "water",
+        "fresh water",
+        "river water",
+        "surface water",
+        "The water"
+      ],
+      "source": "qbreader",
+      "sourceId": "65d1421b270be3aedf05a3c6"
+    },
+    {
+      "id": "34f85b64-cfb8-4ea3-8972-e5735653d27a",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "Richard Taylor tried to assist troops stationed here with an ultimately unsuccessful counter-attack against a regiment of black soldiers at Milliken's Bend, while John Hunt Morgan almost crossed into Pennsylvania in an attempt to draw opposing forces from this city. Engagements in a campaign named for this city included the Battles of Champion's Hill and Port Gibson, the latter of which resulted in troops under William T. Sherman turning the city of Jackson into a \"chimneyville\". Shortly after this city fell, another Union victory in the same theatre was secured in the Battle of Port Hudson. Confederates in this city finally surrendered on July 4th, 1863. For 10 points, name this site of a prolonged siege by Ulysses S. Grant to give the Union control of the Mississippi River.",
+      "powerMarkPosition": 453,
+      "answer": "Vicksburg",
+      "acceptableAnswers": [
+        "Vicksburg",
+        "Siege of Vicksburg",
+        "Vicksburg Campaign",
+        "The Vicksburg"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a5c5"
+    },
+    {
+      "id": "4a307aa3-6f75-4e8d-ae63-fd6673bd4ad7",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "This composer used a wordless female choir in the \"Sirens\" movement of an orchestral work inspired by the paintings of Whistler. In the printed score for another set of his works, the titles appear at the end of each piece rather than at the beginning. Those are his preludes for piano, which include pieces like \"What the West Wind Saw,\" \"The Sunken Cathedral,\" and \"The Girl With the Flaxen Hair,\" and he wrote three Nocturnes for orchestra. His best-known piano piece takes its title from a poem by Paul Verlaine and is the third movement of his Suite bergamasque. For 10 points, name this French impressionist composer who wrote La mer, Prelude to the Afternoon of a Faun, and Clair de lune.",
+      "powerMarkPosition": 252,
+      "answer": "Debussy",
+      "acceptableAnswers": [
+        "Debussy",
+        "The Debussy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a018"
+    },
+    {
+      "id": "14ee8611-7e63-4001-bf9b-817662108569",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "One character in this novel has his name crossed out of the family bible after he marries a woman behind his father's back. That female character is sent a small piano sold at an estate auction. The protagonist of this novel entertains Lord Steyne at a charade party by performing Clytemnestra, after which her husband Rawdon Crawley is arrested. The protagonist of this novel throws a dictionary out of a carriage after graduating from Miss Pinkerton's Academy with Amelia Sedley, who marries George Osborne. For 10 points, name this novel about Becky Sharp, written by William Thackeray.",
+      "powerMarkPosition": 280,
+      "answer": "Vanity Fair",
+      "acceptableAnswers": [
+        "Vanity Fair",
+        "The Vanity Fair"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a53e4"
+    },
+    {
+      "id": "4b4ff9a4-7de9-473b-b156-817249dd7ae6",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for sweat glands. It plays a key role in the integumentary system and is one of the most studied parts of human anatomy. For ten points, name this hair follicle-related structure.",
+      "powerMarkPosition": 96,
+      "answer": "Hair follicle",
+      "acceptableAnswers": [
+        "hair follicle",
+        "Hair follicle"
+      ],
+      "explanation": "The hair follicle is a key component of the Integumentary system, involved in sweat glands.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c5ad453f-61b0-4a8d-a774-97bfef66972d",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "Eight atoms of this element in a rhomboid cluster form this element's \"red\" allotrope. A carboxylic acid contains one atom of this element double-bonded to carbon. After fluorine, this is the second most electronegative element. An allotrope of this element absorbs ultraviolet light in the atmosphere. That allotrope, ozone, is made up of three atoms of this element. For 10 points, identify this element with atomic number 8 and atomic symbol O.",
+      "powerMarkPosition": 163,
+      "answer": "oxygen",
+      "acceptableAnswers": [
+        "oxygen",
+        "The oxygen"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c5b0"
+    },
+    {
+      "id": "ab0a0a66-d65e-4572-b62e-7f52e13729c4",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "A study by PM Markey using the fake names Jake and Suzy Harmen found that these peoples' behavior in real life extended to the internet. These people's behavior were studied by John Darely and Bibb Latane. In one experiment, a person filling out a questionnaire ignored smoke filling the room when these people were present. Diffusion of responsibility is one explanation for these people's behavior, while Good Samaritan Laws exist to encourage these people to take action. These people were falsely claimed to have allowed the murder of Kitty Genovese. For 10 points, name these people who may ignore someone in need according to their namesake effect.",
+      "powerMarkPosition": 315,
+      "answer": "bystander",
+      "acceptableAnswers": [
+        "bystander",
+        "bystander effect",
+        "accept answers referring to things like other people",
+        "people who are watching",
+        "neighbors",
+        "The bystander"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eea9fb047a67fbbb305d2c"
+    },
+    {
+      "id": "cb8d329e-21ea-414c-8611-0b9771396ed5",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "middle_school",
+      "text": "Foreigners living in this polity without citizenship rights were known as \"metics.\" This polity's government was reworked into an oligarchy known as the Thirty Tyrants following this polity's loss in one war. The lawgiver Cleisthenes [KLYSE-thuh-neez] established this polity's practice of a vote to banish, known as ostracism. The orator Pericles gave a famous funeral oration during this polity's \"Golden Age.\" For ten points, name this Greek city-state defeated by Sparta in the Peloponnesian War.",
+      "powerMarkPosition": 316,
+      "answer": "Athens",
+      "acceptableAnswers": [
+        "Athens",
+        "The Athens"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f723af56e0dff73abec87"
+    },
+    {
+      "id": "38d1c562-6164-45db-8706-4f166a3fe7fe",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "The volley principle and phase locking are phenomena involved in this perception. Two opposing theories of this sense focus on location and frequency of neuronal response, respectively; the latter is the place code. The round and oval windows are involved in transmitting and transducing its stimuli. This sense uses the precedence effect and detects time differences to conduct scene analysis and localization. This sense is primarily processed in the temporal lobe, and stimuli of this sense is transduced by the organ of Corti, amplified by the ossicles, and transmitted by the tympanic membrane's vibrations. For 10 points, name this sense that perceives sound using the ears.",
+      "powerMarkPosition": 300,
+      "answer": "hear",
+      "acceptableAnswers": [
+        "hear",
+        "audition",
+        "The hear"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eec0e50657a21915d9f5ef"
+    },
+    {
+      "id": "127b7cc1-aa81-44e2-8672-e2785d6936b2",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "This procedure is done on air-sensitive material using a Perkin triangle. The number of stages involved in one kind of this procedure can be derived from a VLE plot using the McCabe-Thiele method, which is used in designing binary columns. Most versions of this procedure do not work on azeotropes. The Fenske equation can be used to calculate the number of theoretical plates in its fractional variety. For 10 points, name this procedure that separates components of a liquid mixture using differences in their boiling points.",
+      "powerMarkPosition": 239,
+      "answer": "distillation",
+      "acceptableAnswers": [
+        "distillation",
+        "The distillation"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0ce00"
+    },
+    {
+      "id": "6aaffc45-d12e-4e09-9e29-b2bf819920be",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for parathyroid hormone. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this thyroid-related structure.",
+      "powerMarkPosition": 71,
+      "answer": "Thyroid",
+      "acceptableAnswers": [
+        "thyroid",
+        "Thyroid"
+      ],
+      "explanation": "The thyroid is a key component of the Endocrine system, involved in parathyroid hormone.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "74c2cbfb-00bd-4b98-b28d-2fb21a68f45f",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "A poem from this country asks \"O fellow citizen, / What have they done to us?\" to an object with \"hard bitumen around [its] feet.\" The speaker of a poem from this country receives a letter \"written with a thumb-nail dipped in tar\" that states \"we don't know where he are.\" The Jindyworobak (\"JIN-dee-WOH-roh-back\") movement was based in this home country of an author who adopted a name meaning \"paperbark tree,\" Oodgeroo Noonuccal (\"OO-juh-roo noo-NUCK-ul\"). A poet from this country, who wrote \"Clancy of the Overflow,\" feuded with Henry Lawson in the \"Bulletin Debate.\" A song about a \"jolly swagman\" who camped \"under the shade of a coolibah tree\" is one of this country's \"bush ballads.\" For 10 points, name this home country of Banjo Paterson, who wrote the poem \"Waltzing Matilda.\"",
+      "powerMarkPosition": 412,
+      "answer": "Australia",
+      "acceptableAnswers": [
+        "Australia",
+        "Commonwealth of Australia",
+        "The Australia"
+      ],
+      "source": "qbreader",
+      "sourceId": "6884699f641a9dc975af8931"
+    },
+    {
+      "id": "34131b57-bd36-49f6-9fdf-f52101376914",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "The normalization constant for a partition function in n-dimensional phase space is this quantity to the negative n. Precise measurements of this constant in 2017 will enable the kilogram SI unit to be physically defined for the first time. The first energy level of a particle-in-a-box is this quantity squared over eight mL-squared. The Compton wavelength is defined as this quantity over mass times the speed of light. This quantity was plugged into the numerator of an exponential to prevent the Rayleigh-Jeans law from diverging at high frequencies. A photon's energy equals its frequency times this constant. The reduced form of this constant gets a bar written across it. For 10 points, identify this value named for the formulator of quantum theory, which is symbolized h.",
+      "powerMarkPosition": 565,
+      "answer": "Planck",
+      "acceptableAnswers": [
+        "Planck",
+        "h until it is read",
+        "do not accept",
+        "prompt on \"h-bar\"",
+        "\"reduced Planck's constant\"",
+        "The Planck"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae50f"
+    },
+    {
+      "id": "e9f734ae-2780-4355-bb0f-567931c897e5",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "This treaty was signed at the home of George Hays while one force waited nearby at Parkzicht. In the discussion leading up to it, delegates expressed fear that a backlash over a recent skirmish at Holkrans would derail peace efforts, but realization that their situation had worsened since the failed Hatherley proposal led to the eventual rejection of the plan of Marthinus Steyn. It was precipitated by an offer of mediation by Abraham Kuyper, which led to the Klerksdorp Conference and to the formal surrender at Melrose House. Drawn up by James Hertzog and Jan Smuts, For 10 points, name this document that deferred voting rights for people of color, guaranteed right of return for Uitlanders and Dutch language schools in the Orange Free State and Transvaal, and ended the Boer War.",
+      "powerMarkPosition": 381,
+      "answer": "Vereeniging",
+      "acceptableAnswers": [
+        "Vereeniging",
+        "The Vereeniging"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b0d39"
+    },
+    {
+      "id": "207ef248-5cc6-47e7-9b33-148f8948faa5",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "Deirdre McCloskey critiqued the tendency of people in this profession to equate statistical significance with scientific significance. A scholar in this profession studied the Mariel Boatlift using difference-in-differences analysis. This profession's use of targets and instruments was pioneered by Jan Tinbergen (\"yahn TIN-bairg-in\"). Its practitioners often get their data from a nonprofit named for it, the NBER. Empirical rules developed by this profession include Okun's law, which can be explained by a multiplier effect. Techniques like variable autoregression are used in a discipline whose name is a portmanteau of this profession and \"metrics.\" Paul Samuelson wrote a popular textbook for studying, for 10 points, what profession of Paul Krugman?",
+      "powerMarkPosition": 410,
+      "answer": "economist",
+      "acceptableAnswers": [
+        "economist",
+        "economics",
+        "econometricians",
+        "econometrics",
+        "prompt on social scientists",
+        "word forms",
+        "prompt on academics",
+        "professors",
+        "quants",
+        "The economist"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f072b47434cffff7b5a162"
+    },
+    {
+      "id": "2576bca4-016f-4fe0-b580-b9dc3e8e132a",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "This man won election to office when his nation's congress chose him over the former president Jorge Alessandri, and shortly afterwards the head of his country's military, Rene Schneider, was kidnapped by terrorists. One of this man's most notable actions in office was the nationalization of his country's copper industry, at the time its leading export and he saw a prolonged strike by truck owners hamper his attempts to govern. Carlos Prats put down the Tanquetazo coup attempt against this man in 1973, but later that year this man was found dead from a gunshot wound during the coup that replaced him. For 10 points name this Socialist president of Chile from 1970-1973 who preceded Augusto Pinochet.",
+      "powerMarkPosition": 431,
+      "answer": "Allende",
+      "acceptableAnswers": [
+        "Allende",
+        "The Allende"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa591320139d"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "f4d4eced-3292-433a-9ed7-aa2463eadfd7",
+      "linkedTossupId": "fc89623a-d86a-4ddf-bb45-40f903c1e8b2",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this country, whose notable medieval art includes hundreds of Pictish stones found along the Clyde-Forth line and illuminated manuscripts produced at Iona Abbey.",
+          "answer": "Scotland",
+          "acceptableAnswers": [
+            "Scotland",
+            "“United Kingdom”",
+            "“Great Britain”",
+            "do NOT prompt on",
+            "accept “England”",
+            "The Scotland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Most of the Lewis chessmen are made from this material, perhaps the most common animal-based product used in carving in 11th- and 12th-century Northern Europe.",
+          "answer": "walrus ivory",
+          "acceptableAnswers": [
+            "walrus ivory",
+            "walrus tusk",
+            "morse",
+            "prompt on ivory",
+            "tusk",
+            "do NOT prompt on",
+            "accept “bone”",
+            "The walrus ivory"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Although named for an Irish abbey, this illuminated Gospel book may have been made in the Iona abbey. It is thought to have been made later than the Lindisfarne Gospels, although they are in much the same style.",
+          "answer": "Book of Kells",
+          "acceptableAnswers": [
+            "Book of Kells",
+            "Book of Columba",
+            "Codex Cenannensis",
+            "Leabhar Cheanannais",
+            "The Book of Kells"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The oldest surviving European-made chess set, the Lewis chessmen, was found on this country's isle of Lewis. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b0542"
+    },
+    {
+      "id": "7691141f-7a77-4b4f-b02f-6ddab78cb0d8",
+      "linkedTossupId": "12f164df-bea0-4f02-b6a9-2442c8c24dd5",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this genus of parasites that infects a vast array of insects and alters their reproductive capacities and sex ratio. Strains of this genus like w·Mel·Pop are being tested for their use in a gene drive to combat malaria and dengue (den-gay) fever.",
+          "answer": "Wolbachia",
+          "acceptableAnswers": [
+            "Wolbachia",
+            "The Wolbachia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Strains of Wolbachia have been engineered to prevent the reproduction these insects, which are the vectors for dengue fever and malaria.",
+          "answer": "mosquitoes",
+          "acceptableAnswers": [
+            "mosquitoes",
+            "The mosquitoes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gene drives rely on this technology. In February 2017, a court awarded a patent for the use of this technology in eukaryotic cells to Feng Zhang and the Broad Institute over Jennifer Doudna (dohd-nah) and UC Berkeley.",
+          "answer": "CRISPR",
+          "acceptableAnswers": [
+            "CRISPR",
+            "The CRISPR"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Certain species of insect like the Trichogramma wasp are so dependent upon members of this genus of bacteria to reproduce to where they are unable to do so in their absence. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64306480335bc8c468cbb367"
+    },
+    {
+      "id": "9b81a6a6-b021-49b8-b784-f2a98e9b21af",
+      "linkedTossupId": "33dfdb9e-f839-4224-a732-6eec0f83c6c7",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this house which occupied Edessa in 1144 and saw Sayf ad-Din Ghazi I succeed to power in Iraq.",
+          "answer": "Zangid",
+          "acceptableAnswers": [
+            "Zangid",
+            "The Zangid"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The most prominent member of the Zangid Dynasty was this ruler, who coordinated Syrian troops in a successful reconquest of Damascus in 1154 and Egypt in 1171. His troops defeated Raymond of Poitiers at Inab.",
+          "answer": "Nur al-Din",
+          "acceptableAnswers": [
+            "Nur al-Din",
+            "The Nur al-Din"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Nur al-Din thus was a major reason for the failure of this expedition, which was called by the bull Quantum praedecessores and led by Louis VII of France and Conrad III of Germany.",
+          "answer": "Second Crusade",
+          "acceptableAnswers": [
+            "Second Crusade",
+            "The Second Crusade"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It was founded by the namesake Atabeg of Mosul, who had been appointed by the Seljuks. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cf9ae4"
+    },
+    {
+      "id": "333232c5-6f5e-4773-a785-b14de1eec463",
+      "linkedTossupId": "eb87b7b9-afd4-4d78-ae2f-e8d53a3080af",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this 2008 essay by Rebecca Solnit which is credited with coining the term \"mansplaining,\" despite not actually using that word verbatim. It also titles the essay collection in which it appears.",
+          "answer": "Men Explain Things to Me",
+          "acceptableAnswers": [
+            "Men Explain Things to Me",
+            "The Men Explain Things to Me"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rebecca Solnit's writing represents the \"third wave\" of this movement which advocates for equality of the sexes, whose other famous proponents include Simone de Beauvoir and Betty Friedan.",
+          "answer": "feminism",
+          "acceptableAnswers": [
+            "feminism",
+            "The feminism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This term, coined by Kimberlé Crenshaw, has become one of the guideposts for third-wave feminism. This term describes the way a person's identities, including gender, sexual orientation, and race, interact to affect them.",
+          "answer": "intersectionality",
+          "acceptableAnswers": [
+            "intersectionality",
+            "word forms like intersectionalfeminism",
+            "The intersectionality"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This essay discusses various men's repeated attempts to educate the female author about her own scholarship. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0adce1"
+    },
+    {
+      "id": "f624963d-6c63-4824-9547-1e8ed3d59d11",
+      "linkedTossupId": "e4b851ca-69f5-4c4a-b169-a21ac7c8f481",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this set of orthogonal polynomials that appears in solutions to the quantum harmonic oscillator and which can be written in terms of the Laguerre polynomials.",
+          "answer": "Hermite",
+          "acceptableAnswers": [
+            "Hermite",
+            "The Hermite"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hermite also names complex square matrices that are equal to their own transpose when this operation is applied to the entries. For a complex number, this operation changes the sign of the imaginary part.",
+          "answer": "conjugate",
+          "acceptableAnswers": [
+            "conjugate",
+            "The conjugate"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In physics, the Hermitian transpose operation is often represented by a dagger, but this symbol is commonly used in mathematics. It's also commonly used to denote the complex conjugate and convolution.",
+          "answer": "star",
+          "acceptableAnswers": [
+            "star",
+            "asterisk",
+            "The star"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In finite element analysis, these polynomials allow one to construct interpolation functions when the field variable and its derivatives are specified at the nodes. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f3502b"
+    },
+    {
+      "id": "8bd419c9-1203-4b93-987c-118236c1e205",
+      "linkedTossupId": "34f85b64-cfb8-4ea3-8972-e5735653d27a",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this country, the largest oil exporter in Africa. This country was more recently led by Goodluck Jonathan from 2010 to 2015 from its capital of Abuja.",
+          "answer": "Nigeria",
+          "acceptableAnswers": [
+            "Nigeria",
+            "The Nigeria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Nigeria was heavily criticized by environmentalists due to its leniency towards many foreign oil companies, including this Dutch and British corporation, the largest energy company in the world.",
+          "answer": "Shell",
+          "acceptableAnswers": [
+            "Shell",
+            "The Shell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Nigerian environmentalist led a nonviolent campaign to protest the destruction caused by Shell's drilling in the land of the Ogoni people. This activist and author was controversially executed by General Sani Abacha in 1995.",
+          "answer": "Saro-Wiwa",
+          "acceptableAnswers": [
+            "Saro-Wiwa",
+            "Ken Saro-Wiwa",
+            "The Saro-Wiwa"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This country was led by a military dictatorship under General Sani Abacha from 1993 to 1998. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0023a69364e383bef69bf"
+    },
+    {
+      "id": "1b774dbd-977b-4b62-9e8b-fa385e65038b",
+      "linkedTossupId": "4a307aa3-6f75-4e8d-ae63-fd6673bd4ad7",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this artist known for his use of Ben-Day dots and speech bubbles. He depicted an exploding plane in his work Whaam!",
+          "answer": "Lichtenstein",
+          "acceptableAnswers": [
+            "Lichtenstein",
+            "The Lichtenstein"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Roy Lichtenstein is a member of this art movement which uses products and images of mass culture. Another member of this movement, Andy Warhol, made many depictions of Campbell's soup cans.",
+          "answer": "Pop",
+          "acceptableAnswers": [
+            "Pop",
+            "The Pop"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In one work by Lichtenstein, a girl says that \"I don't care. I'd rather\" perform this action than call Brad for help.",
+          "answer": "sink",
+          "acceptableAnswers": [
+            "sink",
+            "Drowning Girl",
+            "anything related to drowning",
+            "sinking underwater",
+            "The sink"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The composition of one work by this artist was taken from a panel drawn by Irv Norick in issue 89 of All-American Men of War. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b1777"
+    },
+    {
+      "id": "bf0439ee-6508-4bdb-a8c6-0ed3aef41de1",
+      "linkedTossupId": "14ee8611-7e63-4001-bf9b-817662108569",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this character, who kills herself \"one winter's night\" and \"lies buried at some crossroads where the omnibuses now stop outside the Elephant and Castle.\" Despite her desire to act, this character is told \"no woman could possibly be an actress\" in one section of the essay \"A Room of One's Own\".",
+          "answer": "J",
+          "acceptableAnswers": [
+            "J",
+            "Judith",
+            "accept Shakespeare’s sister",
+            "prompt on Shakespeare",
+            "do NOT accept",
+            "prompt on “William Shakespeare”"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author created the suicidal Judith Shakespeare in her essay \"A Room of One's Own\". This author killed herself by walking into the River Ouse with stones in her pockets after writing works like To the Lighthouse.",
+          "answer": "Woolf",
+          "acceptableAnswers": [
+            "Woolf",
+            "Adeline Virginia Woolf",
+            "Adeline Virginia Stephen",
+            "The Woolf"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Woolf character hosts a party which is interrupted by news of Septimus Smith's suicide by self-defenestration. This title character \"had not the option\" to be with Sally Seton and instead married Richard.",
+          "answer": "Clarissa",
+          "acceptableAnswers": [
+            "Clarissa",
+            "Mrs. Dalloway",
+            "accept any underlined portion",
+            "The Clarissa"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The actor-manager Nick Greene impregnates this character despite his promise to help her. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67e338d863ef71fce09df7bc"
+    },
+    {
+      "id": "d780a6c1-96a8-4410-8df4-9e2a9209869a",
+      "linkedTossupId": "4b4ff9a4-7de9-473b-b156-817249dd7ae6",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with atp and muscle energy.",
+          "answer": "contraction",
+          "acceptableAnswers": [
+            "contraction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the contraction in the musculoskeletal system?",
+          "answer": "ATP and muscle energy",
+          "acceptableAnswers": [
+            "ATP and muscle energy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to atp and muscle energy.",
+          "answer": "troponin",
+          "acceptableAnswers": [
+            "troponin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9ab2d4d7-42ab-4e9d-b612-b1923d6cc98c",
+      "linkedTossupId": "c5ad453f-61b0-4a8d-a774-97bfef66972d",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this process driven by a gradient in concentration, in which a substance of high concentration moves to a region of lower concentration.",
+          "answer": "diffusion",
+          "acceptableAnswers": [
+            "diffusion",
+            "effusion",
+            "The diffusion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Osmosis is the term for diffusion of a solvent through a semipermeable membrane. Reverse osmosis is often used to desalinate this substance found in the ocean.",
+          "answer": "water",
+          "acceptableAnswers": [
+            "water",
+            "The water"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Einstein published a theory describing the mechanism of this process by diffusion. This random motion of particles suspended in water was first observed in pollen immersed in water.",
+          "answer": "Brownian",
+          "acceptableAnswers": [
+            "Brownian",
+            "The Brownian"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This process can be described by Graham's Law or Fick's Laws. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a503f5"
+    },
+    {
+      "id": "69fb0cbb-09ed-4108-b92d-991fa59186bb",
+      "linkedTossupId": "ab0a0a66-d65e-4572-b62e-7f52e13729c4",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "One form of social stratification is this system in which groups are separated by rules of ritual purity. The most famous one is seen in Hinduism and uses divisions like Brahmins and Sudras.",
+          "answer": "caste system",
+          "acceptableAnswers": [
+            "caste system",
+            "The caste system"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Max Weber addressed the topic of social stratification in this masterpiece that relates Calvinism to the rise of capitalism.",
+          "answer": "The Protestant Ethic and the Spirit of Capitalism",
+          "acceptableAnswers": [
+            "The Protestant Ethic and the Spirit of Capitalism",
+            "Protestant Ethic and the Spirit of Capitalism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Michael Young gave prominence to this form of society in a 1958 work analyzing its rise. It is defined as a society in which success and social stratification are the outcome of ability and individual effort.",
+          "answer": "meritocracy",
+          "acceptableAnswers": [
+            "meritocracy",
+            "The meritocracy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about social stratification.",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596e5b"
+    },
+    {
+      "id": "7b7f993f-d1d2-4d95-978b-66ac7427b3a5",
+      "linkedTossupId": "cb8d329e-21ea-414c-8611-0b9771396ed5",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this southern US state where the abolitionist Grimk´e sisters, Sarah and Angelina, were born in Charleston.",
+          "answer": "South Carolina",
+          "acceptableAnswers": [
+            "South Carolina",
+            "The South Carolina"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Emily Geiger is known as South Carolina's heroine of the Revolutionary War for bravely riding a message from Nathanael Greene to this Patriot militia leader. This man was honored as the namesake of a fort in Charleston Harbor where, in 1861, the opening shots of the Civil War were fired.",
+          "answer": "Sumter",
+          "acceptableAnswers": [
+            "Sumter",
+            "The Sumter"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Secret abolitionist and South Carolina native Mary Boykin Chesnut wrote a diary and memoir of the Civil War, including the opening shots at Fort Sumter and her experiences with this Confederate President, whom her husband had served as an aide.",
+          "answer": "Davis",
+          "acceptableAnswers": [
+            "Davis",
+            "The Davis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Eliza Lucas Pinckney revolutionized this colony's agricultural industry by promoting indigo as a cash crop. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004e9e"
+    },
+    {
+      "id": "11fbe9ae-bddb-40bd-99bd-911cb8c949db",
+      "linkedTossupId": "38d1c562-6164-45db-8706-4f166a3fe7fe",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Studies of A. thaliana led to development of this model of plant flowering, which describes how the interplay of three types of genes cause various organs to form.",
+          "answer": "ABC",
+          "acceptableAnswers": [
+            "ABC",
+            "The ABC"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Under the ABC model, simultaneous expression of B and C genes lead to formation of this type of structure. These analogues of male organs are made up of a filament and anther.",
+          "answer": "stamen",
+          "acceptableAnswers": [
+            "stamen",
+            "androecium",
+            "The stamen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The presence of flowers makes A. thaliana an example of this type of plant, which are contrasted with the \"naked-seeded\" gymnosperms.",
+          "answer": "angiosperm",
+          "acceptableAnswers": [
+            "angiosperm",
+            "Angiospermae",
+            "The angiosperm"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about plant model organism Arabidopsis thaliana, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc07f"
+    },
+    {
+      "id": "810ab1e0-e215-4388-b004-78e2d7a9b357",
+      "linkedTossupId": "127b7cc1-aa81-44e2-8672-e2785d6936b2",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This mathematician was the first to prove that pi was a transcendental number, in the process proving that squaring the circle was impossible.",
+          "answer": "Lindemann",
+          "acceptableAnswers": [
+            "Lindemann",
+            "The Lindemann"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This incredibly important formula states that subtracting one from e raised to the power pi times i equals zero, thus relating the five most important numbers in mathematics",
+          "answer": "Euler",
+          "acceptableAnswers": [
+            "Euler",
+            "The Euler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Euler's Theorem can be derived using one of these series expansions for functions about a point, which when centered on the number zero are known as MacLaurin series.",
+          "answer": "Taylor series",
+          "acceptableAnswers": [
+            "Taylor series",
+            "The Taylor series"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about your tournament editor's third favorite transcendental number, pi.",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596e8e"
+    },
+    {
+      "id": "7b2e8518-4ede-4673-8fac-de34518c2f13",
+      "linkedTossupId": "6aaffc45-d12e-4e09-9e29-b2bf819920be",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with sensory receptors.",
+          "answer": "cranial nerve",
+          "acceptableAnswers": [
+            "cranial nerve"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cranial nerve in the nervous system?",
+          "answer": "Sensory receptors",
+          "acceptableAnswers": [
+            "Sensory receptors"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to sensory receptors.",
+          "answer": "vagus nerve",
+          "acceptableAnswers": [
+            "vagus nerve"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ff6d968e-01bf-425e-9e4f-fb8635532ef8",
+      "linkedTossupId": "74c2cbfb-00bd-4b98-b28d-2fb21a68f45f",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this novel whose protagonist is brought to the Magic Theatre by a jazz saxophonist named Pablo.",
+          "answer": "Steppenwolf",
+          "acceptableAnswers": [
+            "Steppenwolf",
+            "The Steppenwolf"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Steppenwolf was written by this German author of The Glass Bead Game and Siddhartha.",
+          "answer": "Hesse",
+          "acceptableAnswers": [
+            "Hesse",
+            "The Hesse"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A number of Hesse's characters, including Vasudeva from Siddhartha and Goldmund from Narcissus and Goldmund, join the narrator in a group searching for the \"ultimate Truth\" in this penultimate Hesse novella.",
+          "answer": "Journey to the East",
+          "acceptableAnswers": [
+            "Journey to the East",
+            "Die Morgenlandfahrt",
+            "The Journey to the East"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The protagonist of this novel receives an invitation to an \"Anarchist Evening\" at a place described as being \"For Madmen Only, Price of Admission Your Mind\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34f1d"
+    },
+    {
+      "id": "34342c61-8fae-4737-afe3-10329e3d24a6",
+      "linkedTossupId": "34131b57-bd36-49f6-9fdf-f52101376914",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "\"Forbidden\" green spectral lines initially thought to be emitted by a new element, \"nebulium,\" were instead due to a doubly ionized version of this element that could only exist in low-density space. This element's unionized (\"UN-i-on-ized\") form has 8 total electrons.",
+          "answer": "oxygen",
+          "acceptableAnswers": [
+            "oxygen",
+            "The oxygen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Variable stars change brightness due to the kappa-mechanism, changes between this element's singly and doubly ionized forms, which have different opacity, at their outer portion.",
+          "answer": "helium",
+          "acceptableAnswers": [
+            "helium",
+            "The helium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Regions of the doubly ionized form of this element tend to be giant molecular clouds and hotspots of star formation. This element is the lightest and most abundant one in the universe.",
+          "answer": "hydrogen",
+          "acceptableAnswers": [
+            "hydrogen",
+            "The hydrogen"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name the following doubly-ionized elements in space.",
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144d6c"
+    },
+    {
+      "id": "fbd97077-a21f-4533-90f0-e7369d8e0b3f",
+      "linkedTossupId": "e9f734ae-2780-4355-bb0f-567931c897e5",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this war. The aggressors in this conflict sought to take advantage of the chaos following a coup by the Dergue in Ethiopia.",
+          "answer": "Ogaden",
+          "acceptableAnswers": [
+            "Ogaden",
+            "War in the Ogaden",
+            "prompt on “Ehtio-Somali War”",
+            "“Ethiopian-Somalia War”",
+            "The Ogaden"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This ruler of Somalia from 1969 until 1991 put his state under \"Scientific Socialism\" to attract aid from the Soviet Union. His eroding power base in the early '90s led his critics to derisively refer to him as the \"Mayor of Mogadishu\".",
+          "answer": "Barre",
+          "acceptableAnswers": [
+            "Barre",
+            "Maxamed Siyaad Barre",
+            "The Barre"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Latin American nation provided over 15,000 troops to Ethiopia during the Ogaden War. The 26th of July Movement in this country overthrew its dictator in 1959.",
+          "answer": "Cuba",
+          "acceptableAnswers": [
+            "Cuba",
+            "The Cuba"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The tides turned in this conflict when the Soviet Union switched the side it was backing, prompting a failed coup by members of the Majerteyn clan against the aggressor. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faaaa4"
+    },
+    {
+      "id": "07ba7e81-df29-4c0f-8d18-761bc1f148a4",
+      "linkedTossupId": "207ef248-5cc6-47e7-9b33-148f8948faa5",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this MIT professor and \"father of generative linguistics\". He is a key champion of the \"Universal Grammar\" hypothesis for language, and published a savage review of B.F. Skinner's Verbal Behavior in 1959.",
+          "answer": "Chomsky",
+          "acceptableAnswers": [
+            "Chomsky",
+            "The Chomsky"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chomsky is most renowned for his work in this subfield of linguistics, the study of sentence structure. He developed Government and Binding Theory and later the Minimalist Program to explain this sub-field.",
+          "answer": "syntax",
+          "acceptableAnswers": [
+            "syntax",
+            "The syntax"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In his book Syntactic Structures, Chomsky famously uses this syntactically correct, but semantically nonsensical sentence to show how syntax operates separately from meaning.",
+          "answer": "colourless green ideas sleep furiously",
+          "acceptableAnswers": [
+            "colourless green ideas sleep furiously",
+            "The colourless green ideas sleep furiously"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man co-wrote The Sound Pattern of English with Morris Halle, extending the theory of generative grammar to phonology. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6413cd99fdc648a1ed7095f0"
+    },
+    {
+      "id": "1bc47ad1-a348-4986-93ec-04e12c11de19",
+      "linkedTossupId": "2576bca4-016f-4fe0-b580-b9dc3e8e132a",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this dynasty. Iron-tipped stakes that were only revealed during low tide prevented this dynasty's navy from retreating at the Second Battle of Bạch Đằng (\"bek dung\").",
+          "answer": "Yuan",
+          "acceptableAnswers": [
+            "Yuan",
+            "Mongol dynasty",
+            "The Yuan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This present-day country's Trần dynasty fended off two invasions from the Yuan dynasty. The Trung Sisters had earlier rebelled against the Han dynasty in this country.",
+          "answer": "Vietnam",
+          "acceptableAnswers": [
+            "Vietnam",
+            "The Vietnam"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During the Lam Son uprising, this Vietnamese leader successfully rebelled against the Ming dynasty. This leader legendarily possessed the sword \"Heaven's Will,\" allowing him to change his height at will.",
+          "answer": "Lê Lợi",
+          "acceptableAnswers": [
+            "Lê Lợi",
+            "Lê",
+            "The Lê Lợi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This dynasty's general Nasr al-Din participated in its invasion of Burma. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae523"
+    }
+  ]
+}

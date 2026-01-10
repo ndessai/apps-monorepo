@@ -1,0 +1,1162 @@
+{
+  "packetId": "packet-024",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Social Science",
+    "History",
+    "Human Body",
+    "Fine Arts",
+    "Geography",
+    "Science",
+    "Literature"
+  ],
+  "tossups": [
+    {
+      "id": "01004317-e3c4-46b4-8765-94c0569007ba",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "Allan G. Johnson analogized this system's branching components to a tree in a book subtitled for unraveling its legacy. A 1984 Donna Haraway essay claims that the Akeley African Hall in the Museum of Natural History is an exemplar of this system's \"Teddy Bear\" form. A social \"dividend\" named for this system that benefits even \"marginal\" and \"complacent\" persons was described by Raewyn Connell in the context of a \"hegemonic\" identity that reinforces it. In a book on Biblical interpretation, Elisabeth Schüssler Fiorenza coined a term with the prefix \"kyr-\" for the intersectional extension of this system. bell hooks prepended \"imperialist-white-supremacist-capitalist\" to the name of this system, which is maintained by a \"politics\" that titles the magnum opus of Kate Millet. For 10 points, a feminist slogan advocates \"smashing\" what system of societal domination by men?",
+      "powerMarkPosition": 415,
+      "answer": "patriarchy",
+      "acceptableAnswers": [
+        "patriarchy",
+        "word forms such as patriarchal",
+        "accept patriarchal dividend",
+        "accept the tree of patriarchy",
+        "accept variants with additional prefixes",
+        "such as cisheteropatriarchy",
+        "accept anything about smashing the patriarchy",
+        "accept “Teddy Bear Patriarchy”",
+        "prompt on sexual discrimination",
+        "gender-based discrimination",
+        "prompt on descriptive answers about male domination of society",
+        "prompt on masculinity with “what system does that reinforce?”",
+        "The patriarchy"
+      ],
+      "source": "qbreader",
+      "sourceId": "67e338db63ef71fce09dfb09"
+    },
+    {
+      "id": "f7b02165-27f4-4f7d-9650-08242a0690bc",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "This law was strengthened by the passing of the Hatch Act, which provided funds for \"experimental stations.\" The original bill was vetoed by Buchanan, but passed by Lincoln five years later. Its creator, a Vermont Republican, wanted each state to be given thirty thousand acres to be sold off as a permanent endowment for the teaching of \"useful knowledge.\" For 10 points, identify this 1862 law that spurred the creation of schools dedicated to the study of \"agricultural and mechanic arts.\"",
+      "powerMarkPosition": 190,
+      "answer": "Morril",
+      "acceptableAnswers": [
+        "Morril",
+        "Morril Land Grant Act",
+        "The Morril"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9841050"
+    },
+    {
+      "id": "425ea557-5f48-47d0-aaf2-b4a488ce1aa7",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for esophagus and swallowing. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this esophagus-related structure.",
+      "powerMarkPosition": 98,
+      "answer": "Esophagus",
+      "acceptableAnswers": [
+        "esophagus",
+        "Esophagus"
+      ],
+      "explanation": "The esophagus is a key component of the Digestive system, involved in esophagus and swallowing.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "6593423c-e14a-49e0-948c-4fce3fb40c4e",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "The \"Great Compression\" had low levels of this condition. Emmanuel Saez and Gabriel Zucman are Berkeley economists who primarily study this condition. This condition arises when returns on capital exceed the rate of growth, or \"r is greater than g,\" according to Capital in the Twenty-First Century by Thomas Piketty. The Lorenz curve graphs the extent of this condition, which is quantified in the Gini (\"JI-nee\") coefficient. Progressive taxation aims to reduce this condition. The Occupy protests centered around high levels of this condition summarized in the phrase, \"We are the 99%.\" For 10 points, name this economic condition of uneven distribution of resources.",
+      "powerMarkPosition": 321,
+      "answer": "inequality",
+      "acceptableAnswers": [
+        "inequality",
+        "income inequality",
+        "wealth inequality",
+        "The inequality"
+      ],
+      "source": "qbreader",
+      "sourceId": "69390703f4e555b63742117b"
+    },
+    {
+      "id": "930dcf52-0694-44d8-90a9-5fefc6240fae",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "The Self-portrait, found in Florence, is atypical of this artist's work, which is more accurately characterized by canvases like Plowing in the Nivernais and the collections at a namesake museum in Fontainebleau. Late in life this artist traveled to Scotland to paint Highland scenes, much like her friend and chief rival Edwin Landseer. Studies for her most famous work, an enormous 1853 canvas, were made while she was disguised as a man at its namesake location. The first woman admitted to the French Legion of Honor, FTP, identify this painter of animal scenes, a native of Bordeaux who produced The Horse Fair.",
+      "powerMarkPosition": 337,
+      "answer": "Bonheur",
+      "acceptableAnswers": [
+        "Bonheur",
+        "The Bonheur"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d9443bcb996cf5df5a82c9"
+    },
+    {
+      "id": "e9a36f0d-dd7f-458b-a4b2-4079b8d3a50f",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "In one work, David Harvey argues that this concept \"annihilates space to ensure its own reproduction\". A work whose title ends with this concept defines it using analysis of Benjamin Franklin's \"philosophy of avarice\". That work explains the development of this concept on the rise of Calvinism and analyses this concept's \"spirit\". In one work, Karl Marx claims that this economic system will eventually fail due to a decline in profits. Max Weber defined the \"spirit\" of this concept. For 10 points, what is this economic system often contrasted with socialism?",
+      "powerMarkPosition": 218,
+      "answer": "capitalism",
+      "acceptableAnswers": [
+        "capitalism",
+        "capital",
+        "The capitalism"
+      ],
+      "source": "qbreader",
+      "sourceId": "6413cd9afdc648a1ed709951"
+    },
+    {
+      "id": "27875ebe-0d74-401a-a87c-16b952f878bd",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "The \"Gang of 14\" reached an agreement to end several of these events and to prohibit their use except under \"extraordinary circumstances.\" Mitch McConnell was the first person in history to invoke this procedure against himself during a debate on the debt ceiling crisis. In 2013, the deployment of the \"nuclear option\" prevented these events from happening during the confirmation of non-Supreme Court appointed officials. Rand Paul used this tactic to delay the appointment of John Brennan as Director of the CIA. For 10 points, name this legislative procedure that can be defeated when cloture is reached.",
+      "powerMarkPosition": 271,
+      "answer": "filibuster",
+      "acceptableAnswers": [
+        "filibuster",
+        "“talking a bill to death” from British players",
+        "The filibuster"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfebeb"
+    },
+    {
+      "id": "2130609b-026d-424f-8d16-1a9a81d588e6",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "Archaeologist Betty Meggers's book on this region argued that it was never densely populated. Since the 1980s, the 364 highway has increased population density in this region despite empate (\"em-PA-chih\") protests by the \"Gandhi\" of this region, who was assassinated in 1988. A president serving in the 1950s sought to exploit the cassiterite deposits of this \"unproductive and empty\" region; more recently, one government has lifted the ban on correntão, a practice where two tractors are chained together to \"improve\" land in this region. This region was subject to the \"March to the West\" in the 1930s by dictator Getúlio Vargas and has more recently been clear cut for soy fields under presidents like Michel Temer (\"mee-SHELL TAY-mair\") and Jair Bolsonaro (\"ja-EER boh-soh-NAH-roo\"). For 10 points, name this Brazilian rainforest.",
+      "powerMarkPosition": 476,
+      "answer": "Amazon",
+      "acceptableAnswers": [
+        "Amazon",
+        "Amazonas state",
+        "Amazon jungle",
+        "Amazonia",
+        "accept Brazilian rainforest before the end",
+        "prompt on Western Brazil before the end",
+        "The Amazon"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed60f71539231f571edb8f"
+    },
+    {
+      "id": "c3818a6a-6d70-4d37-a0fd-e83c3d9064a5",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "The potentiometric (\"poh-ten-shee-oh-meh-trik\") surface describes how high some types of these structures would rise if not for the presence of confining beds. A slug test measures these structures'hydraulic heads to determine their storativity. Extracting beyond the equilibrium yield of one of these structures, known as overdrafting, can result in land subsidence and saltwater intrusion. Examples of these structures include the Great Artesian Basin and the Ogallala. For 10 points, wells often access what water-containing permeable rock layers?",
+      "powerMarkPosition": 322,
+      "answer": "aquifer",
+      "acceptableAnswers": [
+        "aquifer",
+        "The aquifer"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f7237f56e0dff73abeba8"
+    },
+    {
+      "id": "0f60df88-f8e8-489f-9935-2b60fe40b3e1",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "Programs that track this phenomenon include CompStat, which has been criticized for data manipulation and lack of impact. John Donohue and Steven Levitt claimed that this phenomenon was reduced following Roe v. Wade and popularized that claim in Freakonomics. Social pressures lead to this phenomenon according to Robert K. Merton's strain theory, while visible signs of this phenomenon encourage more of it according to the broken windows theory. The white-collar type of this behavior includes racketeering and embezzlement. For 10 points, name this behavior in which people break the law.",
+      "powerMarkPosition": 332,
+      "answer": "crime",
+      "acceptableAnswers": [
+        "crime",
+        "equivalents like committing crimes",
+        "accept specific crimes like vandalism",
+        "prompt on deviance",
+        "The crime"
+      ],
+      "source": "qbreader",
+      "sourceId": "6727fb440a73c65be67f7795"
+    },
+    {
+      "id": "8ed145c9-fca5-4c74-8fa5-19e0a7a4b7b1",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "Philippe Pétremant folds these things to create portraits. A \"security thread\" is found in some of these things, which can be marked with iodine-based ink to determine their authenticity. A texture is found on part of Andrew Jackson's body, which is depicted on one of these things. \"Benjamins\" are a slang term for a large denomination of, for 10 points, what pieces of paper that can be exchanged for goods or services?",
+      "powerMarkPosition": 224,
+      "answer": "cash",
+      "acceptableAnswers": [
+        "cash",
+        "money",
+        "currency",
+        "accept banknotes",
+        "bills",
+        "notes",
+        "accept dollars",
+        "do not accept",
+        "prompt on \"coins\"",
+        "The cash"
+      ],
+      "source": "qbreader",
+      "sourceId": "65666e00443a0a5dea0044be"
+    },
+    {
+      "id": "af99fe19-27b2-427e-901c-e5a906652960",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This composer of the oratorio The Seasons also wrote a melody on which the German anthem was based, God save Franz the Emperor. His symphonies numbers 6, 7, and 8 are titled Morning, Noon, and Evening respectively, and he also wrote a series of six \"Paris Symphonies.\" His Farewell Symphony was composed when he took leave of Prince Esterhazy, but he is perhaps better known for another oratorio that depicts the birth of the world as described in the Book of Genesis. The composer of the Miracle, Military, Surprise, and Clock symphonies, for 10 points, identify this Austrian composer of the oratorio The Creation and the \"London Symphonies.\"",
+      "powerMarkPosition": 468,
+      "answer": "Haydn",
+      "acceptableAnswers": [
+        "Haydn",
+        "The Haydn"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0d09"
+    },
+    {
+      "id": "b0f3077d-54b6-415d-a908-b105505cb8f1",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "Jan Tinbergen applied Newton's law of universal gravitation to predict the magnitude of this phenomenon. Leontief's paradox refutes the Hecksher-Ohlin model of this phenomenon in labor and capital intensive countries. Gains from this phenomenon come from lower opportunity costs of production according to David Ricardo's theory of comparative advantage. In the 17th century, restrictions on this action in European colonies promoted the economic policy of mercantilism, which sought to maximize exports and minimize imports. In recent years, the \"free\" variety of this practice has been promoted by agreements like NAFTA. For 10 points, name this exchange of goods and services between countries.",
+      "powerMarkPosition": 331,
+      "answer": "trade",
+      "acceptableAnswers": [
+        "trade",
+        "The trade"
+      ],
+      "source": "qbreader",
+      "sourceId": "65de63f0ffe1839107b63723"
+    },
+    {
+      "id": "07e527ef-cac1-4cca-9832-10b120cc638e",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "high_school",
+      "text": "One of these conflicts began while an army was deployed to decide the \"eastern question\" once and for all, and was exacerbated by the governor Rufus. Josephus was a prominent historian of these conflicts, and one of these conflicts ended in a mass suicide after the invaders built a causeway to capture the fortress of Masada. The Sicarii and Zealots agitated to begin one of these conflicts, and Simon bar Kokhba led one of these conflicts in a certain Middle Eastern Roman province. For 10 points, describe these military insurrections that occurred in the province of Judea and tended to cause the destruction of Jerusalem.",
+      "powerMarkPosition": 318,
+      "answer": "Jewish revolt",
+      "acceptableAnswers": [
+        "Jewish revolt",
+        "The Jewish revolt"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc3d4"
+    },
+    {
+      "id": "bd54fdfa-7a58-4f48-a84d-ce5a34bb2d35",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "This property can be measured using a Zahn cup, and for special cases, shear stress can be calculated as the product of shear strain and this property. Measuring this is the goal of the pitch drop experiment, and one unit this quantity is measured in is poise. Stokes' law gives drag force for a spherical object as six pi times radius times velocity times this property, and the Reynolds number is the ratio of inertial forces to forces caused by this. This property has a constant value for Newtonian fluids, and it exists in kinematic and dynamic forms. For 10 points, name this term for a fluid's resistance to flow.",
+      "powerMarkPosition": 260,
+      "answer": "Viscosity",
+      "acceptableAnswers": [
+        "Viscosity",
+        "The Viscosity"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe743"
+    },
+    {
+      "id": "b5838e43-fbee-46b9-ba9c-967cc3e4ecd6",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "The domes El Solo and El Fraile are found on this peak. The Barranca Blanca is a canyon on its northwest slope. Portuzuelo Negro (por-tu-SWAY-lo NE-gro) is a source of desperately needed water during the ascent of this peak. A modified vehicle race to the top of this peak uses the highest four-wheel drive road in the world and was nearly completed in 2007. That road ends at Refugio Tejos (re-FOO-hi-yo TE-hos), although most climbers stop at the canyon of the Cazadero de Quemadito (ca-sa-DE-ro de ke-ma-DEE-to), following which its first field of penitentes is encountered at Agua de las Vicuñas. Volcán El Muerto is a side vent of this peak. A dispute considering the height of nearby Monte Pissis involves a local record held by this mountain, and a better-known record, in the absence of fumarolic activity, would be held by Llullaillaco (yu-ya-YA-ko). For 10 points, name this tallest active volcano in the world, the highest point in Chile, named for an anthropomorphic feature that forms at the intersection of its glacial lakes and its halite deposits.",
+      "powerMarkPosition": 358,
+      "answer": "Ojos del Salado",
+      "acceptableAnswers": [
+        "Ojos del Salado",
+        "The Ojos del Salado"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff630"
+    },
+    {
+      "id": "94defe2a-6f39-4678-8d6d-cc57b0df6370",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "This country was the setting for Guillermo Cabrera Infante's experimental novel Tres Tristes Tigres, which features a section titled \"Some Revelations\" which comprises blank pages. Reinaldo Arenas described government persecution based on his open homosexuality in this country in his autobiography Before Night Falls. The Latin American Boom author of the novel The Kingdom of This World, Alejo Carpentier, lived his adult life in this country. A poem from the collection Versos Sencillos has been adopted as this country's unofficial national song. For 10 points, \"Guantanamera\" by Jose Marti describes a woman from what Caribbean country's city of Guantanamo?",
+      "powerMarkPosition": 318,
+      "answer": "Cuba",
+      "acceptableAnswers": [
+        "Cuba",
+        "The Cuba"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b53106"
+    },
+    {
+      "id": "98528abf-9cfd-4bd0-8466-d986112c2d96",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "The title character serves in Reverend Soulis's manse in this author's \"Thrawn Janet,\" from The Merry Men. Keawe sells a container with an inexhaustible supply of whiskey in his The Bottle Imp. He wrote about a protagonist who marries James More's daughter after Alan Breck Stewart is falsely convicted of the Appin murder, in Catriona. He wrote of James Durie joining the Jacobite Uprising, and of Captain Hoseason purchasing David Balfour. In another novel of his, Jim Hawkins meets Long John Silver. For 10 points, who wrote The Master of Ballantrae, Kidnapped, and Treasure Island?",
+      "powerMarkPosition": 336,
+      "answer": "Stevenson",
+      "acceptableAnswers": [
+        "Stevenson",
+        "The Stevenson"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1650"
+    },
+    {
+      "id": "b76f5a63-8e2b-4885-a5b4-3add01f74814",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "Lord Paul Rziczan read a letter aloud at this event before whipping out his pistols and firing a warning shot. Another participant in this event yelled \"Jesus\" and \"Mary\" repeatedly while another had his fingers smashed first. Three sandstones mark the place of this event during which Filip Fabricius earned the nickname \"von Hohenfall.\" The causes of this event stemmed from a document issued by Rudolf II that was later ignored by Ferdinand II. That document, the Letter of Majesty, was the subject of the trial of William Slavata and Jaroslav Marinic who were involved in this event, which took place at Hradcany Castle. Although participants in this event later claimed to be saved by divine intervention, their enemies claimed they instead fell in horse manure. For 10 points, name this event which sparked the Thirty Years' War during which three men were thrown from a window in Bohemia.",
+      "powerMarkPosition": 433,
+      "answer": "Defenestration of Prague",
+      "acceptableAnswers": [
+        "Defenestration of Prague",
+        "just the underlined portion",
+        "but do not accept “First Defenestration of Prague”",
+        "“Prague Defenestration 1.5: Zero Gravity Edition”",
+        "any other wrong answers",
+        "The Defenestration of Prague"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97422781"
+    },
+    {
+      "id": "a75f7363-060f-4e32-9475-b44ebcbe5b95",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "C. J. Foot described the methodology behind this technique, which requires two counter-propagating linear polarizations. This technique can approach, but not reach, the (**) recoil limit. Optical molasses can be explained by this technique's principle, which was developed by Claude Cohen-Tannoudji. For 10 points, name this mythologically-named laser cooling technique in which atoms are cooled below the Doppler limit.",
+      "powerMarkPosition": 282,
+      "answer": "Sisyphus",
+      "acceptableAnswers": [
+        "Sisyphus",
+        "“polarization gradient cooling”",
+        "prompt on “laser cooling”",
+        "I guess prompt on “Doppler cooling” until read",
+        "The Sisyphus"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b530e2"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "9a003d37-2577-4acc-be37-4d0350939614",
+      "linkedTossupId": "01004317-e3c4-46b4-8765-94c0569007ba",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this type of financial contract, which is typically divided into \"call\" and \"put\" varieties.",
+          "answer": "option",
+          "acceptableAnswers": [
+            "option",
+            "The option"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This model uses a stochastic differential equation to determine the appropriate premium for a call option. Robert Merton, who independently derived it, shared the 1997 Nobel Prize in Economics with one of its developers.",
+          "answer": "Black-Scholes",
+          "acceptableAnswers": [
+            "Black-Scholes",
+            "Black and Scholes",
+            "the names in reverse order",
+            "The Black-Scholes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the assumptions of the Black-Scholes model is that the option is of this type, which allows the buyer to purchase or sell an asset only on the day the option expires.",
+          "answer": "European",
+          "acceptableAnswers": [
+            "European",
+            "The European"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These contracts allow, but do not require, one party to buy or sell something at the strike price. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382b35c9cc87abdd9a5a52e"
+    },
+    {
+      "id": "ebad0105-9409-4ad9-a349-6a4ee624ac00",
+      "linkedTossupId": "f7b02165-27f4-4f7d-9650-08242a0690bc",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this viral disease eradicated in the 20th century. This disease causes tiny white scarring pustules to appear all over.",
+          "answer": "smallpox",
+          "acceptableAnswers": [
+            "smallpox",
+            "variola",
+            "prompt on pox",
+            "The smallpox"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This English physician developed a smallpox vaccine after observing that milkmaids tended not to get smallpox. He tested it on a boy named James Phipps.",
+          "answer": "Jenner",
+          "acceptableAnswers": [
+            "Jenner",
+            "The Jenner"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A 1904 revolt in this country protested compulsory vaccination against smallpox. At the time, this country was in its coffee-with-milk politics era.",
+          "answer": "Brazil",
+          "acceptableAnswers": [
+            "Brazil",
+            "the Federative Republic of Brazil",
+            "The Brazil"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One method of preventing this disease, called inoculation (\"ih-NOK-yoo-LAY-shun\"), was taught by the slave Onesimus (\"oh-NESS-ih-mus\") to Cotton Mather (\"MAH-thur\"). For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68b2ff0d8940d9f7c563a161"
+    },
+    {
+      "id": "c73df330-1e2f-4fa1-97e1-2b294ec8f4da",
+      "linkedTossupId": "425ea557-5f48-47d0-aaf2-b4a488ce1aa7",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with autonomic nervous system.",
+          "answer": "cranial nerve",
+          "acceptableAnswers": [
+            "cranial nerve"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cranial nerve in the nervous system?",
+          "answer": "Autonomic nervous system",
+          "acceptableAnswers": [
+            "Autonomic nervous system"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to autonomic nervous system.",
+          "answer": "vagus nerve",
+          "acceptableAnswers": [
+            "vagus nerve"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "32a4aa08-d077-4184-85bc-fb740e656d0a",
+      "linkedTossupId": "6593423c-e14a-49e0-948c-4fce3fb40c4e",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this monetarist who asserted that state control of markets limits political rights in Capitalism and Freedom.",
+          "answer": "Friedman",
+          "acceptableAnswers": [
+            "Friedman",
+            "The Friedman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Friedman was a member of this school of economics that, like the Austrian school, promoted free market libertarianism.",
+          "answer": "Chicago",
+          "acceptableAnswers": [
+            "Chicago",
+            "The Chicago"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Friedman's criticism of the Phillips curve was prompted by this market condition during the 70s in which both inflation and unemployment were high.",
+          "answer": "Stagflation",
+          "acceptableAnswers": [
+            "Stagflation",
+            "The Stagflation"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He argued that free markets promote cooperation while government intervention engendered conflict in his book Free to Choose. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe57e"
+    },
+    {
+      "id": "6614d527-f5a8-4a2f-9706-f361ddba6255",
+      "linkedTossupId": "930dcf52-0694-44d8-90a9-5fefc6240fae",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this text often illustrated by medieval Spanish artists to accompany Beatus of Liébana's commentary on it. Those illustrations depict figures like the Four Horsemen from this apocalyptic book of the Bible.",
+          "answer": "Revelation",
+          "acceptableAnswers": [
+            "Revelation",
+            "The Revelation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The bold primary colors of the paintings in the Beatus codices (\"KO-dih-seez\") exemplify this art style, the complement of the Mudéjar (\"moo-DEH-zhar\") style. This term denotes the Islamic-art-influenced work produced by Iberian Christians.",
+          "answer": "Mozarab",
+          "acceptableAnswers": [
+            "Mozarab",
+            "repoblación art",
+            "repopulation art",
+            "The Mozarab"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Meyer Schapiro also exposed this artist to the Morgan Beatus, likely influencing his \"sectionals\" paintings. The paintings that this artist created for the Four Seasons Restaurant in the Seagram Building were never installed.",
+          "answer": "Rothko",
+          "acceptableAnswers": [
+            "Rothko",
+            "The Rothko"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Meyer Schapiro supposedly shaped Fernand Léger's style by taking him to see a set of illustrations of this text that Belle da Costa Greene obtained for the Morgan Library. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6326bf0f692d593d1d7a902e"
+    },
+    {
+      "id": "98564c9f-c21e-4948-9925-cd8b034a285b",
+      "linkedTossupId": "e9a36f0d-dd7f-458b-a4b2-4079b8d3a50f",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Give this general term for formal systems of governance, usually associated with public administration. Idiomatically, the burden of paperwork associated with these systems is called \"red tape.\"",
+          "answer": "bureaucracy",
+          "acceptableAnswers": [
+            "bureaucracy",
+            "The bureaucracy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This German sociologist formalized the study of bureaucracies in his book The Protestant Work Ethic and the Spirit of Capitalism.",
+          "answer": "Weber",
+          "acceptableAnswers": [
+            "Weber",
+            "The Weber"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Weber (\"vay-ber\") warned of the \"icy darkness\" that could befall society if bureaucratization ran amok using this metaphor. In this concept of Weber's, people are trapped in service of rationalization above their personal life.",
+          "answer": "iron cage",
+          "acceptableAnswers": [
+            "iron cage",
+            "iron cage of bureaucracy",
+            "The iron cage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The sociological tract Economy and Society defines these systems as having hierarchical organization and a rigid division of labor. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f1bd4b1d1753da7fbbfa78"
+    },
+    {
+      "id": "807b8b74-4ea8-4281-980b-f43917844bae",
+      "linkedTossupId": "27875ebe-0d74-401a-a87c-16b952f878bd",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this southern African kingdom who stunningly defeated the British in that war's initial battle of Isandlwana but ultimately lost the war and their independence.",
+          "answer": "Zulu",
+          "acceptableAnswers": [
+            "Zulu",
+            "equivalents",
+            "The Zulu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This most prominent Zulu leader and military leader is credited with creating the \"bull horn\" formation as well as uniting the Mthethwa Paramountcy and Ndwandwe into the Zulu Kingdom.",
+          "answer": "Shaka",
+          "acceptableAnswers": [
+            "Shaka",
+            "Shaka kaSenzangakhona",
+            "The Shaka"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Shaka is credited with beginning this period of widespread warfare in southern Africa between 1815 and 1840, although it primarily refers to the period of Mzilikazi's domination of the Transvaal.",
+          "answer": "Mfecane",
+          "acceptableAnswers": [
+            "Mfecane",
+            "Difaqane",
+            "Lifaqane",
+            "accept The Crushing",
+            "accept The Scattering",
+            "The Mfecane"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This people's King Cetshwayo waged a war against the British in 1879. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d90d"
+    },
+    {
+      "id": "4804d6bc-afaf-44a5-b2ec-ed85870b4fbf",
+      "linkedTossupId": "2130609b-026d-424f-8d16-1a9a81d588e6",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this French Neolithic monument that is divided into Kermario, Kerlescan, and Ménec alignments.",
+          "answer": "Carnac",
+          "acceptableAnswers": [
+            "Carnac",
+            "The Carnac"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Carnac Stones are located in this French province, where Nantes is the largest city. This province is located to the southwest of Normandy and is home to a sizable population of Celts.",
+          "answer": "Brittany",
+          "acceptableAnswers": [
+            "Brittany",
+            "The Brittany"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The A344 and A303 roads pass near this other megalithic monument in Wiltshire, England.",
+          "answer": "Stonehenge",
+          "acceptableAnswers": [
+            "Stonehenge",
+            "The Stonehenge"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One Christian myth states that Pope Cornelius turned soldiers pursuing him to these objects. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a8894"
+    },
+    {
+      "id": "93584000-9397-4e37-bc40-4c2df835fa3d",
+      "linkedTossupId": "c3818a6a-6d70-4d37-a0fd-e83c3d9064a5",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The block does not sink through the plane thanks to this force perpendicular to a surface.",
+          "answer": "normal",
+          "acceptableAnswers": [
+            "normal",
+            "The normal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The block will start moving when the static coefficient of friction is exceeded by this combination of a trigonometric function and a physical measurement.",
+          "answer": "tan",
+          "acceptableAnswers": [
+            "tan",
+            "The tan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The block is modified so that it keeps the same mass but now has a four times larger surface area. The magnitude of the frictional force on the new block will have this relationship to the force in the original system.",
+          "answer": "unchanged",
+          "acceptableAnswers": [
+            "unchanged",
+            "the same",
+            "related by a factor of one",
+            "The unchanged"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about a stationary block on an inclined plane.",
+      "source": "qbreader",
+      "sourceId": "64d81df703b5396be475931f"
+    },
+    {
+      "id": "e6ad3671-c6bf-40e1-ba2f-b06dfe1732cc",
+      "linkedTossupId": "0f60df88-f8e8-489f-9935-2b60fe40b3e1",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this property of a person that is measured by namesake traits. The Myers-Briggs test gives archetypes of this like ENTJ.",
+          "answer": "personality",
+          "acceptableAnswers": [
+            "personality",
+            "The personality"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another personality test is this university's namesake \"multiphasic personality inventory.\" A twin study at this university found that twins separated at birth had the same chance of being similar as twins raised together.",
+          "answer": "Minnesota",
+          "acceptableAnswers": [
+            "Minnesota",
+            "MMPI",
+            "The Minnesota"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Harvard psychologist created a three-tiered model of personality and was a pioneer of \"trait theory.\" This thinker also created a five point scale to measure prejudice.",
+          "answer": "Allport",
+          "acceptableAnswers": [
+            "Allport",
+            "The Allport"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This quality was split into 16 dimensions by Raymond Cattell. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "664d3b267fccf73196050248"
+    },
+    {
+      "id": "765fa7a3-2390-494b-aac1-4b46bc96120e",
+      "linkedTossupId": "8ed145c9-fca5-4c74-8fa5-19e0a7a4b7b1",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this idealized model of an economic market in which only one seller controls the production of a given product.",
+          "answer": "monopoly",
+          "acceptableAnswers": [
+            "monopoly",
+            "The monopoly"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Monopolies are sometimes compared to these associations of producers that cooperate to keep prices high. OPEC is a textbook example of one of these organizations in the oil market.",
+          "answer": "cartel",
+          "acceptableAnswers": [
+            "cartel",
+            "The cartel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This theoretical situation is the exact opposite of a monopoly. In this type of market, there are large numbers of producers and consumers, and every stakeholder has enough information to make rational decisions.",
+          "answer": "perfect competition",
+          "acceptableAnswers": [
+            "perfect competition",
+            "The perfect competition"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A firm in this market situation has a Herfindahl index of 1.0. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eeadce1032cda62a67741e"
+    },
+    {
+      "id": "ea4527f9-0857-4c66-8d35-a7235889e2a4",
+      "linkedTossupId": "af99fe19-27b2-427e-901c-e5a906652960",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This American painted several \"symphonies\" and \"nocturnes\" in different colors, as well as \"Arrangement in Gray and Black,\" a portrait of this artist's mother.",
+          "answer": "Whistler",
+          "acceptableAnswers": [
+            "Whistler",
+            "The Whistler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This artist loved painting trains and boats, as in Rain, Steam, and Speed: The Great Western Railway and The Slave Ship.",
+          "answer": "Turner",
+          "acceptableAnswers": [
+            "Turner",
+            "The Turner"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This American Impressionist painted scenes of family life in works like The Child's Bath and The Boating Party.",
+          "answer": "Cassatt",
+          "acceptableAnswers": [
+            "Cassatt",
+            "The Cassatt"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify some people who painted a lot of the same things, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "663809d0867240107e0f1e9f"
+    },
+    {
+      "id": "5fc3c552-df37-4253-941d-5be622edde2b",
+      "linkedTossupId": "b0f3077d-54b6-415d-a908-b105505cb8f1",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this entity, used to store value and to facilitate transactions. The M1 is the measure of its supply.",
+          "answer": "money",
+          "acceptableAnswers": [
+            "money",
+            "The money"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Baumol-Tobin model determines demand for money by optimizing interest earnings against this quantity, incurred as a result of each withdrawal. Ronald Coase explained how examples of this quantity associated with information or enforcement drive the formation of firms.",
+          "answer": "transaction cost",
+          "acceptableAnswers": [
+            "transaction cost",
+            "partial answer",
+            "The transaction cost"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Baumol-Tobin model predicts that this quantity increases with interest rates. This quantity is the frequency at which money changes hands, and in early quantity theories of money it was believed to be constant.",
+          "answer": "velocity",
+          "acceptableAnswers": [
+            "velocity",
+            "velocity of circulation",
+            "The velocity"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a liquidity trap, demand for this entity is infinitely elastic with respect to interest rates. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54adaed"
+    },
+    {
+      "id": "660097af-a5f9-45af-a552-67e87051607d",
+      "linkedTossupId": "07e527ef-cac1-4cca-9832-10b120cc638e",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Give this term that applies to a river and the region it runs through, which was colonized by King Leopold II of Belgium.",
+          "answer": "Congo",
+          "acceptableAnswers": [
+            "Congo",
+            "The Congo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After this dictator took power in the Democratic Republic of the Congo, he renamed it Zaire. He is known for wearing a leopard-print hat.",
+          "answer": "Mobutu",
+          "acceptableAnswers": [
+            "Mobutu",
+            "Joseph-Desire Mobutu",
+            "The Mobutu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mobutu gained power after he overthrew this man, the first Prime Minister of the DRC, in a coup. The secession of Katanga occurred while he was in power.",
+          "answer": "Lumumba",
+          "acceptableAnswers": [
+            "Lumumba",
+            "The Lumumba"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This term has at times been applied to a Free State, a Democratic Republic, and a Republic. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43aa13"
+    },
+    {
+      "id": "b14aab1f-b0c6-4f43-9c35-eadf11863d96",
+      "linkedTossupId": "bd54fdfa-7a58-4f48-a84d-ce5a34bb2d35",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This man's set of rules states that there are equal amounts of adenine and thymine, as well as equal amounts of cytosine and guanine, in DNA.",
+          "answer": "Chargaff",
+          "acceptableAnswers": [
+            "Chargaff",
+            "The Chargaff"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The structure of the double helix was elucidated by this pair of scientists, one American and one British. Their results were based on the X-ray diffraction work of Rosalind Franklin.",
+          "answer": "Watson",
+          "acceptableAnswers": [
+            "Watson",
+            "The Watson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This experiment demonstrated the semiconservative nature of DNA replication by growing E. coli in media with Nitrogen-15 before transfer N-14 media and separating replicated fragments by size.",
+          "answer": "Meselson-Stahl",
+          "acceptableAnswers": [
+            "Meselson-Stahl",
+            "either order of names",
+            "The Meselson-Stahl"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about the double helix for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841841"
+    },
+    {
+      "id": "0fbca055-2f50-45e0-ac1b-e5163b27617b",
+      "linkedTossupId": "b5838e43-fbee-46b9-ba9c-967cc3e4ecd6",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this planned smart city, slated to be the first completed section of NEOM (\"nay-OHM\") in Tabuk (\"tuh-BOOK\") Province. The unique shape of this city's plan may have been inspired by Spanish urban planner Arturo Soria y Mata (\"SOR-yuh ee MAH-tuh\").",
+          "answer": "Line",
+          "acceptableAnswers": [
+            "Line",
+            "dha layin",
+            "The Line"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Line is in the northwest of this country, whose de facto leader is Muhammad bin Salman.",
+          "answer": "Saudi",
+          "acceptableAnswers": [
+            "Saudi",
+            "Kingdom of Saudi Arabia",
+            "Al-Mamlakah al-ʿArabīyah as-Suʿūdīyah",
+            "prompt on KSA",
+            "reject “Arabia”",
+            "The Saudi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The NEOM project aims to develop the coast of this arm of the Red Sea, and to cross it with a bridge to the Sinai Peninsula. The Straits of Tiran lead into this body of water, which is named for Jordan's only major port.",
+          "answer": "Aqaba",
+          "acceptableAnswers": [
+            "Aqaba",
+            "The Aqaba"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The plans for this city feature a three-leveled design with a bottommost layer consisting of tunnels for AI-driven vehicles and an upper layer consisting of pedestrian green space. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ede294c53e50a0513635c9"
+    },
+    {
+      "id": "ed5382f0-bd9e-4637-897f-528813893d6c",
+      "linkedTossupId": "94defe2a-6f39-4678-8d6d-cc57b0df6370",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "In this poem by Carol Ann Duffy, the narrator imagines that the \"bourgeoisie will coo // at such an image of a river-whore\". This poem ends with the narrator remarking \"it does not look like me\" in reference to an artist's completed product.",
+          "answer": "Standing Female Nude",
+          "acceptableAnswers": [
+            "Standing Female Nude",
+            "The Standing Female Nude"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other poem concludes by noting that \"they also serve those who only stand and wait\". The author of this poem also wrote [emphasize] another poem which notes that the mind \"can make a heav'n of hell, a hell of heav'n\".",
+          "answer": "When I consider how my light is spent",
+          "acceptableAnswers": [
+            "When I consider how my light is spent",
+            "The When I consider how my light is spent"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other poem describes how \"the cliffs of England stand\" and is about a place where \"ignorant armies clash by night\". A parody of this poem begins by saying \"So there stood Matthew Arnold and this girl\".",
+          "answer": "Dover Beach",
+          "acceptableAnswers": [
+            "Dover Beach",
+            "The Dover Beach"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "POV: You have two legs. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64828e4aba41c3cf3769350f"
+    },
+    {
+      "id": "4032b949-e95a-4997-bb74-8fd4cc10e4a1",
+      "linkedTossupId": "98528abf-9cfd-4bd0-8466-d986112c2d96",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Born in Ireland, when he moved to Paris, he began writing his works in French, then translating them into English. His tragicomic plays, such as \"Endgame\" and \"Krapp's Last Tape,\" won him great acclaim.",
+          "answer": "Beckett",
+          "acceptableAnswers": [
+            "Beckett",
+            "The Beckett"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "His play \"Arms and the Man\" displayed intellectual wit, but he did not achieve success with the people until such works as \"Man and Superman.\".",
+          "answer": "Shaw",
+          "acceptableAnswers": [
+            "Shaw",
+            "The Shaw"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "He collaborated with Yeats and Lady Gregory to organize the Abbey Theatre in 1904, which presented his 1907 work \"The Playboy of the Western World.\"",
+          "answer": "Synge",
+          "acceptableAnswers": [
+            "Synge",
+            "The Synge"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these Irish authors for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a984058d"
+    },
+    {
+      "id": "38cd6366-d841-4923-9963-cdcea61fd926",
+      "linkedTossupId": "b76f5a63-8e2b-4885-a5b4-3add01f74814",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This Basildon native published \"Horse-hoe Husbandry\" and reinvented the seed drill, which soon came to supplant the system of broadcasting one's seed.",
+          "answer": "Tull",
+          "acceptableAnswers": [
+            "Tull",
+            "The Tull"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This system of crop rotation was remarkable for not using a fallow year and uses the cycle of wheat, turnips, barley undersown with clover and ryegrass which is then cut for feed in the fourth year.",
+          "answer": "Norfolk four-course",
+          "acceptableAnswers": [
+            "Norfolk four-course",
+            "The Norfolk four-course"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The terms \"leveller\" and \"digger\" were coined for opponents of this practice of fencing off community land to turn it into privately owned land.",
+          "answer": "enclosure",
+          "acceptableAnswers": [
+            "enclosure",
+            "The enclosure"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about agriculture in England.",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba962ea"
+    },
+    {
+      "id": "b272e875-8a35-485a-9b1e-72a37ce21be9",
+      "linkedTossupId": "a75f7363-060f-4e32-9475-b44ebcbe5b95",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this quantity that is treated as a random variable in stochastic thermodynamics, whose change must be greater than or equal to zero for a closed system according to the second law of thermodynamics.",
+          "answer": "entropy",
+          "acceptableAnswers": [
+            "entropy",
+            "S",
+            "The entropy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Crooks fluctuation theorem implies this other nonequilibrium relation, which bounds the free energy difference between two states by the average work done over all possible trajectories between them.",
+          "answer": "Jarzynski",
+          "acceptableAnswers": [
+            "Jarzynski",
+            "The Jarzynski"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Nonequilibrium thermodynamic relations are tested experimentally by manipulating an RNA hairpin loop with one of these devices. These devices use lasers to create a 3D potential well, which can trap cells and biological macromolecules.",
+          "answer": "optical tweezer",
+          "acceptableAnswers": [
+            "optical tweezer",
+            "tweezers",
+            "The optical tweezer"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The ratio of the probability of forward to backward trajectories is related to the production of this quantity by the Crooks fluctuation theorem. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ec2f74c5548754cbcb0361"
+    }
+  ]
+}

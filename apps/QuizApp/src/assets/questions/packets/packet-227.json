@@ -1,0 +1,1150 @@
+{
+  "packetId": "packet-227",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Literature",
+    "Science",
+    "Geography",
+    "Fine Arts",
+    "Human Body",
+    "Philosophy"
+  ],
+  "tossups": [
+    {
+      "id": "1985920f-9537-49c6-a504-310fda60a517",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "A colony in this modern state was divided by the Free Grace Controversy, resulting in the expulsion of Anne Hutchinson. In 1638, the Pequot were defeated by an alliance of colonies in this state, including one governed by John Winthrop. During King Philip's War, Native Americans raided towns like Springfield in this state, where the Mayflower Compact established rules for Plymouth Colony. For 10 points, name this US state where Pilgrims settled along Cape Cod and in modern Boston.",
+      "powerMarkPosition": 297,
+      "answer": "Massachusetts",
+      "acceptableAnswers": [
+        "Massachusetts",
+        "The Massachusetts"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004d7d"
+    },
+    {
+      "id": "1c3ec6dc-97e2-472a-af15-399991ff9af8",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "This kind of event is followed by a three-chapter sequel to achieve the \"symmetry of form only attainable in pure fiction\" in a novel by Herman Melville. Before one of these events in another novel, a seamstress shares a kiss with a man who mutters \"I am the resurrection and life\" to himself for days before. In The Handmaid's Tale, this kind of event is called a \"salvaging.\" People involved in these events title a nonfiction novel in which the widow Nicole Baker is romanced by Gary Gilmore; that novel is by Norman Mailer. Before experiencing this kind of event, Billy Budd exclaims \"God bless Captain Vere!\" A line that begins \"it is a far, far better thing that I do\" is spoken before one of these events by Sidney Carton in A Tale of Two Cities. For 10 points, identify this type of event that may be performed by guillotine.",
+      "powerMarkPosition": 481,
+      "answer": "execution",
+      "acceptableAnswers": [
+        "execution",
+        "hangings",
+        "guillotinings",
+        "shooting by firing squad",
+        "accept The Executioner’s Song",
+        "prompt on shooting",
+        "death",
+        "The execution"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a4de9"
+    },
+    {
+      "id": "723afb26-1197-4307-91db-34b0f0fe45da",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "One leader of this polity gave the \"Tryst with Destiny\" speech and later, alongside Tito and Nasser, co-founded the Non-Aligned Movement. Another leader from this country led Operation Bluestar, which led to hundreds of deaths in the Golden Temple of Amritsar. One notable resident of this nation taught satyagraha and led a salt march in opposition to the British government, which granted this nation independence in 1947 along with Pakistan. For 10 points, identify this Asian nation once led by Jawaharlal Nehru and Indira Ghandi.",
+      "powerMarkPosition": 260,
+      "answer": "India",
+      "acceptableAnswers": [
+        "India",
+        "The India"
+      ],
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced99c"
+    },
+    {
+      "id": "b8630929-3bee-4e4c-a379-88e027c48de6",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "Acoustic impedance is the ratio between this quantity and the product of velocity and the surface area. One type of this quantity scales with the electron number density raised to the five-thirds in the classical limit, but density raised to the four-thirds in the relativistic limit. Dividing Poynting's vector by the speed of light gives another form of this quantity. The partial derivative of this quantity with respect to density is the speed of sound squared. This scalar quantity is defined to be the negative average of the normal stresses in a fluid. Multiplying fluid density, gravitational acceleration, and height gives the hydrostatic form of it, which is often measured in torr, or millimeters of mercury. For 10 points, name this quantity equal to force divided by area.",
+      "powerMarkPosition": 370,
+      "answer": "pressure",
+      "acceptableAnswers": [
+        "pressure",
+        "radiation pressure",
+        "hydrostatic pressure",
+        "electron degeneracy pressure",
+        "sound pressure",
+        "The pressure"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df7ca243aee49db2f768ba"
+    },
+    {
+      "id": "977961c1-3d9d-48c9-82d9-82ad7be1c63e",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "The 42 is a residential skyscraper in this city near the Birla Planetarium, itself situated adjacent to the Victoria Memorial on the Maidan. On the banks of the Hooghly River in this city stands Fort William, located in its neighborhood of Hastings. A monument in this city honors the prisoners of war held by Siraj-ud-Daulah in this city in a prison that was known as its Black Hole. This city, once the capital of British India, serves as the capital of West Bengal. For 10 points, name this primary financial center of eastern India.",
+      "powerMarkPosition": 309,
+      "answer": "Kolkata",
+      "acceptableAnswers": [
+        "Kolkata",
+        "Calcutta",
+        "The Kolkata"
+      ],
+      "source": "qbreader",
+      "sourceId": "68fd4029a03782f1b6579125"
+    },
+    {
+      "id": "8fb8256e-bb33-4205-bcf1-c964f962ae8e",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "A genre of music that developed in this modern-day country includes the songs \"Roll, Jordan, Roll\" and \"Swing Low, Sweet Chariot.\" The song \"Follow the Drinking Gourd\" is an example of this country's traditional spirituals. West African string instruments were adapted into the banjo in this country by slaves. For 10 points, in what country was jazz developed by Black musicians in cities like New Orleans?",
+      "powerMarkPosition": 277,
+      "answer": "United States",
+      "acceptableAnswers": [
+        "United States",
+        "USA",
+        "America",
+        "The United States"
+      ],
+      "source": "qbreader",
+      "sourceId": "65666e01443a0a5dea004519"
+    },
+    {
+      "id": "7a7dc9a1-468c-43e3-ad5d-5110d9cc6db3",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for pharynx divisions. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this pharynx-related structure.",
+      "powerMarkPosition": 78,
+      "answer": "Pharynx",
+      "acceptableAnswers": [
+        "pharynx",
+        "Pharynx"
+      ],
+      "explanation": "The pharynx is a key component of the Respiratory system, involved in pharynx divisions.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "0896c182-46ce-4cb3-946d-b059c0d335aa",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "This mineral has the lowest crystallization temperature on Bowen's reaction series. This mineral is normally the last to crystallize in magma, so it fills the space between other minerals. It has a conchoidal fracture, and it exhibits the piezoelectric effect when under stress. Although this mineral is usually colorless and transparent, it has many varieties including onyx, milky, and amethyst, all of which have different colors. Name this mineral with chemical formula silicon dioxide, a 7 on Moh's scale of mineral hardness.",
+      "powerMarkPosition": 311,
+      "answer": "Quartz",
+      "acceptableAnswers": [
+        "Quartz",
+        "The Quartz"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1e63"
+    },
+    {
+      "id": "2b570b02-fc95-4e49-9373-4336f6fadcf7",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for insulin and glucagon. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this insulin-related structure.",
+      "powerMarkPosition": 71,
+      "answer": "Insulin",
+      "acceptableAnswers": [
+        "insulin",
+        "Insulin"
+      ],
+      "explanation": "The insulin is a key component of the Endocrine system, involved in insulin and glucagon.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "4f30b0f6-f281-4961-a546-a979bdcf39ee",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "This is the primary language, along with a little bit of English, used in the 1966 novel Season of Migration to the North. The ex-con protagonist of a novel in this language gets help from the café owner Tarzan in his effort to get revenge on Ilish, who married his ex-wife. The Thief and the Dogs is by the only writer of this language to win a Nobel Prize in literature; that author wrote a trilogy in this language in which a central event occurs when Amina is hit by a car after leaving home without the permission of her husband Sayyid. For 10 points, Naguib Mahfouz used what language to write the Cairo Trilogy?",
+      "powerMarkPosition": 351,
+      "answer": "Arabic",
+      "acceptableAnswers": [
+        "Arabic",
+        "The Arabic"
+      ],
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b88eb1"
+    },
+    {
+      "id": "d4b7c8b8-7baa-4f3f-b061-7df053232aad",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "This man first began his political career with the CCF, after criticizing Marcus Duplessis on live television. This man instituted an anti inflation act with his finance minister Donald Macdonald, and in response to his institution of the Energy Bill and his profanity, this man claimed he had said \"fuddle- duddle\". This man responded to the FLQ by invoking the War Measures Act, which ended the October Crisis. For 10 points, name this Canadian Prime minister, who gave birth to the current prime minister Justin.",
+      "powerMarkPosition": 316,
+      "answer": "Pierre Trudeau",
+      "acceptableAnswers": [
+        "Pierre Trudeau",
+        "The Pierre Trudeau"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004d9d"
+    },
+    {
+      "id": "1ee30c79-617d-4fee-9b65-74b57167cdf5",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "high_school",
+      "text": "Married women from this ethnic group wore tortoise brooches. These people's Cuerdale (\"KWER-dale\") horde contained hacksilver used for trade. These peoples' age began with an attack on Lindisfarne Abbey. These people settled at L'Anse aux Meadows (\"LONCE oh MED-ohs\") in Newfoundland (\"NOO-fund-luhnd\"). These people sailed on longships decorated with dragon heads. Erik the Red and Leif Erikson were leaders of, for 10 points, which Scandinavians who frequently raided Europe?",
+      "powerMarkPosition": 270,
+      "answer": "Viking",
+      "acceptableAnswers": [
+        "Viking",
+        "Norse",
+        "Norsemen",
+        "Icelanders",
+        "Icelandic people",
+        "Danes",
+        "Swedes",
+        "Swedish",
+        "Danish",
+        "prompt on Scandinavians",
+        "The Viking"
+      ],
+      "source": "qbreader",
+      "sourceId": "68b2ff0e8940d9f7c563a21a"
+    },
+    {
+      "id": "4dd07d8b-0a16-49aa-8f49-fad6ac04a321",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "A poster reading \"Lost dignity, if found return\" and the scrawled acronym W.A.S.T.E. appears in a corridor in this game soundtracked by cascading harp arpeggios. A room lined with TVs in this game features a central amber-colored prism that begins playing a catchy four-note bass line as you enter it. A long glowing line of text beginning with a series of statements about doors wraps around a green hallway in this game that is patrolled by a shambling horned creature. This game begins and ends in a monochrome \"Twisted Woods\" area, where smiling bears hold up a QR code on signs after completion. Near the end of this game, the camera abruptly switches from first to third person as the player ascends a facade adjacent to a field of jagged, snowy mountains, recreating the cover art of some of this game's source material. The most spectacular portion of this game takes place inside a pyramid as a black and white abstract painting expands into a massive explorable point cloud of millions of particles as \"How to Disappear Completely\" begins to play. COVID canceled the plans for a live exhibition to honor the 20th anniversary of two releases, resulting in Epic Games and a band instead collaborating to make this walking simulator. For 10 points, what free 2021 game showcases a virtual environment inspired by the Radiohead albums released in 2000 and 2001?",
+      "powerMarkPosition": 777,
+      "answer": "Kid A Mnesia",
+      "acceptableAnswers": [
+        "Kid A Mnesia",
+        "Kid Amnesia",
+        "accept answers that indicate the game derived from both Kid A and Amnesiac prompt on partial answers",
+        "prompt the Radiohead game before mentioned",
+        "The Kid A Mnesia"
+      ],
+      "source": "qbreader",
+      "sourceId": "676a112897acc2cc958b30e8"
+    },
+    {
+      "id": "61bcdc0f-6271-4227-9081-6a423600230f",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "Some techniques that can generate these mathematical objects include the L-system and strange attractors. Many of these entities can be created via infinite iterations of a recursive equation. Famous examples of these figures include the Menger sponge, Cantor set, and the Koch snowflake. For 10 points, name these self-similar geometric figures, developed by Benoit Mandelbrot [ben-wah mahn-del-broh], that contain infinitely many smaller copies of themselves.",
+      "powerMarkPosition": 252,
+      "answer": "fractal",
+      "acceptableAnswers": [
+        "fractal",
+        "The fractal"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac8fc"
+    },
+    {
+      "id": "67119414-8a81-476f-8dee-ee56380456b9",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "Corruption is revealed in this work through a letter to Mrs. Littlepaugh, who exposes a scandal to the narrator. The narrator's father commits suicide when blackmailed about a bribe from American Electric Power Company, and the cover-up of that bribe allows the narrator to blackmail a famous surgeon into heading a hospital. The hospital deal is called off after Tom breaks his neck playing football, and the revelation that Anne has been sleeping with Willy causes Adam Stanton to plan an assassination. Narrated by Jack Burden and centering on the political career of Willy Stark is, for 10 points, what novel by Robert Penn Warren based on the career of Huey Long?",
+      "powerMarkPosition": 325,
+      "answer": "All the King’s Men",
+      "acceptableAnswers": [
+        "All the King’s Men",
+        "The All the King’s Men"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a98408a6"
+    },
+    {
+      "id": "c5025481-d6d6-4e63-9476-a3c8b5be2201",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "In one episode of this show, Parasprites invade the central location. Another episode sees a dragon threaten the health of the town with smoke from its snoring. In another episode, Spike mocks a certain purple unicorn's inability to assist during Winter Wrap-Up. For 10 points, name this show featuring equine characters like Princess Celestia and Twilight Sparkle, a fourth-generation reboot of a girls' show.",
+      "powerMarkPosition": 160,
+      "answer": "My Little Pony: Friendship is Magic",
+      "acceptableAnswers": [
+        "My Little Pony: Friendship is Magic",
+        "MLP: FiM",
+        "prompt on My Little Pony",
+        "prompt on Friendship is Magic",
+        "The My Little Pony: Friendship is Magic"
+      ],
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b6d4"
+    },
+    {
+      "id": "8fe94b0a-4342-4311-b93a-b0f46d8761f2",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "Minor characters in this work include the porter Vassilij, who has a red scar on his neck from the Civil War. One character tells this novel's protagonist \"Bravo! The wolves devour each other\" shortly before asking him \"When did you last sleep with a woman?\" This novel, which is divided into three sections called \"hearings\", is the middle part of a trilogy that begins with The Gladiators and ends with Arrival and Departure. The protagonist of this work is implicated in a crime by a man called \"Hare-Lip\" and becomes acquainted with his neighbor, who is known only as \"Number 402\". The protagonist of this book is persuaded by Ivanov to confess to attempting to assassinate Number One in order to prove his loyalty to Communism. For 10 points, name this novel about the revolutionary Rubashov, written by Arthur Koestler.",
+      "powerMarkPosition": 427,
+      "answer": "Darkness at Noon",
+      "acceptableAnswers": [
+        "Darkness at Noon",
+        "Sonnenfinsternis",
+        "Solar Eclipse",
+        "Le Zéro et l'Infini",
+        "Zero and Infinity",
+        "The Darkness at Noon"
+      ],
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e6d4d"
+    },
+    {
+      "id": "076a655e-ff12-46c8-b460-bddce5219ee4",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "text": "The illusion theory of this property claims that it is a \"virtual property\", and exploits the 4+2 structure of its natural concept to claim that it does not exist in nature. P.M.S. Hacker's Simple Objectivist view of this claims it is an intrinsic quality of objects. The dispositionalist account of this, which has roots in the writings of Descartes and Locke, claims that saying something has this is equal to saying it has some other property which makes it appear to have this to the right observer. Landesman wrote about this \"and consciousness\"; Frank Jackson wrote about the \"primary quality view of\" this, and Goethe's Theory Of [This] explained it as the interaction between light and dark. For 10 points, name this phenomenon, seen along the entire visible wavelength from red to violet.",
+      "powerMarkPosition": 503,
+      "answer": "color",
+      "acceptableAnswers": [
+        "color",
+        "The color"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587597f9e"
+    },
+    {
+      "id": "4e7be6f7-f837-4aca-8a58-9d59479ff9f3",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "The Missoula Floods created this state's Channeled Scablands in its eastern portion. The Franklin D. Roosevelt Lake was created from a dam built in this state. A bridge in this state collapsed in 1940, and the Grand Coulee Dam was built on the Columbia River in this state. This state contains several volcanoes in the Cascades, including Mt. St. Helens and Mt. Rainier. Its largest city lies on Puget Sound, as does Tacoma. For 10 points, name this state in the Pacific Northwest, whose cities include Olympia and Seattle.",
+      "powerMarkPosition": 273,
+      "answer": "Washington",
+      "acceptableAnswers": [
+        "Washington",
+        "The Washington"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f07d6"
+    },
+    {
+      "id": "44da2d68-9e5f-4710-98ed-4de4e60d7ede",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "In a broadcast about this man, Edward Murrow claimed that a \"very fine\" line existed between \"investigating and persecuting\" This man, who was attacked on See it Now, ran for Congress with the slogan \"Congress needs a tail-gunner.\" The Tydings committee rebuked claims this man had made in a speech given to the Republican Women's Club in Wheeling, West Virginia. Joseph Welch said that he had \"never really gauged [this man's] cruelty\" and asked this man \"Have you no sense of decency?\" during hearings between this man and the U.S. Army. For 10 points, name this Wisconsin senator who claimed to have found 207 members of the Communist party in the State Department.",
+      "powerMarkPosition": 338,
+      "answer": "McCarthy",
+      "acceptableAnswers": [
+        "McCarthy",
+        "the Pepsi Cola Kid",
+        "accept Tail Gunner Joe",
+        "The McCarthy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a918"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "d0f75f43-7f28-4cec-9d59-521d691eee4b",
+      "linkedTossupId": "1985920f-9537-49c6-a504-310fda60a517",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this empire, led by Montezuma, which was conquered by Hernan Cortes in 1521.",
+          "answer": "Aztec",
+          "acceptableAnswers": [
+            "Aztec",
+            "The Aztec"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Soldiers and explorers of the New World like Cortes and his men are often known by this Spanish word that translates to \"conqueror.\"",
+          "answer": "conquistador",
+          "acceptableAnswers": [
+            "conquistador",
+            "conquistadores",
+            "The conquistador"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The capital of the Aztec empire was this city. Today, this city's ruins make up part of central Mexico City.",
+          "answer": "Tenochtitlan",
+          "acceptableAnswers": [
+            "Tenochtitlan",
+            "The Tenochtitlan"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In trying to escape from the capital of this empire, Spanish soldiers experienced La Noche Triste [la no-chay tree-stay]. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c7c1"
+    },
+    {
+      "id": "ae5dfd4e-989f-49c7-9f39-df5c0b055c49",
+      "linkedTossupId": "1c3ec6dc-97e2-472a-af15-399991ff9af8",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this novel, set in a dystopian future based on the precepts of Henry Ford, in which John the Savage turns out to be the illegitimate son of the Director of the Central London Hatchery.",
+          "answer": "Brave New World",
+          "acceptableAnswers": [
+            "Brave New World",
+            "The Brave New World"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "People in Brave New World consume copious amounts of this drug, which provides hallucinogenic \"holidays.\"",
+          "answer": "soma",
+          "acceptableAnswers": [
+            "soma",
+            "The soma"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This British author of Point Counter Point and Crome Yellow wrote Brave New World.",
+          "answer": "Huxley",
+          "acceptableAnswers": [
+            "Huxley",
+            "The Huxley"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this work, Bokanovsky's Process and Podsnap's Technique are used to regulate a population composed of classes like Alphas, Betas, and Deltas. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6deddcc"
+    },
+    {
+      "id": "923a5549-6499-4cd7-b5ad-a56629b34311",
+      "linkedTossupId": "723afb26-1197-4307-91db-34b0f0fe45da",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Describe this feat. With Fred Noonan, an aviator attempting this action disappeared near Howland Island in 1937.",
+          "answer": "circumnavigating the Earth",
+          "acceptableAnswers": [
+            "circumnavigating the Earth",
+            "The circumnavigating the Earth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Fred Noonan disappeared during this female pilot's attempt to fly around the world. This aviator was the first woman to fly solo across the Atlantic Ocean.",
+          "answer": "Earhart",
+          "acceptableAnswers": [
+            "Earhart",
+            "The Earhart"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 1935, Earhart completed the first successful solo flight to Oakland, California from this location. Earhart's flight broke a streak of disasterous attempts to reach this location from California that included a deadly 1927 race sponsored by the Dole company.",
+          "answer": "Hawai’i",
+          "acceptableAnswers": [
+            "Hawai’i",
+            "The Hawai’i"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Specially-developed airplanes called the Chicago and the New Orleans, designed for distance flight, were the first in aviation history to complete this achievement. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba97125"
+    },
+    {
+      "id": "48d34e02-bccf-4fee-a5bc-4a1145623536",
+      "linkedTossupId": "b8630929-3bee-4e4c-a379-88e027c48de6",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these specific crystal defects, which may be able to serve as qubits at room temperature because they can act as single photon sources with long coherence times.",
+          "answer": "nitrogen vacancy",
+          "acceptableAnswers": [
+            "nitrogen vacancy",
+            "nitrogen vacancies",
+            "NV centers",
+            "color centers",
+            "prompt on vacancies",
+            "point defects",
+            "The nitrogen vacancy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "NV centers are defects where a nitrogen and an empty space are found in the lattice of this substance, whose normally periodic lattice makes it a 10 on the Mohs scale.",
+          "answer": "diamond",
+          "acceptableAnswers": [
+            "diamond",
+            "The diamond"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Nanodiamonds with NV centers can display this phenomenon with a notably higher quantum yield than quantum dots. Due to this property, nanodiamonds may replace coumarine and rhodamine in some biological applications.",
+          "answer": "fluorescence",
+          "acceptableAnswers": [
+            "fluorescence",
+            "word forms like being fluorescent",
+            "prompt on photoluminescence",
+            "descriptions of giving off light",
+            "The fluorescence"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Magnetometers made from negatively-charged examples of these defects are sensitive enough to detect neurons firing, rivaling SQUIDs in capability. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f1bf365ffd63b5f24c1c5b"
+    },
+    {
+      "id": "24516953-8865-4ae4-8c16-9e0cefb377e0",
+      "linkedTossupId": "977961c1-3d9d-48c9-82d9-82ad7be1c63e",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this country home to the Kikuyu [kih-KOO-YOU] people. This country's largest trading port is the city of Mombasa.",
+          "answer": "Kenya",
+          "acceptableAnswers": [
+            "Kenya",
+            "Jamhuri ya Kenya",
+            "The Kenya"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Kibera, Africa's second-largest slum, is located in this capital of Kenya.",
+          "answer": "Nairobi",
+          "acceptableAnswers": [
+            "Nairobi",
+            "The Nairobi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Members of this nomadic ethinic group in Kenya and neighboring Tanzania participate in a famous jumping dance. The flag of Kenya includes a traditional shield from this ethnic group.",
+          "answer": "Maasai",
+          "acceptableAnswers": [
+            "Maasai",
+            "The Maasai"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This country's namesake mountain is the second highest peak in Africa. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0023a69364e383bef6a37"
+    },
+    {
+      "id": "b8478188-a13f-4dfa-b9b9-01c2db54bdb5",
+      "linkedTossupId": "8fb8256e-bb33-4205-bcf1-c964f962ae8e",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Italian Renaissance artist, who sculpted the Horned Moses for Pope Julius, and who painted The Creation of Adam on the ceiling of a Vatican chapel.",
+          "answer": "Michelangelo",
+          "acceptableAnswers": [
+            "Michelangelo",
+            "The Michelangelo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Michelangelo's Horned Moses is one of the six sculptures that adorn this structure, which was eventually constructed after the death of Pope Julius.",
+          "answer": "tomb",
+          "acceptableAnswers": [
+            "tomb",
+            "The tomb"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During a dispute with Pope Julius, during which work on the tomb was suspended, Michelangelo was commissioned to paint The Creation of Adam and other scenes from Genesis on the ceiling of this chapel in the Vatican.",
+          "answer": "Sistine",
+          "acceptableAnswers": [
+            "Sistine",
+            "The Sistine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This sculptor intended for his statues of a Dying Slave and a Rebellious Slave to be among forty sculptures in a work commissioned by Pope Julius II [the second] although, due to budget constraints, the finished work only includes six figures. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004eee"
+    },
+    {
+      "id": "0dbdeb74-9e74-40fc-b0d7-54bdd292067a",
+      "linkedTossupId": "7a7dc9a1-468c-43e3-ad5d-5110d9cc6db3",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with white blood cell types.",
+          "answer": "erythrocyte",
+          "acceptableAnswers": [
+            "erythrocyte"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the erythrocyte in the cardiovascular system?",
+          "answer": "White blood cell types",
+          "acceptableAnswers": [
+            "White blood cell types"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to white blood cell types.",
+          "answer": "leukocyte",
+          "acceptableAnswers": [
+            "leukocyte"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "bc7bd2b8-3fd9-4012-bb5f-9c12463e6f35",
+      "linkedTossupId": "0896c182-46ce-4cb3-946d-b059c0d335aa",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "What is the distance between those two points?",
+          "answer": "Root",
+          "acceptableAnswers": [
+            "Root",
+            "Radical 5",
+            "The Root"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the slope of a line that goes through both of those points?",
+          "answer": "1/2",
+          "acceptableAnswers": [
+            "1/2",
+            "0.5",
+            "The 1/2"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the slope of a line that is perpendicular to the line that goes through both of those points?",
+          "answer": "-2",
+          "acceptableAnswers": [
+            "-2"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This is a computation bonus. Consider the two points (-1,1) and 1.,2). For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec6807"
+    },
+    {
+      "id": "62656895-154a-4cba-9627-9b98ff92567d",
+      "linkedTossupId": "2b570b02-fc95-4e49-9373-4336f6fadcf7",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with reflex arcs.",
+          "answer": "spinal cord",
+          "acceptableAnswers": [
+            "spinal cord"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the spinal cord in the nervous system?",
+          "answer": "Reflex arcs",
+          "acceptableAnswers": [
+            "Reflex arcs"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to reflex arcs.",
+          "answer": "reflex",
+          "acceptableAnswers": [
+            "reflex"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "0ab2c272-6020-4114-a153-0cc147417cca",
+      "linkedTossupId": "4f30b0f6-f281-4961-a546-a979bdcf39ee",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this novel in which the title character gives money to his nasty daughters Delphine and Anastasie, that also sees a subplot concerning Eugene Rastignac's older brother.",
+          "answer": "Pere Goriot",
+          "acceptableAnswers": [
+            "Pere Goriot",
+            "Father Goriot",
+            "Old Goriot",
+            "The Pere Goriot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Le Pere Goriot is a novel in this sequence by a French author, whose other installments include The Wild Ass's Skin and Eugenie Grandet.",
+          "answer": "Human Comedy",
+          "acceptableAnswers": [
+            "Human Comedy",
+            "La Comedie humaine",
+            "The Human Comedy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This French author wrote such novels as The Wild Ass's Skin and The Unknown Masterpiece in his Human Comedy.",
+          "answer": "Balzac",
+          "acceptableAnswers": [
+            "Balzac",
+            "The Balzac"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work centers on a boarder at the Maison Vauquer. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43ba2"
+    },
+    {
+      "id": "1d79ee90-894f-4803-8d65-87526912e0d4",
+      "linkedTossupId": "d4b7c8b8-7baa-4f3f-b061-7df053232aad",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this hoax where Charles Dawson attached an orangutan jaw to a human cranium and claimed it was an early species of hominid named after a site in Sussex.",
+          "answer": "Piltdown",
+          "acceptableAnswers": [
+            "Piltdown",
+            "Piltdown hoax",
+            "The Piltdown"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Dawson initially referred to the Piltdown Man using this outdated term, implying that it was the transition fossil marking the evolutionary point where apes turned into modern humans.",
+          "answer": "missing link",
+          "acceptableAnswers": [
+            "missing link",
+            "The missing link"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another potential missing link was this Australopithecus africanus skull from South Africa, partly named for belonging to a youthful hominid.",
+          "answer": "Taung",
+          "acceptableAnswers": [
+            "Taung",
+            "Taung Baby",
+            "Taung hominid",
+            "Taung skull",
+            "The Taung"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A 2016 review of this hoax found that the amount of archeological knowledge required to perpetrate it ruled out Arthur Conan Doyle as a suspect. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d9801af67c8a6f6e0b425e"
+    },
+    {
+      "id": "341d4bf1-5324-42b6-a36b-9feb0f653f2b",
+      "linkedTossupId": "1ee30c79-617d-4fee-9b65-74b57167cdf5",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Description acceptable. After being decapitated at the Battle of Carrhae [CAR-eye], the corpse of Crassus was desecrated in this manner. The emperor Valerian allegedly shared this fate, but was likely only used as a footstool.",
+          "answer": "gold poured",
+          "acceptableAnswers": [
+            "gold poured",
+            "The gold poured"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During his failed invasion of Persia, Julian the Apostate was killed while trying to cross the Tigris River in this modern-day country. Baghdad was founded in this country under the Abbasid Caliphate.",
+          "answer": "Iraq",
+          "acceptableAnswers": [
+            "Iraq",
+            "The Iraq"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Emperors Valerian and Julian were both defeated by this dynasty, the ruling dynasty of Iran until its conquest by the Rashidun Caliphate. This dynasty overthrew the previous Parthian Empire.",
+          "answer": "Sasanian",
+          "acceptableAnswers": [
+            "Sasanian",
+            "The Sasanian"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about Roman generals being humiliated by Rome's eastern neighbor, for ten points each:",
+      "source": "qbreader",
+      "sourceId": "68b8fc893c4c0515ae31d7f9"
+    },
+    {
+      "id": "4eec8670-4bad-4015-93a3-51f4bd2ea83b",
+      "linkedTossupId": "4dd07d8b-0a16-49aa-8f49-fad6ac04a321",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this ballet in which the stonecutter Danilo leaves his betrothed Katerina, who gets bothered by the drunk Severyan until she's able to find Danilo and get him to return from the idyllic mountain.",
+          "answer": "Stone Flower",
+          "acceptableAnswers": [
+            "Stone Flower",
+            "The Stone Flower"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Stone Flower was the last ballet of this composer, after works like Trapeze and Cinderella. He's also known for operas like The Fiery Angel and The Love for Three Oranges.",
+          "answer": "Prokofiev",
+          "acceptableAnswers": [
+            "Prokofiev",
+            "The Prokofiev"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Prokofiev's first ballet, Ala I Lolli, later evolved into this orchestral suite, his Opus 20. It contains the \"Dance of the Pagan Monsters\" and the pursuit of the \"Evil God,\" who is battled by Lolli, a hero of the title region.",
+          "answer": "Scythian",
+          "acceptableAnswers": [
+            "Scythian",
+            "The Scythian"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Based on a folk tale by Pavel Bazhov, this work contains the Waltz of the Diamonds and opens by introducing the Mistress of the Copper Mountain. FTPE:",
+      "source": "qbreader",
+      "sourceId": "676f82ffc626ea977c7a3786"
+    },
+    {
+      "id": "112c092a-b3ab-4a0e-9a15-4c6d22919a25",
+      "linkedTossupId": "61bcdc0f-6271-4227-9081-6a423600230f",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "According to VSEPR theory, this is the molecular geometry of a molecule of methane, whose central atom features four covalent bonds.",
+          "answer": "Tetrahedral",
+          "acceptableAnswers": [
+            "Tetrahedral",
+            "The Tetrahedral"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the ideal bond angle (rounded to the nearest tenth) of a tetrahedral molecule like methane.",
+          "answer": "109.5",
+          "acceptableAnswers": [
+            "109.5",
+            "The 109.5"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Methane reacts with this series of elements if initiated by free radicals. This series of elements includes fluorine, chlorine, iodine, and bromine.",
+          "answer": "halogen",
+          "acceptableAnswers": [
+            "halogen",
+            "The halogen"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, give the following about methane.",
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac959"
+    },
+    {
+      "id": "30d84110-5dde-47d4-94f9-c75ea3c38ad5",
+      "linkedTossupId": "67119414-8a81-476f-8dee-ee56380456b9",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this author of Purple Hibiscus, who wrote about the struggles of immigrants Ifemelu and Obinze in her most recent novel Americanah.",
+          "answer": "Adichie",
+          "acceptableAnswers": [
+            "Adichie",
+            "The Adichie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Adichie is from this country, where she has set the majority of her novels. Simon Pilkings attempts to stop Elesin from committing ritual suicide in a play from this country written by Wole Soyinka.",
+          "answer": "Nigeria",
+          "acceptableAnswers": [
+            "Nigeria",
+            "The Nigeria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Adichie gave this TED Talk, in which she talks about how she had presumed that her servant Fide was poor due to the title concept. She states that the title concept creates stereotypes and concludes that \"when we reject [it], we regain a kind of paradise.\"",
+          "answer": "Danger of a Single Story",
+          "acceptableAnswers": [
+            "Danger of a Single Story",
+            "The Danger of a Single Story"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of this author's novels ends with Jaja taking the blame for Beatrice after she poisons her husband Eugene. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a812"
+    },
+    {
+      "id": "550c69ab-a607-4ddc-b769-e0f6ab3c516c",
+      "linkedTossupId": "c5025481-d6d6-4e63-9476-a3c8b5be2201",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This English hero helps William of Ivanhoe in a novel by Sir Walter Scott. This skilled archer led the Merry Men in a quest to rob the rich and give to the poor.",
+          "answer": "Robin",
+          "acceptableAnswers": [
+            "Robin",
+            "The Robin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This legendary German figure negotiates with Mephistopheles to gain magical powers in works by Christopher Marlowe and Johan Wolfgang von Goethe [gur-tuh].",
+          "answer": "Faust",
+          "acceptableAnswers": [
+            "Faust",
+            "The Faust"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This modern country is the home of The Song of Roland, a poem about a legendary general who served under Charlemagne, wielded the sword Durendal, and burst his temples while blowing his oliphant horn during a battle.",
+          "answer": "France",
+          "acceptableAnswers": [
+            "France",
+            "The France"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Legendary figures are popular topics in literature. Answer the following about literary characters drawn from European legends, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba9728c"
+    },
+    {
+      "id": "b103e269-6b2a-4ae0-8c24-68a126704863",
+      "linkedTossupId": "8fe94b0a-4342-4311-b93a-b0f46d8761f2",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this French author of Stories of Spain and Italy and October Night, who wrote about the budding love between a Marquise and Duke in his A Door Must Be Open or Shut.",
+          "answer": "Musset",
+          "acceptableAnswers": [
+            "Musset",
+            "The Musset"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Musset is often attributed authorship of this erotic novel, in which an anonymous male spends a night relating sexual encounters with apes and donkeys with Fanny and the title lesbian, thought to be a depiction of Musset's lover George Sand.",
+          "answer": "Gamiani",
+          "acceptableAnswers": [
+            "Gamiani",
+            "ou deux nuits d'excès",
+            "The Gamiani"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Musset was criticized for \"clos[ing] his eyes\" before true artistic vision in Letters of a Seer by this French poet, who collected forty prose poems in Illuminations and, if my memory serves me well, wrote A Season in Hell.",
+          "answer": "Rimbaud",
+          "acceptableAnswers": [
+            "Rimbaud",
+            "The Rimbaud"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author created the hated Florentine advisor Lorenzaccio in one play and also wrote The Moods of Marianne. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e62f6c"
+    },
+    {
+      "id": "f333ac08-0056-4e8d-81da-d688d5a9e64a",
+      "linkedTossupId": "076a655e-ff12-46c8-b460-bddce5219ee4",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Give this surname of a father-son duo of British philosophers, one named Galen and one named P.F., the latter of whom penned \"In Defense of a Dogma,\" \"On Referring,\" and \"Freedom and Resentment.\"",
+          "answer": "Strawson",
+          "acceptableAnswers": [
+            "Strawson",
+            "the Strawsons",
+            "The Strawson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "P.F. Strawson's \"On Referring\" is a response to this Brit's \"On Denoting,\" in which this author of Principia Mathematica and \"Why I am Not a Christian\" put forward, quite wrongly, the \"definite descriptor\" theory of naming.",
+          "answer": "Russell",
+          "acceptableAnswers": [
+            "Russell",
+            "The Russell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Russell's \"On Denoting\" points out that both the sentences \"The present [holder of this title] is bald\" and \"The present [holder of this title] is not bald\" are not true, because there is no current holder of this title.",
+          "answer": "King of France",
+          "acceptableAnswers": [
+            "King of France",
+            "Roi du France",
+            "accept “The present King of France is bald/not bald”",
+            "The King of France"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One philosopher of this surname advanced the \"basic argument\" that free will is impossible in his Freedom and Belief. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1ad8"
+    },
+    {
+      "id": "d6a3bfcb-7e9a-42d2-98e5-8ecac7b8e67b",
+      "linkedTossupId": "4e7be6f7-f837-4aca-8a58-9d59479ff9f3",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this volcano located on an island between Java and Sumatra.",
+          "answer": "Krakatoa",
+          "acceptableAnswers": [
+            "Krakatoa",
+            "The Krakatoa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other volcano on the island of Sumbawa ejected over 150 cubic kilometers of material in its 1815 eruption. That eruption caused the \"year without a summer.\"",
+          "answer": "Tambora",
+          "acceptableAnswers": [
+            "Tambora",
+            "The Tambora"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Both Krakatoa and Tambora are found in this country that consists of over seventeen thousand islands. Its island of Java contains its capital, Jakarta.",
+          "answer": "Indonesia",
+          "acceptableAnswers": [
+            "Indonesia",
+            "The Indonesia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After its massive 1883 eruption, world climate didn't return to normal until 1888. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e6a0924256318ac8b6"
+    },
+    {
+      "id": "6132c8c9-e5dd-4842-8aaf-3c594fabd660",
+      "linkedTossupId": "44da2d68-9e5f-4710-98ed-4de4e60d7ede",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this country, which suffered crippling inflation following the 1973 oil crisis when its economy was flooded with foreign currency. Its Islamist 1979 Revolution began with demonstrations against the Shah.",
+          "answer": "Iran",
+          "acceptableAnswers": [
+            "Iran",
+            "Persia",
+            "The Iran"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man became Supreme Leader of Iran after that 1979 Revolution.",
+          "answer": "Khomeini",
+          "acceptableAnswers": [
+            "Khomeini",
+            "Sayyid Ruhollah Mūsavi Khomeini",
+            "prompt on Ayatollah",
+            "The Khomeini"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Soon after the Revolution, Iran fought a war with Iraq over this oil-rich western province, which is the closest to Kuwait.",
+          "answer": "Khuzestan",
+          "acceptableAnswers": [
+            "Khuzestan",
+            "The Khuzestan"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This country underwent a \"White Revolution\" from 1963 to 1978. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a774f"
+    }
+  ]
+}

@@ -2,24 +2,65 @@
  * Question Service
  *
  * Loads and validates NAQT-format quiz questions
+ * Supports multiple packet files and category-based loading
  */
 
-import { QuizData, TossupQuestion, BonusQuestion } from '../types/quiz';
+import { QuizData, TossupQuestion, BonusQuestion, QuestionCategory, QuestionDifficulty } from '../types/quiz';
 import sampleQuestions from '../assets/sample-questions.json';
+
+// Types for packet system
+interface PacketMetadata {
+  id: string;
+  file: string;
+  difficulty: QuestionDifficulty | 'mixed';
+  categories: QuestionCategory[];
+  tossupCount: number;
+  bonusCount: number;
+}
+
+interface QuestionsMetadata {
+  version: string;
+  generatedAt: string;
+  totalPackets: number;
+  totalTossups: number;
+  totalBonuses: number;
+  packets: PacketMetadata[];
+  categoryStats: Record<QuestionCategory, { tossups: number; bonuses: number }>;
+}
+
+interface QuizFilters {
+  categories?: QuestionCategory[];
+  difficulty?: QuestionDifficulty;
+  packetId?: string;
+}
+
+// Cache for loaded packets
+const packetCache = new Map<string, QuizData>();
+let metadataCache: QuestionsMetadata | null = null;
 
 /**
  * Load questions from JSON file
  * For MVP, loads from bundled sample questions
- * Future: Load from API or local database
+ * When packets are available, loads from packet system
  */
 export async function loadQuestions(): Promise<QuizData> {
-  // Simulate async loading (in future, this would be a network request)
+  // Try to load from packet system first
+  try {
+    const metadata = await getPacketList();
+    if (metadata && metadata.packets.length > 0) {
+      // Load a random packet
+      return loadRandomPacket();
+    }
+  } catch {
+    // Fall back to sample questions
+  }
+
+  // Fallback: Load from bundled sample questions
   return new Promise((resolve, reject) => {
     setTimeout(() => {
       try {
         const quizData = sampleQuestions as QuizData;
 
-        // Validate the data structure
         if (!validateQuizData(quizData)) {
           reject(new Error('Invalid quiz data format'));
           return;
@@ -29,8 +70,176 @@ export async function loadQuestions(): Promise<QuizData> {
       } catch (error) {
         reject(new Error(`Failed to load questions: ${error}`));
       }
-    }, 100); // Small delay to simulate loading
+    }, 100);
   });
+}
+
+/**
+ * Get list of available packets
+ */
+export async function getPacketList(): Promise<QuestionsMetadata | null> {
+  if (metadataCache) {
+    return metadataCache;
+  }
+
+  try {
+    // Dynamic import of metadata
+    const metadata = await import('../assets/questions/metadata.json');
+    metadataCache = metadata.default as QuestionsMetadata;
+    return metadataCache;
+  } catch {
+    return null;
+  }
+}
+
+/**
+ * Load a specific packet by ID
+ */
+export async function loadPacket(packetId: string): Promise<QuizData> {
+  // Check cache
+  if (packetCache.has(packetId)) {
+    return packetCache.get(packetId)!;
+  }
+
+  try {
+    // Dynamic import of packet file
+    const packet = await import(`../assets/questions/packets/${packetId}.json`);
+    const quizData: QuizData = {
+      tossups: packet.tossups || packet.default?.tossups || [],
+      bonuses: packet.bonuses || packet.default?.bonuses || [],
+    };
+
+    if (!validateQuizData(quizData)) {
+      throw new Error(`Invalid packet data: ${packetId}`);
+    }
+
+    // Cache for future use
+    packetCache.set(packetId, quizData);
+    return quizData;
+  } catch (error) {
+    throw new Error(`Failed to load packet ${packetId}: ${error}`);
+  }
+}
+
+/**
+ * Load a random packet, optionally filtered by criteria
+ */
+export async function loadRandomPacket(filters?: QuizFilters): Promise<QuizData> {
+  const metadata = await getPacketList();
+
+  if (!metadata || metadata.packets.length === 0) {
+    // Fall back to sample questions
+    return loadQuestions();
+  }
+
+  // Filter packets based on criteria
+  let eligiblePackets = metadata.packets;
+
+  if (filters?.difficulty && filters.difficulty !== 'mixed' as any) {
+    eligiblePackets = eligiblePackets.filter(
+      p => p.difficulty === filters.difficulty || p.difficulty === 'mixed'
+    );
+  }
+
+  if (filters?.categories && filters.categories.length > 0) {
+    eligiblePackets = eligiblePackets.filter(p =>
+      filters.categories!.some(c => p.categories.includes(c))
+    );
+  }
+
+  if (eligiblePackets.length === 0) {
+    throw new Error('No packets match the specified filters');
+  }
+
+  // Select random packet
+  const randomIndex = Math.floor(Math.random() * eligiblePackets.length);
+  const selectedPacket = eligiblePackets[randomIndex];
+
+  return loadPacket(selectedPacket.id);
+}
+
+/**
+ * Load questions by category
+ */
+export async function loadByCategory(category: QuestionCategory): Promise<QuizData> {
+  try {
+    const categoryFileName = category.toLowerCase().replace(/\s+/g, '-');
+    const categoryData = await import(`../assets/questions/by-category/${categoryFileName}.json`);
+
+    const quizData: QuizData = {
+      tossups: categoryData.tossups || categoryData.default?.tossups || [],
+      bonuses: categoryData.bonuses || categoryData.default?.bonuses || [],
+    };
+
+    if (!validateQuizData(quizData)) {
+      throw new Error(`Invalid category data: ${category}`);
+    }
+
+    return quizData;
+  } catch (error) {
+    throw new Error(`Failed to load category ${category}: ${error}`);
+  }
+}
+
+/**
+ * Load questions filtered by multiple criteria
+ */
+export async function loadFilteredQuestions(filters: QuizFilters): Promise<QuizData> {
+  // If specific packet requested
+  if (filters.packetId) {
+    return loadPacket(filters.packetId);
+  }
+
+  // If single category requested, use category file
+  if (filters.categories?.length === 1) {
+    const categoryData = await loadByCategory(filters.categories[0]);
+
+    // Apply difficulty filter if specified
+    if (filters.difficulty) {
+      return {
+        tossups: categoryData.tossups.filter(t => t.difficulty === filters.difficulty),
+        bonuses: categoryData.bonuses.filter(b => b.difficulty === filters.difficulty),
+      };
+    }
+
+    return categoryData;
+  }
+
+  // Otherwise load a random packet matching filters
+  return loadRandomPacket(filters);
+}
+
+/**
+ * Get statistics about available questions
+ */
+export async function getQuestionStats(): Promise<{
+  totalPackets: number;
+  totalTossups: number;
+  totalBonuses: number;
+  categories: QuestionCategory[];
+  categoryStats: Record<string, { tossups: number; bonuses: number }>;
+} | null> {
+  const metadata = await getPacketList();
+
+  if (!metadata) {
+    return null;
+  }
+
+  return {
+    totalPackets: metadata.totalPackets,
+    totalTossups: metadata.totalTossups,
+    totalBonuses: metadata.totalBonuses,
+    categories: Object.keys(metadata.categoryStats) as QuestionCategory[],
+    categoryStats: metadata.categoryStats,
+  };
+}
+
+/**
+ * Clear the packet cache (useful for testing or refreshing data)
+ */
+export function clearCache(): void {
+  packetCache.clear();
+  metadataCache = null;
 }
 
 /**

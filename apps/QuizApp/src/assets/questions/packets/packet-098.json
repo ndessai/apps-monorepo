@@ -1,0 +1,1114 @@
+{
+  "packetId": "packet-098",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Fine Arts",
+    "Geography",
+    "Human Body",
+    "Literature",
+    "History",
+    "Science",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "ad1456d7-e4cb-41b6-a914-8ee33b6facb5",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "It's not a prelude or fugue, but Johann Christian Schickhardt composed a collection of these works in all 24 keys. It's not a suite, but baroque \"da camera\" versions of these works consisted of several short dances and were contrasted with their \"da chiesa\" type, a distinction largely cemented by the work of Arcangelo Corelli. 555 works of this type for solo harpsichord were published by Domenico Scarlatti. By the classical period, pieces of this type began to include a well-defined exposition, development, and recapitulation. For 10 points, pieces of what form for the piano include one by Beethoven nicknamed \"Moonlight\"?",
+      "powerMarkPosition": 328,
+      "answer": "sonata",
+      "acceptableAnswers": [
+        "sonata",
+        "The sonata"
+      ],
+      "source": "qbreader",
+      "sourceId": "66cd4c3ec5459312fdcc579a"
+    },
+    {
+      "id": "04b26ae5-7e00-4172-b44a-2a4a146b7ac5",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "The first rogue wave to be recorded by a measurement device occurred off the coast of this country. A Russian expatriate mining community in this country was devastated by the 1996 crash of a Vnukovo Airlines flight into its Operafjellet [\"opera-fyel-let\"] mountain, which was chartered by Arktikugol. The Galdhøpiggen [\"gahld-hoe-pig-in\"] and Glittertind peaks are the highest in its Jotunheim [\"yoh-toon-haym\"] National Park. This non-Russia country's abandoned settlement of Pyramiden is home to the northernmost statue of Vladimir Lenin in the world. The city of Longyearbyen [\"long-year-bue-en\"] is the capital of this country's northern island of Svalbard. The Sognefjord [\"sog-na-fyord\"] is the largest of the many fjords of, for 10 points, what Scandinavian country led from Oslo?",
+      "powerMarkPosition": 384,
+      "answer": "Norway",
+      "acceptableAnswers": [
+        "Norway",
+        "Norge",
+        "The Norway"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0aed97"
+    },
+    {
+      "id": "406812fc-ad04-4233-a27c-6ee58e5193c4",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "middle_school",
+      "text": "In the 19th century, some of this building's marble sculptures were shipped to England by the Earl of Elgin. The treasury of the Delian League helped fund the construction of this Doric order temple, whose ceiling and floor were curved to account for an optical illusion, preserving its rectangular shape. Pericles ordered the construction of, for 10 points, what temple to Athena on the Acropolis of Athens?",
+      "powerMarkPosition": 191,
+      "answer": "Parthenon",
+      "acceptableAnswers": [
+        "Parthenon",
+        "The Parthenon"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac9b3"
+    },
+    {
+      "id": "c4b0b2d0-b41d-403b-a6ad-312c43bf44d6",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for action potentials. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this axon-related structure.",
+      "powerMarkPosition": 75,
+      "answer": "Axon",
+      "acceptableAnswers": [
+        "axon",
+        "Axon"
+      ],
+      "explanation": "The axon is a key component of the Nervous system, involved in action potentials.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "6c763edf-316f-4310-897b-80d341ed6618",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "In one work, one of these objects is described \"Lingering onward\" on a July evening. In another poem, one of these objects is said to at times have \"seen what man thought he saw.\" Lewis Carroll wrote about one of these objects \"Beneath a Sunny Sky,\" and another poem describes one that \"no longer felt guided by haulers.\" In addition to that poem by Rimbaud about a \"Drunken\" one, a short story sees one of these things inhabited by a Cook, Oiler, Correspondent, and Captain who try to reach land. Stephen Crane wrote about an \"Open\" one of, for 10 points, what vessels that sail on water?",
+      "powerMarkPosition": 349,
+      "answer": "boat",
+      "acceptableAnswers": [
+        "boat",
+        "“A Boat Beneath a Sunny Sky",
+        "” “The Open Boat”",
+        "and “The Drunken Boat”",
+        "The boat"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a546b"
+    },
+    {
+      "id": "81b91d80-821a-42f0-96e6-9fe482653035",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "In The Silmarillion, Nienor Niniel kills herself in this way after learning she has accidentally married her brother. Eustacia Vye kills herself in this way in Thomas Hardy's The Return of the Native. In The Sound and the Fury, Quentin Compson uses this manner of suicide to die in the Charles River. In Hamlet, Ophelia falls from a willow tree before dying in, for 10 points, what way, when she cannot get out of a \"weeping brook?\"",
+      "powerMarkPosition": 285,
+      "answer": "drown",
+      "acceptableAnswers": [
+        "drown",
+        "The drown"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc005028"
+    },
+    {
+      "id": "cb7b8ccb-a5e0-4e0a-9a40-836eb0513c9d",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "Sixty thousand sandbags were used to protect tombs at this place during World War II, and The Grave of the Unknown Warrior at this site holds the body of an unidentified soldier from World War I. This building was designated as a \"Royal Peculiar\" around 1560, and it is officially known as the Collegiate Church of St Peter at its title location. The Coronation Chair is in this church's St. George's Chapel, which has seen the crowning of British monarchs since Harold Godwinson in 1066. For 10 points, name this church that houses the Stone of Scone.",
+      "powerMarkPosition": 350,
+      "answer": "Westminster Abbey",
+      "acceptableAnswers": [
+        "Westminster Abbey",
+        "The Collegiate Church of St. Peter at Westminster before read",
+        "The Westminster Abbey"
+      ],
+      "source": "qbreader",
+      "sourceId": "62edc1ba974521c293e49852"
+    },
+    {
+      "id": "028ddaf6-c60d-46fc-80c5-23b623980ec7",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "A city in this country names a salad that is traditionally made from tomatoes, boiled eggs, olives, anchovies and olive oil. That city is also home to a seaside promenade \"of the English.\" One city bordering this country is governed by the Grimaldi family while a film festival is held annually in this country's town of Cannes.This country's region of Provence, whose largest city is Nice, completely surrounds the microstate of Monaco. For 10 points, name this European country with a resort coast on the Mediterranean in its southern Riviera.",
+      "powerMarkPosition": 320,
+      "answer": "France",
+      "acceptableAnswers": [
+        "France",
+        "The France"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa5913201809"
+    },
+    {
+      "id": "d6dd73fe-cac2-4b66-99e9-e070602a5a29",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "A noble family whose surname derives from the name of this region included Karl Marx's wife, Jenny. A short-lived kingdom named for this region, which in 1807 adopted its country's first written constitution, was led by Napoleon's spendthrift brother Jérôme. This region names the modern form of nation-state sovereignty in reference to an agreement that was deemed \"reprobate,\" \"inane,\" and \"devoid of meaning\" by Pope Innocent X. Two treaties named for its cities of Osnabrück and Münster made up an agreement named for this region, which in 1648 confirmed the division of the Holy Roman Empire into Protestant and Catholic areas. For 10 points, what region names the \"Peace\" that ended the Thirty Years' War?",
+      "powerMarkPosition": 419,
+      "answer": "Westphalia",
+      "acceptableAnswers": [
+        "Westphalia",
+        "Kingdom of Westphalia",
+        "accept Westfalen",
+        "von Westphalen",
+        "accept Westphalian sovereignty",
+        "The Westphalia"
+      ],
+      "source": "qbreader",
+      "sourceId": "68486966b074cbb48b99b300"
+    },
+    {
+      "id": "3ac8e68e-e60e-44db-b4bf-b862c5e55b6e",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "A general relativistic form of this quantity is equal to the Ricci scalar times the square root of the negative determinant of the metric tensor; that quantity's integral is proportional to a different, related quantity named for Einstein and Hilbert. One equation sets the derivative of this quantity with respect to some coordinate equal to the time-derivative of this quantity's partial with respect to the coordinate's time-derivative. That central equation of the calculus of variations is named for Euler and this quantity's namesake. The time-integral of this quantity is the action, which is required to have a stationary value in the formulation of mechanics that shares this quantity's name. The Legendre transform of the Hamiltonian is, for 10 points, what quantity equal to kinetic energy minus potential energy that is named for a French physicist?",
+      "powerMarkPosition": 422,
+      "answer": "Lagrangian",
+      "acceptableAnswers": [
+        "Lagrangian",
+        "The Lagrangian"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1fd8"
+    },
+    {
+      "id": "7f7a04b5-f4e6-4ca8-b74b-9ddb13c61531",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "The eleven year solar cycle of the sun affects the frequency of waves that can be reflected off this layer of the atmosphere. This layer contains the F1 and F2 layers, which combine into the Appleton layer at night, due to the lack of sunlight acting on the entities that compose this layer. The E layer of this layer of the atmosphere can cause hops in radio signals, and solar radiation produces free electrons which make up this layer. For 10 points, name this layer of the atmosphere that is part of the thermosphere, named after the charged particles that compose it.",
+      "powerMarkPosition": 291,
+      "answer": "Ionosphere",
+      "acceptableAnswers": [
+        "Ionosphere",
+        "Thermosphere",
+        "The Ionosphere"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe963"
+    },
+    {
+      "id": "a39b2d56-ae0c-46a9-a899-890f643f2cc7",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "The Purnell equation is used to calculate peak heights in this technique. It's not distillation, but a form of this technique vaporizes substances to calculate the Kovats retention index. A and B parameters that account for Eddy diffusion and the diffusion coefficient respectively appear in an equation for this technique that calculates the maximum theoretical plate height. Pressures up to 400 atmospheres are used in the high performance liquid type of this technique. In the thin-layer version of this technique, silica gel is used as the stationary phase. For 10 points, name this chemical technique of separating a mixture by its polarity.",
+      "powerMarkPosition": 362,
+      "answer": "chromatography",
+      "acceptableAnswers": [
+        "chromatography",
+        "specific types of chromatography such as high performance liquid chromatography",
+        "thin-layer chromatography",
+        "The chromatography"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eea9fb047a67fbbb305d51"
+    },
+    {
+      "id": "d9f2ffa9-2953-452c-b74d-a328c7ab2e0b",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "In a novel by this author, Philippe confesses to a priest that his only crime was being the twin of Louis XIV. In another novel by this author, Baron Danglars, Fernand Mondego, and Merc´ed`es are among the targets of a man who escapes the Chˆateau d'If [sha-toh deef] and adopts a fictitious noble title. The Man in the Iron Mask is by, for 10 points, what French author who wrote about Edmund Dant`es in The Count of Monte Cristo?",
+      "powerMarkPosition": 238,
+      "answer": "Dumas",
+      "acceptableAnswers": [
+        "Dumas",
+        "The Dumas"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004cdd"
+    },
+    {
+      "id": "091835a8-d0f2-4a66-a6a0-b98b59be7027",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for blood glucose regulation. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this insulin-related structure.",
+      "powerMarkPosition": 73,
+      "answer": "Insulin",
+      "acceptableAnswers": [
+        "insulin",
+        "Insulin"
+      ],
+      "explanation": "The insulin is a key component of the Endocrine system, involved in blood glucose regulation.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "1e585c60-4f72-47dd-91b0-94b227372246",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "One character in this novel fires a small cannon at night, much to the amusement of the Aged P. In the end, Clarriker & Company acquires a new partner. One chracter dies after dreaming about his late wife pulling on him One character stays in Satis house, which has a brewery and iron bars on the windows, where all the clocks have been stopped. Mr. Provis becomes wealthy through sheep farming in New South Wales and dies after killing Arthur Compeyson. Whenever the protagonist needs money, he goes to Mr. Jaggers. Orlick does in Mrs. Joe, the protagonist's sister, with a hammer. For 10 points, identify this Dickens novel centered on Philip \"Pip\" Pirrip.",
+      "powerMarkPosition": 345,
+      "answer": "Great Expectations",
+      "acceptableAnswers": [
+        "Great Expectations",
+        "The Great Expectations"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f830dc626ea977c7a3c28"
+    },
+    {
+      "id": "fb70a9f7-17d1-4820-be65-3686e83224d7",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for partial pressure gradients. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this diffusion-related structure.",
+      "powerMarkPosition": 99,
+      "answer": "Diffusion",
+      "acceptableAnswers": [
+        "diffusion",
+        "Diffusion"
+      ],
+      "explanation": "The diffusion is a key component of the Respiratory system, involved in partial pressure gradients.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "6bb80357-cd4d-4dc0-82ad-aa3fd36f2d16",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "One famous depiction of this event was captured by John Filo, and most prominently featured Mary Ann Vecchio and Jeffrey Miller. Spurred in part by Governor James Rhodes describing participants of a protest as \"un-American\", this event saw 67 shots fired, which killed 4 people and injured 9 others, some of whom had been protesting the U.S. invasion of Cambodia. For 10 points, identify this May 4, 1970 incident in which the Ohio National Guard fired into a crowd of unarmed protesters at an Ohio university.",
+      "powerMarkPosition": 363,
+      "answer": "Kent State",
+      "acceptableAnswers": [
+        "Kent State",
+        "The Kent State"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0587"
+    },
+    {
+      "id": "5dfe9cf3-69bb-495d-a105-c1c6d7afb227",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "The \"geography\" and \"future\" of this concept were both the topics of two books by Benjamin Cohen. In his 1967 essay \"On the Concept of Influence,\" Talcott Parsons referred to it as a \"symbolic embodiment,\" and called for a sociology of this concept in the 1971 paper \"Higher Education as a Theoretical Focus.\" Karl Polanyi distinguished between the \"all-purpose\" and the \"special-purpose\" varieties of it, while Max Weber referred to it as \"the most abstract and impersonal element... in human life.\" Karl Marx used the term \"fraternization of impossibilities\" to refer to the way in which it \"exchange[s] every property for every other.\" For 10 points, identify this substance which along with \"employment,\" and \"interest,\" is the subject of the best-known work of John Maynard Keynes.",
+      "powerMarkPosition": 255,
+      "answer": "money",
+      "acceptableAnswers": [
+        "money",
+        "The money"
+      ],
+      "source": "qbreader",
+      "sourceId": "6465625b39f9588b048d21a3"
+    },
+    {
+      "id": "96813fa1-462f-4f82-9808-9d77f3a882ce",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Fossilized examples of a specific type of this region can be seen in ophiolites, where gabbro and peridotite may surround this region. In 1961, a project named after this region failed to reach this region with CUSS I. That project was led by Walter Munk and organized by the American Miscellaneous Society. More recent attempts to reach this region have used the Chikyu. The Soviet tried to study this region in the Kola Peninsula by drilling the world's deepest hole. This region only reaches the asthenosphere near mid-ocean ridges. Data from a 1909 earthquake led to the discovery of a difference in the speed of P-waves that traveled above and below this region. For 10 point, name this region of the Earth that separates the crust and mantle, named for a Croatian geologist.",
+      "powerMarkPosition": 363,
+      "answer": "Moho",
+      "acceptableAnswers": [
+        "Moho",
+        "mantle",
+        "The Moho"
+      ],
+      "source": "qbreader",
+      "sourceId": "630adb562eacc381ae57f78d"
+    },
+    {
+      "id": "8509fbe3-f07e-4a41-a582-91f1f9488b4e",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "Ypoá National Park in this country is named after the lake and wetlands it protects, and it is associated with the eco-region of Ñeembucú. This country's San Rafael National Park is planned to be a part of a proposed Trinational Biodiversity Corridor which seems to be threatened by farming activity continuing largely unchecked by the government, and between its creation in 1992 and 2007 it had already lost 22% of its original forests. This country's Cerro Cora National Park, located in Amambay Department, is notable for its petroglyphs, and historical monuments dedicated to the war whose last battle was fought here by the Aquidabán River. This country's Ñacunday National Park is home to a 110m wide namesake waterfall, and is located about 90km from Ciudad del Este. For 10 points, what country's national parks include \"Defenders of the Chaco\" National Park, which is its largest and which commemorates its country's nationals who served in a namesake 1932-5 war over this territory against Bolivia?",
+      "powerMarkPosition": 438,
+      "answer": "Paraguay",
+      "acceptableAnswers": [
+        "Paraguay",
+        "The Paraguay"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dedd68"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "7d98548b-7d00-4895-b359-19532cd8d199",
+      "linkedTossupId": "ad1456d7-e4cb-41b6-a914-8ee33b6facb5",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this author who wrote about Stephen Daedalus and Leopold Bloom in Portrait of the Artist as a Young Man and Ulysses, respectively.",
+          "answer": "Joyce",
+          "acceptableAnswers": [
+            "Joyce",
+            "The Joyce"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A character in one story in this collection is unable to buy a gift at a bazaar after he arrives too late. This short story collection includes \"The Sisters,\" \"Araby,\" and \"The Dead.\"",
+          "answer": "Dubliners",
+          "acceptableAnswers": [
+            "Dubliners",
+            "The Dubliners"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This protagonist of \"The Dead\" is accused of being a \"West Briton\" by Miss Ivors, and his wife Gretta is reminded of her old lover Michael Furey when she hears the song \"The Lass of Aughrim.\"",
+          "answer": "Gabriel",
+          "acceptableAnswers": [
+            "Gabriel",
+            "either",
+            "The Gabriel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author's final work was the experimental novel Finnegan's Wake. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "639f7290036417219c961c7f"
+    },
+    {
+      "id": "6df45907-da07-4b52-89c7-8aa76a05fb29",
+      "linkedTossupId": "04b26ae5-7e00-4172-b44a-2a4a146b7ac5",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This is only other nation in the world besides India with a majority Hindu population. This mountainous country is sandwiched between China and northeastern India.",
+          "answer": "Nepal",
+          "acceptableAnswers": [
+            "Nepal",
+            "The Nepal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Over eighty percent of Indians are Hindus, but that figure includes this bottom caste of Hinduism, many of which do not consider themselves part of the religion. The name which many of these people prefer translates as \"downtrodden\".",
+          "answer": "dalit",
+          "acceptableAnswers": [
+            "dalit",
+            "Untouchables",
+            "The dalit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Hindu diaspora has given this Caribbean island nation a Hindu population of about a quarter million. The shouter baptist syncretic religion was formed in what is now this nation.",
+          "answer": "Trinidad",
+          "acceptableAnswers": [
+            "Trinidad",
+            "The Trinidad"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about national demographics with regards to Hinduism, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289cae65"
+    },
+    {
+      "id": "58daf504-1ec1-491a-8948-cd79e5a14352",
+      "linkedTossupId": "406812fc-ad04-4233-a27c-6ee58e5193c4",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Renaissance artist who painted Madonna of the Goldfinch. His frescoes include The Parnassus and La Disputa, or The Disputation of the Sacrament, in the Stanza della Segnatura [say-nyah-too-rah].",
+          "answer": "Raphael",
+          "acceptableAnswers": [
+            "Raphael",
+            "The Raphael"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Probably Raphael's most famous painting is this fresco, also in the Stanza della Segnatura. It depicts various thinkers, including Aristotle and Plato, arranged on stairs under an archway.",
+          "answer": "School of Athens",
+          "acceptableAnswers": [
+            "School of Athens",
+            "The School of Athens"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Raphael painted the aforementioned frescoes for Pope Julius II in this city's Apostolic Palace, the residence of Popes in this city-state within Rome.",
+          "answer": "Vatican",
+          "acceptableAnswers": [
+            "Vatican",
+            "The Vatican"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one of his works, he showed an infant Jesus stroking the head of a bird which an infant John the Baptist is holding. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac9f0"
+    },
+    {
+      "id": "7dd23650-c028-47f9-aa92-1006a30d661d",
+      "linkedTossupId": "c4b0b2d0-b41d-403b-a6ad-312c43bf44d6",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with systemic circulation.",
+          "answer": "systole",
+          "acceptableAnswers": [
+            "systole"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the systole in the cardiovascular system?",
+          "answer": "Systemic circulation",
+          "acceptableAnswers": [
+            "Systemic circulation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to systemic circulation.",
+          "answer": "diastole",
+          "acceptableAnswers": [
+            "diastole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ddce1ae4-8d6a-4490-a060-22f611303aba",
+      "linkedTossupId": "6c763edf-316f-4310-897b-80d341ed6618",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this French Nobel Laureate whose autobiography Si le grain ne meurt and his novel The Immoralist both met with controversy for their frank depictions of homosexuality.",
+          "answer": "Gide",
+          "acceptableAnswers": [
+            "Gide",
+            "The Gide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gide claimed that the second-best French novel ever was this epistolary novel by Pierre Choderlos de Laclos about the seductions and manipulations carried out by the Marquise de Merteuil and the Vicomte de Valmont.",
+          "answer": "Liaisons Dangereuses",
+          "acceptableAnswers": [
+            "Liaisons Dangereuses",
+            "The Dangerous Liaisons",
+            "The Liaisons Dangereuses"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gide's top honors went to The Charterhouse of Parma, a work of this pseudonymous author who wrote about Julien Sorel's adventures during the Bourbon Restoration in The Red and the Black.",
+          "answer": "Stendhal",
+          "acceptableAnswers": [
+            "Stendhal",
+            "Marie-Henri Beyle",
+            "The Stendhal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Ghéridanisol dares Boris to commit suicide in a memorable scene from this man's novel The Counterfeiters. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54af1c8"
+    },
+    {
+      "id": "a41d40a2-2e6b-4193-9a6d-831bdfdba46f",
+      "linkedTossupId": "81b91d80-821a-42f0-96e6-9fe482653035",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this author of Jacob's Room, Orlando and A Room of One's Own, who wrote about Peter Walsh, Elizabeth, and Richard in Mrs. Dallloway.",
+          "answer": "Woolf",
+          "acceptableAnswers": [
+            "Woolf",
+            "The Woolf"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Woolf also wrote this novel, in which the Ramsays invite Lily Briscoe and Charles Tansley to their vacation home, where James and Cam finally make the titular journey.",
+          "answer": "To the Lighthouse",
+          "acceptableAnswers": [
+            "To the Lighthouse",
+            "The To the Lighthouse"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of Woolf's contemporaries was this man, the author of Sons and Lovers and Lady Chatterley's Lover.",
+          "answer": "Lawrence",
+          "acceptableAnswers": [
+            "Lawrence",
+            "The Lawrence"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one of her works, Clarissa hosts a dinner party. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f2138"
+    },
+    {
+      "id": "7424dceb-6b17-4fc7-9915-994f25db362b",
+      "linkedTossupId": "cb7b8ccb-a5e0-4e0a-9a40-836eb0513c9d",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Suetonius (sweh-TOH-nee-uss) notes that Augustus revived this February festival, whose celebrants sacrifice goats, then don strips of the goatskin while running a circuit around the Palatine Hill that started and ended in a cave.",
+          "answer": "Lupercalia",
+          "acceptableAnswers": [
+            "Lupercalia",
+            "Februa",
+            "The Lupercalia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Horace was commissioned to write a hymn for Augustus's revival of this three-day celebration, which included sacrifices on the Campus Martius and was held every 110 years, a period representing the longest possible human lifespan.",
+          "answer": "Secular Games",
+          "acceptableAnswers": [
+            "Secular Games",
+            "Ludi Saeculares",
+            "accept Ludi Tarentini",
+            "The Secular Games"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Augustus also established a cult, complete with a temple in his namesake Forum, dedicated to the \"Avenger\", or \"Ultor\", aspect of this Roman god of war.",
+          "answer": "Mars",
+          "acceptableAnswers": [
+            "Mars",
+            "The Mars"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about Emperor Augustus's religious reforms, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae5c6"
+    },
+    {
+      "id": "60caa118-5542-4423-a03a-6d3094a4b294",
+      "linkedTossupId": "028ddaf6-c60d-46fc-80c5-23b623980ec7",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Asian desert that occupies much of China's Xinjiang Region, home to many Uighurs.",
+          "answer": "Taklamakan",
+          "acceptableAnswers": [
+            "Taklamakan",
+            "The Taklamakan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Tien Shan Mountains separate the Taklamakan Desert from this other Asian desert occupying much of Northern China and Southern Mongolia.",
+          "answer": "Gobi",
+          "acceptableAnswers": [
+            "Gobi",
+            "The Gobi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Middle Eastern desert is bordered to the west by the Sinai Peninsula, and it is home to the city of Beersheba.",
+          "answer": "Negev",
+          "acceptableAnswers": [
+            "Negev",
+            "The Negev"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This desert occupies much of the Tarim basin, and is bordered by the Kunlun Mountains to the south. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe980"
+    },
+    {
+      "id": "3ac7687f-290f-4d65-b78d-a008c46dad35",
+      "linkedTossupId": "d6dd73fe-cac2-4b66-99e9-e070602a5a29",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this 1905 Russian document issued in its namesake month.",
+          "answer": "October Manifesto",
+          "acceptableAnswers": [
+            "October Manifesto",
+            "The October Manifesto"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The 1905 Revolution leading to the October Manifesto was caused in part by Russia's disastrous defeat in a 1904-1905 war against this Asian nation.",
+          "answer": "Japan",
+          "acceptableAnswers": [
+            "Japan",
+            "The Japan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The October Manifesto was written by this advisor to Nicholas II who served as Russia's first Prime Minister from 1905-1906.",
+          "answer": "Witte",
+          "acceptableAnswers": [
+            "Witte",
+            "The Witte"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This document offered freedom of the speech and religion along with greatly extended power for the Duma. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bff04a"
+    },
+    {
+      "id": "0fb402f9-5254-44f2-8f67-68d5082958bd",
+      "linkedTossupId": "3ac8e68e-e60e-44db-b4bf-b862c5e55b6e",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these two symmetries with similar doubly- and triply-degenerate representations. Fields with either of these symmetries produce a 2:3 ratio of displacements but with opposite signs, and the total splitting of the more symmetric is 9/4 that of the other.",
+          "answer": "octahedral",
+          "acceptableAnswers": [
+            "octahedral",
+            "Oh AND Td",
+            "do not accept",
+            "prompt on \"O\"",
+            "\"T\"",
+            "The octahedral"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Along with the trivial zero and ten, these two counts of d electrons are not given Tanabe-Sugano diagrams, as the only transition with either of these numbers of electrons is from the T2g state to the Eg, or vice-versa.",
+          "answer": "d1",
+          "acceptableAnswers": [
+            "d1"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the smallest number of d-electrons required for a Tanabe-Sugano diagram to have the vertical discontinuity separating high and low spin complexes. Tetrahedral complexes have this many ligands.",
+          "answer": "four",
+          "acceptableAnswers": [
+            "four",
+            "The four"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An electric field with one of these symmetries acts on a configuration of d electrons analogously to a field with the other symmetry acting on the corresponding hole configuration. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64306481335bc8c468cbb5ab"
+    },
+    {
+      "id": "a8447614-6316-48cc-a212-49bc755732d2",
+      "linkedTossupId": "7f7a04b5-f4e6-4ca8-b74b-9ddb13c61531",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these substances which can be classified as either positive or negative. They are deviations from Raoult's Law.",
+          "answer": "azeotrope",
+          "acceptableAnswers": [
+            "azeotrope",
+            "The azeotrope"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ethanol famously forms an azeotrope when its volume is this percentage of the total volume of a solution with water. Answers will be accepted to within 3 percent on both sides.",
+          "answer": "95%",
+          "acceptableAnswers": [
+            "95%",
+            "The 95%"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "N-butanol and water form one of these types of azeotropes at 93.5 degrees Celsius. These types of azeotropes have a vapor phase coexisting with two liquid phases.",
+          "answer": "hetero",
+          "acceptableAnswers": [
+            "hetero",
+            "The hetero"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A Dean-Stark trap might be used to separate these substances. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a89ff"
+    },
+    {
+      "id": "9eb728bc-d4cb-46f5-8127-bea0896a0d9c",
+      "linkedTossupId": "a39b2d56-ae0c-46a9-a899-890f643f2cc7",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this property possessed by molecules that are non-superimposable on their mirror images.",
+          "answer": "chiral",
+          "acceptableAnswers": [
+            "chiral",
+            "word forms",
+            "The chiral"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chiral centers consist of a carbon bonded to this many different substituents. Carbon tends to form this many bonds in chemical compounds; for example, methane contains a carbon bound to this many hydrogen atoms",
+          "answer": "4",
+          "acceptableAnswers": [
+            "4",
+            "four"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chiral compounds can form this type of mixture that consists of a 50:50 mix of two enantiomers.",
+          "answer": "racemic",
+          "acceptableAnswers": [
+            "racemic",
+            "The racemic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This property is possessed by the CBS catalyst, which creates diastereotopic reactive faces by acting as this type of auxiliary. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587597a4c"
+    },
+    {
+      "id": "98e1deeb-969a-492f-988c-bac417206c73",
+      "linkedTossupId": "d9f2ffa9-2953-452c-b74d-a328c7ab2e0b",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this coming-of-age novel narrated by Esperanza Cordero, written by Sandra Cisneros.",
+          "answer": "The House on Mango Street",
+          "acceptableAnswers": [
+            "The House on Mango Street",
+            "House on Mango Street"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This book by the Trinidadian author V.S. Naipaul concerns Mohun and his attempt to own a house of his own so he can escape the domineering family of his wife.",
+          "answer": "A House for Mr. Biswas",
+          "acceptableAnswers": [
+            "A House for Mr. Biswas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A series of semi-autobiographical books about \"Little Houses\" in \"The Big Woods\" and \"On the Prairie\" was written by this author, who eventually married Alonzo in These Happy Golden Years .",
+          "answer": "Wilder",
+          "acceptableAnswers": [
+            "Wilder",
+            "The Wilder"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This novel, told as a series of Vignettes, focuses on a Latino neighborhood in Chicago and the daily ups and downs of its residents. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b807"
+    },
+    {
+      "id": "1c3b6f65-395d-4e5f-86cd-0e115aa1b6e0",
+      "linkedTossupId": "091835a8-d0f2-4a66-a6a0-b98b59be7027",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with thymus gland.",
+          "answer": "lymph",
+          "acceptableAnswers": [
+            "lymph"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the lymph in the immune system?",
+          "answer": "Thymus gland",
+          "acceptableAnswers": [
+            "Thymus gland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to thymus gland.",
+          "answer": "lymph node",
+          "acceptableAnswers": [
+            "lymph node"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9cc28f1c-d001-48e1-96f3-eace59593a0d",
+      "linkedTossupId": "1e585c60-4f72-47dd-91b0-94b227372246",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "In a 1985 novel, the protagonist and his colleague, a professor of pop culture who seeks to specialize in \"Elvis Studies,\" visit what tourist destination, which \"no one sees\" despite extensively documenting it?",
+          "answer": "photographed barn",
+          "acceptableAnswers": [
+            "photographed barn",
+            "descriptions of a barn that is photographed",
+            "accept the barn from White Noise",
+            "prompt on barn",
+            "The photographed barn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"E Unibus Pluram\" traces this medium's influence on U.S. fiction. Jack Gladney's kids are addicted to this medium in Don DeLillo's novel White Noise, whose title refers to the visual static produced by it.",
+          "answer": "television",
+          "acceptableAnswers": [
+            "television",
+            "TV",
+            "The television"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author featured zombie-like, TV-obsessed \"Thanatoids\" in his novel Vineland. After returning from a Tupperware party, one of this author's protagonists stares at a TV upon hearing she will execute Pierce Inverarity's will.",
+          "answer": "Pynchon",
+          "acceptableAnswers": [
+            "Pynchon",
+            "Thomas Ruggles Pynchon Jr.",
+            "The Pynchon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Description acceptable. David Foster Wallace's essay \"E Unibus Pluram\" praises the \"complicated ironies\" of a lengthy passage about this location. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "686e1e5a786d3dcf273bf5d6"
+    },
+    {
+      "id": "1e6e2c5d-8c65-4c3b-b5fa-62553e9e55e6",
+      "linkedTossupId": "fb70a9f7-17d1-4820-be65-3686e83224d7",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with blood pressure regulation.",
+          "answer": "systole",
+          "acceptableAnswers": [
+            "systole"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the systole in the cardiovascular system?",
+          "answer": "Blood pressure regulation",
+          "acceptableAnswers": [
+            "Blood pressure regulation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to blood pressure regulation.",
+          "answer": "diastole",
+          "acceptableAnswers": [
+            "diastole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "75d7accb-cc96-4ce5-a1fc-3379fdb8fbf5",
+      "linkedTossupId": "6bb80357-cd4d-4dc0-82ad-aa3fd36f2d16",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Give this title for rulers of Russia prior to the October Revolution. The last man to hold this title was Nicholas II [second], who was executed along with his family.",
+          "answer": "Tsar",
+          "acceptableAnswers": [
+            "Tsar",
+            "The Tsar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This youngest daughter of Nicholas II was rumored to have survived the royal family's execution. Many women impersonated this girl in attempts to claim her fortune.",
+          "answer": "Anastasia",
+          "acceptableAnswers": [
+            "Anastasia",
+            "The Anastasia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This mystic and advisor to Nicholas II avoided being executed along with the imperial family because he had already been poisoned, stabbed, shot, and drowned.",
+          "answer": "Rasputin",
+          "acceptableAnswers": [
+            "Rasputin",
+            "The Rasputin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The last ruler with this title was overthrown by the Bolsheviks. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba9714b"
+    },
+    {
+      "id": "b933dc62-3b29-454f-a338-a867a0f9d307",
+      "linkedTossupId": "5dfe9cf3-69bb-495d-a105-c1c6d7afb227",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this doubly-eponymous model of a firm's output, empirically tested by its namesakes against measures of the U.S. economy.",
+          "answer": "Cobb-Douglas",
+          "acceptableAnswers": [
+            "Cobb-Douglas",
+            "The Cobb-Douglas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the Cobb-Douglas model, L represents this capacity of humans to do work, as opposed to other factors of production like land and capital, the latter of which is represented by K.",
+          "answer": "labor",
+          "acceptableAnswers": [
+            "labor",
+            "The labor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Alpha and beta represent the percent change in output with respect to percent change in input, making them this kind of measure of the effect of a change in one variable, such as price, on the change in another, such as demand.",
+          "answer": "elasticity",
+          "acceptableAnswers": [
+            "elasticity",
+            "The elasticity"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This model uses a production function \"Y equals A times K to the alpha times L to the beta,\" where for simplicity's sake alpha plus beta often equals one, implying constant returns to scale. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df7ca243aee49db2f769a2"
+    },
+    {
+      "id": "7b837f78-b1cf-481a-9b82-e8519e9c62d3",
+      "linkedTossupId": "96813fa1-462f-4f82-9808-9d77f3a882ce",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this quantity that represents the Gibbs free energy gained or lost with the addition or removal of a single particle from a system.",
+          "answer": "chemical potential",
+          "acceptableAnswers": [
+            "chemical potential",
+            "The chemical potential"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This statistical ensemble corresponds to a system in thermal contact with a heat reservoir at fixed temperature and in diffusive contact with a particle reservoir at fixed chemical potential. Its partition function is the sum over microstates of Gibbs factors.",
+          "answer": "grand canonical",
+          "acceptableAnswers": [
+            "grand canonical",
+            "The grand canonical"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Boltzmann's constant times the temperature times the natural log of the grand canonical partition function yields this quantity. It also equals the particle number times the chemical potential minus the Helmholtz free energy.",
+          "answer": "PV",
+          "acceptableAnswers": [
+            "PV"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This quantity serves as the Lagrange multiplier associated with the particle number when maximizing the entropy of a statistical ensemble. FTPE:",
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfaa62"
+    },
+    {
+      "id": "4b77e6f5-0fd4-4e20-b3fa-c0e24e225ab7",
+      "linkedTossupId": "8509fbe3-f07e-4a41-a582-91f1f9488b4e",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this geographer who discussed the interrelation of the natural and cultural in his influential paper \"The Morphology of Landscape.\"",
+          "answer": "Sauer",
+          "acceptableAnswers": [
+            "Sauer",
+            "The Sauer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a 1962 paper, Sauer described the \"emergent taxonomy\" of this cereal plant in 16th-century Europe; he also claimed this crop native to the Americas had been present in Europe prior to 1492.",
+          "answer": "corn",
+          "acceptableAnswers": [
+            "corn",
+            "The corn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While a graduate student at the University of Chicago, Sauer attended lectures by this human geographer, a disciple of Friedrich Ratzel; he later rejected her approach as too dogmatic.",
+          "answer": "Semple",
+          "acceptableAnswers": [
+            "Semple",
+            "The Semple"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man's early texts include a 1922 treatise on soils subtitled \"a neglected side of geography.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63052605c887e5458fc32fb9"
+    }
+  ]
+}

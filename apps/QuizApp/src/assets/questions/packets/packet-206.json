@@ -1,0 +1,1158 @@
+{
+  "packetId": "packet-206",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Geography",
+    "Science",
+    "History",
+    "Mythology",
+    "Fine Arts",
+    "Philosophy",
+    "Literature"
+  ],
+  "tossups": [
+    {
+      "id": "4801e39c-1c3f-43b8-b7c8-0c9bcca49462",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "A highly endangered species of crocodile is restricted to the basin of this river as well as that of the Meta River. Tributaries of this river include the Caura, the Atabapo, and the Apure, as well as the Arauca. Another tributary of this river joins it near a waterfall whose name is Spanish for \"drizzle.\" That tributary, whose source is in the Guiana Highlands, is the Caroní River. The Casiquiare Canal connects this river to the Rio Negro, thus connecting it to the Amazon system. For 10 points, name this river of Venezuela.",
+      "powerMarkPosition": 212,
+      "answer": "Orinoco",
+      "acceptableAnswers": [
+        "Orinoco",
+        "The Orinoco"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df8012e66cc66ca571d1df"
+    },
+    {
+      "id": "83eff0ca-c26e-49d5-b9ac-22f551c7bf57",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "text": "This element is added to nitrogen and oxygen to form trimix. A dimer of this element has the weakest known chemical bond, though that dimer shouldn't exist according to molecular orbital theory due to two electrons in the sigma sub 1s star orbital. The nuclei of one isotope of this element can form Cooper pairs at low temperatures in a mechanism described by Lee and Osherroff; this was an early example of superfluidity. Because it is produced by the proton-proton chain, it is the second most abundant element in the universe. For 10 points, name this element with atomic number two.",
+      "powerMarkPosition": 248,
+      "answer": "helium",
+      "acceptableAnswers": [
+        "helium",
+        "He",
+        "The helium"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df83920c3a38102cd7586c"
+    },
+    {
+      "id": "ec22a048-392a-4151-89d2-9abc4a24dbd6",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "Gregory Peck narrated TV commercials against this man produced by People for the American Way. Benjamin Hooks represented a group that he said would oppose this man \"until hell freezes over,\" after which they'll \" skate across the ice.\" A speech attacking this man describes \"writers and artists\" being \"censored at the whim of the government.\" The Video Privacy Protection Act was enacted after this man's video rental history was published. William Saxbe replaced him as acting Attorney General, a position he took on after the resignation of William Ruckelshaus. Ted Kennedy described this man's America as one in which \"women would be forced into back-alley abortions.\" As Solicitor General, he fired Archibald Cox during the Saturday Night Massacre. For 10 points, name this legal scholar whose 1987 Supreme Court nomination was rejected by the Senate.",
+      "powerMarkPosition": 406,
+      "answer": "Bork",
+      "acceptableAnswers": [
+        "Bork",
+        "The Bork"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f32e2883e2636cb3c964a4"
+    },
+    {
+      "id": "913300f5-4b50-4a1b-b8cc-7927fc7ca7c1",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "The main physical attractions of this national park were created as part of the Capitan Reef, limestone remnants of an inland sea that disappeared 250 million years ago. Location of sites like Chocolate High and Chocolate Drop, this park features the underground Lake Chandalar, home to extremophile microbes that feast on hydrogen sulfide in the underground lake. Located in the Guadaloupe Mountains inside the Chihuahua Desert, most tourists visit its Hall of the White Giants and The Big Room, home to dozens of species of bats. For 10 points what New Mexico national park features an extensive cave system?",
+      "powerMarkPosition": 364,
+      "answer": "Carlsbad Caverns",
+      "acceptableAnswers": [
+        "Carlsbad Caverns",
+        "The Carlsbad Caverns"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee55e"
+    },
+    {
+      "id": "4bf3dbe3-f54e-4c7d-a35b-afab574b86ca",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "A collection of point particles with nonzero values of this quantity cannot exist in stable stationary equilibrium by Earnshaw's theorem. The magnetic force on a particle is given by this quantity times the cross product of the particle's velocity and the magnetic field. The flux through a closed surface is proportional to the amount of this quantity enclosed by Gauss's Law. This quantity is uniformly distributed over the surface of a conductor. The force between objects with nonzero values of this quantity is given by an inverse-square law named for Coulomb. For ten points, name this electrical quantity measured in Coulombs.",
+      "powerMarkPosition": 364,
+      "answer": "charge",
+      "acceptableAnswers": [
+        "charge",
+        "q",
+        "The charge"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0af1b9"
+    },
+    {
+      "id": "548d2149-1206-4f41-9f7e-c527d2b98bba",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "This god defeats the Indian king Deriades in a 48-book epic by Nonnus. Euripedes wrote that followers of this god, such as Agave, carried honey-dripping pine cone-tipped staffs called thyrsi and tore apart the king Pentheus for banning worship of this god. Zeus sews this god into his thigh after this god's mother Semele dies viewing Zeus in his full form. This god gained control over one domain after his lover Ampelos turned into a grapevine. For 10 points, name this Greek god of wine and revelry.",
+      "powerMarkPosition": 261,
+      "answer": "Dionysus",
+      "acceptableAnswers": [
+        "Dionysus",
+        "Bacchus until “Zeus” is read",
+        "The Dionysus"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7deba3"
+    },
+    {
+      "id": "8ae8e0e6-2dcf-4d5a-a54b-2b92b53ca433",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "Reactions with organolithium reagents are generally conducted in a bath of this compound and acetone, and one form of this molecule is a good lipophilic solvent often used in a certain \"drying\" reaction. The Keeling curve plots the concentration of this molecule, and when dissolved in water, this gas forms the weak acid that's the major cause of ocean acidification. The increase of this gas in the blood decreases the ability of hemoglobin to bind oxygen, and the solid form of this gas sublimes at room temperature. For 10 points, name this gas that's called dry ice in its solid form.",
+      "powerMarkPosition": 311,
+      "answer": "carbon dioxide",
+      "acceptableAnswers": [
+        "carbon dioxide",
+        "The carbon dioxide"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc3fd"
+    },
+    {
+      "id": "53805bdc-9767-4578-8c24-331bd39f389b",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "text": "The first movement of this piece abruptly switches from D minor to D major on its last chord before transitioning attacca to a movement featuring stark piano octaves as accompaniment. This piece is the first and best-known of its composer's Trionfi triptych. After a fortissimo downbeat in the lower instruments, the first movement of this piece begins with the pesante melody [read slowly] \"long E, F, D, D.\" A Reie (\"RYE-uh\"), or round dance, is included in this piece's section \"Uf dem Anger.\" A very high tenor solo represents a swan being roasted on a spit in this piece's movement \"Olim lacus colueram.\" Movements praising an \"Imperatrix Mundi\" bookend this piece, which is based on a medieval collection of Latin and Old German songs. \"O Fortuna\" is part of, for 10 points, what cantata by Carl Orff?",
+      "powerMarkPosition": 312,
+      "answer": "Carmina Burana",
+      "acceptableAnswers": [
+        "Carmina Burana",
+        "The Carmina Burana"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423b9e"
+    },
+    {
+      "id": "7880d5e2-5d3f-41a8-b537-603b38d9b9d0",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Many GPUs implement a technique similar to mipmapping called \"Hierarchical-[this letter]\" or \"Hi-[this letter]\" that can reject larger regions. It's not \"g\", but the technique in which opaque objects are first rendered with a vertex shader without using a pixel shader is called \"[this letter]-prepass\"; that technique is useful because it populates a structure also named for this letter. A phenomenon in which attempting to render intersecting shapes makes them flicker back and forth is known as this letter's \"fighting\". The rasterization step of a graphics pipeline uses a \"buffer\" named for this letter that determines which meshes are hidden behind others. In 2D game engines, a value represented by this letter determines the order that overlapping sprites are rendered in, just like how CSS uses this letter's \"index\". For 10 points, name this letter that represents the third axis in 3D Cartesian coordinates.",
+      "powerMarkPosition": 512,
+      "answer": "Z",
+      "acceptableAnswers": [
+        "Z",
+        "z-buffer",
+        "z-fighting",
+        "etc.",
+        "prompt on “depth” with “what letter represents depth?”"
+      ],
+      "source": "qbreader",
+      "sourceId": "657fd7d8de6df0163bbe3b74"
+    },
+    {
+      "id": "7d358162-2c89-41f4-bd06-da8cea1e601e",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "An island in this state is connected to the mainland by the Bonner Bridge and contains the village of Rodanthe (\"roh-DAN-thee\"). The tallest point east of the Mississippi, Mt. Mitchell, is in this state. This state includes the tallest lighthouse in the US on Cape Hatteras (\"HAT-er-iss\") in its Outer Banks. With Tennessee, this state shares the Great Smoky Mountains. For 10 points, name this state, whose research triangle contains Durham, Chapel Hill, and its capital, Raleigh.",
+      "powerMarkPosition": 295,
+      "answer": "North Carolina",
+      "acceptableAnswers": [
+        "North Carolina",
+        "NC",
+        "The North Carolina"
+      ],
+      "source": "qbreader",
+      "sourceId": "68b2ff0f8940d9f7c563a2d0"
+    },
+    {
+      "id": "189bed04-f385-4907-aead-6e0d075a0f76",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "The smallest class of this phylum contains Chironex fleckeri, which contains poison that can be fatal to humans. The endoderm and ectoderm of members of this phylum are held together by a layer of gelatinous material called a mesoglea. A gastrovascular cavity serves as both a mouth and an anus in members, all of which exhibit radial symmetry. Members of class Anthozoa only have a polyp form, while members of class Hydrozoa have a polyp and medusa form. For 10 points -- name this phylum, whose members include sea anemones, corals, and jellyfish.",
+      "powerMarkPosition": 235,
+      "answer": "Cnidaria",
+      "acceptableAnswers": [
+        "Cnidaria",
+        "The Cnidaria"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fa7c"
+    },
+    {
+      "id": "415ebd3e-54a5-4073-975a-bcdbb5760f78",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "The first twelve chapters of this work attempt to axiomatize human nature, beginning with Sense and Imagination, after a preface which describes life as a \"motion of limbs\" and coined the term \"body politic.\" Its second section writes that differences of strength and craft make men equally able to kill each other; that section, \"Of the Commonwealth,\" describes the \"war of all against all,\" a pre-covenant state of nature in which life is \"solitary, poor, nasty, brutish, and short.\" For 10 points, name this work of political philosophy advocating for a single absolute sovereign, by Thomas Hobbes.",
+      "powerMarkPosition": 192,
+      "answer": "Leviathan",
+      "acceptableAnswers": [
+        "Leviathan",
+        "The Leviathan"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a0b9"
+    },
+    {
+      "id": "d0d5f30a-e3a2-4650-8ffd-f5096c1977af",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "Some of these things were named after pairs of men and women, like U and Polu, who were shaped from maggots that grew from a rotting vine which spread over these things. Pliny the Elder described a pair of them made of gold and silver named Chryse and Argyre. Some of these things were created in a process called kuniumi, when salt crystals fell off a jeweled spear. Two of these things separated because fishermen got distracted by the moon goddess Hina floating in a calabash gourd. Eight of these things, including Awaji and Tsushima, were created during the second, successful, ritual marriage of Izanagi and Izanami. Maui used jawbone as a fish hook to pull some of these places out of the ocean. For 10 points, name these places that make up Hawai'i.",
+      "powerMarkPosition": 405,
+      "answer": "island",
+      "acceptableAnswers": [
+        "island",
+        "islands of Samoa (",
+        "equivalents) before \"Pliny\"",
+        "prompt on landmass",
+        "The island"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae8573"
+    },
+    {
+      "id": "7e441b29-8303-49d5-bee8-16cb8f758a2b",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "college",
+      "text": "He began construction on a number of aqueducts including the Anio Novus which were completed under his successor. Among the casualties of his reign was the joint heir at his succession, Gemellus, and the prefect of the Praetorian Guard Macro. Another prefect, Marcus Clemens, joined a band of conspirators including his assassin Cassius Chaerea. He dined with and showered gifts upon Incitatus who, unfortunately, was a horse. With a name meaning \"little boots\", For 10 points, name this son of Agrippina the Elder and Germanicus who ruled as Roman emperor from 37-41 A.D. after succeeding Tiberius.",
+      "powerMarkPosition": 242,
+      "answer": "Caligula",
+      "acceptableAnswers": [
+        "Caligula",
+        "The Caligula"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bca72e7fe60f397fb4a894"
+    },
+    {
+      "id": "d79607f2-a7be-474e-9c81-b82b098a504d",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "On the first night of this holiday, a pyre is lit to represent a demoness who attempted to kill her nephew due to the orders of her invincible brother. Another possible source of this holiday is the goddess Rati meditating for 40 days, leading to a destruction god reviving a deity associated with this holiday. The main event of this holiday occurs on a full moon during the month of Phalguna. Certain mixtures important to this holiday are created with neem, kumkum, haldi, and bilva. During this holiday, one might find people filling water balloons and water guns with pigments and attempting to spray each other. For 10 points, identify this Hindu festival of love, spring, and color.",
+      "powerMarkPosition": 402,
+      "answer": "Holi",
+      "acceptableAnswers": [
+        "Holi",
+        "Festival of Colors before “color”",
+        "The Holi"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df736e427feb09cfb1bc0d"
+    },
+    {
+      "id": "2b721ac1-5a97-4c1b-afab-50e0505a451f",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "One theory of this entity's creation states that a Mars-sized body named Theia (\"THEE-uh\") collided with its parent planet. This object exhibits synchronous (\"SIN-kro-nuss\") rotation with its parent planet, and that rotation results in the namesake \"dark side\" of this object. The Sea of Tranquility lies on, for 10 points, what astronomical body responsible for the Earth's tides, its largest natural satellite?",
+      "powerMarkPosition": 123,
+      "answer": "Moon",
+      "acceptableAnswers": [
+        "Moon",
+        "The Moon"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec6523"
+    },
+    {
+      "id": "ef251592-7fef-4e4e-82c8-8275514ff5ba",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "After this man's father died, his family was taken in by Ohio Senator and later Secretary of the Treasury Thomas Ewing. This man's namesake \"neckties\" were railway lines heated so that they could be tied around trees, making repair nearly impossible. This military leader issued \"Special Field Orders Number 15,\" demanding parcels of 40 acres be given to freed slaves. E.L. Doctorow's novel The March is a fictional account of the tens of thousands of displaced people who followed this man's most famous military action. For 10 points, what Union general used scorched earth tactics on his way to capture Savannah in his famous \"March to the Sea\"?",
+      "powerMarkPosition": 250,
+      "answer": "Sherman",
+      "acceptableAnswers": [
+        "Sherman",
+        "The Sherman"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0ca06"
+    },
+    {
+      "id": "630b90d8-7931-4ee0-84ce-8f2eb25d80d6",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "One of this man's works, written after an earthquake, detailed his opposition to the Council of Regency. This author of the Cartagena Manifesto won the Battle of Los Horcones during his Admirable Campaign, in which he also issued the Decree of War to the Death. This man met with Jose de San Martin at the Guayaquil Conference, and his lieutenant, Jose de Sucre, won the Battle of Ayacucho, after this man won the Battle of Carabobo. For 10 points, name this president of Gran Columbia, South America's \"Liberator.\"",
+      "powerMarkPosition": 261,
+      "answer": "Bolívar",
+      "acceptableAnswers": [
+        "Bolívar",
+        "The Bolívar"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f067c"
+    },
+    {
+      "id": "a4639ef4-c7e2-4b8a-b1b5-44c5a4a7729d",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "In one poem, this author asked \"Who is the East?/The Yellow Man/Who may be Purple if He can,\" while another poem by this author that is shockingly not about playing NAQT questions opens with the line \"BEE! I'm expecting you.\" This poet notes that \"Diadems drop and Doges surrender\" in \"Safe in their alabaster chambers,\" while in another work, she claims to be \"inebriate of air\" and \"debauchee of dew\" after tasting \"a liquor never brewed.\" Other poems saw her note that \"Hope is the thing with feathers\" and also will \"her keepsakes\" away before hearing a fly buzz and dying. For 10 points, identify this introverted Amherst native, the narrator and author of \"Because I could not stop for Death.\"",
+      "powerMarkPosition": 577,
+      "answer": "Dickinson",
+      "acceptableAnswers": [
+        "Dickinson",
+        "The Dickinson"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43463"
+    },
+    {
+      "id": "51bcdfdd-4846-484d-8302-a86579b5eb74",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "They're not Beethoven, but this composer wrote a fantasia quasi sonata beginning with octaves alternating between A and E-flat to depict the gates of Hell. The note C-sharp is played twice before two C-sharp major chords to begin the second piece of a collection by this composer whose movements are based on the slow lassan (LAASH-un) and fast friska. A repeated high D-sharp represents the title object of a piece by this composer inspired by Niccolò Paganini's second violin concerto. This composer, whose performances inspired a fervor called their namesake \"mania,\" based a set of 19 pieces on the folk music of their native Hungary. For 10 points, name this virtuoso pianist who composed \"La Campanella\" and the Hungarian Rhapsodies.",
+      "powerMarkPosition": 444,
+      "answer": "Liszt",
+      "acceptableAnswers": [
+        "Liszt",
+        "Ferenc Liszt",
+        "accept Lisztomania",
+        "The Liszt"
+      ],
+      "source": "qbreader",
+      "sourceId": "66423ff6515f1173a58a289b"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "e15fb37c-9b31-4e91-86a7-6835b5190931",
+      "linkedTossupId": "4801e39c-1c3f-43b8-b7c8-0c9bcca49462",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this language spoken by the indigenous inhabitants of Brazil's east coast. Along with Guarani, it lends its name to the dominant family of indigenous South American languages.",
+          "answer": "Tupi",
+          "acceptableAnswers": [
+            "Tupi",
+            "The Tupi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Tupi language is the origin of the name of this Brazilian martial art which originated in Africa and includes elements of dancing.",
+          "answer": "capoeira",
+          "acceptableAnswers": [
+            "capoeira",
+            "The capoeira"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This city, which was founded by the Tupi chief Arariboia, takes its name from the Tupi for \"hidden water.\" It sits just across the Guanabara Bay from Rio de Janeiro and was capital of the state of Rio de Janeiro until 1975.",
+          "answer": "Niteroi",
+          "acceptableAnswers": [
+            "Niteroi",
+            "The Niteroi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Much of the dialogue of Nelson Pereira dos Santos' film How Tasty Was My Little Frenchman is spoken in this language. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64306480335bc8c468cbb20a"
+    },
+    {
+      "id": "dbf57601-42b0-4352-9da1-1479302d9175",
+      "linkedTossupId": "83eff0ca-c26e-49d5-b9ac-22f551c7bf57",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this specific case of Stokes's theorem, which states that the volume integral of the namesake operation applied to a function F equals the surface integral of F over the boundary.",
+          "answer": "divergence",
+          "acceptableAnswers": [
+            "divergence",
+            "Gauss's theorem",
+            "the Gauss-Ostrogradsky theorem",
+            "The divergence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The surface integral over the boundary contains the dot product of F with this vector along the surface. This unit vector is always oriented perpendicularly, outward from the surface.",
+          "answer": "normal",
+          "acceptableAnswers": [
+            "normal",
+            "n",
+            "The normal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Green's theorem transforms the divergence theorem to 2D and can be used to show that the line integral of one-half, times x dy minus y dx, around a 2D region, simply equals this value.",
+          "answer": "area",
+          "acceptableAnswers": [
+            "area",
+            "The area"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This theorem, when applied to mass, can be used to derive mass continuity. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382b35c9cc87abdd9a5a637"
+    },
+    {
+      "id": "7485a38b-2fac-43a8-9b5b-a991cc3aa0e5",
+      "linkedTossupId": "ec22a048-392a-4151-89d2-9abc4a24dbd6",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the youngest of the marshals, and third in order of precedence. He died in a mysterious plane crash in Mongolia while fleeing to the Soviet Union following his son's failed military coup against Chairman Mao.",
+          "answer": "Lín",
+          "acceptableAnswers": [
+            "Lín",
+            "The Lín"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Hundred Regiments Offensive of the Second Sino-Japanese War was led by this second marshal, who commanded the People's Volunteer Army in the Korean War. This man was purged after declaring \"I want to be a Hai Rui!\"",
+          "answer": "Péng",
+          "acceptableAnswers": [
+            "Péng",
+            "The Péng"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Peng Dehuai was later purged during this period, which saw widespread attacks against the Four Olds of Chinese traditions by the Red Guards.",
+          "answer": "Cultural Revolution",
+          "acceptableAnswers": [
+            "Cultural Revolution",
+            "Wénhuà dàgémìng",
+            "The Cultural Revolution"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "During the era of Mao Zedong's rule, the ten marshals of the People's Liberation Army had an outsize but sometimes understated role in the politics of the People's Republic of China. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68846993641a9dc975af8817"
+    },
+    {
+      "id": "2b690f90-d5aa-42b9-b857-22240c875a57",
+      "linkedTossupId": "913300f5-4b50-4a1b-b8cc-7927fc7ca7c1",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this river, which names a soccer team that competes against Boca Juniors in the Superclásico. This river separates Argentina and Uruguay.",
+          "answer": "Plata",
+          "acceptableAnswers": [
+            "Plata",
+            "River Plate",
+            "Plate River",
+            "La Plata River",
+            "accept Estudiantes de la Plata",
+            "The Plata"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "River Plate and Boca Juniors are soccer teams from this capital of Argentina.",
+          "answer": "Buenos Aires",
+          "acceptableAnswers": [
+            "Buenos Aires",
+            "The Buenos Aires"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Rio de la Plata is the estuary of the Uruguay River and this other river, which names a Brazilian state south of São Paulo. The Yacyretá-Apipé Hydroelectric Power Plant lies on this river..",
+          "answer": "Paraná",
+          "acceptableAnswers": [
+            "Paraná",
+            "Rio Paraná",
+            "The Paraná"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A soccer team named \"Estudiantes\" of this river lost the 2009 FIFA Club World Cup Final to FC Barcelona. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "671d6e2b704068afc3e92969"
+    },
+    {
+      "id": "9e1a8ca9-1045-498d-8c5d-c0104f6e6b5d",
+      "linkedTossupId": "4bf3dbe3-f54e-4c7d-a35b-afab574b86ca",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "These are the branched, tubular filaments that make up the basic structure of a fungus.",
+          "answer": "hyphae",
+          "acceptableAnswers": [
+            "hyphae",
+            "The hyphae"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Many hyphae comprise a radially-expanding network known by this term. This structure helps to make up the thallus of the fungus.",
+          "answer": "mycelium",
+          "acceptableAnswers": [
+            "mycelium",
+            "The mycelium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Consisting of repeated N-acetylglucosamine residues, this strong polysaccharide makes up the rigid cell walls of fungi.",
+          "answer": "chitin",
+          "acceptableAnswers": [
+            "chitin",
+            "The chitin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these things associated with fungi, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a984090d"
+    },
+    {
+      "id": "bf748e5b-099c-4c46-a7a9-9f6c5d0cc31f",
+      "linkedTossupId": "548d2149-1206-4f41-9f7e-c527d2b98bba",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Jason was the captain of this ship, which set sail to capture the Golden Fleece. This ship, which had a prophetic mast from the grove of Dodona, housed such sailors as Orpheus, Castor and Pollux, and for a limited time Heracles.",
+          "answer": "Argo",
+          "acceptableAnswers": [
+            "Argo",
+            "Argonauts",
+            "The Argo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The argonauts set sail toward this city, where a dragon protects the golden fleece. Medea is a princess from this land.",
+          "answer": "Colchis",
+          "acceptableAnswers": [
+            "Colchis",
+            "The Colchis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During their escape from Colchis, the argonauts needed a distraction to escape the Colchan navy. Medea planned for this, and chopped this person, her younger brother, into pieces and scattered them on the sea, forcing the enemy ships to pick them up for proper burial.",
+          "answer": "Absyrtus",
+          "acceptableAnswers": [
+            "Absyrtus",
+            "The Absyrtus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "During the hunt for the Calydonian boar, Jason killed some hunting dogs with his spear. Somehow, Jason still became the leader of his own quest. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65de63eeffe1839107b63617"
+    },
+    {
+      "id": "5d165a85-7571-4e08-b0bc-90157a0b60e7",
+      "linkedTossupId": "8ae8e0e6-2dcf-4d5a-a54b-2b92b53ca433",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this process which dictates the patterns of biological processes over a roughly 24-hour cycle. It can be adjusted to different environments based on changes in light and temperature.",
+          "answer": "circadian rhythm",
+          "acceptableAnswers": [
+            "circadian rhythm",
+            "biological clock",
+            "The circadian rhythm"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In mammals, circadian rhythms are controlled by the suprachiasmatic nucleus of the brain located inside this area. Its name comes from its location below the brain's \"relay station\", and it is a neuroendocrine area.",
+          "answer": "hypothalamus",
+          "acceptableAnswers": [
+            "hypothalamus",
+            "The hypothalamus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Konopka and Benzer discovered the circadian period gene by testing mutagens on this model insect. Thomas Hunt Morgan used this organism, called Drosophila melanogaster, in his Columbia experiments.",
+          "answer": "fruit fly",
+          "acceptableAnswers": [
+            "fruit fly",
+            "fly",
+            "The fruit fly"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This process causes humans to have the best coordination at around 2:30 PM and the fastest reaction time at about 3:30 PM. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6ba6f"
+    },
+    {
+      "id": "ddac41e3-b0a7-4df3-8416-b1fe2f12af0a",
+      "linkedTossupId": "53805bdc-9767-4578-8c24-331bd39f389b",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The taiko is an instrument that originated in this country, where they are manufactured by the marginalized burakumin social class. Karaoke is a large part of this country's modern music market.",
+          "answer": "Japan",
+          "acceptableAnswers": [
+            "Japan",
+            "Nippon",
+            "The Japan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The taiko is a member of this family of instruments. The Bachi used to play this instrument are held in a similar manner to the western \"match grip\" used when playing some other members of this instrument family.",
+          "answer": "percussion",
+          "acceptableAnswers": [
+            "percussion",
+            "drums",
+            "The percussion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In other forms of Japanese music, the in and yo scales have this many unique notes. This is one less than the number of notes in a whole tone scale.",
+          "answer": "five",
+          "acceptableAnswers": [
+            "five",
+            "5",
+            "The five"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the taiko, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6406d0dee39f8dfd08fc25d9"
+    },
+    {
+      "id": "b4a488d6-c327-45e0-bf0e-c6eb37aef6e1",
+      "linkedTossupId": "7880d5e2-5d3f-41a8-b537-603b38d9b9d0",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this metabolic condition measured using the anion gap in the delta ratio. Winters' formula is used to evaluate respiratory compensation in response to this condition.",
+          "answer": "acidosis",
+          "acceptableAnswers": [
+            "acidosis",
+            "metabolic acidosis",
+            "respiratory acidosis",
+            "lactate acidosis",
+            "reject “ketoacidosis”",
+            "The acidosis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The delta ratio for identifying acidosis is calculated as the change in anion gap over the change in this ion's concentration. Carbonic anhydrase converts carbon dioxide and water to a hydrogen ion and this ion.",
+          "answer": "bicarbonate",
+          "acceptableAnswers": [
+            "bicarbonate",
+            "HCO3-minus",
+            "The bicarbonate"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Metabolic acidosis patients frequently present with a form of increasingly deep, labored breathing named for this physician. A diagnostic sign named for this physician is the rise in jugular venous pressure associated with certain forms of heart disease.",
+          "answer": "Kussmaul",
+          "acceptableAnswers": [
+            "Kussmaul",
+            "Kussmaul breathing",
+            "Kussmaul respiration",
+            "Kussmaul’s sign",
+            "The Kussmaul"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Damage control surgery is necessary to treat the \"trauma triad of death,\" which consists of hypothermia, coagulopathy, and this condition. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66b83d7ae381fe913c42f9a4"
+    },
+    {
+      "id": "20643cfe-5c65-4d36-b677-3e1293822254",
+      "linkedTossupId": "7d358162-2c89-41f4-bd06-da8cea1e601e",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "America's first national forest was established at this location, now better known for its geothermal features such as the Old Faithful geyser.",
+          "answer": "Yellowstone",
+          "acceptableAnswers": [
+            "Yellowstone",
+            "The Yellowstone"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 1968, this national forest was established to curb the destruction of America's largest, tallest trees. This California park also contains large condors.",
+          "answer": "Redwood",
+          "acceptableAnswers": [
+            "Redwood",
+            "The Redwood"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This national forest touches three of the five Great Lakes, and covers over 800,000 acres in Michigan's Upper Peninsula. This national forest in Ottawa County is unsurprisingly a big camping destination.",
+          "answer": "Hiawatha",
+          "acceptableAnswers": [
+            "Hiawatha",
+            "The Hiawatha"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about America's beautiful national parks and forests for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31b28"
+    },
+    {
+      "id": "c8dc109b-624d-4ae9-9dc9-acac0b37697f",
+      "linkedTossupId": "189bed04-f385-4907-aead-6e0d075a0f76",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this scientist who engaged in the Bone Wars with Othniel Charles Marsh as they both searched for Mesozoic remains in Colorado and Wyoming. His namesake \"rule\" proposes that a clade of organisms increases in body size as it evolves.",
+          "answer": "Cope",
+          "acceptableAnswers": [
+            "Cope",
+            "The Cope"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Edward Drinker Cope discovered Elasmosaurus which was one of these prehistoric marine reptiles. He mistakenly placed the animal's skull at the end of its tail instead of on its neck.",
+          "answer": "Plesiosaur",
+          "acceptableAnswers": [
+            "Plesiosaur",
+            "The Plesiosaur"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the best preserved fossils of this dinosaur is FMNH PR 2081, more affectionately known as Sue, which is housed at the Field Museum of Natural History in Chicago.",
+          "answer": "T",
+          "acceptableAnswers": [
+            "T",
+            "Lizard King"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This scientist opposed Darwin's ideas that natural selection alone could form genera and proposed views similar to those of Lamarck. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab86e"
+    },
+    {
+      "id": "51bf10b2-491f-422c-96a6-a0add5dfe015",
+      "linkedTossupId": "415ebd3e-54a5-4073-975a-bcdbb5760f78",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this 1789 uprising during which Olympe de Gouges (\"oh-LIMP de GOOZH\") wrote a feminist critique of the Declaration of the Rights of Man and Citizen.",
+          "answer": "French Revolution",
+          "acceptableAnswers": [
+            "French Revolution",
+            "Révolution Française",
+            "prompt on the Revolution",
+            "The French Revolution"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Edmund Burke's reactionary Reflections on the Revolution in France were critiqued in a Mary Wollstonecraft book titled for this word, which also titles her book on \"the rights of woman.\"",
+          "answer": "vindication",
+          "acceptableAnswers": [
+            "vindication",
+            "A Vindication of the Rights of Man",
+            "accept A Vindication of the Rights of Woman",
+            "The vindication"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Joseph de Maistre (\"zho-SEFF de MESS-truh\") argued that God punished Enlightenment philosophers for abandoning this view by causing the French Revolution. Plato's Euthyphro (\"YOO-thi-fro\") examines this ethical theory that claims we should do what God wants.",
+          "answer": "divine command",
+          "acceptableAnswers": [
+            "divine command",
+            "DCT",
+            "theological voluntarism",
+            "prompt on command theory",
+            "prompt on voluntarism",
+            "The divine command"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A work written during this event called for women to be able to identify their children's fathers. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68486972b074cbb48b99b612"
+    },
+    {
+      "id": "80995818-2043-48cb-9a2d-30969094bf15",
+      "linkedTossupId": "d0d5f30a-e3a2-4650-8ffd-f5096c1977af",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this crop, which formed the \"Three Sisters\" of Native American staple crops along with beans and squash.",
+          "answer": "maize",
+          "acceptableAnswers": [
+            "maize",
+            "corn",
+            "accept Green Corn Ceremony",
+            "The maize"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Green Corn Ceremony features a dance named for these objects. These objects, which are distributed by a Colorado-based \"National Registry,\" provide an alternate name for the \"fancy dance.\"",
+          "answer": "feather",
+          "acceptableAnswers": [
+            "feather",
+            "feather dance",
+            "The feather"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Feathers are also used in Southwestern dances for this purpose, the effects of which would lead to a bountiful harvest of crops.",
+          "answer": "rainmaking",
+          "acceptableAnswers": [
+            "rainmaking",
+            "rain dance",
+            "The rainmaking"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Many Native American nations, including the Seminole and Creek, held a harvest ceremony named for a \"Green\" one of these crops. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66cd4c3bc5459312fdcc53d1"
+    },
+    {
+      "id": "9f2a699b-68c3-467d-b275-f2c0ce396967",
+      "linkedTossupId": "7e441b29-8303-49d5-bee8-16cb8f758a2b",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify these southern African tribal people led by Cetshwayo during their war against the British, which saw the Battles of Isandlwana and Rorke's Drift.",
+          "answer": "Zulu",
+          "acceptableAnswers": [
+            "Zulu",
+            "The Zulu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This unifier and greatest ruler of the Zulu was originally a vassal under Dingiswayo. He battled the Ndwandwe state and instituted conscripted regiments called amabutho.",
+          "answer": "Shaka",
+          "acceptableAnswers": [
+            "Shaka",
+            "Shaka Zulu",
+            "The Shaka"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Shaka's military reforms also included an invention of a new melee broad-bladed version of the assegai, which was one of these weapons.",
+          "answer": "spear",
+          "acceptableAnswers": [
+            "spear",
+            "The spear"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The most famous leader of these people united many of the Nguni into his kingdom. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edb4fedff988263841bd64"
+    },
+    {
+      "id": "3d62c748-211d-44f2-9b5b-b42c18d35541",
+      "linkedTossupId": "d79607f2-a7be-474e-9c81-b82b098a504d",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this work, possibly ghostwritten by Harriet Taylor, whose third chapter, \"Of Individuality,\" discusses the value of originality and the \"harm principle.\" A",
+          "answer": "On Liberty",
+          "acceptableAnswers": [
+            "On Liberty",
+            "The On Liberty"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This British philosopher, a social liberal who advocated for electoral reform, wrote \"On Liberty\" and A System of Logic.",
+          "answer": "Mill",
+          "acceptableAnswers": [
+            "Mill",
+            "The Mill"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This text by Mill describes a certain philosophical school that was formulated by Jeremy Bentham and contains a formulation of the \"greatest happiness\" principle.",
+          "answer": "Utilitarianism",
+          "acceptableAnswers": [
+            "Utilitarianism",
+            "The Utilitarianism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The second chapter of this work mentions Socrates and Jesus in order to demonstrate that the majority could be wrong. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed6e71216c5c9ba56753d9"
+    },
+    {
+      "id": "c4789f7b-0aea-44fd-b4fe-073c10b319c6",
+      "linkedTossupId": "2b721ac1-5a97-4c1b-afab-50e0505a451f",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these idealized objects which absorb all incident visible light and radiation that fall on their surface.",
+          "answer": "black-bodies",
+          "acceptableAnswers": [
+            "black-bodies",
+            "Planckian radiators",
+            "do not accept",
+            "prompt on anything related to \"black holes\"",
+            "The black-bodies"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Stefan-Boltzmann law states that the radiant emittance of black-bodies is proportional to this quantity raised to the fourth power. This quantity can be measured using the Kelvin, Celsius, or Fahrenheit scales.",
+          "answer": "temperature",
+          "acceptableAnswers": [
+            "temperature",
+            "The temperature"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A \"catastrophe\" in classical physics named after this range of electromagnetic radiation predicted that ideal black-bodies had the possibility to release unbounded amounts of energy. This type of emission has a wavelength in between that of visible light and x-rays.",
+          "answer": "ultraviolet",
+          "acceptableAnswers": [
+            "ultraviolet",
+            "UV rays",
+            "The ultraviolet"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Wien's law governs the maximum wavelength of light that can be emitted from these objects, and the Stefan-Boltzmann law can be used to find the radiant heat power of these surfaces. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65666e00443a0a5dea0044d6"
+    },
+    {
+      "id": "ce719019-ebd7-4f03-931a-0ad4bda0313d",
+      "linkedTossupId": "ef251592-7fef-4e4e-82c8-8275514ff5ba",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Spanish explorer who founded the city of Lima and conquered the Inca.",
+          "answer": "Pizarro",
+          "acceptableAnswers": [
+            "Pizarro",
+            "The Pizarro"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pizarro was offered a roomful of gold from this Inca emperor, who was murdered in 1533. Earlier in life, he imprisoned his brother Huascar after the death of his father Huayna Capac.",
+          "answer": "Atahualpa",
+          "acceptableAnswers": [
+            "Atahualpa",
+            "Atabalipa",
+            "The Atahualpa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Atahualpa was captured by Pizarro at this 1532 battle, at which approximately seven thousand Incas were killed or wounded.",
+          "answer": "Cajamarca",
+          "acceptableAnswers": [
+            "Cajamarca",
+            "The Cajamarca"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man defeated his rival Diego de Almagro at the Battle of Las Salinas. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee240"
+    },
+    {
+      "id": "a79aa622-6ecd-4c93-bc34-93f6e89715e9",
+      "linkedTossupId": "630b90d8-7931-4ee0-84ce-8f2eb25d80d6",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Mach 1, about three hundred forty-three meters per second in air, is the speed of this phenomenon that humans cannot hear above twenty thousand Hertz.",
+          "answer": "sound",
+          "acceptableAnswers": [
+            "sound",
+            "The sound"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The harmonic sounds produced by a musical instrument are multiples of a fundamental one of these quantities, the number of vibrations per second.",
+          "answer": "frequency",
+          "acceptableAnswers": [
+            "frequency",
+            "The frequency"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A singer can shatter a wine glass when their voice achieves this type of frequency, the glass's naturally occurring vibration.",
+          "answer": "resonant",
+          "acceptableAnswers": [
+            "resonant",
+            "The resonant"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In 1947, Chuck Yeager flew the Glamorous Glennis at a speed of Mach 1.05, becoming the first pilot to break this barrier. Answer some questions about his flight, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004f27"
+    },
+    {
+      "id": "04714f5f-9bd0-4dee-bdcd-03560cb03ba4",
+      "linkedTossupId": "a4639ef4-c7e2-4b8a-b1b5-44c5a4a7729d",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this character in a 1958 novel. He is the author of the book The Pacification of the Primitive Tribes of the Lower Niger.",
+          "answer": "Commissioner",
+          "acceptableAnswers": [
+            "Commissioner",
+            "The Commissioner"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The District Commissioner appears in this Chinua Achebe novel in which Okonkwo commits suicide after accidentally killing Ezeudu's son at a funeral when his gun explodes.",
+          "answer": "Things Fall Apart",
+          "acceptableAnswers": [
+            "Things Fall Apart",
+            "The Things Fall Apart"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Okonkwo also participates in the murder of this adopted son of his, who was ordered to be killed by the village Oracle. Nwoye revolts against his father and converts to Christianity upon this character's death.",
+          "answer": "Ikemefuna",
+          "acceptableAnswers": [
+            "Ikemefuna",
+            "The Ikemefuna"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After the burning of Reverend Smith's church, this character arrests several villagers and demands a fine of two hundred bags of cowries. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d6d9"
+    },
+    {
+      "id": "d5964023-8483-4fd8-bbfc-aeea832522ce",
+      "linkedTossupId": "51bcdfdd-4846-484d-8302-a86579b5eb74",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this bronze sculpture, which also shows a father eating his kids in Ugolino and His Children. Charles Baudelaire's Fleur du Mal poems inspired the I am Beautiful portion on this sculpture's right pilaster.",
+          "answer": "Gates of Hell",
+          "acceptableAnswers": [
+            "Gates of Hell",
+            "La Porte de l'Enfer",
+            "The Gates of Hell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Gates of Hell is by Auguste Rodin (roh-DAN), who included this sculpture as part of it. This sculpture was intended to represent Dante and depicts a man resting his chin on his hand.",
+          "answer": "Thinker",
+          "acceptableAnswers": [
+            "Thinker",
+            "Le Penseur",
+            "The Poet",
+            "Le Poète",
+            "The Thinker"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This artist's sculpture The Mature Age shows three nude figures representing their love triangle with Rodin and Rose Beuret. This artist of The Waltz also depicted a couple from a Kalidasa play in Sakuntala (sah-KUN-taa-laa).",
+          "answer": "Claudel",
+          "acceptableAnswers": [
+            "Claudel",
+            "Camille Rosalie Claudel",
+            "The Claudel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One part of this sculpture has 3 transformed sinners bowing their heads with hands fused together in The Three Shades, while Paolo and Francesca embrace in Fugitive Love on this sculpture's right side. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66423ff5515f1173a58a2858"
+    }
+  ]
+}

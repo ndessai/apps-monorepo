@@ -1,0 +1,28 @@
+{
+  "name": "quizapp-question-generator",
+  "version": "1.0.0",
+  "description": "Question generation scripts for QuizApp - fetches from QB Reader and generates AI content",
+  "type": "module",
+  "scripts": {
+    "generate": "tsx index.ts",
+    "generate:qbreader": "tsx index.ts --source=qbreader",
+    "generate:ai": "tsx index.ts --source=ai",
+    "generate:all": "tsx index.ts --source=all",
+    "validate": "tsx validators/validate-all.ts",
+    "stats": "tsx utils/stats.ts"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "bottleneck": "^2.19.5",
+    "cheerio": "^1.0.0-rc.12",
+    "commander": "^11.1.0",
+    "uuid": "^9.0.1",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "@types/uuid": "^9.0.7",
+    "tsx": "^4.6.2",
+    "typescript": "^5.3.2"
+  }
+}

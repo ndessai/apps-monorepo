@@ -1,0 +1,1138 @@
+{
+  "packetId": "packet-047",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Literature",
+    "Mythology",
+    "Fine Arts",
+    "Human Body",
+    "Geography",
+    "Social Science",
+    "Science",
+    "Philosophy"
+  ],
+  "tossups": [
+    {
+      "id": "b96388fa-c772-489c-8803-66e91e865a8a",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "This man spearheaded the Poor People's Campaign, and, two years previously, this first president of the Southern Christian Leadership Conference was asked to attend a voting rights demonstration in Selma that was broken up by police violence on 1965's \"Bloody Sunday.\" This author of a \"Letter from Birmingham Jail\" led a March on Washington for Jobs and Freedom five years before his assassination by James Earl Ray. Name this Civil Rights leader who organized the Montgomery Bus Boycott and gave the \"I Have a Dream\" speech.",
+      "powerMarkPosition": 298,
+      "answer": "King",
+      "acceptableAnswers": [
+        "King",
+        "The King"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1e59"
+    },
+    {
+      "id": "9ce97575-c62d-4b2d-98e8-c807e902e080",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "A member of this group who was supposed to be roused by the tossing of pebbles accidentally causes the death of most of this group by whispering \"Is it time?\" A member of this group uses a piece of chalk to mark the door of a house identified by following the steps retraced by a blindfolded tailor. This group partly titles a story that originated from Hanna Diyab, who relayed the story to Antoine Galland. A servant stabs the leader of this group in the heart during a sword dance after pouring boiling oil on the heads of several members of this group; that woman, Morgiana, marries the son of a man whose brother Cassim is murdered by this group. These people own a sealed cave filled with treasure that opens upon saying the words \"Open Sesame.\" For 10 points, name these people who attempt to kill Ali Baba in a story from the Thousand and One Nights.",
+      "powerMarkPosition": 391,
+      "answer": "forty thieves",
+      "acceptableAnswers": [
+        "forty thieves",
+        "answers indicating the thieves from Ali Baba until “Ali Baba” is read",
+        "The forty thieves"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ec2f74c5548754cbcb04ec"
+    },
+    {
+      "id": "a361feca-c2ad-4ff9-8d89-5852f0907555",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "In some idols of this figure, his head is shown surrounded by a circle of flames. He is shown possessing a drum whose beat provides the rhythm of the universe and one of this god's sons killed the asura Mahisha. This figure is given an epithet that indicates his burning of Kama with the use of his third eye. During the churning of the ocean, this deity swallowed the halahala, which led to his blue throat. In another of his forms, he is shown performing a dance as stands on Maya, the king of the Asuras. This figure is the father of Ganesha, and his consorts include Sati and Parvati. For 10 points, name this destroyer god that makes up the Trimurti with Brahma and Vishnu.",
+      "powerMarkPosition": 309,
+      "answer": "Shiva",
+      "acceptableAnswers": [
+        "Shiva",
+        "Shankara",
+        "The Shiva"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bcab6bc6fadbe6166da257"
+    },
+    {
+      "id": "72195791-99b3-4e9d-b5e7-7880ce57b0bf",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "One politician with this last name created the May Committee, named for George May, to draft financial reports, and was replaced by fellow party member Emmanuel Shinwell. Another politician with this surname was scandalized by the Hugh Allan affair, which involved shady construction dealings, and was opposed by George Brown, who led a faction known as the Clear Grits. That first guy married Margaret Gladstone and succeeded Stanley Baldwin in 1924 to become the first Labour Prime Minister of Britain. The other man was succeeded by Alexander Mackenzie and was the first Prime Minister of Canada. For 10 points, give this name shared by Ramsay and John, and some fast food joker named Ronald.",
+      "powerMarkPosition": 370,
+      "answer": "MacDonald",
+      "acceptableAnswers": [
+        "MacDonald",
+        "The MacDonald"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43257"
+    },
+    {
+      "id": "bab90e3b-0a01-48d9-8adc-cc20db58460a",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "In one painting with this name, a man in red with his hand extended behind his back heads toward the main figure, who is collapsed on the ground; that painting is by James Barry. On the left side of this painting, a red-clad runner approaches the scene waving his hat in his left hand and holding a flag in his right. The two rightmost people in this painting both look at the title figure with their hands clasped. The figures in this painting are depicted wearing contemporary clothing, despite Joshua Reynolds' insistence that the artist dress them in classical clothing. A native American in a pose similar to The Thinker is looking at the title figure of this painting. For 10 points, name this painting of the final moments of a British general by Benjamin West.",
+      "powerMarkPosition": 406,
+      "answer": "Death of General Wolfe",
+      "acceptableAnswers": [
+        "Death of General Wolfe",
+        "The Death of General Wolfe"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0e376"
+    },
+    {
+      "id": "7de93cc7-d011-4074-b42f-13fe97649b68",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "In this artist's painting January, multiple rows of hay bales are covered in snow. In one painting by this artist, an author pulls back a curtain to reveal a scene of a young George Washington. A man on horseback passes through a dark town in this artist's The Midnight Ride of Paul Revere. A satirical work by this man shows four women standing in front of Washington Crossing the Delaware. Another painting by this artist features figures modeled after his sister and his dentist in front of the Dibble House. For 10 points, what American artist painted Daughters of Revolution and American Gothic?",
+      "powerMarkPosition": 256,
+      "answer": "Wood",
+      "acceptableAnswers": [
+        "Wood",
+        "The Wood"
+      ],
+      "source": "qbreader",
+      "sourceId": "652ebb738051389c667bd12c"
+    },
+    {
+      "id": "6a71b4cc-f2e7-4e40-a39a-9cd7503847d4",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for oxygen diffusion. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this diffusion-related structure.",
+      "powerMarkPosition": 95,
+      "answer": "Diffusion",
+      "acceptableAnswers": [
+        "diffusion",
+        "Diffusion"
+      ],
+      "explanation": "The diffusion is a key component of the Respiratory system, involved in oxygen diffusion.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "187f87f6-e3c8-4529-a147-314d1490d931",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "A \"dwarf\" species of this animal has decoy markings shaped like eyes on its rear and is native to the cerrado biome of central Brazil. A species of this non-bird animal named after Charles Darwin keeps its young in its mouth and may now be more prevalent on Chiloé Island than on mainland Chile. The Monteverde Reserve was home to harlequin and golden varieties of this animal, whose populations dropped precipitously in the 1980s. El Yunque National Forest is home to several species of this animal named \"coquí\" after its mating call. Many species of this animal became extinct after fungal outbreaks of chytridiomycosis. Many Colombian hunters use blow darts tipped with poison obtained from the skin of these animals. For 10 points, name these croaking amphibians.",
+      "powerMarkPosition": 395,
+      "answer": "frog",
+      "acceptableAnswers": [
+        "frog",
+        "toads",
+        "even though they’re not quite the same thing",
+        "prompt on amphibians",
+        "The frog"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dedcb0"
+    },
+    {
+      "id": "91da4858-f32b-4149-a791-4b2856065c84",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "This work was the subject of a 1930 study on the \"causes\" of its title phenomenon by Maurice Halbwachs, a student of this work's author. One concept investigated in this work occurs in highly integrated societies when the individual is overwhelmed by the goals and beliefs of the group. Another type of this work's title phenomenon occurs after a breakdown of social integration. This work finds that men, Protestants, and Scandinavians are more likely to perform the title action, which comes in egoistic, altruistic, anomic, and fatalistic types. For 10 points, name this 1897 case study by Emile Durkheim that investigates the rates at which people kill themselves.",
+      "powerMarkPosition": 422,
+      "answer": "Suicide",
+      "acceptableAnswers": [
+        "Suicide",
+        "Le Suicide",
+        "The Suicide"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c32260"
+    },
+    {
+      "id": "d043d8dd-3da0-4178-923c-a1feb6bcb455",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "A sequence in this film shows the passage of time through the dates on calendar pages that the protagonist rips off with a curling iron. While eating breakfast, a character in this film whistles to his pet canary, then walks over to its cage and finds that the bird is dead. This film references the last scene of Murnau's The Last Laugh by having a porter's flashlight illuminate the protagonist as he stumbles up the stairs to his old workplace in its last scene. Martin dresses as a character from this film at Joachim's birthday party in Visconti's The Damned. At the climax of this film, the protagonist, crowing like a rooster and dressed as a clown, chases after his wife and her lover Mazeppa and tries to strangle her. In a shot of this film, a woman in a top hat lifts up her leg as she sings \"Falling in Love Again\" and stares at Professor Rath. For 10 points, name this Josef von Sternberg film that made Marlene Dietrich famous for her role as the cabaret singer Lola.",
+      "powerMarkPosition": 673,
+      "answer": "Blue Angel",
+      "acceptableAnswers": [
+        "Blue Angel",
+        "The Blue Angel"
+      ],
+      "source": "qbreader",
+      "sourceId": "64ab6873f814f28d9b5a77e4"
+    },
+    {
+      "id": "74695f80-d6d9-4cb6-a238-7dce5275c972",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "One of these molecules is chemically linked to a cytotoxic payload in an ADC, a form of targeted cancer therapy. HAT medium is used to incubate hybridomas in a technique for producing large amounts of one type of these molecules. These molecules' hinge regions connect their Fab (\"F-A-B\") and Fc (\"F-C\") regions. The diversity of certain receptors and these molecules is facilitated through V(D)J recombination. A type of these proteins that only recognizes a single target is called \"monoclonal.\" These proteins can class-switch between their five isotypes and consist of two heavy chains and two light chains. For 10 points, B cells produce what Y-shaped proteins that bind to antigens?",
+      "powerMarkPosition": 312,
+      "answer": "antibodie",
+      "acceptableAnswers": [
+        "antibodie",
+        "antibody",
+        "immunoglobulins",
+        "accept monoclonal antibodies",
+        "mAbs",
+        "accept Igs",
+        "accept antibody-drug conjugates",
+        "The antibodie"
+      ],
+      "source": "qbreader",
+      "sourceId": "68fc54d85b5d7bee38aa3fac"
+    },
+    {
+      "id": "db82a03d-306d-4c69-996a-3d773680dc42",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "For an Euler-Bernoulli beam, this quantity is proportional to Young's modulus times the 2nd derivative of displacement with respect to position. The 3 components of this quantity can be determined in terms of the 3 components of angular velocity by the Euler equations. For a dipole in an electric field, this quantity is equal to the dipole moment crossed with the field. Precession occurs when this quantity is perpendicular to the angular momentum vector. When calculating this quantity, it is useful to find the lever arm. Newton's Second Law sets it equal to the product of the moment of inertia and angular acceleration. For 10 points, name this quantity defined as R cross F, the rotational analogue of force.",
+      "powerMarkPosition": 269,
+      "answer": "torque",
+      "acceptableAnswers": [
+        "torque",
+        "The torque"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587597874"
+    },
+    {
+      "id": "1795770e-434a-4b2b-b23d-caf430b42014",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "This scholar's daughter wrote about how women were forced to treat \"life as an improvisatory art\" in the 1989 book Composing a Life. During World War II, this scholar led the Committee on Food Habits at the National Research Council and wrote the pro-British book And Keep Your Powder Dry. Jessie Bernard criticized this scholar's generalizations about the feminine nature of the Arapesh. This parent of Mary Catherine Bateson ended one book with a call for Americans to \"permit their children to see adult human bodies\" like the children on the island of Ta'u. Derek Freeman challenged the conclusions of this student of Franz Boas regarding the sexuality of the young girls she studied. For 10 points, name this anthropologist who wrote Coming of Age in Samoa.",
+      "powerMarkPosition": 379,
+      "answer": "Mead",
+      "acceptableAnswers": [
+        "Mead",
+        "Gregory Bateson on the first sentence because that clue also applies to him",
+        "The Mead"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d9801af67c8a6f6e0b41a0"
+    },
+    {
+      "id": "628a0f8b-0d10-45d3-bf90-21317cb92b1d",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "text": "This thinker argued that W.V.O. Quine proposed ignoring questions about rationality, justice, and knowledge, and instead suggested investigating the causal connections between sensory evidence and beliefs about the world, in this thinker's influential critique of naturalized epistemology. This philosopher developed the distinction between concepts, one in which \"no possible world that contains individuals that are B-indiscernible but A-discernible,\" the other in which \"no possible individuals that are B-indiscernible but A-discernible, whether they are in the same world or different worlds.\" This formulator of the bifurcation between weak and strong supervenience proposed that one cannot be both a physicalist and a non-reductivist. For 10 points, name this author of Supervenience and Mind, a Brown University-based Korean-American philosopher of mind.",
+      "powerMarkPosition": 724,
+      "answer": "Kim",
+      "acceptableAnswers": [
+        "Kim",
+        "The Kim"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1ba3"
+    },
+    {
+      "id": "a130ba36-72df-48ae-a447-5c942be1766d",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "This river is named for the loess that is carried by its flow and makes the river very muddy. Extensive flooding has caused its course to be altered several times, most recently in 1938 after a Japanese invasion. Its largest tributary is the Wei River, and this river flows through Luoyang and Jinan along its course to a sea of the same name. Linked by the Sui Dynasty's Grand Canal to the Yangtze River to its south, name this Chinese river with a colorful name.",
+      "powerMarkPosition": 241,
+      "answer": "Yellow",
+      "acceptableAnswers": [
+        "Yellow",
+        "Huang He River",
+        "The Yellow"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d0867240107e0f1eb8"
+    },
+    {
+      "id": "c6c3bbb5-6ab6-4980-a09f-2aad74b40dd7",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "One study done at this university was inspired by similar study done by its administrator, Walter Mischel, in Trinidad. Another study done at this university was stopped at the behest of Christina Maslach, and was later compared to Abu Ghraib in the book The Lucifer Effect.The inmates 8612 [eight-six-one-two] and 416 [four-one-six] took part in a study at this university, which also featured a guard nicknamed John Wayne. That experiment was conducted by Philip Zimbardo. For 10 points, the Marshmallow Test and a namesake \"prison experiment\" were conducted at what Northern California university?",
+      "powerMarkPosition": 277,
+      "answer": "Stanford",
+      "acceptableAnswers": [
+        "Stanford",
+        "Leland Stanford Junior University",
+        "Stanford Prison Experiment",
+        "The Stanford"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9df3"
+    },
+    {
+      "id": "49d3f4be-4737-43dd-a73f-8ee3dd01d218",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "Originally observed as a heart-shaped feature, Linda Morabito discovered one of these structures because of an anomalous limb of a satellite. Energy from tidal flexing heats that one of these structures surrounded by a red ring. These structures are responsible for the formation of pancake domes, which are similar to features on Earth's seafloor. The release of greenhouse gases from these structures helped warm Mars' atmosphere and allow water to flow. The existence of these structures on Io was hypothesized due to the lack of impact craters. Three of these structures make up the Tharsis Montes, which is southeast of another of these structures, Olympus Mons. For 10 points, Venus has many of the shield type of what structures that eject ash and lava when they erupt?",
+      "powerMarkPosition": 363,
+      "answer": "volcano",
+      "acceptableAnswers": [
+        "volcano",
+        "volcano plumes",
+        "accept volcanoes on Io",
+        "accept volcanoes on Venus",
+        "accept volcanoes on Mars",
+        "prompt on mountains",
+        "do not accept",
+        "prompt on “cryovolcanoes”",
+        "The volcano"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382c06e578a78206cf2094b"
+    },
+    {
+      "id": "a64f0568-8ba8-44ae-8e99-9a6df6bd62bf",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "This is the numerator of Egyptian fractions and the number of sides of a Möbius strip. It is repeated in the Fibonacci sequence and any nonzero number raised to the zeroth power equals this value, the largest that the sine and cosine functions take. This number is the multiplicative identity because it times any other number is the original number. For 10 points, name this smallest positive integer.",
+      "powerMarkPosition": 184,
+      "answer": "one",
+      "acceptableAnswers": [
+        "one",
+        "The one"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e6a0924256318ac857"
+    },
+    {
+      "id": "2247a875-b6b3-4ecd-bc30-434e627df2d4",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "An artwork of this type was destroyed on the orders of Nelson Rockefeller because it depicted Vladimir Lenin, and was called Man at the Crossroads. A work of this type that shows Plato and Aristotle walking together is Raphael's The School of Athens. A set of these artworks depicting Industry were created by Diego Rivera to line a room in the Detroit Institute of Art. These artworks that are called \"frescoes\" when they are painted on wet plaster. For 10 points, name this type of painting done on a wall.",
+      "powerMarkPosition": 232,
+      "answer": "mural",
+      "acceptableAnswers": [
+        "mural",
+        "The mural"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba9729f"
+    },
+    {
+      "id": "3cbf0360-3042-4031-b947-7263b5a4274a",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for neurotransmitters. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this axon-related structure.",
+      "powerMarkPosition": 93,
+      "answer": "Axon",
+      "acceptableAnswers": [
+        "axon",
+        "Axon"
+      ],
+      "explanation": "The axon is a key component of the Nervous system, involved in neurotransmitters.",
+      "source": "ai-generated"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "8798aa35-45d0-451c-8094-e91734ed6541",
+      "linkedTossupId": "b96388fa-c772-489c-8803-66e91e865a8a",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Commissions were not delivered in time to the so-called \"midnight\" type of what people, who preside over a court?",
+          "answer": "judge",
+          "acceptableAnswers": [
+            "judge",
+            "The judge"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The issue of the \"midnight judges\" led to this 1803 Supreme Court Case that struck down the Judiciary Act of 1789 and established the principle of judicial review.",
+          "answer": "Marbury",
+          "acceptableAnswers": [
+            "Marbury",
+            "The Marbury"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The majority opinion in Marbury v. Madison was written by this man, the longest-serving Chief Justice of the Supreme Court.",
+          "answer": "Marshall",
+          "acceptableAnswers": [
+            "Marshall",
+            "The Marshall"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After losing the 1800 election, John Adams attempted to appoint dozens of pro-Federalist examples of these people to newly created positions. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b9c5"
+    },
+    {
+      "id": "6374659c-5e0f-4b02-b044-44684c16f75e",
+      "linkedTossupId": "9ce97575-c62d-4b2d-98e8-c807e902e080",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The protagonist of this play is an author who wrote about Against the Murderous Thieving Hordes of the Peasants. Other characters in this play include Katherine von Bora and Johann von Staupitz.",
+          "answer": "Luther",
+          "acceptableAnswers": [
+            "Luther",
+            "The Luther"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The protagonist of this play has affairs with Liz, Joy and Shirley, and even though he is married to Anna, that protagonist, Bill Maitland, runs his own solicitor practice.",
+          "answer": "Inadmissible Evidence",
+          "acceptableAnswers": [
+            "Inadmissible Evidence",
+            "The Inadmissible Evidence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This play that focuses on Jimmy Porter and his wife Allison ends when a baby is lost after Allison had gotten pregnant.",
+          "answer": "Look Back in Anger",
+          "acceptableAnswers": [
+            "Look Back in Anger",
+            "The Look Back in Anger"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these plays by John Osborne, for ten points each.",
+      "source": "qbreader",
+      "sourceId": "646eebb29aa260d7cf07069a"
+    },
+    {
+      "id": "3ca0f616-0846-412d-9426-ffd5dc8494d3",
+      "linkedTossupId": "a361feca-c2ad-4ff9-8d89-5852f0907555",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these heavenly bodies. Callisto is transformed first into a bear, and then ultimately into one of these things called Ursa Major.",
+          "answer": "constellations",
+          "acceptableAnswers": [
+            "constellations",
+            "asterisms",
+            "The constellations"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Chinese cosmology, one of these animals is a member of the Four Symbols that represents the winter constellations. Vishnu manifests as one of these animals named Kurma during the churning of the ocean.",
+          "answer": "turtle",
+          "acceptableAnswers": [
+            "turtle",
+            "tortoise",
+            "The turtle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Each of the Four Symbols, plus Huangdi himself, corresponds to the Wu Xing, or the five Chinese elements. Three of them are earth, fire, and water - name the other two.",
+          "answer": "wood",
+          "acceptableAnswers": [
+            "wood",
+            "mu and jin",
+            "gold for “metal”",
+            "obvious equivalents for “metal”",
+            "do not accept “tree” for wood because it refers to the usable dead form and not the living plant form",
+            "The wood"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The twelve signs of the Greek zodiac correspond to examples of these things, such as Aries, Gemini, and Sagittarius. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531ffa61a9ba79f3576e"
+    },
+    {
+      "id": "3441719d-af6a-42ca-af27-88bb32bd83bd",
+      "linkedTossupId": "72195791-99b3-4e9d-b5e7-7880ce57b0bf",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this landmark 1967 Supreme Court case which struck down all anti-miscegenation laws as violations of the 14th amendment.",
+          "answer": "Loving",
+          "acceptableAnswers": [
+            "Loving",
+            "The Loving"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This former California governor was the Chief Justice presiding over Loving v. Virginia. He was also Chief Justice during Brown v. Board of Education.",
+          "answer": "Warren",
+          "acceptableAnswers": [
+            "Warren",
+            "The Warren"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Loving v. Virginia was cited in the 2015 Obergefell decision, which guaranteed what right to same-sex couples?",
+          "answer": "marriage",
+          "acceptableAnswers": [
+            "marriage",
+            "the right to marry",
+            "accept equivalents",
+            "The marriage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of the attorneys on this case, Philip Hirschkop, stated that \"these are not health and welfare laws\" but \"these are slavery laws, plain and simple.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b88d82"
+    },
+    {
+      "id": "eeabedf0-4679-416c-a540-9bc67f757b6f",
+      "linkedTossupId": "bab90e3b-0a01-48d9-8adc-cc20db58460a",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this musician, the dedicatee of Concert champêtre (\"con-SAIR shawm-PET\") by Francis Poulenc (\"frawn-SEESE poo-LANK\") and a neoclassical chamber concerto by Manuel de Falla (\"deh FAH-yah\").",
+          "answer": "Landowska",
+          "acceptableAnswers": [
+            "Landowska",
+            "The Landowska"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 1933, Landowska became the first person to record this collection on the harpsichord. This collection features thirty movements based on an initial aria.",
+          "answer": "Goldberg Variations",
+          "acceptableAnswers": [
+            "Goldberg Variations",
+            "The Goldberg Variations"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Goldberg Variations were written by this Baroque composer of TheWell-Tempered Clavier.",
+          "answer": "Bach",
+          "acceptableAnswers": [
+            "Bach",
+            "The Bach"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This musician, who established the École de Musique Ancienne in Paris, had many of her writings edited and translated by her partner Denise Restout (\"duh-NEESE russ-TOO\"). For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6326bf0f692d593d1d7a8e7e"
+    },
+    {
+      "id": "cd7339b5-f421-4ab3-a1b2-7fdacabb785c",
+      "linkedTossupId": "7de93cc7-d011-4074-b42f-13fe97649b68",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this style used by Helen Frankenthaler in works like The Bay. Barnett Newman used thin vertical lines called \"zips\" when he painted in this style.",
+          "answer": "color field",
+          "acceptableAnswers": [
+            "color field",
+            "on",
+            "BUT DO NOT OTHERWISE REVEAL",
+            "abstract expressionism",
+            "The color field"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Color field is closely related to this art movement that began in New York. Jackson Pollock, a member of this art movement, flung paint at the canvas to create paintings like Lavender Mist and Autumn Rhythm.",
+          "answer": "abstract expressionism",
+          "acceptableAnswers": [
+            "abstract expressionism",
+            "partial answer",
+            "The abstract expressionism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Newman designed a statue called Broken Obelisk for an octagonal one of these buildings in Houston dedicated to Rothko. This type of building was chosen to commemorate Rothko in part because of the spirituality generally attributed to his paintings.",
+          "answer": "chapel",
+          "acceptableAnswers": [
+            "chapel",
+            "The chapel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Kenneth Noland produced many circular paintings in this style. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba96b4c"
+    },
+    {
+      "id": "60fa60f6-324c-4824-80cb-c9f92c869499",
+      "linkedTossupId": "6a71b4cc-f2e7-4e40-a39a-9cd7503847d4",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with ascending and descending tracts.",
+          "answer": "spinal cord",
+          "acceptableAnswers": [
+            "spinal cord"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the spinal cord in the nervous system?",
+          "answer": "Ascending and descending tracts",
+          "acceptableAnswers": [
+            "Ascending and descending tracts"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to ascending and descending tracts.",
+          "answer": "reflex",
+          "acceptableAnswers": [
+            "reflex"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "5393f33e-1254-41be-b9c0-2a85047ff1b6",
+      "linkedTossupId": "187f87f6-e3c8-4529-a147-314d1490d931",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this food, whose germ is retained in their \"speckled\" type. This hominy porridge is similar to polenta.",
+          "answer": "grit",
+          "acceptableAnswers": [
+            "grit",
+            "grist",
+            "accept grits and shrimp",
+            "The grit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Grits are made from this grain, which is also used to produce tamales and tortillas.",
+          "answer": "corn",
+          "acceptableAnswers": [
+            "corn",
+            "maize",
+            "accept Zea mays",
+            "accept cornmeal",
+            "The corn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the 19th century, the production of hominy grits was the main use of this technique, in which maize is cooked in limewater and then hulled. This technique, which increases the body's intake of niacin from maize and removes mycotoxins, has a Nahuatl-derived name.",
+          "answer": "nixtamal",
+          "acceptableAnswers": [
+            "nixtamal",
+            "word forms such as being nixtamalized",
+            "The nixtamal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A traditional Lowcountry dish pairs this food with shrimp. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6334baae3df8739d684ba96b"
+    },
+    {
+      "id": "e33f6065-67d7-45a1-baf6-d3e9fe16971a",
+      "linkedTossupId": "91da4858-f32b-4149-a791-4b2856065c84",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Give this general term for films that are non-fictional, such as The Thin Blue Line and Grizzly Man.",
+          "answer": "documentary",
+          "acceptableAnswers": [
+            "documentary",
+            "The documentary"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This early anthropological documentary was directed by Robert Flaherty and depicts the title Inuit man and his family. A memorable scene where several men hunt a walrus was staged, though the depiction of the building of an igloo from scratch is genuine.",
+          "answer": "Nanook of the North",
+          "acceptableAnswers": [
+            "Nanook of the North",
+            "The Nanook of the North"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Cove is a 2009 documentary centering on the killing of thousands of dolphins in a secluded lagoon in this country, whose government creates voting blocs by paying off small nations to prevent regulations on whaling.",
+          "answer": "Japan",
+          "acceptableAnswers": [
+            "Japan",
+            "The Japan"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Frederick Wiseman is a filmmaker who works almost exclusively in this genre, including his narrator-free, extraordinarily long films about institutions like National Gallery and At Berkeley. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289caec0"
+    },
+    {
+      "id": "2db597f6-c5dd-4764-a9da-09811eb59d49",
+      "linkedTossupId": "d043d8dd-3da0-4178-923c-a1feb6bcb455",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this tone poem, which depicts a witches' sabbath on St. John's Night at the title location. An arrangement of this work, based on Rimsky-Korsakov's arrangement, appears in the Disney film Fantasia.",
+          "answer": "Night on Bald Mountain",
+          "acceptableAnswers": [
+            "Night on Bald Mountain",
+            "Night on the Bare Mountain and Noch na lysoy gore",
+            "The Night on Bald Mountain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A Russian legend inspired this composer to write \"Night on Bald Mountain\". This man also composed \"Pictures at an Exhibition\".",
+          "answer": "Mussorgsky",
+          "acceptableAnswers": [
+            "Mussorgsky",
+            "The Mussorgsky"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mussorgsky and Rimsky-Korsakov belonged to a group of Romantic era Russian composers named for this number. Beethoven's symphony of this number features a \"fate\" motif in C minor.",
+          "answer": "5",
+          "acceptableAnswers": [
+            "5"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A cello and bass theme repeats A G-sharp B G-sharp as the witches assemble in the opening of this work. For ten points each,",
+      "source": "qbreader",
+      "sourceId": "66cd4c3cc5459312fdcc54ac"
+    },
+    {
+      "id": "ed9d1667-d84d-44ae-8e0c-8f067527a764",
+      "linkedTossupId": "74695f80-d6d9-4cb6-a238-7dce5275c972",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this enzyme, used in a \"chain reaction\" along with dNTPs to amplify DNA sequences.",
+          "answer": "DNA polymerase",
+          "acceptableAnswers": [
+            "DNA polymerase",
+            "Taq polymerase",
+            "prompt on polymerase",
+            "The DNA polymerase"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A heat-stable polymerase is important for the denaturation step of PCR to cleave these bonds that form double-stranded DNA. This type of bond is named after the lightest element.",
+          "answer": "hydrogen bond",
+          "acceptableAnswers": [
+            "hydrogen bond",
+            "H-bonds",
+            "The hydrogen bond"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this step of PCR that comes after denaturation and before elongation, primers attach to the single-stranded DNA templates. Temperature must be closely monitored in this step for specific binding.",
+          "answer": "annealing",
+          "acceptableAnswers": [
+            "annealing",
+            "The annealing"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A form of this protein from Thermus aquaticus is used in one lab technique since it is heat-stable. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "652ebb6e8051389c667bcf4c"
+    },
+    {
+      "id": "92fd9230-32f8-42c3-ac3e-a7bbcf09cc79",
+      "linkedTossupId": "db82a03d-306d-4c69-996a-3d773680dc42",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Water adopts this molecular geometry due to the oxygen atom's two lone pairs, which force the carbon-hydrogen bonds toward one another.",
+          "answer": "bent",
+          "acceptableAnswers": [
+            "bent",
+            "The bent"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Each water molecule has one of these phenomena because of water's unequal distribution of charge. These phenomena, which have namesake \"moments,\" can be represented by deltas with positive or negative sign superscripts.",
+          "answer": "dipole",
+          "acceptableAnswers": [
+            "dipole",
+            "The dipole"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Water is classified as C2V (\"C-2-V\") according to these mathematical descriptions, which are used to classify the symmetry operations that apply to a given molecule.",
+          "answer": "point group",
+          "acceptableAnswers": [
+            "point group",
+            "The point group"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the geometry of a water molecule, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "652ebb728051389c667bd0dd"
+    },
+    {
+      "id": "968d884b-3e62-48f4-9e74-d317099b5aa2",
+      "linkedTossupId": "1795770e-434a-4b2b-b23d-caf430b42014",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these objects which were placed in front of children at the Bing Nursery school to test the age that control of delayed gratification develops in an experiment by Walter Mischel.",
+          "answer": "marshmallow",
+          "acceptableAnswers": [
+            "marshmallow",
+            "The marshmallow"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mischel's marshmallow test was conducted at this university, the site of a Philip Zimbardo experiment involving \"guards\" and \"prisoners\" that was abandoned after six days and has not yet been successfully reproduced.",
+          "answer": "Stanford",
+          "acceptableAnswers": [
+            "Stanford",
+            "The Stanford"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another experiment involving children conducted by Jane Elliott investigated the effects of discrimination by dividing them up into two groups based on having either of these two traits. Name both.",
+          "answer": "blue",
+          "acceptableAnswers": [
+            "blue",
+            "The blue"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An attempted replication of an experiment involving these objects in 2018 failed to support the behavioral conclusions of that experiment, but affirmed the correlation with achievement tests. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a8538"
+    },
+    {
+      "id": "e5ab1316-b3f1-48eb-b039-d3ba4f5ca43a",
+      "linkedTossupId": "628a0f8b-0d10-45d3-bf90-21317cb92b1d",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these objects called ghantas (\"GHUN-tas\") which hang outside Hindu temples, where people interact with them before entering.",
+          "answer": "bell",
+          "acceptableAnswers": [
+            "bell",
+            "The bell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bells may be adorned with different creatures including an eagle representing Garuda, the mount of this preserver deity.",
+          "answer": "Vishnu",
+          "acceptableAnswers": [
+            "Vishnu",
+            "The Vishnu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A bell may be paired with sounds of a conch shell during this part of a puja in which fire is presented to an image of a deity while the congregation sings.",
+          "answer": "aarti",
+          "acceptableAnswers": [
+            "aarti",
+            "The aarti"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of Shiva's wives is the third form of Durga, named for a half moon shaped like one of these objects. For 10 points:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423824"
+    },
+    {
+      "id": "a7654131-9285-45fa-a355-1fe006201af1",
+      "linkedTossupId": "a130ba36-72df-48ae-a447-5c942be1766d",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this city and special administrative region at the mouth of the Pearl River, governed under \"one country, two systems.\"",
+          "answer": "Hong Kong",
+          "acceptableAnswers": [
+            "Hong Kong",
+            "The Hong Kong"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hong Kong is governed by this country, whose Communist Party leadership is attempting to assert greater control over governmental affairs in the city.",
+          "answer": "China",
+          "acceptableAnswers": [
+            "China",
+            "The China"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This special administrative region of China near Hong Kong was colonized by Portugal and is a major gambling hub with 33 casinos.",
+          "answer": "Macau",
+          "acceptableAnswers": [
+            "Macau",
+            "The Macau"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Kowloon walled city was a former slum north of Victoria Harbor in this city. For 10 points each--",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7c79"
+    },
+    {
+      "id": "2c82fe77-8054-4910-a608-fc4339d13aaf",
+      "linkedTossupId": "c6c3bbb5-6ab6-4980-a09f-2aad74b40dd7",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this author who outlined industrialization and discussed \"organic\" and \"mechanical\" solidarity in The Division of Labor in Society.",
+          "answer": "Durkheim",
+          "acceptableAnswers": [
+            "Durkheim",
+            "The Durkheim"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Durkheim's most famous work of sociology discusses this title action of killing oneself, which he believes has egoistic, altruistic, anomic, and fatalistic forms.",
+          "answer": "Suicide",
+          "acceptableAnswers": [
+            "Suicide",
+            "The Suicide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Durkheim found that this religious group had a lower rate of suicide because they had greater social control.",
+          "answer": "Catholic",
+          "acceptableAnswers": [
+            "Catholic",
+            "The Catholic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author outlined the science of sociology in his The Rules of Sociological Method. For 10 points each--",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7d9e"
+    },
+    {
+      "id": "5ab3d0eb-1d67-44f1-84c4-9da713c53f65",
+      "linkedTossupId": "49d3f4be-4737-43dd-a73f-8ee3dd01d218",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this compound, the most common Group-14 hydride.",
+          "answer": "methane",
+          "acceptableAnswers": [
+            "methane",
+            "The methane"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Methane has a chemical structure in this shape, similar to that of perchlorate and sulfate. The bond angles of this structure are around 109.5°.",
+          "answer": "tetrahedral",
+          "acceptableAnswers": [
+            "tetrahedral",
+            "The tetrahedral"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The overlap of the valence orbitals on carbon and hydrogen result in four of these, which describe its electronic structure.",
+          "answer": "molecular orbital",
+          "acceptableAnswers": [
+            "molecular orbital",
+            "The molecular orbital"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Partial oxidation of this compound is difficult due to a tendency for reactions to progress all the way to carbon dioxide and water. For 10 points,",
+      "source": "qbreader",
+      "sourceId": "65fa4917e210b3e07c6de737"
+    },
+    {
+      "id": "60c92000-ec72-4914-8892-a6666f387aea",
+      "linkedTossupId": "a64f0568-8ba8-44ae-8e99-9a6df6bd62bf",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Indole-3-acetic acid is one example of this type of plant hormone. These hormones have a positive effect on root initiation, cell enlargement, and bud formation.",
+          "answer": "Auxin",
+          "acceptableAnswers": [
+            "Auxin",
+            "The Auxin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This class of hormones was discovered by Japanese researchers who were studying \"foolish seedling\" disease in rice. Their primary function is to promote stem elongation.",
+          "answer": "Gibberellin",
+          "acceptableAnswers": [
+            "Gibberellin",
+            "The Gibberellin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Once known as dormin, this plant hormone is responsible for the inhibition of seed germination, fruit ripening, and budding.",
+          "answer": "Abscisic Acid",
+          "acceptableAnswers": [
+            "Abscisic Acid",
+            "Abscicin II",
+            "The Abscisic Acid"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Plant hormones regulate the growth of plants. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0aec"
+    },
+    {
+      "id": "b167d389-2881-41e6-ae98-69cff458f658",
+      "linkedTossupId": "2247a875-b6b3-4ecd-bc30-434e627df2d4",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this ballet in which Herr Drosselmeyer gives the title toy to Clara. It includes the mesmerizing \"Dance of the Sugar Plum Fairy.\"",
+          "answer": "Nutcracker",
+          "acceptableAnswers": [
+            "Nutcracker",
+            "The Nutcracker"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Nutcracker's score was composed by this man. Von Rothbart turns Odette into the title bird in this man's Swan Lake, and he commemorated the Battle of Borodino in his 1812 Overture.",
+          "answer": "Tchaikovsky",
+          "acceptableAnswers": [
+            "Tchaikovsky",
+            "The Tchaikovsky"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tchaikovsky based this ballet on a Charles Perrault fairy tale. In this ballet, Carabosse curses King Florestan's daughter, but she is saved by Prince Desire.",
+          "answer": "Sleeping",
+          "acceptableAnswers": [
+            "Sleeping",
+            "The Sleeping"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Characters in this ballet visit the Land of Snow and the Land of Sweets. For ten points each,",
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acd80"
+    },
+    {
+      "id": "9b8b9f89-11ff-446c-930b-89667145f89c",
+      "linkedTossupId": "3cbf0360-3042-4031-b947-7263b5a4274a",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with action potentials.",
+          "answer": "axon",
+          "acceptableAnswers": [
+            "axon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the axon in the nervous system?",
+          "answer": "Action potentials",
+          "acceptableAnswers": [
+            "Action potentials"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to action potentials.",
+          "answer": "dendrite",
+          "acceptableAnswers": [
+            "dendrite"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    }
+  ]
+}

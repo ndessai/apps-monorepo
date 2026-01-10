@@ -1,0 +1,1119 @@
+{
+  "packetId": "packet-197",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Fine Arts",
+    "Social Science",
+    "Mythology",
+    "Human Body",
+    "Philosophy",
+    "Literature",
+    "Science",
+    "Geography"
+  ],
+  "tossups": [
+    {
+      "id": "402bfce5-670a-468d-abd3-88c656b403a0",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This composer's Symphony No. 1 has a third movement that contains Frère Jacques in an unusual minor key, giving it the air of a funeral march. His Symphony No. 6 originally had a second movement Scherzo and third movement Andante, but they were later swapped. Aside from his symphonies, he wrote such vocal works as Das klagende Lied and Kindertotenlieder, and he used translations of Chinese poetry in his Das Lied von der Erde. For 10 points, identify this Austrian composer of the Titan, Resurrection, and Tragic symphonies as well as the Symphony of a Thousand.",
+      "powerMarkPosition": 259,
+      "answer": "Mahler",
+      "acceptableAnswers": [
+        "Mahler",
+        "The Mahler"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0e8b"
+    },
+    {
+      "id": "5858032f-af0c-42cd-a8d0-7512c29c5447",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "An artwork of one of these objects brought forth by F. A. Mitchell-Hedges is made of quartz. Samual George Morton used hundreds of these objects to classify mankind into four races with different cc quantities; Stephen Jay Gould refuted that research on these objects in his book The Mismeasure of Man. Franz Gall's followers examined bumps in these objects to determine personality types in the pseudoscience of phrenology, and one of them was forged for the Piltdown Man archaeology hoax. For 10 points, name this set of bones providing shape for the head.",
+      "powerMarkPosition": 302,
+      "answer": "skull",
+      "acceptableAnswers": [
+        "skull",
+        "craniums",
+        "crania",
+        "prompt “heads”",
+        "The skull"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df439f96"
+    },
+    {
+      "id": "6eb03111-424b-41b6-a26b-46f3166ca6ed",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "This god staged a sacrifice to attain wisdom by hanging himself from the World-Tree for nine days and nine nights. This god will be killed by the wolf Fenrir at the Battle of Ragnarok, causing his wife Frigg great sorrow. This god is accompanied by two ravens whose English names mean Thought and Memory, and he sacrificed his eye to Mimir in exchange for wisdom. Thor is the most famous son of, for 10 points, this king of the Norse gods.",
+      "powerMarkPosition": 201,
+      "answer": "Odin",
+      "acceptableAnswers": [
+        "Odin",
+        "Wodan",
+        "Wotan",
+        "The Odin"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9d4c"
+    },
+    {
+      "id": "a402f29b-47e7-49af-bd12-b039ba5f9f4e",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for stress response. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this adrenal-related structure.",
+      "powerMarkPosition": 94,
+      "answer": "Adrenal",
+      "acceptableAnswers": [
+        "adrenal",
+        "Adrenal"
+      ],
+      "explanation": "The adrenal is a key component of the Endocrine system, involved in stress response.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "5f75d5a9-0c27-438d-aeda-28105aa962b6",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "The Sujud Sahwi is a prostration done to atone for mistakes made while performing this action. The Fatiha is spoken at the beginning of this action, which ends with the taslim, a phrase roughly meaning \"peace and God's mercy be upon you.\" The rak'ah, which includes kneeling, bowing, and prostration, is the set of movements conducted while performing this action, before which it is necessary to perform wudu, or the washing of face, arms, head, and feet. For 10 points, muezzins lead the call to perform what action, which is observed five times a day as part of the pillar of salat?",
+      "powerMarkPosition": 265,
+      "answer": "prayer",
+      "acceptableAnswers": [
+        "prayer",
+        "The prayer"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6bd28e96d73a0dccd60d5"
+    },
+    {
+      "id": "b5605a76-67bb-4954-b32d-e9679dad0073",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "This character frantically saves his brother from a swimming accident when his brother becomes clamped between two barges near the side of a bridge. This character befriends a doctor's apprentice after he helps a patient save two fingers cut off in a duel by carrying them to the operating table in his mouth. He has the words \"be my guardian spirit\" engraved on a ring that he gives to his fiance. A novel about this real-life character begins with his friend Jacob Dietmahler visiting his house on washing day. This son of a salt mine inspector falls in love with a twelve year old girl who loses her hair when she suffers from a fatal cancer in a novel by Penelope Fitzgerald. For 10 points, name this protagonist of The Blue Flower who used that symbol to express his love for Sophie von Kuhn, a woman who also inspired his poetry collection Hymns to the Night .",
+      "powerMarkPosition": 390,
+      "answer": "Novalis",
+      "acceptableAnswers": [
+        "Novalis",
+        "Fritz von Hardenburg",
+        "prompt on “Hardenburg”",
+        "The Novalis"
+      ],
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faac2a"
+    },
+    {
+      "id": "c947c9a4-a9aa-454e-a4c4-51af52ff1f97",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "On the right of this work, a man dressed in white and sitting on a low rock hunches over and extends his right arm. A small rocky island with an entryway carved out of it is in the foreground of this painting. In the center of this work, a small man holds a staff and looks up at the sky with his dog next to him. Around that man are a bunch of sheep, mostly white. The title figure of this work appears next to some ripples below a large boat in full sail. In the foreground, at a higher elevation, a farmer plows a field with his horse. The title character can only be seen by his legs poking out of the water. For 10 points, name this work by Pieter Bruegel the Elder from Greek mythology that shows the aftermath of a failed journey to reach the sun.",
+      "powerMarkPosition": 501,
+      "answer": "Landscape with the Fall of Icarus",
+      "acceptableAnswers": [
+        "Landscape with the Fall of Icarus",
+        "The Landscape with the Fall of Icarus"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a67c"
+    },
+    {
+      "id": "278c6e33-a5ed-4274-946d-2715aeebbff3",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "In the Gylfa-ginning, this deity is bound with the entrails of Nari, a son of this god and Sigyn. This deity had children with Svathilfari and the giant Angrbotha, becoming the mother of Sleipnir, the eight-legged horse, and the father of the Midgard Serpent and the Fenris Wolf. This shape-shifting son of Laufey disguised himself as a maid to help Thor retrieve his hammer, and tricked Hodr into killing Baldr with a spear of mistletoe. For 10 points, name this Norse trickster god.",
+      "powerMarkPosition": 186,
+      "answer": "Loki",
+      "acceptableAnswers": [
+        "Loki",
+        "The Loki"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3114afad1e88c874a2dcb"
+    },
+    {
+      "id": "c11a82cf-117c-4644-a38e-ff44d206bd7b",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "This figure was conceived when his father disguised himself as Gorlois and slept with Gorlois' wife Igraine. During his youth, this figure was raised by Ector. This figure met his demise at the Battle of Camlann after a duel with his illegitimate son Mordred, but is said to be resting at Avalon. This son of Uther Pendragon and husband of Guinevere was advised by the wizard Merlin and became king after pulling the Sword in the Stone. For 10 points, name this mythical King of Britain, the wielder of Excalibur who founded the Knights of the Round Table.",
+      "powerMarkPosition": 296,
+      "answer": "Arthur",
+      "acceptableAnswers": [
+        "Arthur",
+        "The Arthur"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f086f"
+    },
+    {
+      "id": "d6d26dfe-4f1a-40f8-a549-d8d4d4e452ea",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for epiglottis function. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this pharynx-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Pharynx",
+      "acceptableAnswers": [
+        "pharynx",
+        "Pharynx"
+      ],
+      "explanation": "The pharynx is a key component of the Respiratory system, involved in epiglottis function.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c6f1c131-4a6b-46a9-9f56-f69c17e27afd",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "This hero's hairy bottom causes a pair of brothers to erupt in laughter, after which they are freed from being bound to a pole upside-down. After being gifted a golden veil, he spares the youngest son of a king who refused this hero payment for rescuing Hesione from a sea monster. This hero goes to Neleus to be purified of the murder of Iphitus, but murders Neleus and all of his sons, except Nestor. This hero breaks the horn of Achelous during a wrestling match, and earlier wears women's clothes during a year of humiliating labor under Omphale. After a fit of madness inflicted by his perpetual enemy Hera, this hero murders his wife Megara and their children. For 10 points, name this hero who subsequently undertakes twelve labors as penance.",
+      "powerMarkPosition": 281,
+      "answer": "Heracles",
+      "acceptableAnswers": [
+        "Heracles",
+        "Hercules",
+        "The Heracles"
+      ],
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490bff1"
+    },
+    {
+      "id": "6b0c06fc-bc6f-439f-b4a3-f9213a23761e",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "This novel's climax, which is briefly interrupted by a letter about the \"duck people\", sees its protagonist beat a shadowy figure to death with a baseball bat in room 208. Its protagonist is assisted by the mute Cinnamon and his mother Nutmeg, who notices a blue-black mark on the protagonist's cheek. Boris the Manskinner appears in some flashback sections of this novel, which detail the Nomonhan incident and are narrated by Lieutenant Mamiya. Its protagonist receives many letters from May Kasahara, who first shows him the dried-up well. Characters in this novel regularly whistle the overture to The Thieving Magpie. Its plot is set in motion by a search for the missing cat Noboru Wataya, and soon thereafter the protagonist's wife Kumiko disappears as well. For 10 points, name this 1995 novel about Toru Okada, a work of Haruki Murakami.",
+      "powerMarkPosition": 438,
+      "answer": "Wind-Up Bird Chronicle",
+      "acceptableAnswers": [
+        "Wind-Up Bird Chronicle",
+        "Nejimaki-dori Kuronikuru",
+        "The Wind-Up Bird Chronicle"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c321fe"
+    },
+    {
+      "id": "337acd07-4a40-45d1-acc5-8b3485761f71",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Duncan et al. studied populations in this region using direct numerical integration, predicting a density profile proportional to a to the negative gamma, and that this region has a sharp inner edge. Boffin et al. proposed that Scholz's Star migrated through and disrupted this region. Hills proposed a relatively dense, dynamically active \"inner\" part of this region to explain the effects of galactic tidal forces on it. Objects in this region are perturbed by the gravity of giant molecular clouds and nearby stars. Richard Muller proposed that either a red dwarf or a brown dwarf passes through this region every 26 million years, indirectly causing extinction events on Earth. It begins over a thousand AU from the heliopause. Sedna is thought to be from, for 10 points, what region of the Solar System beyond the Kuiper belt, the proposed source of long-period comets?",
+      "powerMarkPosition": 422,
+      "answer": "Oort cloud",
+      "acceptableAnswers": [
+        "Oort cloud",
+        "Öpik–Oort cloud",
+        "prompt on the Solar System",
+        "our Solar System",
+        "The Oort cloud"
+      ],
+      "source": "qbreader",
+      "sourceId": "6326bf0f692d593d1d7a8bdc"
+    },
+    {
+      "id": "2700f968-b19a-4281-8e0d-b788cca74806",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "This element's isotope 56 has the highest binding energy per nucleon, making it the heaviest stable element that can be formed by stellar fusion. This element's disulfide is found in pyrite, which is often called \"fool's gold\". Oxides of this element include magnetite and hematite, which contain its ferrous and ferric ions. For 10 points, name this transition metal with symbol Fe, which may form rust when exposed to air.",
+      "powerMarkPosition": 258,
+      "answer": "iron",
+      "acceptableAnswers": [
+        "iron",
+        "Fe until mentioned",
+        "The iron"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef79cbbbb69a5263ce85"
+    },
+    {
+      "id": "d945888c-938e-41b6-8e7c-f4b8080c6c24",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for sebaceous glands. It plays a key role in the integumentary system and is one of the most studied parts of human anatomy. For ten points, name this hair follicle-related structure.",
+      "powerMarkPosition": 98,
+      "answer": "Hair follicle",
+      "acceptableAnswers": [
+        "hair follicle",
+        "Hair follicle"
+      ],
+      "explanation": "The hair follicle is a key component of the Integumentary system, involved in sebaceous glands.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "b23e0247-ee6f-42e8-836f-dbec9dfc47fe",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "26 or so people have drowned in this state's Round Valley Reservoir, which was then labeled this state's Bermuda Triangle. The Kirkwood-Cohansey aquifer supplies water to much of this state. Perth Amboy and Asbury Park are two of the many beach towns on this state's coast. This state's northeast contains numerous palisades by a river near Fort Lee. This state's south is dominated by Cape May. The Raritan river runs through the center of this state, where the Passaic and Hackensack rivers also meet. This state contains large pine barrens along the Garden State Parkway. The Delaware River forms most of the western border of this state. For 10 points, name this state home to Trenton and Newark.",
+      "powerMarkPosition": 340,
+      "answer": "New Jersey",
+      "acceptableAnswers": [
+        "New Jersey",
+        "The New Jersey"
+      ],
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa58d"
+    },
+    {
+      "id": "ebcf958c-f463-43cc-8e34-888404394baf",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "In this work, one character jokes that he'd throw all modern scientists off a cliff, except for Stephen Hawking, because doing that would lose him the sympathy vote. While analyzing grouse populations, another character in this play discovers an iterated function left in a notebook belonging to his family. A girl in this play uses the example of being able to stir rice pudding but not unstir it to derive a conceptual understanding of the Second Law of Thermodynamics. A character suspects that Ezra Chater was killed at Sidley Park by Lord Byron, but that theory is disproven by Hannah Jarvis, to the dismay of Bernard Nightingale in this play, which switches between 1809 and the present. For 10 points, Septimus Hodge tutors Thomasina Coverly in what play by Tom Stoppard?",
+      "powerMarkPosition": 371,
+      "answer": "Arcadia",
+      "acceptableAnswers": [
+        "Arcadia",
+        "The Arcadia"
+      ],
+      "source": "qbreader",
+      "sourceId": "63052605c887e5458fc33031"
+    },
+    {
+      "id": "20223d1a-cd7c-4789-bab3-4cd81e1c0abd",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "One figure in this culture's myths is lured to his death by a crab made out of prairie grass, bamboo and stone. Earlier, that figure killed four hundred gods of alcohol by toppling a house. This culture's myths describe how an arrogant figure had his teeth and eyes replaced with white corn after he was blasted with a blowgun. A key location in this culture's myths contains rivers of pus and blood and a house where knives fly. The Dominican Francisco Ximénez is responsible for compiling a \"Council Book\" of this culture. This culture's villains include Zipacna and his father Seven Macaw, and many demons from Xibalba, its underworld. For 10 points, Hunahpu and Xbalanque are the Hero twins of what Pre-Columbian culture?",
+      "powerMarkPosition": 327,
+      "answer": "Maya",
+      "acceptableAnswers": [
+        "Maya",
+        "The Maya"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f33042333cf2cfbd44ac20"
+    },
+    {
+      "id": "ee17e08d-6b95-4d79-a3bd-706ba6fc0122",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "This thinker was inspired by an Unamuno speech to write the essay \"Creators and Destroyers\", which divides people into \"biophilous\" and \"necrophilous\" groups. One of this man's books criticizes the title subject's \"disintegration in contemporary Western society\", claiming that it has been reduced to little more than \"égoïsme à deux\". In another book, he argued that the fact that many people exhibit vices does not make those vices virtues and proposed that psychoanalysis could create the title community. In a third book, he claimed that destructiveness, conformity, and authoritarian systems are the three methods by which uncertain individuals undergo the title process. For 10 points, name this German social psychologist who wrote The Art of Loving, The Sane Society, and Escape from Freedom.",
+      "powerMarkPosition": 459,
+      "answer": "Fromm",
+      "acceptableAnswers": [
+        "Fromm",
+        "Erich Pinchas Fromm",
+        "The Fromm"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34d7e"
+    },
+    {
+      "id": "fd636f46-a616-4341-be27-08be59edfc13",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "Pierre Hetzel helped this author grow by publishing a work in which three Germans enter an extinct volcano in Reyjkavik. In one novel, after the sinking of the Abraham Lincoln, the far-seeing Ned Land gets trapped with Dr. Aronnax on a mysterious ship called the Nautilus. In another, Detective Fix tries to arrest Phileas Fogg in various countries before he can win a bet. The creator of Captain Nemo in 20,000 Leagues Under the Sea, name this author of Around the World in 80 Days.",
+      "powerMarkPosition": 314,
+      "answer": "Verne",
+      "acceptableAnswers": [
+        "Verne",
+        "The Verne"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d0867240107e0f1ee6"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "40f5036b-5ff2-4b22-8e65-a08fc1bfbd54",
+      "linkedTossupId": "402bfce5-670a-468d-abd3-88c656b403a0",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this honor that involves winning the four major American awards in the arts. One of the most recent winners of this honor was Elton John.",
+          "answer": "EGOT",
+          "acceptableAnswers": [
+            "EGOT",
+            "The EGOT"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 2018 recipient of the EGOT won with compositions such as Cats , Jesus Christ Superstar , Evita , and the longest running show in Broadway history, The Phantom of the Opera .",
+          "answer": "Webber",
+          "acceptableAnswers": [
+            "Webber",
+            "The Webber"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This first EGOT winner composed a musical starring the von Trapp family, who sang tunes such as \"My Favorite Things\" and \"Do-Re-Mi.\" This man collaborated with Oscar Hammerstein on The Sound of Music .",
+          "answer": "Rodgers",
+          "acceptableAnswers": [
+            "Rodgers",
+            "The Rodgers"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This term was invented by actor Philip Micheal Thomas in 1984, and Whoopi Goldberg received it after winning a Tony Award for \"Best Musical\" in 2002. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "676f723df56e0dff73abedcb"
+    },
+    {
+      "id": "4866baaa-6ba9-42cf-ab85-f4fa72eab858",
+      "linkedTossupId": "5858032f-af0c-42cd-a8d0-7512c29c5447",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "These things are the smallest linguistically useful units of sound. They are often combined to form morphemes.",
+          "answer": "phonemes",
+          "acceptableAnswers": [
+            "phonemes",
+            "The phonemes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the term for a phonetically distinct variant of a phoneme.",
+          "answer": "allophone",
+          "acceptableAnswers": [
+            "allophone",
+            "The allophone"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another important part of linguistics is semantics, which is the study of this subject.",
+          "answer": "meaning",
+          "acceptableAnswers": [
+            "meaning",
+            "The meaning"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Linguists have come up with a lot of terms to describe language. For ten points each, name some:",
+      "source": "qbreader",
+      "sourceId": "646fffa69d2ba7804333f98b"
+    },
+    {
+      "id": "50db42bd-fa97-4dc3-ba0d-bcdd2b64c355",
+      "linkedTossupId": "6eb03111-424b-41b6-a26b-46f3166ca6ed",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This \"middle land,\" the realm of men, was formed by Ymir's [ee-meer's] eyebrow. It is encircled by a namesake \"Serpent,\" and during Ragnarök, it will sink into the sea.",
+          "answer": "Midgard",
+          "acceptableAnswers": [
+            "Midgard",
+            "The Midgard"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Midgard is connected to Asgard by this rainbow bridge, which is guarded by Heimdall.",
+          "answer": "Bïfrost",
+          "acceptableAnswers": [
+            "Bïfrost",
+            "The Bïfrost"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This realm, separated from Asgard by the river Ifing, contains frost giants that pester both gods and men in Norse mythology.",
+          "answer": "Jotunheim",
+          "acceptableAnswers": [
+            "Jotunheim",
+            "The Jotunheim"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following important locations in Norse myth, for 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806eaa0924256318accde"
+    },
+    {
+      "id": "02a4e9b7-43ec-47da-917d-230e13a9e506",
+      "linkedTossupId": "a402f29b-47e7-49af-bd12-b039ba5f9f4e",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with cardiac muscle features.",
+          "answer": "sarcomere",
+          "acceptableAnswers": [
+            "sarcomere"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the sarcomere in the musculoskeletal system?",
+          "answer": "Cardiac muscle features",
+          "acceptableAnswers": [
+            "Cardiac muscle features"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to cardiac muscle features.",
+          "answer": "myofibril",
+          "acceptableAnswers": [
+            "myofibril"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9aaa2750-c706-4c8b-92a9-9e383ed5f0df",
+      "linkedTossupId": "5f75d5a9-0c27-438d-aeda-28105aa962b6",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this work that outlines six characteristics of a certain genre and advocates the presence of both recognition and reversal, or peripeteia, as essential for well-written tragedy.",
+          "answer": "Poetics",
+          "acceptableAnswers": [
+            "Poetics",
+            "The Poetics"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Poetics was written by this Greek philosopher who outlined the art of persuasive speaking in Rhetoric. This tutor of Alexander the Great also wrote the tract Physics.",
+          "answer": "Aristotle",
+          "acceptableAnswers": [
+            "Aristotle",
+            "Aristoteles",
+            "The Aristotle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This work on logic by Aristotle consists of six books and includes an outline the syllogistic method in \"Prior Analytics\" and a classification of propositions in \"On Interpretation.\" It was updated and Latinized in the title of a critique written by Francis Bacon.",
+          "answer": "Organon",
+          "acceptableAnswers": [
+            "Organon",
+            "The Organon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work divides the titular subject based on means, modes of representation, and subjects. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed6e71216c5c9ba56757aa"
+    },
+    {
+      "id": "fd7fab63-eb08-4a39-99fb-bc45a31df739",
+      "linkedTossupId": "b5605a76-67bb-4954-b32d-e9679dad0073",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this collection of stories by a Spanish author that also includes \"The Illustrious Scullery Maid,\"\"The Jealous Estremaduran,\" and \"The Deceitful Marriage.\"",
+          "answer": "Novelas Ejemplares",
+          "acceptableAnswers": [
+            "Novelas Ejemplares",
+            "Exemplary Novels",
+            "The Novelas Ejemplares"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In addition to plays such as The Siege of Numantia and The Cave of Salamanca, this man wrote the Novelas Ejemplares. He also wrote Don Quixote.",
+          "answer": "Cervantes",
+          "acceptableAnswers": [
+            "Cervantes",
+            "The Cervantes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Don Quixote, this is the name Don Quixote gave to Aldonza Lorenzo, who serves as Quixote's ideal of womanhood. She appears in a vision at the Cave of Montesinos.",
+          "answer": "Dulcinea",
+          "acceptableAnswers": [
+            "Dulcinea",
+            "The Dulcinea"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one story from this collection, the title characters \"Rinconete and Cortadillo\" become students in Monipodio's school for criminals. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df83920c3a38102cd757ff"
+    },
+    {
+      "id": "19581a1b-9373-42e7-9971-55e956f4f422",
+      "linkedTossupId": "c947c9a4-a9aa-454e-a4c4-51af52ff1f97",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this museum complex. The Belvedere Torso as well as Laocoön (\"lay-AW-koo-on\") and His Sons, both originally displayed in the Belvedere Courtyard, are now held by the Museo Pio-Clementio in this museum complex.",
+          "answer": "Vatican",
+          "acceptableAnswers": [
+            "Vatican",
+            "Musei Vaticani",
+            "Musea Vaticana",
+            "The Vatican"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Belvedere Torso strongly inspired this Renaissance-era artist, whose marble statue of David stands at seventeen feet tall. He also sculpted the Pietà.",
+          "answer": "Michelangelo",
+          "acceptableAnswers": [
+            "Michelangelo",
+            "Michelangelo di Lodovico Buonarroti Simoni",
+            "The Michelangelo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This later painter made a number of sketches of the Belvedere Torso. Marie de Medici commissioned this artist of the Flemish Baroque to create a cycle of 24 paintings, which showcase his famously fleshy nudes.",
+          "answer": "Rubens",
+          "acceptableAnswers": [
+            "Rubens",
+            "The Rubens"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Belvedere (\"bell-veh-DARE-ray\") Courtyard, which today is a parking lot in this museum complex, originally housed a collection of classical statues, many of which had their phalluses chiseled off and replaced with fig leaves. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "69390701f4e555b63742106f"
+    },
+    {
+      "id": "6ec093c3-6975-4eb0-b162-6f04318ab647",
+      "linkedTossupId": "278c6e33-a5ed-4274-946d-2715aeebbff3",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this son of Zeus and Alcmene who was assigned twelve labors to atone for the killing of his family.",
+          "answer": "Heracles",
+          "acceptableAnswers": [
+            "Heracles",
+            "Hercules",
+            "The Heracles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This king of Tiryns and cousin of Heracles assigned Heracles' twelve labors. Hera delayed Heracles' birth so this man could inherit his kingdom.",
+          "answer": "Eurystheus",
+          "acceptableAnswers": [
+            "Eurystheus",
+            "The Eurystheus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Heracles' killing of this monster was invalidated by Eurystheus because his nephew cauterized its nine heads after Heracles cut them off, preventing more from growing.",
+          "answer": "Hydra",
+          "acceptableAnswers": [
+            "Hydra",
+            "The Hydra"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This figure's feats of strength include diverting two rivers to clean out the stables of Augeas and capturing the Erymanthian Boar. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eeadce1032cda62a6773ef"
+    },
+    {
+      "id": "db183075-b9f0-4e03-97e0-251a0cde73b6",
+      "linkedTossupId": "c11a82cf-117c-4644-a38e-ff44d206bd7b",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this figure, who had an affair with Poseidon inside one of Athena's temples, causing Athena to transform her into a monster.",
+          "answer": "Medusa",
+          "acceptableAnswers": [
+            "Medusa",
+            "The Medusa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Medusa was sought out and eventually beheaded by this hero, the son of Zeus and Danae.",
+          "answer": "Perseus",
+          "acceptableAnswers": [
+            "Perseus",
+            "The Perseus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Perseus rescued this princess of Ethiopia, who was offered to the sea monster Cetus after her mother Cassiopeia boasted of her beauty. This figure married Perseus soon afterwards.",
+          "answer": "Andromeda",
+          "acceptableAnswers": [
+            "Andromeda",
+            "The Andromeda"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This figure was a daughter of Phorcys and Ceto, and her sisters include Stheno and Euryale. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0841"
+    },
+    {
+      "id": "746ba5d7-6cd1-4cc3-80dd-477655d9d993",
+      "linkedTossupId": "d6d26dfe-4f1a-40f8-a549-d8d4d4e452ea",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with hemoglobin oxygen binding.",
+          "answer": "diffusion",
+          "acceptableAnswers": [
+            "diffusion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the diffusion in the respiratory system?",
+          "answer": "Hemoglobin oxygen binding",
+          "acceptableAnswers": [
+            "Hemoglobin oxygen binding"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to hemoglobin oxygen binding.",
+          "answer": "partial pressure",
+          "acceptableAnswers": [
+            "partial pressure"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "23f294a6-bb23-4ea8-8e9a-8640bb04e383",
+      "linkedTossupId": "c6f1c131-4a6b-46a9-9f56-f69c17e27afd",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this Greek term generally referring to a return home, or a homecoming.",
+          "answer": "nostos",
+          "acceptableAnswers": [
+            "nostos",
+            "the plural form",
+            "nostoi",
+            "The nostos"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The concept of nostos is typically studied in reference to this character, whose own nostos includes sailing past the Sirens and escaping Calypso in his namesake epic.",
+          "answer": "Odysseus",
+          "acceptableAnswers": [
+            "Odysseus",
+            "The Odysseus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the Book 3 of The Odyssey, this character relates various nostoi to another character after Mentor convinces the latter to approach this character. This character narrates how he sailed away with Menelaus instead of staying in Troy for an extra day to offer sacrifices with Odysseus and Agamemnon.",
+          "answer": "Nestor",
+          "acceptableAnswers": [
+            "Nestor",
+            "The Nestor"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A lost work in the Epic cycle titled for the plural form of this word, possibly by Agias of Troezen, narrates the lives of certain Greek soldiers following the Sack of Troy, including Menelaus going to Egypt. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db4656a"
+    },
+    {
+      "id": "8d8c99aa-ff7e-4228-88d9-f5f1ca2c1527",
+      "linkedTossupId": "6b0c06fc-bc6f-439f-b4a3-f9213a23761e",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this family, one member of which fathered seventeen sons with ashes on their foreheads that would not wash off. Many members of this family are named either Jose Arcadio or Aureliano.",
+          "answer": "Buendía",
+          "acceptableAnswers": [
+            "Buendía",
+            "The Buendía"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Buendía family is the central family in One Hundred Years of Solitude, the best-known novel of this Colombian author.",
+          "answer": "Garcia Marquez",
+          "acceptableAnswers": [
+            "Garcia Marquez",
+            "partial last name",
+            "The Garcia Marquez"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the name of the Buendía woman whose beauty drives men mad, and who ultimately ascends into the sky while folding laundry.",
+          "answer": "Remedios",
+          "acceptableAnswers": [
+            "Remedios",
+            "The Remedios"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The last member of this family is born with a pig's tail and is devoured by ants. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b576"
+    },
+    {
+      "id": "8c817956-246f-4fed-8a00-7e45e84e4c0f",
+      "linkedTossupId": "337acd07-4a40-45d1-acc5-8b3485761f71",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This test, pioneered by Pearson, is named for a quantity computed as the sum of the square of the difference between observed and expected quantities, divided by the variance.",
+          "answer": "chi-square",
+          "acceptableAnswers": [
+            "chi-square",
+            "The chi-square"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This test relies on the maximum difference between a cumulative distribution function and the actual observed distribution function in data.",
+          "answer": "Kolmogorov-Smirnov",
+          "acceptableAnswers": [
+            "Kolmogorov-Smirnov",
+            "The Kolmogorov-Smirnov"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Also called relative entropy and named for two US mathematicians, it gives the difference in two distributions S and T as a sum of the probability of events E given T times the log of the ratio of probabilities of E given T versus S.",
+          "answer": "Kullback-Leibler",
+          "acceptableAnswers": [
+            "Kullback-Leibler",
+            "Kullback-Leibler distance",
+            "The Kullback-Leibler"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "There are many statistical techniques measuring goodness of fit. Name these, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62df3ddba2602b93e0407eb0"
+    },
+    {
+      "id": "590eaea7-6e97-4115-9253-c79caff6f0ec",
+      "linkedTossupId": "2700f968-b19a-4281-8e0d-b788cca74806",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "These infectious agents introduce genetic material into cells and replicate. Some examples include chickenpox and influenza.",
+          "answer": "virus",
+          "acceptableAnswers": [
+            "virus",
+            "The virus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These types of viruses target bacteria, making them a possible treatment against bacterial infection. The Hershey-Chase experiment used the T2 one to demonstrate DNA contains genetic information.",
+          "answer": "phage",
+          "acceptableAnswers": [
+            "phage",
+            "The phage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this type of viral reproduction, the virus replicates itself within the cell until the cell bursts and releases many new viral agents. It contrasts with the lysogenic cycle, where the virus remains dormant.",
+          "answer": "lytic cycle",
+          "acceptableAnswers": [
+            "lytic cycle",
+            "The lytic cycle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following questions about a class of pathogens, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b75a"
+    },
+    {
+      "id": "fb6fd150-a0f9-4a54-8e9f-17f37eb3d277",
+      "linkedTossupId": "d945888c-938e-41b6-8e7c-f4b8080c6c24",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with stomach anatomy.",
+          "answer": "esophagus",
+          "acceptableAnswers": [
+            "esophagus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the esophagus in the digestive system?",
+          "answer": "Stomach anatomy",
+          "acceptableAnswers": [
+            "Stomach anatomy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to stomach anatomy.",
+          "answer": "peristalsis",
+          "acceptableAnswers": [
+            "peristalsis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e1675f93-c587-4906-a712-1908a838f0f7",
+      "linkedTossupId": "b23e0247-ee6f-42e8-836f-dbec9dfc47fe",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this mountain range located in the eastern United States. Its namesake trail begins at Springer Mountain in Georgia.",
+          "answer": "Appalachian",
+          "acceptableAnswers": [
+            "Appalachian",
+            "Appalachians",
+            "The Appalachian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This subrange of the Appalachians primarily runs through Virginia and western North Carolina. The Piedmont Region is located to the east of these mountains, and Shenandoah National Park encompasses a part of them.",
+          "answer": "Blue Ridge",
+          "acceptableAnswers": [
+            "Blue Ridge",
+            "The Blue Ridge"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another national park in the Blue Ridge mountains is named after this range. This subrange of the Blue Ridge stretches from the Pigeon River in the northeast to the Little Tennessee River in the southwest.",
+          "answer": "Smoky",
+          "acceptableAnswers": [
+            "Smoky",
+            "Smokies",
+            "The Smoky"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Black, Bald, and Unicoi Mountains are all subranges of it. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d7ed"
+    },
+    {
+      "id": "6452dcb1-b07d-4ee3-9052-df213f9f7be0",
+      "linkedTossupId": "ebcf958c-f463-43cc-8e34-888404394baf",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this poet of \"This is Just to Say.\" This poet described an object \"glazed with rain / water,\" upon which \"so much depends,\" in \"The Red Wheelbarrow.\"",
+          "answer": "Williams",
+          "acceptableAnswers": [
+            "Williams",
+            "The Williams"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Williams was a member of this modernist poetic movement founded by Ezra Pound. H.D. helped compile three statements of this movement, which emphasized the use of direct and precise language.",
+          "answer": "Imagism",
+          "acceptableAnswers": [
+            "Imagism",
+            "word forms such as Imagiste poetry",
+            "The Imagism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "H. D. titled the sequel to her novel HERmione after one of these flowers. In a poem titled for this \"Greeny Flower,\" Williams describes learning \"there were flowers also in hell.\"",
+          "answer": "asphodel",
+          "acceptableAnswers": [
+            "asphodel",
+            "“Asphodel",
+            "That Greeny Flower”",
+            "The asphodel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one poem, this author apologizes for eating plums that were \"so sweet / and so cold.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68fc54d85b5d7bee38aa3fbe"
+    },
+    {
+      "id": "9d7003b0-1380-4c61-ade5-cb9bfee4c018",
+      "linkedTossupId": "20223d1a-cd7c-4789-bab3-4cd81e1c0abd",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this Guardian of the Cedar Forest who, after being hit with Shamash's thirteen winds, was axed to death by Enkidu and his companion.",
+          "answer": "Humbaba",
+          "acceptableAnswers": [
+            "Humbaba",
+            "Huwawa",
+            "The Humbaba"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "That companion of Enkidu was this two-thirds-immortal king of Uruk, the namesake of a Sumerian epic.",
+          "answer": "Gilgamesh",
+          "acceptableAnswers": [
+            "Gilgamesh",
+            "Bilgames",
+            "The Gilgamesh"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Dumuzid the Fisherman reigned as king of Uruk between Gilgamesh and this man, who fathered Gilgamesh with the goddess Ninsun.",
+          "answer": "Lugalbanda",
+          "acceptableAnswers": [
+            "Lugalbanda",
+            "The Lugalbanda"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It is claimed that this figure's \"breath is fire\", while his shout \"has the power of a deluge\", and after his death Enlil redistributed his \"seven terrors\" or \"seven radiances\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43acc"
+    },
+    {
+      "id": "712d8832-775c-4c67-95d8-94a4967440bf",
+      "linkedTossupId": "ee17e08d-6b95-4d79-a3bd-706ba6fc0122",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this activity, consisting of intimate relations between close relations. This activity between any closer relations than cousins is legally prohibited in the UK, regardless of whether both parties are consenting.",
+          "answer": "incest",
+          "acceptableAnswers": [
+            "incest",
+            "The incest"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Incest is one of the most widespread examples of activities under this kind of prohibition, the name of which derives from a Polynesian word meaning either 'set aside' or 'forbidden'.",
+          "answer": "taboo",
+          "acceptableAnswers": [
+            "taboo",
+            "The taboo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This anthropologist proposed the alliance theory as an explanation of the incest taboo in his book Elementary Structures of Kinship, arguing that it encouraged marriage outside of a single kinship group.",
+          "answer": "Lévi-Strauss",
+          "acceptableAnswers": [
+            "Lévi-Strauss",
+            "The Lévi-Strauss"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The hypothetical Westermarck effect proposes that sexual attraction is numbed between people who grew up together, making this activity unlikely. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6413cd99fdc648a1ed709760"
+    },
+    {
+      "id": "fbcdfc82-7e4d-46fc-9d27-aa39c5d255bd",
+      "linkedTossupId": "fd636f46-a616-4341-be27-08be59edfc13",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel about Henry Fleming's growth after fleeing from battle.",
+          "answer": "Red Badge of Courage",
+          "acceptableAnswers": [
+            "Red Badge of Courage",
+            "The Red Badge of Courage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Red Badge of Courageis by this Americanauthor.",
+          "answer": "Crane",
+          "acceptableAnswers": [
+            "Crane",
+            "The Crane"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Stephen Crane's first published work was a novella about this character, the title \"Girl of the Streets\" whobecomes a prostitute.",
+          "answer": "Maggie",
+          "acceptableAnswers": [
+            "Maggie",
+            "The Maggie"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This novel opens describing fog revealing \"an army stretched out on the hills, resting.\" For ten pointseach,",
+      "source": "qbreader",
+      "sourceId": "6837af6a278db02eb79f1e89"
+    }
+  ]
+}

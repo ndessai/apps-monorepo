@@ -1,0 +1,1117 @@
+{
+  "packetId": "packet-262",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "History",
+    "Literature",
+    "Human Body",
+    "Fine Arts",
+    "Mythology",
+    "Philosophy",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "3a6e5a7a-5092-48e1-8ad0-55894076cd8f",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "The 1923 Nobel Prize in Physics was awarded for work on the elementary electric charge and this phenomenon. The kinetic energy of particles undergoing this effect is given by Planck's constant times the frequency minus the work function. For a given surface, this effect does not occur below a certain frequency, called the threshold frequency. In 1887, an apparatus consisting of a coil with a spark gap was used by Heinrich Hertz to observe this phenomenon. A 1905 paper by Albert Einstein used the idea of discrete quanta of light to explain this effect. For 10 points, name this effect in which electrons are ejected from a metal due to incident light.",
+      "powerMarkPosition": 323,
+      "answer": "photoelectric",
+      "acceptableAnswers": [
+        "photoelectric",
+        "The photoelectric"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144acb"
+    },
+    {
+      "id": "558a2b21-fdbd-4ee5-ac8a-7db390143348",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "A ship from this country was destroyed by the Castle Bravo test. The Plaza Accord was partly responsible for this country's capital assets pricing bubble. One leader of this country resigned due to corruption from the Marubeni and Lockheed corporations. The NTT telecom company in this nation was state-owned until the 1980s. The \"lifetime employment system\" in this country gave rise to white-collar workers called salarymen who routinely voted for the long-ruling Liberal Democratic Party. Although this country's constitution claims that it \"forever renounce[s] war as a sovereign right\", it maintains a Self Defense Force. For 10 points, name this country where members of Aum Shinrikyo carried out a sarin gas attack on the subways in its capital city, Tokyo.",
+      "powerMarkPosition": 465,
+      "answer": "Japan",
+      "acceptableAnswers": [
+        "Japan",
+        "Nihon-koku",
+        "Nippon-koku",
+        "The Japan"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aeacf"
+    },
+    {
+      "id": "ad5f6a05-c5c0-4503-9e3a-be7ed7b235d3",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "One section of this poem tells of a place where \"the Lily-white Boy is a Roarer\", a reference to the folk son \"Green Grow the Rushes, O\". That section describes how \"the crack in the tea-cup opens / a lane to the land of the dead\". One of this poem's speakers laments that \"In headaches and in worry / Vaguely life leaks away\". This poem closes by noting that \"the deep river ran on\" and opens with a stanza relating how \"the crowds upon the pavement / were fields of harvest wheat\". \"One of this poem's speakers asserts \"I'll love you / Till China and Africa meet\", while the other major speaker advises the listener to \"let not Time deceive you / You cannot conquer Time\". For 10 points, identify this poem in which W.H. Auden listens to the lovers and clocks of Bristol Street during a twilight stroll.",
+      "powerMarkPosition": 327,
+      "answer": "As I Walked Out One Evening",
+      "acceptableAnswers": [
+        "As I Walked Out One Evening",
+        "The As I Walked Out One Evening"
+      ],
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c6119349c88"
+    },
+    {
+      "id": "20640af3-63e0-45d2-8c81-f94de65e44c6",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for stomach anatomy. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this esophagus-related structure.",
+      "powerMarkPosition": 77,
+      "answer": "Esophagus",
+      "acceptableAnswers": [
+        "esophagus",
+        "Esophagus"
+      ],
+      "explanation": "The esophagus is a key component of the Digestive system, involved in stomach anatomy.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "4851f210-a937-491b-9ec9-d9186909d529",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "This character sentences a prostitute to six months in jail for assaulting the bourgeois Bamatabois, before the mayor intervenes. This character fights and arrests the Patron-Minette gang single-handedly at Gorbeau House. He goes undercover as a revolutionary, but is exposed after being recognised by Gavroche at the barricades. This character commits suicide by jumping into the River Seine after helping a former convict save Marius Pontmercy. For 10 points, name this policeman who relentlessly pursues Jean Valjean in Les Miserables.",
+      "powerMarkPosition": 221,
+      "answer": "Javert",
+      "acceptableAnswers": [
+        "Javert",
+        "The Javert"
+      ],
+      "source": "qbreader",
+      "sourceId": "6413cd99fdc648a1ed709592"
+    },
+    {
+      "id": "b6fdb2c4-a5b7-461a-bde0-fe91f3be05c3",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "This man described a character who has an epitelioma near his mustache, and the Agazzi family watch the conflict between Signora Frolla and Signor Ponza over Signora Ponza's identity in another work. In addition to The Man With the Flower in His Mouth and Right you are! (If you think you are), he wrote about a guy who goes to Monte Carlo and is mistaken for being dead, The Late Mattea Pascal, and a work in which a man who falls off of a horse believes he is the title Holy Roman Emperor. Better known for a work featuring a Boy, Girl, Mother, Father, Stepdaughter, and Son, for 10 points, name this author of Enrico IV and Six Characters in Search of An Author.",
+      "powerMarkPosition": 491,
+      "answer": "Pirandello",
+      "acceptableAnswers": [
+        "Pirandello",
+        "The Pirandello"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43b09"
+    },
+    {
+      "id": "5cca6553-958b-464d-91d5-c31c0711bd93",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "This ion's concentration is inversely proportional to hemoglobin's affinity for oxygen in the Bohr effect. It's not potassium, but the concentration of this ion is related to hyperkalemia. The movement of these ions can be described by the Q cycle. The drug omeprazole (\"oh-mehp-raz-ole\") inhibits the production of these ions in parietal (\"pah-RY-it-al\") cells. Antimycin blocks the transport of these ions through the cytochrome bc1 complex at the start of the electron transport chain, and these ions pass through ATP synthase to make ATP. For 10 points, name these ions donated by Brønsted-Lowry and Arrhenius acids.",
+      "powerMarkPosition": 329,
+      "answer": "hydrogen",
+      "acceptableAnswers": [
+        "hydrogen",
+        "H+",
+        "protons",
+        "hydrons",
+        "The hydrogen"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144ccb"
+    },
+    {
+      "id": "75ef5c19-41e7-4ab5-a1be-31f3a81ea634",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "text": "In one opera by this composer, Mab disguises herself as Catherine in order to be kidnapped in her place. Zurga and Zadir pledge eternal friendship to one another in the famous duet \"au fond du temple saint\" in a work by this man. Charles-Francois Gounod accused this composer of The Fair Maid of Perth of plagiarism upon the release of a work that begins in a cigarette factory. The title character of that work by this composer sings her \"Habañera\" before seducing a toreador. For 10 points, name this composer of The Pearl Fishers and Carmen.",
+      "powerMarkPosition": 278,
+      "answer": "Bizet",
+      "acceptableAnswers": [
+        "Bizet",
+        "The Bizet"
+      ],
+      "source": "qbreader",
+      "sourceId": "62edc1ba974521c293e49872"
+    },
+    {
+      "id": "9c4f95f4-9539-4669-b619-0ef80df58958",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "The precipitating incident of this story is described as a natural consequence of having \"four million human beings all jostling each other within the space of a few square miles.\"A character in this story runs away after accidentally smashing a window with a stick while defending himself from a few ruffians who attack him at four in the morning. The protagonist of this story deduces that a man has no gas in his house, from observing five tallow stains on his hat. The protagonist of this story learns Mrs. Oakshott's address by purposefully losing a bet to Mr. Breckinridge about whether his livestock are town or country bred. In this story, the maid Catherine Cusack conspires with James Ryder to have the plumber John Horner be arrested for the theft of a prized possession of the Countess of Morcar. For 10 points, name this Sherlock Holmes story whose title jewel is found in the crop of a Christmas goose.",
+      "powerMarkPosition": 463,
+      "answer": "Blue Carbuncle",
+      "acceptableAnswers": [
+        "Blue Carbuncle",
+        "The Blue Carbuncle"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa5913201921"
+    },
+    {
+      "id": "223c1451-ccee-4976-840c-16fbdd71db06",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "In Islamic mythology, one giant version of this animal was called the roc, and the mount of the god Vishnu is a giant one of these creatures called Garuda. Heracles used arrows tipped with poison to kill the \"Stymphalian\" version of these animals. The most common symbol of Athena is one of these animals, and the phoenix is an example of these creatures from Asian mythology. For 10 points, name these winged animals.",
+      "powerMarkPosition": 207,
+      "answer": "bird",
+      "acceptableAnswers": [
+        "bird",
+        "The bird"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e14a8"
+    },
+    {
+      "id": "76ddcccb-5ad4-4517-a64b-d16d83ed3579",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "The METAR codes RA and SN correspond to two types of this phenomenon, which can be induced by orographic lift. The second letter in the Köppen classification corresponds to this phenomenon. The intensity of this phenomenon can be measured using an udometer, which is alternatively known as a pluviometer. Diamond dust and graupel are two manifestations of this phenomenon, which characterizes the monsoon season. This phenomenon occurs when a parcel of air is cooled to its dew point, and the lack of this phenomenon characterizes deserts. For 10 points, name this weather phenomenon that includes snow and rain.",
+      "powerMarkPosition": 291,
+      "answer": "precipitation",
+      "acceptableAnswers": [
+        "precipitation",
+        "The precipitation"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc3a9"
+    },
+    {
+      "id": "bdc49bd4-f122-43f1-ad1e-cc6dda2c75c7",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "A satirical novel compares the potential fates of this play's protagonist to the \"wishy,\" \"wishy-washy,\" and \"washy\" options given to Liberty Island voters. This play's protagonist is trapped in the Statue of Liberty and freed by Hamlet and Zarathustra, leading to Puerto Rican independence, in Giannina Braschi's United States of Banana. In this play, a woman asks her maid to retrieve a locket from Astolfo that is revealed to contain a portrait of that maid. Upon realizing that she has his sword, the tutor Clotaldo spares his disguised daughter in this play. Clarín and Rosaura rescue this play's protagonist after a prophecy that he will disgrace the kingdom causes King Basilio to lock him in a tower. For 10 points, name this Spanish Golden Age play about Prince Segismundo, by Pedro Calderón de la Barca.",
+      "powerMarkPosition": 338,
+      "answer": "Life is a Dream",
+      "acceptableAnswers": [
+        "Life is a Dream",
+        "La vida es sueño",
+        "The Life is a Dream"
+      ],
+      "source": "qbreader",
+      "sourceId": "65ba878aca6edbbc92a5d358"
+    },
+    {
+      "id": "c4c73716-9b39-4bca-bd2f-397af09ba64a",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "A prophecy says that the subject of this event would \"eat curds and honey\" and be called \"Wonderful Counselor.\" This event was foretold to the cousin of Elizabeth, and the subject of this event was honored at the Epiphany by the Magi. This event occurred in a stable in Bethlehem in the presence of Joseph and a virgin who was conceived immaculately, Mary. For 10 points, name this religious event commemorated by Christmas.",
+      "powerMarkPosition": 228,
+      "answer": "birth",
+      "acceptableAnswers": [
+        "birth",
+        "The birth"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eea0924256318acf03"
+    },
+    {
+      "id": "a8f443ff-e9cf-4e04-a16f-6aa82d19865f",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for bone development and growth. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this skull-related structure.",
+      "powerMarkPosition": 82,
+      "answer": "Skull",
+      "acceptableAnswers": [
+        "skull",
+        "Skull"
+      ],
+      "explanation": "The skull is a key component of the Musculoskeletal system, involved in bone development and growth.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "08eb8397-54a1-48b0-8be3-92e3707c8f0e",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "The \"extended\" version of this man's algorithm gives solutions to Diophantine equations. He proved that there are an infinite number of prime numbers, and his aforementioned namesake algorithm is used to find the greatest common denominator. He names a claim about the existence of a unique parallel line, his fifth postulate. This \"father of geometry\" is, for 10 points, what Greek mathematician who wrote The Elements?",
+      "powerMarkPosition": 212,
+      "answer": "Euclid",
+      "acceptableAnswers": [
+        "Euclid",
+        "The Euclid"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f1ff4"
+    },
+    {
+      "id": "8d6f6f62-2cea-4c98-8e17-03287e46dd1c",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "A recent book by Akerlof and Shiller titled for an idea of this man, Animal Spirits, argues that psychological forces spurred the financial crisis. He rejected the neutrality of money, arguing that inflation can increase consumption in the short run due to price misperception. John Hicks's IS/LM model mathematically summarizes the ideas of this man, whose namesake branch of economics created the economic \"multiplier\" and believes in the efficacy of fiscal policy. For 10 points, name this British author of the General Theory of Employment, Interest, and Money.",
+      "powerMarkPosition": 277,
+      "answer": "Keynes",
+      "acceptableAnswers": [
+        "Keynes",
+        "The Keynes"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6deddb9"
+    },
+    {
+      "id": "45458733-fda1-4eca-9f1a-61e4f0c80eea",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "In one book, this thinker argued that we shouldn't treat old age as a universal identifier for barring the elderly from living a normal life. In another book, this thinker created archetypes such as the nihilist and the serious man that are embodied by people working towards realizing their ethical freedom. This author of The Coming of Age reworked Hegelian philosophy to create a dichotomy of the \"Subject\" and the \"Other\" to explain how women are eternally relegated to a status of inferiority to men. For 10 points, The Ethics of Ambiguity is by what feminist philosopher, who stated that \"one is not born, but rather, becomes a woman\" in The Second Sex?",
+      "powerMarkPosition": 382,
+      "answer": "Beauvoir",
+      "acceptableAnswers": [
+        "Beauvoir",
+        "The Beauvoir"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eeafe83c775a43572059bf"
+    },
+    {
+      "id": "1828ad4c-7d3f-4e99-9880-d4bf2301cd01",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "One novel by this author is narrated by Edward Malone, who encounters stegosauruses and pterodactyls in South America with Professor Challenger. This author wrote short stories in which a stolen diamond is fed to a goose and Jabez Wilson is employed by the \"Red- Headed League.\" He created a character who clashes with Professor Moriarty, and who lives with Dr. Watson at 221B Baker Street. For 10 points, name this creator of Sherlock Holmes.",
+      "powerMarkPosition": 256,
+      "answer": "Doyle",
+      "acceptableAnswers": [
+        "Doyle",
+        "The Doyle"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e6a0924256318ac854"
+    },
+    {
+      "id": "f483aee4-0e7c-42cb-8c51-bff50a2c5916",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "Drill monkeys and the Ikom Monoliths can be found near Calabar in this country's Cross River state. The Hausa people occupy the city and state of Kano in this country. Lokoja is the site of the Benue River's confluence with the largest river in this country. The Bight of Bonny and the Bight of Biafra are off the coast of this country, which has many refineries at Port Harcourt. Lagos is in, for 10 points, what West African country with capital Abuja?",
+      "powerMarkPosition": 193,
+      "answer": "Nigeria",
+      "acceptableAnswers": [
+        "Nigeria",
+        "The Nigeria"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7d96"
+    },
+    {
+      "id": "c69dc427-3602-49ee-8e83-c70269cc2cd1",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "Theoretically, the price elasticity of this concept is always negative, though Veblen and Giffen goods experience an increase in this as price increases. This concept is theoretically determined by income alone. Its curve has a negative slope, giving a single equilibrium price at the intersection point with the supply curve. For 10 points, name this economic concept that describes how much of a good consumers want to buy.",
+      "powerMarkPosition": 227,
+      "answer": "demand",
+      "acceptableAnswers": [
+        "demand",
+        "The demand"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac9b5"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "2653c5ef-89d6-4f5b-9f2e-9ed4aedd2db2",
+      "linkedTossupId": "3a6e5a7a-5092-48e1-8ad0-55894076cd8f",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this organelle composed of two subunits, which is responsible for translation in the cell to produce protein and is either free or bound to the rough ER.",
+          "answer": "ribosome",
+          "acceptableAnswers": [
+            "ribosome",
+            "The ribosome"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During translocation along the mRNA, the tRNA molecule occupying the aminoacyl or A site moves to this other site where it transfers the amino acid chain to the new A site tRNA.",
+          "answer": "P",
+          "acceptableAnswers": [
+            "P"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This codon initiates translation, coding for the amino acid methionine.",
+          "answer": "AUG",
+          "acceptableAnswers": [
+            "AUG",
+            "adenine-uracil-guanine",
+            "The AUG"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This organelle moves its substrate along via a ratcheting mechanism powered by GTP hydrolysis and part of binds to the Shine-Dalgarno sequence in prokaryotes. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841955"
+    },
+    {
+      "id": "79b754a7-9536-4d33-b27a-c162e3e95291",
+      "linkedTossupId": "558a2b21-fdbd-4ee5-ac8a-7db390143348",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Born with the last name Ulyanov, this expatriate was living in Switzerland when the Germans sent him to Russia in a sealed railroad car on March 1, 1917 to instigate a revolution and negotiate peace.",
+          "answer": "Lenin",
+          "acceptableAnswers": [
+            "Lenin",
+            "The Lenin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Germans got what they wanted when the Bolsheviks seized power in the October Revolution and signed this draconian peace treaty with Wilhelmine Germany.",
+          "answer": "Brest-Litovsk",
+          "acceptableAnswers": [
+            "Brest-Litovsk",
+            "The Brest-Litovsk"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lenin was responsible for the Bolshevik-Menshevik split when he published this pamphlet in 1905 outlining his revolutionary doctrine.",
+          "answer": "What Is To Be Done?",
+          "acceptableAnswers": [
+            "What Is To Be Done?",
+            "The What Is To Be Done?"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the political career of a certain revolutionary leader.",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1461"
+    },
+    {
+      "id": "99db3ff0-b8a3-4ecf-bb36-7419e2b5a6b4",
+      "linkedTossupId": "ad5f6a05-c5c0-4503-9e3a-be7ed7b235d3",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this specific type of event. In another play titled for these specific events, the central characters travel to a shrine in which both a pine and palm tree grow out of the same trunk.",
+          "answer": "lovesuicide",
+          "acceptableAnswers": [
+            "lovesuicide",
+            "The Love Suicides at Amijima",
+            "Shinjūten no Amijima",
+            "accept The Love Suicides at Sonezaki",
+            "Sonezaki Shinjū",
+            "prompt on partial answers",
+            "The lovesuicide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chikamatsu Monzaemon, the author of The Love Suicides at Amijima and The Love Suicides at Sonezaki, wrote bunraku plays that were performed using these objects.",
+          "answer": "puppet",
+          "acceptableAnswers": [
+            "puppet",
+            "ningyō",
+            "The puppet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chikamatsu's The Love Suicides at Amijima opens with the assertion that the love of one of these specific people \"is deep beyond measure.\" In Chikamatsu's play The Uprooted Pine, Azuma is one of these specific people.",
+          "answer": "prostitute",
+          "acceptableAnswers": [
+            "prostitute",
+            "equivalents such as sex workers",
+            "prompt on women",
+            "similar answers by asking “what profession are they a member of?”",
+            "do not accept",
+            "prompt on “geisha”",
+            "The prostitute"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a play titled for this specific type of event, the paper merchant Jihei desires to escape his marriage for a woman who resides in the Gay Quarter. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6326bf0f692d593d1d7a9005"
+    },
+    {
+      "id": "e12b7ca1-db07-41b7-a432-0e837083e2ac",
+      "linkedTossupId": "20640af3-63e0-45d2-8c81-f94de65e44c6",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with synovial joint structure.",
+          "answer": "synovial",
+          "acceptableAnswers": [
+            "synovial"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the synovial in the musculoskeletal system?",
+          "answer": "Synovial joint structure",
+          "acceptableAnswers": [
+            "Synovial joint structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to synovial joint structure.",
+          "answer": "cartilage",
+          "acceptableAnswers": [
+            "cartilage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "926fe884-f9e6-44ae-9e9c-4c7a55037870",
+      "linkedTossupId": "4851f210-a937-491b-9ec9-d9186909d529",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this song describing \"everyone doin'\" the title dance. John Candy's character almost crashes a car while dancing to this song in Planes, Trains, and Automobiles.",
+          "answer": "“Mess Around”",
+          "acceptableAnswers": [
+            "“Mess Around”",
+            "The “Mess Around”"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Mess Around\" is by this blind artist of \"Hit the Road Jack\" and \"I Can't Stop Loving You\". He was sometimes known as \"the Genius\".",
+          "answer": "Charles",
+          "acceptableAnswers": [
+            "Charles",
+            "The Charles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 1972 Ray Charles released a cover of this folk artist's \"What Have They Done to My Song, Ma\". She was one of only three solo women to perform at Woodstock, an experience that inspired her song \"Lay Down (Candles in the Rain)\".",
+          "answer": "Melanie",
+          "acceptableAnswers": [
+            "Melanie",
+            "The Melanie"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The singer of this song declares \"you can talk about the pit, barbecue/the band was jumpin', the people too\". For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "640020a88d3cf1e72e23484a"
+    },
+    {
+      "id": "9735569f-e928-4310-9f81-fb33c2192d86",
+      "linkedTossupId": "b6fdb2c4-a5b7-461a-bde0-fe91f3be05c3",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this play in which Luka agrees to sleep anywhere and sweep the floor himself.",
+          "answer": "Lower Depths",
+          "acceptableAnswers": [
+            "Lower Depths",
+            "Na dne",
+            "The Lower Depths"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Lower Depths was written by this Russian playwright who wrote about the role of women during the Russian revolution in Mother.",
+          "answer": "Gorky",
+          "acceptableAnswers": [
+            "Gorky",
+            "Aleksey Maximovich Peshkov",
+            "The Gorky"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This earlier Russian playwright penned such works as Boris Godunov and \"The Bronze Horseman\". He also created the characters Vladimir Lensky and Eugene Onegin.",
+          "answer": "Pushkin",
+          "acceptableAnswers": [
+            "Pushkin",
+            "The Pushkin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Actor insists that he is too sick from alcohol poisoning to sweep the floor of the cellar in which this play opens, and the landlord Kostyloff is in search of his wife to make her do work in it first scene. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da740"
+    },
+    {
+      "id": "036d1ac6-49f4-4bc1-b965-3be0ff021817",
+      "linkedTossupId": "5cca6553-958b-464d-91d5-c31c0711bd93",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this entity that nearly uniformly permeates the universe. Discovered by Penzias and Wilson",
+          "answer": "MB",
+          "acceptableAnswers": [
+            "MB",
+            "cosmic microwave background radiation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The cosmological principle suggests that the laws of the universe apply equally everywhere. One consequence is homogeneity, that the area of the universe we occupy is a fair sample; the other is this property, that the universe looks essentially the same in all directions.",
+          "answer": "isotropy",
+          "acceptableAnswers": [
+            "isotropy",
+            "The isotropy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The so-called \"axis of evil\" is an anomalous alignment of the quadrupole and octupole moments of the CMB with the plane of Earth's orbit, which is given this name.",
+          "answer": "ecliptic",
+          "acceptableAnswers": [
+            "ecliptic",
+            "The ecliptic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This entity has a temperature of approximately 3 Kelvin. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a50c"
+    },
+    {
+      "id": "87e576fa-9ae4-4f11-bf8e-3c15310eec2e",
+      "linkedTossupId": "75ef5c19-41e7-4ab5-a1be-31f3a81ea634",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this musical about Maria, who gives a concert to Nazis in Edelweiss and studies to become a nun in Austria.",
+          "answer": "Sound of Music",
+          "acceptableAnswers": [
+            "Sound of Music",
+            "The Sound of Music"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Maria teaches the seven children of this man to sing in songs like \"My Favorite Things\" and \"Do-Re-Mi.\" Eventually Maria marries this man and escapes with him over the Alps in Climb Ev'ry Mountain.",
+          "answer": "von Trapp",
+          "acceptableAnswers": [
+            "von Trapp",
+            "The von Trapp"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Sound of Music was written by this duo, who also produced Cinderella and many other popular Broadway musicals.",
+          "answer": "Rodgers",
+          "acceptableAnswers": [
+            "Rodgers",
+            "The Rodgers"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A song in this musical lists raindrops on roses and whiskers on kittens as some of her \"favorite things.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa5913201735"
+    },
+    {
+      "id": "2b98c993-4436-419a-8c88-3fb867ca85bc",
+      "linkedTossupId": "9c4f95f4-9539-4669-b619-0ef80df58958",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this body part. A Natsume Soseki novel in which Sensei tells the narrator about his life in a lengthy \"testament\" is named after a Japanese word for this body part.",
+          "answer": "heart",
+          "acceptableAnswers": [
+            "heart",
+            "kokoro",
+            "The heart"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Among the novels discussed in Keene's Seeds in the Heart is the classic tale of this \"shining prince\" by Lady Murasaki.",
+          "answer": "Genji",
+          "acceptableAnswers": [
+            "Genji",
+            "The Tale of Genji",
+            "The Genji"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Japanese title of The Tale of Genji's ninth chapter is translated by Edward Seidensticker as \"Heartvine.\" A lady of this all-vowel name is Genji's first wife.",
+          "answer": "Aoi",
+          "acceptableAnswers": [
+            "Aoi",
+            "The Aoi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A Donald Keene survey of Japanese literature up to the late 16th century is entitled Seeds in [this body part]. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6326bf0f692d593d1d7a8e25"
+    },
+    {
+      "id": "1216f327-36c7-4a71-bb0b-6fe38338e8d0",
+      "linkedTossupId": "223c1451-ccee-4976-840c-16fbdd71db06",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these items grown in the Garden of Hesperides, one of which disrupted the wedding of Peleus and Thetis and led to a beauty contest judged by Paris.",
+          "answer": "golden apple",
+          "acceptableAnswers": [
+            "golden apple",
+            "The golden apple"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "That beauty contest became the cause of this conflict after Paris received Helen of Sparta from Aphrodite. This conflict ended thanks to a namesake wooden \"horse.\"",
+          "answer": "Trojan War",
+          "acceptableAnswers": [
+            "Trojan War",
+            "The Trojan War"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This goddess of discord threw the Apple of Discord because she was not invited to the wedding of Peleus and Thetis.",
+          "answer": "Eris",
+          "acceptableAnswers": [
+            "Eris",
+            "The Eris"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Melanion gained the hand of Atalanta by dropping these objects during a race. For 10 points each-",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7c5c"
+    },
+    {
+      "id": "388a42cf-d354-4de5-b63a-257bdcabc6a5",
+      "linkedTossupId": "76ddcccb-5ad4-4517-a64b-d16d83ed3579",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this element, which is the major component of pewter. The major ore of this element is cassiterite.",
+          "answer": "tin",
+          "acceptableAnswers": [
+            "tin",
+            "Sn",
+            "The tin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This alloy of tin and copper expands as it solidifies, making it ideal for cast sculptures. This alloy is commonly used to make bells and cymbals.",
+          "answer": "bronze",
+          "acceptableAnswers": [
+            "bronze",
+            "The bronze"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Organotin compounds are coupled with other compounds in the Stille reaction, which uses this element as a catalyst. This element also catalyzes the Heck and Suzuki coupling reactions.",
+          "answer": "palladium",
+          "acceptableAnswers": [
+            "palladium",
+            "Pd",
+            "The palladium"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In medieval churches in colder climates, this element's \"pest,\" caused by its transition from a \"white\" to a \"gray\" allotrope, could destroy larger organ pipes. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63167de399ac1f87e75a5418"
+    },
+    {
+      "id": "75042e2a-8816-4b62-bd7d-aeabc677d3a2",
+      "linkedTossupId": "bdc49bd4-f122-43f1-ad1e-cc6dda2c75c7",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this American author who provided a dizzying look at the early history and culture of twentieth-century America in his trilogy U.S.A..",
+          "answer": "Dos Passos",
+          "acceptableAnswers": [
+            "Dos Passos",
+            "The Dos Passos"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The U.S.A. trilogy ends with Mary French unsuccessfully protesting the verdict in this case, which inspired Maxwell Anderson to write Winterset.",
+          "answer": "Sacco",
+          "acceptableAnswers": [
+            "Sacco",
+            "The Sacco"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The major villain in the U.S.A. trilogy may be this character, who is ironically born on the fourth of July. He runs an influential advertising agency which employs his protege, Dick Savage, and has a talent for performing skilled public relations for corrupt companies.",
+          "answer": "Morehouse",
+          "acceptableAnswers": [
+            "Morehouse",
+            "J. Ward",
+            "J. W.",
+            "The Morehouse"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Late in his career, this author moved significantly to the right and wrote the anti-Communist novels Most Likely to Succeed and The Great Days. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df83920c3a38102cd758ac"
+    },
+    {
+      "id": "92bd8585-9e11-4222-8edb-eaeb84bb6d2f",
+      "linkedTossupId": "c4c73716-9b39-4bca-bd2f-397af09ba64a",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Broadly speaking, analytic philosophy describes ways of thinking that were traditional to English-speaking countries, like the US and Great Britain, while continental philosophy describes the philosophical traditions of this continent.",
+          "answer": "Europe",
+          "acceptableAnswers": [
+            "Europe",
+            "The Europe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One major difference between the two branches was their approach to this field of philosophy that studies the basic nature of existence and reality, named for a work by Aristotle.",
+          "answer": "metaphysics",
+          "acceptableAnswers": [
+            "metaphysics",
+            "The metaphysics"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bertrand Russell, a prominent analytic philosopher, argued in favor of this spiritual position, whose strong form argues that supernatural deities do not exist.",
+          "answer": "atheism",
+          "acceptableAnswers": [
+            "atheism",
+            "The atheism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the 19th and 20th centuries, a divide arose between analytic and continental philosophers. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004ce7"
+    },
+    {
+      "id": "6b1b4ab3-cbd4-43d2-a9ef-d40f9c0b4f1f",
+      "linkedTossupId": "a8f443ff-e9cf-4e04-a16f-6aa82d19865f",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with hair follicle structure.",
+          "answer": "hair follicle",
+          "acceptableAnswers": [
+            "hair follicle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hair follicle in the integumentary system?",
+          "answer": "Hair follicle structure",
+          "acceptableAnswers": [
+            "Hair follicle structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the integumentary system related to hair follicle structure.",
+          "answer": "nail",
+          "acceptableAnswers": [
+            "nail"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human integumentary system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "bafe0401-9865-4548-85ad-33f998a40b71",
+      "linkedTossupId": "08eb8397-54a1-48b0-8be3-92e3707c8f0e",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this situation in which a molecule has unequal electron density in different areas, producing a net positive charge on one end and net negative charge on the other.",
+          "answer": "dipole",
+          "acceptableAnswers": [
+            "dipole",
+            "The dipole"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Greek letter is conventionally used to represent the partial positive and negative charge of a dipole. In math, it represents a small tolerance around the input to a function.",
+          "answer": "delta",
+          "acceptableAnswers": [
+            "delta",
+            "The delta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Two dipoles interact according to these forces, which may be further classified as Keesom forces, Debye forces, or London dispersion forces.",
+          "answer": "van der Waals",
+          "acceptableAnswers": [
+            "van der Waals",
+            "The van der Waals"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Peter Debye [duh-BYE] studied, and is the namesake of the unit for, these phenomena. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e9a0924256318acb79"
+    },
+    {
+      "id": "cdb4f9ef-f912-4496-b43a-f05ff90480d5",
+      "linkedTossupId": "8d6f6f62-2cea-4c98-8e17-03287e46dd1c",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this concept that was studied by a different anthropologist who transcribed the utterances used by those who practice this concept in a book titled for coral gardens and it.",
+          "answer": "magic",
+          "acceptableAnswers": [
+            "magic",
+            "The magic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Coral Gardens and Their Magic was written by this Polish anthropologist, who analyzed the Kula ring in a different book.",
+          "answer": "Malinowski",
+          "acceptableAnswers": [
+            "Malinowski",
+            "The Malinowski"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Malinowski analyzed these spirits of the dead in Trobriand society, noting that after exiting the body they go to a small island called Tuma and make an annual visit during an event called the milamala.",
+          "answer": "baloma",
+          "acceptableAnswers": [
+            "baloma",
+            "The baloma"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "James Frazer identifies \"Homeopathic\" and \"Contagious\" forms of this concept as subsets of its \"Sympathetic\" form since it assumes that things act on each other from a distance through a \"secret sympathy.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125d143"
+    },
+    {
+      "id": "bcc13db6-ceaf-414c-8627-d801e1e18e70",
+      "linkedTossupId": "45458733-fda1-4eca-9f1a-61e4f0c80eea",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these societies in which females hold the dominant authority, sometimes due to the belief that mothers hold religious power. They are contrasted with patriarchies.",
+          "answer": "matriarch",
+          "acceptableAnswers": [
+            "matriarch",
+            "The matriarch"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These Native Americans of the Northeast traced family back through the female line and were largely matriarchal. These \"People of the Longhouse\" partly inspired Lewis Henry Morgan's book Ancient Society.",
+          "answer": "Iroquois",
+          "acceptableAnswers": [
+            "Iroquois",
+            "The Iroquois"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A sculpture of leopards next to a seated woman is one artifact cited over the debate on whether this civilization was matriarchal or not. It was located in southern Anatolia near the Konya Plain.",
+          "answer": "Çatal Hüyük",
+          "acceptableAnswers": [
+            "Çatal Hüyük",
+            "The Çatal Hüyük"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In her most famous book, Cynthia Eller refutes the idea that Venus figurines indicate the existence of these societies. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be779c"
+    },
+    {
+      "id": "58819001-9280-4512-95ef-533d057780d0",
+      "linkedTossupId": "1828ad4c-7d3f-4e99-9880-d4bf2301cd01",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this type of literary work in which the author tells a story of his or her own life.",
+          "answer": "autobiography",
+          "acceptableAnswers": [
+            "autobiography",
+            "The autobiography"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Marjane Satrapi wrote this autobiographical graphic novel about her life in Iran at the time of the Islamic Revolution. It takes its name from the ancient capital of the Persian empire.",
+          "answer": "Persepolis",
+          "acceptableAnswers": [
+            "Persepolis",
+            "The Persepolis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This former Maryland slave wrote three autobiographies, including a \"Narrative\" of his life.",
+          "answer": "Douglass",
+          "acceptableAnswers": [
+            "Douglass",
+            "The Douglass"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "James Weldon Johnson wrote one of these works \"of an Ex-Colored Man.\" For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e9a0924256318acc1e"
+    },
+    {
+      "id": "2a763b8d-628a-4032-8222-04973f3dbc89",
+      "linkedTossupId": "f483aee4-0e7c-42cb-8c51-bff50a2c5916",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This Republican from Ohio served as the Speaker of the House from 2011 to 2015. He resigned, giving his position to Paul Ryan.",
+          "answer": "Boehner",
+          "acceptableAnswers": [
+            "Boehner",
+            "The Boehner"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This conservative Republican served as Speaker during the Clinton administration. He co-wrote the \"Contract With America\" with Richard Armey.",
+          "answer": "Gingrich",
+          "acceptableAnswers": [
+            "Gingrich",
+            "The Gingrich"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Democrat from California has been the only woman so far to have been Speaker of the House.",
+          "answer": "Pelosi",
+          "acceptableAnswers": [
+            "Pelosi",
+            "The Pelosi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some recent Speakers of the House, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c711"
+    },
+    {
+      "id": "0ecb4ded-a217-49fd-81a4-0a0cc5874334",
+      "linkedTossupId": "c69dc427-3602-49ee-8e83-c70269cc2cd1",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this two word term, which refers to the part of the mind that automatically arranges experiences within the psyche and is identical in all human beings.",
+          "answer": "Collective Unconscious",
+          "acceptableAnswers": [
+            "Collective Unconscious",
+            "The Collective Unconscious"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The collective unconscious was first theorized in Archetypes and the Collective Unconscious by this Swiss psychologist.",
+          "answer": "Jung",
+          "acceptableAnswers": [
+            "Jung",
+            "The Jung"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Jung used this term to describe a group of ideas that are unconsciously associated by a theme that can produce responses which might give hints towards subconscious feelings or attitudes. One example is the \"inferiority\" type.",
+          "answer": "complex",
+          "acceptableAnswers": [
+            "complex",
+            "The complex"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It differs from the \"personal\" type in that all members of a species share in it. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "663809d0867240107e0f1ea9"
+    }
+  ]
+}

@@ -1,0 +1,1163 @@
+{
+  "packetId": "packet-122",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Literature",
+    "Human Body",
+    "Social Science",
+    "Mythology",
+    "Science",
+    "History",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "ad33aa9e-1e08-4867-94ca-400a874386e0",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "In one poem, this character points towards the land and shouts \"Courage!..,This mounting wave will roll us shoreward soon.\" In another poem, this character laments how dull it is \"To rust unburnish'd, not to shine in use!\" and describes his desire to \"follow knowledge like a sinking star.\" In that poem, this character states that \"Tho' much is taken, much abides'' shortly before resolving \"To strive, to seek, to find, and not to yield.\" One poem depicts this character visiting the lotus-eaters and sailing past Scylla and Charybdis to return to his homeland. For 10 points, Alfred Lord Tennyson wrote a poem titled after what protagonist of a Homeric epic?",
+      "powerMarkPosition": 391,
+      "answer": "Odysseus",
+      "acceptableAnswers": [
+        "Odysseus",
+        "Ulysses",
+        "The Odysseus"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7deca8"
+    },
+    {
+      "id": "d670d108-e0b9-4328-896b-be7ce027852a",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for blood plasma. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this erythrocyte-related structure.",
+      "powerMarkPosition": 72,
+      "answer": "Erythrocyte",
+      "acceptableAnswers": [
+        "erythrocyte",
+        "Erythrocyte"
+      ],
+      "explanation": "The erythrocyte is a key component of the Cardiovascular system, involved in blood plasma.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "bbf9dcbe-b024-481e-970e-a3d8f9f20d75",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "One character in this novel dumbly provokes a man he believes to be legendary boxer Max Schmeling by spitting at him in a subway station. In this novel, Longman Harkoo hosts a party at which Salvador Dalí entrances the audience with an undersea breathing apparatus. One character in this novel listens to Radio Jotunheim and kills a geologist at a naval base. While stationed in Antarctica, Shannenhouse kills that man's beloved dog Oyster. A meeting at the Hofzinser Club in this novel leads to magician Bernard Kornblum agreeing to transport the Golem of Prague in a box that also helps to bring one of the title characters to America. The Iron Chain, led by Hitler, faces off against the Escapist in the most lucrative creation by the two title cousins in this novel. For 10 points, name this novel about comic books by Michael Chabon [\"SHAY-bon\"].",
+      "powerMarkPosition": 512,
+      "answer": "Amazing Adventures of Kavalier and Klay",
+      "acceptableAnswers": [
+        "Amazing Adventures of Kavalier and Klay",
+        "The Amazing Adventures of Kavalier and Klay"
+      ],
+      "source": "qbreader",
+      "sourceId": "683601a0169f36826f4c5ea5"
+    },
+    {
+      "id": "d7c15e63-25e9-4e20-a31a-3acd97ae8de6",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "In one work, this author examines the tribes of Arapesh, Mundugumor, and Tchambuli and studies the link between sexual characteristics and cultural conditioning. Besides Sex and Temperament in Three Societies, she wrote another work in which she tries to determine the source of disturbances that vex teenagers as being caused by the nature of adolescence or by civilization. Franz Boas, her advisor, wrote the foreword to that work. For 10 points, identify this American anthropologist and author of Coming of Age in Samoa.",
+      "powerMarkPosition": 375,
+      "answer": "Mead",
+      "acceptableAnswers": [
+        "Mead",
+        "The Mead"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0cec"
+    },
+    {
+      "id": "8f069a6b-8fb6-4729-946b-91e95cd854ef",
+      "category": "Literature",
+      "subcategory": "Classical Literature",
+      "difficulty": "open",
+      "text": "This author wrote three poems on the death of a girl almost six years old, one of which concludes, \"press not heavy on her, O earth; she pressed but lightly on you.\" The image of a lion who spares a hare features prominently in a set of eight of his poems, and Tom Brown's rhyme \"I do not love thee, Dr. Fell, / The reason why I cannot tell\" is said to be a translation of one of this man's poems. In addition to three poems on the death of Erotion, he wrote many poems addressed to a friend who shared his name, one of which laments that the need for patronage prevents the two of them from \"enjoy[ing their] days together free from care.\" Another poem addressed to that friend lists among the things that make life happy \"wealth not gained by labour, but inherited\" and \"neither to fear death nor seek it,\" while a poem addressed to Licinianus extols the virtues of his native Spain. He wrote two collections of poems intended to accompany gifts, Xenia and Apophoreta, as well as a poem addressed to his younger contemporary Juvenal. For 10 points, identify this Roman poet best known for his Epigrams.",
+      "powerMarkPosition": 885,
+      "answer": "Martial",
+      "acceptableAnswers": [
+        "Martial",
+        "The Martial"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae81ec"
+    },
+    {
+      "id": "bdc8d929-88c2-42b0-9787-d80aaadebd66",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "In Egyptian myth, during times of war, a usually falcon-headed god transforms into one of these animals named Buchis (BOO-kiss). One of these animals is the herald of Ptah (tah) who is worshiped at Memphis. Apis is one of these animals , one of which is captured as the seventh labor of Heracles. Poseidon curses a princess to fall in love with one of these animals after Minos fails to sacrifice one. The union of Pasiphae with one of these animals creates a creature killed by Theseus. For 10 points, the Minotaur is half human and half what animal?",
+      "powerMarkPosition": 235,
+      "answer": "bull",
+      "acceptableAnswers": [
+        "bull",
+        "cattle",
+        "do not accept",
+        "prompt on \"cows\"",
+        "The bull"
+      ],
+      "source": "qbreader",
+      "sourceId": "6605c17f7891dce02ea7d0c1"
+    },
+    {
+      "id": "244b21c0-3a11-4c7c-b4e6-53aac753aa17",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "The best-known catalog of these figures comes from the scholar Varro, who adopted the ten known ones of his time from the Divinae Institutiones of Lactanius. The Ionic coast opposite the island of Chios was where the Erythraean one was thought to have lived. Tarquinius Superbus supposedly bought three prophetic books from the most famous one, whom Virgil used in his fourth Eclogue to predict the coming of a savior. FTP, identify these mythological figures that include the one used in the ACF logo, the Libyan, and the one who led Aeneas into the underworld, the Cumaean.",
+      "powerMarkPosition": 258,
+      "answer": "sibyl",
+      "acceptableAnswers": [
+        "sibyl",
+        "The sibyl"
+      ],
+      "source": "qbreader",
+      "sourceId": "643b8c661bdcc57729e62b84"
+    },
+    {
+      "id": "dea93ecf-0278-44cc-ab49-cb243b63491c",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "According to the Vamasa Purana, the river Kalindi became black after, at the instigation of this figure, Shiva jumped into it. In some stories, an avatar of this figure was found inside of a fish that swallowed him when he was six days old; eventually this figure's avatar wedded the woman who raised him, Mayavati, and slew the demon, who had tried to destroy him as a child, Shambara. That avatar was the hero Pradyumna, and in some accounts, this god was said to have been born from the right breast of Brahma. In the most famous myth about this figure, he was destroyed, as he stood poised to fire an arrow from his sugarcane bow, by the third eye of Shiva. Accompanied by his wife Rati, this is, For 10 points, what Hindu god of love and desire, namesake of a famous sutra?",
+      "powerMarkPosition": 386,
+      "answer": "Kama",
+      "acceptableAnswers": [
+        "Kama",
+        "Kamadeva",
+        "Ananga",
+        "Manmatha",
+        "Pushpadhanva",
+        "Pushpavan",
+        "accept “Pradyumna” until it is said",
+        "The Kama"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1f48"
+    },
+    {
+      "id": "d216b034-8bd5-4d89-b645-8f8c564b0323",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "In a play by this author, one character says that \"After having won a scepter, few are so generous/As to disdain the pleasures of ruling\", encouraging an emperor not to retire. A general in a play by this author says that \"To conquer without risk is to triumph without glory\" and that \"he who fears not death fears not a threat\" foreshadowing his death in a duel. One of this man's plays was investigated by Richelieu's Academie Francaise, which criticized that tragicomedy for breaking classical unities. In one work by this author of Cinna, Chimene is forced to request the head of Rodrigue after he kills her father Don Gormas, but reunites with him after he wins a duel and defeats the Moors. For 10 points, name this French playwright of Le Cid.",
+      "powerMarkPosition": 419,
+      "answer": "Corneille",
+      "acceptableAnswers": [
+        "Corneille",
+        "The Corneille"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee9a8"
+    },
+    {
+      "id": "9c42f397-49e1-41dc-a47d-b0d1cd3918d4",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "This novel's protagonist purchases a coral-and-glass paperweight from Mr Charrington's shop, where he goes to meet a member of the Anti-Sex League. A character in this novel claims to be aligned with Emmanuel Goldstein and the Brotherhood, but tortures the protagonist in Room 101 of the Ministry of Love with a cage of rats. Julia and O'Brien appear in, for 10 points, what dystopian novel about Winston Smith written by George Orwell?",
+      "powerMarkPosition": 199,
+      "answer": "Nineteen Eighty-Four",
+      "acceptableAnswers": [
+        "Nineteen Eighty-Four",
+        "The Nineteen Eighty-Four"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba97256"
+    },
+    {
+      "id": "66052878-a644-48c7-aaac-7c4ae901bfa7",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "A Hertzsprung-Russell diagram plots properties of these objects, such as their magnitude and temperature. Two of these objects that revolve around a common center of mass are called binary. As the process of fusion slows down, these may become white dwarfs. After expanding and becoming red giants, these objects can explode in a supernova. For 10 points, name these astronomical bodies that shine brightly in the night sky.",
+      "powerMarkPosition": 189,
+      "answer": "star",
+      "acceptableAnswers": [
+        "star",
+        "The star"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c584"
+    },
+    {
+      "id": "f056e96c-56dd-4f0a-9244-545283db293d",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "An attempted bribery of the ship Michigan by these people was prevented by the arrest of Charles Cole, a member of this group. George Pugh defended its most famous leader, although Humphrey Leavitt denied his appeal. That leader was tried for the violation of General Order No. 38, which criminalized the \"habit of declaring sympathies for the enemy,\" as head of the \"Knights of the Golden Circle,\" a secret society with members from this group. The military tribunal of members of this group, who attempted to free prisoners at Camp Douglas, was deemed unconstitutional in Ex parte Milligan. Although Chicago Times was one of its key supporters, these people known also known as Butternuts were concentrated in Ohio. Essentially marginalized following the union victories in 1864, for 10 points, this is what Clement Vallandingham-led faction of Peace Democrats?",
+      "powerMarkPosition": 445,
+      "answer": "Copperhead",
+      "acceptableAnswers": [
+        "Copperhead",
+        "Butternuts and Peace Democrats before they are mentioned",
+        "The Copperhead"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0529"
+    },
+    {
+      "id": "f064b0bf-6e6e-4132-b324-31ebb9f3ac81",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "One scale for measuring this quantity based on effective nuclear charge was developed by Allred and Rochow. A disparity of this quantity for the elements involved causes a molecule to be polar. The best-known scale for measuring this quantity is named for a scientist who advocated megadoses of vitamin C, and that scale ranges from 0.7 to 3.98. Fluorine has the highest value for this quantity on the Pauling scale. For 10 points, name this quantity, the measure of how strongly an atom attracts electrons.",
+      "powerMarkPosition": 332,
+      "answer": "electronegativity",
+      "acceptableAnswers": [
+        "electronegativity",
+        "word forms",
+        "The electronegativity"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9e1b"
+    },
+    {
+      "id": "b92b42e7-a52d-4270-8772-2a09ce041241",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "This figure is known as the \"source of the Eumenides,\" though she is more commonly called Kore [KOH-ray], the maiden. This subject of the Eleusinian Mysteries [ell-yoo-zih-nee-an Mysteries] raised Adonis, and was kidnapped from the plains of Ennis. Her symbol is the wheat sheaf, since the time she spends with Demeter causes plants to grow. For 10 points, name this Greek goddess, who became the Queen of the Underworld when she ate some pomegranate seeds.",
+      "powerMarkPosition": 266,
+      "answer": "Persephone",
+      "acceptableAnswers": [
+        "Persephone",
+        "The Persephone"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318aca4c"
+    },
+    {
+      "id": "5c833fa6-afc0-4029-97f7-f235f33234b8",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "One political party in this modern-day country issued the \"Seventeen Principles\" in 1933, and had an emblem consisting of a grenade exploding inside a large \"U.\" The siege of Bihac was lifted by this country's forces during Operation Storm, which brought an end to this country's war for independence. Separatists in this modern-day country blockaded roads using trees in the so-called \"Log Revolution.\" During World War II, this country was ruled by a fascist regime known as the Ustase, and Franjo Tudjman led this country after it became the second state to secede from Yugoslavia after Slovenia. For 10 points, name this Balkan state governed from Zagreb.",
+      "powerMarkPosition": 385,
+      "answer": "Croatia",
+      "acceptableAnswers": [
+        "Croatia",
+        "Republika Hrvatska",
+        "The Croatia"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fbe0d"
+    },
+    {
+      "id": "1f8f9a14-f1b3-42ee-9ba5-e11d5908ebca",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "Frank Speck observed that this activity required an emetic of red willow bark to honor the Seven Thunders. A September observance of \"going to the water\" and this activity came after the August Stomp Dance and Green Corn Ceremony. J. N. B. Hewitt recorded \"collective bets\" before this activity, whose origin myth about birds inspired its bat wing charms. In 1763, this activity was staged to ambush the British defenders of Fort Michilimackinac (\"mish-ill-uh-MACK-ih-naw\"). This activity, whose name was coined by Jean de Brébeuf at Sainte-Marie among the Hurons, is called tewaaraton, or \"little brother of war,\" in Mohawk. In this seminude activity, hemp or rawhide webbing cradled a buckskin object thrown by Iroquois players. For 10 points, Canada's national summer sport is what Indigenous ball and stick game?",
+      "powerMarkPosition": 429,
+      "answer": "lacrosse",
+      "acceptableAnswers": [
+        "lacrosse",
+        "lax",
+        "accept stickball until “stick”",
+        "accept box lacrosse",
+        "field lacrosse",
+        "accept match ball game",
+        "tewaaraton until read",
+        "baaga`adowe",
+        "o-ta-da-jish-qua-age",
+        "dehuntshigwa’es",
+        "da-nah-wah’uwsdi",
+        "kabucha",
+        "ishtaboli",
+        "variants of those names",
+        "prompt on games",
+        "ball games",
+        "sports",
+        "athletics",
+        "exercise",
+        "similar",
+        "prompt on gambling",
+        "betting",
+        "wagering until “bets”",
+        "prompt on running",
+        "racing",
+        "The lacrosse"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae891b"
+    },
+    {
+      "id": "fd30d0c1-5794-4573-b30f-9b1d6f0f1aa1",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "Anthropologists have studied \"third gender\" people of this ethnicity called fa'afafine (fa-ah-fa-FEE-nay). People of this ethnicity practiced the taupou (TAW-poh) system, according to a book that chronicled the lives of sixty-eight young women of this ethnicity on the island of Ta'u (tah-oo). Two people of this ethnicity supposedly duped an anthropologist who exaggerated their teenage experiences, according to a critique by Derek Freeman. For 10 points, name this ethnicity of people who are \"Coming of Age\" in a Margaret Mead book.",
+      "powerMarkPosition": 333,
+      "answer": "Samoan",
+      "acceptableAnswers": [
+        "Samoan",
+        "tagata Sāmoa",
+        "prompt on Polynesians",
+        "The Samoan"
+      ],
+      "source": "qbreader",
+      "sourceId": "68d80886f2b1f8e7f3913396"
+    },
+    {
+      "id": "d37883bf-7b49-408d-a610-cd7b9ba7f32e",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "Experiments in Nebraska's Sand Hills by Hopi Hoekstra's (\"HOKE-struh\") lab have shown that a serine deletion altering the production of this compound creates a \"wideband\" phenotype of animals that can avoid predation. The maturation of an organelle that makes this compound requires the functional amyloid P·M·E·L. Because it blocks alpha-MSH from binding to the receptor MC1R, Agouti (\"uh-GOO-tee\") signaling protein regulates a type-switching pathway for forms of this compound. Two tyrosinase-related proteins help to produce this compound's \"eu\" (\"yoo\") form rather than its \"pheo\" (\"FEE-oh\") form. The epistatic interaction between B and E loci alters the distribution of this compound in Labrador retriever coats. Much of this compound is produced in the stratum basale of the epidermis and exported to keratinocytes (\"kuh-RAT-in-oh-sytes\"). For 10 points, name this UV-absorbing pigment responsible for human skin color.",
+      "powerMarkPosition": 484,
+      "answer": "melanin",
+      "acceptableAnswers": [
+        "melanin",
+        "eumelanin",
+        "pheomelanin",
+        "The melanin"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f5c57693c38435a5a33d3b"
+    },
+    {
+      "id": "4f2e6f95-efe4-4c50-aaa6-4e8c38f1543b",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "Mergers between these astronomical objects when one is much more massive than the other is known as cannibalism. Most of these structures are found in larger groups and clusters such as the Local Group. They are often categorized by the Hubble sequence based on their visual appearance, and they can be classified as lenticular, elliptical, and spiral. Supermassive black holes are believed to exist in the center of many of these structures. For 10 points, name this astronomical massive gravitationally bound system, examples of which include the Andromeda and the Milky Way.",
+      "powerMarkPosition": 202,
+      "answer": "galaxy",
+      "acceptableAnswers": [
+        "galaxy",
+        "The galaxy"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f07a7"
+    },
+    {
+      "id": "5ba11135-6bcf-4a0a-a2f2-beda1af1a202",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "Just before the final pas de deux of The Nutcracker, the flowers perform this type of dance. One of Chopin's works in this genre was labeled \"grand\" and \"brilliant,\" while another was dedicated to Countess Delfina Potocka and inspired by a dog chasing its tail. Johann Strauss was considered the \"King\" of, for 10 points, what triple-time style of music, exemplified by \"On the Beautiful Blue Danube.\" and Chopin's \"Minute?\"",
+      "powerMarkPosition": 243,
+      "answer": "waltz",
+      "acceptableAnswers": [
+        "waltz",
+        "The waltz"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eaa0924256318acc60"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "e235c9ba-25ca-4a52-bad9-f6422623b58b",
+      "linkedTossupId": "ad33aa9e-1e08-4867-94ca-400a874386e0",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify these locations, one of which is burned down by Mizoguchi. In another novel titled for one of these structures, Princess Chantrapa claims to be the reincarnation of Isao Iinuma, the protagonist of Runaway Horses.",
+          "answer": "temple",
+          "acceptableAnswers": [
+            "temple",
+            "The Temple of the Golden Pavilion",
+            "accept The Temple of Dawn",
+            "The temple"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Japanese author wrote both The Temple of Dawn and The Temple of the Golden Pavilion. He discussed a man coming to terms with homosexuality in traditional Japan in his Confessions of a Mask.",
+          "answer": "Mishima",
+          "acceptableAnswers": [
+            "Mishima",
+            "Kimitake Hiraoka",
+            "The Mishima"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Yukio Mishima also wrote a modern version of the Noh play Aoi no Ue, which takes its name from a fictional character from this Heian-era novel by Murasaki Shikibu.",
+          "answer": "Tale of Genji",
+          "acceptableAnswers": [
+            "Tale of Genji",
+            "Genji Monogatari",
+            "The Tale of Genji"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a novel titled for one of these structures, a character who befriends the club-footed Kashiwagi yells \"If you meet the Buddha in the road, kill him.\" For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b5261d"
+    },
+    {
+      "id": "fb337f5e-25e9-428c-85d7-124fd867a5b8",
+      "linkedTossupId": "d670d108-e0b9-4328-896b-be7ce027852a",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with hypothalamic hormones.",
+          "answer": "hypothalamus",
+          "acceptableAnswers": [
+            "hypothalamus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hypothalamus in the endocrine system?",
+          "answer": "Hypothalamic hormones",
+          "acceptableAnswers": [
+            "Hypothalamic hormones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to hypothalamic hormones.",
+          "answer": "pituitary",
+          "acceptableAnswers": [
+            "pituitary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "6cc672fc-62d8-42f1-b63a-868ac0c70243",
+      "linkedTossupId": "bbf9dcbe-b024-481e-970e-a3d8f9f20d75",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this language. In an article on learning this language, that author calls English a \"sense of failure that is the source of almost all my anxiety\" as part of their explanation for no longer writing in English.",
+          "answer": "Italian",
+          "acceptableAnswers": [
+            "Italian",
+            "lingua italiana",
+            "accept \"Teach Yourself Italian\"",
+            "The Italian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author discussed their decision to write only in the title language in \"Teach Yourself Italian.\" Previously, this author used English to write Interpreter of Maladies.",
+          "answer": "Lahiri",
+          "acceptableAnswers": [
+            "Lahiri",
+            "Nilanjana Sudeshna Lahiri",
+            "The Lahiri"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ann Goldstein, who translated \"Teach Yourself Italian\" into English, also translated this author. This pseudonymous author, who is suspected of being Anita Raja, wrote the Neapolitan Novels.",
+          "answer": "Ferrante",
+          "acceptableAnswers": [
+            "Ferrante",
+            "The Ferrante"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An author wrote this language \"covers me like a kind of bark\" in an article which compares learning this language to Daphne's transformation into a tree. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f1bf365ffd63b5f24c1d33"
+    },
+    {
+      "id": "2956cd80-db87-40ff-be9f-11190001bbe0",
+      "linkedTossupId": "d7c15e63-25e9-4e20-a31a-3acd97ae8de6",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this influential economist who revived interest in the quantity theory of money, a leading anti-Keysianist who won the 1976 Nobel Prize in Economics.",
+          "answer": "Friedman",
+          "acceptableAnswers": [
+            "Friedman",
+            "The Friedman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Friedman was a leader of this economic view whose policies target the growth rate of the money supply. Friedman co-authored a book with Anna Schwartz on this view.",
+          "answer": "monetarism",
+          "acceptableAnswers": [
+            "monetarism",
+            "word forms",
+            "The monetarism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Friedman shared lots of ideas with this Austrian economist and philosopher who explained how changing prices communicate signals which enable individuals to coordinate their plans; he shared the 1974 Nobel Prize in Economics with Gunnar Myrdal and wrote The Road to Serfdom.",
+          "answer": "Hayek",
+          "acceptableAnswers": [
+            "Hayek",
+            "The Hayek"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He was influenced by George Stigler and opposed government regulations, pushed for volunteer military, proposed a negative income tax, and opposed the existence of the Fed. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0d7d"
+    },
+    {
+      "id": "7218d07c-8230-4fdb-b2bc-3b8451c78f8f",
+      "linkedTossupId": "8f069a6b-8fb6-4729-946b-91e95cd854ef",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this German author of Miss Sara Sampson, as well as a play which includes a plea for religious tolerance in the form of the parable of the ring, told by the title character to Saladin.",
+          "answer": "Lessing",
+          "acceptableAnswers": [
+            "Lessing",
+            "The Lessing"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The plot of Lessing's Nathan the Wise probably came from this collection of one hundred tales by Boccaccio.",
+          "answer": "Decameron",
+          "acceptableAnswers": [
+            "Decameron",
+            "Decamerone",
+            "The Decameron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lessing also wrote this tragedy in which the chamberlain Marinelli attempts to woo the title woman on behalf of the Prince of Guastalla, Hettore.",
+          "answer": "Emilia Galotti",
+          "acceptableAnswers": [
+            "Emilia Galotti",
+            "The Emilia Galotti"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author wrote a play in which Mellefont poisons the title character before traveling to Dover to commit suicide. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b75c"
+    },
+    {
+      "id": "73e4213d-aa46-4c55-a4ed-720c06f33760",
+      "linkedTossupId": "bdc8d929-88c2-42b0-9787-d80aaadebd66",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these women who more excitingly ride out on horseback to find slain warriors and bring them to Valhalla in preparation for the battles of the Norse apocalypse, Ragnarok.",
+          "answer": "valkyrie",
+          "acceptableAnswers": [
+            "valkyrie",
+            "The valkyrie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Valkyries are often conflated with fighting \"maidens\" who are named for their use of these objects. Zeus and Athena are identified with one called the Aegis.",
+          "answer": "shield",
+          "acceptableAnswers": [
+            "shield",
+            "The shield"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Norns, a different set of Norse mythical females, who determine the fates of men near one of these locales named for Urdr. Odin gave up an eye to gain wisdom from one of these named for Mimir.",
+          "answer": "well",
+          "acceptableAnswers": [
+            "well",
+            "The well"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These figures perform the not-so-exciting task of serving ale to the einherjar. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df439fdb"
+    },
+    {
+      "id": "8dcd4288-7c82-4b37-8934-b13ecdf40b42",
+      "linkedTossupId": "244b21c0-3a11-4c7c-b4e6-53aac753aa17",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Aeacus (\"EE-uh-cus\") wished the Myrmidons into existence while seeing ants crawling on one of these trees, which are sacred to Zeus and other lightning gods like Perun and Thor.",
+          "answer": "oak",
+          "acceptableAnswers": [
+            "oak",
+            "Quercus",
+            "The oak"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Description acceptable. While searching for Daedalus after his escape, Minos offered a puzzle to perform this action in various cities, which Daedalus solved in Cocalus's court using an ant.",
+          "answer": "thread",
+          "acceptableAnswers": [
+            "thread",
+            "descriptions indicating getting a thread",
+            "string through a seashell",
+            "The thread"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Though Athena turned Myrmex into an ant for taking sole credit for inventing the plow, in some stories, the accomplishment is credited to a man with this name often conflated with the Athenian Icarius.",
+          "answer": "Boötes",
+          "acceptableAnswers": [
+            "Boötes",
+            "Butes",
+            "Boutes",
+            "accept Philomelos",
+            "The Boötes"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about ants in Greek myth, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6822bfc71f87396179872cc6"
+    },
+    {
+      "id": "747e9e6f-5167-4b2f-ba58-e99febcf7797",
+      "linkedTossupId": "dea93ecf-0278-44cc-ab49-cb243b63491c",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this father of Cabarakan and Zipacna whose K'iche name was Vucub-Caquix (\"WOO-cub KA-kix\"). He tore off the arm of Hunaphu (\"HU-nah-pu\").",
+          "answer": "Seven-Macaw",
+          "acceptableAnswers": [
+            "Seven-Macaw",
+            "The Seven-Macaw"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Seven-Macaw was defeated by the Hero Twins of this myth system, whose main epic, the Popol Vuh, describes adventures in the underworld Xibalba (\"shee-BALL-buh\").",
+          "answer": "Maya",
+          "acceptableAnswers": [
+            "Maya",
+            "The Maya"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Seven-Macaw's son Zipacna mocks a group of this many boys for their inability to lift a column, prompting them to attempt to kill him with it. Huitzilopochtli (\"WEET-see-loh-POACH-tlee\") prepares to kill this many brothers named the Centzonuitznaua (\"SENT-so-nweetz-NOW-uh\") and his sister Coyolxauhqui (\"coh-YOHL-shau-kee\") at his birth.",
+          "answer": "400",
+          "acceptableAnswers": [
+            "400",
+            "The 400"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This figure was shot in the mouth by a blow dart, prompting two gods to disguise themselves and replace his teeth with corn. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423729"
+    },
+    {
+      "id": "b592ea11-7e04-42a0-98a5-823d7c534067",
+      "linkedTossupId": "d216b034-8bd5-4d89-b645-8f8c564b0323",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "What member of the House of Aviz gained the epithet \"the Navigator\" for his sponsorship of exploration?",
+          "answer": "Henry",
+          "acceptableAnswers": [
+            "Henry",
+            "The Henry"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Henry the Navigator was the son of Joao the First, a king of this modern-day Iberian nation.",
+          "answer": "Portugal",
+          "acceptableAnswers": [
+            "Portugal",
+            "The Portugal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "28 years after Henry's death, this Portuguese explorer became the first European to round the southern tip of Africa.",
+          "answer": "Dias",
+          "acceptableAnswers": [
+            "Dias",
+            "The Dias"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Antao Goncalves and Nuno Tristao were captains of ships sponsored by this man. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b88f90"
+    },
+    {
+      "id": "f174e152-4ebc-40a3-a554-02f7c9652d44",
+      "linkedTossupId": "9c42f397-49e1-41dc-a47d-b0d1cd3918d4",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This character is a spy for the Sons of Liberty and delivers papers for the Boston Observer.",
+          "answer": "Tremain",
+          "acceptableAnswers": [
+            "Tremain",
+            "Johnny",
+            "The Tremain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Johnny takes the delivery job after damaging his hand while working in this occupation as an apprentice to Ephraim Lapham.",
+          "answer": "smith",
+          "acceptableAnswers": [
+            "smith",
+            "The smith"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While at the Observer, Johnny meets this older boy whom he helps to get a musket and who is killed in battle during the American Revolution.",
+          "answer": "Rab",
+          "acceptableAnswers": [
+            "Rab",
+            "The Rab"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about a character created by Esther Forbes, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b51f65"
+    },
+    {
+      "id": "08ced1f1-0e89-4bbf-b58a-c9778bffa0ee",
+      "linkedTossupId": "66052878-a644-48c7-aaac-7c4ae901bfa7",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "What is the probability that Joe pulls a blue sock?",
+          "answer": "1 out of 3",
+          "acceptableAnswers": [
+            "1 out of 3",
+            "1/3",
+            "1 in 3",
+            "The 1 out of 3"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the probability that the sock that he pulls is not white?",
+          "answer": "1 out of 2",
+          "acceptableAnswers": [
+            "1 out of 2",
+            "1/2",
+            "1 in 2",
+            "The 1 out of 2"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "If Joe pulls out two socks without replacing them, what is the probability that they are both red?",
+          "answer": "1 out of 66",
+          "acceptableAnswers": [
+            "1 out of 66",
+            "1/66",
+            "1 in 66",
+            "The 1 out of 66"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "COMPUTATION: Joe has a sock drawer with 2 red socks, 4 blue socks and 6 white socks. Compute some probabilities in this situation, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c56c"
+    },
+    {
+      "id": "006b0c76-1b7e-4c9b-afa7-8087f23c08fb",
+      "linkedTossupId": "f056e96c-56dd-4f0a-9244-545283db293d",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Give this name for the groups of Italian revolutionaries of the early 19th century which were eventually subsumed by Giuseppe Mazzini's Young Italy.",
+          "answer": "Carbonari",
+          "acceptableAnswers": [
+            "Carbonari",
+            "The Carbonari"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The ideals of the Carbonari and Young Italy influenced this city's 1848 Five Days uprising, which began with a boycott on Austrian tobacco.",
+          "answer": "Milan",
+          "acceptableAnswers": [
+            "Milan",
+            "Milano",
+            "The Milan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The goal of Italian unification was finally achieved with the help of this \"hero of two worlds,\" a general who led the Expedition of a Thousand on behalf of King Victor Emmanuel II.",
+          "answer": "Garibaldi",
+          "acceptableAnswers": [
+            "Garibaldi",
+            "The Garibaldi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Chapters of these societies were called venditas, met in baraccas and were led by masters who carried symbolic hatchets. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d616"
+    },
+    {
+      "id": "2fb4c28d-62c7-49ee-b8fd-132af906f037",
+      "linkedTossupId": "f064b0bf-6e6e-4132-b324-31ebb9f3ac81",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this programming language, which was originally created by James Gosling for Sun Microsystems.",
+          "answer": "Java",
+          "acceptableAnswers": [
+            "Java",
+            "The Java"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the name given to a program that converts source code to a computer language.",
+          "answer": "compiler",
+          "acceptableAnswers": [
+            "compiler",
+            "The compiler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Java is an example of this type of programming language, whose namesake entities are acted on using methods and organized using classes.",
+          "answer": "object-oriented",
+          "acceptableAnswers": [
+            "object-oriented",
+            "The object-oriented"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This programming language shares much of its syntax with C++, and it uses a namesake Virtual Machine to translate source code to computer code. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f07ec"
+    },
+    {
+      "id": "5be1ba9d-bf2c-41b0-bde9-a0b4ce4bfb83",
+      "linkedTossupId": "b92b42e7-a52d-4270-8772-2a09ce041241",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this crippled Greek god of metalworking.",
+          "answer": "Hephaestus",
+          "acceptableAnswers": [
+            "Hephaestus",
+            "The Hephaestus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hephaestus created this Greek god's winged helmet and sandals. This trickster god later lent those sandals to Perseus.",
+          "answer": "Hermes",
+          "acceptableAnswers": [
+            "Hermes",
+            "The Hermes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hephaestus also created this first woman in Greek mythology. Because her namesake box was opened, this woman released evils into the world.",
+          "answer": "Pandora",
+          "acceptableAnswers": [
+            "Pandora",
+            "Pandora’s box",
+            "The Pandora"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This god was thrown off of Mount Olympus by his mother because of his deformity. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9e5e"
+    },
+    {
+      "id": "c59b4ee1-0ec3-42bb-83b0-b867f03b6594",
+      "linkedTossupId": "5c833fa6-afc0-4029-97f7-f235f33234b8",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this undeclared naval conflict that saw a European nation capture and sink American ships after the US government suspended the payment of war debts to that nation. The Convention of 1800 ended hostilities between the two.",
+          "answer": "Quasi-War",
+          "acceptableAnswers": [
+            "Quasi-War",
+            "“Half War”",
+            "The Quasi-War"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This nation initiated hostilities in the Quasi-War after the US refused to pay war debts to the new revolutionary government. It had supported the US during the American Revolution.",
+          "answer": "France",
+          "acceptableAnswers": [
+            "France",
+            "“French Republic”",
+            "The France"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tensions between the US and France also tightened during this affair, whose namesake hired and trained privateers in Charleston, SC to attack British and Spanish ships, violating US neutrality.",
+          "answer": "Citizen Genet",
+          "acceptableAnswers": [
+            "Citizen Genet",
+            "The Citizen Genet"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The US hasn't always been the best ally. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eec31bb669367617b8c828"
+    },
+    {
+      "id": "1380bb1c-380f-4f8b-b114-a9f3ae14eed8",
+      "linkedTossupId": "1f8f9a14-f1b3-42ee-9ba5-e11d5908ebca",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this house that also included Elisa, a princess of Lucca and Piombino and major patron of the arts.",
+          "answer": "Bonaparte",
+          "acceptableAnswers": [
+            "Bonaparte",
+            "The Bonaparte"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Napoleon made his youngest brother Jerome the ruler of this Kingdom from 1807-13. Including the capital city Kassel, this polity shared its name with a series of 1648 peace treaties ending the 30 Years War.",
+          "answer": "Westphalia",
+          "acceptableAnswers": [
+            "Westphalia",
+            "The Westphalia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Napoleon III, the other ruling member of the House of Bonaparte, was the son of Louis I or Luigi Bonaparte, who approached his job as ruler of this Kingdom with charming if ill-fated solemnity.",
+          "answer": "Holland",
+          "acceptableAnswers": [
+            "Holland",
+            "The Holland"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One member of this dynastic house was the foppish dandy Joachim, King of Naples, who was ultimately killed during an 1815 uprising at Pizzo. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63052604c887e5458fc32e37"
+    },
+    {
+      "id": "3dc3a875-7777-44a0-9724-e285f4e35509",
+      "linkedTossupId": "fd30d0c1-5794-4573-b30f-9b1d6f0f1aa1",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this international monetary system that eroded in the 1970s. It created the IMF and the World Bank and used the U.S. dollar as an \"anchor\" currency.",
+          "answer": "Bretton Woods",
+          "acceptableAnswers": [
+            "Bretton Woods",
+            "The Bretton Woods"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Bretton Woods system was created in part to stabilize these economic quantities, which represent how much the currency of one country is worth in another.",
+          "answer": "exchange",
+          "acceptableAnswers": [
+            "exchange",
+            "The exchange"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Bretton Woods system partially stabilized exchange rates using this system, in which the value of a certain currency is made dependent on an agreed-upon stable currency. For example, a US dollar is always worth 5.65 Hong Kong dollars.",
+          "answer": "pegged",
+          "acceptableAnswers": [
+            "pegged",
+            "The pegged"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The creation of this system led to Tiffin's dilemma, which stated that the United States would be forced to continue to run deficits or this system would lose its inequality. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a574"
+    },
+    {
+      "id": "153ebff2-d7a3-4058-9d64-55a024c17e66",
+      "linkedTossupId": "d37883bf-7b49-408d-a610-cd7b9ba7f32e",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this process which, in the Rayleigh-Benard situation, results in the formation of closed cells that perform it. This process is the transfer of heat by means of fuid fow.",
+          "answer": "convection",
+          "acceptableAnswers": [
+            "convection",
+            "The convection"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During Rayleigh-Benard convection, this quantity undergoes a branching at a critical value of the Rayleigh number. This dimensionless quantity represents the ratio of heat transfer via conduction to the heat transfer via convection.",
+          "answer": "Nusselt",
+          "acceptableAnswers": [
+            "Nusselt",
+            "The Nusselt"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Convection fow occurs at liquid interfaces as a result of the Marangoni efect, which arises because this quantity is depen-dent on temperature.",
+          "answer": "surface tension",
+          "acceptableAnswers": [
+            "surface tension",
+            "surface stress",
+            "The surface tension"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Rayleigh-Benard form of this process occurs in a horizontal liquid under the infuence of gravity that is heated from 9 below. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba95a15"
+    },
+    {
+      "id": "bf7c42ce-a9fe-4975-8252-40744386c24f",
+      "linkedTossupId": "4f2e6f95-efe4-4c50-aaa6-4e8c38f1543b",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this phenomenon in which shinning light on a surface causes it to emit electrons.",
+          "answer": "photoelectric",
+          "acceptableAnswers": [
+            "photoelectric",
+            "The photoelectric"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In his explanation, Einstein proposed that light consist of small quanta of energy. Those quanta are these massless elementary particles.",
+          "answer": "photon",
+          "acceptableAnswers": [
+            "photon",
+            "The photon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The energy of a photon equals Planck's constant times this quantity. In general, this quantity is the reciprocal of the period and is measured in hertz.",
+          "answer": "frequency",
+          "acceptableAnswers": [
+            "frequency",
+            "The frequency"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Einstein's explanation of this phenomenon helped spark the development of quantum mechanics. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e9a0924256318acb61"
+    },
+    {
+      "id": "a54404b8-ab7e-4d41-b681-5cd6ca0e41bd",
+      "linkedTossupId": "5ba11135-6bcf-4a0a-a2f2-beda1af1a202",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this single-reed instrument commonly played in B-flat and bass varieties.",
+          "answer": "clarinet",
+          "acceptableAnswers": [
+            "clarinet",
+            "The clarinet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Benny Goodman played clarinet in this style of music. Other famous players of this style include Louis Armstrong and Duke Ellington.",
+          "answer": "jazz",
+          "acceptableAnswers": [
+            "jazz",
+            "The jazz"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Prokofiev's Peter and the Wolf, the clarinet represents this animal who climbs into a tree when the wolf comes nearby.",
+          "answer": "cat",
+          "acceptableAnswers": [
+            "cat",
+            "The cat"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This woodwind instrument is traditionally made from black grenadilla wood. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c86a"
+    }
+  ]
+}

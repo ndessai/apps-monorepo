@@ -1,0 +1,1133 @@
+{
+  "packetId": "packet-120",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Philosophy",
+    "Human Body",
+    "Literature",
+    "Fine Arts",
+    "Science",
+    "Geography"
+  ],
+  "tossups": [
+    {
+      "id": "d28fa0fd-3e50-47fd-a10e-2ea50a156daa",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "Anna van Schurman, the \"Learned Maid\" of this city, attended the university lectures of Gisbertus Voetius from behind a curtain. A regent of Spain from this city accidentally set fire to Medina del Campo while trying to put down the Comuneros revolt and later became Pope Adrian VI. Religious tolerance was mandated by a 1579 \"Union\" named for this city, which was signed in reaction to the Union of Arras. Robert Harley's twelve \"Tory Peers\" ratified a treaty named for this city, by which Britain gained a monopoly on the slave trade called the asiento, as well as the territories of Minorca and Gibraltar. That treaty named for this city confirmed the will of the sickly Charles II by making Philip V the King of Spain. For 10 points, name this Dutch city, the namesake of the treaty that ended the War of Spanish Succession.",
+      "powerMarkPosition": 498,
+      "answer": "Utrecht",
+      "acceptableAnswers": [
+        "Utrecht",
+        "The Utrecht"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f32f19679b6464bbdf7302"
+    },
+    {
+      "id": "80129270-a062-4e6e-8ffd-e67820ba6583",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "Bertrand Russell's essay \"The Ancestry of Fascism\" argues against this person's point of view in a certain work, which stated that Hitler accepts or rejects doctrines on political grounds. In addition to that work, \"The Will to Believe,\" this person argued that Walt Whitman is an example of one who cannot feel evil due to his healthy mind in another work. In addition to The Varieties of Religious Experience, he wrote The Meaning of Truth as a sequel to another work which defines its title concept as whether a man chasing a squirrel around a tree goes around the squirrel or not. For 10 points, name this American philosopher and psychologist who wrote The Principles of Psychology and Pragmatism.",
+      "powerMarkPosition": 357,
+      "answer": "James",
+      "acceptableAnswers": [
+        "James",
+        "The James"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4411d"
+    },
+    {
+      "id": "4c11f146-87ef-45ec-b5ea-752bbe984be7",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "Defeated soldiers in this war turned their coats inside-out so that they would not be recognized after losing the Battle of Fraustadt. A king in this war was killed while inspecting trenches at the Siege of Fredriksten. The losing side of this war entered a period of democracy known as the \"Age of Liberty\" after signing the Treaty of Nystad. One participant's navy has always named one of its ships Gangut in honor of a victory in this war. Cossack forces under Ivan Mazepa were on the losing side of this war's battle of Poltava. St. Petersburg was founded on land gained after this war. For 10 points, name this war in which Peter the Great defeated the Swedish Empire.",
+      "powerMarkPosition": 400,
+      "answer": "Great Northern",
+      "acceptableAnswers": [
+        "Great Northern",
+        "Second Northern War",
+        "The Great Northern"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eeafe83c775a435720586b"
+    },
+    {
+      "id": "13fe6256-b6f6-4235-b9c9-331fafe2e527",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for posterior pituitary hormones. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this hypothalamus-related structure.",
+      "powerMarkPosition": 83,
+      "answer": "Hypothalamus",
+      "acceptableAnswers": [
+        "hypothalamus",
+        "Hypothalamus"
+      ],
+      "explanation": "The hypothalamus is a key component of the Endocrine system, involved in posterior pituitary hormones.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "f7b470bd-c6f8-42f2-97ca-1992b06accdf",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "A king with this name was supposedly the lover of George Villiers, Duke of Buckingham. Henry Brooke led a failed attempt to replace a king of this name with his cousin Arabella, in the Main Plot. Another king with this name issued the Declaration of Indulgence, which was rejected by the Immortal Seven. That king of this name was the father of Queen Anne. The first English king of this name was targeted by the Gunpowder plot and also ruled Scotland; the second was deposed by William III in the Glorious Revolution. For 10 points, give this name of the Stuart kings who were the father of Charles I and the son of Charles II.",
+      "powerMarkPosition": 287,
+      "answer": "James",
+      "acceptableAnswers": [
+        "James",
+        "James I",
+        "James II",
+        "The James"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbe8af60ace717b0882dc5"
+    },
+    {
+      "id": "e2d847ce-47a1-4d69-a8ef-12caf4501b25",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "Cyrus King heavily criticized one purchase by this institution for spreading its former owner's \"infidel philosophy.\" Under Herbert Putnam and John Russell Young, this organization was reorganized under the influence of Charles Ammi Cutter, the namesake of the Cutter number. During the leadership of Ainsworth Spofford, this institution expanded and moved to its present-day location, the Thomas Jefferson Building. That building's name came from a major sale by Jefferson, which revitalized this institution after being ravaged in the War of 1812. This institution, which was formerly led by Archibald MacLeish, organizes its collection with a system of two-letter codes, then numbers, that is now adopted by universities. For 10 points, name this de facto national research library of the United States.",
+      "powerMarkPosition": 389,
+      "answer": "Library of Congress",
+      "acceptableAnswers": [
+        "Library of Congress",
+        "The Library of Congress"
+      ],
+      "source": "qbreader",
+      "sourceId": "644dff39de0b658d0841adec"
+    },
+    {
+      "id": "ee759e92-c8fe-4b37-b3aa-195866278d27",
+      "category": "Literature",
+      "subcategory": "Classical Literature",
+      "difficulty": "middle_school",
+      "text": "This writer was credited by Sophocles as the author of \"The North Wind and the Sun,\" and was described by Phaedrus as telling the tale of \"The Frogs Who Desired a King.\" In stories attributed to this man, a bitter protagonist dismisses unreachable grapes as \"sour,\" and a lion is convinced to spare a mouse who later saves his life in return. For 10 points, name this ancient Greek writer who included stories like \"The Tortoise and the Hare\" in his namesake \"Fables.\"",
+      "powerMarkPosition": 247,
+      "answer": "Aesop",
+      "acceptableAnswers": [
+        "Aesop",
+        "The Aesop"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3101eabc146a6b8189251"
+    },
+    {
+      "id": "3aba1f47-08f6-41db-bb4d-c65a51f987ab",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "This novel's narrator describes composing a pastiche that parodies T.S. Eliot's \"Gerontion\" and an essay on a \"Proustian theme in a letter from Keats.\" Descriptions of the similarity of motels open the second part of this novel, which centralizes the Hotel Mirana in a love story at its beginning. A man ascribes coincidences such as receiving hotel room 342 to Aubrey McFate in this novel. A girl tells her stepfather about learning sex from Barbara and Charlie at Camp Q in this novel while on a drive to The Enchanted Hunters. While running to mail three letters in this novel after discovering her husband's diary, Charlotte is killed in a car accident just outside of her house. The unreliable narrator of this novel repeatedly uses the word \"nymphet\" to refer to seductive schoolgirls. For 10 points, name this novel narrated by Humbert Humbert and written by Vladimir Nabokov.",
+      "powerMarkPosition": 506,
+      "answer": "Lolita",
+      "acceptableAnswers": [
+        "Lolita",
+        "The Lolita"
+      ],
+      "source": "qbreader",
+      "sourceId": "68846960641a9dc975af8345"
+    },
+    {
+      "id": "71e3ef9b-fb14-4a10-8f3e-3c7fb96be957",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "text": "In the third of these pieces, a violin solo imitates the sound of a hunting horn. Instruments are told to play like a barking dog in the second movement of one of these pieces. The tempos of these pieces follow the fast-slow-fast pattern. The first of these pieces contains an allegro in E major and an allegro pastorale. This set of pieces was accompanied by poems written by their composer. These pieces were included in their composer's The Contest Between Harmony and Invention. For 10 points, identify this set of four violin concerti that include \"Primavera\" and were composed by Antonio Vivaldi.",
+      "powerMarkPosition": 321,
+      "answer": "The Four Seasons",
+      "acceptableAnswers": [
+        "The Four Seasons",
+        "Four Seasons"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31b16"
+    },
+    {
+      "id": "b1fe0937-017e-47f2-86fb-f7a0befbd676",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "Living from 1834 to 1917, this artist studied under the renowned Jean Dominique Ingres [\"AN-gray\"] for several years before studying Japanese prints and finally coming into his own. For ten points, name this keen observer of humanity, known for his paintings of racetracks, theatrical subjects, cafes, dance halls, trains, and ballerinas.",
+      "powerMarkPosition": 181,
+      "answer": "Degas",
+      "acceptableAnswers": [
+        "Degas",
+        "The Degas"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a984017b"
+    },
+    {
+      "id": "fbe2bd99-011d-4fb7-80b5-45ebf3b82707",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "A 2014 paper attempted to solve the firewall paradox surrounding these objects. They undergo evaporation when particle-antiparticle pairs are generated; that radiation is named for the author of A Brief History of Time and the aforementioned paper, which argues that these objects have apparent horizons, rather than event horizons. For 10 points, name these hypothetical regions of space whose gravitational pull prevents even light from escaping.",
+      "powerMarkPosition": 285,
+      "answer": "black",
+      "acceptableAnswers": [
+        "black",
+        "The black"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acd03"
+    },
+    {
+      "id": "1eb4468d-6e5b-420a-b877-e38cbed0e698",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "In one song by this band, the lead singer says that he will \"distill the life inside of me\" with \"Pennyroyal Tea\". In another song by this band, the singer swears, \"[he doesn't] have a gun, \"while a third tells the listener to \"load up on guns and bring your friends.\" Songs like \"Come As You Are\" appear on this band's most famous album whose cover shows a baby swimming, and is called Nevermind. For 10 points, name this grunge band responsible for \"Smells Like Teen Spirit,\" fronted by Kurt Cobain.",
+      "powerMarkPosition": 397,
+      "answer": "Nirvana",
+      "acceptableAnswers": [
+        "Nirvana",
+        "The Nirvana"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4380e"
+    },
+    {
+      "id": "cd47cb07-5109-4d46-81c8-b662f36d2730",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "It's not Habakkuk, but the story of this man is read as Haftarah on Shavuot. This man, who relates that he spent time along the Chebar river, uses human excrement as the fuel to cook his food while lying on his side for 430 days. Merkabah mysticism is based on an image from this man's accounts, which include a war launched against the land of Magog by the eponymous prince of Gog. This Biblical character sees the faces of men, lions, eagles, and oxen surrounding the throne of God on God's chariot, and has a vision of \"wheels turning inside of wheels\" before he is told to breathe life into a group of reanimated bodies in the \"valley of dry bones\". For 10 points, name this Old Testament prophet whose namesake book comes before Hosea and after the Lamentations attributed to Jeremiah.",
+      "powerMarkPosition": 382,
+      "answer": "Ezekiel",
+      "acceptableAnswers": [
+        "Ezekiel",
+        "the Book of Ezekiel",
+        "The Ezekiel"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba95f42"
+    },
+    {
+      "id": "cba24fc6-edad-4127-8818-9c4555f5fe7b",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "The Hyde Amendment made shortly after this case was upheld in Harris v. McRae, and one party that this case was decided in favor of was Dr. James Hallford. The Georgia case Doe v. Bolton was a companion to this Supreme Court case. The major precedent for it was Griswold v. Connecticut, and the majority opinion for it was written by Harry Blackmun. The court ruled that citizens have the right to privacy under the due process clause of the Fourteenth Amendment, and it supported the cause of Norma McCorvey. For 10 points, name this 1973 Supreme Court case legalizing abortion.",
+      "powerMarkPosition": 230,
+      "answer": "Roe",
+      "acceptableAnswers": [
+        "Roe",
+        "either",
+        "both names in either order",
+        "The Roe"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e44fc160c522c60cc7af77"
+    },
+    {
+      "id": "e5e5f2f2-4205-4264-a565-23cf87c186c5",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "It's not Cleveland, but one company based in this city, Bedrock Real Estate, is owned by Dan Gilbert, who has led efforts to revitalize this city. Some homes outside of this city were listed for as low as $1 on the website Zillow. One former mayor of this city was recently sentenced to twenty-eight years in jail following a corruption scandal; that mayor was Kwame Kilpatrick. This city is home to an industry that was controversially bailed out in 2008. For 10 points, name this Michigan city, home to automakers like GM and Ford.",
+      "powerMarkPosition": 204,
+      "answer": "Detroit",
+      "acceptableAnswers": [
+        "Detroit",
+        "The Detroit"
+      ],
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c611934960f"
+    },
+    {
+      "id": "35867cdf-49ca-458d-8b47-76fd169a4f48",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "The comune [ko-mu-ne] of Cerda [CHER-da] on this island boasts a statue of a giant artichoke, and the men on this island are known to wear a flat cap known as a coppola [\"COPE\"-uh-luh]. The sonnet originated on this island, and the active stratovolcano Mount Etna is located here. The Godfather was filmed primarily in New York City and on this island. A fried pastry known as a cannoli is a popular dessert invented on this island. For ten points, identify this region of Italy, the largest island in the Mediterranean Sea.",
+      "powerMarkPosition": 280,
+      "answer": "Sicily",
+      "acceptableAnswers": [
+        "Sicily",
+        "The Sicily"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f723ff56e0dff73abeea9"
+    },
+    {
+      "id": "ae7bb66b-a659-49de-938b-bb3e7afaa186",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for epidermis structure. It plays a key role in the integumentary system and is one of the most studied parts of human anatomy. For ten points, name this epidermis-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Epidermis",
+      "acceptableAnswers": [
+        "epidermis",
+        "Epidermis"
+      ],
+      "explanation": "The epidermis is a key component of the Integumentary system, involved in epidermis structure.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a0a2f497-1278-4986-9871-b965725d2b73",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "Specific term required. As this event approaches, humanity ceases to eat food, starting with meat and ending with milk and vegetables. Aēšma of the bloody club, the personification of wrath, is defeated by the personification of obedience during this event. In preparation for this event, Neryosang collects one figure's semen to impregnate three separate virgins bathing in Lake Kansava. Ox fat is used to create the drink Hush, which renders humanity immortal following this event. During this event, the righteous wade through a river of molten metal as if it were milk, while the wicked are purified of their sin before they rejoin the rest of humanity. The Saoshyant appears as a savior during this event, which ends after the daevas flee and hell burns. For 10 points, Ahura Mazda triumphs over Angra Mainyu during what Zoroastrian end times?",
+      "powerMarkPosition": 516,
+      "answer": "Frashokereti",
+      "acceptableAnswers": [
+        "Frashokereti",
+        "Frashgird",
+        "Frashkart",
+        "prompt on the end of the world in Zoroastrianism until “end” is read",
+        "prompt on Judgment Day",
+        "The Frashokereti"
+      ],
+      "source": "qbreader",
+      "sourceId": "68a268b1277452561b4d1f88"
+    },
+    {
+      "id": "b91c4c3b-f353-45de-9e7c-c9d88a3263c9",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "The Dinka and Nuer pastoralists live in one wetland along the course of this river. The Gezira Scheme irrigates land for cotton production from an eastern branch of this river. Navigation of the other major branch of this river is made impossible due to the presence of a large swamp called the Sudd, which prevented further Roman exploration of this river. The construction of the Aswan Dam led to the creation of Lake Nasser on this river. All six of this river's cataracts are located in Sudan. For 10 points, name this African river with red, blue and white branches, the longest river in the world.",
+      "powerMarkPosition": 357,
+      "answer": "Nile",
+      "acceptableAnswers": [
+        "Nile",
+        "The Nile"
+      ],
+      "source": "qbreader",
+      "sourceId": "6413cd9afdc648a1ed70987e"
+    },
+    {
+      "id": "184a1d67-b1a2-4eab-9e67-4be4128a8f65",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "This artist depicted a circular gathering on top of a mountain in his imaginary scene from The Last of the Mohicans. A man with a red hat atop a horse talks to a scholar seated atop a rock in this artist's painting Temple of Segesta. This American artist depicted a pool of water atop a huge tree in The Titan's Goblet, and he included Destruction and Desolation in a series about the decline of a civilization. A panoramic view of the Connecticut River Valley was painted by, for ten points, what artist of The Course of Empire and The Oxbow?",
+      "powerMarkPosition": 303,
+      "answer": "Cole",
+      "acceptableAnswers": [
+        "Cole",
+        "The Cole"
+      ],
+      "source": "qbreader",
+      "sourceId": "646fffa69d2ba7804333f876"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "d82897dd-4fee-43b0-9fac-43405b74c9cc",
+      "linkedTossupId": "d28fa0fd-3e50-47fd-a10e-2ea50a156daa",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this king of France who supposedly said that Paris was \"well worth a mass\" after converting to Catholicism.",
+          "answer": "Henry IV",
+          "acceptableAnswers": [
+            "Henry IV",
+            "Henri IV",
+            "Henri-Quatre",
+            "Henry III of Navarre",
+            "prompt on “Henry”",
+            "“Henry III”",
+            "“Henry of Navarre”",
+            "The Henry IV"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Henry supposedly escaped at least 12 assassination attempts before this fanatical Catholic stabbed him in his carriage in 1610.",
+          "answer": "Ravaillac",
+          "acceptableAnswers": [
+            "Ravaillac",
+            "The Ravaillac"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Henry IV was one of the \"three Henrys\" who fought during the French Wars of Religion; the leader of the Catholic League during that war was a Henry who held the titles Prince of Joinville and Count of Eu, but was more commonly known by this other title.",
+          "answer": "Duke of Guise",
+          "acceptableAnswers": [
+            "Duke of Guise",
+            "Duc de Guise",
+            "prompt on “Duke”",
+            "“Duc”",
+            "“Guise”",
+            "The Duke of Guise"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This king promulgated the Edict of Nantes. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34eff"
+    },
+    {
+      "id": "7e5463a4-ca78-4074-a598-21db0de5f93c",
+      "linkedTossupId": "80129270-a062-4e6e-8ffd-e67820ba6583",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this \"philosophical poem\" that describes the title creatures thriving when acting selfishly but beginning to collapse when acting virtuously.",
+          "answer": "Fable of the Bees",
+          "acceptableAnswers": [
+            "Fable of the Bees",
+            "The Fable of the Bees",
+            "Private Vices",
+            "Publick Benefits"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This philosopher criticized The Fable of the Bees for ignoring the existence of social virtues. This Swiss philosopher describes the self-interests of citizens forming a \"general will\" in The Social Contract.",
+          "answer": "Rousseau",
+          "acceptableAnswers": [
+            "Rousseau",
+            "The Rousseau"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rousseau discusses The Fable of the Bees in a book partially titled for the \"Origin and Basis\" of this concept. That book titled for this concept contrasts amour de soi with amour-propre and claims that civil society was founded by the first man to enclose a piece of land and claim \"this is mine!\"",
+          "answer": "inequality",
+          "acceptableAnswers": [
+            "inequality",
+            "Discourse on Inequality",
+            "Discourse on the Origin and Basis of Inequality Among Men",
+            "The inequality"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This book's first part features an \"Enquiry into the Origin of Moral Virtue\" immediately followed by a section outlining 20 \"Remarks.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "692330ecf1f28d19289b8078"
+    },
+    {
+      "id": "5be9cd3c-39fb-48c7-a36c-79d9e8a70687",
+      "linkedTossupId": "4c11f146-87ef-45ec-b5ea-752bbe984be7",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Give this Turkish word, which refers to an earthen mound and is similar to the Arabic word tel. A Turkish site named for this sort of feature contains megaliths that predate Stonehenge by over 6,000 years.",
+          "answer": "tepe",
+          "acceptableAnswers": [
+            "tepe",
+            "Göbekli Tepe",
+            "The tepe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This tel in Israel is where, according to the Bible, the battle at Armageddon will occur. Thutmose III clashed with a Canaanite army at a battle named for this site.",
+          "answer": "Meggido",
+          "acceptableAnswers": [
+            "Meggido",
+            "The Meggido"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Burial mounds known as kurgan name a hypothesis that this language family's precursor spread from a steppe culture. This language family includes English and Sanskrit.",
+          "answer": "Indo-European",
+          "acceptableAnswers": [
+            "Indo-European",
+            "IE",
+            "accept Proto-Indo-European",
+            "PIE",
+            "The Indo-European"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An archaeological site named Gonur [this word] was home to the Bactria-Margiana culture. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d9801af67c8a6f6e0b3fe5"
+    },
+    {
+      "id": "3e5fb4e2-56c8-49d6-b78f-f6878a0f2597",
+      "linkedTossupId": "13fe6256-b6f6-4235-b9c9-331fafe2e527",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with villi and microvilli.",
+          "answer": "duodenum",
+          "acceptableAnswers": [
+            "duodenum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the duodenum in the digestive system?",
+          "answer": "Villi and microvilli",
+          "acceptableAnswers": [
+            "Villi and microvilli"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to villi and microvilli.",
+          "answer": "jejunum",
+          "acceptableAnswers": [
+            "jejunum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "bfd3a232-bea1-449f-8b2f-90559434748c",
+      "linkedTossupId": "f7b470bd-c6f8-42f2-97ca-1992b06accdf",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this empire based on Java that reached the height of its power during the reign of Hayam Wuruk.",
+          "answer": "Majapahit Empire",
+          "acceptableAnswers": [
+            "Majapahit Empire",
+            "The Majapahit Empire"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Majapahit Empire was started by Raden Wijaya, who repelled the invading forces of this emperor. This man's invasion force to Japan was destroyed by two typhoons now known as kamikaze.",
+          "answer": "Kublai Khan",
+          "acceptableAnswers": [
+            "Kublai Khan",
+            "The Kublai Khan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Majapahit is the last major empire before the introduction of this religion to the Indonesian archipelago. To this day, this religion is the majority religion in Indonesia.",
+          "answer": "Islam",
+          "acceptableAnswers": [
+            "Islam",
+            "The Islam"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A prime minister of this empire, Gajah Mada, vowed to not eat any food with spices until he conquered all the islands surrounding him. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a84ef"
+    },
+    {
+      "id": "a75e7b96-9943-4b21-b91b-3047abff91ee",
+      "linkedTossupId": "e2d847ce-47a1-4d69-a8ef-12caf4501b25",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this country that was targeted by Operation Praying Mantis after the USS Samuel B. Roberts was damaged after hitting a mine laid by this country, during a conflict in which it temporarily lost Khuzestan.",
+          "answer": "Iran",
+          "acceptableAnswers": [
+            "Iran",
+            "Islamic Republic of Iran",
+            "Jomhuri-ye Eslami-ye Iran",
+            "The Iran"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Operation Earnest Will was launched in response to Iranian attacks on these vehicles. These vehicles were frequently attacked by both sides during a namesake phase of the Iran-Iraq War.",
+          "answer": "tanker",
+          "acceptableAnswers": [
+            "tanker",
+            "petroleum tankers",
+            "accept Tanker War",
+            "The tanker"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During the Tanker War, oil tankers belonging to this country adopted American flags to protect themselves from attacks. This country was invaded by Iraq during the Gulf War.",
+          "answer": "Kuwait",
+          "acceptableAnswers": [
+            "Kuwait",
+            "State of Kuwait",
+            "Dawlat al-Kuwayt",
+            "The Kuwait"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The USS Vincennes mistakenly shot down a civilian flight from this country after misidentifying it as a combatant fighter after departing Bandar Abbas. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "692330edf1f28d19289b809c"
+    },
+    {
+      "id": "b6e91089-0176-49eb-bac6-3c4499b4d006",
+      "linkedTossupId": "ee759e92-c8fe-4b37-b3aa-195866278d27",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this poem which begins \"April is the cruellest month\" and ends with the mantra \"Shantih Shantih Shantih.\"",
+          "answer": "Waste Land",
+          "acceptableAnswers": [
+            "Waste Land",
+            "The Waste Land"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Waste Land is by this British author of \"The Love Song of J. Alfred Prufrock\" who wrote \"This is the way the world ends / Not with a bang but a whimper\" in \"The Hollow Men.\"",
+          "answer": "Eliot",
+          "acceptableAnswers": [
+            "Eliot",
+            "The Eliot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Shantih Shantih Shantih\" is a mantra in this Indian language, the sacred language of Hinduism.",
+          "answer": "Sanskrit",
+          "acceptableAnswers": [
+            "Sanskrit",
+            "The Sanskrit"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This poem describes \"Phlebas the Phoenician a fortnight dead\" in its fourth section \"Death by Water.\" For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e9a0924256318acb76"
+    },
+    {
+      "id": "87c9a697-5f5a-47f8-8e84-35e10947e299",
+      "linkedTossupId": "3aba1f47-08f6-41db-bb4d-c65a51f987ab",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this English novelist of Adam Bede.",
+          "answer": "Eliot",
+          "acceptableAnswers": [
+            "Eliot",
+            "The Eliot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This novel, which features Dorothea Brooke and Will Ladislaw, may be George Eliot's greatest achievement.",
+          "answer": "Middlemarch",
+          "acceptableAnswers": [
+            "Middlemarch",
+            "The Middlemarch"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Maggie Tulliver is not permitted to marry the deformed lawyer Philip Wakem in this Eliot novel.",
+          "answer": "Mill on the Floss",
+          "acceptableAnswers": [
+            "Mill on the Floss",
+            "The Mill on the Floss"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "She wrote about Hetty Sorrel, who is convicted of murdering her illegitimate child, in her first novel. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fa68"
+    },
+    {
+      "id": "dea1186d-e8c9-4787-9f40-534074df2235",
+      "linkedTossupId": "71e3ef9b-fb14-4a10-8f3e-3c7fb96be957",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this event, during which the Twin Towers were destroyed.",
+          "answer": "9/11",
+          "acceptableAnswers": [
+            "9/11",
+            "September 11th attacks",
+            "anything referencing an attack on the World Trade Center",
+            "The 9/11"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The 9/11 attacks destroyed Bent Propeller, a stainless steel sculpture by this artist that was painted his signature shade of red. This artist also created mobiles such as Lobster Trap and Fish Tail.",
+          "answer": "Calder",
+          "acceptableAnswers": [
+            "Calder",
+            "The Calder"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Oculus was designed by this architect to house the World Trade Center rapid transit station after the September 11th attacks. This Spanish architect also designed the Turning Torso skyscraper in Malmö, Sweden.",
+          "answer": "Calatrava",
+          "acceptableAnswers": [
+            "Calatrava",
+            "Santiago Calatrava Valls",
+            "The Calatrava"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A museum honoring this event built around the Vesey Street Stairs features a Virgil quote surrounded by tiles representing the color of the sky. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66cd4c3ec5459312fdcc57d9"
+    },
+    {
+      "id": "8833eda3-d8b8-44ed-95c0-6127ea86f8ad",
+      "linkedTossupId": "b1fe0937-017e-47f2-86fb-f7a0befbd676",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "If one combines the colors of the visible spectrum, light of this color results. Alternatively, one can mix the primary colors of light together to get this color.",
+          "answer": "white",
+          "acceptableAnswers": [
+            "white",
+            "The white"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "If one additively combines red and green light, this color light results.",
+          "answer": "yellow",
+          "acceptableAnswers": [
+            "yellow",
+            "The yellow"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name any of the other secondary colors of light. You may also know them as the colors of paint in the CMYK color model.",
+          "answer": "magenta",
+          "acceptableAnswers": [
+            "magenta",
+            "The magenta"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some things about combining colored lights, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144d75"
+    },
+    {
+      "id": "a9f6c4d1-227d-4b6f-a7fd-58f977a0be98",
+      "linkedTossupId": "fbe2bd99-011d-4fb7-80b5-45ebf3b82707",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "These structures in the kidney have some convoluted tubules and other such mechanics. They come in cortical and juxtamedullary types.",
+          "answer": "nephron",
+          "acceptableAnswers": [
+            "nephron",
+            "The nephron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This structure in a nephron between the proximal and distal convoluted tubules has an ascending part and a descending part.",
+          "answer": "Loop of Henle",
+          "acceptableAnswers": [
+            "Loop of Henle",
+            "The Loop of Henle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This sac at the beginning of a nephron surrounds the glomerulus, a bunch of capillaries leading to the nephron.",
+          "answer": "Bowman’s capsule",
+          "acceptableAnswers": [
+            "Bowman’s capsule",
+            "The Bowman’s capsule"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer some questions about that vital human organ - the kidney.",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0d9c"
+    },
+    {
+      "id": "f5b4afaf-9518-4f31-a11d-32e4ec2c5419",
+      "linkedTossupId": "1eb4468d-6e5b-420a-b877-e38cbed0e698",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this ballet which depicts a girl being forced to dance herself to death, and provoked riots during its premiere in Paris.",
+          "answer": "Rite of Spring",
+          "acceptableAnswers": [
+            "Rite of Spring",
+            "The Rite of Spring"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer of The Rite of Spring also wrote a ballet in which Prince Ivan defeats Koschei [KOSH-AY] with the help of The Firebird.",
+          "answer": "Stravinsky",
+          "acceptableAnswers": [
+            "Stravinsky",
+            "The Stravinsky"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this other Stravinsky ballet, the title puppet loves a ballerina but is killed by the Moor. A dissonant chord named after this ballet features simultaneous C major and F-sharp major triads.",
+          "answer": "Petrushka",
+          "acceptableAnswers": [
+            "Petrushka",
+            "The Petrushka"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Vaslav Nijinsky choreographed this ballet, which is split into two sections called \"The Adoration of the Earth\" and \"The Sacrifice.\" For 10 points each-",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7e1f"
+    },
+    {
+      "id": "c9b3a24f-4a0c-4ee9-8fdd-32eaa343885d",
+      "linkedTossupId": "cd47cb07-5109-4d46-81c8-b662f36d2730",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this contemporary philosopher who wrote the article \"What Is it Like to Be a Bat?\"",
+          "answer": "Nagel",
+          "acceptableAnswers": [
+            "Nagel",
+            "The Nagel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Nagel's book Mind and Cosmos was targeted at the conception of the world grounded in a school of thought named for this naturalist. This naturalist's Dangerous Idea, evolution, inspired another contemporary philosopher.",
+          "answer": "Darwin",
+          "acceptableAnswers": [
+            "Darwin",
+            "The Darwin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Darwin's Dangerous Idea is a book by this philosopher who distanced himself from the New Atheist movement with a scathing critique of Sam Harris. His philosophical work focuses on the hard problem of consciousness and he denies the existence of qualia.",
+          "answer": "Dennett",
+          "acceptableAnswers": [
+            "Dennett",
+            "The Dennett"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This philosopher caused a stir with the recent publication of his book Mind and Cosmos. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba96866"
+    },
+    {
+      "id": "33dcb81a-ec82-4ad1-a2b1-1caa90afc4f1",
+      "linkedTossupId": "cba24fc6-edad-4127-8818-9c4555f5fe7b",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this English noble who initiated the Second Baron's War. He was the fifth of his name, and the sixth of his title.",
+          "answer": "de Montfort",
+          "acceptableAnswers": [
+            "de Montfort",
+            "The de Montfort"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While still a prince, this king of England tricked de Montfort into the Battle of Evesham by flying the banners of de Montfort's son. This man's nickname derives from the fact that he was a tall man for his time.",
+          "answer": "Edward I",
+          "acceptableAnswers": [
+            "Edward I",
+            "The Edward I"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Edward Longshanks was also called the \"Hammer\" of these people for leading an invasion of them. Their leader William Wallace defeated Edward at the Battle of Stirling Bridge, the inspiration for Braveheart.",
+          "answer": "Scot",
+          "acceptableAnswers": [
+            "Scot",
+            "The Scot"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After Roger Mortimer killed this man at the Battle of Evesham, this man allegedly cried out, \"Thank God.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc4bf"
+    },
+    {
+      "id": "782e54a0-0219-4855-9b38-e1547b3bbc43",
+      "linkedTossupId": "e5e5f2f2-4205-4264-a565-23cf87c186c5",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this colony solidified after the Treaty of Wuchale. It contained over 75,000 settlers from its colonizer, and its capital was recreated as the ideal modern city.",
+          "answer": "Eritrea",
+          "acceptableAnswers": [
+            "Eritrea",
+            "The Eritrea"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Italy's trickery in the Treaty of Wuchale and subsequent attempt to expand south were ended at this 1896 battle won by Menelik II. It resulted in Menelik's country being one of only two African states to resist colonization successfully.",
+          "answer": "Adwa",
+          "acceptableAnswers": [
+            "Adwa",
+            "Adowa",
+            "The Adwa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Menelik II, victor at Adwa, hailed from this Coptic Christian country with capital Addis Ababa.",
+          "answer": "Ethiopia",
+          "acceptableAnswers": [
+            "Ethiopia",
+            "The Ethiopia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This colony was first based on the ports of Assab and Massawa. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144e9e"
+    },
+    {
+      "id": "a8510e4a-87bf-42c2-bc1b-3a0bf7051a8c",
+      "linkedTossupId": "35867cdf-49ca-458d-8b47-76fd169a4f48",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this island country. Its capital is Antananarivo.",
+          "answer": "Madagascar",
+          "acceptableAnswers": [
+            "Madagascar",
+            "The Madagascar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Madagascar is the only place on Earth that is home to these primates. The \"mouse\" varieties of these creatures are the smallest primates in the world, while the \"ring-tailed\" variety plays prominently in popular culture.",
+          "answer": "lemur",
+          "acceptableAnswers": [
+            "lemur",
+            "mouse lemurs",
+            "ring-tailed lemurs",
+            "The lemur"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This African nation is separated from Madagascar by a namesake channel. Its official language is Portuguese, and it contains the mouth of the Limpopo River.",
+          "answer": "Mozambique",
+          "acceptableAnswers": [
+            "Mozambique",
+            "The Mozambique"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Residents of this island speak Malagasy, and this island is a biodiversity hotspot home to such endemic creatures as the fossa, a cat-like carnivore. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9dc2"
+    },
+    {
+      "id": "f62ef90e-e306-4d38-bd50-5b5020e9b4f5",
+      "linkedTossupId": "ae7bb66b-a659-49de-938b-bb3e7afaa186",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with tonsils and malt.",
+          "answer": "lymph",
+          "acceptableAnswers": [
+            "lymph"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the lymph in the immune system?",
+          "answer": "Tonsils and MALT",
+          "acceptableAnswers": [
+            "Tonsils and MALT"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to tonsils and malt.",
+          "answer": "lymph node",
+          "acceptableAnswers": [
+            "lymph node"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ab64a9bb-2cd6-4fa6-b5e8-977ce5204d7c",
+      "linkedTossupId": "a0a2f497-1278-4986-9871-b965725d2b73",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this work composed of four volumes including The Mystery of the Trinity and The Sacraments that was written between 1145 and 1151.",
+          "answer": "Sentences",
+          "acceptableAnswers": [
+            "Sentences",
+            "The Sentences"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Italian theologian and author of more than 30 sermons wrote Sentences.",
+          "answer": "Lombard",
+          "acceptableAnswers": [
+            "Lombard",
+            "The Lombard"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A slew of theologians wrote notable commentaries on Lombard's Sentences, including this 14th Century thinker and Professor at the Sorbonne whose extreme views on baptism led him to be known as both the \"Doctor Authenticus,\" and \"Infantium Tortor\" or \"the tormentor of children.\"",
+          "answer": "Gregory",
+          "acceptableAnswers": [
+            "Gregory",
+            "The Gregory"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Its prologue asserted the author's intent to \"protect our faith against cruel and brutish men\" and its first section is divided into \"Distinctions,\" for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df3ddba2602b93e0408118"
+    },
+    {
+      "id": "5cdfc4c0-4d6a-4051-a3d0-5990b78483bc",
+      "linkedTossupId": "b91c4c3b-f353-45de-9e7c-c9d88a3263c9",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this major tributary of the Mississippi that flows through Tulsa and Little Rock.",
+          "answer": "Arkansas",
+          "acceptableAnswers": [
+            "Arkansas",
+            "The Arkansas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Among the cities along the Arkansas River is this largest city in Kansas, the home of McConnell Air Force Base.",
+          "answer": "Wichita",
+          "acceptableAnswers": [
+            "Wichita",
+            "The Wichita"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While actually in Arkansas the river runs along the southern border of the Ozark Plateau, whose cities include this corporate headquarters of Wal-Mart.",
+          "answer": "Bentonville",
+          "acceptableAnswers": [
+            "Bentonville",
+            "The Bentonville"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Its tributaries include the Cimarron and Canadian Rivers. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43ac9"
+    },
+    {
+      "id": "02352a2b-9f69-4767-81f5-0f791c69502f",
+      "linkedTossupId": "184a1d67-b1a2-4eab-9e67-4be4128a8f65",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Close created a portrait of this real-life person emphasizing his red nose. Nelson Shanks included the shadow of a blue dress on a mantle in another portrait of this person.",
+          "answer": "Clinton",
+          "acceptableAnswers": [
+            "Clinton",
+            "William Jefferson Clinton",
+            "William Jefferson Blythe III",
+            "The Clinton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Close depicted celebrities such as Philip Glass in Subway Portraits, a series in this medium which uses hundreds of colored tiles to form an image.",
+          "answer": "mosaic",
+          "acceptableAnswers": [
+            "mosaic",
+            "The mosaic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A Close exhibition was canceled at this art museum after Close was accused of sexual harassment. This museum's West Building was designed by John Russell Pope and its East Building by I. M. Pei.",
+          "answer": "National Gallery",
+          "acceptableAnswers": [
+            "National Gallery",
+            "The National Gallery"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about hyperrealist artist Chuck Close.",
+      "source": "qbreader",
+      "sourceId": "6605c17f7891dce02ea7d0c7"
+    }
+  ]
+}

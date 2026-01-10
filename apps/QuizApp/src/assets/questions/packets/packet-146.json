@@ -1,0 +1,1134 @@
+{
+  "packetId": "packet-146",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Human Body",
+    "Fine Arts",
+    "History",
+    "Literature",
+    "Science"
+  ],
+  "tossups": [
+    {
+      "id": "c60bcac9-bdb5-4e5b-8ba3-cb70fde722ed",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for bone structure and types. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this skull-related structure.",
+      "powerMarkPosition": 98,
+      "answer": "Skull",
+      "acceptableAnswers": [
+        "skull",
+        "Skull"
+      ],
+      "explanation": "The skull is a key component of the Musculoskeletal system, involved in bone structure and types.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a7b2bcf3-c04e-47fe-b51a-0e58fe0dce02",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "In the second scene of this opera's first act, two girls sing a duet accompanied by two flutes and a piano, which stands in for a harpsichord. This opera's second act includes a 4-4 pastoral \"sarabande,\" followed by a scene set in the mezzo-soprano lead's bedroom. This opera's overture begins with the clarinets and bassoons playing a 12-8 theme almost identical to the main theme of the first movement of its composer's fifth symphony, which was written the year before. This opera's soprano lead sings her most famous aria while waiting by a canal in Act 3. Near the end of Act 2, its mezzo-soprano lead quietly sings an aria from Grétry's Richard Cœur de Lion, \"Je crains de lui parler la nuit\" [ZHUH craan de LWEE par-LAY lah NWEE]. In its second act, the aria \"ya vas lublyu\" is sung by Yeletsky to Liza during a masked ball. At the end of this opera, Herman sees the ghost of the Countess and kills himself after declaring \"what is life? A game!\" For 10 points, name this Tchaikovsky opera based on a story by Pushkin.",
+      "powerMarkPosition": 544,
+      "answer": "Queen of Spades",
+      "acceptableAnswers": [
+        "Queen of Spades",
+        "Pique-Dame",
+        "Pikovaya dama",
+        "La Dame de Pique",
+        "The Queen of Spades"
+      ],
+      "source": "qbreader",
+      "sourceId": "630a734f995199588ca69dbe"
+    },
+    {
+      "id": "b9df9eea-d705-4645-a0b4-4c27e7e6234b",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "One account claims that this city was once saved from attack by a divinely sent flock of birds carrying brimstone that bombarded the invading army. During a siege, a structure in this city was apocryphally damaged when the wooden structure covered with mattresses surrounding it caught on fire and fell on it. The Turkish government compared the demolition of the Ottoman-era Ajyad Fort in this city to the destruction of the Buddhas of Bamiyan. A war elephant named Mahmud, part of an invading Ethiopian army, supposedly refused to enter this city, leading the year of the birth of the most important resident of this city to be called the Year of the Elephant. The Black Stone was taken by the Qarmatians in their 930 sack of this city. This city was the capital of the short-lived Kingdom of Hejaz before being conquered by the forces of the newly forming Saudi state. For 10 points, name this holiest city in Islam.",
+      "powerMarkPosition": 494,
+      "answer": "Mecca",
+      "acceptableAnswers": [
+        "Mecca",
+        "The Mecca"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0ae7c93b216c5acc07053"
+    },
+    {
+      "id": "5abcf8f4-53e3-4f57-a00c-b3d5d69ff850",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "One character in this story observes, \"Everybody's youth is a dream, a form of chemical madness,\" as another character notes, \"How pleasant then to be insane!\" That character recounts a story where her little sister once pushed their father downstairs but he just walked it off because he never punishes his children. Another character in this story pretends that the South won the American Civil War to trick his slaves into continued servitude, and the central family in this work has a dungeon in which they lock up pilots who fly too close to the title entity. Kismine warns the protagonist that he will be killed, but they are able to escape when an airplane attack leads Percy and his parents to blow up the title entity. For 10 points, name this story about an impossibly large gem, by F. Scott Fitzgerald.",
+      "powerMarkPosition": 317,
+      "answer": "Diamond As Big As the Ritz",
+      "acceptableAnswers": [
+        "Diamond As Big As the Ritz",
+        "The Diamond As Big As the Ritz"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895997a0d8ea074be790c"
+    },
+    {
+      "id": "d7eca3aa-7081-4f9e-8c43-a630bc3b7ec4",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "For normal tidal volumes of typically 500 milliliters, this process produces proportional changes in volume and internal pressure of the alveoli in accordance with Boyle's law. A spirometer may be used to measure the volume of air used in this process. Hyperventilation may occur if this process becomes too rapid. For ten points, identify this mechanical process that relies upon the diaphragm and intercostal muscles to expand and deflate the lungs.",
+      "powerMarkPosition": 226,
+      "answer": "breathing",
+      "acceptableAnswers": [
+        "breathing",
+        "The breathing"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f723ef56e0dff73abee50"
+    },
+    {
+      "id": "3e70eff7-12d0-4706-90d9-d0cc71dddafd",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "The protagonist of this novel reflects on the line \"What greater grief than the loss of one's native land\" from Euripides's Medea after learning that his father's best friend was shot to death in a fight over a bottle of wine. Outraged that it is thirty years old, the protagonist of this novel throws his geometry textbook and hits his teacher in the face. The sister of this novel's title character moves to Montana in search for a better life, but ends up burning to death in her trailer after passing out during a wild party. This novel includes a set of hand-drawn illustrations by Ellen Forney, representing the cartoons that its protagonist sketches in his free time. Its protagonist alienates his best friend Rowdy by opting to go to school in the rich white town of Reardan. For 10 points, name this young adult novel about the upbringing of the teenager Arnold \"Junior\" Spirit on the Spokane Indian Reservation, by Sherman Alexie.",
+      "powerMarkPosition": 496,
+      "answer": "Absolutely True Diary of a Part-Time Indian",
+      "acceptableAnswers": [
+        "Absolutely True Diary of a Part-Time Indian",
+        "The Absolutely True Diary of a Part-Time Indian"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa59132018ad"
+    },
+    {
+      "id": "ae7f3181-0127-44fe-8830-2daea0b83421",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "This composer's \"Melker\" violin concerto precedes a G major fourth one often played by students. In a viral video, Christian Zacharias stopped playing this composer's D major piano concerto when interrupted by a Nokia ringtone. A C major chord, followed by \"D C B, C D, E F,\" opens a cello concerto by this composer. A long Do-Re-Mi opens an E-flat major concerto this composer wrote for Anton Weidinger and his invention of a keyed trumpet. For 10 points, name this Austrian composer who wrote many of his concertos at the Esterházy estate.",
+      "powerMarkPosition": 387,
+      "answer": "Haydn",
+      "acceptableAnswers": [
+        "Haydn",
+        "The Haydn"
+      ],
+      "source": "qbreader",
+      "sourceId": "68fc55d0c262e4078e906ffb"
+    },
+    {
+      "id": "ec3ead5a-44b6-4fef-a02d-ffc3f578c9ae",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "One form of this substance is stained black by Marchi's stain, and it is stained blue by Luxol fast blue. A protein specific to this substance is affected in the most common type of Charcot-Marie-Tooth disease. The composition and distribution of this substance is affected by the accumulation of N-acetyl aspartate in Canavan disease or phytanic acid in Refsum disease. Cells that produce this substance exhibit Schmidt-Lanterman incisures. EAE is an animal model for the loss of this substance and is elicited by this substance's namesake basic protein; loss of this substance is also associated with multiple sclerosis. For 10 points, name this galactocerebroside-rich insulating substance that is important for saltatory conduction, and that is found in oligodendrocytes and Schwann cells.",
+      "powerMarkPosition": 354,
+      "answer": "myelin",
+      "acceptableAnswers": [
+        "myelin",
+        "The myelin"
+      ],
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e62e4e"
+    },
+    {
+      "id": "d5444f00-af4e-4998-a0a8-4ca904cb6753",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "This character compares himself to the \"very likeness of a roasted crab\" while describing an action he is ordered to do on a woman who sometimes mistakes him for a \"three-foot stool.\" A character wearing the \"Weeds of Athens\" is sought out by this character before he stumbles upon a troop of actors whose ranks include Francis Flute. At the end of the play in which he appears, this character apologizes to the audience by saying \"If we shadows have offended, Think but this, and all is mended.\" This servant of Oberon transforms Nick Bottom's head into that of an ass. For 10 points, what Shakespearean trickster also known as Robin Goodfellow uses a love potion on the protagonists of A Midsummer Night's Dream?",
+      "powerMarkPosition": 393,
+      "answer": "Puck",
+      "acceptableAnswers": [
+        "Puck",
+        "The Puck"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0aed87"
+    },
+    {
+      "id": "e5eda045-df0b-43ec-88ad-b53c38a1b096",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for four chambers of the heart. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this atrium-related structure.",
+      "powerMarkPosition": 81,
+      "answer": "Atrium",
+      "acceptableAnswers": [
+        "atrium",
+        "Atrium"
+      ],
+      "explanation": "The atrium is a key component of the Cardiovascular system, involved in four chambers of the heart.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "f6bd0f95-a0cf-46d7-8c16-10d468b4633c",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "This poem's title was stolen from a poem in Kipling's Plain Tales from the Hills, and it was written in 1909 when its author was a grad student at Harvard. This work's narrator ponders how he was \"smoothed by long fingers.\" It references Marvell's \"To His Coy Mistress\" with the line \"To have squeezed the universe into a ball.\" It ends by noting \"human voices wake us, and we drown.\" Earlier its speaker points out he had \"measured out my life with coffee spoons.\" Also containing the dreary line \"In the room the women come and go, talking of Michelangelo,\" this poem begins \"Let us go then, you and I.\" For 10 points, name this meditative poem written by T.S. Eliot.",
+      "powerMarkPosition": 237,
+      "answer": "Love Song of J. Alfred Prufrock",
+      "acceptableAnswers": [
+        "Love Song of J. Alfred Prufrock",
+        "The Love Song of J. Alfred Prufrock"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c05525875978f7"
+    },
+    {
+      "id": "46c94b93-81e8-41a5-8e88-941897fb59f5",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for axial skeleton bones. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this skull-related structure.",
+      "powerMarkPosition": 80,
+      "answer": "Skull",
+      "acceptableAnswers": [
+        "skull",
+        "Skull"
+      ],
+      "explanation": "The skull is a key component of the Musculoskeletal system, involved in axial skeleton bones.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "4ff69e1c-b11c-4e93-90a4-8400b9beea47",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for complement system. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this phagocyte-related structure.",
+      "powerMarkPosition": 94,
+      "answer": "Phagocyte",
+      "acceptableAnswers": [
+        "phagocyte",
+        "Phagocyte"
+      ],
+      "explanation": "The phagocyte is a key component of the Immune system, involved in complement system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "3af46945-be08-455b-85d3-5a10dfd0910b",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "This institution eventually took the Sanhedrin as its model under the influence of the Fifth Monarchists. The measure that gave this institution its name was a constitutional violation intended to force the king to sign the treason attainder passed against his own Privy Councillor, Lord Strafford, who had plotted an invasion from Ireland to collect ship money without this institution's consent. This institution's anti-episcopal stance was motivated by the policies of Archbishop Laud, including the introduction of the Book of Common Prayer in Scotland, which was opposed by the Covenanters. This institution was dominated by the officers' council of the New Model Army. For 10 points, name this parliament that overthrew and executed Charles I before ceding practical power to Oliver Cromwell.",
+      "powerMarkPosition": 482,
+      "answer": "Long Parliament",
+      "acceptableAnswers": [
+        "Long Parliament",
+        "Parliament of 1640",
+        "prompt on Parliament",
+        "The Long Parliament"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b19ba"
+    },
+    {
+      "id": "d4ef74a4-9048-44a4-8e5f-8591521cdc3a",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "This character embarrassingly arrives late for the lecture Love as a Force Conducive to Illness afer his morning wilderness walk is waylaid by a sudden vision of a childhood memory of asking his schoolboy idol Pribislav Hippe for a pencil. This character holds down the arms of the child medium Ellen Brand during a s´eance that successfully summons a spirit of one of his family members, afer playing a recording of \"Valentin's Prayer\" from Faust. He is dubbed a \"problem child of life\" by a member of the International League for the Organization of Progress, and seduces a Russian woman while speaking French during a Walpurgis Night carnival celebration. He has a vision of a pagan temple where two naked, elderly women dismember 4 a blond child, afer getting lost skiing in the snow. This character befriends a burly, Javanese planter named Mynheer Peep-erkorn, even though he loves Mynheer's mistress Claudia Chauchat. This character plans to visit his cousin Joachim for three weeks, but ends up staying at the Berghof sanatorium for seven years. For 10 points, name this protagonist of Thomas Mann's The Magic Mountain.",
+      "powerMarkPosition": 448,
+      "answer": "Hans",
+      "acceptableAnswers": [
+        "Hans",
+        "either",
+        "The Hans"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba958a9"
+    },
+    {
+      "id": "fc7d9e48-1d73-47ab-a6eb-abd2dee529d8",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "Jupiter Hammon once wrote an ode to this person, whose first poem was about the University of Cambridge. In one work, this person wrote about \"when Gallic powers Columbia's fury found\" and, for a certain figure, wished \"thy ev'ry action let the Goddess decide / A crown, a mansion, and a throne that shine.\" This poet wrote many elegies, the most famous of which was for George Whitefield. This poet said \"Remember, Christians, Negroes, black as Cain, / May be refin'd, and join th' angelic train,\" in a poem included in her collection Poems on Various Subjects, Religious and Moral. For 10 points, name this American poet of works such as \"To His Excellency, George Washington,\" and \"On Being Brought From Africa to America.\"",
+      "powerMarkPosition": 370,
+      "answer": "Wheatley",
+      "acceptableAnswers": [
+        "Wheatley",
+        "The Wheatley"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a83cf"
+    },
+    {
+      "id": "aecfd88f-d0e3-42d0-90c8-4463a95492e0",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "Beauty Smith is one owner of this literary character, whose early life is spent with Gray Beaver. This character saves Judge Scott's life after being adopted by the Judge's son, Weedon. This character is the son of One Eye and Kiche, and is terrorized by Lip-Lip in his early years as he adjusts to life as a domestic dog. Created by Jack London, for 10 points, name this dog, whose namesake novel contrasts with The Call of the Wild.",
+      "powerMarkPosition": 226,
+      "answer": "White Fang",
+      "acceptableAnswers": [
+        "White Fang",
+        "The White Fang"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f20cd"
+    },
+    {
+      "id": "5318b18d-3af2-42dc-91d8-105089dc69c4",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "He resigned from his first term after a scandal involving the defense minister Lavon, and his policies resulted in the Haganah becoming an important pseudo-military organization. Late in his career, he founded the Rafi Party and the massive immigration of people from Yemen, which was known as \"Operation Magic Carpet.\" He was the first head of the Mapai party, and was also the first and third person to hold his most notable office, being succeeded first by Moshe Sharett and later by Levi Eshkol. For 10 points, name this first Prime Minister of Israel.",
+      "powerMarkPosition": 499,
+      "answer": "Ben-Gurion",
+      "acceptableAnswers": [
+        "Ben-Gurion",
+        "The Ben-Gurion"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455ff3a"
+    },
+    {
+      "id": "96926d06-26db-4fcc-a880-5cf2926b9373",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "This property of a line is the tangent of the angle it makes with the x-axis. The derivative of a function is equal to this property of a line tangent to the function's graph. Two perpendicular lines have values for this property that are negative reciprocals. Ways of writing the equation of a line include one named for a point and this property. For 10 points, what property, often expressed as \"rise over run\", describes how steep a line is?",
+      "powerMarkPosition": 247,
+      "answer": "slope",
+      "acceptableAnswers": [
+        "slope",
+        "The slope"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef78cbbbb69a5263cd71"
+    },
+    {
+      "id": "61de27be-0078-4054-bb78-070a4a7861cc",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "When speaking to his mother, this character remarks \"Wherever you can look-wherever there's a fight, so hungry people can eat, I'll be there.\" This character attempts in vain to convince his brother Noah to stay with the family instead of wandering off and splitting them up. Upon returning home after spending 4 years in prison, this character is surprised to find that his family home has been abandoned. This character later breaks his parole and crosses Oklahoma state lines in order to stay with his family. This character is forced into hiding after he kills another man for killing Jim Casy, causing him to leave his family and fight for workers' rights. For ten points name this character, the main protagonist of John Steinbeck's The Grapes of Wrath.",
+      "powerMarkPosition": 310,
+      "answer": "Tom",
+      "acceptableAnswers": [
+        "Tom",
+        "Joad",
+        "The Tom"
+      ],
+      "source": "qbreader",
+      "sourceId": "65fa491be210b3e07c6de89e"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "8320663e-3cab-4cf4-b81f-291ef15314af",
+      "linkedTossupId": "c60bcac9-bdb5-4e5b-8ba3-cb70fde722ed",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with pulmonary circulation.",
+          "answer": "systole",
+          "acceptableAnswers": [
+            "systole"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the systole in the cardiovascular system?",
+          "answer": "Pulmonary circulation",
+          "acceptableAnswers": [
+            "Pulmonary circulation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to pulmonary circulation.",
+          "answer": "diastole",
+          "acceptableAnswers": [
+            "diastole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a9c2d1fb-fee1-4957-9bc9-d09e009735ea",
+      "linkedTossupId": "a7b2bcf3-c04e-47fe-b51a-0e58fe0dce02",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this set of six orchestral songs set to Hans Bethge's translations of Chinese poetry. Its composer left it unnumbered to avoid the \"Curse of the Ninth.\"",
+          "answer": "Song of the Earth",
+          "acceptableAnswers": [
+            "Song of the Earth",
+            "Das Lied von der Erde",
+            "The Song of the Earth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer of The Song of the Earth also wrote symphonies nicknamed Resurrection, Titan, and Symphony of a Thousand.",
+          "answer": "Mahler",
+          "acceptableAnswers": [
+            "Mahler",
+            "The Mahler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The final section of Song of the Earth, \"Der Abschied\" or \"The Farewell,\" ends with the soprano soloist repeating this word as the orchestra fades out. Give either the original German or the English translation.",
+          "answer": "ewig",
+          "acceptableAnswers": [
+            "ewig",
+            "forever",
+            "endless",
+            "accepts other English-language answers that suggest meanings akin to forever",
+            "The ewig"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The second movement of this work sets a translation of the poem \"The Solitary One in Autumn.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f35078"
+    },
+    {
+      "id": "b9dddc95-b1c4-474e-81b9-cf4510e98002",
+      "linkedTossupId": "b9df9eea-d705-4645-a0b4-4c27e7e6234b",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this eastern branch of the Sioux whose two cultures, the Santee and the Yankton, form two of the three major Sioux groupings.",
+          "answer": "Dakota",
+          "acceptableAnswers": [
+            "Dakota",
+            "The Dakota"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Those executions occurred after this US president commuted the death sentences of 264 Dakota. This president passed the first Homestead Act, encouraging settlement of the West.",
+          "answer": "Lincoln",
+          "acceptableAnswers": [
+            "Lincoln",
+            "The Lincoln"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This later Dakota reformer worked with the Coolidge administration to conduct the research which became the Meriam Report. In an instance of Dartmouth actually living up to its founding purpose to educate natives, he graduated from Dartmouth in 1887 and went on help found the Boy Scouts of America",
+          "answer": "Eastman",
+          "acceptableAnswers": [
+            "Eastman",
+            "The Eastman"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "38 natives from this tribe were executed in the largest mass execution in US history after an 1862 conflict against this people which ended with their expulsion from Minnesota. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289cb1b4"
+    },
+    {
+      "id": "f9f8276b-f899-4e5d-a6b9-a4a49b9dfb9a",
+      "linkedTossupId": "5abcf8f4-53e3-4f57-a00c-b3d5d69ff850",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this author, who published translations of Spanish poetry like Nicolas Guillén's Motivos de son. This American poet wrote Madrid while serving as a journalist during the Spanish Civil War.",
+          "answer": "Hughes",
+          "acceptableAnswers": [
+            "Hughes",
+            "James Mercer Langston Hughes",
+            "The Hughes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hughes grouped this author's poems into sections titled \"Cradle Songs\" and \"Poems for Mothers\" in a 1957 translation upon this author's death. This Chilean poet wrote the collections Desolation and Sonnets of Death.",
+          "answer": "Mistral",
+          "acceptableAnswers": [
+            "Mistral",
+            "Lucila Godoy Alcayaga",
+            "The Mistral"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "On a trip to Haiti, Hughes befriended Jacques Roumain and later translated a novel by him titled for this substance about a drought in the town of Fonds-Rouge. This substance titles a short story by Edwidge Danticat about a preacher taken captive by Papa, a member of the Tonton Macoutes.",
+          "answer": "dew",
+          "acceptableAnswers": [
+            "dew",
+            "Gouverneurs de la Rosée",
+            "accept “The Dew Breaker”",
+            "The dew"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This poet met Carlos Pellicer and Xavier Villaurruttia during a trip to Mexico City, influencing a poem by the latter on segregation titled \"North Carolina Blues\" that he dedicated to this man. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67e338dc63ef71fce09dfc01"
+    },
+    {
+      "id": "c9c117d0-0a79-4e41-81f5-95d63bde4fc6",
+      "linkedTossupId": "d7eca3aa-7081-4f9e-8c43-a630bc3b7ec4",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these astronomical objects, one of which is our own, the Milky Way.",
+          "answer": "galaxies",
+          "acceptableAnswers": [
+            "galaxies",
+            "galaxy",
+            "The galaxies"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the closest galaxy to the Milky Way, even though it is still two million light years away.",
+          "answer": "Andromeda",
+          "acceptableAnswers": [
+            "Andromeda",
+            "The Andromeda"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Galaxies are classified according to their shapes, including irregular, elliptical and this shape, with arms swirling around a rotating center.",
+          "answer": "spiral",
+          "acceptableAnswers": [
+            "spiral",
+            "The spiral"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Until the 1930s, many astronomers believed that one of these objects made up the whole universe. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c7a1"
+    },
+    {
+      "id": "60d55dbe-b21d-4eb6-bb1b-0cdb81e0c5f1",
+      "linkedTossupId": "3e70eff7-12d0-4706-90d9-d0cc71dddafd",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this literary character who is asked to \"come back\" in the title of a Leslie Fiedler essay that argues homoeroticism is a latent but recurring theme in American novels.",
+          "answer": "Huck",
+          "acceptableAnswers": [
+            "Huck",
+            "either underlined portion",
+            "Huckleberry Finn",
+            "accept “Come Back to the Raft Ag’in",
+            "Huck Honey!”",
+            "The Huck"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Come Back to the Raft Ag'in, Huck Honey!\" examines the intimacy between Huck Finn and the escaped slave Jim, both of whom are characters created by this author.",
+          "answer": "Twain",
+          "acceptableAnswers": [
+            "Twain",
+            "Samuel Langhorne Clemens",
+            "The Twain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Fiedler uses this man's relationship with a kanaka as an example of interracial literary homoeroticism. This author wrote about his voyage from Boston to California on the Pilgrim in his memoir Two Years before the Mast.",
+          "answer": "Dana",
+          "acceptableAnswers": [
+            "Dana",
+            "The Dana"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An essay partly titled for this character suggests that some authors' \"implacable nostalgia for the infantile\" and \"self-congratulatory buddy-buddiness\" created an unconsciously disavowed literary archetype. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64307e9f1357bcd3ef98b63a"
+    },
+    {
+      "id": "03ec1d43-c413-4181-912a-a7265ef56879",
+      "linkedTossupId": "ae7f3181-0127-44fe-8830-2daea0b83421",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify the surname. One person who had this surname composed Also Sprach Zarathustra while another composed the Blue Danube waltz.",
+          "answer": "Strauss",
+          "acceptableAnswers": [
+            "Strauss",
+            "The Strauss"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Richard Strauss' Also Sprach Zarathustra, this two-syllable word describes the introductory fanfare used in the piece. This part of the piece was famously used in Kubrick's 2001: A Space Odyssey. A symphony named after this word was composed by Haydn.",
+          "answer": "Sunrise",
+          "acceptableAnswers": [
+            "Sunrise",
+            "The Sunrise"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The father of the Strauss', Johann Strauss the Elder, composed a famous waltz of this name. This march was named after an Austrian field marshal and has become a pseudo-national anthem of Austria.",
+          "answer": "Radetzky March",
+          "acceptableAnswers": [
+            "Radetzky March",
+            "The Radetzky March"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about a musical surname for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31c89"
+    },
+    {
+      "id": "e7ec5ac3-7276-4430-bd85-d4c667258df8",
+      "linkedTossupId": "ec3ead5a-44b6-4fef-a02d-ffc3f578c9ae",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this organic compound containing a carbonyl group bounded to two carbon atoms. A Tollens reagent distinguishes them from aldehydes.",
+          "answer": "ketone",
+          "acceptableAnswers": [
+            "ketone",
+            "The ketone"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A positive result in the Tollens test produces a \"mirror\" of this element.",
+          "answer": "silver",
+          "acceptableAnswers": [
+            "silver",
+            "The silver"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This method uses a ketone and a metyhl vinyl ketone to form a cyclohexane ring through a Michael addition. The Wichterle modification modifies this reaction and the second step can be replaced with Dieckmann condensation.",
+          "answer": "Robinson annulation",
+          "acceptableAnswers": [
+            "Robinson annulation",
+            "The Robinson annulation"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Varieties of this compound include the Wieland-Miescher type. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0c87c"
+    },
+    {
+      "id": "2ac9a076-3b8e-4149-a73a-2f6881003e2f",
+      "linkedTossupId": "d5444f00-af4e-4998-a0a8-4ca904cb6753",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this novel set entirely on June 16, 1904. Its last chapter is a soliloquy delivered by an opera singer who is having an affair with Blazes Boylan.",
+          "answer": "Ulysses",
+          "acceptableAnswers": [
+            "Ulysses",
+            "The Ulysses"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ulysses was written by this man, who also wrote about Stephen Dedalus growing up and leaving Ireland for France in his novel A Portrait of the Artist as a Young Man.",
+          "answer": "Joyce",
+          "acceptableAnswers": [
+            "Joyce",
+            "The Joyce"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In her soliloquy, Molly Bloom repeats this word many times while recalling how Leopold \"kissed me under the Moorish wall.\" This is the very last word in Ulysses.",
+          "answer": "Yes",
+          "acceptableAnswers": [
+            "Yes",
+            "The Yes"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "At the end of this novel's section \"Calypso,\" a man poops while reading from a literary journal, and wipes his butt with a page from a prize-winning story. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a4dce"
+    },
+    {
+      "id": "53ca7d6d-ed15-47ea-8ac1-7e8f462f8f06",
+      "linkedTossupId": "e5eda045-df0b-43ec-88ad-b53c38a1b096",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with platelets and clotting.",
+          "answer": "erythrocyte",
+          "acceptableAnswers": [
+            "erythrocyte"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the erythrocyte in the cardiovascular system?",
+          "answer": "Platelets and clotting",
+          "acceptableAnswers": [
+            "Platelets and clotting"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to platelets and clotting.",
+          "answer": "leukocyte",
+          "acceptableAnswers": [
+            "leukocyte"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "7c6f156f-ced0-4dd5-91db-7108581df231",
+      "linkedTossupId": "f6bd0f95-a0cf-46d7-8c16-10d468b4633c",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this collection which includes \"Is my team ploughing?\" The speaker of a different poem in this collection recounts how a wise man once gave him the advice, \"Give crowns and pounds and guineas; but not your heart away.\"",
+          "answer": "Shropshire Lad",
+          "acceptableAnswers": [
+            "Shropshire Lad",
+            "The Shropshire Lad"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The opening poem of A. E. Housman's collection A Shropshire Lad is \"1887,\" which is titled for the year of the Golden Jubilee, or the 50th anniversary, of this monarch's accession to the British throne.",
+          "answer": "Victoria",
+          "acceptableAnswers": [
+            "Victoria",
+            "Alexandrina Victoria",
+            "The Victoria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author's poem \"Recessional\" was written for the Diamond Jubilee, or the 60th anniversary, of Queen Victoria. In another poem, this author tells the addressee how they can have the \"Earth and everything that's in it\" and \"be a Man, my son!\"",
+          "answer": "Kipling",
+          "acceptableAnswers": [
+            "Kipling",
+            "Joseph Rudyard Kipling",
+            "The Kipling"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The deceased speaker of a poem in this collection asks his former friend a series of questions, only to learn that his friend \"cheers\" the speaker's \"sweetheart.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f2d45f2ad3e45a654f2c6f"
+    },
+    {
+      "id": "a09dfd36-6b17-41c3-8554-f157903c6107",
+      "linkedTossupId": "46c94b93-81e8-41a5-8e88-941897fb59f5",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with nasal cavity and sinuses.",
+          "answer": "pharynx",
+          "acceptableAnswers": [
+            "pharynx"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the pharynx in the respiratory system?",
+          "answer": "Nasal cavity and sinuses",
+          "acceptableAnswers": [
+            "Nasal cavity and sinuses"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to nasal cavity and sinuses.",
+          "answer": "larynx",
+          "acceptableAnswers": [
+            "larynx"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "3dc4add5-d8e4-4a4a-b687-1bb609908e14",
+      "linkedTossupId": "4ff69e1c-b11c-4e93-90a4-8400b9beea47",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with epidermis structure.",
+          "answer": "epidermis",
+          "acceptableAnswers": [
+            "epidermis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the epidermis in the integumentary system?",
+          "answer": "Epidermis structure",
+          "acceptableAnswers": [
+            "Epidermis structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the integumentary system related to epidermis structure.",
+          "answer": "dermis",
+          "acceptableAnswers": [
+            "dermis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human integumentary system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "843ebcd6-a841-42d7-ad1d-1d59ea5a431c",
+      "linkedTossupId": "3af46945-be08-455b-85d3-5a10dfd0910b",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this conflict which also featured the participation of the Mackenzie-Papineau Battalion and the Abraham Lincoln Brigade.",
+          "answer": "Spanish Civil War",
+          "acceptableAnswers": [
+            "Spanish Civil War",
+            "The Spanish Civil War"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This victor of the Spanish Civil War seized power and combined the Falange with Carlism. He ruled as dictator of Spain for the next 36 years.",
+          "answer": "Franco",
+          "acceptableAnswers": [
+            "Franco",
+            "The Franco"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Carlism was founded in the 1830s to oppose the succession of this queen to the Spanish throne. She was eventually deposed in the Spanish Glorious Revolution and replaced with Amadeo of Savoy.",
+          "answer": "Isabella II",
+          "acceptableAnswers": [
+            "Isabella II",
+            "Isabella",
+            "The Isabella II"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "During this war, Emilio Mola coined the term \"fifth column\" to describe secret opponents of the government. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c32063"
+    },
+    {
+      "id": "c5879352-73f8-4bca-9539-6d0b30e04385",
+      "linkedTossupId": "d4ef74a4-9048-44a4-8e5f-8591521cdc3a",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this naturalist playwright of The Heart of Maryland and The Girl of the Golden West .",
+          "answer": "Belasco",
+          "acceptableAnswers": [
+            "Belasco",
+            "The Belasco"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Craig Timberlake wrote a 1954 biography of Belasco titled The Bishop of [this place] . The Belasco Theater is one of 41 theatres named for this road in New York.",
+          "answer": "Broadway",
+          "acceptableAnswers": [
+            "Broadway",
+            "The Bishop of Broadway",
+            "The Broadway"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Belasco, like Stanley McCandless, was a pioneer of this aspect of stage design, which can be controlled using \"gobos\" and \"barn doors.\"",
+          "answer": "light",
+          "acceptableAnswers": [
+            "light",
+            "stage light s",
+            "theatre light ing",
+            "theatre illumination",
+            "any answer indicating artificial light",
+            "similar answers",
+            "The light"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "While operating the Republic Theater, this director borrowed genuine fittings from a Childs Restaurant to use onstage for Alice Bradley's play The Governor's Lady . For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65286b1b7947fb17d9374fd8"
+    },
+    {
+      "id": "63372229-091b-4de5-8d29-b9b2fc0585d0",
+      "linkedTossupId": "fc7d9e48-1d73-47ab-a6eb-abd2dee529d8",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this location, home to a structure that is the namesake of that poet's collection The Bridge. An earlier poet wrote in one poem about \"Crossing [this place] Ferry.\"",
+          "answer": "Brooklyn",
+          "acceptableAnswers": [
+            "Brooklyn",
+            "“To Brooklyn Bridge”",
+            "“Crossing Brooklyn Ferry”",
+            "The Brooklyn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Bridge, thought to have been written in response to T. S. Eliot's The Waste Land, is the magnum opus of this American modernist poet who also wrote \"The Broken Tower.\"",
+          "answer": "Crane",
+          "acceptableAnswers": [
+            "Crane",
+            "The Crane"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Crossing Brooklyn Ferry\" was written by this poet, a longtime Brooklyn resident like Crane. Many of his poems, including \"Song of Myself,\" were collected in Leaves of Grass.",
+          "answer": "Whitman",
+          "acceptableAnswers": [
+            "Whitman",
+            "The Whitman"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Regarding an iconic structure in this place, one poet wrote \"again the traffic lights that skim thy swift / unfractionated idiom, immaculate sigh of stars / beading thy path-condense eternity.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0adb3c"
+    },
+    {
+      "id": "4e61645c-7f77-42f9-b4c4-f5c1ed361f4a",
+      "linkedTossupId": "aecfd88f-d0e3-42d0-90c8-4463a95492e0",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel in which the protagonist travels into the future and discovers two more living races, the Eloi and the Morlocks.",
+          "answer": "Time Machine",
+          "acceptableAnswers": [
+            "Time Machine",
+            "The Time Machine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Time Machine was written by this author who also wrote The War of the Worlds.",
+          "answer": "Wells",
+          "acceptableAnswers": [
+            "Wells",
+            "Herbert George Wells",
+            "The Wells"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This work by Wells depicts half-human and half-animal creatures who attack the protagonist Prendick on the title location.",
+          "answer": "Island of Dr. Moreau",
+          "acceptableAnswers": [
+            "Island of Dr. Moreau",
+            "The Island of Dr. Moreau"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Early in this novel, the protagonist thinks the title object is hidden by a race of nonhuman creatures which live underground. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0a16"
+    },
+    {
+      "id": "54a7338f-8d66-4be3-a31c-d53df2c7de2c",
+      "linkedTossupId": "5318b18d-3af2-42dc-91d8-105089dc69c4",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this kingdom whose ruler Cadwaladr adopted a red dragon emblem. Gruffydd (\"griffith\") ap Llywelyn (\"hluh-WEL-in\") inherited Powys (\"POH-iss\") and this kingdom and briefly united Wales by conquering Gwent, Morgannwg (\"mawr-GAH-nug\"), and Deheubarth (\"deh-HUH-ih-barth\") to its south.",
+          "answer": "Gwynedd",
+          "acceptableAnswers": [
+            "Gwynedd",
+            "Kingdom of Gwynedd",
+            "Venedotia",
+            "Norwallia",
+            "Guynet",
+            "The Gwynedd"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gwynedd (\"GWIN-ith\") held power west of this border region's English lordships until Llywelyn the Last refused to submit to Edward I. Offa of Mercia built a dyke across this region, whose generic name refers to frontiers ruled by marquesses or margraves.",
+          "answer": "March",
+          "acceptableAnswers": [
+            "March",
+            "Y Mers",
+            "Marchia Walliae",
+            "accept Welsh marchlands",
+            "accept Marcher Lords",
+            "Barwn y Mers",
+            "accept marks",
+            "The March"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the Anglo-Scottish Marches, officers with this title deterred raids by border reivers. \"Guardian\" is a cognate of this rough synonym of \"keeper,\" which now refers to rangers who protect game and the heads of prisons.",
+          "answer": "warden",
+          "acceptableAnswers": [
+            "warden",
+            "prison warden",
+            "game warden",
+            "Lord Warden of the Marches",
+            "The warden"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The poem Y Gododdin (\"uh gaw-DAW-thin\") reports the defense of Yr Hen Ogledd (\"er hain AW-gleth\") by warriors from this kingdom, whose Princess Gwenllian galvanized the Great Revolt of 1136. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423d31"
+    },
+    {
+      "id": "cfab7881-9b3f-4511-8964-0141ba33be56",
+      "linkedTossupId": "96926d06-26db-4fcc-a880-5cf2926b9373",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify these extreme weather events. The Saffir-Simpson scale is used to classify these events based on their wind speed, and they are divided into 5 categories.",
+          "answer": "hurricane",
+          "acceptableAnswers": [
+            "hurricane",
+            "typhoons",
+            "tropical storms",
+            "tropical cyclones",
+            "The hurricane"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This region of a hurricane is usually the calmest region of the hurricane. A namesake \"wall\" around this region protects it from the strongest winds of the storm.",
+          "answer": "eye",
+          "acceptableAnswers": [
+            "eye",
+            "The eye"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hurricanes rotate in different directions in different hemispheres as a result of this effect. Contrary to popular belief, it does not cause toilets to flush in opposite directions.",
+          "answer": "Coriolis",
+          "acceptableAnswers": [
+            "Coriolis",
+            "The Coriolis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The stadium effect occurs near one region of these events. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6edb4"
+    },
+    {
+      "id": "27f0107c-fb18-4807-9b10-e08891f46751",
+      "linkedTossupId": "61de27be-0078-4054-bb78-070a4a7861cc",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this drama in which the title ruler fights against the French and encourages his men by saying \"Once more into the breach, dear friends,\" as well as calling them a \"band of brothers\" in his St. Crispin's Day speech.",
+          "answer": "Henry V",
+          "acceptableAnswers": [
+            "Henry V",
+            "The Cronicle History of Henry the Fifth",
+            "The Life of Henry the Fifth",
+            "The Henry V"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Henry V was written by this British playwright, who despite what hipster authorship cranks might have to say, wrote other plays about rulers, such as Richard III and King Lear.",
+          "answer": "Shakespeare",
+          "acceptableAnswers": [
+            "Shakespeare",
+            "the Bard",
+            "The Shakespeare"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Shakespeare character is not a ruler, but a lord who gives away money and throws big banquets. When his money runs out, he discovers he has false friends and becomes a vengeful hermit. One of his friends is a soldier who also becomes vengeful named Alcibiades.",
+          "answer": "Timon",
+          "acceptableAnswers": [
+            "Timon",
+            "Timon of Athens",
+            "The Timon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This play begins with the Chorus calling for a \"Muse of fire.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da6a1"
+    }
+  ]
+}

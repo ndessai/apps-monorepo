@@ -1,0 +1,1175 @@
+{
+  "packetId": "packet-112",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "Literature",
+    "History",
+    "Fine Arts",
+    "Philosophy",
+    "Human Body",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "9350d2ae-23f6-4f74-bb04-a99032bd7a21",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "The energy levels of these transitions are plotted on a Birge-Sponer plot, and in one type of spectroscopy, the Q branch involves only transitions of this type. In 2014, experiments with bromine and muonium indicated the existence of a new namesake kind of bond occurring when atoms are held together by this type of interaction. During electronic transitions, the Franck-Condon principle concerns the probability of one of these transitions. The heat capacity of diatomic molecules is often only five-halves Boltzmann's constant instead of seven-halves at room temperature because these modes freeze out before other degrees of freedom. Nonlinear diatomic molecules with n atoms have 3n minus 6 of these modes but linear ones have 3n minus 5, and the absorptions of these excitations can be measured in IR spectroscopy. For 10 points, name this process in which molecules move back and forth.",
+      "powerMarkPosition": 496,
+      "answer": "vibration",
+      "acceptableAnswers": [
+        "vibration",
+        "word forms like vibrational",
+        "anti-prompt on “stretching”",
+        "do not accept “vibronic”",
+        "The vibration"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d621"
+    },
+    {
+      "id": "88b5f4b7-f122-4272-8960-51552dead25e",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "Incorrect synthesis of this organelle has been proposed as a possible cause of North American Indian childhood cirrhosis. This organelle's function is inhibited by anisomycin. The protein eIF2 binds GTP and a methionine-appended molecule form a trimer that binds to this organelle. In prokaryote, the Shine-Dalgarno sequence allows mRNA to be fed into this organelle. This organelle's eukaryotic 40S and 60S subunits separate once a stop codon is reached in this organelle's A site and tRNA can no longer bind, releasing a complete polypeptide. For 10 points, name this organelle often found attached to the rough endoplasmic reticulum, the site of translation.",
+      "powerMarkPosition": 331,
+      "answer": "ribosome",
+      "acceptableAnswers": [
+        "ribosome",
+        "small subunit processome",
+        "SSU processome before “anisomycin” is read",
+        "accept 40S subunit before it is read",
+        "The ribosome"
+      ],
+      "source": "qbreader",
+      "sourceId": "62edba2365d377e2cebbd0da"
+    },
+    {
+      "id": "d64aadc7-3f2f-44eb-945b-6ae0f10acefb",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "This man denounced Lord Elgin in one poem and satirized Robert Southey's elegy to George III in another. In addition to \"The Curse of Minerva\" and The Vision of Judgment, this poet created an English nobleman who is shocked by the cruelty of bullfighting in Spain before falling in love with Julia on the banks of the Rhine. This poet also wrote a poem in which the protagonist is sold as a slave to the sultana after his capture by Haidee's father and is easily seduced by women. For 10 points, name this English poet of Childe Harold's Pilgrimage and Don Juan who died fighting in the Greek War of Independence.",
+      "powerMarkPosition": 324,
+      "answer": "Byron",
+      "acceptableAnswers": [
+        "Byron",
+        "George Gordon",
+        "The Byron"
+      ],
+      "source": "qbreader",
+      "sourceId": "657fd7d3de6df0163bbe397f"
+    },
+    {
+      "id": "4c0d1e3a-26d7-4fef-a980-5182b2fb28bd",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "This person's spouse wrote the novel Ghosts of Manhattan about a Bear Sterns bond trader. Thatcher, Yardley, and Yates are the children of Douglas Brunt and this person, who was formerly a trial lawyer. This former host of the show America Live from 2010 to 2013 believes pepper spray is a \"food product\" and once declared \"For all you kids watching at home, Santa just is white.\" This person had \"blood coming out of her eyes...blood coming out of her whatever\" according to Donald Trump, who was asked tough questions by this woman during a 2015 debate. For 10 points, name this woman whose namesake File airs on Fox News weeknights at 9 PM.",
+      "powerMarkPosition": 555,
+      "answer": "Kelly",
+      "acceptableAnswers": [
+        "Kelly",
+        "The Kelly"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0ca71"
+    },
+    {
+      "id": "3dd0ce44-6367-4378-8eb6-0212e0bcf1f0",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "This system was transplanted to Britain due to the recommendations of the Northcote-Trevelyan report, and so-called \"mean\" people were barred from participating in this process. The winner of this process stood directly underneath the statue of a turtle at the ceremony afterwards, and those that succeeded at the district level were exempt from corporal punishment. Those who managed to get through this process could wear a badge containing a crane or pheasant on their clothing, and the submissions were recopied so that handwriting was not recognizable. It superseded the nine-rank system, and the eight-legged essay was an outgrowth of it. An attempt to modernize it was part of the Hundred Days reform, and it focused on the \"Six Arts\", \"Five Studies\", and rote memorization of the Confucian classics. For 10 points, name this ancient Chinese testing system by which civil servants were selected.",
+      "powerMarkPosition": 506,
+      "answer": "Examination",
+      "acceptableAnswers": [
+        "Examination",
+        "Literally Anything in Chinese sounding like keju",
+        "accept equivalents",
+        "accept anything related to China and “civil service” before mention",
+        "The Examination"
+      ],
+      "source": "qbreader",
+      "sourceId": "646912af2e8fbb82d5768bba"
+    },
+    {
+      "id": "c2be2d49-b644-4806-9c5f-08891e8ee989",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "The U.S. Naval Observatory is the official residence for holders of this office, which Spiro Agnew resigned when he was charged with tax fraud. This post was vacant during the administrations of John Tyler and Millard Fillmore, who both became President after they held this post. Ties in the U.S. Senate are broken by, for 10 points, what executive branch post recently held by Dick Cheney?",
+      "powerMarkPosition": 243,
+      "answer": "Vice President",
+      "acceptableAnswers": [
+        "Vice President",
+        "The Vice President"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c4d3"
+    },
+    {
+      "id": "aca9b278-da15-48a0-965f-93ffb9c1ddec",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "A device developed by Cohen and Moerner called the ABEL trap counteracts this phenomenon by means of electrokinetic feedback. A generalization of this process to situations of non-zero fluid velocity was developed by Kraichnan to investigate the passive scalars problem. It is possible to compute the Boltzmann constant from this process by multiplying the mass by the diffusivity and dividing by the product of temperature and relaxation time. This Wiener process is described by an equation that models the evolution of particle position distributions under the influence of drag and stochastic noise; that special form of the Fokker-Planck equation is the Smoluchowski equation. The mean square displacement of this process is given by twice the diffusion constant times the elapsed time. For 10 points, identify this process first elucidated in 1905 by Einstein, the random walk of a particle in a viscous fluid.",
+      "powerMarkPosition": 456,
+      "answer": "Brownian motion",
+      "acceptableAnswers": [
+        "Brownian motion",
+        "The Brownian motion"
+      ],
+      "source": "qbreader",
+      "sourceId": "639f76b696d8b354e96b5b5d"
+    },
+    {
+      "id": "dcf4054f-bdec-436f-86e7-e2bb9253ec57",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "A historian with this [emphasize]maiden name wrote the paper \"Gender: A Useful Category of Historical Analysis\" and was the mother of longtime chief New York Times film critic A. O. Scott. Marilyn Monroe sometimes babysat the children of an actor with this surname who played the tow trucker Guido in her last movie, The Misfits. An actor with this surname often refused film roles to co-star with his wife Anne Jackson in plays by the writer of his debut film Baby Doll, Tennessee Williams. An actor with this surname nearly died three times on the set of a film in which he improvised the line \"when you have to shoot, shoot; don't talk.\" A freeze-frame introduces that actor with this surname breaking through a saloon window with meat in one hand and a gun in the other. For 10 points, give this surname of the Jewish actor who played Tuco in The Good, the Bad, and the Ugly.",
+      "powerMarkPosition": 471,
+      "answer": "Wallach",
+      "acceptableAnswers": [
+        "Wallach",
+        "Eli Wallach",
+        "Eli Herschel Wallach",
+        "Joan Wallach Scott",
+        "The Wallach"
+      ],
+      "source": "qbreader",
+      "sourceId": "694f300d81a87f0629b4ac0a"
+    },
+    {
+      "id": "4f25fd88-2dba-4533-b219-e6722eb66d8a",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "text": "The term for this concept first appears in a paragraph equating its voice with \"a table of excellencies [that] hangs over every people\" in the chapter \"1,001 Goals.\" Mazzino Montinari is most famous for denouncing a text titled for this concept as a forgery; the closing lines of that book exclaim \"this world is [this concept]-and nothing besides! And you yourselves are also this [this concept]-and nothing besides!\" Walter Kaufmann opposes the metaphysical interpretation of this doctrine by holding that it is \"first and foremost...a psychological hypothesis.\" The literary remains, or Nachlass, of a philosopher were collected into a book titled for this concept by his sister Elisabeth Förster. This concept was inspired by an analogous force directed toward life described in the work of Arthur Schopenhauer. For 10 points, name this key concept of Nietzsche's philosophy, a universal drive towards positions of dominance.",
+      "powerMarkPosition": 348,
+      "answer": "will",
+      "acceptableAnswers": [
+        "will",
+        "der wille zur macht",
+        "prompt on will",
+        "The will"
+      ],
+      "source": "qbreader",
+      "sourceId": "6361e01fec1ecd3e795a42e7"
+    },
+    {
+      "id": "57b8b057-727c-442f-9a23-e9d653014db3",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for cranial nerves. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this cranial nerve-related structure.",
+      "powerMarkPosition": 78,
+      "answer": "Cranial nerve",
+      "acceptableAnswers": [
+        "cranial nerve",
+        "Cranial nerve"
+      ],
+      "explanation": "The cranial nerve is a key component of the Nervous system, involved in cranial nerves.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "da148582-3946-4a7f-afff-547622bad50e",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "One of these elements is more stable with a half-filled lower-energy shell than a partially-filled higher-energy shell, so it violates the Aufbau principle. Many of these elements are paramagnetic, most have multiple oxidation states, and they include the lanthanides and actinides. Groups 3 through 12 are, for 10 points, what f- and d-block elements, which are shown in the middle of the periodic table?",
+      "powerMarkPosition": 183,
+      "answer": "transition metal",
+      "acceptableAnswers": [
+        "transition metal",
+        "The transition metal"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e9a0924256318acb21"
+    },
+    {
+      "id": "b336d9c1-dafb-43c1-93fb-9736acf313dc",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "This poet was inspired by an incident in which Assia Wevill (\"WEV-ill\") pretended to be a man on the telephone to write the line, \"The black telephone's off at the root, / The voices just can't worm through.\" A poem by this author lists \"A cake of soap, / A wedding ring, / A gold filling\" and says \"they had to pick the worms off me like sticky pearls.\" That poem by this author ends, \"Out of the ash / I rise with my red hair / And I eat men like air.\" This poet's description of \"a man in black with a Meinkampf look\" alludes to Ted Hughes, who reordered the poems in her collection Ariel. For 10 points, name this Confessional poet who wrote about Esther Greenwood in The Bell Jar.",
+      "powerMarkPosition": 592,
+      "answer": "Plath",
+      "acceptableAnswers": [
+        "Plath",
+        "Victoria Lucas",
+        "The Plath"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff852"
+    },
+    {
+      "id": "07fbfc5e-04cb-4538-a766-d868dcf8f45d",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "Along with zinc amalgam, this substance acts as the catalyst in the Clemmensen reduction, and it reacts with all metals except for mercury and the coinage metals. It is used as a production agent for PVC and a stimulant for oil production in rock formations. This substance is commonly used as a neutralizing agent of sodium hydroxide during titrations, producing water and sodium chloride as a result. For 10 points, identify this acid that also makes up the majority of the gastric juices found in the human stomach.",
+      "powerMarkPosition": 162,
+      "answer": "hydrochloric",
+      "acceptableAnswers": [
+        "hydrochloric",
+        "hydrogen chloride before the word “acid”",
+        "accept HCl",
+        "The hydrochloric"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0eb3"
+    },
+    {
+      "id": "d796ddfa-c213-4049-be8b-f9f965529e3d",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "This man bizarrely claimed that his 1993 performance of Mendelssohn's violin concerto in Winston-Salem was to show that he was \"not anti-Semitic.\" This man gained his early influence by recording the song \"Back to Back, Belly to Belly\" while performing as \"The Charmer,\" as well as authoring and directing popular plays such as Orgena, and The Trial. In 2010, he called on those following him to undergo an \"audit\" and subscribe to dianetics, despite not syncretizing his faith with scientology. This man started the newspaper The Final Call to spread the word of Wallace Fard. A sermon by this man delivered at the Mosque Maryam in Chicago states that God's intention is the \"total destruction of America,\" which will be brought about by the Mother Plane. This leader organized and was the keynote speaker of the 1995 Million Man March. For 10 points, name this current leader of the Nation of Islam.",
+      "powerMarkPosition": 350,
+      "answer": "Farrakhan",
+      "acceptableAnswers": [
+        "Farrakhan",
+        "Louis Eugene Wolcott",
+        "prompt on Louis X",
+        "do not accept",
+        "prompt on “Louis”",
+        "The Farrakhan"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df3a4b1c64d9772f738b59"
+    },
+    {
+      "id": "33220746-3b90-45cb-8dd0-03f706700c25",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "A blind man known by this surname travels to his cousin Hunter's estancia with his wife María Iribarne (ee-ree-BAR-nay) in Ernesto Sabato's novel The Tunnel. Father Urrutia (oo-ROO-tee-ah) describes the overthrow of a man with this surname in a novel titled By Night In its author's country. An author with this surname created a character who sells clay figurines in Canada and described how porphyria (por-FEER-ee-uh) complications led to a daughter's coma in the memoir Paula. In a novel by an author with this surname, a woman flees Count Jean de Satigny (ZHAHN duh SAT-in-yee), who revealed her relationship with Pedro Tercero (tair-SAIR-oh). In that novel by an author with this surname, poison kills the green-haired Rosa the Beautiful before Esteban can marry her, as predicted by the clairvoyant Clara del Valle (VAH-yay). For 10 points, give this surname of the author who created the Trueba (troo-AY-bah) family in The House of the Spirits.",
+      "powerMarkPosition": 479,
+      "answer": "Allende",
+      "acceptableAnswers": [
+        "Allende",
+        "Salvador Allende",
+        "Isabel Allende",
+        "The Allende"
+      ],
+      "source": "qbreader",
+      "sourceId": "6334baae3df8739d684ba9fe"
+    },
+    {
+      "id": "81d42e1c-445e-47e9-9b33-b2e13282348f",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "In this literary work, a bank worker angrily throws apples at his son until one becomes lodged in his back. Three boarders refuse to pay their rent in this work after they are interrupted while listening to Grete play her violin. This work's protagonist wakes up one morning to discover that he is late to his job as a traveling salesman and that he suddenly has a segmented belly and many thin legs. For 10 points, name this novella about Gregor Samsa's transformation into an enormous insect-like animal, written by Franz Kafka.",
+      "powerMarkPosition": 221,
+      "answer": "Metamorphosis",
+      "acceptableAnswers": [
+        "Metamorphosis",
+        "The Metamorphosis"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc005180"
+    },
+    {
+      "id": "b8d60d8c-89cb-46f1-beaa-b43a1e55620b",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "This quantity is multiplied by epsilon and path length to find absorbance in Beer's Law. The form of the equilibrium constant associated with this quantity equals the pressure constant over R-T to the delta-N. This quantity is denoted by square brackets for one species in a chemical reaction. The pH of strong acids can be found by taking the negative log of this quantity of the acid, and water osmoses from low to high solvent values of this quantity. For 10 points, name this chemical quantity often expressed as molarity.",
+      "powerMarkPosition": 237,
+      "answer": "concentration",
+      "acceptableAnswers": [
+        "concentration",
+        "“molarity” before mention",
+        "do not accept",
+        "prompt on “molality”",
+        "The concentration"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a4d585770cd7127f7dacac"
+    },
+    {
+      "id": "389a10c1-9a6d-46e0-aae4-f4013f77cbe4",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "Okun's law relates increases in this concept to loss of GDP, and the Beveridge curve relates it to the vacancy rate. Milton Friedman won the Nobel Prize in Economics for the development of the \"natural rate\" of this concept. The \"structural\" type of this concept is exemplified by the replacement of human labor with machines. For 10 points, what concept describes when people want to find jobs but can't?",
+      "powerMarkPosition": 305,
+      "answer": "unemployment",
+      "acceptableAnswers": [
+        "unemployment",
+        "word forms like being unemployed",
+        "accept joblessness until “jobs” is read and prompt afterwords",
+        "The unemployment"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef79cbbbb69a5263ce87"
+    },
+    {
+      "id": "44b936a2-14c4-44ce-9d58-3d9f6492abf5",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "This author wrote a novel in which Stiva [STEE-vah] witnesses the death of a railway worker and Kitty becomes ill after the protagonist begins an affair. Another novel by this author follows several families during Napoleon's invasion of Russia. Count Vronsky falls from a horse during a race in a novel by this man in which the title noblewoman throws herself under a train. For 10 points, name this author of Anna Karenina and War and Peace.",
+      "powerMarkPosition": 214,
+      "answer": "Tolstoy",
+      "acceptableAnswers": [
+        "Tolstoy",
+        "The Tolstoy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f07cea5295951080e2cc94"
+    },
+    {
+      "id": "ed2f9198-4422-41b6-a93a-57df6268776b",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "When they are wrongly accused of stealing, the cockfight enthusiast Pedro's two sons are killed by soldiers in this work, whose main plot is thrown into action when a different character is not buried in a Chinese cemetery but thrown into a lake because of heavy rain. Its protagonist is nearly assassinated while building a school, but he is saved by a man that dies nearby Sisa on Christmas Eve, a boatman named Elias. Its protagonist returns in a different novel as \"the subversive\" Simoun the Jeweler, after we learn Captain Tiago is not the father of Maria Clara, but Damaso is. Describing the injustices that Cristosomo Ibarra suffered at the behest of Spanish friars, for 10 points, name this novel written by Jose Rizal, with a Latin title.",
+      "powerMarkPosition": 485,
+      "answer": "Noli Me Tangere",
+      "acceptableAnswers": [
+        "Noli Me Tangere",
+        "The Noli Me Tangere"
+      ],
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faafa0"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "2bc275aa-5817-4bc7-8568-a79d9d4128c0",
+      "linkedTossupId": "9350d2ae-23f6-4f74-bb04-a99032bd7a21",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this mathematician whose namesake rings satisfy the ascending chain condition on ideals.",
+          "answer": "Noether",
+          "acceptableAnswers": [
+            "Noether",
+            "Amalie Emmy Noether",
+            "accept Noetherian rings",
+            "Noether’s normalization lemma",
+            "The Noether"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Noether's normalization lemma can be used in a simple proof of this mathematician's Nullstellensatz (\"NOOL-shtell-in-zotts\"). This man names a class of function spaces used in quantum mechanics and also devised a program aiming for a finite set of axioms for all of mathematics.",
+          "answer": "Hilbert",
+          "acceptableAnswers": [
+            "Hilbert",
+            "Hilbert space",
+            "Hilbert’s Nullstellensatz",
+            "Hilbert’s program",
+            "The Hilbert"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Noether and Hilbert's works in commutative algebra were early contributions to this subject's \"algebraic\" branch. Its formulation in Euclid's Elements, which includes the parallel postulate, is consistent and complete.",
+          "answer": "geometry",
+          "acceptableAnswers": [
+            "geometry",
+            "algebraic geometry",
+            "Euclidean geometry",
+            "The geometry"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This mathematician's normalization lemma asserts that all finitely generated algebras over a field k can be represented as finitely generated modules over a polynomial ring of k. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6551b08e2c809f9dfdac1d80"
+    },
+    {
+      "id": "7e313d44-a5c3-4a47-9ef8-5cfe3f73b3a9",
+      "linkedTossupId": "88b5f4b7-f122-4272-8960-51552dead25e",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this type of system, to which model systems are often restricted because higher systems would be intractable, shared by unperturbed orbits and linear rigid rotors.",
+          "answer": "two-dimension",
+          "acceptableAnswers": [
+            "two-dimension",
+            "planar",
+            "The two-dimension"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lars Onsager solved the zero-field, two-dimensional version of this statistical mechanics model of ferromagnetism in 1944.",
+          "answer": "Ising",
+          "acceptableAnswers": [
+            "Ising",
+            "The Ising"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The solution to the one-dimensional Ising model is much easier than the two-dimensional solution because the latter undergoes one of these transformations, from ordered to disordered. The mean field theory describes this type of transformation in higher-dimension Ising models, and simpler examples include freezing and sublimation.",
+          "answer": "phase change",
+          "acceptableAnswers": [
+            "phase change",
+            "phase transitions",
+            "The phase change"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Deriving Maxwell-Boltzmann statistics from Newton's laws instead of using statistical mechanics was the first step to modeling gases in a system of this type. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da918"
+    },
+    {
+      "id": "452b259e-4352-4442-a2a7-c14fbf6c0dca",
+      "linkedTossupId": "d64aadc7-3f2f-44eb-945b-6ae0f10acefb",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this author, who depicted destitute boarding house residents in his play The Lower Depths.",
+          "answer": "Gorky",
+          "acceptableAnswers": [
+            "Gorky",
+            "Alexei Maximovich Peshkov",
+            "The Gorky"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gorky's novel The Spy: The Story of a Superfluous Man uses a term popularized by this man's novella The Diary of a Superfluous Man. This author wrote Fathers and Sons.",
+          "answer": "Turgenev",
+          "acceptableAnswers": [
+            "Turgenev",
+            "Ivan Sergeyevich Turgenev",
+            "The Turgenev"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Lower Depths ends with a character with this title informing the boarding house of the Actor's suicide. Rudolf Erich Raspe created a character with this title and the name Munchausen, whose exploits include riding a cannonball.",
+          "answer": "baron",
+          "acceptableAnswers": [
+            "baron",
+            "the Baron",
+            "Baron Munchausen"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a work by this author, the tramp Luka briefly brings hope to Vaska, but disappears after Vaska kills the landlord Kostylyov (\"cost-eel-YOFF\"). For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "666dc6c59f7c4cfdbd6784e7"
+    },
+    {
+      "id": "1cb73956-70ff-45af-942b-96fcd6a8f407",
+      "linkedTossupId": "4c0d1e3a-26d7-4fef-a980-5182b2fb28bd",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this cause, supported by such activists as Susan B. Anthony and Alice Paul. It was finally achieved in 1920 with the passage of the Nineteenth Amendment.",
+          "answer": "suffrage",
+          "acceptableAnswers": [
+            "suffrage",
+            "universal right to vote",
+            "other such synonyms",
+            "The suffrage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 1848 meeting organized by Elizabeth Cady Stanton and Lucretia Mott advocated for women's rights. At the meeting, the Declaration of Sentiments controversially supported women's suffrage.",
+          "answer": "Seneca Falls",
+          "acceptableAnswers": [
+            "Seneca Falls",
+            "The Seneca Falls"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This woman founded the Alpha Suffrage Club, one of the first black women's suffrage clubs in the U.S. She is better known for describing lynching in works such as Southern Horrors and A Red Record.",
+          "answer": "Wells",
+          "acceptableAnswers": [
+            "Wells",
+            "Ida Barnett",
+            "The Wells"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Silent Sentinels advocated for this cause by picketing in front of Woodrow Wilson's White House. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da6bd"
+    },
+    {
+      "id": "10360621-cf8c-4d41-ad54-530461a9c8b6",
+      "linkedTossupId": "3dd0ce44-6367-4378-8eb6-0212e0bcf1f0",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this city that contained a namesake altar showing the Gigantomachy. Its library was second only to that of Alexandria. In 133 BCE, it was bequeathed to Rome by its last ruler, Attalus III.",
+          "answer": "Pergamon",
+          "acceptableAnswers": [
+            "Pergamon",
+            "Pergamum",
+            "The Pergamon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Like Attalus III, Bithynia was bequeathed to Rome after the death of its last ruler, who was the fourth Bithynian king to hold this name. The second Bithynian king of this name rebuilt his capital and named it after himself.",
+          "answer": "Nicomedes",
+          "acceptableAnswers": [
+            "Nicomedes",
+            "Nicomedes II",
+            "The Nicomedes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This scholar from Pergamon documented the Antonine Plague, which is sometimes named for him. Vesalius and Harvey disproved this physician's theories on anatomy and circulation after millennia of acceptance.",
+          "answer": "Galen",
+          "acceptableAnswers": [
+            "Galen",
+            "Claudius Galenus",
+            "Galen of Pergamon",
+            "The Galen"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This city was the capital of a kingdom in Asia Minor ruled by the Attalid Dynasty. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974226f1"
+    },
+    {
+      "id": "75cc0de0-f1a4-4251-9f3c-bfce3718d425",
+      "linkedTossupId": "c2be2d49-b644-4806-9c5f-08891e8ee989",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this strip of land northeast of Egypt's Sinai Peninsula.",
+          "answer": "Gaza",
+          "acceptableAnswers": [
+            "Gaza",
+            "The Gaza"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Under Ariel Sharon, this nation disengaged from the Gaza Strip in 2005. In 2009, this nation's Prime Minister, Benjamin Netanyahu, announced conditional support for a Palestinian state bordering this nation.",
+          "answer": "Israel",
+          "acceptableAnswers": [
+            "Israel",
+            "The Israel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Israel first occupied the Gaza Strip after this short June 1967 conflict. This war began with a surprise air attack on the grounded Egyptian Air Force.",
+          "answer": "Six Day",
+          "acceptableAnswers": [
+            "Six Day",
+            "The Six Day"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Since 2007, it has been governed by Hamas, a group labeled as a terrorist organization by the United States. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e6a0924256318ac8e0"
+    },
+    {
+      "id": "1b608cc1-92ee-4c91-924c-1c676045774b",
+      "linkedTossupId": "aca9b278-da15-48a0-965f-93ffb9c1ddec",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this process that proceeds abnormally in individuals with 5-alpha reductase deficiency since they cannot synthesize DHT. The Müllerian or Wolffian ducts degenerate during this process.",
+          "answer": "sex",
+          "acceptableAnswers": [
+            "sex",
+            "sexual development",
+            "sexual determination",
+            "differentiating into a male",
+            "female",
+            "virilization",
+            "masculinization",
+            "feminization",
+            "prompt on DSD",
+            "prompt on embryonic development",
+            "prompt on differentiation",
+            "The sex"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "DHT's metabolite, 3 alpha-androstanediol, binds to this neurotransmitter's receptor. This inhibitory neurotransmitter is formed by the decarboxylation of glutamate.",
+          "answer": "GABA",
+          "acceptableAnswers": [
+            "GABA",
+            "gamma-aminobutyric acid",
+            "The GABA"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The other main metabolite of DHT, 3 beta-androstanediol, is a potent agonist of the beta type of these receptors. Activation of the alpha type of these receptors masculinizes the brain of developing rodents.",
+          "answer": "estrogen",
+          "acceptableAnswers": [
+            "estrogen",
+            "NR3A1",
+            "estrogen receptor alpha",
+            "NR3A2",
+            "estrogen receptor beta",
+            "prompt on ERs",
+            "ER alpha",
+            "ER beta",
+            "The estrogen"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Abnormalities in this process are often covered up with nonconsensual surgery at birth. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6797c22b6d78eee804a37868"
+    },
+    {
+      "id": "31270a62-a4de-4bc9-ae99-460e6e255168",
+      "linkedTossupId": "dcf4054f-bdec-436f-86e7-e2bb9253ec57",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "An A pitched at 440 hertz is played by this double reed woodwind instrument to tune the orchestra.",
+          "answer": "oboe",
+          "acceptableAnswers": [
+            "oboe",
+            "The oboe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this class of tuning system, intervals are expressed in exact ratios of small, positive integers. For example, a perfect fifth is a ratio of 3 to 2 and a perfect fourth is a ratio of 4 to 3. It is based on the harmonic series.",
+          "answer": "just intonation",
+          "acceptableAnswers": [
+            "just intonation",
+            "The just intonation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This term denotes a very small interval that arises from constructing a pitch class two different ways in just intonation. The syntonic type equals 81/80, and represents the interval between four perfect fifths and two octaves, plus a major third.",
+          "answer": "comma",
+          "acceptableAnswers": [
+            "comma",
+            "The comma"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about tuning. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "660a2cfa38190d8ac17b4528"
+    },
+    {
+      "id": "b63f268b-5676-4e03-814b-41af156531cf",
+      "linkedTossupId": "4f25fd88-2dba-4533-b219-e6722eb66d8a",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this series, started in 1995, spanning nine books. It is referred to by the title of its first book, which analyzes the power of sovereigns to define the category of \"bare life.\"",
+          "answer": "Homo Sacer",
+          "acceptableAnswers": [
+            "Homo Sacer",
+            "The Homo Sacer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Homo Sacer'smost recent volume is titled The Use of Bodies, a reference to The Use of Pleasure, the second volume of The History of Sexuality by this French author of Discipline and Punish.",
+          "answer": "Foucault",
+          "acceptableAnswers": [
+            "Foucault",
+            "Paul-Michel Foucault",
+            "The Foucault"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Agamben has argued that this concept from The History of Sexuality was already present in ancient societies. Foucault defined this concept as how states control populations by managing their bodies.",
+          "answer": "biopower",
+          "acceptableAnswers": [
+            "biopower",
+            "biopolitics",
+            "biopouvoir",
+            "biopolitique",
+            "The biopower"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This series includes an analysis of the figure of the Muselmann in death camps in the volume Remnants of Auschwitz and a history of Western monasticism titled The Highest Poverty. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6822bfc81f87396179872d6c"
+    },
+    {
+      "id": "c7cf3c12-1e2a-4ae3-8097-bc0e14c3e28f",
+      "linkedTossupId": "57b8b057-727c-442f-9a23-e9d653014db3",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with antigen presentation.",
+          "answer": "T cell",
+          "acceptableAnswers": [
+            "T cell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the T cell in the immune system?",
+          "answer": "Antigen presentation",
+          "acceptableAnswers": [
+            "Antigen presentation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to antigen presentation.",
+          "answer": "B cell",
+          "acceptableAnswers": [
+            "B cell"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ada92f81-3d8e-4d98-9167-55e0e755fdc2",
+      "linkedTossupId": "da148582-3946-4a7f-afff-547622bad50e",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this mathematical object that can be formed by giving a half turn to a strip of paper and joining the ends.",
+          "answer": "Möbius",
+          "acceptableAnswers": [
+            "Möbius",
+            "Möbius band",
+            "The Möbius"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Klein bottles and Möbius strips appear in this mathematical field which studies continuous deformations, such as a doughnut being stretched into the shape of a coffee mug.",
+          "answer": "topology",
+          "acceptableAnswers": [
+            "topology",
+            "The topology"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One problem in topology, the Banach-Tarski paradox, involves the breaking up and reassembly of one of these objects, which has a volume of four thirds pi r cubed.",
+          "answer": "sphere",
+          "acceptableAnswers": [
+            "sphere",
+            "ball",
+            "The sphere"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It has one edge and one side, and it is non-orientable. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4403a"
+    },
+    {
+      "id": "c0b3cf03-91a2-4bd3-8dba-48616430fb73",
+      "linkedTossupId": "b336d9c1-dafb-43c1-93fb-9736acf313dc",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this collection of poems by Edgar Lee Masters that catalogues the lives of the inhabitants of the title town, such as Lucinda Matlock and Fiddler Jones, through their epitaphs.",
+          "answer": "Spoon River",
+          "acceptableAnswers": [
+            "Spoon River",
+            "The Spoon River"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This first poem of Spoon River Anthology asks \"where are Elmer, Herman, Bert, Tom, and Charley...?\" and",
+          "answer": "Hill",
+          "acceptableAnswers": [
+            "Hill",
+            "The Hill"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One resident of Spoon River is named only for this belief. He claims to be \"versed in the arguments / Of the infidels\" and tells \"ye who lives in the senses\" that \"Immortality is not a gift,\" but an \"achievement.\"",
+          "answer": "atheism",
+          "acceptableAnswers": [
+            "atheism",
+            "word forms like atheist",
+            "The atheism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Poems in this collection include a supposed fragmentary epic by Jonathan Swift Somers, and another claims that \"It takes life to love life.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32f19679b6464bbdf74e2"
+    },
+    {
+      "id": "0dcc6fa0-72a9-4846-9113-106040a7e24c",
+      "linkedTossupId": "07fbfc5e-04cb-4538-a766-d868dcf8f45d",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this infectious disease, usually contracted outdoors, that is identified by its characteristic bull's-eye rash pattern.",
+          "answer": "Lyme",
+          "acceptableAnswers": [
+            "Lyme",
+            "The Lyme"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lyme disease is harbored by the deer variety of this blood-sucking organism, which can be removed using tweezers.",
+          "answer": "tick",
+          "acceptableAnswers": [
+            "tick",
+            "The tick"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ticks, rats, and mosquitoes are described by this term, an infected animal that spreads pathogens to other organisms.",
+          "answer": "vector",
+          "acceptableAnswers": [
+            "vector",
+            "The vector"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "White-tailed deer and white-footed mice are a natural reservoir of this disease. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acd0e"
+    },
+    {
+      "id": "079f57d5-43cd-470b-9dcb-3648d7187d6f",
+      "linkedTossupId": "d796ddfa-c213-4049-be8b-f9f965529e3d",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this philosopher who built on Derrida to argue that gender is not only performative but also citational in their book Bodies That Matter.",
+          "answer": "Butler",
+          "acceptableAnswers": [
+            "Butler",
+            "The Butler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In her earlier Gender Trouble, Butler argues that heterosexual gender identifications are formed primarily in response to the taboo on homosexuality and so are marked by this particular response to loss, which Freud contrasted with 'mourning'.",
+          "answer": "melancholia",
+          "acceptableAnswers": [
+            "melancholia",
+            "melancholic heterosexuality",
+            "The melancholia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Butler begins Gender Trouble by quoting this philosopher's claim that 'one is not born a woman, but rather becomes one', which appears in their book The Second Sex.",
+          "answer": "Beauvoir",
+          "acceptableAnswers": [
+            "Beauvoir",
+            "The Beauvoir"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The essay 'The Professor of Parody' accuses this philosopher of propounding a politics that 'collaborates with evil' and argues that 'women deserve better' than this philosopher. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6300226cdcc9d816c18b7730"
+    },
+    {
+      "id": "737c7581-936f-43dd-92fd-4c6dc22dc8cd",
+      "linkedTossupId": "33220746-3b90-45cb-8dd0-03f706700c25",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Jane Austen heroine, who drastically overrates her own matchmaking abilities.",
+          "answer": "Emma",
+          "acceptableAnswers": [
+            "Emma",
+            "The Emma"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Emma's matchmaking abilities focus primarily on this naive younger friend of hers, whom she tries to pair with Mr. Elton and Frank Churchill, but who eventually marries Robert Martin.",
+          "answer": "Harriet",
+          "acceptableAnswers": [
+            "Harriet",
+            "either underlined part",
+            "The Harriet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mr. Elton eventually marries Augusta, who is unable to shut up about her sister's imminent arrival with a luxury type of these items. Frank and Mrs. Weston have a misunderstanding about Mr. Perry's plan to buy one of these things.",
+          "answer": "carriage",
+          "acceptableAnswers": [
+            "carriage",
+            "barouche-landau",
+            "other equivalents",
+            "The carriage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Her creator planned to write about \"a heroine whom no one but myself will much like,\" and describes her further as \"handsome, clever and rich, with a comfortable home and happy disposition.\" For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "6414e1a1d83c2db5e169c002"
+    },
+    {
+      "id": "1fe95385-dba4-47c5-af91-5781f0b089e1",
+      "linkedTossupId": "81d42e1c-445e-47e9-9b33-b2e13282348f",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel in which the title Swiss scientist creates an eight-foot tall monster.",
+          "answer": "Frankenstein",
+          "acceptableAnswers": [
+            "Frankenstein",
+            "The Frankenstein"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Give the shared last name of Mary, the author of Frankenstein, and her husband Percy, a poet who wrote \"Ode to the West Wind\" and \"Adonais\" (ADD-oh-NAY-iss).",
+          "answer": "Shelley",
+          "acceptableAnswers": [
+            "Shelley",
+            "The Shelley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After Victor Frankenstein refuses to give the monster a companion, the monster promises to visit him after this ceremony. He makes good on his promise by strangling Elizabeth Lavenza.",
+          "answer": "wedding",
+          "acceptableAnswers": [
+            "wedding",
+            "obvious equivalents",
+            "accept “I will be with you on your wedding night”",
+            "The wedding"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Henry Clerval and the title character's brother William are both strangled in this work. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b647"
+    },
+    {
+      "id": "84e0f18d-d76b-4799-b0b7-a6ebc3da1db0",
+      "linkedTossupId": "b8d60d8c-89cb-46f1-beaa-b43a1e55620b",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Aluminum and sodium are produced in the Hall-Héroult and Castner processes by this method, the use of electrical current to drive an otherwise non-spontaneous reaction.",
+          "answer": "electrolysis",
+          "acceptableAnswers": [
+            "electrolysis",
+            "The electrolysis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Haber-Bosch process produces this compound from nitrogen and hydrogen, using an iron oxide catalyst. It is commonly used in fertilizers and cleaners.",
+          "answer": "ammonia",
+          "acceptableAnswers": [
+            "ammonia",
+            "The ammonia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ammonia is oxidized to form nitrogen dioxide, which is dissolved in water to form nitric acid, in this process named for a German chemist.",
+          "answer": "Ostwald",
+          "acceptableAnswers": [
+            "Ostwald",
+            "The Ostwald"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about chemical industrial processes, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b15bb"
+    },
+    {
+      "id": "a12888ba-c6da-4ff9-8867-5be354673657",
+      "linkedTossupId": "389a10c1-9a6d-46e0-aae4-f4013f77cbe4",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Which three words in the following sentence make up the prepositional phrase? - \"The baseball player hit a homerun into the stands.\"",
+          "answer": "into the stands",
+          "acceptableAnswers": [
+            "into the stands",
+            "The into the stands"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Spanish, some prepositions combine with other words. This word is Spanish for the phrase \"with me.\"",
+          "answer": "conmigo",
+          "acceptableAnswers": [
+            "conmigo",
+            "The conmigo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This branch of linguistics deals with the structure of sentences, such as the rules of word order",
+          "answer": "syntax",
+          "acceptableAnswers": [
+            "syntax",
+            "The syntax"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about prepositions.",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c66b"
+    },
+    {
+      "id": "bba7f8bf-9aaa-4d62-81a1-b92ca574b171",
+      "linkedTossupId": "44b936a2-14c4-44ce-9d58-3d9f6492abf5",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "In each of this poem's thirteen separate stanzas the title animal is mentioned in some fashion. Although inspired by a haiku this poem actually does not contain any haiku segments.",
+          "answer": "Thirteen Ways of Looking at a Blackbird",
+          "acceptableAnswers": [
+            "Thirteen Ways of Looking at a Blackbird",
+            "The Thirteen Ways of Looking at a Blackbird"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This poem begins with the line \"Call the roller of big cigars\" and was the most noteworthy work in the poetry collection Harmonium.",
+          "answer": "Emperor of Ice Cream”",
+          "acceptableAnswers": [
+            "Emperor of Ice Cream”",
+            "The Emperor of Ice Cream”"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of both the aforementioned works also published such material as \"The Idea of Order at Key West,\" \"Disillusionment of Ten O'Clock,\" and \"Anecdote of the Jar.\"",
+          "answer": "Stevens",
+          "acceptableAnswers": [
+            "Stevens",
+            "The Stevens"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following questions about an American poet and his works:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f09f0"
+    },
+    {
+      "id": "7a850cab-f33c-42bc-9b17-d9c8e5dcc20d",
+      "linkedTossupId": "ed2f9198-4422-41b6-a93a-57df6268776b",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this kind of fan fiction, which usually explains the meaning of Edward Denham's converation with Clara Brereton and finds a marriage partner for Sidney Parker.",
+          "answer": "ending",
+          "acceptableAnswers": [
+            "ending",
+            "The ending"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sanditon was left unfinished at the death of Jane Austen, much like this 1804 novel in which the title family's daughters are pursued by the Osbornes and Tom Musgrave.",
+          "answer": "Watsons",
+          "acceptableAnswers": [
+            "Watsons",
+            "The Watsons"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Jane Austen's complete novel Northanger Abbey, this protagonist marries Henry Tilney despite the faux pas of accusing his father of murder for no reason.",
+          "answer": "Catherine",
+          "acceptableAnswers": [
+            "Catherine",
+            "The Catherine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Marie Dobbs published writing of this kind under the pseudonym \"another lady,\" and of the hundreds of published examples of this kind of writing, the closest to an authorized one is by Anna Lefroy, who inherited the original manuscript. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63002656ea186ec68c3bd6f8"
+    }
+  ]
+}

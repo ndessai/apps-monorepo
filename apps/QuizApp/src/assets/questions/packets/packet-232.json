@@ -1,0 +1,1180 @@
+{
+  "packetId": "packet-232",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Science",
+    "Social Science",
+    "Literature",
+    "Fine Arts",
+    "Human Body",
+    "Mythology"
+  ],
+  "tossups": [
+    {
+      "id": "6e3adda5-9e71-481a-884b-6b36b6f8752f",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "In conversation with Marie-Francois Cafferelli towards the end of his life, this person claimed to have fathered 16 children between his two wives and multiple mistresses, despite being a staunch Roman Catholic. A letter written by this man was signed \"General Doctor\", and was only identified as being from him in the 1930s; this letter was addressed to the rebel slave Georges Biassou during the Boukman Rebellion. This man is quoted as saying \"In overthrowing me, you have cut down [...] only the tree trunk of liberty\" upon his arrest in 1802 by Jean-Baptiste Brunet. In his planned raid on Harper's Ferry, John Brown cited this man's work as a key influence. Born a slave in the colony of Saint-Domingue, for 10 points, which 18th-century figure was the most prominent leader of the Haitian Revolution?",
+      "powerMarkPosition": 397,
+      "answer": "L’Ouverture",
+      "acceptableAnswers": [
+        "L’Ouverture",
+        "The L’Ouverture"
+      ],
+      "source": "qbreader",
+      "sourceId": "6504ab679ee6e14c2d0e41a0"
+    },
+    {
+      "id": "064c429f-f558-4bc1-be01-ad6eecbfd194",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "This activity names a tentative World Heritage Site at a counterpart of Mayumba in the former Vili Kingdom of Loango. F. F. de Souza (\"jee SOH-zuh\") briefly revitalized this declining activity under King Gezo (\"GAY-zoh\"), as attested by records of palm oil from Ouidah (\"WEE-duh\") in a former Oyo tributary. Nominal opposition to this activity led the French navy to hire Mpongwe (\"mm-PAWNG-way\") craftsmen to build the modern-day capital of Gabon (\"gah-BONE\"). 2019's \"Year of Return\" memorialized this activity, whose supposed hub at a \"house\" with a feared \"door\" was fabricated by Boubacar Joseph Ndiaye (\"boo-bah-CAR zho-ZEFF nn-d'YAI\") on Gorée (\"go-RAY\") Island. Europeans exaggerated Dahomey's (\"duh-HOH-mee's\") primacy in this activity, whose 1807 British prohibition was achieved by activists like Olaudah Equiano (\"uh-LAO-duh eh-quee-AH-no\"). For 10 points, what activity based in the Bights of Biafra and Benin transported millions through the Middle Passage?",
+      "powerMarkPosition": 669,
+      "answer": "slave",
+      "acceptableAnswers": [
+        "slave",
+        "enslavement",
+        "slavery",
+        "forced labor",
+        "equivalents",
+        "accept transatlantic slave trade",
+        "accept Slave Trade Act 1807",
+        "accept “Slave Coast”",
+        "accept “House of Slaves”",
+        "“Maison des Esclaves”",
+        "accept Loango Slavery Harbor",
+        "prompt on trade",
+        "export",
+        "sales",
+        "harbors",
+        "ports",
+        "similar by asking “what specific activity with an economic component?”",
+        "The slave"
+      ],
+      "source": "qbreader",
+      "sourceId": "63682fe4906588de785563b5"
+    },
+    {
+      "id": "ec1c90bf-1bfe-4d47-bb0b-65f1d7d9b2cc",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "The losses in these types of materials depend only on the power factor as long as applied voltage and frequency are constant, and result due to the fact that current does not lead voltage by exactly 90 degrees. This term describes a type of heating that occurs in materials such as thermosetting glue that are subjected to a high-frequency field, and if the polarizability of a material is known, the Clausius-Mosotti relation allows the calculation of this type of constant. Intrinsic, thermal, and discharge are all types of a namesake \"breakdown\" which occurs in these materials. Referring to materials characterized by the property of capacitance, for 10 points, identify this general term for insulators wedged into a capacitor.",
+      "powerMarkPosition": 475,
+      "answer": "dielectric",
+      "acceptableAnswers": [
+        "dielectric",
+        "The dielectric"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4448d"
+    },
+    {
+      "id": "5041aeda-af33-4960-8120-6d7617644b3e",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "By Okun's Law, a one percent increase in this concept leads to a two percent loss in GDP. The Phillips Curve depicts an inverse relationship between inflation and this concept, whose types include structural and frictional. Most measurements of it do not include homemakers and students, and some do not account for discouraged workers. For 10 points, what is the term for when people who want to work cannot find jobs?",
+      "powerMarkPosition": 223,
+      "answer": "unemployment",
+      "acceptableAnswers": [
+        "unemployment",
+        "word forms such as unemployed",
+        "unemployment rate",
+        "The unemployment"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec685c"
+    },
+    {
+      "id": "3c532aac-094c-47b9-909a-7eee0d51f782",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "An index named for an \"oscillation\" in this body of water is based on a pressure difference between a \"subtropical high\" and \"subpolar low.\" One region within this body of water, named for a brown seaweed, is the world's only sea with no land boundaries. That region, the Sargasso Sea, has its western boundary at a current that moves warm water across this ocean, the Gulf Stream. The mid-ocean ridge named for this ocean causes volcanic activity in Iceland. For 10 points, name this second-largest ocean, which separates Europe from North America.",
+      "powerMarkPosition": 271,
+      "answer": "Atlantic",
+      "acceptableAnswers": [
+        "Atlantic",
+        "North Atlantic Ocean",
+        "North Atlantic Oscillation",
+        "prompt on Sargasso Sea before mentioned",
+        "The Atlantic"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eeadce1032cda62a67745b"
+    },
+    {
+      "id": "2d695ce7-3a68-47f3-8822-d9fe8e330647",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "One leader of these people published the autobiography Waiting for a Visa and agreed to abandon his campaign for a separate electorate for them in the Poona Pact; that man was often called Babasaheb, and urged this group to convert to Buddhism. Special treatment for these people, who are protected by the Atrocities Act of 1989, was protested against in the anti-reservation riots of the 1980s. A 1955 act named for this group forbade restricting anyone entry to religious temples. K. R. Narayanan became the first of these people to become president in 1997, and they were called \"Children of God\" by Mahatma Gandhi. For 10 points, name these people who traditionally held jobs as fishermen and sweepers, the lowest group in India's caste system.",
+      "powerMarkPosition": 435,
+      "answer": "Dalit",
+      "acceptableAnswers": [
+        "Dalit",
+        "Scheduled Caste",
+        "Scheduled Tribe",
+        "SC/ST",
+        "Untouchables",
+        "Harijan",
+        "Panchamas",
+        "Asprushya",
+        "The Dalit"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aebb7"
+    },
+    {
+      "id": "d5e1c4c7-6f9a-4a74-a5de-966d4142af35",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "This experiment used x-rays as its radiation source to ionize air, while its namesake substance in this experiment was chosen because of its low vapor pressure. This experiment's setup allowed for an electric field to be produced in between two horizontal metal plates. Terminal velocity had to be reached for this experiment to use Stoke's Law to calculate the drag on a charged particle. For 10 points, name this experiment performed by Millikan and Fletcher to determine the size and charge of an electron.",
+      "powerMarkPosition": 332,
+      "answer": "oil drop experiment",
+      "acceptableAnswers": [
+        "oil drop experiment",
+        "The oil drop experiment"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7d11"
+    },
+    {
+      "id": "1657e75a-47cb-4323-bdda-aa63312a4337",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "Charles Dickinson scored two broken ribs by successfully doing this over a horse wager in 1806 but was killed immediately after doing it. Charles Sevier failed in an attempt to do this just after shouting, \"I know of no great service you have rendered the country, except taking a trip to Natchez with another man's wife.\" Thomas Hart Benton did this during a tavern brawl in Nashville, and another man who tried to do this believed that his target was conspiring to depress the market for house-painting. Richard Lawrence was beaten with a cane for his troubles after both of his weapons jammed, thwarting his attempt to engage in it. For 10 points, name this popular activity involving pistols and the man who twice ran against John Quincy Adams for President.",
+      "powerMarkPosition": 505,
+      "answer": "shoot",
+      "acceptableAnswers": [
+        "shoot",
+        "obvious equivalents",
+        "do not accept \"killing",
+        "assassinating Andrew Jackson\" since Charles Dickinson and Thomas Hart Benton did not do that",
+        "The shoot"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a4560791"
+    },
+    {
+      "id": "0d3d9c1a-7525-4a93-a691-c82b8f8d9d10",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "This scientist's original plans to study mice were discouraged by his bishop, leading this scientist to switch to plants instead. This man formulated the laws of segregation and independent assortment after studying properties such as purple versus white flowers and round versus wrinkled seeds in the Pisum sativum species, and for that he is often called the father of genetics. For 10 points, name this monk who is known for his work with peas.",
+      "powerMarkPosition": 380,
+      "answer": "Mendel",
+      "acceptableAnswers": [
+        "Mendel",
+        "The Mendel"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c5a6"
+    },
+    {
+      "id": "61cf6f65-cc74-4c79-b615-354265b5a20b",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "They aren't objects, but Adobe PostScript exemplifies a paradigm \"oriented\" around this data structure and evaluates expressions using this data structure. A \"trace\" of active frames on this data structure is a helpful debugging tool. Simply changing the head node upon insertions and deletions allows for a singly-linked list to implement this data structure. Like queues, the basic operations of this data structure are \"push\" and \"pop.\" The last element added to this data structure is always the first one removed, similar to how one may typically remove individual blocks from a tower of physical blocks. For 10 points, name this data structure whose \"overflow\" names a popular programming forum.",
+      "powerMarkPosition": 421,
+      "answer": "stack",
+      "acceptableAnswers": [
+        "stack",
+        "stack-oriented",
+        "stack trace",
+        "stack overflow",
+        "The stack"
+      ],
+      "source": "qbreader",
+      "sourceId": "651a2dcd5c3919082740d0be"
+    },
+    {
+      "id": "922a097b-fb7d-4bc7-a3aa-874b38732dfd",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "One rebellion in this state was caused by a state law that required voters to own at least $134 in property. One of this state's settlements was founded by a woman who ignited the Antinomian Controversy in her home colony. That rebellion was led by Thomas Wilson Dorr. The founder of this colony wrote A Key into the Language of America. This state's longest-ever serving senator founded a program of college grants for the poor. That man was Claiborne Pell. For ten points, name this colony founded by Roger Williams, the name of whose corresponding modern state is paired in its name with \"Providence Plantations\".",
+      "powerMarkPosition": 268,
+      "answer": "Rhode Island and Providence Plantations",
+      "acceptableAnswers": [
+        "Rhode Island and Providence Plantations",
+        "The Rhode Island and Providence Plantations"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a57f9"
+    },
+    {
+      "id": "749fca0a-37d6-45f0-b944-2b4e8ee235af",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "There are four possible outcomes when two of these particles enter a Hong-Ou-Mandel interferometer. These particles escape one at a time from a box in one of Einstein's thought experiments that Niels Bohr refuted. The gauge bosons include gluons, the W and Z bosons, and these particles, which are represented by wavy lines on a Feynman diagram. In pair annihilation, an electron collides with a positron to produce two of these particles, whose energy equals Planck's constant times frequency. For 10 points, name these massless particles that make up all electromagnetic radiation, including light.",
+      "powerMarkPosition": 459,
+      "answer": "photon",
+      "acceptableAnswers": [
+        "photon",
+        "The photon"
+      ],
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b88d8a"
+    },
+    {
+      "id": "36fe5ab5-6d46-4ce5-9819-054a5672028e",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "One of this author's characters writes \"It was midnight. The rain was beating on the windows,\" before narrating \"It was not midnight. It was not raining.\" In that novel by this author, a detective's son takes months to return from buying a bicycle, leaving him to madly degenerate while wandering on crutches. This author switched languages mid-career in order to write \"without style.\" A stream-of-consciousness novel by this author ends, \"You must go on. I can't go on. I'll go on.\" In a play by this author, a few leaves appear on a tree between acts despite only one day passing. This author wrote the novels The Unnameable and Molloy in French, as well as a play whose protagonists often say \"nothing to be done.\" For 10 points, name this Irish modernist who wrote about Vladimir and Estragon in Waiting for Godot.",
+      "powerMarkPosition": 439,
+      "answer": "Beckett",
+      "acceptableAnswers": [
+        "Beckett",
+        "Samuel Barclay Beckett",
+        "The Beckett"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7def2b"
+    },
+    {
+      "id": "af69f432-37de-4001-9d3d-af24667fd4e1",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "Leonard Bernstein called this composer's ninth symphony the \"anti-Ninth\" due to its humor compared to most other ninth symphonies. The six movements of this composer's last string quartet are all played adagio. Much controversy exists over the authenticity of his \"memoirs\" as related by Solomon Volkov in the book Testimony. This composer represented himself in his eighth string quartet using the notes D - E-flat - C - B, and one of his symphonies is a setting of a poem by Yevgeny Yevtushenko. He composed fifteen string quartets as well as fifteen symphonies, the seventh of which uses an ostinato which may represent Hitler's invasion. For 10 points, name this Soviet composer of the \"Leningrad\" and \"Babi Yar\" Symphonies.",
+      "powerMarkPosition": 373,
+      "answer": "Shostakovich",
+      "acceptableAnswers": [
+        "Shostakovich",
+        "The Shostakovich"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54adcae"
+    },
+    {
+      "id": "1c16aea7-9f2f-4934-a560-b93dcd31bbba",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "The values of the multiset of these things associated to the Frobenius automorphism on a field of prime power order are the roots of unity. These things are bounded by Gerschgorin circles. For a given Jordan block, the diagonal consists of one of these numbers repeated. The multiset of them associated to a linear operator is called the operator's spectrum. These quantities are either 0 or 1 for a projection operator, and are real for a self-adjoint operator. Unlike singular values, they are only defined for square matrices. These scalars are the solutions to a matrix's characteristic equation, and the product of all of them for a matrix equals the determinant. For 10 points, name these scalars that satisfy the equation \"A v equals lambda v\", and which are associated to eigenvectors.",
+      "powerMarkPosition": 270,
+      "answer": "eigenvalue",
+      "acceptableAnswers": [
+        "eigenvalue",
+        "characteristic values",
+        "prompt on “lambda”",
+        "The eigenvalue"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b764"
+    },
+    {
+      "id": "64e2994a-7f66-4f86-9816-8cbfa3f5b344",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "This man spoke against \"socialized medicine\" in a campaign dubbed \"Operation Coffee Cup.\" Before a debate, this man promised not to \"exploit\" the \"youth and inexperience\" of his fifty-six-year-old opponent. This man described a group of people as having \"Slipped the surly bonds of Earth to touch the face of God\" in one speech and endorsed Barry Goldwater in his \"A Time For Choosing\" speech. In a reelection ad, this man claimed it was \"Morning in America,\" and called upon one world leader to \"Open this gate\" in Berlin. For 10 points, name this President during the Challenger disaster, who asked Mikhail Gorbachev to \"Tear down this wall!\"",
+      "powerMarkPosition": 366,
+      "answer": "Reagan",
+      "acceptableAnswers": [
+        "Reagan",
+        "Ronald Wilson Reagan",
+        "The Reagan"
+      ],
+      "source": "qbreader",
+      "sourceId": "64c4601ce6811c453d40de41"
+    },
+    {
+      "id": "7b9ff36c-e1f3-47e3-b643-aa62d8778d2a",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "This man's crew scholar Maximilianus Transylvanus claimed his slave Enrique plotted a dinner massacre in the court of Rajah Humadon. The Loaísa expedition followed this man's voyage. The Trinidad and Victoria were two ships this man used to name the Pacific Ocean in 1521. Juan Sebastien de Cano completed this man's expedition after he was speared by the Mactan chieftain Lapu Lapu in the Philippines. This man's namesake \"Straits\" separate Tierra del Fuego from Chile. For 10 points, name this Portuguese explorer, whose crew completed the first circumnavigation of the Earth.",
+      "powerMarkPosition": 295,
+      "answer": "Magellan",
+      "acceptableAnswers": [
+        "Magellan",
+        "Fernão de Magalhães",
+        "The Magellan"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eeaca03c2fca34d39ed8e8"
+    },
+    {
+      "id": "f47db7b7-f299-4cda-895d-930c410adce6",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for spinal nerves. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this spinal cord-related structure.",
+      "powerMarkPosition": 70,
+      "answer": "Spinal cord",
+      "acceptableAnswers": [
+        "spinal cord",
+        "Spinal cord"
+      ],
+      "explanation": "The spinal cord is a key component of the Nervous system, involved in spinal nerves.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9685d4ce-d31d-48d2-acb1-cc8a356e8cae",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "The Mesopotamian god Ninkilim presides over these things, and was prayed to so that said things would not ruin a harvest. In Niuean myth, Tilalofonua is a flying one of these things. Ganesha's vaahana, or steed, is one of these creatures. These creatures are treated with utmost care at a Hindu Temple in Rajasthan. As a result, that temple, the Karni Mata Temple, is sometimes called the \"Temple of 'these creatures'\". According to a Chinese Zodiac story, a 13th animal, the cat, was tricked by one of these creatures, and failed to qualify. As a result, cats now abhor this small mammal, and are destined to chase them for eternity. For 10 points, name this rodent, the first animal to appear during the Chinese Zodiac cycle.",
+      "powerMarkPosition": 304,
+      "answer": "rats",
+      "acceptableAnswers": [
+        "rats",
+        "mouse",
+        "The rats"
+      ],
+      "source": "qbreader",
+      "sourceId": "65fa4918e210b3e07c6de7a0"
+    },
+    {
+      "id": "44b00b1c-5aa6-4a1a-9323-a48df3043c46",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "text": "One of these species forms immediately before the cyclic bromonium ion in the bromination (\"bro-min-AY-shun\") of olefins. They aren't host-guest complexes, but the Benesi-Hildebrand (\"buh-NESS-ee-HILL-duh-brand\") method was originally derived using work on these species. Mulliken (\"MULL-uh-ken\") classified these species as \"inner\" or \"outer\" based on the strength of their interaction. Bechgaard (\"BECK-guard\") salts and T·T·F-T·C·N·Q are examples of these species that act as organic superconductors. These species display both solvato·chromism and absorption bands much stronger than those of d-d transitions because their transition is both spin- and Laporte-allowed. These species are classified based on whether their namesake event occurs in a ligand-to-metal or a metal-to-ligand fashion. Starch forms one of these complexes with iodine. For 10 points, name these complexes which contain an electron donor and acceptor bound together.",
+      "powerMarkPosition": 596,
+      "answer": "charge-transfer",
+      "acceptableAnswers": [
+        "charge-transfer",
+        "CT complex",
+        "salt",
+        "electron donor-acceptor complex before mention",
+        "prompt on complex",
+        "prompt on coordination compound",
+        "The charge-transfer"
+      ],
+      "source": "qbreader",
+      "sourceId": "63a3f66ab17797e852f22cbc"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "aa8fc27d-e03d-4840-b6fb-ce03adc5e5cc",
+      "linkedTossupId": "6e3adda5-9e71-481a-884b-6b36b6f8752f",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this river which separated the historical regions of Sogdiana and Bactria. A region named for being beyond this river was north of the ancient province of Khorasan.",
+          "answer": "Oxus",
+          "acceptableAnswers": [
+            "Oxus",
+            "Amu Darya",
+            "accept Transoxiana",
+            "The Oxus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The BMAC traded with a civilization named for this other river, which mined lapis lazuli in northern Afghanistan. The first civilization of South Asia, sometimes called the Harappa, is named for this river.",
+          "answer": "Indus",
+          "acceptableAnswers": [
+            "Indus",
+            "the Indus River Valley Civilization",
+            "The Indus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "BMAC's trade with neighbours is evidenced by a cylindrical example of these objects from Elam and two made with steatite from the Indus. The main source of what could be Indus writing is found on these objects.",
+          "answer": "seal",
+          "acceptableAnswers": [
+            "seal",
+            "cylinder seals",
+            "The seal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The BMAC is sometimes called the [this river] civilization, despite the fact that most of its sites were instead found around the Margiana. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68846998641a9dc975af889d"
+    },
+    {
+      "id": "25b17a98-0cdd-4611-afdc-73a3b6547fd2",
+      "linkedTossupId": "064c429f-f558-4bc1-be01-ad6eecbfd194",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this modern-day country where an early constitution was drafted at Malolos, shortly after George Dewey arrived here with his fleet.",
+          "answer": "Philippines",
+          "acceptableAnswers": [
+            "Philippines",
+            "Republic of the Philippines",
+            "The Philippines"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "If this man had not collaborated with the Japanese during World War II, he might have been better remembered as the first president of the Philippines and a leader of the conflict against Spain and later the United States before he was captured by Frederick Funston.",
+          "answer": "Aguinaldo",
+          "acceptableAnswers": [
+            "Aguinaldo",
+            "The Aguinaldo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Aguinaldo was a member of this revolutionary society which venerated José Rizal. Amusingly, a commonly used abbreviation of their name is \"KKK,\" although that is just a coincidence.",
+          "answer": "Katipunan",
+          "acceptableAnswers": [
+            "Katipunan",
+            "Kataastaasan Kagalanggalangang Katipunan ng mga Anak ng Bayan",
+            "The Katipunan"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Mark Twain published a poem beginning with the line \"mine eyes have seen the orgy of the launching of the Sword\" as part of his criticism of American military involvement in this country. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125d23f"
+    },
+    {
+      "id": "7c5980cc-ae11-41ea-9db9-fc05361ae0e7",
+      "linkedTossupId": "ec1c90bf-1bfe-4d47-bb0b-65f1d7d9b2cc",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "One of the lowest rungs of the distance ladder is the distance between the earth and the sun, which defines this important unit.",
+          "answer": "astronomical",
+          "acceptableAnswers": [
+            "astronomical",
+            "AU",
+            "The astronomical"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "For stars within a few hundred thousand light years, one may look at the difference between absolute and apparent magnitude on an HR diagram to compute this quantity. Log of distance is one plus this quantity over five.",
+          "answer": "distance modulus",
+          "acceptableAnswers": [
+            "distance modulus",
+            "The distance modulus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "For galaxies which are too far for main sequence fitting, one can use this relation discovered by Henrietta Leavitt, which relates two quantities for Cepheid variables.",
+          "answer": "period-luminosity",
+          "acceptableAnswers": [
+            "period-luminosity",
+            "luminosity-period relation",
+            "The period-luminosity"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about calculating distances in astronomy. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32e2883e2636cb3c96322"
+    },
+    {
+      "id": "e29b8ee6-20ed-4481-ac4d-c1d094e1f29a",
+      "linkedTossupId": "5041aeda-af33-4960-8120-6d7617644b3e",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this main character of the book Hatchet.",
+          "answer": "Brian",
+          "acceptableAnswers": [
+            "Brian",
+            "The Brian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Brian later goes back into the woods with this psychologist who wants to study his survival habits.",
+          "answer": "Derek",
+          "acceptableAnswers": [
+            "Derek",
+            "The Derek"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Both Brian and Derek are characters created by this author, who also wrote the Mr. Tucket series and the book Soldier's Heart.",
+          "answer": "Paulsen",
+          "acceptableAnswers": [
+            "Paulsen",
+            "The Paulsen"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character throws away a transmitter from a crashed Cessna, but is rescued anyway. For 10 points each;",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b51f88"
+    },
+    {
+      "id": "9dbf3b8e-900f-4dd9-8b48-dabc98988d21",
+      "linkedTossupId": "3c532aac-094c-47b9-909a-7eee0d51f782",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Alfred Nobel made a fortune after inventing this explosive substance, a combination of nitroglycerin and diatomaceous [dye-ah-to-may-schuss] earth.",
+          "answer": "dynamite",
+          "acceptableAnswers": [
+            "dynamite",
+            "The dynamite"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This earliest-known chemical explosive was invented by the Chinese, and it is still found in fireworks. It is a mixture of sulfur, charcoal, and saltpeter.",
+          "answer": "gunpowder",
+          "acceptableAnswers": [
+            "gunpowder",
+            "black powder",
+            "The gunpowder"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These metals, which make up Group 1 of the periodic table, react violently when dropped in water and may even explode. Examples of these metals include sodium and lithium.",
+          "answer": "alkali",
+          "acceptableAnswers": [
+            "alkali",
+            "The alkali"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Chemistry can be explosive! For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9d10"
+    },
+    {
+      "id": "24184cde-9c18-44de-9df5-f43510eb8095",
+      "linkedTossupId": "2d695ce7-3a68-47f3-8822-d9fe8e330647",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this city home to a water tank known as the Great Bath, which was located in what is now the Sindh province in the 3rd millennium BC. The name ascribed to it by archaeologists means \"mound of the dead.\"",
+          "answer": "Mohenjo-Daro",
+          "acceptableAnswers": [
+            "Mohenjo-Daro",
+            "The Mohenjo-Daro"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Along with the Harappa site in Punjab, Mohenjo-Daro was a part of a mysterious early civilization that flourished in this river's valley. It runs through the Ladakh plateau in what's now Pakistan.",
+          "answer": "Indus",
+          "acceptableAnswers": [
+            "Indus",
+            "Indus Valley Civilization",
+            "The Indus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other site, the southernmost major uncovered city of the Indus valley civilization, is noteworthy as one of the first uncovered ports of the ancient world, from which it became a center of trade for the bead industry.",
+          "answer": "Lothal",
+          "acceptableAnswers": [
+            "Lothal",
+            "The Lothal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A massive stupa mound was built over the remains of this city, whose artifacts include a seal depicting a horned god and the four-inch-tall Dancing Girl sculpture. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54add27"
+    },
+    {
+      "id": "b25af119-55f8-45c2-b77d-343d5b6f5259",
+      "linkedTossupId": "d5e1c4c7-6f9a-4a74-a5de-966d4142af35",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "One type of velocity is known by this name, which describes the velocity needed to leave Earth's gravitational pull.",
+          "answer": "escape",
+          "acceptableAnswers": [
+            "escape",
+            "The escape"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another type of velocity is this one, which occurs when an object is falling so that gravity is the only force acting on it; in other words, the object is in free fall.",
+          "answer": "terminal",
+          "acceptableAnswers": [
+            "terminal",
+            "The terminal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In physics, a change in velocity is known by this name. In everyday language, this word usually means \"speeding up.\"",
+          "answer": "acceleration",
+          "acceptableAnswers": [
+            "acceleration",
+            "word forms",
+            "The acceleration"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about velocity, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b51f86"
+    },
+    {
+      "id": "dc8071f8-91d5-4d68-a84f-3426a74b5760",
+      "linkedTossupId": "1657e75a-47cb-4323-bdda-aa63312a4337",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Give this name whose fifth holder was the English victor at the Battle of Agincourt.",
+          "answer": "Henry",
+          "acceptableAnswers": [
+            "Henry",
+            "Henry VII",
+            "Henry II",
+            "Henry V",
+            "The Henry"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Henry V's victory at Agincourt was during this long conflict between England and France whose tide was later turned by the Maid of Orleans, Joan d'Arc.",
+          "answer": "Hundred Years’",
+          "acceptableAnswers": [
+            "Hundred Years’",
+            "The Hundred Years’"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This monarch defeated Charles the Bold of Burgundy and signed the Treaty of Picquigny, formally ending the Hundred Years' War. This monarch gained his arachnid epithet for his cunning.",
+          "answer": "Louis the Spider",
+          "acceptableAnswers": [
+            "Louis the Spider",
+            "Louis XI",
+            "Louis the Prudent",
+            "prompt on Louis",
+            "The Louis the Spider"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One king with this name was the first monarch of the House of Tudor while another was the second king of the House of Lancaster. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289cad9d"
+    },
+    {
+      "id": "69b9b2d6-935c-4540-be62-d3af478f1d2a",
+      "linkedTossupId": "0d3d9c1a-7525-4a93-a691-c82b8f8d9d10",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these organisms whose peptidoglycan (PEP-tid-oh-GLEYE-can) is broken down by lysozyme. Infections with these single-celled organisms are treated with antibiotics like penicillin, and Salmonella is an example of one.",
+          "answer": "bacteria",
+          "acceptableAnswers": [
+            "bacteria",
+            "The bacteria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lysozyme breaks down the peptidoglycan in these structures of bacteria. This rigid outer layer of cells found in bacteria, fungi, and algae is found outside of the cell membrane in plant cells, but not animal cells.",
+          "answer": "wall",
+          "acceptableAnswers": [
+            "wall",
+            "The wall"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Hershey-Chase experiment used these specific organisms to infect E. coli to show that proteins do not function as genetic material. These organisms are a specific type of viruses that infect bacteria.",
+          "answer": "bacteriophage",
+          "acceptableAnswers": [
+            "bacteriophage",
+            "phage",
+            "The bacteriophage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A compound found in these organisms consists of alternating residues of N-acetylglucosamine and N-acetylmuramic acid. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a504f1"
+    },
+    {
+      "id": "e213a57f-5190-4065-b15f-b44c9aedf681",
+      "linkedTossupId": "61cf6f65-cc74-4c79-b615-354265b5a20b",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this musical interval which separates the notes C and G.",
+          "answer": "fifth",
+          "acceptableAnswers": [
+            "fifth",
+            "The fifth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The only more stable musical interval than the perfect fifth is this other musical interval, which consists of notes that are eight spaces apart, like two different Cs.",
+          "answer": "octave",
+          "acceptableAnswers": [
+            "octave",
+            "The octave"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Give your answer in terms of a ratio, such as \"five to seven.\" What is the ratio between the frequency of a given note C and another C that is two octaves higher?",
+          "answer": "four",
+          "acceptableAnswers": [
+            "four",
+            "one to four",
+            "accept clear equivalents",
+            "The four"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Theoretically, this sort of interval is \"perfect\" if the ratio between the frequency of the two notes is 3 to 2. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc1bd"
+    },
+    {
+      "id": "3412c89b-82a7-496a-8a07-9bd74224676f",
+      "linkedTossupId": "922a097b-fb7d-4bc7-a3aa-874b38732dfd",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this last King of Rome who succeeded Servius Tullius.",
+          "answer": "Tarquin",
+          "acceptableAnswers": [
+            "Tarquin",
+            "Tarquin the Proud",
+            "The Tarquin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After Tarquin's overthrowing, he solicited help from Lars Porsena, the king of this city, to try to restore his power.",
+          "answer": "Clusium",
+          "acceptableAnswers": [
+            "Clusium",
+            "The Clusium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Livy tells the story of this Roman girl, who allegedly led an escape of girls taken hostage by Lars Porsenna during the war with Clusium. She swam across the Tiber, only to return to allow other hostages to be released, and in admiration Lars is said to have freed her.",
+          "answer": "Cloelia",
+          "acceptableAnswers": [
+            "Cloelia",
+            "The Cloelia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His downfall came after his son Sextus raped the noblewoman Lucretia, causing Lucius Junius Brutus to lead a revolt against him alongside Lucius Collatinus. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4cc6671d74a7752da5c8"
+    },
+    {
+      "id": "354bebcd-0ef4-422d-86ee-1932dd75a65e",
+      "linkedTossupId": "749fca0a-37d6-45f0-b944-2b4e8ee235af",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this solid substance that unusually has a higher volume and lower density than its liquid counterpart due to increasing rigidity between its O-H hydrogen bonds.",
+          "answer": "ice",
+          "acceptableAnswers": [
+            "ice",
+            "water ice",
+            "prompt on H2O",
+            "reject “water”",
+            "The ice"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Most instances of ice crystals on Earth exist in the Ih (\"eye-H\") form, whose symmetry aligns with this shape. Face-centered cubic lattices and a lattice named for this shape are the only two lattices that are close-packed.",
+          "answer": "hexagon",
+          "acceptableAnswers": [
+            "hexagon",
+            "hexagonal symmetry",
+            "accept hexagonal close-packed",
+            "The hexagon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The space group for hexagonal ice contains one of these symmetry operations consisting of a reflection and parallel translation. Hermann-Mauguin (\"mo-GAN\") notation uses a lowercase a, b, or c to represent this symmetry operation.",
+          "answer": "glide",
+          "acceptableAnswers": [
+            "glide",
+            "glide plane symmetry",
+            "prompt on transflection",
+            "The glide"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a common example of supercooling, putting a bottle in a freezer and then agitating it nucleates the formation of this substance. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6551b08e2c809f9dfdac1d7e"
+    },
+    {
+      "id": "c4ddf07d-eee3-42f1-91e8-c29765574a2f",
+      "linkedTossupId": "36fe5ab5-6d46-4ce5-9819-054a5672028e",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "What was this reaction against Romanticism in the mid- to late-19th century which aimed to show things as the \"actually are\"?",
+          "answer": "Realism",
+          "acceptableAnswers": [
+            "Realism",
+            "The Realism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Like Realism, this writing style focused on life as it's lived, but it attempted to apply a scientific eye to man's behavior, leading to a deterministic aspect in its portrayals of human life. Associated with Emile Zola, Stephen Crane is an American exemplar of it.",
+          "answer": "Naturalism",
+          "acceptableAnswers": [
+            "Naturalism",
+            "The Naturalism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man's works in his Epic of Wheat Trilogy, including the novel The Octopus, are considered to exemplify Naturalism.",
+          "answer": "Norris",
+          "acceptableAnswers": [
+            "Norris",
+            "The Norris"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Writers associated with this movement include Mark Twain and Hamlin Garland. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee3b3"
+    },
+    {
+      "id": "646da795-32b1-4ae4-b79e-edd2e82e3859",
+      "linkedTossupId": "af69f432-37de-4001-9d3d-af24667fd4e1",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this birthplace of Alberto Giacometti. Le Corbusier was born near this landlocked country's border with France.",
+          "answer": "Switzerland",
+          "acceptableAnswers": [
+            "Switzerland",
+            "The Switzerland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Swiss artist Paul Klee was once a member of this German school of design founded by Walter Gropius. Ludwig Mies van der Rohe was a member of this school.",
+          "answer": "Bauhaus",
+          "acceptableAnswers": [
+            "Bauhaus",
+            "The Bauhaus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A Paul Klee painting depicts one of these animals along with a bird. One of these animals is depicted in David Hockney's Mr. and Mrs. Walker and Percy.",
+          "answer": "cat",
+          "acceptableAnswers": [
+            "cat",
+            "The cat"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An artist from this country sculpted several gaunt skeletal figures in his Walking Men series. For 10 points each;",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31bac"
+    },
+    {
+      "id": "b662b6a3-4a7f-4c15-a5be-44c53f5b5b8e",
+      "linkedTossupId": "1c16aea7-9f2f-4934-a560-b93dcd31bbba",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these mathematical objects in quantum physics whose vertices represent an interaction.",
+          "answer": "Feynman Diagram",
+          "acceptableAnswers": [
+            "Feynman Diagram",
+            "Stueckelberg diagrams",
+            "Feynman-Dyson diagrams",
+            "Dyson graphs",
+            "The Feynman Diagram"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a Feynman diagram, a particle line going backward in time represents this type of particle in relation to the depicted one. The positron is this type of particle for the electron.",
+          "answer": "antiparticle",
+          "acceptableAnswers": [
+            "antiparticle",
+            "The antiparticle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Feynman diagrams, loops of virtual particles can lead to diverging integrals. This is the name for the various techniques used to remove such singularities in a quantum field theory.",
+          "answer": "renormalization",
+          "acceptableAnswers": [
+            "renormalization",
+            "The renormalization"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The \"penguin\" type of these considers CP violation. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31e13"
+    },
+    {
+      "id": "0c59fdc0-132c-40f6-b421-77a63866f899",
+      "linkedTossupId": "64e2994a-7f66-4f86-9816-8cbfa3f5b344",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these locations. James Eagan Holmes killed 12 people at one of these locations in Aurora, Colorado in 2012, during a screening of The Dark Knight Rises.",
+          "answer": "movie",
+          "acceptableAnswers": [
+            "movie",
+            "either theaters",
+            "the movies",
+            "The movie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another tragic American school shooting took place in this elementary school in 2012, where Adam Lanza killed 20 children.",
+          "answer": "Sandy Hook",
+          "acceptableAnswers": [
+            "Sandy Hook",
+            "The Sandy Hook"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This executive Vice President of the NRA made controversial comments connecting the Sandy Hook shootings with \"gun-free\" zones. This man also supports armed police officers in elementary schools.",
+          "answer": "LaPierre",
+          "acceptableAnswers": [
+            "LaPierre",
+            "The LaPierre"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In July of 2015, a gunman at one of these locations in Louisiana murdered two people. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f745d63ec41269ea991232"
+    },
+    {
+      "id": "66244005-e8a1-461c-8b54-24f661fac277",
+      "linkedTossupId": "7b9ff36c-e1f3-47e3-b643-aa62d8778d2a",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This organization funded by the Nixon administration laundered money and utilized illegal slush funds to fund the Watergate burglars, among other shady activities.",
+          "answer": "C",
+          "acceptableAnswers": [
+            "C"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This false name was given to the secret informant of Washington Post reporter Bob Woodward, later revealed to be senior FBI agent W. Mark Felt Sr.",
+          "answer": "Deep Throat",
+          "acceptableAnswers": [
+            "Deep Throat",
+            "The Deep Throat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man was the chief operative for the White House Plumbers and took control of planning the Watergate break-in along with E. Howard Hunt.",
+          "answer": "Liddy",
+          "acceptableAnswers": [
+            "Liddy",
+            "The Liddy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Notable figures and groups from the Watergate scandal, FTPE:",
+      "source": "qbreader",
+      "sourceId": "6451e799d4402ec440c6237d"
+    },
+    {
+      "id": "8ea11bb6-d534-48ef-ad2e-2e3021c7418e",
+      "linkedTossupId": "f47db7b7-f299-4cda-895d-930c410adce6",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with systemic circulation.",
+          "answer": "systole",
+          "acceptableAnswers": [
+            "systole"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the systole in the cardiovascular system?",
+          "answer": "Systemic circulation",
+          "acceptableAnswers": [
+            "Systemic circulation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to systemic circulation.",
+          "answer": "diastole",
+          "acceptableAnswers": [
+            "diastole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9702203d-f1b4-4ad3-8e67-499c6877ffd2",
+      "linkedTossupId": "9685d4ce-d31d-48d2-acb1-cc8a356e8cae",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this activity. Interpretations of zombies in Haitian voodoo differ from \"Romero zombies\" whose performance of this cannibalistic activity was popularized by the film Night of the Living Dead.",
+          "answer": "eating brain",
+          "acceptableAnswers": [
+            "eating brain",
+            "word forms",
+            "prompt on eating people with “What body part?”",
+            "The eating brain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This ethnic group's water goddesses Ogbuide and Uhammiri are synonymous with Mami Wata deities. People of this ethnicity worship deities called arusi and are protected by guardians called chi against vengeful ogbanje.",
+          "answer": "Igbo",
+          "acceptableAnswers": [
+            "Igbo",
+            "Ibo",
+            "accept Ogata",
+            "The Igbo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The river orisha Oshun turned herself into a peacock and then a vulture to carry messages for this creator god of the Yoruba pantheon who is depicted as omnipotent in the heavens over humanity and orishas.",
+          "answer": "Olorun",
+          "acceptableAnswers": [
+            "Olorun",
+            "Olodumare",
+            "Olofin",
+            "Oluwa",
+            "Eledumare",
+            "The Olorun"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In Zulu myth, the Mamlambo is a \"goddess of rivers\" who appears like an aquatic horse and performs this action on families who don't sacrifice regularly. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7def75"
+    },
+    {
+      "id": "5785ff1d-a828-4058-8d4e-a4c48e49e013",
+      "linkedTossupId": "44b00b1c-5aa6-4a1a-9323-a48df3043c46",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this effect in which a metal subjected to a temperature increase releases electrons.",
+          "answer": "thermionic",
+          "acceptableAnswers": [
+            "thermionic",
+            "The thermionic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In thermionic emission, the work function represents the height of the potential barrier the electrons must overcome minus this quantity, the highest occupied level in a multi-electron system.",
+          "answer": "Fermi",
+          "acceptableAnswers": [
+            "Fermi",
+            "The Fermi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At high electric fields, the potential barrier is rendered ineffective; at moderate fields, the current increases by a factor proportional to the square of the field intensity, known as this eponymous effect.",
+          "answer": "Schottky",
+          "acceptableAnswers": [
+            "Schottky",
+            "The Schottky"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The current resulting from this effect is proportional to the square of the temperature times the exponential of the negative of the work function over kT. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65865e33760988da16ee605c"
+    }
+  ]
+}

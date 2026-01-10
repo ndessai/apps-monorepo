@@ -1,0 +1,1157 @@
+{
+  "packetId": "packet-165",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Literature",
+    "Science",
+    "Human Body",
+    "History",
+    "Philosophy",
+    "Fine Arts",
+    "Mythology"
+  ],
+  "tossups": [
+    {
+      "id": "aecb9acc-7b37-49c4-a671-2aceac68370a",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "A character created by this author encourages his guests to \"become patterns of virtue and wisdom to all the young people of the age!\" At the end of a story by this author, a vase containing a 55-year-old rose given to the title character by Sylvia Ward is broken. In a story by this author, a character's husband screams her name, then her pink ribbon falls from the sky. Three men fight over Widow Wycherley (\"WITCH-er-lee\") after the title character of a story by this author gives them water from the Fountain of Youth. A story by this author ends by noting that \"no hopeful verse\" is written on the title character's tombstone. This author wrote a story about a man who finds Goody Cloyse and his wife Faith among the attendees of a satanic ritual. For 10 points, name this author of \"Dr. Heidegger's Experiment\" and \"Young Goodman Brown.\"",
+      "powerMarkPosition": 372,
+      "answer": "Hawthorne",
+      "acceptableAnswers": [
+        "Hawthorne",
+        "Nathaniel Hathorne",
+        "The Hawthorne"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423b36"
+    },
+    {
+      "id": "131caa5b-109e-4ebf-9019-43d241692dd7",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "This book begins with five men relaxing on a ship while being held together by \"the bond of the sea.\" Later in the opening chapter, one character recalls that at one time the place where he sits was \"one of the dark places of the Earth.\" One criticism of this work argues that the author of it is a \"bloody racist\" due to his inexplicable \"fixation on blackness\"; that criticism was titled 'An Image of Africa\" and was written by Chinua Achebe. For 10 points, the ship the Nellie is featured in this work by Joseph Conrad which details an unnamed narrator's story about Charles Marlowe's adventure up the Congo River to find the enigmatic Kurtz.",
+      "powerMarkPosition": 444,
+      "answer": "Heart of Darkness",
+      "acceptableAnswers": [
+        "Heart of Darkness",
+        "The Heart of Darkness"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f09d4"
+    },
+    {
+      "id": "85c91597-28e3-4440-a34f-6213dd495611",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "The HESS project uses this effect to detect gamma rays, and the orientiation of it relative to the particle path is used in RICH detectors. The equation governing it states that the energy losses per unit distance are given as the integral over applicable frequencies of 1- the inverse of beta square times the dielectric constant. That formula was developed by Ilya Frank and Igor Tamm. Its namesake observed it while he was working under Vavilov, and it is responsible for the blue glow that can be seen near nuclear reactors. For 10 points, identify this radiation emitted by a body that is traveling faster than the speed of light in that medium, and is named for a Soviet physicist.",
+      "powerMarkPosition": 331,
+      "answer": "Cerenkov",
+      "acceptableAnswers": [
+        "Cerenkov",
+        "Cherenkov radiation",
+        "The Cerenkov"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da72a"
+    },
+    {
+      "id": "eaeacfcc-bb7b-4a45-8cc1-b81aa14d8f2d",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for hair follicle structure. It plays a key role in the integumentary system and is one of the most studied parts of human anatomy. For ten points, name this hair follicle-related structure.",
+      "powerMarkPosition": 100,
+      "answer": "Hair follicle",
+      "acceptableAnswers": [
+        "hair follicle",
+        "Hair follicle"
+      ],
+      "explanation": "The hair follicle is a key component of the Integumentary system, involved in hair follicle structure.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ef0244ff-2e52-48e1-8b23-032c381ef375",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "In France, Bernard Gui investigated an alleged 1321 \"plot\" named for these people, who were accused of stockpiling rotten bread to carry out a mass poisoning. According to a legend that emerged in the 15th century, priests would conduct a \"Last Mass\" for these people which entailed pouring dirt over their heads as they stood in an open grave. The Acts of Sylvester records a tradition in which a ruler who was one of these people rewarded Pope Sylvester I for his assistance. While begging for alms, these residents of \"lazar-houses\" used the noise of a clapper or bell to attract the attention of passers-by. Baldwin IV of Jerusalem was unable to marry because he was one of these people. For 10 points, name these medieval pariahs, forcibly quarantined due to their infectious skin diseases.",
+      "powerMarkPosition": 356,
+      "answer": "leper",
+      "acceptableAnswers": [
+        "leper",
+        "sufferers of leprosy",
+        "Hansen’s Disease",
+        "prompt on the sick",
+        "The leper"
+      ],
+      "source": "qbreader",
+      "sourceId": "64740f170044bbd367c3f4f6"
+    },
+    {
+      "id": "2d3ced46-31c3-4f88-aea2-cfc353816d23",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "The main character of this book has two siblings who write under the pseudonyms Peter and Demosthenes. That main character, whose real name is Andrew, had worked with his Jeesh to defeat the Formics in this book. For 10 points, name this science fiction book by Orson Scott Card.",
+      "powerMarkPosition": 102,
+      "answer": "Ender’s Game",
+      "acceptableAnswers": [
+        "Ender’s Game",
+        "The Ender’s Game"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c890"
+    },
+    {
+      "id": "806d5c4e-0199-49d1-bacc-e2cafa34d4d5",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "Used as early as the Battle of Ma-Ling in China in 341 BCE, this weapon was known as an arbalest when the Normans introduced it to England. In 1139, the Second Lateran Council forbade its use against Christians, though it proved critical in the Crusader victory at Jaffa. For 10 points-name this ballistic weapon with a wooden stock in which the user triggered the release of an arrow.",
+      "powerMarkPosition": 139,
+      "answer": "crossbow",
+      "acceptableAnswers": [
+        "crossbow",
+        "The crossbow"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9842046"
+    },
+    {
+      "id": "aa2ac4ba-dbbf-4a03-ad94-43c837e7563b",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "Note to moderator: Read the answerline carefully. Jerusalem's Al-Budeiri and Khalidi contain medieval examples of these objects, which were often collected in Chinguetti (\"shing-geh-tee\"), Mauritania. Zayd ibn Thabit produced these objects for Muhammad. When these objects got old, Egyptian Jews stored them in the Cairo Genizah (\"guh-NEE-zah\"). Sanaa and Birmingham name two of these objects from the early 7th century, before they were standardized by Caliph Uthman. The Zabūr, 'Injīl, and Tawrat are holy examples of these objects, which were made in the Thuluth, Naskh, and Kufic styles. Before handling holy types of these objects, Muslims perform wudu ablution. The Quran lists Sabians, Jews, and Christians as \"people of\" one of these objects, which include the six canonical hadith collections. For 10 points, what objects record the oral revelations of the Quran?",
+      "powerMarkPosition": 345,
+      "answer": "book",
+      "acceptableAnswers": [
+        "book",
+        "kutub",
+        "kitab",
+        "accept Quranic manuscripts",
+        "religious texts",
+        "scriptures",
+        "anthologies",
+        "prompt on libraries",
+        "prompt on writing systems",
+        "scripts",
+        "calligraphy",
+        "accept scrolls",
+        "papers",
+        "palimpsests",
+        "folios",
+        "papyri",
+        "parchments",
+        "vellums",
+        "similar",
+        "accept People of the Book",
+        "’Ahl al-Kitāb",
+        "accept the Kutub al-Sittah",
+        "prompt on Quran",
+        "hadith",
+        "verses",
+        "sura by asking “in the form of what kind of object?”",
+        "The book"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af9742398c"
+    },
+    {
+      "id": "458f0726-9791-43be-90cb-5d667056dd6d",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "2. When the British ship The Dartmouth landed at Griffin's Warth, most of its load was taken off except for a key commodity. That's because residents refused to allow the commodity to be brought to land, however governor Thomas Hutchison refused allowing it to be sent back to England. This caused a major revolt, in which dozens of citizens left the Old South Meeting House to destroy the product. For 10 points, name this 1773 event, whose name is used in a modern day national movement which protests large government and the amount of taxes being levied on citizens.",
+      "powerMarkPosition": 285,
+      "answer": "Boston Tea Party",
+      "acceptableAnswers": [
+        "Boston Tea Party",
+        "The Boston Tea Party"
+      ],
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced97b"
+    },
+    {
+      "id": "46835a5b-4d6f-418c-8f2c-cd2e487850d3",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "One work by this author opens in an Amsterdam bar named Mexico City and focuses on a defense lawyer named Clamence. Another novel by this man features characters such as journalist Raymond Rambert and focuses on Bernard Rieux's (ree - OOZE) attempt to stop the title event. This author's best known novel begins with the narrator noting how \"mother died today\" and climaxes when \"the Arab\" is killed by Meursault (mare - SO). For 10 points, name this Algerian-born author of The Fall, The Plague, and The Stranger.",
+      "powerMarkPosition": 273,
+      "answer": "Camus",
+      "acceptableAnswers": [
+        "Camus",
+        "The Camus"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f070d"
+    },
+    {
+      "id": "6b1e721c-9718-449e-99f6-956fbd15a958",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "A character in this story rides past a tree haunted by Major Andre on his horse Gunpowder after having his marriage proposal rejected at a harvest party. Katrina van Tassel, the daughter of a wealthy farmer, ends up marrying Brom Bones over a local school teacher in this story. Ichabod Crane disappears after an encounter with a headless horseman in, for 10 points, what story by Washington Irving?",
+      "powerMarkPosition": 229,
+      "answer": "Legend of Sleepy Hollow",
+      "acceptableAnswers": [
+        "Legend of Sleepy Hollow",
+        "The Legend of Sleepy Hollow"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a5030e"
+    },
+    {
+      "id": "15a03bd1-0e0f-4138-8ef1-3ac3d8c26de8",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "Artists in this style, such as Alfred Sisley, often apply paint \"en plein air\" and generally avoid black paint, choosing rather to blend complementary colors. One artist of this school that founded the Salon des Refusés placed a naked woman next to two fully clothed men. Besides Luncheon on the Grass, other works in this style include one of men in top hats eating with women in fancy dresses. Name this French painting style employed by Edouard Manet, Auguste Renoir, and Claude Monet.",
+      "powerMarkPosition": 279,
+      "answer": "Impression",
+      "acceptableAnswers": [
+        "Impression",
+        "The Impression"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1e65"
+    },
+    {
+      "id": "160b580e-839a-4f58-808d-54ffbe9cc721",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "In this process, carboxylases bind with magnesium ions to form bridges with carbamate. Ferredoxin activates this pathway by reducing thioredoxin, and ribulose 5-phosphate is phosphorylated in one step of this process. Each iteration of this pathway produces a glyceraldehyde-3-phosphate along with 6 NADP from 3 CO2 and 6 NADPH. In C3 organisms, this pathway involves the fixation of carbon dioxide catalyzed by the most abundant protein in the world, RuBisCO. Occurring in the stroma of chloroplasts, for 10 points, name this light-independent cycle which synthesizes glucose in photosynthetic plants.",
+      "powerMarkPosition": 217,
+      "answer": "Calvin",
+      "acceptableAnswers": [
+        "Calvin",
+        "CBB cycle",
+        "prompt on “dark reactions”",
+        "“photosynthesis” before mentions",
+        "The Calvin"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eec0e50657a21915d9f281"
+    },
+    {
+      "id": "5d38bc44-e5cc-4170-82d0-63160412c598",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "This thinker claimed something is beautiful if it seems to have been designed with purpose despite any obvious practical use, a term called the \"form of finality.\" In another work, this thinker argues that mathematics and science contain synthetic a priori knowledge because scientific truths are universally true, independent of experience. He introduced a concept that states people should act only according to that maxim, which they will to become a universal law without contradiction. This concept, true in and of-itself, is called the categorical imperative. For 10 points, name this philosopher who authored The Critique of Judgment, Groundwork for the Metaphysics of Morals, and the Critique of Pure Reason.",
+      "powerMarkPosition": 341,
+      "answer": "Kant",
+      "acceptableAnswers": [
+        "Kant",
+        "The Kant"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0a56"
+    },
+    {
+      "id": "253014fa-2060-4371-9f4b-a164f58b021a",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "A 1913 march on Washington in support of this cause was organized by Alice Paul, who asked Ida B. Wells not to attend. The passage of a bill introduced by William Bright made Wyoming the first state to legalize this practice in 1869. Rival groups promoting this cause were led by Carrie Chapman Catt and Elizabeth Cady Stanton. For 10 points, name this cause enacted nationwide by the 19th Amendment to the Constitution, that allowed Americans to cast a ballot regardless of their gender.",
+      "powerMarkPosition": 279,
+      "answer": "women’s suffrage",
+      "acceptableAnswers": [
+        "women’s suffrage",
+        "women’s right to vote",
+        "The women’s suffrage"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eeadce1032cda62a67742f"
+    },
+    {
+      "id": "b1752f70-5a65-42d3-a228-3d46bcc1e3ae",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "This composer frequently employed mesostics in works like Empty Words and based Études Australes and Atlas Eclipticales on star charts. A group of works by this man are labeled by the amount of performers required, his so-called Number Pieces. This student of Henry Cowell created Music of Changes, which broke new ground in the field of aleatory music. This man composed the Sonatas and Interludes for an instrument he invented, while he called for variable-speed turntables and radios tuned to different stations in his Imaginary Landscapes. For 10 points, identify this inventor of the prepared piano, an avant-garde American composer who called for a pianist to sit at the piano and play nothing in his 4'33\" (\"four minutes, thirty-three seconds\").",
+      "powerMarkPosition": 337,
+      "answer": "Cage",
+      "acceptableAnswers": [
+        "Cage",
+        "The Cage"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed6e71216c5c9ba567557e"
+    },
+    {
+      "id": "21df9fc9-2be8-4d20-9cb7-c9f3074992f6",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "In this mythological system, consultation of the war gods involved a feather standing straight up and whirling like a waterspout, while its god of sacrifice was known as \"maggot mouth\" and that god's tongue carries human bodies in its hollow. Hema's eyes are plucked out, prompting his two children to descend on a rainbow to avenge him, while another rainbow in this system marks a cave in which the virginity of a princess is protected by a giant lizard. Home to the Ku gods, as well as Kane and Kanaloa, one god in this myth system fights with his stepfather Olopana and is marked by bristles on his back, part of his association with the reef triggerfish. That god follows Kapo's detachable vagina, distracting him from his pursuit of a fire goddess who is the child of Haumea. For 10 points, name this mythological system, populated by the hog god Kamapua'a, as well as goddesses like Pele and Hina.",
+      "powerMarkPosition": 456,
+      "answer": "Hawaii",
+      "acceptableAnswers": [
+        "Hawaii",
+        "The Hawaii"
+      ],
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa72d"
+    },
+    {
+      "id": "22a654a5-d5ec-49aa-af50-253f56d1185e",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "This poem is the subject of \"Miniaturizing, Modeling, and Mocking Ideas\", the first chapter of Helen Vendler's Poets Thinking. In this poem, Vice is described as a monster whom when we become \"familiar with her face / We first endure, then pity, then embrace.\" The subject of this poem is described as \"Created half to rise, and half to fall'\" and \"The glory, jest, and riddle of the world\". The first epistle of this poem concludes that in \"spite of pride, in erring reason's spite / One truth is clear, Whatever is, is right.\" This poem opens \"Awake, my St. John! Leave all meaner things / To low ambition, and the pride of kings\". Its most famous section commands: \"Know thyself and presume not God to scan\", before explaining what is \"The proper study of mankind\". For 10 points, name this poem about the place of human beings in the world by Alexander Pope.",
+      "powerMarkPosition": 513,
+      "answer": "Essay on Man",
+      "acceptableAnswers": [
+        "Essay on Man",
+        "The Essay on Man"
+      ],
+      "source": "qbreader",
+      "sourceId": "683601a4169f36826f4c5f46"
+    },
+    {
+      "id": "2d446978-0ae1-49c4-a0d7-80d0a41cea94",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "During this battle, one side's decision to leave behind the pavises became disastrous, and in its aftermath, peasants used misericordes to mercy-kill the mortally wounded, a violation of the chivalric code. A thunderstorm caused the drawstrings of the Genoese crossbowmen to slacken during this battle, and its fatalities included the Duke of Lorraine and King John of Bohemia, who were honored by the victorious Edward, the Black Prince. After defeating the troops of Phillip VI, Edward III went on to begin the Siege of Calais. For 10 points, name this 1346 battle of the Hundred Years War that confirmed the superiority of the English longbow over French knights.",
+      "powerMarkPosition": 438,
+      "answer": "Crécy",
+      "acceptableAnswers": [
+        "Crécy",
+        "The Crécy"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895997a0d8ea074be7a64"
+    },
+    {
+      "id": "c88a0d75-f81b-4948-b73b-8ed1d5d8159d",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "This polity replaced a governor who failed to stop 12,000 religious fanatics from sacking the shrine of Husayn at Karbala, though it rejected the help of Fath-Ali Shah in defending the city. This polity's defeat of the Emirate of Diriyah crushed the first Salafi state and split one region's political power between the Rashidi dynasty and the Emirate of Nejd. The predominance of Hanafi jurisprudence in this empire was opposed by Abd al-Wahhab. This empire connected its Levantine possessions to pilgrimage sites by constructing the Hejaz railway. After the Battle of Chaldiran, at which this empire repulsed Safavid incursions, it turned its attention south and vanquished the Mamluk Sultanate. For 10 points, name this empire that seized Mecca under Selim I.",
+      "powerMarkPosition": 431,
+      "answer": "Ottoman",
+      "acceptableAnswers": [
+        "Ottoman",
+        "Eyalet of Egypt by asking “what empire was it part of at the time?”",
+        "The Ottoman"
+      ],
+      "source": "qbreader",
+      "sourceId": "636ca2cb1b6aedfbdb9effb6"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "6cdfbd0a-c807-4cca-8ed6-329840b67ada",
+      "linkedTossupId": "aecb9acc-7b37-49c4-a671-2aceac68370a",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this play in which Lady Sneerwell tries to use forged letters from Snake to break up the relationship between Charles Surface and Maria, who is the ward of Sir Peter Teazle.",
+          "answer": "School for Scandal",
+          "acceptableAnswers": [
+            "School for Scandal",
+            "The School for Scandal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "School for Scandal was written by this British playwright who included Dangle and Sneer's commentaries on the fictional play The Spanish Armada in The Critic.",
+          "answer": "Sheridan",
+          "acceptableAnswers": [
+            "Sheridan",
+            "The Sheridan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While masquerading as a moneylender in School for Scandal Oliver Surface watches with horror as Charles auctions off these objects, but forgives him when he refuses to auction off a specific one.",
+          "answer": "portraits",
+          "acceptableAnswers": [
+            "portraits",
+            "paintings of family members",
+            "prompt on partial answer",
+            "The portraits"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one scene in this play, two characters in turn hide behind a screen and inside a closet before a third character comes in and discovers the one behind the screen. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125d194"
+    },
+    {
+      "id": "3a02edbe-f993-42c2-8535-90c042ec6668",
+      "linkedTossupId": "131caa5b-109e-4ebf-9019-43d241692dd7",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this character who is beaten by his sister, Mrs. Joe. This character visits the wedding gown-wearing Ms. Havisham at the Satis House.",
+          "answer": "Philip",
+          "acceptableAnswers": [
+            "Philip",
+            "any underlined part",
+            "The Philip"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pip appears in this rags-to-riches novel, where Abel Magwitch acts as his benefactor.",
+          "answer": "Great Expectations",
+          "acceptableAnswers": [
+            "Great Expectations",
+            "The Great Expectations"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Great Expectations is by this author, who also wrote about Ebenezer Scrooge in A Christmas Carol.",
+          "answer": "Dickens",
+          "acceptableAnswers": [
+            "Dickens",
+            "The Dickens"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character is disappointed to find that Bentley Drummle has married his childhood love, Estella. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b887"
+    },
+    {
+      "id": "5f3b19bd-3633-4f5d-b405-81bad17ac785",
+      "linkedTossupId": "85c91597-28e3-4440-a34f-6213dd495611",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this simplest aromatic compound, with formula C6H6 [\"C-six, H-six\"].",
+          "answer": "benzene",
+          "acceptableAnswers": [
+            "benzene",
+            "The benzene"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A dream of a snake eating its tail allegedly inspired this German chemist to propose the ring structure of benzene.",
+          "answer": "Kekulé",
+          "acceptableAnswers": [
+            "Kekulé",
+            "The Kekulé"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Albert Ladenburg proposed that benzene had this structure, which resembles two cyclopropane rings.",
+          "answer": "prismane",
+          "acceptableAnswers": [
+            "prismane",
+            "The prismane"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Phenols are hydroxy-derivatives of this molecule. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125cff5"
+    },
+    {
+      "id": "1cbe0c1e-6098-44d5-8735-4f565769ca26",
+      "linkedTossupId": "eaeacfcc-bb7b-4a45-8cc1-b81aa14d8f2d",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with red blood cells and hemoglobin.",
+          "answer": "erythrocyte",
+          "acceptableAnswers": [
+            "erythrocyte"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the erythrocyte in the cardiovascular system?",
+          "answer": "Red blood cells and hemoglobin",
+          "acceptableAnswers": [
+            "Red blood cells and hemoglobin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to red blood cells and hemoglobin.",
+          "answer": "leukocyte",
+          "acceptableAnswers": [
+            "leukocyte"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a91d92f0-bc96-4610-9b1e-88ba6007cf2f",
+      "linkedTossupId": "ef0244ff-2e52-48e1-8b23-032c381ef375",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Dominic Behan's song \"Come Out Ye [these people]\" asks them to tell their wives \"...how the IRA made you run like hell away / from the green and lovely lanes of Killeshandra.\" This notoriously brutal auxiliary force opened fire at a Gaelic football match at Croke Park.",
+          "answer": "Black and Tan",
+          "acceptableAnswers": [
+            "Black and Tan",
+            "The Royal Irish Constabulary Special Reserve",
+            "prompt on Royal Irish Constabulary",
+            "The Black and Tan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A prolific Irish rebel music band is named for this revolutionary, who helped found the United Irishmen. This Protestant was executed for leading the 1798 Irish Rebellion with the support of the French First Republic.",
+          "answer": "Tone",
+          "acceptableAnswers": [
+            "Tone",
+            "the Wolfe Tones",
+            "The Tone"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The sporting anthem \"The Fields of Athenry\" describes a man shipped to the Australian penal colony for having \"stole Trevelyan's corn\" during the 1840s famine caused by the failure of this crop.",
+          "answer": "potato",
+          "acceptableAnswers": [
+            "potato",
+            "The potato"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "\"'God save Ireland!' said the heroes / 'God save Ireland' said they all.\" Answer the following about Irish rebel music. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974236d4"
+    },
+    {
+      "id": "d6588c8d-5fc0-41c0-859a-906f345a6254",
+      "linkedTossupId": "2d3ced46-31c3-4f88-aea2-cfc353816d23",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Once famous as an orator, this author is now better known for \"The Jumping Frog,\" Pudd'nhead Wilson, and A Connecticut Yankee in King Arthur's Court.",
+          "answer": "Twain",
+          "acceptableAnswers": [
+            "Twain",
+            "The Twain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This former slave's autobiographies include A Narrative of his life and My Bondage and My Freedom. He gave speeches like \"The Church and Prejudice\" and \"Self-Made Men.\"",
+          "answer": "Douglass",
+          "acceptableAnswers": [
+            "Douglass",
+            "The Douglass"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Great Awakening preacher gave the \"Sinners in the Hands of an Angry God\" sermon.",
+          "answer": "Edwards",
+          "acceptableAnswers": [
+            "Edwards",
+            "The Edwards"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some famous American orators, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f2043"
+    },
+    {
+      "id": "250f47dc-0197-4968-8b2a-c836567969d9",
+      "linkedTossupId": "806d5c4e-0199-49d1-bacc-e2cafa34d4d5",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This bakery was started by Margaret Rudkin in 1937 and currently produces a variety of breads and cookies including Verona, Bordeaux, and Milano. This company is named for Rudkin's family farm.",
+          "answer": "Pepperidge Farm",
+          "acceptableAnswers": [
+            "Pepperidge Farm",
+            "The Pepperidge Farm"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This fictional woman at the face of many products became a cultural icon after her creation in 1920. In addition to her namesake cookbook, her name brands baking mixes, fruit-by-the-foot, and frostings.",
+          "answer": "Betty Crocker",
+          "acceptableAnswers": [
+            "Betty Crocker",
+            "partial answer",
+            "The Betty Crocker"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This baking line was renamed in 2020 after criticism for its racist character. Nancy Green was the original face for this baking line, which boasted the first \"ready mix\" pancake mix, and is known for its Maple Syrup.",
+          "answer": "Aunt Jemima",
+          "acceptableAnswers": [
+            "Aunt Jemima",
+            "The Aunt Jemima"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some things about American women at the heart of the baked goods industry. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3133409fdd1c1242385d1"
+    },
+    {
+      "id": "6a01edb5-59e8-4f3f-ad1d-4ad8f8784716",
+      "linkedTossupId": "aa2ac4ba-dbbf-4a03-ad94-43c837e7563b",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Muslim holiday which marks the end of Ramadan.",
+          "answer": "Eid",
+          "acceptableAnswers": [
+            "Eid",
+            "Idul Fitr",
+            "prompt on Eid",
+            "The Eid"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Javanese tradition holds that the worship of Eid al-Fitr was brought to Indonesia by this number of saints. The surah of this number contains the \"Sword Verse\" and notably does not begin with a bismillah(\"bis-mih-LAH\").",
+          "answer": "nine",
+          "acceptableAnswers": [
+            "nine",
+            "Nine Saints",
+            "Ninth Surah",
+            "tisa’at",
+            "The nine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Indonesian word collectively refers to Eid al-Adha (\"EED al ODD-hah\") and Eid al-Fitr, during which employers are required to give workers time off. It is sometimes applied to holidays of non-Muslim groups such as Chinese New Year.",
+          "answer": "lebaran",
+          "acceptableAnswers": [
+            "lebaran",
+            "lebaran cina",
+            "The lebaran"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This event prompts the largest annual mudik(\"MOO-dick\"), a mass homecoming of migrant workers which was banned in 2021 due to COVID-19. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ede294c53e50a051363387"
+    },
+    {
+      "id": "8a49e809-24b6-4001-8f8b-77be7e5a051c",
+      "linkedTossupId": "458f0726-9791-43be-90cb-5d667056dd6d",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this country, where the United States was engaged in a controversial war in the 1960s and 1970s. Another photograph taken here by Eddie Adams depicts a police chief shooting a plaid-shirted rebel.",
+          "answer": "Vietnam",
+          "acceptableAnswers": [
+            "Vietnam",
+            "The Vietnam"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another photograph of a shooting shows nightclub owner Jack Ruby fatally wounding this man, the alleged assassin of John F. Kennedy.",
+          "answer": "Oswald",
+          "acceptableAnswers": [
+            "Oswald",
+            "The Oswald"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A photograph taken in the aftermath of a shooting at this Ohio university shows Mary Ann Vecchio wailing over the body of Jeffrey Miller.",
+          "answer": "Kent State",
+          "acceptableAnswers": [
+            "Kent State",
+            "The Kent State"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One photograph taken in this country shows a naked girl covered in napalm screaming and running towards the viewer. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b711"
+    },
+    {
+      "id": "ddbcc980-45e4-4e21-bf01-c3cbe88bfaaf",
+      "linkedTossupId": "46835a5b-4d6f-418c-8f2c-cd2e487850d3",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this British Indian author of The Golden House, who received a fatwa for the novel The Satanic Verses.",
+          "answer": "Rushdie",
+          "acceptableAnswers": [
+            "Rushdie",
+            "The Rushdie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Salman Rushdie novel, Parvati, Saleem, and the other title people gain mysterious powers because they are born on the night India gains independence from Britain.",
+          "answer": "Midnight’s Children",
+          "acceptableAnswers": [
+            "Midnight’s Children",
+            "The Midnight’s Children"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Midnight's Children, Saleem Sinai's telepathy is closely connected to this body part, which constantly drips with snot.",
+          "answer": "nose",
+          "acceptableAnswers": [
+            "nose",
+            "The nose"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man won the Best of the Booker prize for a novel about Parvati the Witch and Saleem Sinai. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc00516f"
+    },
+    {
+      "id": "ba17d1d1-eb68-4687-9540-c78d442518c9",
+      "linkedTossupId": "6b1e721c-9718-449e-99f6-956fbd15a958",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Married to poet Percy, this author wrote about Victor's creation murdering his wife, Elizabeth, in Frankenstein.",
+          "answer": "Shelley",
+          "acceptableAnswers": [
+            "Shelley",
+            "The Shelley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This poet's husband, Robert, wrote \"My Last Duchess\" and nicknamed this woman \"my little Portuguese,\" inspiring her collection of sonnets that includes \"How do I love thee? Let me count the ways.\"",
+          "answer": "Browning",
+          "acceptableAnswers": [
+            "Browning",
+            "The Browning"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Samuel Taylor Coleridge and William Wordsworth collaborated on this collection of poems that includes \"Tintern Abbey\" and \"The Rime of the Ancient Mariner.\"",
+          "answer": "Lyrical Ballads",
+          "acceptableAnswers": [
+            "Lyrical Ballads",
+            "The Lyrical Ballads"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these British literary pairs for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1e78"
+    },
+    {
+      "id": "e1c031e7-b4a0-4246-9047-3f3a1d75a86f",
+      "linkedTossupId": "15a03bd1-0e0f-4138-8ef1-3ac3d8c26de8",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this woodwind instrument, a larger relative of the piccolo.",
+          "answer": "flut",
+          "acceptableAnswers": [
+            "flut",
+            "The flut"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This French composer of \"Clair de Lune\" wrote Prelude to the Afternoon of a Faun in 1894.",
+          "answer": "Debussy",
+          "acceptableAnswers": [
+            "Debussy",
+            "The Debussy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The descending and ascending flute solo in Prelude to the Afternoon of a Faun is often described by this term. A major scale includes seven different notes, but this type of scale will include ascend through all twelve semitones.",
+          "answer": "chromatic",
+          "acceptableAnswers": [
+            "chromatic",
+            "The chromatic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A solo for this instrument opens the tone poem Prelude to the Afternoon of a Faun. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2ccd8"
+    },
+    {
+      "id": "65deda19-2aa7-4992-add8-60da3a56b63c",
+      "linkedTossupId": "160b580e-839a-4f58-808d-54ffbe9cc721",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this process that occurs in the S phase of the cell cycle; in it a polymerase enzyme copies the genome.",
+          "answer": "DNA replication",
+          "acceptableAnswers": [
+            "DNA replication",
+            "DNA synthesis",
+            "The DNA replication"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Because DNA results in two daughter strands that each contain one of the parent strands, its mechanism is given this name. The Meselson-Stahl experiment determined DNA was replicated in this manner.",
+          "answer": "semiconservative",
+          "acceptableAnswers": [
+            "semiconservative",
+            "The semiconservative"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "DNA polymerase production is enhanced by the transcription factor E2F, which is normally repressed by binding this tumor suppressor protein whose hyperphosphorylation yields entry to S phase. Its knockout commonly leads to childhood intraocular cancer.",
+          "answer": "retinoblastoma",
+          "acceptableAnswers": [
+            "retinoblastoma",
+            "pRb",
+            "The retinoblastoma"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A sliding clamp protein complex enhances the processivity of this process. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d9801af67c8a6f6e0b4202"
+    },
+    {
+      "id": "89a4e9b6-fed5-496c-993a-17875665e4b4",
+      "linkedTossupId": "5d38bc44-e5cc-4170-82d0-63160412c598",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "In 2015, Pope Francis canonized Mother Teresa, who created the Missionaries of Charity in the slums of Calcutta in this country, the second most populous in the world.",
+          "answer": "India",
+          "acceptableAnswers": [
+            "India",
+            "The India"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "St. Thomas More created this word to describe a perfect society. In Greek, this word translates to \"nowhere\".",
+          "answer": "utopia",
+          "acceptableAnswers": [
+            "utopia",
+            "The utopia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Saint Thomas Aquinas detailed three conditions of a \"just war\" and five ways of proving God's existence in this book.",
+          "answer": "Summa Theologica",
+          "acceptableAnswers": [
+            "Summa Theologica",
+            "The Summa Theologica"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following things these saints are known for:",
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e14f9"
+    },
+    {
+      "id": "cf092a9a-48db-4554-abe8-7d21c83c49a9",
+      "linkedTossupId": "253014fa-2060-4371-9f4b-a164f58b021a",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this governor who infamously tried to block Black students from entering a university in his state in the \"Stand in the Schoolhouse Door.\"",
+          "answer": "Wallace",
+          "acceptableAnswers": [
+            "Wallace",
+            "George Corley Wallace Jr.",
+            "The Wallace"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Wallace was a governor of this state, whose city of Montgomery was the site of a year-long boycott of buses after Rosa Parks was kicked out of one for not giving up her seat.",
+          "answer": "Alabama",
+          "acceptableAnswers": [
+            "Alabama",
+            "The Alabama"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Wallace's declaration of \"segregation forever\" would not come true, as this landmark 1952 Supreme Court case established that segregation in public schools was unconstitutional. In this case, Thurgood Marshall represented a Black resident of Topeka, Kansas.",
+          "answer": "Brown v. Board",
+          "acceptableAnswers": [
+            "Brown v. Board",
+            "The Brown v. Board"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This politician once declared \"segregation now, segregation tomorrow, segregation forever.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ed39"
+    },
+    {
+      "id": "515644ac-5df4-4a9c-87e4-b2ff13fe02b4",
+      "linkedTossupId": "b1752f70-5a65-42d3-a228-3d46bcc1e3ae",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this prestigious conservatory whose students may dual-enroll at nearby Columbia University.",
+          "answer": "Juilliard",
+          "acceptableAnswers": [
+            "Juilliard",
+            "The Juilliard"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chang primarily plays a violin previously owned by her mentor Isaac Stern and made by Giuseppe Guarnieri (joo-SEP-ee gwar-NAIR-ee). Guarnieri's violins sound \"darker\" than those made by this man, whose violins now sell for millions.",
+          "answer": "Stradi",
+          "acceptableAnswers": [
+            "Stradi",
+            "Stradivarius",
+            "The Stradi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chang uses archetiers (ARSH-et-ayz) Pajeot (paa-zhoh), Sartory, and Dominique Peccatte's (pay-KAHT's) devices of this type, which include parts called a frog.",
+          "answer": "bow",
+          "acceptableAnswers": [
+            "bow",
+            "The bow"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Sarah Chang played Bruch's G minor first concerto during her successful audition for this school at age 5. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6605c17d7891dce02ea7cfcf"
+    },
+    {
+      "id": "f37d7f7b-4f9a-4fb3-8fe8-e8c58184de04",
+      "linkedTossupId": "21df9fc9-2be8-4d20-9cb7-c9f3074992f6",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this horse who kills a lion during the first of seven trials in the course of defeating Div-e-Sepid (\"DEEV-eh-seh-PEED\"). This horse perishes alongside his master due to Shaghad's treachery.",
+          "answer": "Rakhsh",
+          "acceptableAnswers": [
+            "Rakhsh",
+            "The Rakhsh"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This hero tames Rakhsh and continually rescues Kay Kavus (\"kai ka-VOOSE\"). This hero meets Princess Tahmina when Rakhsh disappears on a hunting trip, and belatedly recognizes the bracelet he left with Tahmina after breaking a hero's back.",
+          "answer": "Rostam",
+          "acceptableAnswers": [
+            "Rostam",
+            "Rustam",
+            "The Rostam"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rakhsh and Rostam appear in this national epic of Iran, written by Ferdowsi.",
+          "answer": "Shahnameh",
+          "acceptableAnswers": [
+            "Shahnameh",
+            "the Book of Kings",
+            "The Shahnameh"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This horse is described with a body \"bright and dappled as though flecked with petals of red roses on saffron,\" and a price of \"Iran itself.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6326bf0e692d593d1d7a8a0b"
+    },
+    {
+      "id": "d1fecdb0-ab6c-4ed2-a2b7-31a89ac4497a",
+      "linkedTossupId": "22a654a5-d5ec-49aa-af50-253f56d1185e",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Scots annually honor this poet on January 25 with a feast of haggis and a recitation of his \"Ode tae a haggis\".",
+          "answer": "Burns",
+          "acceptableAnswers": [
+            "Burns",
+            "The Burns"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "James Macpherson \"translated\" this poet who was said to have composed epics in ancient Scots Gaelic.",
+          "answer": "Ossian",
+          "acceptableAnswers": [
+            "Ossian",
+            "The Ossian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Known as the Ettrick Shepherd, this self-educated poet wrote the novel The Private Memoirs and Confessions of a Justified Sinner, known to have influenced fellow Scots Robert Louis Stevenson and Irvine Walsh",
+          "answer": "Hogg",
+          "acceptableAnswers": [
+            "Hogg",
+            "The Hogg"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer these questions on Scottish poets who didn't always write in English, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "676f830cc626ea977c7a3bab"
+    },
+    {
+      "id": "19ce4415-eb50-4168-90ae-640f27fa50f4",
+      "linkedTossupId": "2d446978-0ae1-49c4-a0d7-80d0a41cea94",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this region that stretched from southern Bulgaria into western Turkey. It was ruled by Lysimachus during the Wars of the Diadochi.",
+          "answer": "Thrace",
+          "acceptableAnswers": [
+            "Thrace",
+            "The Thrace"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This city may have been named for a Thracian word that meant \"he-goat.\" It became the capital of the Eastern Roman Empire and was eventually renamed Constantinople.",
+          "answer": "Byzantium",
+          "acceptableAnswers": [
+            "Byzantium",
+            "Byzantion",
+            "The Byzantium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Constantinople did not officially become Istanbul until the newly formed Republic of Turkey moved its capital to this city in 1923.",
+          "answer": "Ankara",
+          "acceptableAnswers": [
+            "Ankara",
+            "Ancyra",
+            "accept Angora",
+            "The Ankara"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Plutarch and Appian both claim that Spartacus was from this region. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ead0be8c91030f69d5b9f1"
+    },
+    {
+      "id": "d4244196-7ed4-4f77-8001-5ae2badb99ac",
+      "linkedTossupId": "c88a0d75-f81b-4948-b73b-8ed1d5d8159d",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this prince who led Wallachia away from Ottoman influence. He is considered a national hero for being the first to rule over Wallachia, Transylvania, and Moldavia at once.",
+          "answer": "Michael the Brave",
+          "acceptableAnswers": [
+            "Michael the Brave",
+            "Mihai Viteazu",
+            "prompt on Michael",
+            "Mihai",
+            "The Michael the Brave"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Wallachia, Moldavia, and Transylvania make up what is now this country in Eastern Europe. During the Soviet era, it was ruled by Nicolae Ceaușescu (\"chow-SHESS-koo\").",
+          "answer": "Romania",
+          "acceptableAnswers": [
+            "Romania",
+            "The Romania"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Alexander Ypsilantis, who led this country to independence, also instigated anti-Ottoman sentiment in Wallachia. Leopold I of Belgium refused this country's crown, which was later accepted by Otto, a Bavarian prince.",
+          "answer": "Greece",
+          "acceptableAnswers": [
+            "Greece",
+            "Hellenic Republic",
+            "Hellas",
+            "The Greece"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This ruler was murdered on the orders of Italian general Giorgio Basta, although the two previously worked together against the Ottomans during the Long War. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a802e"
+    }
+  ]
+}

@@ -1,0 +1,1123 @@
+{
+  "packetId": "packet-181",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Fine Arts",
+    "Social Science",
+    "Science",
+    "Literature",
+    "Geography",
+    "Human Body",
+    "History",
+    "Mythology"
+  ],
+  "tossups": [
+    {
+      "id": "e3c43b02-7eb5-4e9b-8a3c-c2adf49816de",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This figure stands next to a table whose gold leg is carved with griffins holding reeds in a portrait by Gilbert Stuart. A man in front of this historical figure kicks away ice floes in a painting by Emmanuel Leutze [LOYT-zah]. In Parson Weems' Fable, Grant Wood painted this historical figure as a child, holding an axe. For 10 points, name this subject of the Lansdowne Portrait, who is shown admitting to chopping down a cherry tree and Crossing the Delaware in historical paintings, America's first president.",
+      "powerMarkPosition": 230,
+      "answer": "Washington",
+      "acceptableAnswers": [
+        "Washington",
+        "The Washington"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3101eabc146a6b8189262"
+    },
+    {
+      "id": "bd094f18-a11b-4fd2-b9e0-d3a451b13862",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "Though it went unpublicized for decades, this phenomenon was first observed by Irwin Katz in the 1960s. A critique of this concept by Paul Sackett et al. pointed out a lack of external validity and noted that effect sizes were often misreported in the press. Toni Schmader and others have argued that underlying mechanisms of this effect include stress arousal, vigilance, and impairment of working memory and self-regulation, while Geoff Cohen and others have shown that self-affirmation can counteract its effect. Its primary advocate, whose twin brother Shelby developed the related concept of \"racial vulnerability\", demonstrated this phenomenon in a famous study with Joshua Aronson, showing that black students performed less well on difficult GRE questions when they were described as a test of intelligence. For 10 points, name this Claude Steele-proposed psychological notion that performance is negatively affected by knowledge of the prejudicial beliefs of others.",
+      "powerMarkPosition": 515,
+      "answer": "stereotype threat",
+      "acceptableAnswers": [
+        "stereotype threat",
+        "social identity threat",
+        "The stereotype threat"
+      ],
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c6119349b8e"
+    },
+    {
+      "id": "d02c7bca-e6dd-41d9-b269-e4297c2d8916",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "An estimate for this quantity at maximum power, assuming irreversibility, is named after Chambadal and Novikov. The fact that two constructs with different values for this quantity would allow for reversed heat flow motivated a theorem that follows from the second law of thermodynamics and gives an upper bound on this quantity. The Kelvin-Planck statement also gives an upper bound on this quantity. The maximum possible value of this quantity is achieved by a cycle consisting of two isothermal and two adiabatic processes, and it is one minus the ratio of the temperatures of the two reservoirs for that cycle named for Carnot (car-NOH). For 10 points, name this quantity which measures how well a process converts heat to work.",
+      "powerMarkPosition": 329,
+      "answer": "efficiency",
+      "acceptableAnswers": [
+        "efficiency",
+        "thermodynamic efficiency",
+        "prompt on eta",
+        "The efficiency"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f1bf365ffd63b5f24c1b65"
+    },
+    {
+      "id": "72658b53-9497-4640-9cad-e678fb4b1637",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "Bertha cheats on George Dorset with Ned Silverton, all three of whom accompany the main character on a Mediterranean cruise. That same main character turns down Simon Rosedale to try for the hand of Percy Gryce, but changes her mind after Gus Trenor tries some shenanigans. Mrs Peniston leaves that protagonist ten thousand dollars which she uses to pay off her debts before overdosing. Her body is discovered by Lawrence Seldon. Depicting the immoralities of moneyed New Yorkers, for 10 points, identify this Edith Wharton novel about Lily Bart.",
+      "powerMarkPosition": 273,
+      "answer": "House of Mirth",
+      "acceptableAnswers": [
+        "House of Mirth",
+        "The House of Mirth"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0d8e"
+    },
+    {
+      "id": "227d7c09-4032-4aad-9bec-1493e7975937",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "Mayo Fuster Morell has applied this thinker's concepts of \"action situations\" and \"action arenas\" to online creative \"peer production.\" This thinker differentiated \"conditional cooperators\" and \"willing punishers\" from \"rational egoists\" in a paper that presents experiments that undermine the \"zero contribution\" hypothesis. This thinker postulated eight rules for managing CPRs, including \"match rules to... local needs and conditions.\" This creator of the IAD framework and author of \"Collective Action and the Evolution of Social Norms\" used the examples of farmers in the Swiss Alps and fishers in Maine to dispute Garret Hardin's conclusions about resource management. For 10 points, name this author of Governing the Commons, the first female Nobel laureate for economics.",
+      "powerMarkPosition": 397,
+      "answer": "Ostrom",
+      "acceptableAnswers": [
+        "Ostrom",
+        "The Ostrom"
+      ],
+      "source": "qbreader",
+      "sourceId": "691d18ecdd1d63a6adb63576"
+    },
+    {
+      "id": "7179801f-e698-4221-bd32-86e02cade862",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "A well-known joke in this country holds that its second-smallest division of Molise [moh-lee-say] \"doesn't exist.\" This country is home to reclaimed marshes called the Maremma, which produce the famed Canino oil. Because of its declining population, such towns as Ollolai in this country are offering houses for only one euro. Lake Garda is in this nation's Dolomite range, and the Apennine mountains form the backbone of this country. For 10 points, name this country through which the Arno, Po, and Tiber Rivers flow, the last of which goes through this country's capital, Rome.",
+      "powerMarkPosition": 316,
+      "answer": "Italy",
+      "acceptableAnswers": [
+        "Italy",
+        "Italian Republic",
+        "Italia",
+        "Republicca Italiana",
+        "The Italy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52a43"
+    },
+    {
+      "id": "fdc34adc-29f5-4248-a0d5-80274072ea3f",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for liver functions. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this liver-related structure.",
+      "powerMarkPosition": 69,
+      "answer": "Liver",
+      "acceptableAnswers": [
+        "liver",
+        "Liver"
+      ],
+      "explanation": "The liver is a key component of the Digestive system, involved in liver functions.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "accb7482-955f-4a90-b78f-1851a5d17cef",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "The observation that this quantity was correlated to prices under the gold standard was the subject of Gibson's paradox. LIBOR and EURIBOR are primary benchmarks for this quantity. The Fisher equation describes the relationship between the \"nominal\" and \"real\" forms of this quantity. 72 divided by this quantity calculates the time needed for an investment to double. To combat inflation, the Fed periodically \"raises\" these values, which as a result lowers the demand for goods and services. For 10 points, name this quantity that is the percentage charged or earned on a loan or investment.",
+      "powerMarkPosition": 346,
+      "answer": "interest",
+      "acceptableAnswers": [
+        "interest",
+        "nominal interest rate",
+        "accept real interest rate",
+        "prompt on rate s by asking “of what?”",
+        "The interest"
+      ],
+      "source": "qbreader",
+      "sourceId": "689206ad282b420d4a198b17"
+    },
+    {
+      "id": "4fd709f3-1862-4168-9c3d-cfffabfef8f1",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "text": "This man achieved a major military success when he victoriously led the ring wing at the battle of the Colline Gate. Such a success came after he had spent years in exile, including time spent hiding in a cave in Spain after his family ran afoul of the Marians. According to Plutarch, after this man's death, an actor sang lines from the Bacchae while displaying this man's severed head. While he earlier rose to prominence under Sulla, he would become better known for his service in the Third Servile War, which saw him defeating the armies of Spartacus. He died at Carrhae at the hands of the Parthians after forming an alliance in 60 B.C. For 10 points, name this man who joined Pompey and Caesar in the First Triumvirate.",
+      "powerMarkPosition": 494,
+      "answer": "Crassus",
+      "acceptableAnswers": [
+        "Crassus",
+        "The Crassus"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f82f8c626ea977c7a34c6"
+    },
+    {
+      "id": "e40b4d1f-3f52-4af7-a29c-d85f87d9ffb8",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "text": "Vsevolod Meyerhold reacted against the naturalistic techniques for this art form with his system of biomechanics. Techniques for this art form, such as the \"Magic If,\" were popularized in America by Lee Strasberg. Konstantin Stanislavski's system for this art form suggests that performers use their imagination to affect their behavior subconsciously. In ancient Greece, performers of this art form wore masks to take part in works like The Libation Bearers and Agamemnon. For 10 points, a \"method\" approach to what art form has been used by practitioners like Daniel Day-Lewis and Meryl Streep?",
+      "powerMarkPosition": 404,
+      "answer": "acting",
+      "acceptableAnswers": [
+        "acting",
+        "theater",
+        "The acting"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec2b2977063e8d403f0870"
+    },
+    {
+      "id": "853d2c80-99fc-4e7d-bb3a-c349802cfaf8",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for blood vessel structure. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this aorta-related structure.",
+      "powerMarkPosition": 97,
+      "answer": "Aorta",
+      "acceptableAnswers": [
+        "aorta",
+        "Aorta"
+      ],
+      "explanation": "The aorta is a key component of the Cardiovascular system, involved in blood vessel structure.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a4a01cb2-fd73-445e-a776-9868b8dc9b91",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "text": "One film directed by this man, Rope, consists of a single uninterrupted take, and his film Lifeboat unfolds entirely within that vessel. Bernard Herrmann worked on many of his films' scores, including the avian soundtrack to his adaptation of The Birds. James Stewart appears in both his Rear Window and Vertigo. Cary Grant stars as Roger Thornhill and Anthony Perkins manages the Bates Hotel in two of this man's films. For ten points, name this director of North by Northwest, Vertigo, and Psycho.",
+      "powerMarkPosition": 259,
+      "answer": "Hitchcock",
+      "acceptableAnswers": [
+        "Hitchcock",
+        "The Hitchcock"
+      ],
+      "source": "qbreader",
+      "sourceId": "647044212576885f91e6258d"
+    },
+    {
+      "id": "910796bb-ebea-4ebc-8b5d-d56e1c36c5bb",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for blood glucose regulation. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this insulin-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Insulin",
+      "acceptableAnswers": [
+        "insulin",
+        "Insulin"
+      ],
+      "explanation": "The insulin is a key component of the Endocrine system, involved in blood glucose regulation.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "359e75d8-4672-4da4-85bc-d919cd8ad436",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "An experiment on delayed gratification led by Walter Mischel at this institution is named for its use of marshmallows. A man nicknamed \"John Wayne\" helped cause one experiment at this university to shut down after acting as an abusive guard. That experiment, which was conducted by Philip Zimbardo at this university, assigned some participants to be \"inmates\" in a simulated prison. For 10 points, name this university near Palo Alto, California.",
+      "powerMarkPosition": 234,
+      "answer": "Stanford",
+      "acceptableAnswers": [
+        "Stanford",
+        "The Stanford"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef79cbbbb69a5263cde7"
+    },
+    {
+      "id": "6c552009-cdbc-4b59-a896-71db0c350f7f",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "An event named for these objects was instigated by the secret Council of Sixteen and resulted in the issuance of the Edict of Union. Jaroslaw Dabrowski (YA-row-slav da-BROV-ski) died on one of these objects during the \"Bloody Week.\" Many of them were built following the end of the \"banquets campaign.\" The Mobile Guard destroyed many of these structures erected after the closing of the National Workshops. Henry, Duke of Guise, seized power on the so-called \"Day\" of these structures. Victor Hugo's experience traversing these structures inspired the battle scenes in Les Miserables. These structures were used to block troops during events like the June Days and the February Revolution. For 10 points, name these makeshift fortifications that were often built during Parisian revolutions.",
+      "powerMarkPosition": 459,
+      "answer": "barricade",
+      "acceptableAnswers": [
+        "barricade",
+        "barrier",
+        "blockade",
+        "roadblock",
+        "The barricade"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54adf7f"
+    },
+    {
+      "id": "f136be6b-d68e-4d46-b496-4e88d00675ae",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "text": "A ruler of this city is said to have enjoyed getting debtors drunk and then setting up an iron maiden-like device disguised as his promiscuous wife. Pyrrhus of Epirus disastrously attempted to install Cleonymus as king of this city, which was subdued with the defeat of Nabis. An earthquake that struck this city in 464 BCE coincided with a revolt whose survivors settled at Naupactos. This city was ruled by the Agiad and Eurypontid dynasties, and its constitution was devised by Lykourgos. For 10 points, helots served this famously terse polis, at one point led by Leonidas.",
+      "powerMarkPosition": 340,
+      "answer": "Sparta",
+      "acceptableAnswers": [
+        "Sparta",
+        "The Sparta"
+      ],
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db46ae7"
+    },
+    {
+      "id": "27ed213d-287e-4954-995e-ff705f7a3ba7",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "According to some sources, the Graces were the children of the naiad Aegle and this god. A septet of sons of this god drove the Telkhines off of Rhodes. One son of this Greek god was the ruler of Colchis when Phrixus presented the Golden Fleece. His affair with Perse resulted in that son, Aeetes, as well as a daughter of who fell in love with a white bull sent by Poseidon. This father of Pasiphae and Circe used the island of Thrinacia to pasture his cattle, which were guarded by his daughters Lampetie and Phaethusa. This god was angered when those cattle were slaughtered and eaten by Eurylochus and the crewmen of Odysseus. Another son of this only son of the Titan Hyperion drowned after losing control of his chariot. For 10 points, name this father of Phaeton, the original Greek god of the sun.",
+      "powerMarkPosition": 375,
+      "answer": "Helios",
+      "acceptableAnswers": [
+        "Helios",
+        "Helius",
+        "The Helios"
+      ],
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e6dca"
+    },
+    {
+      "id": "e5ef23d9-9ad0-41c9-8280-46de28c1d36a",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "One work by this man takes place in a location that is \"festooned with cobwebs\" and contains a bust of Hippocrates, which is reported to have spoken the word, \"Forbear.\" In another of this man's works, Elizabeth breaks off her engagement to Mr. Hooper, who wears an unorthodox article of clothing. This author of \"Dr. Heidegger's Experiment\" and \"The Minister's Black Veil\" also described a romance between Holgrave and Phoebe Pyncheon, who helps her elderly cousin Hepzibah take care of Clifford after he is released from prison in The House of the Seven Gables. For 10 points, name this author who wrote about Hester Prynne in The Scarlet Letter.",
+      "powerMarkPosition": 244,
+      "answer": "Hawthorne",
+      "acceptableAnswers": [
+        "Hawthorne",
+        "The Hawthorne"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe93f"
+    },
+    {
+      "id": "b07467ac-1ad2-4ef0-b90b-ef75492a548e",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "In a story by this author, two characters plan to surprise the \"whole region\" by hunting wildfowl together and dining in each other's castles after they share a wine flask. A character's claim that \"all hunting stories are the same\" prompts the Baroness to tell one in which an escaped hyena eats a gypsy child in this author's story \"Esmé.\" The single-word sentence \"Wolves.\" ends a story by this author, in which hunters from the rival Znaeym and von Gradwitz families get trapped under a fallen tree in the Carpathians. In a story by this author, a girl with a specialty for \"romance at short notice\" invents a story about three hunters getting engulfed in a bog to frighten Mr. Nuttel when they return. For 10 points, name this Victorian author of \"The Interlopers\" and \"The Open Window.\"",
+      "powerMarkPosition": 431,
+      "answer": "Saki",
+      "acceptableAnswers": [
+        "Saki",
+        "Hector Hugh Munro",
+        "The Saki"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae664"
+    },
+    {
+      "id": "16008d0c-8c23-4658-a1bb-0bbb5b24121a",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "The end product of this process is 3-PG, which is generated by the enzyme RuBisCo. NADPH as a product of the first stage of this process, while the second stage of this process can occur in the spongy mesophyll. The Calvin Cycle consumes two molecules of carbon dioxide in this process. For 10 points, name this process in the chloroplast that creates sugars from water and carbon dioxide in the presence of light.",
+      "powerMarkPosition": 254,
+      "answer": "photosynthesis",
+      "acceptableAnswers": [
+        "photosynthesis",
+        "The photosynthesis"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e14f2"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "dd4253d4-c1f3-4cb7-8002-4ffa29091374",
+      "linkedTossupId": "e3c43b02-7eb5-4e9b-8a3c-c2adf49816de",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Austrian composer of the \"Farewell\" Symphony who employed an unexpected fortissimo chord in his \"Surprise\" Symphony, a dynamically calm composition.",
+          "answer": "Haydn",
+          "acceptableAnswers": [
+            "Haydn",
+            "The Haydn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Haydn was nicknamed the \"father of the symphony\" as well as \"father of\" this other musical composition that consists of two violins, a viola, and a cello.",
+          "answer": "string quartet",
+          "acceptableAnswers": [
+            "string quartet",
+            "The string quartet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "George Frideric Handel's Israel in Egypt may have influenced Haydn to write a composition based on John Milton's Paradise Lost titled after this event described in the book of Genesis.",
+          "answer": "Creation",
+          "acceptableAnswers": [
+            "Creation",
+            "The Creation"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man included two muted violins in a final adagio in which the musicians stop playing, extinguish a candle, and exit the stage. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "676f723ef56e0dff73abee2a"
+    },
+    {
+      "id": "c922af34-5a06-43a0-997b-939253d2d567",
+      "linkedTossupId": "bd094f18-a11b-4fd2-b9e0-d3a451b13862",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The rankings are primarily based on their connectivity in terms of four \"advanced producer services\", advertising, finance, legal services and this sort of service provided by a Big Four which includes friend of OUQS, PwC.",
+          "answer": "Account",
+          "acceptableAnswers": [
+            "Account",
+            "The Account"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This city is listed as an Alpha city by the GaWC. Noted urban sociologists Louis Wirth and Ernest Burgess were part of a school of sociology based in this city.",
+          "answer": "Chicago",
+          "acceptableAnswers": [
+            "Chicago",
+            "The Chicago"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Dutch-American sociologist coined the term 'global city' in her 1991 book The Global City: New York, London, Tokyo. She is married to fellow sociologist Richard Sennett.",
+          "answer": "Sassen",
+          "acceptableAnswers": [
+            "Sassen",
+            "The Sassen"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Globalisation and World Cities Research Network ranks world cities from Alpha double plus to Gamma minus. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6414e1a1d83c2db5e169c048"
+    },
+    {
+      "id": "690aabc4-758e-42d4-85b8-065bf4c29aae",
+      "linkedTossupId": "d02c7bca-e6dd-41d9-b269-e4297c2d8916",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these compounds with geminal and vicinal types, whose most common example is ethylene glycol.",
+          "answer": "diol",
+          "acceptableAnswers": [
+            "diol",
+            "The diol"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Strong oxidizing agents can cleave the carbon-carbon sigma bond in a vicinal diol to yield compounds containing this functional group, which consists of a carbon atom double bonded to an oxygen atom.",
+          "answer": "carbonyl",
+          "acceptableAnswers": [
+            "carbonyl",
+            "The carbonyl"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Vicinal diols are converted to carbonyl-containing compounds under acidic conditions in this reaction, first performed by Wilhelm Fittig with sulfuric acid. It involves the dehydration of a glycol to form a ketone and the migration of a methyl group from one carbon atom to an adjacent one.",
+          "answer": "pinacol",
+          "acceptableAnswers": [
+            "pinacol",
+            "pinacol-pinacolone rearrangement",
+            "The pinacol"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Oxidation of alkenes with osmium tetroxide can be used to synthesize these compounds. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63052604c887e5458fc32d81"
+    },
+    {
+      "id": "5e927dee-dd79-4c89-938e-78fd1dcc818a",
+      "linkedTossupId": "72658b53-9497-4640-9cad-e678fb4b1637",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel in which Long John Silver takes Jim Hawkins hostage while on the title landform.",
+          "answer": "Treasure Island",
+          "acceptableAnswers": [
+            "Treasure Island",
+            "The Treasure Island"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Treasure Island is a novel by this Scottish author, who also wrote Catriona (\"Katrina\"), a sequel to a novel featuring David Balfour, Kidnapped.",
+          "answer": "Stevenson",
+          "acceptableAnswers": [
+            "Stevenson",
+            "The Stevenson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This crazy man is the only inhabitant of Treasure Island, having been marooned there. It is later revealed that he had found the treasure before the Hispaniola arrived.",
+          "answer": "Ben",
+          "acceptableAnswers": [
+            "Ben",
+            "either",
+            "The Ben"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this novel, Squire Trelawney (\"tree-LAWN-ee\") plans an expedition on the Hispaniola (\"hiss-pan-YO-luh\") to go in search of loot buried by Captain Flint. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec66af"
+    },
+    {
+      "id": "71bed083-8138-41f5-aa51-767823cfd4ea",
+      "linkedTossupId": "227d7c09-4032-4aad-9bec-1493e7975937",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this infrastructure project that reverses the flow in a certain river, allowing sewage to flow into the Mississippi watershed.",
+          "answer": "Chicago Sanitary",
+          "acceptableAnswers": [
+            "Chicago Sanitary",
+            "The Chicago Sanitary"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The purpose of building the canal was to reduce the prevalence of this salmonella-caused water-borne disease. Ferrie and Troesken show that the mechanism operated indirectly since a wide variety of illnesses strike during this disease's long recovery period.",
+          "answer": "typhoid",
+          "acceptableAnswers": [
+            "typhoid",
+            "The typhoid"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The canal is thus an example of stage two of Demographic Transition, in which death rates decline, especially child mortality. In stage three, this thinker first predicted quantity-quality tradeoff in children. This economist collected many of his ideas in the 1981 book A Treatise on the Family.",
+          "answer": "Becker",
+          "acceptableAnswers": [
+            "Becker",
+            "The Becker"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The construction of this project corresponded to a large discrete decline in the rate of child mortality, and also explains a historic baseball rivalry. FTPE:",
+      "source": "qbreader",
+      "sourceId": "62e35effc080082733afc504"
+    },
+    {
+      "id": "473e5496-212c-452d-ab7c-cd8f8e5ce01e",
+      "linkedTossupId": "7179801f-e698-4221-bd32-86e02cade862",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this largest coral reef in the world, located off the coast of Cairns, Australia.",
+          "answer": "Great Barrier",
+          "acceptableAnswers": [
+            "Great Barrier",
+            "The Great Barrier"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The second-largest coral reef in the world is this English-speaking country's namesake barrier reef. This is the only Central American country to not have a Pacific coastline.",
+          "answer": "Belize",
+          "acceptableAnswers": [
+            "Belize",
+            "The Belize"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The barrier reefs of this country's Raja Ampat Islands have the most diverse array of marine life in the world. This country's other islands include Sulawesi and Kalimantan.",
+          "answer": "Indonesia",
+          "acceptableAnswers": [
+            "Indonesia",
+            "The Indonesia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Lizard Island National Park is located above part of this natural feature. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc1c2"
+    },
+    {
+      "id": "1e53a917-eac1-443e-a802-52a144cedc41",
+      "linkedTossupId": "fdc34adc-29f5-4248-a0d5-80274072ea3f",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with adrenal cortex hormones.",
+          "answer": "adrenal",
+          "acceptableAnswers": [
+            "adrenal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the adrenal in the endocrine system?",
+          "answer": "Adrenal cortex hormones",
+          "acceptableAnswers": [
+            "Adrenal cortex hormones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to adrenal cortex hormones.",
+          "answer": "cortisol",
+          "acceptableAnswers": [
+            "cortisol"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "68ea5c95-d87b-4514-9301-128e24522891",
+      "linkedTossupId": "accb7482-955f-4a90-b78f-1851a5d17cef",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these kinds of workers who title a work by C. Wright Mills. They are often contrasted with their \"blue\" counterparts.",
+          "answer": "white collar",
+          "acceptableAnswers": [
+            "white collar",
+            "The white collar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This contemporary of Mills believed the government should strive to create a \"new class\" of workers, which he described in The New Industrial State.",
+          "answer": "Galbraith",
+          "acceptableAnswers": [
+            "Galbraith",
+            "The Galbraith"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this other work, Galbraith criticizes American politicians who strive to follow generally accepted beliefs, which he dubs \"conventional wisdom.\"",
+          "answer": "Affluent Society",
+          "acceptableAnswers": [
+            "Affluent Society",
+            "The Affluent Society"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These types of people often work in an office. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ead0be8c91030f69d5b74a"
+    },
+    {
+      "id": "768b2577-f233-43c5-b813-edcdb5c792f0",
+      "linkedTossupId": "4fd709f3-1862-4168-9c3d-cfffabfef8f1",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Papal bull issued by Boniface VIII that affirmed the church's supremacy over sovereign states.",
+          "answer": "Unam Sanctam",
+          "acceptableAnswers": [
+            "Unam Sanctam",
+            "The Unam Sanctam"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Boniface issued the bull Ausculta Fili to persuade this country's monarch, Philip the Fair, to cease his evil ways. Philip was a member of the House of Capet (kah-PAY).",
+          "answer": "France",
+          "acceptableAnswers": [
+            "France",
+            "The France"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Along with Sciarra Colonna (SHAR-ah koh-LONE-ah), this keeper of the seal under Philip the Fair tried to kidnap Boniface VIII. This man believed the untimely deaths of Boniface and his successor, Benedict XI, proved the justice of his cause.",
+          "answer": "Nogaret",
+          "acceptableAnswers": [
+            "Nogaret",
+            "The Nogaret"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This statement declares that the Church must have \"one body and one head, not two heads like a monster.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490bfc0"
+    },
+    {
+      "id": "26c3750b-8075-416e-9e7c-6ea402e3558d",
+      "linkedTossupId": "e40b4d1f-3f52-4af7-a29c-d85f87d9ffb8",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this set of violin concerti, which were included by an Italian composer in a larger collection of concerti titled The Contest Between Harmony and Invention.",
+          "answer": "Four Seasons",
+          "acceptableAnswers": [
+            "Four Seasons",
+            "Le Quattro stagioni",
+            "The Four Seasons"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Four Seasons was composed by this Italian Baroque composer.",
+          "answer": "Vivaldi",
+          "acceptableAnswers": [
+            "Vivaldi",
+            "The Vivaldi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other family of Italian Baroque composers included Alessandro, who founded Neapolitan opera, and Domenico, who incorporated Spanish and Portuguese tunes into his 555 keyboard sonatas.",
+          "answer": "Scarlatti",
+          "acceptableAnswers": [
+            "Scarlatti",
+            "The Scarlatti"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of these pieces uses trills to depict a shivering cold. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc0d4"
+    },
+    {
+      "id": "3ad46520-3ae6-421e-b1fd-eb08977a53e1",
+      "linkedTossupId": "853d2c80-99fc-4e7d-bb3a-c349802cfaf8",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with cranial nerves.",
+          "answer": "cranial nerve",
+          "acceptableAnswers": [
+            "cranial nerve"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cranial nerve in the nervous system?",
+          "answer": "Cranial nerves",
+          "acceptableAnswers": [
+            "Cranial nerves"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to cranial nerves.",
+          "answer": "vagus nerve",
+          "acceptableAnswers": [
+            "vagus nerve"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "8d692c32-f97b-464d-8661-11a1983b97f1",
+      "linkedTossupId": "a4a01cb2-fd73-445e-a776-9868b8dc9b91",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this composer, Ludwig van Beethoven's favorite contemporary. After Louis XVI's (\"the sixteenth's\") beheading, he wrote a C minor requiem that Beethoven preferred over Wolfgang Amadeus Mozart's.",
+          "answer": "Cherubini",
+          "acceptableAnswers": [
+            "Cherubini",
+            "The Cherubini"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Like Mozart, Cherubini joined this secret society that promoted \"humanist\" music. As part of this organization, Mozart wrote \"Funeral Music\" for two members of his lodge.",
+          "answer": "Mason",
+          "acceptableAnswers": [
+            "Mason",
+            "Freemasonry",
+            "Masonic Lodge",
+            "accept Masonic Funeral Music",
+            "Maurerische Trauermusik",
+            "The Mason"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cherubini wrote an 1841 treatise on this technique and fugue. Johann Joseph Fux's Gradus ad Parnassum is another treatise on this subject, the combination of harmonically dependent but melodically separate lines.",
+          "answer": "counterpoint",
+          "acceptableAnswers": [
+            "counterpoint",
+            "word forms such as contrapuntal",
+            "The counterpoint"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Marie-Joseph Chénier (\"shain-YAY\") wrote the lyrics to this composer's Hymne du Panthóon, which commemorates Jean-Paul Marat. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed60f71539231f571edb98"
+    },
+    {
+      "id": "35ec33d1-8ec5-4c81-911f-6eb0e75c095a",
+      "linkedTossupId": "910796bb-ebea-4ebc-8b5d-d56e1c36c5bb",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with cortisol functions.",
+          "answer": "adrenal",
+          "acceptableAnswers": [
+            "adrenal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the adrenal in the endocrine system?",
+          "answer": "Cortisol functions",
+          "acceptableAnswers": [
+            "Cortisol functions"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to cortisol functions.",
+          "answer": "cortisol",
+          "acceptableAnswers": [
+            "cortisol"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e0ba667f-60cb-45cc-b9f2-d7450f885b4c",
+      "linkedTossupId": "359e75d8-4672-4da4-85bc-d919cd8ad436",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this kind of compulsory unrequited payment to the government. The \"sales\" version is added on to purchases.",
+          "answer": "tax",
+          "acceptableAnswers": [
+            "tax",
+            "The tax"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A Pigouvian tax such as a carbon tax is designed to account for the negative type of these inefficiencies in the market. These are the costs of a policy that do not directly affect those who choose the policy.",
+          "answer": "externality",
+          "acceptableAnswers": [
+            "externality",
+            "The externality"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Arthur Laffer helped pioneer this approach to taxation in the Reagan administration. It involves reducing taxes in the hopes of stimulating economic growth and has been dubbed \"trickle-down\" economics by critics.",
+          "answer": "supply-side",
+          "acceptableAnswers": [
+            "supply-side",
+            "The supply-side"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The individual \"income\" type of this payment is levied on the amount of money earned by a person. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b86a"
+    },
+    {
+      "id": "111dc020-6676-4b6c-91a7-a93d39a1d6e4",
+      "linkedTossupId": "6c552009-cdbc-4b59-a896-71db0c350f7f",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This Cuban leader overthrew Fulgencio Batista and gave the \"History will absolve me\" speech. The CIA failed to assassinate this man using cigars, and he was succeeded by his brother Raul.",
+          "answer": "Castro",
+          "acceptableAnswers": [
+            "Castro",
+            "The Castro"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This leader of the Dominican Republic had the Mirabal sisters executed and infamously ordered his troops to carry out the Parsley Massacre.",
+          "answer": "Trujillo",
+          "acceptableAnswers": [
+            "Trujillo",
+            "El Jefe",
+            "The Trujillo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This family ruled Nicaragua from 1936 to 1979, and its last member to be president was Anastasio. This family was overthrown during the revolution by the Sandinistas.",
+          "answer": "Somoza",
+          "acceptableAnswers": [
+            "Somoza",
+            "The Somoza"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name some Latin American dictators.",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b1772"
+    },
+    {
+      "id": "60cc754f-b9d0-486c-9f63-ff26e13e8e0b",
+      "linkedTossupId": "f136be6b-d68e-4d46-b496-4e88d00675ae",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this capital where Bismarck hosted an 1878 congress that freed much of the Balkans from Ottoman control.",
+          "answer": "Berlin",
+          "acceptableAnswers": [
+            "Berlin",
+            "The Berlin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Europe's great powers gathered in Berlin to revise this treaty that ended the recent Russo-Turkish war, which created an alarmingly large autonomous Bulgaria.",
+          "answer": "San Stefano",
+          "acceptableAnswers": [
+            "San Stefano",
+            "The San Stefano"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Congress of Berlin forced newly-independent Romania to turn over this region to the Russian Empire, in exchange for which they received North Dobrudja from Ottoman-controlled Bulgaria.",
+          "answer": "Bessarabia",
+          "acceptableAnswers": [
+            "Bessarabia",
+            "The Bessarabia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An Anton von Werner painting of an event in this city depicts Otto von Bismarck shaking the hand of Pyotr Shuvalov while Benjamin Disraeli leans on a cane. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423801"
+    },
+    {
+      "id": "9df10f28-6a36-49de-97f1-362d2f834df4",
+      "linkedTossupId": "27ed213d-287e-4954-995e-ff705f7a3ba7",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Along with a gourd, a Daoist figure named Li Tieguai carried one of these objects after his spirit entered the body of a homeless beggar. Li is frequently nicknamed for his use of this object",
+          "answer": "crutch",
+          "acceptableAnswers": [
+            "crutch",
+            "The crutch"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Iron Crutch Li was part of this group of figures, including Lu Dongbin. They include the gender-ambiguous Lan Caihe and live on Mount Penglai.",
+          "answer": "Eight Immortals",
+          "acceptableAnswers": [
+            "Eight Immortals",
+            "Bāxiān",
+            "The Eight Immortals"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This fangshi of the Eight Immortals first appeared on Earth as a white bat and served as the advisor to Emperor Yao in a previous life. He also rides a donkey that he can fold up into his pocket.",
+          "answer": "Zhang Guolao",
+          "acceptableAnswers": [
+            "Zhang Guolao",
+            "Zhang Guo",
+            "prompt on partial answer",
+            "The Zhang Guolao"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A figure nicknamed for one of these items was given a tablet by Laozi after resisting the temptation of a woman made of wood. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68aa6f7feb7f936a9a15e446"
+    },
+    {
+      "id": "1e7f97ed-5aba-4dbb-9af2-ad0f5ca54a4b",
+      "linkedTossupId": "e5ef23d9-9ad0-41c9-8280-46de28c1d36a",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this play that ends with Bertram Cates being fined 100 dollars and leaving town with Rachel Brown, the daughter of a reverend, after the adjournment of his trial.",
+          "answer": "Inherit the Wind",
+          "acceptableAnswers": [
+            "Inherit the Wind",
+            "The Inherit the Wind"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Inherit the Wind is a dramatization of this event, which is also covered in fantasy writer L. Sprague de Camp's (ell sprayg duh camp's) book The Great Monkey Trial.",
+          "answer": "Scopes",
+          "acceptableAnswers": [
+            "Scopes",
+            "The Scopes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This \"sage of Baltimore\" covered the Monkey Trial. He described William Jennings Bryan during the trial as someone who can \"never be the peasants' President\" but might become the \"peasants' Pope.\"",
+          "answer": "Mencken",
+          "acceptableAnswers": [
+            "Mencken",
+            "H. L. Mencken",
+            "The Mencken"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this play's third act, Henry Drummond tells the story of how he received a rocking horse named Golden Dancer as a youth. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae8261"
+    },
+    {
+      "id": "65cea101-3559-4214-8f8d-2b64e69ee5f7",
+      "linkedTossupId": "b07467ac-1ad2-4ef0-b90b-ef75492a548e",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this novel by Mikhail Bulgakov in which the devil, disguised as Professor Woland, visits Moscow.",
+          "answer": "Master and Margarita",
+          "acceptableAnswers": [
+            "Master and Margarita",
+            "The Master and Margarita"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Master and Margarita, The Master is working on a novel about the trial of this person. In another book, the Grand Inquisitor imprisons this person because he gave humanity free will rather than security.",
+          "answer": "Christ",
+          "acceptableAnswers": [
+            "Christ",
+            "Jesus of Nazareth",
+            "Yeshua Ha-Nozri",
+            "The Christ"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author included the parable of the Grand Inquisitor in his The Brothers Karamazov. He also wrote Crime and Punishment.",
+          "answer": "Dostoevsky",
+          "acceptableAnswers": [
+            "Dostoevsky",
+            "Fyodor Dostoyevsky",
+            "Fyodor Mikhailovich Dostoevsky",
+            "Fyodor Mikhailovich Dostoyevsky",
+            "The Dostoevsky"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this novel, Berlioz is decapitated by a streetcar after he slips on sunflower oil. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630144195c4c3a62fc38fee3"
+    },
+    {
+      "id": "c802df97-b2a8-4bbc-8af4-dc680fe6333c",
+      "linkedTossupId": "16008d0c-8c23-4658-a1bb-0bbb5b24121a",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This Greek came up with a mathematical model for the geocentric model, using a series of circles called epicycles. He also claimed that the earth is round.",
+          "answer": "Ptolemy",
+          "acceptableAnswers": [
+            "Ptolemy",
+            "The Ptolemy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Polish astronomer wrote On the Revolutions of Celestial Spheres, the first book to come up with a heliocentric model, except that the orbits were circular in his model.",
+          "answer": "Copernicus",
+          "acceptableAnswers": [
+            "Copernicus",
+            "The Copernicus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Kepler developed his model of elliptical orbits using the data primarily taken by this Danish scientist.",
+          "answer": "Tycho",
+          "acceptableAnswers": [
+            "Tycho",
+            "either first",
+            "last name",
+            "The Tycho"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Throughout time, different people have had different ideas of a model for the solar system. Identify some of them, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0ca4"
+    }
+  ]
+}

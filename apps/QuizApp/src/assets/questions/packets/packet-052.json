@@ -1,0 +1,1150 @@
+{
+  "packetId": "packet-052",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Fine Arts",
+    "History",
+    "Literature",
+    "Science",
+    "Human Body",
+    "Geography",
+    "Mythology",
+    "Philosophy",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "6e46e648-2c4c-4286-8055-d9b126804f10",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "text": "A director from this nation won the 2011 Oscar for Best Foreign Language Film for a film in which the doctor Anton treats a Sudanese warlord, before letting him be beaten to death by his victims. When told \"Now you will be poor the rest of your life\", a character from a film set in this nation replies \"An artist is never poor\". The protagonists of a film from this nation are four teachers who take to drinking to make their lives and work more enjoyable. The exclusive use of hand-held cameras and no non-diegetic [dy-eh-JET-ic] music are among the rules in a movement from this nation. A director from this nation, Bille August, is a two-time Palme d'Or winner. For 10 points, Lars von Trier and Thomas Vinterberg created the Dogme 95 movement in which northern European nation?",
+      "powerMarkPosition": 382,
+      "answer": "Denmark",
+      "acceptableAnswers": [
+        "Denmark",
+        "The Denmark"
+      ],
+      "source": "qbreader",
+      "sourceId": "6504ab679ee6e14c2d0e4155"
+    },
+    {
+      "id": "77a8b77d-4e61-4766-bb31-be4b599dbff8",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "Fletcher Pratt has argued that this man should be seen as the \"Father of American Cavalry\" because of his pioneering use of mounted riflemen. This man put forward a measure to have members of Congress receive an annual salary rather than a $6 per diem, but when the public opposed the measure he vowed to fight for its repeal. He offended religious groups by arguing that the separation of church and state prohibited the closing of post offices on Sundays, and further scandalized the nation through his open relationship with a mulatto he had inherited, Julia Chinn. When he was elected to the House in 1807, he became the first native Kentuckian to enter Congress. When he ran for his highest office many Democratic electors refused to vote for him, which led to his becoming the first Vice President chosen by the Senate. For 10 points, name this man who claimed to have killed Tecumseh and who definitely served as Vice President under Martin Van Buren.",
+      "powerMarkPosition": 568,
+      "answer": "Johnson",
+      "acceptableAnswers": [
+        "Johnson",
+        "The Johnson"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b0d41"
+    },
+    {
+      "id": "4990ec95-3bb2-4053-8044-71cbf3097484",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "A journalist with this surname imagined a \"macabre parlor game\" in which she invented a series of alphabetically named characters with varied personalities in her essay \"Who Goes Nazi?\" That \"First Lady of American Journalism\" with this surname, the second wife of Sinclair Lewis, had the first name Dorothy. A writer with this surname wrote about a man who asks the narrator to throw a toaster into his bathtub at the climax of the song \"White Rabbit\"; that narrator later recalls that \"we were riding the crest of a high and beautiful wave\" while lamenting the end of the 1960s counterculture. That author with this surname wrote \"The Kentucky Derby is Decadent and Depraved\" and a book about Raoul Duke and Dr. Gonzo's drug-laced trip to Nevada. For 10 points, give this surname of Hunter, the author of Fear and Loathing in Las Vegas.",
+      "powerMarkPosition": 308,
+      "answer": "Thompson",
+      "acceptableAnswers": [
+        "Thompson",
+        "Dorothy Celene Thompson",
+        "Hunter Stockton Thompson",
+        "The Thompson"
+      ],
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490bc0c"
+    },
+    {
+      "id": "a531dd0e-3709-41bc-baa4-d096a1a1e1b6",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "Parts of this structure were once nicknamed \"sial\" and \"sima\" because they are made of aluminum and magnesium alongside silicon dioxide. The Moho discontinuity separates this part of the lithosphere from a lower level. \"Continental\" and \"oceanic\" are two types of this structure, which makes up the upper portion of tectonic plates. For ten points, name this outer structural layer of the Earth that sits above the mantle.",
+      "powerMarkPosition": 186,
+      "answer": "crust",
+      "acceptableAnswers": [
+        "crust",
+        "The crust"
+      ],
+      "source": "qbreader",
+      "sourceId": "6837af66278db02eb79f1d88"
+    },
+    {
+      "id": "46531ada-a842-474a-b8d7-2bd964840f66",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for blood pressure regulation. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this systole-related structure.",
+      "powerMarkPosition": 75,
+      "answer": "Systole",
+      "acceptableAnswers": [
+        "systole",
+        "Systole"
+      ],
+      "explanation": "The systole is a key component of the Cardiovascular system, involved in blood pressure regulation.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c28d273b-1a1a-47dc-a01b-1c6b28ba0ad6",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "Made up of what is left over of Lake Bonneville, the lake is now fed by the Weber River, the Bear River, and the Jordan River. This lake has both brine shrimp and brine flies, but does not have any fish species living in it. The winter winds blowing over this lake create significant snowfall to its east, including in a capital named for this lake. For 10 points, name this landmark lake found near the capital of the state of Utah.",
+      "powerMarkPosition": 224,
+      "answer": "Great Salt Lake",
+      "acceptableAnswers": [
+        "Great Salt Lake",
+        "Salt Lake",
+        "The Great Salt Lake"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c67b"
+    },
+    {
+      "id": "d64e2484-3b3d-4736-9eb0-38108a3c7d1e",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "Though it is now understood that this writer died of uremia aggravated by a morphine overdose, several older sources mysteriously report his death as a suicide. The Barnum and Bailey Circus temporarily stopped trained animal acts as a result of lobbying from a club named for this author, who raised public awareness of cruelty to circus animals in the foreword to his novel Jerry of the Islands. This one-time oyster pirate established a financially disastrous \"Beauty Ranch\" in Sonoma County. The first recorded instance of the drunken hallucination of \"seeing pink elephants\" appears in this author's memoir John Barleycorn. The term \"yellow peril\" gained traction in American discourse after this writer penned a super racist 1904 essay with that title. This writer's development of scurvy during the Klondike Gold Rush informed his story of a man who dies of hypothermia when he fails to perform the title action. For 10 points, name this author of \"To Build a Fire,\" who wrote about the sled dog Buck in Call of the Wild.",
+      "powerMarkPosition": 529,
+      "answer": "London",
+      "acceptableAnswers": [
+        "London",
+        "John Griffith London",
+        "John Griffith Chaney",
+        "The London"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0df9f"
+    },
+    {
+      "id": "a6cc4211-9794-42a5-873a-0429387459ba",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "In one myth, this god sent seven scorpions to protect Isis. This god, who is either the father or the husband of the goddess Seshat, had a cult centered in the town of Khmunu, which would later be known as Hermopolis. This god was able to obtain five extra days in the year after gambling with Khonsu, and the crescent moon is said to be this god's beak. For 10 points, name this ibis-headed Egyptian god of writing and wisdom.",
+      "powerMarkPosition": 245,
+      "answer": "Thoth",
+      "acceptableAnswers": [
+        "Thoth",
+        "The Thoth"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ead0be8c91030f69d5b73a"
+    },
+    {
+      "id": "5473cd8d-d511-48ac-80c0-9e953476fb02",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "text": "The operas The Unexpected Encounter and The False Slave are among the comic operas of this composer, who once performed a concerto using twenty-six drinking glasses at a benefit for himself. Like Lully, he used Quinault's libretto for his own opera Armide, while Calzabigi wrote the libretto for his Paris and Helen. This composer of the ballet Semiramis wrote a work in which Cynire is asked by the title nymph to search for her lover in Echo and Narcissus, but he might be better known for writing about a priestess who is magically transported away from being sacrificed by her father in Iphigenie en Aulide and Iphigenie en Tauride. For 10 points, name this German opera reformer and composer of Alceste and Orfeo et Eurydice.",
+      "powerMarkPosition": 316,
+      "answer": "Gluck",
+      "acceptableAnswers": [
+        "Gluck",
+        "The Gluck"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0433"
+    },
+    {
+      "id": "8af352f2-6053-4fc2-b080-6f3851d8da59",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "This philosophical concept is defined by the stronger party, according to Thrasymachus [thra-sih-mah-kus] in Plato's Republic. The \"difference principle\" is outlined in A Theory of [this concept], a 1971 book by John Rawls that describes a \"veil of ignorance\" required to make sure that this concept is applied fairly. A blindfolded woman holding balancing scales often represents, for 10 points, what moral and ethical concept related to equality and the law?",
+      "powerMarkPosition": 310,
+      "answer": "justice",
+      "acceptableAnswers": [
+        "justice",
+        "The justice"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004f39"
+    },
+    {
+      "id": "9cdd51fe-3f0c-4663-a15f-7549eba35e96",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "Routes for this type of transport include the California Zephyr and the Lake Shore Limited. The Northeast Corridor is the busiest route for this type of transport in the US and contains the Acela Express, America's only current example of the \"high-speed\" type of this transportation. New York City's Grand Central Terminal serves, for 10 points, what kind of transportation generally provided in the US by Amtrak?",
+      "powerMarkPosition": 242,
+      "answer": "train",
+      "acceptableAnswers": [
+        "train",
+        "railroads",
+        "just rail transportation",
+        "prompt on Amtrak by asking \"what kind of transportation does Amtrak provide?\"",
+        "The train"
+      ],
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ec86"
+    },
+    {
+      "id": "65c27045-8085-4684-b27d-dc50029071c8",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "In this country, the Bar Confederation opposed foreign rulers. The first historical leader of this nation, Mieszko I, founded the Piast dynasty and was baptized in 966. Under the Jagiellon dynasty, this nation helped repel an Ottoman invasion into Europe under John III Sobieski. This country's Sanacja movement deposed Josep Pilsudski. The 1569 Union of Lublin joined this nation with Lithuania. For 10 points, name this country that underwent partitions and was invaded by Hitler in 1939.",
+      "powerMarkPosition": 168,
+      "answer": "Poland",
+      "acceptableAnswers": [
+        "Poland",
+        "The Poland"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dee0c4"
+    },
+    {
+      "id": "072598a7-a922-4f49-8372-9c2123fbd984",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "The original explanation of it contains the flaw that the integral of the proposed scattering kernel over all space diverges to infinity, which is the exposure of a fundamental limitation of classical mechanics. This experiment required excellent eyesight and patience because it used a zinc sulfide detector, so it was actually conducted by Geiger and Marsden, the lab assistants to its namesake. For 10 points, identify the important experiment in physics that repudiated the plum pudding model when it showed that some α [alpha] particles were scattered at very high angles; a fact that led the namesake New Zealander to conclude that the atom contains a small, dense nucleus.",
+      "powerMarkPosition": 211,
+      "answer": "Rutherford",
+      "acceptableAnswers": [
+        "Rutherford",
+        "Rutherford scattering experiment",
+        "The Rutherford"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9840563"
+    },
+    {
+      "id": "8cd49ad1-2d16-487f-9cde-224fbc1b8d8c",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "An author with this first name wrote the column \"The Ebony Flute\" and wrote a story in which Paul Watson sets aside his anger against Americans to marry a singer named Mary. The story \"Wedding Day\" is by an author with this first name and the surname Bennett. An author with this first name stated \"We think of lukewarm water\" in a poem that begins \"We are things of dry hours and the involuntary plan.\" An author with this first name wrote the poem \"kitchenette building\" and placed the sections \"The Womanhood\" and \"The Anniad\" in a collection about a Black girl who grows into adulthood. A poem by an author with this first name depicts pool players at the \"Golden Shovel\" who \"jazz June\" and \"die soon.\" For 10 points, give this first name of the author of Annie Allen and \"We Real Cool,\" surnamed Brooks.",
+      "powerMarkPosition": 449,
+      "answer": "Gwen",
+      "acceptableAnswers": [
+        "Gwen",
+        "accept Gwendolyn Brooks",
+        "accept Gwendolyn Bennett",
+        "The Gwen"
+      ],
+      "source": "qbreader",
+      "sourceId": "6778c4945122940447a90baa"
+    },
+    {
+      "id": "28cdea39-874d-4eba-bfac-312f60c5bb4e",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "middle_school",
+      "text": "In one work by this man, a disembodied voice from above identifies the main character as a \"guileless fool.\" In another work by this man, Senta leaps to her death off the coast of Norway, freeing a phantom ship and its captain from a curse. In addition to composing Parsifal and The Flying Dutchman , this man introduced a variety of leitmotifs for characters such as Siegfried and Brunnhilde in his Ring Cycle . For 10 points, name this German opera composer known for \"The Ride of the Valkyries.\"",
+      "powerMarkPosition": 278,
+      "answer": "Wagner",
+      "acceptableAnswers": [
+        "Wagner",
+        "The Wagner"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b7ac"
+    },
+    {
+      "id": "daa100f1-33f6-420e-8e64-896e529f5faa",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "Walter Kaufmann translated this thinker's The Case of Wagner. He later rejected Wagner's romanticism and anti-Semitism in another essay collected in his On the Genealogy of Morals. He explained \"Why I Am So Wise\" in his autobiographical Ecce Homo, and described the will-to-power as a motivation to rise above slave morality. In another work, he describes eternal recurrence and the rise of the ubermensch. Name this German philosopher who attacked Christianity in works like Beyond Good and Evil, and who stated \"God is dead\" in The Gay Science and Thus Spoke Zarathustra.",
+      "powerMarkPosition": 394,
+      "answer": "Nietzsche",
+      "acceptableAnswers": [
+        "Nietzsche",
+        "The Nietzsche"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d0867240107e0f1e86"
+    },
+    {
+      "id": "e5174a71-174d-48bd-88c8-8f0a69f46654",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "This author of a Treatise on Probability advocated for devaluation over deflation, and wrote that \"in the long run we are all dead\" in his Tract on Monetary Reform. He advised higher taxation rather than deficit spending in How to Pay for the War. Associated with the liquidity trap and the multiplier effect, he argued against war reparations in The Economic Consequences of the Peace. He attacked laissez-faire economics in his magnum opus. For 10 points, name this economist who wrote The General Theory of Employment, Interest, and Money.",
+      "powerMarkPosition": 247,
+      "answer": "Keynes",
+      "acceptableAnswers": [
+        "Keynes",
+        "The Keynes"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b14dd"
+    },
+    {
+      "id": "cf071e3f-2209-454b-98de-fda8f876a2cc",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "In one term appearing in the general form of the Navier-Stokes equation, the gradient of pressure is divided by this other physical property. The two elements of the periodic table with the highest value of this property are iridium and osmium, and this property is lower in ice than in liquid water. In equations, it is represented by the lowercase Greek letter rho, and for a given substance, the ratio of this property to that of water is called specific gravity. For 10 points, identify this physical property, defined as the mass of an object divided by its volume.",
+      "powerMarkPosition": 300,
+      "answer": "Density",
+      "acceptableAnswers": [
+        "Density",
+        "“rho” before mentioned",
+        "The Density"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0a31"
+    },
+    {
+      "id": "1edf95d6-c74f-43e6-972f-b8872b47b292",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "An author's difficulty writing a novel about this art form inspired its opening line, \"Sth, I know that woman.\" Lutie Johnson kills a practitioner of this art form who attempts to rape her in Ann Petry's novel The Street. In a novel titled for this art form, eighteen-year-old Dorcas is killed by her older lover, Joe Trace. In a trilogy, a novel titled for this art form precedes one about the history of the town of Ruby, titled Paradise. After running away from Mister, Celie falls in love with Shug Avery, a practitioner of this art form, in The Color Purple. A poem by Abel Meeropol about \"Black bodies swinging in the Southern breeze\" was popularized by its use in this art form. For 10 points, name this art form practiced by Billie Holliday.",
+      "powerMarkPosition": 324,
+      "answer": "jazz",
+      "acceptableAnswers": [
+        "jazz",
+        "blues",
+        "prompt on music",
+        "prompt on singing",
+        "The jazz"
+      ],
+      "source": "qbreader",
+      "sourceId": "6797c22d6d78eee804a37a22"
+    },
+    {
+      "id": "12f742cf-663c-425e-9111-e3f39e938e56",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "It's not temperature, but due to EIT, this value can be nearly 0 in Bose-Einstein condensate. The reciprocal of this value squared is equal to relative permeability times relative permittivity. By Snell's Law, the ratio of the sines of the angles of incidence and refraction is equal to the corresponding ratio of this value for the two media, and the index of refraction is c over this quantity. Cherenkov radiation results when this value is passed, which cannot happen in a vacuum. For 10 points, name this value, the speed at which photons move in a material, which in a vacuum is defined as c.",
+      "powerMarkPosition": 360,
+      "answer": "velocity",
+      "acceptableAnswers": [
+        "velocity",
+        "speed for velocity",
+        "accept any mention of electromagnetic waves",
+        "photons instead of light",
+        "do not accept",
+        "prompt on “c”",
+        "“speed of light in a vacuum”",
+        "prompt on “index of refraction”",
+        "The velocity"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144da2"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "ba0e1eb3-fc8c-4ba0-9cc7-a206dfece841",
+      "linkedTossupId": "6e46e648-2c4c-4286-8055-d9b126804f10",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This man's quintet is divided into two periods, known as the First Great Quintet and Second Great Quintet. This trumpeter released such legendary albums as Bitches Brew and Kind of Blue.",
+          "answer": "Davis",
+          "acceptableAnswers": [
+            "Davis",
+            "The Davis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The First Great Quintet became a sextet when it was joined by Cannonball Adderley, who played this instrument. Another member of the quintet who played this instrument recorded the albums Blue Train and My Favorite Things.",
+          "answer": "sax",
+          "acceptableAnswers": [
+            "sax",
+            "either alto",
+            "tenor saxophone",
+            "The sax"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Second Great Quintet included this tenor saxophonist who was a member of Art Blakey's Jazz Messengers and co-founded Weather Report.",
+          "answer": "Shorter",
+          "acceptableAnswers": [
+            "Shorter",
+            "The Shorter"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about a quintet, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c3189f"
+    },
+    {
+      "id": "b5bf1552-9cc8-4af0-8f8e-052b1b51a32c",
+      "linkedTossupId": "77a8b77d-4e61-4766-bb31-be4b599dbff8",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Ivan brought a number of Italian architects, including Pietro Antonio Solari and Marco Ruffo, to Moscow in order to renovate this massive tower-filled fortress, which like St. Basil's Cathedral is now located on Red Square.",
+          "answer": "Kremlin",
+          "acceptableAnswers": [
+            "Kremlin",
+            "The Kremlin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After the death of Maria of Tver, Pope Paul II urged Ivan to marry Zoe, a member of this Byzantine Greek family. The founder of this dynasty, Michael VIII, reclaimed Constantinople from Baldwin II and the Latin Empire.",
+          "answer": "Palaeologus",
+          "acceptableAnswers": [
+            "Palaeologus",
+            "The Palaeologus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ivan's armies spent a few months of 1480 engaged in a standoff with the forces of Akhmat Khan of the Great Horde. The two armies were camped on opposite sides of this river in western Russia.",
+          "answer": "Ugra",
+          "acceptableAnswers": [
+            "Ugra",
+            "The Ugra"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Ivan III didn't earn the title \"Grand Prince of All Rus' \" by sitting around looking pretty. Identify the following about his deeds. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0e364"
+    },
+    {
+      "id": "a6ac2b1e-59c9-494b-a984-7391378e1857",
+      "linkedTossupId": "4990ec95-3bb2-4053-8044-71cbf3097484",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this author whose elaborately-plotted revenge tragedies include Rosmunda. The dramas Octavia, Saul, Myrrha and Timoleone are by this prolific 18th-century \"father of Italian tragedy.\"",
+          "answer": "Alfieri",
+          "acceptableAnswers": [
+            "Alfieri",
+            "il conte Vittorio Amedeo Alfieri",
+            "The Alfieri"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Alfieri's two-part retelling of this play was posthumously published. The City Dionysia awarded second place to this Euripides play, whose title character agrees to die in place of her husband Admetus.",
+          "answer": "Alcestis",
+          "acceptableAnswers": [
+            "Alcestis",
+            "Alceste",
+            "Alcesti",
+            "The Alcestis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Alfieri wrote a political drama about the fictional suicide of this real ruler. In a Schiller play, this king shares a dream of his palace on fire with Count Lerma, who becomes the confidante of his traitorous son.",
+          "answer": "Philip II",
+          "acceptableAnswers": [
+            "Philip II",
+            "Filippo Secondo di Spagna",
+            "Filippo d’Asburgo",
+            "Felipe Segundo",
+            "accept “el Prudente”",
+            "accept Philip I of Portugal",
+            "Filipe I of Portugal",
+            "The Philip II"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A myth that Cosimo I de' Medici's son accidentally murdered his own brother inspired the play Don Garzia by this author, who also dramatized the life of Scipio Africanus in Sofonisba. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64306481335bc8c468cbb617"
+    },
+    {
+      "id": "7912aa46-57ce-465d-a1dd-cee47f5cdd2f",
+      "linkedTossupId": "a531dd0e-3709-41bc-baa4-d096a1a1e1b6",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this type of radiation, which has wavelengths just longer than visible light. This type of radiation is commonly used in night-vision goggles and remote controls.",
+          "answer": "infrared",
+          "acceptableAnswers": [
+            "infrared",
+            "The infrared"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Like infrared radiation, this type of radiation at the high wavelength end of the electromagnetic spectrum is non-ionizing. These waves are used to broadcast using the modulation schemes AM and FM.",
+          "answer": "radio",
+          "acceptableAnswers": [
+            "radio",
+            "The radio"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This type of electromagnetic radiation has a wavelength between those of infrared radiation and radio waves. This type of radiation is often used to heat up food in a kitchen device named for them.",
+          "answer": "microwaves",
+          "acceptableAnswers": [
+            "microwaves",
+            "The microwaves"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a form of spectroscopy named for this type of electromagnetic radiation, molecules can be determined from the fingerprint region of their spectrographs. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a504bd"
+    },
+    {
+      "id": "08d65775-a43c-417b-9c82-b1721d5f5ef5",
+      "linkedTossupId": "46531ada-a842-474a-b8d7-2bd964840f66",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with immunodeficiency.",
+          "answer": "vaccine",
+          "acceptableAnswers": [
+            "vaccine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the vaccine in the immune system?",
+          "answer": "Immunodeficiency",
+          "acceptableAnswers": [
+            "Immunodeficiency"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to immunodeficiency.",
+          "answer": "allergy",
+          "acceptableAnswers": [
+            "allergy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e00dc5e9-cc8a-411c-b907-943dd09329db",
+      "linkedTossupId": "c28d273b-1a1a-47dc-a01b-1c6b28ba0ad6",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this lake, which lies on the northern end of Minnesota.",
+          "answer": "The Lake of the Woods",
+          "acceptableAnswers": [
+            "The Lake of the Woods",
+            "Lake of the Woods"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Lake of the Woods borders Manitoba and this other Canadian province whose city of Windsor sits near the Detroit River. Its capital is at Toronto.",
+          "answer": "Ontario",
+          "acceptableAnswers": [
+            "Ontario",
+            "The Ontario"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Lake of the Woods drains into this Canadian lake, itself connected to Hudson Bay by the Nelson River. It shares its name with the capital of Manitoba.",
+          "answer": "Winnipeg",
+          "acceptableAnswers": [
+            "Winnipeg",
+            "The Winnipeg"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Northwest Angle, which lies on the border of this lake, is the northernmost point in the contiguous United States. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43e89"
+    },
+    {
+      "id": "15b9c9f0-c72c-4bc8-8979-1aaa2f6fb93e",
+      "linkedTossupId": "d64e2484-3b3d-4736-9eb0-38108a3c7d1e",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this poem addressed to Charles Lamb in which the poet laments that \"well, they are gone, and here I must remain\" in the titular place.",
+          "answer": "This Lime-Tree Bower my Prison",
+          "acceptableAnswers": [
+            "This Lime-Tree Bower my Prison",
+            "The This Lime-Tree Bower my Prison"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other poem by the author of \"This Lime-Tree Bower my Prison\" begins with an invocation of the Ballad of Sir Patrick Spense. The poet describes the title condition as \"without a pang, void, dark, and drear.\"",
+          "answer": "Dejection",
+          "acceptableAnswers": [
+            "Dejection",
+            "The Dejection"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"This Lime-Tree Bower My Prison\" and \"Dejection: An Ode\" were written by this lake poet, who more famously wrote of a figure with a \"glittering eye\" who \"stoppeth one of three\" in \"The Rime of the Ancient Mariner.\"",
+          "answer": "Coleridge",
+          "acceptableAnswers": [
+            "Coleridge",
+            "The Coleridge"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this poem the speaker claims that \"Nature ne'er deserts the wise and pure\" as he imagines the experiences of some friends and decides \"and I am glad as I myself were there!\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df3ddba2602b93e0408109"
+    },
+    {
+      "id": "6f868a8c-6873-4082-8475-405373ff4a18",
+      "linkedTossupId": "a6cc4211-9794-42a5-873a-0429387459ba",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The seahorse-like hippocampus carried the chariot of this Greek god, who was god of both the sea and horses, as well as earthquakes and storms.",
+          "answer": "Poseidon",
+          "acceptableAnswers": [
+            "Poseidon",
+            "The Poseidon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Besides Poseidon, Melqart, the god of the sea and trade from this culture, also rode a hippocampus as depicted on ancient coins from his city, Tyre. Cadmus was legendarily a prince of this seafaring and mercantile culture.",
+          "answer": "Phoenicia",
+          "acceptableAnswers": [
+            "Phoenicia",
+            "The Phoenicia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hippocampi were often conflated with the decidedly less mythical dolphin. In one story, a musician with this name was rescued by dolphins after being kidnapped by pirates. An immortal horse with this name was sired by Poseidon with Demeter.",
+          "answer": "Arion",
+          "acceptableAnswers": [
+            "Arion",
+            "The Arion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer some questions about the hippocampus-the nautical kind:",
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc3fa"
+    },
+    {
+      "id": "ec92c908-10f0-4c32-adc8-da6a6d0d8c20",
+      "linkedTossupId": "5473cd8d-d511-48ac-80c0-9e953476fb02",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this 1957 album by John Coltrane, featuring trumpeter Lee Morgan and bassist Paul Chambers, which includes the tracks \"Moment's Notice\" and \"Lazy Bird.\"",
+          "answer": "Blue Train",
+          "acceptableAnswers": [
+            "Blue Train",
+            "The Blue Train"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This trumpeter pioneered modal jazz on an album featuring the songs \"Blues in Green\" and \"All Blues,\" Kind of Blue.",
+          "answer": "Davis",
+          "acceptableAnswers": [
+            "Davis",
+            "The Davis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hard bop saxophonist Joe Henderson premiered a Kenny Dorham composition titled for the \"blue\" form of this genre. This Brazilian jazz genre, which is distinct from samba music, was popularized in the United States by Stan Getz and Astrud Gilberto's recording of \"The Girl from Ipanema.\"",
+          "answer": "bossa nova",
+          "acceptableAnswers": [
+            "bossa nova",
+            "“Blue Bossa”",
+            "The bossa nova"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a departure from the artist's earlier work, this album features only one un-original track, a rendition of Jerome Kern's \"I'm Old Fashioned.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff41a"
+    },
+    {
+      "id": "d4dde80c-ea6b-42d8-8d4c-7cee5705aba1",
+      "linkedTossupId": "8af352f2-6053-4fc2-b080-6f3851d8da59",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Persian prophet, whose namesake religion venerates the creator god Ahura Mazda.",
+          "answer": "Zoroaster",
+          "acceptableAnswers": [
+            "Zoroaster",
+            "The Zoroaster"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Zoroastrianism, Towers of Silence have traditionally been used to perform this funerary action. In Hinduism, this action is performed primarily by cremation.",
+          "answer": "burial",
+          "acceptableAnswers": [
+            "burial",
+            "The burial"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Zoroastrians worship at temples named for this substance. Zoroastrianism calls this substance Atar and ranks it according to its heat and intensity.",
+          "answer": "fire",
+          "acceptableAnswers": [
+            "fire",
+            "The fire"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This religious leader's songs are part of the holy Avestas. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acd9a"
+    },
+    {
+      "id": "cae8b043-e41a-40f6-9df9-20ea458cb70c",
+      "linkedTossupId": "9cdd51fe-3f0c-4663-a15f-7549eba35e96",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Like many other Soviet cities, this city's subway stations were given ornate designs. Tourists in this city can take the subway to places like the Bolshoi Theatre, Red Square, and the Kremlin.",
+          "answer": "Moscow",
+          "acceptableAnswers": [
+            "Moscow",
+            "Moskva",
+            "The Moscow"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Large vans called marshrutki are used in many Soviet cities instead of this form of public transit. In the US, intercity service in this form of transit is provided by companies like Peter Pan and Greyhound.",
+          "answer": "bus",
+          "acceptableAnswers": [
+            "bus",
+            "The bus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Soviet rail infrastructure paved the way for this country's Afrosiyob high-speed rail line, which runs every day between this country's cities of Samarkand and Tashkent.",
+          "answer": "Uzbekistan",
+          "acceptableAnswers": [
+            "Uzbekistan",
+            "O'zbekiston Respublikasi",
+            "The Uzbekistan"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about public transit in the former Soviet Union, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ecdf"
+    },
+    {
+      "id": "5f915566-745c-4bef-834b-ac3ad308a349",
+      "linkedTossupId": "65c27045-8085-4684-b27d-dc50029071c8",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Named for a resistance fighter murdered in 1933, this group led the overthrow of the Somoza regime in 1979 and battled the counter-revolutionary contras for parts of the 1980s.",
+          "answer": "Sandinista",
+          "acceptableAnswers": [
+            "Sandinista",
+            "The Sandinista"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the county which the Sandinistas controlled from 1979-1990.",
+          "answer": "Nicaragua",
+          "acceptableAnswers": [
+            "Nicaragua",
+            "The Nicaragua"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Sandinista leader, who continues to be active in Nicaraguan politics, was president from 1984 until 1990 when he was defeated by Violeta Barrios de Chamorro.",
+          "answer": "Ortega",
+          "acceptableAnswers": [
+            "Ortega",
+            "The Ortega"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following about a rebel group, For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bca72e7fe60f397fb4a72c"
+    },
+    {
+      "id": "1284dc1e-6123-40f7-b01a-958e6a97ed02",
+      "linkedTossupId": "072598a7-a922-4f49-8372-9c2123fbd984",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this effect in which the perceived frequency of a wave changes based on its motion relative to a reference frame, a cause of redshift.",
+          "answer": "Doppler",
+          "acceptableAnswers": [
+            "Doppler",
+            "Doppler shift",
+            "accept transverse Doppler effect",
+            "The Doppler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Champeney and Moon found that there was no Doppler shift between a source and receiver rotating on opposite sides of a rotor named for this effect. In this effect, resonant absorption and emission of gamma rays from bound nuclei is recoil-free.",
+          "answer": "Mössbauer",
+          "acceptableAnswers": [
+            "Mössbauer",
+            "recoilless nuclear resonance fluorescence",
+            "accept Mössbauer rotors",
+            "The Mössbauer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Infinitely narrow emission peaks are nonexistent because Doppler broadening affects this probability distribution. This distribution models the velocity of distinguishable gaseous particles.",
+          "answer": "Maxwell–Boltzmann",
+          "acceptableAnswers": [
+            "Maxwell–Boltzmann",
+            "Maxwell speed distribution",
+            "Boltzmann speed distribution",
+            "Maxwell distribution",
+            "Maxwellian distribution",
+            "The Maxwell–Boltzmann"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Ives-Stilwell experiment initially used canal rays to measure this effect's \"transverse\" form. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "648938e130bd7ab56b095ce4"
+    },
+    {
+      "id": "31e9128e-b0d6-4765-9fc3-778a0dc9d709",
+      "linkedTossupId": "8cd49ad1-2d16-487f-9cde-224fbc1b8d8c",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this 1971 text that critiques the title entertainment product as a vehicle of U.S. cultural imperialism throughout Latin America. It is co-written by Armand Mattelart.",
+          "answer": "How to Read Donald Duck",
+          "acceptableAnswers": [
+            "How to Read Donald Duck",
+            "Para leer al Pato Donald",
+            "The How to Read Donald Duck"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ariel Dorfman's How to Read Donald Duck may be a reaction to Richard Schickel's biography The Disney Version. Schickel was the film critic for this magazine, the world's most circulated weekly newsmagazine.",
+          "answer": "Time",
+          "acceptableAnswers": [
+            "Time",
+            "The Time"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Some critics state that How to Read Donald Duck misrepresent the intentions of this man, the long-time creator of Donald Duck comics. He is the creator of Scrooge McDuck and almost all the Duckburg residents.",
+          "answer": "Barks",
+          "acceptableAnswers": [
+            "Barks",
+            "The Barks"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This text notes that within the source material it looks at, \"everybody has an uncle or nephew,\" but there are no fathers and sons. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97422c7a"
+    },
+    {
+      "id": "c7b1e05e-c739-40d7-ac3d-494002bb28bf",
+      "linkedTossupId": "28cdea39-874d-4eba-bfac-312f60c5bb4e",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This German-born composer who later moved to Great Britain was known for his Water Music and his Music for the Royal Fireworks.",
+          "answer": "Handel",
+          "acceptableAnswers": [
+            "Handel",
+            "The Handel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer wrote incidental music to A Midsummer Night's Dream in addition to composing the Italian Symphony and the Scottish Symphony.",
+          "answer": "Mendelssohn",
+          "acceptableAnswers": [
+            "Mendelssohn",
+            "The Mendelssohn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Baroque composer wrote over 40 Passions for the churches in Hamburg alone and wrote 6 Canonical Sonatas. He is best known for a collection of music to accompany meals - the Tafelmusik.",
+          "answer": "Telemann",
+          "acceptableAnswers": [
+            "Telemann",
+            "The Telemann"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these German composers for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0592"
+    },
+    {
+      "id": "9cb3583b-f2fe-499f-a8a9-bbdd65bfbc7d",
+      "linkedTossupId": "daa100f1-33f6-420e-8e64-896e529f5faa",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "During this 40-day period before Easter, Catholics practice self-denial by fasting from meat and by giving up a favorite food or activity.",
+          "answer": "Lent",
+          "acceptableAnswers": [
+            "Lent",
+            "“Quadragesima”",
+            "The Lent"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This feast, occuring 50 days after Easter, celebrates the day that the Holy Spirit descended on the Apostles as tongues of flame.",
+          "answer": "Pentecost",
+          "acceptableAnswers": [
+            "Pentecost",
+            "The Pentecost"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This book, the second attributed to Luke the Evangelist, tells the Pentecost story. It contains the stoning of St. Stephen, the conversion of St. Paul, and the revival of Tabitha.",
+          "answer": "Acts",
+          "acceptableAnswers": [
+            "Acts",
+            "The Acts"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these things related to Easter, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4403b"
+    },
+    {
+      "id": "bcdc044e-81a7-4448-a449-358656dd5282",
+      "linkedTossupId": "e5174a71-174d-48bd-88c8-8f0a69f46654",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this thinker who included theological and metaphysical in his \"law of three stages.\"",
+          "answer": "Comte",
+          "acceptableAnswers": [
+            "Comte",
+            "The Comte"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Comte created this philosophical system that holds that every rational statement should be able to be scientifically verified.",
+          "answer": "positivism",
+          "acceptableAnswers": [
+            "positivism",
+            "The positivism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Positivism became so popular in this country that it led to the positivist motto \"Order and Progress.\" being written in Portuguese across this South American nation's flag.",
+          "answer": "Brazil",
+          "acceptableAnswers": [
+            "Brazil",
+            "The Brazil"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man's love for Clotilde de Vaux inspired him to create the Religion of Humanity and a calendar that venerated individuals who made positive contributions.. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68846985641a9dc975af86dd"
+    },
+    {
+      "id": "d3bb1304-039c-48dc-bc58-54db16abb135",
+      "linkedTossupId": "cf071e3f-2209-454b-98de-fda8f876a2cc",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this disease of the blood that is spread by female Anopheles mosquitoes. This disease can be treated by antibiotics such as quinine [KWYE-\"nine\"] and artemisinin [AR-tuh-MISS-uh-nin].",
+          "answer": "malaria",
+          "acceptableAnswers": [
+            "malaria",
+            "The malaria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Malaria is caused by a parasite from this genus of unicellular eukaryotes. The most deadly strand of malaria is caused by the species falciparum , a member of this genus.",
+          "answer": "Plasmodium",
+          "acceptableAnswers": [
+            "Plasmodium",
+            "The Plasmodium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This genetically-inherited blood disorder offers protection against malaria, which is why it is more common among people living in tropical regions, such as sub-Saharan Africa.",
+          "answer": "sickle cell",
+          "acceptableAnswers": [
+            "sickle cell",
+            "The sickle cell"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This disease's name comes from the Italian for \"bad air\" due to the belief in Medieval times that it was caused by a miasma originating from marshlands. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "676f723bf56e0dff73abed03"
+    },
+    {
+      "id": "3df56026-d739-4491-97f6-28a02c60016d",
+      "linkedTossupId": "1edf95d6-c74f-43e6-972f-b8872b47b292",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this 'father's saying' which a character famously repeats while rebuilding broken stonework in the poem \"Mending Wall\".",
+          "answer": "good fences make good neighbors",
+          "acceptableAnswers": [
+            "good fences make good neighbors",
+            "The good fences make good neighbors"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Mending Wall\" is by this American poet, who describes how he 'took the one less traveled by' in his poem \"The Road Not Taken\".",
+          "answer": "Frost",
+          "acceptableAnswers": [
+            "Frost",
+            "The Frost"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The narrator's neighbour first quotes that phrase after being told that these things 'will never get across / and eat the cones'. Another Frost narrator wonders if his sleep is 'just some human sleep' after becoming 'overtired' while removing objects from one of these things.",
+          "answer": "apple tree",
+          "acceptableAnswers": [
+            "apple tree",
+            "apples",
+            "prompt on trees",
+            "The apple tree"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After being told this phrase, the narrator of a poem mischievously questions it by responding 'Isn't it where there are cows? But here there are no cows'. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6336ab9eb8c640ece5cb9292"
+    },
+    {
+      "id": "6d2032e9-1877-49c1-98e9-c090dbb21d90",
+      "linkedTossupId": "12f742cf-663c-425e-9111-e3f39e938e56",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Give this term for the millions of base-called DNA sequences output by next-generation sequencers. Illumina and nanopore technologies respectively generate \"short\" and \"long\" types of these data.",
+          "answer": "read",
+          "acceptableAnswers": [
+            "read",
+            "read depth",
+            "short-read",
+            "long-read sequencing",
+            "The read"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sanger sequencing, on the other hand, only gives one read per sample, which is why the monumental project to obtain this full sequence of every human chromosome took more than a decade.",
+          "answer": "genome",
+          "acceptableAnswers": [
+            "genome",
+            "the Human Genome Project",
+            "HGP",
+            "The genome"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Next-gen sequencing can read a genome in a day, and the slowest step is just waiting for one of these enzymes to attach adaptors. These enzymes form phosphodiester bonds and seal nicks at Okazaki fragments.",
+          "answer": "ligase",
+          "acceptableAnswers": [
+            "ligase",
+            "The ligase"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In deep sequencing, each of these raw data is unique. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "666dc6c79f7c4cfdbd6786b9"
+    }
+  ]
+}

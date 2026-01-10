@@ -1,0 +1,1149 @@
+{
+  "packetId": "packet-088",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Social Science",
+    "Philosophy",
+    "Literature",
+    "Science",
+    "Geography",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "5c8a46ef-d149-4418-99c6-1afddc1959aa",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "An event in this city was described as \"a circus\" in a speech that criticized that event for having \"lost its militancy.\" The Poor People's Campaign took place in this city, and an event in it was organized by Bayard Rustin and the Big Six, who included the leader of the Brotherhood of Sleeping Car Porters, A. Philip Randolph. The Daughters of the American Revolution tried to stop Marian Anderson from singing a concert in this city. A speech made in this city imagines a time when a man's \"four little children\" would \"not be judged by the color of their skin.\" Martin Luther King gave the \"I Have a Dream\" speech during a 1963 \"March on\"-for 10 points-what city?",
+      "powerMarkPosition": 308,
+      "answer": "Washington",
+      "acceptableAnswers": [
+        "Washington",
+        "either underlined part",
+        "accept District of Columbia",
+        "accept March on Washington for Jobs and Freedom",
+        "The Washington"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a4a06"
+    },
+    {
+      "id": "016b9d27-f3d3-46bb-b642-8b4b4c341109",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "One thinker in this discipline challenged scientific racism in The Mind of Primitive Man. A work subtitled \"[this discipline] at a Distance\" contrasted guilt and shame and was researched at Japanese internment camps. The Chrysanthemum and the Sword and Coming of Age in Samoa are works of, for 10 points, what cultural social science practiced by Franz Boas, Ruth Benedict, and Margaret Mead, whose name translates as \"study of mankind?\"",
+      "powerMarkPosition": 220,
+      "answer": "Anthropology",
+      "acceptableAnswers": [
+        "Anthropology",
+        "The Anthropology"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318acaa6"
+    },
+    {
+      "id": "a309704f-975d-42b3-8be2-78990c78e8d6",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "This man ‟s Chief Minister, Thomas Cromwell, dissolved the monasteries, even though this man had written Defence of the Seven Sacraments, an anti-Lutheran pamphlet that earned him the title \"Defender of the Faith.\" Archbishop of Canterbury Thomas Cranmer organized the annulment of this man's first marriage. For 10 points, name this English king who broke from the Roman Catholic Church to divorce Catherine of Aragon, the first of his six wives.",
+      "powerMarkPosition": 228,
+      "answer": "Henry VIII",
+      "acceptableAnswers": [
+        "Henry VIII",
+        "The Henry VIII"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e6a0924256318ac80a"
+    },
+    {
+      "id": "304977fb-7b43-4ce2-a686-2302ec772a58",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "This organization accused John Kerry of pressuring Ecuador to cut the internet connection of its leader, and this organization showed that the NSA had been tapping the phones of Angela Merkel. In October 2016, this organization released information from John Podesta, Hillary Clinton's campaign manager. For 10 points, name this organization led by Julian Assange, who is editor-in-chief of a website that publishes restricted information.",
+      "powerMarkPosition": 203,
+      "answer": "WikiLeaks",
+      "acceptableAnswers": [
+        "WikiLeaks",
+        "The WikiLeaks"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e14a0"
+    },
+    {
+      "id": "c56a2726-b836-4216-8266-fc4998d27ea8",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "A colossal bull's head from this city highlights an exhibit in the Chicago Oriental Institute, which sponsored the excavations of Ernst Herzfeld and Erich Schmidt here. This city's ruins lie at the base of the Mountain of Mercy. This home of the Fortification Tablets contains a palace with two staircases to the north and east with reliefs depicting subjects like Elamites carrying tribute. Ariobarzanes [\"ARE\"-ee-oh-bar-ZAHN-eez] led a final stand on the road to this city. In this home of a hundred-columned throne room, the Gate of All Nations led to the apadana palace. An extension of the Royal Road ran southeast from Susa to this city, which was sacked by Alexander the Great. Construction of its terrace and palace began under Darius I, who is buried here. For 10 points, name this capital of the Achaemenid empire.",
+      "powerMarkPosition": 493,
+      "answer": "Persepolis",
+      "acceptableAnswers": [
+        "Persepolis",
+        "Tahkt-e Jamshid",
+        "prompt on Throne of Jamshid",
+        "The Persepolis"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531ffa61a9ba79f35731"
+    },
+    {
+      "id": "ef2ba12d-d6df-470e-ae5c-5e142fe62fad",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "A false urban legend claims that fathers among this religious group paint their doors blue to indicate that they have marriageable daughters. Youths in this religious group call their friend group a \"buddy bunch.\" The documentary Devil's Playground fueled hedonistic stereotypes that this group's youth go on massive binges of drug usage. Wayward members of this group are subject to Meidung (\"MY-doonk\"), or shunning, if they fail to comply with its community rules, which are called the Ordnung (\"ORD-noonk\"). Before members of this group marry and are baptized as adults, they engage with the outside, or \"English\" world in a period of freedom called Rumspringa. For 10 points, name this old-fashioned Mennonite community in the US known for its use of horses and buggies.",
+      "powerMarkPosition": 408,
+      "answer": "Amish",
+      "acceptableAnswers": [
+        "Amish",
+        "Pennsylvania Dutch",
+        "Pennsylvania Germans",
+        "prompt on Anabaptists",
+        "prompt on Mennonites before “Mennonites”",
+        "The Amish"
+      ],
+      "source": "qbreader",
+      "sourceId": "636ca2cb1b6aedfbdb9eff99"
+    },
+    {
+      "id": "8c932183-24d9-4551-9e74-117fba5832d8",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "The Trilateral Contact Group attempted to end this conflict. People who died early in this conflict were known as \"Heaven's Hundred\" after they were killed by the Berkut police. A group of unknown soldiers in this war were called the \"little green men.\" Two protocols signed at Minsk attempted to end this conflict. Two battles were fought during this war at an airport named for Sergei Prokofiev in Donetsk. The Euromaidan protests against president Viktor Yanukovych [yawn-oo-KOH-vitch] led to this war, which is mostly centered in Donbass. For 10 points, name this conflict in which troops under Vladimir Putin have invaded a neighboring country.",
+      "powerMarkPosition": 361,
+      "answer": "Ukraine",
+      "acceptableAnswers": [
+        "Ukraine",
+        "the War in Donbass",
+        "Russian invasion of Ukraine",
+        "Russian intervention into Ukraine",
+        "Russian intervention into Crimea",
+        "Ukrainian Civil War",
+        "accept any answer that mentions either the Ukraine",
+        "Crimea",
+        "The Ukraine"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d23a"
+    },
+    {
+      "id": "13414608-4637-4ade-962b-9adb7ffd7d15",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "With Michael Maccoby, this thinker studied the social character of peons, free campesinos, and entrepreneurs in a Mexican village. E. O. Wilson adopted this thinker's term \"biophilia,\" which this thinker claimed was one of three orientations that produce all human forces in his book On Being Human. He argued that Marx's thought was centered on humanist existentialism in Marx's Concept of Man. Another book by this thinker lists authoritarianism, destructiveness, and conformity as mechanisms of performing the title action. He distinguished self-love from egocentrism or arrogance in a book arguing that the activity of love is a skill that can be developed. For 10 points name this member of the Frankfurt School who wrote The Art of Loving and Escape from Freedom.",
+      "powerMarkPosition": 299,
+      "answer": "Fromm",
+      "acceptableAnswers": [
+        "Fromm",
+        "Erich Seligmann Fromm",
+        "The Fromm"
+      ],
+      "source": "qbreader",
+      "sourceId": "64307e9f1357bcd3ef98b77b"
+    },
+    {
+      "id": "d158dbaf-a479-4650-b522-25a9d433769c",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "This character faintheartedly commits herself to improving her studies after a night of reading Emerson alone in her house, and hushes Victor when he begins singing \"Ah! Si tu savais!\" While talking to a friend, she declares that she would give up the \"unessential things\" for her children, but she wouldn't give herself up. Doctor Mandelet advises this character's husband to permit her whims, which include moving into a \"pigeon house\" outside of her house on Esplanade Street. This mother of Raoul and Etienne watches Adele Ratignolle give birth on her last night alive, and romances Alcee Arobin and Robert Lebrun while living in New Orleans. For 10 points, name this woman who swims as far as she can into the Gulf of Mexico at the end of Kate Chopin's novel The Awakening.",
+      "powerMarkPosition": 324,
+      "answer": "Edna",
+      "acceptableAnswers": [
+        "Edna",
+        "Edna Pontellier",
+        "The Edna"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba95e90"
+    },
+    {
+      "id": "2eef66b1-5b2d-498b-80b0-8f3c38215f00",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "One member of this house wrote the True Law of Free Monarchies, while another signed the secret Treaty of Dover. A third member of this house relied on the advice of William Laud and fought the First Bishops' War after implementing the Book of Common Prayer in Scotland. That member of this house received the Petition of Right and dissolved the \"short parliament\". The Act of Union ended this family's rule over England after the death of Queen Anne and this House's reign over England was interrupted by the English Civil War. For 10 points, name this royal house that included Charles I and James II of England.",
+      "powerMarkPosition": 309,
+      "answer": "Stuart",
+      "acceptableAnswers": [
+        "Stuart",
+        "The Stuart"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be762f"
+    },
+    {
+      "id": "afe469d1-0c88-4586-9df1-4f5485c02efc",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "These particles were used in a spectroscopy technique pioneered by Bertram Brockhouse, and Bruce Cork discovered their antiparticles while at LBNL. Formed by beta-plus decay or electron capture, these particles contain one up-quark and two down-quarks. Slow-moving ones can strike an atom to initiate a fission reaction. For 10 points, name these particles, first discovered by James Chadwick, that are located in the atomic nucleus and lack charge.",
+      "powerMarkPosition": 147,
+      "answer": "neutron",
+      "acceptableAnswers": [
+        "neutron",
+        "The neutron"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43fa2"
+    },
+    {
+      "id": "ab924f77-253e-4a6b-8fb1-cf841c92f91e",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "The US military uses a wrist-mounted version of this device called a PCASS. Edward Jones and Harold Sigall's \"bogus pipeline\" technique involves using a fake example of this device during studies. An early version of this device was invented by John Larson for use in Berkeley by August Vollner, and was later adopted for widespread use by Leonarde Keeler. Generally, the first step in using this machine is to administer a CQT. These machines measure the GSR, or galvanic skin response, along with the blood pressure and heart rate. Several early versions of this machine were invented by William Marston, the creator of Wonder Woman. For 10 points, courts generally do not accept as reliable what kind of machine that purports to measure honesty?",
+      "powerMarkPosition": 356,
+      "answer": "polygraph",
+      "acceptableAnswers": [
+        "polygraph",
+        "lie detector",
+        "The polygraph"
+      ],
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490bc69"
+    },
+    {
+      "id": "532b9066-8b06-4543-84b4-68c0e6eaa647",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "In this city, the rotating SkyCity restaurant can be found at the top of a landmark constructed for the 1962 World's Fair. This city is home to Frank Gehry's Experience Music Project museum as well as Pike Place Market, the location of the first Starbucks store. This city's harbor, Elliott Bay, is located on Puget Sound, an arm of the Pacific Ocean. For 10 points, name this city home to the Space Needle, the largest city in Washington.",
+      "powerMarkPosition": 200,
+      "answer": "Seattle",
+      "acceptableAnswers": [
+        "Seattle",
+        "The Seattle"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e144e"
+    },
+    {
+      "id": "a65b92c6-5a17-4cdd-9089-0f22cd29091e",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "A reflex that protects these organs was first detailed by Hering and Breuer. These organs surround the anterior face of the media·stinum. These organs' function is aided by the intercostals. The function of these organs is measured by the ratio RER or by a person's tidal volume. Their epithelial cells are stabilized by a strong surfactant. The right one of these organs has three lobes, while the left one has only two. These organs are surrounded by the pleura and fed by the bronchi and the trachea. Gas exchange takes place in their alveoli. For 10 points, name these primary organs of the respiratory system.",
+      "powerMarkPosition": 329,
+      "answer": "lung",
+      "acceptableAnswers": [
+        "lung",
+        "The lung"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbe8af60ace717b0882f2a"
+    },
+    {
+      "id": "1b8645df-ad95-40c7-a51c-37e7bc774da5",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "text": "A performer born with this surname received a namesake instructional notebook for keyboard and wrote several lost compositions after being forced to give up playing at age 18. A composer with this surname wrote a \"Toy Symphony\" and an influential treatise on violin playing. A different composer with this surname was able to transcribe Allegri's Miserere at the Sistine Chapel after hearing it played once. That composer with this surname entertained the courts of France, England, and Austria on several European tours he took with his sister. For 10 points, give this surname shared by the composer Leopold and his prodigy children, Nannerl and Wolfgang.",
+      "powerMarkPosition": 274,
+      "answer": "Mozart",
+      "acceptableAnswers": [
+        "Mozart",
+        "Wolfgang Amadeus Mozart",
+        "Leopold Mozart",
+        "Nannerl Mozart",
+        "Anna Maria Mozart",
+        "The Mozart"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f2d45f2ad3e45a654f2caa"
+    },
+    {
+      "id": "42e017dc-9142-448c-ab2c-f139cbcfe992",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "A negative review of this author's work by William Logan triggered a nasty letter by his biographer Paul Mariani that disputed what kind of jacket this poet was wearing when he died. He described \"fine collapses\" that \"are not lies / More than the pirouettes of any pliant cane\" in a poem that begins: \"We make our meek adjustments, / Contented with such random consolations / As the wind deposits.\" The line \"Permit me voyage, love, into your hands\" appears in a poem by him that describes \"Bright striped urchins flay[ing] each other with sand.\" This poet of \"Chaplinesque\" and \"Voyages\" described Columbus's discovery of America in \"Ave Maria,\" which joins \"Powhatan's Daughter\" as sections of his longest poem. For 10 points, name this American poet of White Buildings and The Bridge.",
+      "powerMarkPosition": 714,
+      "answer": "H",
+      "acceptableAnswers": [
+        "H",
+        "“Crane”"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba96586"
+    },
+    {
+      "id": "4602b780-6848-4bcd-a5e1-0f6c6c2390cd",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "A special form of the endoplasmic reticulum stores this element, which is used for muscle contraction. Limestone is this element's carbonate. This element is needed for strengthening bones and can be obtained by drinking milk. For 10 points, name this element symbolized Ca.",
+      "powerMarkPosition": 102,
+      "answer": "calcium",
+      "acceptableAnswers": [
+        "calcium",
+        "The calcium"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c82c"
+    },
+    {
+      "id": "421ca927-db52-412c-abfc-9cc9684323c4",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "It is often believed that either verses by Agnolo Poliziano or texts by Ovid and Lucretius were the inspirations for this painting. Its artist gave one of this painting's characters the face of another person, whose portrait he had painted in Catherine of Alexandria. In this painting, the central figure, who is wearing a red cloak, is next to Flora, who is scattering flowers on the ground to her right. Stretching his hand upward to pick oranges is Mercury, wearing his winged shoes and bearing his caduceus. On the right, Zephyr is in pursuit of the nymph Chloris, while Cupid, floating above Venus, is aiming his arrows at the Graces, who are dancing at left. For 10 points, name this Sandro Botticelli painting which depicts the arrival of the title season?",
+      "powerMarkPosition": 267,
+      "answer": "Primavera",
+      "acceptableAnswers": [
+        "Primavera",
+        "The Primavera"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4416d"
+    },
+    {
+      "id": "d8aa943b-6d52-4375-87d2-bd57c095eb6c",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "This work begins with the protagonist lying in bed after missing his train to work. A violin performance by Grete [GRE-tuh] in this novella is interrupted when three tenants see its protagonist. Its protagonist hides under a sofa when others enter his room to avoid being seen and loses a desire for milk. In this novel, a character is paralyzed after an apple is lodged in his back and his death is welcomed by his family since he had become \"thin and flat.\" For 10 points, name this Franz Kafka work in which Gregor Samsa undergoes the title transformation into an insect.",
+      "powerMarkPosition": 354,
+      "answer": "Metamorphosis",
+      "acceptableAnswers": [
+        "Metamorphosis",
+        "The Metamorphosis"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b82b"
+    },
+    {
+      "id": "2fe25032-18ff-4d0f-9d32-08452467c417",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "This thinker used a newspaper contest in which entrants gauge public perceptions of beauty as an analogy for price fluctuations in equity markets. Aggregate income is plotted against planned total spending in this economist's namesake cross. This economist's namesake perspective introduced the idea of price stickiness and focuses on changes in aggregate demand. This economist's General Theory of Employment, Interest and Money sparked a \"revolution\" against neoclassical economics. For 10 points, name this British economist who advocated deficit spending in response to the Great Depression.",
+      "powerMarkPosition": 355,
+      "answer": "Keynes",
+      "acceptableAnswers": [
+        "Keynes",
+        "The Keynes"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f2d7847edb615d3ac9f2fb"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "50f0b4b4-bf0f-4882-bf75-a177cb629baf",
+      "linkedTossupId": "5c8a46ef-d149-4418-99c6-1afddc1959aa",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this river of the Pacific Northwest, the largest tributary of the Columbia River.",
+          "answer": "Snake",
+          "acceptableAnswers": [
+            "Snake",
+            "The Snake"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The eastern terminus of the Snake River lies near Jackson Hole in this state. This least populous state in the United States has capital at Cheyenne.",
+          "answer": "Wyoming",
+          "acceptableAnswers": [
+            "Wyoming",
+            "The Wyoming"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Jackson Hole lies east of this mountain range, which includes Mount Owen in its \"Cathedral Group.\"",
+          "answer": "Teton",
+          "acceptableAnswers": [
+            "Teton",
+            "The Teton"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Ice Harbor Dam forms Lake Sacajawea from this river in Walla Walla County, Washington. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c611934977d"
+    },
+    {
+      "id": "5461f963-3478-4352-b0f2-58587f6fb5f4",
+      "linkedTossupId": "016b9d27-f3d3-46bb-b642-8b4b4c341109",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these facilities. Recidivism is the rate at which people who have been released from these places mayreturn there after being convicted of further crimes.",
+          "answer": "prison",
+          "acceptableAnswers": [
+            "prison",
+            "The prison"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 1971, Philip Zimbardo carried out most of a highly controversial study of prison behavior at this privateCalifornia university, where he hired students to act as guards and inmates.",
+          "answer": "Stanford",
+          "acceptableAnswers": [
+            "Stanford",
+            "The Stanford"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a much earlier thought experiment, Jeremy Bentham designed this type of prison in which one guard cansee all inmate cells, but no inmate can actually tell whether they are currently being watched. The name for thisbuilding comes from the Greek for \"all seeing.\"",
+          "answer": "panopticon",
+          "acceptableAnswers": [
+            "panopticon",
+            "The panopticon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Michelle Alexander studies \"colorblind\" forms of racial discrimination that cause the population in thesefacilities to be disproportionately African-American. For ten points each,",
+      "source": "qbreader",
+      "sourceId": "6837af65278db02eb79f1d54"
+    },
+    {
+      "id": "f8690fe5-fc9f-4989-90f6-5719d03c44e8",
+      "linkedTossupId": "a309704f-975d-42b3-8be2-78990c78e8d6",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this 1862 Civil War battle near Sharpsburg, Maryland, the deadliest single-day battle in American history.",
+          "answer": "Antietam",
+          "acceptableAnswers": [
+            "Antietam",
+            "The Antietam"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Union general led the Peninsular Campaign, an attempt to capture the Confederate capital at Richmond, before his failed tactics at Antietam led to his firing by Lincoln. This man would campaign against Lincoln in the 1864 Presidential election.",
+          "answer": "McClellan",
+          "acceptableAnswers": [
+            "McClellan",
+            "The McClellan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While McClellan's tactics cost the Union forces significantly, the battle was still considered enough of a victory to allow Lincoln to announce this document, freeing slaves in the Confederacy.",
+          "answer": "Emancipation",
+          "acceptableAnswers": [
+            "Emancipation",
+            "The Emancipation"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This battle, the first on Union soil, saw significant casualties at a sunken road, nicknamed the Bloody Lane. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1e00"
+    },
+    {
+      "id": "58def14f-2305-4656-8230-18e838c29e5e",
+      "linkedTossupId": "304977fb-7b43-4ce2-a686-2302ec772a58",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this white marble mausoleum with a prominent dome in Agra, India.",
+          "answer": "Taj Mahal",
+          "acceptableAnswers": [
+            "Taj Mahal",
+            "The Taj Mahal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Shah Jahan was a ruler of this Muslim empire in India. It won the Second Battle of Panipat under the leadership of Akbar the Great.",
+          "answer": "Mughal",
+          "acceptableAnswers": [
+            "Mughal",
+            "The Mughal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This founder of the Mughal Empire defeated Ibrahim Lodi at the First Battle of Panipat. He was descended from both Tamerlane and Genghis Khan.",
+          "answer": "Babur",
+          "acceptableAnswers": [
+            "Babur",
+            "The Babur"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It was built by the Jamuna River by Shah Jahan for his third wife. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e6a0924256318ac86d"
+    },
+    {
+      "id": "f71670f4-4107-49c5-925a-eaf0badf8d6a",
+      "linkedTossupId": "c56a2726-b836-4216-8266-fc4998d27ea8",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The pioneering explorer of Siberia, Yermak, was a hetman of these semi-nomadic, warlike Slavic people. Many of them lived on the banks of the Don river.",
+          "answer": "Cossack",
+          "acceptableAnswers": [
+            "Cossack",
+            "Kazaki",
+            "The Cossack"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The expansion was facilitated by Ivan the Terrible's conquest of this Tatar city, which he celebrated by building a cathedral in Moscow named for it. Today, this city is the capital of Tatarstan.",
+          "answer": "Kazan",
+          "acceptableAnswers": [
+            "Kazan",
+            "Kazan Khanate",
+            "Kazan Cathedral",
+            "The Kazan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "To solidify its control of Siberia, as well as later Alaska, Russia built many examples of these buildings known as ostrogi. These small forts, which are similar to pillboxes, contain small holes to fire weapons from.",
+          "answer": "blockhouse",
+          "acceptableAnswers": [
+            "blockhouse",
+            "The blockhouse"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about early Russian expansion into Siberia:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae540"
+    },
+    {
+      "id": "ff9c6fa7-b5f0-45f0-ac05-fb69c72a9fbc",
+      "linkedTossupId": "ef2ba12d-d6df-470e-ae5c-5e142fe62fad",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "In this dialogue, the title figure prepares a way for Socrates to escape Athens, but Socrates declares that he would rather give up his life than respond to injustice with further injustice.",
+          "answer": "Crito",
+          "acceptableAnswers": [
+            "Crito",
+            "The Crito"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this other dialogue, Anytus, Meletus, and Lycon are Socrates' accusers in his trial. Socrates gives a formal speech defending himself against charges of corrupting the youth and not respecting the gods.",
+          "answer": "Apology",
+          "acceptableAnswers": [
+            "Apology",
+            "Apologia",
+            "The Apology"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Socrates and the title figure of this dialogue attempt to define piety, but it ends at an impasse. Its suggested definitions include that which is loved by the gods, and that reverence is a part of justice.",
+          "answer": "Euthyphro",
+          "acceptableAnswers": [
+            "Euthyphro",
+            "The Euthyphro"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some Platonic dialogues, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0ba02"
+    },
+    {
+      "id": "3fcf4d94-6348-43d6-a6a4-e7a1e34a9f15",
+      "linkedTossupId": "8c932183-24d9-4551-9e74-117fba5832d8",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Smiling Buddha gave off an 8 kiloton blast in the first nuclear test of this nation, the 6th nation to possess nuclear weapons.",
+          "answer": "India",
+          "acceptableAnswers": [
+            "India",
+            "The India"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The atom bomb dropped on Nagasaki by Bock's Car was named this. It was the second bomb used in nuclear warfare, following the use of Little Boy in Hiroshima.",
+          "answer": "Fat Man",
+          "acceptableAnswers": [
+            "Fat Man",
+            "The Fat Man"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This nation has had several nuclear tests named after animals, including buffalo and antler. Many of the tests were conducted in Emu Field in Australia, which was once a penal colony for this nation.",
+          "answer": "U",
+          "acceptableAnswers": [
+            "U"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about nuclear explosions, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1573"
+    },
+    {
+      "id": "f89e03d1-7800-4398-9260-6749cc781af8",
+      "linkedTossupId": "13414608-4637-4ade-962b-9adb7ffd7d15",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this method, which titles a seminal 1959 article by political scientist Charles E. Lindblom.",
+          "answer": "muddling through",
+          "acceptableAnswers": [
+            "muddling through",
+            "“The Science of Muddling Through”",
+            "prompt on gradualism",
+            "incrementalism by reminding players we’re looking for the “title method”",
+            "The muddling through"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lindblom's notion of \"muddling through\" was the theoretical basis for Aaron Wildavsky's 1964 book on the politics of this political process. Peter Phyrr developed a \"zero-based\" form of it that was used under Jimmy Carter.",
+          "answer": "budget",
+          "acceptableAnswers": [
+            "budget",
+            "The Politics of the Budgetary Process and zero-based budgeting",
+            "prompt on answers like allocating funds",
+            "financial planning",
+            "The budget"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Frank Baumgartner and Bryan Jones challenged Lindblom's incrementalism with this two-word theory, which takes its name from a theory of evolution developed by Niles Eldridge and Stephen Jay Gould.",
+          "answer": "punctuated equilibrium",
+          "acceptableAnswers": [
+            "punctuated equilibrium",
+            "punctuated equilibria",
+            "The punctuated equilibrium"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One thinker argued this method of \"successive limited comparison\" better described real-world bureaucratic policymaking than a \"rational-comprehensive\" model. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db46c6f"
+    },
+    {
+      "id": "95bd86bd-ef6c-448b-b443-4e5a1c421532",
+      "linkedTossupId": "d158dbaf-a479-4650-b522-25a9d433769c",
+      "category": "Literature",
+      "subcategory": "Classical Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this Greek-language Syrian satirist whose well-known works include a set of thirty Dialogues of the Dead and the proto-science-fiction novel True History, also known as A True Story.",
+          "answer": "Lucian",
+          "acceptableAnswers": [
+            "Lucian",
+            "Lucianus Samosatensis",
+            "The Lucian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of Lucian's satires takes the form of a \"Conversation with\" a certain Greek poet, who offers this work in his own defense. It contains the etiological myth of the Five Ages of Man, but mostly takes the form of a farmer's almanac written for its author's brother Perses.",
+          "answer": "Works and Days",
+          "acceptableAnswers": [
+            "Works and Days",
+            "The Works and Days"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lucian wrote a short work about the metamorphosis into a certain animal undergone by a man named Lucius, a theme which was treated in longer form by Apuleius in this only fully extant Latin novel.",
+          "answer": "Golden Ass",
+          "acceptableAnswers": [
+            "Golden Ass",
+            "Asinus Aureus",
+            "prompt on the “Metamorphoses of Apuleius”",
+            "The Golden Ass"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His biography of his supposed teacher, the Cynic Demonax, may be a complete fiction, and he described the fraudulent, hand-puppet-based cult of Glycon in his Alexander the False Prophet. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c6119349b49"
+    },
+    {
+      "id": "ed57a2e8-860f-42b9-8dce-94b7c5038372",
+      "linkedTossupId": "2eef66b1-5b2d-498b-80b0-8f3c38215f00",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Sicilian expedition which overthrew the Bourbon king Francis II.",
+          "answer": "Expedition of the Thousand",
+          "acceptableAnswers": [
+            "Expedition of the Thousand",
+            "The Expedition of the Thousand"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Expedition of the Thousand was led by this Italian patriot. He also fought for the Colorado faction in the Uruguayan Civil War.",
+          "answer": "Garibaldi",
+          "acceptableAnswers": [
+            "Garibaldi",
+            "The Garibaldi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man ceded Garibaldi's birthplace of Nice to France, prompting Garibaldi to call him \"a low intriguer.\" He later became the first prime minister of a unified Italy.",
+          "answer": "Cavour",
+          "acceptableAnswers": [
+            "Cavour",
+            "The Cavour"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This expedition ended following the successful siege of Gaeta. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a881d"
+    },
+    {
+      "id": "9f50cf79-fc62-4582-b646-c44cdde19b8b",
+      "linkedTossupId": "afe469d1-0c88-4586-9df1-4f5485c02efc",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "One use of mu is as the symbol for this quantity, the resistance of a fluid to flowing. This quantity is more than six thousand times greater for mayonnaise than for water.",
+          "answer": "viscosity",
+          "acceptableAnswers": [
+            "viscosity",
+            "The viscosity"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mu also represents the coefficient of this force that resists the motion of an object as it travels along a surface. To push a box up a ramp, you must overcome the \"static\" form of this force.",
+          "answer": "friction",
+          "acceptableAnswers": [
+            "friction",
+            "The friction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Because the coefficient of friction can only be determined by experiment, instead of calculated from a formula, mu is this type of measurement. This term can refer to any knowledge gained by direct observation or experience.",
+          "answer": "empirical",
+          "acceptableAnswers": [
+            "empirical",
+            "The empirical"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer these questions about the use of the Greek letter mu [mew] in physics, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc0050f9"
+    },
+    {
+      "id": "8d513bde-213f-4648-bcae-dcada49e9f74",
+      "linkedTossupId": "ab924f77-253e-4a6b-8fb1-cf841c92f91e",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this field, which Susan Birrell has analogized to \"ritual\" based on her readings of Erving Goffman. The sociologist Harry Edwards specialized in this general field.",
+          "answer": "sport",
+          "acceptableAnswers": [
+            "sport",
+            "word forms",
+            "such as sports",
+            "accept equivalents such as athletics",
+            "anti-prompt on specific sports",
+            "events",
+            "such as track and field",
+            "gymnastics",
+            "baseball",
+            "the Olympics",
+            "reject “exercise”",
+            "“fitness”",
+            "The sport"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Scholars such as Birrell have compared sports to religion as defined by this French sociologist as a \"unified system of beliefs and practices.\" This writer of The Elementary Forms of Religious Life introduced the dichotomy of the sacred and the profane.",
+          "answer": "Durkheim",
+          "acceptableAnswers": [
+            "Durkheim",
+            "The Durkheim"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "With Eric Dunning, this sociologist wrote the book The Quest for Excitement, which holds that modern sports provide an outlet to relieve boredom. In another book, this sociologist drew parallels between the development of etiquette and the consolidation of power by the state.",
+          "answer": "Elias",
+          "acceptableAnswers": [
+            "Elias",
+            "The Elias"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Jean-Marie Brohm claimed that this field was controlled by the bourgeoisie in an essay collection that labels this field \"A Prison of Measured Time.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f5c57693c38435a5a33c35"
+    },
+    {
+      "id": "4bf82030-8658-437a-b4a9-5e064f7d5f6f",
+      "linkedTossupId": "532b9066-8b06-4543-84b4-68c0e6eaa647",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this interstate highway which runs down the Eastern Seaboard, connecting cities like New York City and Washington, DC. It is the nation's busiest interstate and runs through 15 states, more than any other.",
+          "answer": "95",
+          "acceptableAnswers": [
+            "95"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The northern terminus of Interstate 95 is in this state's town of Houlton, on the border with Canada. The highway also passes through this state's cities of Portland and Augusta, the state capital.",
+          "answer": "Maine",
+          "acceptableAnswers": [
+            "Maine",
+            "The Maine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Interstate 95 follows the conventional numbering system for interstate highways, in which numbers with this quality are assigned to north-south highways. The most important north-south highways are given numbers ending in 5 as part of that system.",
+          "answer": "odd",
+          "acceptableAnswers": [
+            "odd",
+            "The odd"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This interstate highway wasn't fully continuous until a junction in Pennsylvania was completed in 2018. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ecdc"
+    },
+    {
+      "id": "cbb40303-1cc4-4a94-9a4b-ef64d165e0a6",
+      "linkedTossupId": "a65b92c6-5a17-4cdd-9089-0f22cd29091e",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "If you push the block to the right, this force will point left, opposing the motion. This force opposes motion when two solids are in direct contact.",
+          "answer": "friction",
+          "acceptableAnswers": [
+            "friction",
+            "The friction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The magnitude of the force of friction on the block is proportional to this other force, which is exerted on the block by the surface and is a consequence of Newton's third law.",
+          "answer": "normal",
+          "acceptableAnswers": [
+            "normal",
+            "The normal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Two",
+          "answer": "slip",
+          "acceptableAnswers": [
+            "slip",
+            "\"sliding\" in place of \"slipping\"",
+            "The slip"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following regarding rectangular blocks on flat surfaces, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae20a"
+    },
+    {
+      "id": "54772049-42b8-4d3d-9279-976088d9c2cc",
+      "linkedTossupId": "1b8645df-ad95-40c7-a51c-37e7bc774da5",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Donizetti's biggest early success was an opera about this wife of Henry VIII.",
+          "answer": "Boleyn",
+          "acceptableAnswers": [
+            "Boleyn",
+            "The Boleyn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Like Anna Bolena, Donizetti's Lucia di Lammermoor contains a \"mad scene\" showing the descent into insanity of the title character; in the latter, Lucia sings this aria after she stabs her new husband Arturo.",
+          "answer": "Il dolce suono",
+          "acceptableAnswers": [
+            "Il dolce suono",
+            "The Il dolce suono"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lucia di Lammermoor was the first of eight librettos written for Donizetti by this Italian playwright, who worked with Donizetti until 1843's Maria di Rohan.",
+          "answer": "Cammarano",
+          "acceptableAnswers": [
+            "Cammarano",
+            "The Cammarano"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Gaetano Donizetti moved to Paris in 1838, after the King of Naples banned the production of his opera Poliuto, and promised never to deal with the Teatro di San Carlo again. For 10 points each, answer questions about his pre-tantrum career:",
+      "source": "qbreader",
+      "sourceId": "6504ab699ee6e14c2d0e41fd"
+    },
+    {
+      "id": "d79e91c8-0994-43d4-b268-e3408ead37fd",
+      "linkedTossupId": "42e017dc-9142-448c-ab2c-f139cbcfe992",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "\"In spite of all the learned have said, / I still my old opinion keep; / The posture that we give the dead / Points out the soul's eternal sleep.\"",
+          "answer": "Indian Burying Ground",
+          "acceptableAnswers": [
+            "Indian Burying Ground",
+            "The Indian Burying Ground"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Fair flower, that dost so comely grow, / Hid in this silent, dull retreat, / Untouched thy honied blossoms blow, / Unseen thy little branches greet\".",
+          "answer": "Wild Honey-Suckle",
+          "acceptableAnswers": [
+            "Wild Honey-Suckle",
+            "The Wild Honey-Suckle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Thou born to sip the lake or spring, / Or quaff the waters of the stream, / Why hither come on vagrant wing?\"",
+          "answer": "On a Honey Bee",
+          "acceptableAnswers": [
+            "On a Honey Bee",
+            "The On a Honey Bee"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "18. Identify these poems by Philip Freneau from opening lines FTPE.",
+      "source": "qbreader",
+      "sourceId": "643b8c661bdcc57729e62bf2"
+    },
+    {
+      "id": "8169585a-590d-49f2-978f-6003de4625f9",
+      "linkedTossupId": "4602b780-6848-4bcd-a5e1-0f6c6c2390cd",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these subatomic particles.",
+          "answer": "quark",
+          "acceptableAnswers": [
+            "quark",
+            "The quark"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Protons and neutrons are classified as this type of particles, which are composed of quarks and antiquarks. These particles can be further classified into mesons and baryons.",
+          "answer": "hadron",
+          "acceptableAnswers": [
+            "hadron",
+            "The hadron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Quarks are held together by this force, which can be described by quantum chromodynamics and are caused by gluons.",
+          "answer": "strong",
+          "acceptableAnswers": [
+            "strong",
+            "The strong"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These particles compose protons and neutrons, and they come in flavors such as top, down, and strange. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced936"
+    },
+    {
+      "id": "987b7527-6529-4f60-bd02-41987bfc59be",
+      "linkedTossupId": "421ca927-db52-412c-abfc-9cc9684323c4",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these works by a German composer, the fifth of which is nicknamed \"Reformation,\" and the third of which was inspired by a trip to Holyrood Palace.",
+          "answer": "symphonies",
+          "acceptableAnswers": [
+            "symphonies",
+            "partial answer",
+            "The symphonies"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mendelssohn's fourth symphony, which was inspired by a trip to this modern day country, contains a saltarello. This country was also the birthplace of the composer of The Four Seasons.",
+          "answer": "Italy",
+          "acceptableAnswers": [
+            "Italy",
+            "Italia",
+            "The Italy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The aria \"Is not his word like a fire\" is from this Mendelssohn oratorio, which ends with the titular Old Testament prophet being carried away to Heaven in a fiery chariot.",
+          "answer": "Elijah",
+          "acceptableAnswers": [
+            "Elijah",
+            "The Elijah"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The last of these works by this composer includes the \"Dresden Amen\" in its first movement and the Martin Luther hymn \"A Mighty Fortress Is Our God\" in its final movement. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b53291"
+    },
+    {
+      "id": "1d8e3541-7bc6-4788-b7dc-4296ebdbe152",
+      "linkedTossupId": "d8aa943b-6d52-4375-87d2-bd57c095eb6c",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this poet, who recited \"On the Pulse of Morning\" at Bill Clinton's inauguration. This poet also wrote I Know Why the Caged Bird Sings.",
+          "answer": "Angelou",
+          "acceptableAnswers": [
+            "Angelou",
+            "The Angelou"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "I Know Why the Caged Bird Sings is a work in this genre. Works in this genre are typically an account of the author's life.",
+          "answer": "Autobiography",
+          "acceptableAnswers": [
+            "Autobiography",
+            "memoir",
+            "The Autobiography"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This first youth poet laureate recited her poem \"The Hill We Climb\" at Joe Biden's inauguration.",
+          "answer": "Gorman",
+          "acceptableAnswers": [
+            "Gorman",
+            "The Gorman"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In \"Hey Mama\" by Kanye West, the rapper compares his mother to a \"book of poetry\" and lists the name of this poet and Nikki Giovanni. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7ded28"
+    },
+    {
+      "id": "0b27c804-73dc-4859-b0fb-9759c0cbd9c0",
+      "linkedTossupId": "2fe25032-18ff-4d0f-9d32-08452467c417",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this disorder which was fraudulently claimed to be caused by the MMR vaccine by Andrew Wakefield.",
+          "answer": "autism",
+          "acceptableAnswers": [
+            "autism",
+            "The autism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "People with autism can have deficits in this ability, defined as the ability to attribute mental states to others.",
+          "answer": "theory of mind",
+          "acceptableAnswers": [
+            "theory of mind",
+            "The theory of mind"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This psychologist extended his empathizing-systemizing theory to hypothesize that autism is characterized by an \"extreme male brain.\" He created a 50-question test for self-diagnosis of autism.",
+          "answer": "Baron-Cohen",
+          "acceptableAnswers": [
+            "Baron-Cohen",
+            "The Baron-Cohen"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Jim Sinclair's essay \"Don't Mourn for Us\" argues that this condition shouldn't be cured. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32e2883e2636cb3c9648a"
+    }
+  ]
+}

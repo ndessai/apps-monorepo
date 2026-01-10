@@ -1,0 +1,1143 @@
+{
+  "packetId": "packet-163",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "Fine Arts",
+    "Literature",
+    "Geography",
+    "Human Body",
+    "Philosophy",
+    "History"
+  ],
+  "tossups": [
+    {
+      "id": "11ea082b-05a3-46d2-8a3f-fa7ba2ab7816",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "This organ's namesake lipase hydrolyzes triglyceride substrates into monoglycerides and free fatty acids. For some people, the duct of Santorini connects this organ to a part of the small intestine, the duodenum. One of the hormones secreted by this organ causes the degradation of glycogen into glucose, while another hormone secreted by this organ does the opposite. This organ secretes glucagon in the alpha cells of the islets of Langerhans, and it secretes the hormone it produces in its beta cells. Those beta cells in this organ are targeted in Type 1 diabetes. For 10 points, name this organ that produces insulin.",
+      "powerMarkPosition": 388,
+      "answer": "pancreas",
+      "acceptableAnswers": [
+        "pancreas",
+        "The pancreas"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f30f3a499e50c9ee5d90b6"
+    },
+    {
+      "id": "f8c3c605-427a-48df-a62d-6059b067e89b",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "Franz Marc painted a \"Tower\" of horses in this color as part of an art movement he co-founded in 1911. This color dominates a painting of Casagemas in His Coffin, which inspired a period during which its artist painted The Old Guitarist. A Russian-German art movement was named for Wassily Kandinsky's painting of a \"Rider\" wearing this color. For 10 points, what color names a period of Picasso's work named for his use of sad subjects, contrasted with his \"Rose Period?\"",
+      "powerMarkPosition": 222,
+      "answer": "blue",
+      "acceptableAnswers": [
+        "blue",
+        "The blue"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3101eabc146a6b81891d1"
+    },
+    {
+      "id": "02bc34d0-8b7c-4ba9-8e3e-2e811f44fca5",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "One of this author's works contains a digression about how the title conveyance's engine-driver is the finest type of man grown on the earth and exhibits a \"finished manhood\". Another of his works tells of a child from the poor district who, looking like \"some wee battler in a war\", steals a toy fire truck from a prettier child. This author of \"The Scotch Express\" and \"An Ominous Baby\" penned a novella in which Dr. Trescott is ostracized for sheltering Henry Johnson, who was horribly burned while saving Trescott's son. Another story by this creator of Whilomville opens with the line \"None of them knew the color of the sky\" and sees the death of Billie the oiler, who along with the captain, the cook, and the correspondent had previously survived a shipwreck. For 10 points, identify this author of \"The Monster\" and \"The Open Boat\", who also wrote novels like Maggie: A Girl of the Streets.",
+      "powerMarkPosition": 488,
+      "answer": "Crane",
+      "acceptableAnswers": [
+        "Crane",
+        "The Crane"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba673874e0ef7dd7b2815"
+    },
+    {
+      "id": "cbc7dc14-cbfc-498e-b4d7-4b63dc924efe",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "This quantity is allowed to fluctuate along individual branches in the BEAST algorithm, which is the \"relaxed\" form of another technique. This quantity is equal for all inputs in the Jukes-Cantor model. The Watterson estimator approximates the parameter theta, which equals four times N-sub-E times this quantity. The rate of fixation of a novel allele equals the neutral form of this quantity according to a theory proposed by Motoo Kimura. Dates of evolutionary divergence can be calculated using a \"molecular clock\" because this quantity remains constant over long time scales. Cancer cells increase this quantity by upregulating expression of error-prone polymerases. Intercalating agents and UV light can increase, for 10 points, what quantity, symbolized mu, which represents the frequency of changes to an organism's genome?",
+      "powerMarkPosition": 500,
+      "answer": "mutation rate",
+      "acceptableAnswers": [
+        "mutation rate",
+        "mu before mentioned",
+        "substitution rate",
+        "prompt on partial answer",
+        "The mutation rate"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed60f81539231f571ee2b4"
+    },
+    {
+      "id": "97a58e12-145b-4d94-9eda-2948069346e9",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "One character in this play is saddened that nice things like truffles, oysters, and champagne should \"take their revenge on our bones.\" A sequel to this play set 15 years later was written by Lucas Hnath (\"nayth\"). One character in this play gets mad at a man for not appreciating her flesh-colored silk stockings. A character in this play points out that a man who died on September 29th supposedly signed a bond on October 2nd. The protagonist of this play, who loves to snack on macaroons, dances a tarantella to distract her husband from finding a letter. The syphilitic Dr. Rank confesses his love to the protagonist, who ends this play by slamming the door of her house while leaving her husband Torvald. For 10 points, name this play about Nora Helmer written by Henrik Ibsen.",
+      "powerMarkPosition": 399,
+      "answer": "Doll’s House",
+      "acceptableAnswers": [
+        "Doll’s House",
+        "The Doll’s House"
+      ],
+      "source": "qbreader",
+      "sourceId": "664d3b2a7fccf731960503a8"
+    },
+    {
+      "id": "d078bccd-587f-4727-8cfc-36a470bf6cfd",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "In one work, this author made a historical character 30 years younger to avoid having a 70 year old man court the 19-year old protagonist, who is also sought after by Aaron Burr. This author argued that the title woman could still love her husband in \"Lady Byron Vindicated\" and wrote about the sailor James Marvyn, who loses Mary Scudder to the Calvinist Samuel Hopkins, in The Minister's Wooing. This author wrote about the heiress Nina Gordon, her husband Claymont, and her slave Harry. In this author's most famous novel, which she wrote a \"Key\" to, Eliza escapes to Canada by crossing an icy river, and the title character is beaten to death by Simon Legree. For 10 points, name this author of Dred: A Tale of the Great Dismal Swamp and Uncle Tom's Cabin.",
+      "powerMarkPosition": 378,
+      "answer": "Stowe",
+      "acceptableAnswers": [
+        "Stowe",
+        "The Stowe"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974228f5"
+    },
+    {
+      "id": "be6998f5-98a2-41c5-bef4-895131ec3553",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "The eastern Koolau and western Waianae ranges divide it into the leeward, windward, and central sections. The Diamond Head crater lies located on its southeastern coast, while Kaneohe Bay is on its east. Kauai Channel separates it from the island of that name, and a trip south across Kaiwi Channel lands one on Molokai. Waipahu and Kailua are among its cities. For 10 points-name this most populous island of Hawaii, the location of Honolulu.",
+      "powerMarkPosition": 203,
+      "answer": "Oahu",
+      "acceptableAnswers": [
+        "Oahu",
+        "The Oahu"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841f5f"
+    },
+    {
+      "id": "33e9de36-6532-4c9e-9dd4-3a1afab57eb7",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "Quintilian, comparing rhetorical to artistic styles, asked \"What work is there which is as distorted and elaborate as [this work]\". Pliny mentions this work after also describing the artist's famed heifer, and generally praises the sculptor of this work for \"being more careful in his proportions\" than Polykleitos. A detailed description of this statue by Lucian, which describes \"his head turned back to the hand..and the opposite knee slightly flexed\" has allowed identification of later copies, such as the \"Townley\" version, which has its head restored incorrectly looking down. A masterpiece of the Severe style, for 10 points, name this statue of an athlete in the act of throwing, sculpted by Myron.",
+      "powerMarkPosition": 385,
+      "answer": "Discobolus",
+      "acceptableAnswers": [
+        "Discobolus",
+        "The Discobolus"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ead0be8c91030f69d5b53e"
+    },
+    {
+      "id": "401e1e3f-9e19-4e80-b8b8-887e255dd629",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "In one of this man's works, the title character Sam and his wife split after a trip to Europe. In another work by this man, a doctor has to deal with the bubonic plague and research institution he works for. This author also wrote about Buzz Windrip and a Fascist takeover of America. In addition to Dodsworth, Arrowsmith, and It Can't Happen Here, this man wrote about a realtor rebelling against his society, and another novel sees Carol marry Will Kennicott and settle in Gopher Prairie. For 10 points, name this author of Babbitt and Main Street.",
+      "powerMarkPosition": 207,
+      "answer": "Lewis",
+      "acceptableAnswers": [
+        "Lewis",
+        "The Lewis"
+      ],
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced911"
+    },
+    {
+      "id": "e4b331c9-0634-4fbd-ad56-57d7d88965d5",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for inflammatory response. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this phagocyte-related structure.",
+      "powerMarkPosition": 95,
+      "answer": "Phagocyte",
+      "acceptableAnswers": [
+        "phagocyte",
+        "Phagocyte"
+      ],
+      "explanation": "The phagocyte is a key component of the Immune system, involved in inflammatory response.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "3cea7b74-17ba-4e6c-8825-331e792715e9",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "A model of the patron's Dutch estate sits on a shelf in the upper-left of this artist's The Hope Family. A grief-stricken Britannia, cast in shadow, stands next to a lion as Neptune delivers the title admiral to her in this artist's The Immortality of Nelson. Putti surround the title scientist as he raises a hand to a key tied to a kite string in this artist's Benjamin Franklin Drawing Electricity from the Sky. In another of his paintings, a tomahawk sits under the tattooed leg of a man who adopts a Thinker pose. In that contemporary history painting by this artist, Thomas Hinde kneels to try to stop the bleeding of the title British hero. For 10 points, name this Anglo-American painter who depicted the Battle of the Plains of Abraham in The Death of General Wolfe.",
+      "powerMarkPosition": 445,
+      "answer": "West",
+      "acceptableAnswers": [
+        "West",
+        "The West"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae68f"
+    },
+    {
+      "id": "7f7d7a4e-97fe-4bb2-9535-4b59cc7e0e9c",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "A poetry collection in this language uses seven principal voices, including a \"Hiatus\" type that questions the wisdom of a verse. The end of a poem in this language concludes that the rust of desire prevents the Word of Love from being reflected in the heart's mirror. The speaker's \"Beloved\" is asked to \"fill the Cup that clears / Today of past Regrets and future Fears\" in a collection in this language that opens with a command to \"Wake!\" A request to listen to the title object tell \"a tale of separations\" begins a poem in this language, \"The Song of the Reed.\" A set of quatrains in this language includes one whose speaker describes \"Paradise enow\" as \"A Jug of Wine, a Loaf of Bread - and Thou.\" For 10 points, name this language of Rumi's Spiritual Couplets and Omar Khayyam's Rubaiyat.",
+      "powerMarkPosition": 282,
+      "answer": "Persian",
+      "acceptableAnswers": [
+        "Persian",
+        "Farsi",
+        "The Persian"
+      ],
+      "source": "qbreader",
+      "sourceId": "673ec01190236da031c2d115"
+    },
+    {
+      "id": "96bf6c88-aec5-4fea-b3f3-e76b86bfb2c8",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for sebaceous glands. It plays a key role in the integumentary system and is one of the most studied parts of human anatomy. For ten points, name this hair follicle-related structure.",
+      "powerMarkPosition": 80,
+      "answer": "Hair follicle",
+      "acceptableAnswers": [
+        "hair follicle",
+        "Hair follicle"
+      ],
+      "explanation": "The hair follicle is a key component of the Integumentary system, involved in sebaceous glands.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "031d00ca-2c6f-4a50-bf9b-c58e99ec9a86",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "Donna Haraway has claimed that the \"vital spirit\" of this thinker's best-known concept is a \"metaphor with explanatory power.\" A book by this thinker is the best-known component of an encyclopedia edited by Otto Neurath (\"NOY-rat\") dedicated to a reductionist \"unity\" thesis. This thinker used the example of experiment subjects wearing glasses with inverting lenses to underline the transition between incommensurables. This thinker contrasted the \"extraordinary\" type of one phenomenon with its \"normal\" counterpart, which he likened to puzzle-solving. This thinker claimed that theories only undergo change when anomalies create a crisis, disputing Karl Popper's theory of falsifiability. For 10 points, name this thinker who introduced the idea of paradigm shifts in The Structure of Scientific Revolutions.",
+      "powerMarkPosition": 420,
+      "answer": "Kuhn",
+      "acceptableAnswers": [
+        "Kuhn",
+        "The Kuhn"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974239b9"
+    },
+    {
+      "id": "6008b2c5-ba04-4570-9cf6-d0d0a5f68bdb",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "The last line of this poem states, \"you walk... across America in tears to the door of my cottage in the Western night.\" This poem describes unfortunate \"CCNY lecturers on Dadaism\" being pelted with potato salad. One section of this poem describes a \"sphinx of aluminum\" and constantly repeats the word \"Moloch.\" This poem's footnote begins by solely repeating the word \"Holy!\", and it begins by stating \"I saw the best minds of my generation destroyed by madness.\" For 10 points, name this poem dedicated to Carl Solomon, written by Beat generation poet Allen Ginsberg.",
+      "powerMarkPosition": 302,
+      "answer": "Howl",
+      "acceptableAnswers": [
+        "Howl",
+        "The Howl"
+      ],
+      "source": "qbreader",
+      "sourceId": "652ebb748051389c667bd164"
+    },
+    {
+      "id": "10e98135-960c-4957-a15d-ad2d3dd00d09",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "In one work by this artist, the Virgin Mary wears a blue dress and is surrounded by a group of people while she holds the infant Jesus in her hands. This artist of Darmstadt Madonna created a horizontal painting of Christ lying dead in his tomb, and produced a series of forty-one woodcuts starting with The Creation in his Dance of Death. This man notably painted portraits of Thomas More and Erasmus, while his most famous work is believed to be a depiction of Georges de Selve and Jean de Dinteville. For 10 points, name this artist who painted two men standing in front of a green curtain next to a distorted skull in The Ambassadors.",
+      "powerMarkPosition": 339,
+      "answer": "Holbein",
+      "acceptableAnswers": [
+        "Holbein",
+        "The Holbein"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe79a"
+    },
+    {
+      "id": "05a5e152-766c-42f3-be49-0317d172a289",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "In a work of this type, red letters spell out \"He must increase, but I must decrease\" beside John the Baptist, who points to a lesion-covered Christ. A demon in a window lurks over St. Anthony's shoulder in that work of this type, in a likely allusion to ergotism. St. Cecilia plays the organ in another of these works flanked by a nude Adam and Eve. One section of that work, the Just Judges, was stolen during World War II. That work of this type centers around an octagonal fountain below angels who kneel around a chalice as it fills with blood from a Mystic Lamb. For 10 points, give this type of paneled religious artwork, one of which was created by Hubert and Jan van Eyck in Ghent.",
+      "powerMarkPosition": 380,
+      "answer": "altarpiece",
+      "acceptableAnswers": [
+        "altarpiece",
+        "Isenheim Altarpiece",
+        "Ghent Altarpiece",
+        "prompt on polyptychs",
+        "The altarpiece"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b0d64"
+    },
+    {
+      "id": "08779895-6cda-4ed8-9a3c-2a7db148967d",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "The Zeisel test can be used to detect them, and the compound THF is a very polar example of one. The \"crown\" varieties are cyclic and can be used as solvents in Grignard reagents due to their low reactivity. These compounds can be produced by the Williamson synthesis or by the dehydration of alcohols. For 10 points, identify these chemical compounds, characterized by two alkyl groups single bonded to an oxygen, whose diethyl version used to be used as an anesthetic.",
+      "powerMarkPosition": 207,
+      "answer": "ethers",
+      "acceptableAnswers": [
+        "ethers",
+        "esters before “THF”",
+        "The ethers"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0588"
+    },
+    {
+      "id": "368a5ff2-89d7-4c31-bce4-f2bad9a678db",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "This man advocated that lawyers not become \"adjuncts of large corporations\" in his speech, \"The Opportunity in the Law\" and was an early advocate of mandatory pro bono work for lawyers. This man argued against both big government and big corporations in his 1934 book, The Curse of Bigness, which was earlier anthologized into his Other People's Money and How the Bankers Use It. With his law partner, Samuel Warren, this man wrote the article \"Right to Privacy\", and later argued for a privacy right in his dissent in Olmstead v. U.S. This \"People's Lawyer\" collected a compendium of facts about the harmful effects of working over 10 hours per day in his namesake brief in Muller v. Oregon. For 10 points, name this first Jew appointed to the Supreme Court.",
+      "powerMarkPosition": 330,
+      "answer": "Brandeis",
+      "acceptableAnswers": [
+        "Brandeis",
+        "The Brandeis"
+      ],
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faab56"
+    },
+    {
+      "id": "d67d27c3-9bf8-4506-bbb1-b931d7c24023",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "text": "In this work, the protagonist alludes to Phaeton and Icarus to describe his fear while riding on a hairy beast with the face of a man. Two demons chase after an escaped swindler before getting stuck in boiling tar, and a messenger demands the opening of the gate to the City of Dis. This work begins with the protagonist encountering a leopard, a lion, and a she-wolf. One scene depicts Ugolino eating the back of Ruggieri's head, and another tells of the adultery of Paolo and Francesca. For 10 points, name this first section of Dante's The Divine Comedy, in which Dante is guided through Hell by Virgil.",
+      "powerMarkPosition": 282,
+      "answer": "Inferno",
+      "acceptableAnswers": [
+        "Inferno",
+        "The Divine Comedy",
+        "La Divina Commedia before mention",
+        "The Inferno"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe562"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "10103634-6c80-4bc2-b3b2-8e4055f3a36b",
+      "linkedTossupId": "11ea082b-05a3-46d2-8a3f-fa7ba2ab7816",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Give this term that describes things like calcite, chlorite, and many other things ending in \"-ite\". If you lived a few centuries ago, you might contrast this with \"animal\" and \"vegetable\".",
+          "answer": "mineral",
+          "acceptableAnswers": [
+            "mineral",
+            "The mineral"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One important property of a mineral is the color it makes when it is rubbed across a rough surface. That procedure is referred to by this name, which also describes the resulting color.",
+          "answer": "streak",
+          "acceptableAnswers": [
+            "streak",
+            "word forms",
+            "including streaking",
+            "The streak"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This iron-containing mineral leaves a distinctive red streak, which gives it its name. At room temperature, it is only weakly ferromagnetic, unlike magnetite.",
+          "answer": "hematite",
+          "acceptableAnswers": [
+            "hematite",
+            "The hematite"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This term describes any solid, stable, inorganic substance that has a definite crystalline structure. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f86327cdb0cbb3f464596f"
+    },
+    {
+      "id": "3207d10d-5b0d-47ad-879f-956fdba2a278",
+      "linkedTossupId": "f8c3c605-427a-48df-a62d-6059b067e89b",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these compositions, which may contain a Kyrie or Dies Irae. They are the Catholic mass for the dead.",
+          "answer": "Requiem",
+          "acceptableAnswers": [
+            "Requiem",
+            "mass",
+            "The Requiem"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer wrote a German Requiem, as well as a first symphony that critic Hans von Bulow called \"Beethoven's Tenth.\" He also wrote the Academic Festival Overture.",
+          "answer": "Brahms",
+          "acceptableAnswers": [
+            "Brahms",
+            "The Brahms"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Krzysztof Penderecki wrote a requiem titled for this country, his homeland. Other composers from this country include Frederic Chopin.",
+          "answer": "Poland",
+          "acceptableAnswers": [
+            "Poland",
+            "Republic of Poland",
+            "Rzeczpospolita Polska",
+            "The Poland"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Along with his Atmospheres and Lux Aeterna, one of these compositions by Ligeti was used in the film 2001: A Space Odyssey. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eeadce1032cda62a677543"
+    },
+    {
+      "id": "d2f38623-ebcd-49f5-b7d9-6a418981e0c8",
+      "linkedTossupId": "02bc34d0-8b7c-4ba9-8e3e-2e811f44fca5",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "A poem by Alphonse de Lamartine mourns how Julie Charles cannot revisit a beautiful example of what sort of place where they had spent the previous summer?",
+          "answer": "lake",
+          "acceptableAnswers": [
+            "lake",
+            "Le Lac",
+            "The lake"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lamartine was annoyed with the way that the poem finished and this published an alternative ending in 1825. This semi-autobiographical work chronicled its English author's melancholic journey across Europe, and its title references a candidate for knighthood.",
+          "answer": "Childe Harold’s Pilgrimage",
+          "acceptableAnswers": [
+            "Childe Harold’s Pilgrimage",
+            "The Childe Harold’s Pilgrimage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lamartine's own journeys inspired his sensational novel Graziella in which a Frenchman falls in love with a fisherman's daughter in this city. Elena Ferrante has set a series of books in this city in southern Italy, the subject of Roberto Saviano's Gomorrah.",
+          "answer": "Naples",
+          "acceptableAnswers": [
+            "Naples",
+            "Napoli",
+            "The Naples"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In Karel Hynek Macha's Máj (my), the lover Jarmila and Vilem think about each other from opposite sides of one of these locations. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490bede"
+    },
+    {
+      "id": "398de22f-58fc-4a96-b9e6-805c94b0b884",
+      "linkedTossupId": "cbc7dc14-cbfc-498e-b4d7-4b63dc924efe",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "PID controllers apply corrections based on proportional terms, derivative terms, and terms based on this operation. This calculus operation can be approximated with a Riemann sum.",
+          "answer": "integration",
+          "acceptableAnswers": [
+            "integration",
+            "equivalents such as taking the integral",
+            "The integration"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "As with all controllers, a PID controller's transfer function is obtained by applying this operation to the input and output. This operation equals [read slowly] the integral from zero to infinity of g of t times e to the minus s t dt.",
+          "answer": "Laplace transform",
+          "acceptableAnswers": [
+            "Laplace transform",
+            "The Laplace transform"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A PID controller's stability can be evaluated by counting the transfer function's poles and zeroes in a criterion named for this scientist. He also names the minimum sampling rate that a band-limited signal can be reconstructed at.",
+          "answer": "Nyquist",
+          "acceptableAnswers": [
+            "Nyquist",
+            "Nyquist stability criterion",
+            "Nyquist rate",
+            "The Nyquist"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about PID controllers:",
+      "source": "qbreader",
+      "sourceId": "66763418fe8264b343f111e0"
+    },
+    {
+      "id": "8891d7f7-8e5f-4b50-b25f-b2ccf5df2f33",
+      "linkedTossupId": "97a58e12-145b-4d94-9eda-2948069346e9",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The \"call\" of what foul, green figure, described as having a face featuring octopus tentacles, titles a story by the American author of At the Mountains of Madness.",
+          "answer": "Cthulhu",
+          "acceptableAnswers": [
+            "Cthulhu",
+            "The Cthulhu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cthulhu is one of the best known creations of this racist weirdo author whose works, including \"The Dunwich Horror\" and \"Herbert West: Reanimator,\" were recently collected by the Library of America.",
+          "answer": "Lovecraft",
+          "acceptableAnswers": [
+            "Lovecraft",
+            "The Lovecraft"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The horrible Shug-Niggurath (nee-gure-oth) of the Lovecraft pantheon has an epithet calling her this kind of animal with a thousand young.",
+          "answer": "goat",
+          "acceptableAnswers": [
+            "goat",
+            "The goat"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In \"The Shadow over Innsmouth\" this figure is described by the Deep Ones as waiting and dreaming in Ril'yeh. FTPE:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a287e"
+    },
+    {
+      "id": "6d031161-2829-4263-89e1-ef0b85977da5",
+      "linkedTossupId": "d078bccd-587f-4727-8cfc-36a470bf6cfd",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this language of the Thirukkural. Ilango Adigal wrote about Kovalan's wrongful execution due to accusations he stole the queen's anklet, and his wife Kannagi's quest for revenge, in one of this language's five epics, the Silappatikaram.",
+          "answer": "Tamil",
+          "acceptableAnswers": [
+            "Tamil",
+            "The Tamil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another medieval Indian poet was this Sanskrit writer. He described a yaksha's attempt to convey a message to his wife in The Cloud Messenger and also wrote The Recognition of Sakuntala.",
+          "answer": "Kalidasa",
+          "acceptableAnswers": [
+            "Kalidasa",
+            "The Kalidasa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Dushyanta gives Sakuntala one of these objects so that she can later take her rightful place as queen, but she loses it in the river.",
+          "answer": "ring",
+          "acceptableAnswers": [
+            "ring",
+            "The ring"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One work in this language comprises 1330 couplets divided into three sections about paals about virtue, wealth, and love. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63002656ea186ec68c3bd5a5"
+    },
+    {
+      "id": "e741bf89-5b81-4ea1-bb30-41f3bc792ce4",
+      "linkedTossupId": "be6998f5-98a2-41c5-bef4-895131ec3553",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Give the term for a species living in its nonnative habitat that has a negative effect on the new ecosystem.",
+          "answer": "invasive",
+          "acceptableAnswers": [
+            "invasive",
+            "The invasive"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This snake, the second-largest in the world after the green anaconda, has become a commonly encountered invasive species in Florida due to the pet trade.",
+          "answer": "python",
+          "acceptableAnswers": [
+            "python",
+            "The python"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This invasive amphibian was introduced in an attempt to control sugar crop pests, but its toxic skin now threatens predators and pet animals.",
+          "answer": "cane toad",
+          "acceptableAnswers": [
+            "cane toad",
+            "toad",
+            "The cane toad"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Florida has a great diversity of species, but many of them did not always live there. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68d80886f2b1f8e7f39133d9"
+    },
+    {
+      "id": "4c0251d0-0e25-47dd-a9c2-2eaa27ededed",
+      "linkedTossupId": "33e9de36-6532-4c9e-9dd4-3a1afab57eb7",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "One of Jannings' earliest successes was in this German director's film The Last Laugh. This man also directed such impressionistic films as the drama Sunrise and the horror film Nosferatu.",
+          "answer": "Murnau",
+          "acceptableAnswers": [
+            "Murnau",
+            "The Murnau"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Jannings had a prominent role as Professor Rath, who becomes obsessed with the singer Lola Lola in this director's film The Blue Angel. This director is best known for his collaborations with star Marlene Dietrich.",
+          "answer": "Sternberg",
+          "acceptableAnswers": [
+            "Sternberg",
+            "The Sternberg"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Jannings never worked with the other preeminent German filmmaker of the period, Fritz Lang, although perhaps he could have played the sinister scientist Rotwang in this Lang sci-film featuring machines running amok and the robot woman Maria.",
+          "answer": "Metropolis",
+          "acceptableAnswers": [
+            "Metropolis",
+            "The Metropolis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about the first man to win the Best Actor Award, Emil Jannings, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba673874e0ef7dd7b287e"
+    },
+    {
+      "id": "c858b879-8a75-4af1-a5f5-bd5a50062d83",
+      "linkedTossupId": "401e1e3f-9e19-4e80-b8b8-887e255dd629",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this play, in which the linguistics professor Henry Higgins attempts to fix Eliza Doolittle's Cockney accent. This play is titled after a sculptor from Greek mythology.",
+          "answer": "Pygmalion",
+          "acceptableAnswers": [
+            "Pygmalion",
+            "The Pygmalion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Irish playwright wrote Pygmalion, as well as other plays that incorporated their political and social ideas, such as Man and Superman.",
+          "answer": "Shaw",
+          "acceptableAnswers": [
+            "Shaw",
+            "The Shaw"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Shaw's essay \"What Happens Afterward\" criticizes an alternate ending to Pygmalion that has Eliza and Henry do this action. In a Shakespeare play, Romeo and Juliet secretly do this action with the help of Friar Lawrence.",
+          "answer": "marry",
+          "acceptableAnswers": [
+            "marry",
+            "equivalents such as get married and marriage",
+            "The marry"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This play's title is sometimes used as a substitute for the offensive word \"bloody,\" due to its inclusion in this play. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66e1bbb6b3ec1cfe3cd4a6b1"
+    },
+    {
+      "id": "e5d23699-aa0d-4d42-9491-a1ebeb27efaa",
+      "linkedTossupId": "e4b331c9-0634-4fbd-ad56-57d7d88965d5",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with b cells and antibodies.",
+          "answer": "T cell",
+          "acceptableAnswers": [
+            "T cell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the T cell in the immune system?",
+          "answer": "B cells and antibodies",
+          "acceptableAnswers": [
+            "B cells and antibodies"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to b cells and antibodies.",
+          "answer": "B cell",
+          "acceptableAnswers": [
+            "B cell"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "1211e572-5650-43a8-8469-2a815030258e",
+      "linkedTossupId": "3cea7b74-17ba-4e6c-8825-331e792715e9",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this opera by Mozart, whose overture begins with dramatic D minor chords. Leporello serves the title womanizer of this opera, who sings \"Là ci darem la mano\" to Zerlina.",
+          "answer": "Don Giovanni",
+          "acceptableAnswers": [
+            "Don Giovanni",
+            "The Don Giovanni"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Leporello sings this aria to Donna Elvira, in order to tell her not to pursue Don Giovanni. In this aria, Leporello claims that Don Giovanni has had sex with 640 women in Italy, 100 in France, and 1003 in Spain.",
+          "answer": "Catalogue",
+          "acceptableAnswers": [
+            "Catalogue",
+            "The Catalogue"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After a statue of this character, Donna Anna's father, comes to life, he invites Don Giovanni to dinner. This character drags Don Giovanni to Hell at the end of the opera.",
+          "answer": "Commendatore",
+          "acceptableAnswers": [
+            "Commendatore",
+            "the Commander",
+            "The Commendatore"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This opera's libretto opens with a bass singing, \"Notte e giorno faticar.\" For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "68bb81d6c87a3eecfecf53d0"
+    },
+    {
+      "id": "c12f35e0-c6e3-4e64-b6ff-1c99c76db118",
+      "linkedTossupId": "7f7d7a4e-97fe-4bb2-9535-4b59cc7e0e9c",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this poem that describes a corpse by noting \"If her horny feet protrude, they come to show how cold she is, and dumb.\" It closes \"Let the lamp affix the beam,\" before mentioning the title figure.",
+          "answer": "Emperor of Ice Cream",
+          "acceptableAnswers": [
+            "Emperor of Ice Cream",
+            "The Emperor of Ice Cream"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"The Emperor of Ice Cream\" is by this American lawyer-poet who also wrote \"Disillusionment of Ten O'Clock\" and \"Thirteen Ways of Looking at a Blackbird.\"",
+          "answer": "Stevens",
+          "acceptableAnswers": [
+            "Stevens",
+            "The Stevens"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In \"Disillusionment of Ten O'Clock,\" an old sailor dreams of catching tigers in this color weather. In a poem by a different poet, an object of this color is described \"Glazed with rain water beside the white chickens.\"",
+          "answer": "red",
+          "acceptableAnswers": [
+            "red",
+            "The red"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The second stanza of this poem opens with the instructions \"Take from the dresser of deal, lacking the three glass knobs, that sheet.\" For 10 point each:",
+      "source": "qbreader",
+      "sourceId": "636ca2cb1b6aedfbdb9efd28"
+    },
+    {
+      "id": "afc37344-cc46-44d1-b0bf-f58917a509ca",
+      "linkedTossupId": "96bf6c88-aec5-4fea-b3f3-e76b86bfb2c8",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with brainstem structures.",
+          "answer": "cerebrum",
+          "acceptableAnswers": [
+            "cerebrum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cerebrum in the nervous system?",
+          "answer": "Brainstem structures",
+          "acceptableAnswers": [
+            "Brainstem structures"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to brainstem structures.",
+          "answer": "cerebellum",
+          "acceptableAnswers": [
+            "cerebellum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9563419d-e386-4dfc-a225-802026255e03",
+      "linkedTossupId": "031d00ca-2c6f-4a50-bf9b-c58e99ec9a86",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these places with platforms called bimah. These places have a perpetually lit lamp whose name translates to \"eternal light.\"",
+          "answer": "synagogue",
+          "acceptableAnswers": [
+            "synagogue",
+            "bet knesset",
+            "accept bet tefila",
+            "prompt on temples",
+            "The synagogue"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Synagogues host these coming-of-age ceremonies for Jewish children when they reach the age of 13, the non-Orthodox version of which involves reading the Torah to the congregation. Either ceremony name is acceptable.",
+          "answer": "bar mitzvah",
+          "acceptableAnswers": [
+            "bar mitzvah",
+            "bat mitzvah",
+            "accept b’nai mitzvah",
+            "accept b’not mitzvah",
+            "The bar mitzvah"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Some synagogues have a structure called a mechitza for this purpose during prayer. Asra Nomani led a modern movement advocating for ending rules with this purpose in mosques.",
+          "answer": "separating men and women",
+          "acceptableAnswers": [
+            "separating men and women",
+            "anything relating to men and women being in different locations during prayer",
+            "The separating men and women"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Yemeni people known as Teimani visiting these places traditionally remove their shoes before entering. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed60f81539231f571ee072"
+    },
+    {
+      "id": "b3cfdce9-64d9-4ad0-9edb-12983a35c097",
+      "linkedTossupId": "6008b2c5-ba04-4570-9cf6-d0d0a5f68bdb",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this poem in which the narrator says, \"I am the darker brother,\" but \"Tomorrow, I'll be at the table... Nobody'll dare say to me, 'Eat in the kitchen' then.\"",
+          "answer": "I, Too",
+          "acceptableAnswers": [
+            "I, Too",
+            "“I",
+            "Too",
+            "Sing America”",
+            "The I, Too"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"I, Too\" was written by this African-American poet of the Harlem Renaissance. In his poem \"Mother to Son,\" the narrator says, \"Life for me ain't been no crystal stair.\"",
+          "answer": "Hughes",
+          "acceptableAnswers": [
+            "Hughes",
+            "The Hughes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Hughes' poem \"Harlem,\" he asks, \"What happens to [this thing]?... Does it stink like rotten meat?... Maybe it sags like a heavy load. Or does it explode?\"",
+          "answer": "dream deferred",
+          "acceptableAnswers": [
+            "dream deferred",
+            "partial",
+            "The dream deferred"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this poem, the author relates, \"They send me to eat in the kitchen when company comes.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144a6c"
+    },
+    {
+      "id": "5cd057e0-373f-4440-8f16-516b9bdf690c",
+      "linkedTossupId": "10e98135-960c-4957-a15d-ad2d3dd00d09",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this group portrait of five seated men in black, wearing hats, and one man in black standing behind them, who wears a skullcap.",
+          "answer": "Syndics of the Drapers’ Guild",
+          "acceptableAnswers": [
+            "Syndics of the Drapers’ Guild",
+            "Syndics of the Clothmakers’ Guild",
+            "The Sampling Officials",
+            "De Stallmeesters",
+            "The Syndics of the Drapers’ Guild"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this other painting by the artist of Syndics of the Drapers' Guild, a man in black with a red sash stands in the middle of a group of many men with muskets, and a man waving a blue-and-yellow flag.",
+          "answer": "Night Watch",
+          "acceptableAnswers": [
+            "Night Watch",
+            "The Militia Company of Captain Frans Banning Cocq",
+            "The Night Watch"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Syndics of the Drapers' Guild and The Night Watch are by this old master of the Dutch Golden Age.",
+          "answer": "Rembrandt",
+          "acceptableAnswers": [
+            "Rembrandt",
+            "either underlined name",
+            "The Rembrandt"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The seated figures in this painting are leafing through a book that sits on the red tablecloth. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df439f76"
+    },
+    {
+      "id": "fc903eb6-8246-412c-9b63-800b4b7c8e10",
+      "linkedTossupId": "05a5e152-766c-42f3-be49-0317d172a289",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this musical character who sings \"All I ask of You\" with both Raoul and the title character she runs away with.",
+          "answer": "Christine Daaé",
+          "acceptableAnswers": [
+            "Christine Daaé",
+            "The Christine Daaé"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Christine is the lover of Erik, The Phantom of the Opera, in this composer's 1986 musical. This composer also made the music for the rock opera Jesus Christ Superstar.",
+          "answer": "Lloyd-Webber",
+          "acceptableAnswers": [
+            "Lloyd-Webber",
+            "The Lloyd-Webber"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Lloyd-Webber musical was based on a T.S. Elliot piece. This musical contains the story of the Jellicles and features the famous song \"Memory\".",
+          "answer": "Cats",
+          "acceptableAnswers": [
+            "Cats",
+            "The Cats"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This musical character sang while her father played the violin as a child. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31c32"
+    },
+    {
+      "id": "3460b7b5-be42-43aa-b1dc-719fe42d3f36",
+      "linkedTossupId": "08779895-6cda-4ed8-9a3c-2a7db148967d",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these blood vessels that carry blood away from the heart.",
+          "answer": "arteries",
+          "acceptableAnswers": [
+            "arteries",
+            "artery",
+            "The arteries"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This largest artery in the body receives blood directly from the left ventricle.",
+          "answer": "aorta",
+          "acceptableAnswers": [
+            "aorta",
+            "The aorta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This adjective describes the arteries that supply oxygen to the heart muscle itself.",
+          "answer": "coronary",
+          "acceptableAnswers": [
+            "coronary",
+            "coronary arteries",
+            "coronaries",
+            "The coronary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The only one of these blood vessels that carries deoxygenated blood is the pulmonary one. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec66dc"
+    },
+    {
+      "id": "1083b9ca-88d9-4a91-9734-9bee8a7d429a",
+      "linkedTossupId": "368a5ff2-89d7-4c31-bce4-f2bad9a678db",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This biology teacher from Tennessee was charged with teaching evolution in violation of the Butler Act, pitting Darrow against national wet blanket William Jennings Bryan.",
+          "answer": "Scopes",
+          "acceptableAnswers": [
+            "Scopes",
+            "The Scopes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "William Borah similar came up short against Darrow in the trial of this head of the Western Federation of Miners for the 1905 dynamiting of Idaho governor Frank Steunenberg. This co-founder of the IWW was later convicted under the Espionage Act of 1917.",
+          "answer": "Haywood",
+          "acceptableAnswers": [
+            "Haywood",
+            "The Haywood"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Darrow asserted that he \"believe[d] in the law of love\" in his seven-hour closing statement on behalf of this black family from Detroit, who faced murder charges for defending their house from a white mob.",
+          "answer": "Sweet",
+          "acceptableAnswers": [
+            "Sweet",
+            "The Sweet"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these figures defended by Clarence Darrow, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63052604c887e5458fc32d83"
+    },
+    {
+      "id": "aa1194a7-1aa4-4974-9c4d-dedcd0fd2d95",
+      "linkedTossupId": "d67d27c3-9bf8-4506-bbb1-b931d7c24023",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this tradition Japanese art of folding paper.",
+          "answer": "origami",
+          "acceptableAnswers": [
+            "origami",
+            "The origami"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Japanese tradition, a wish is bestowed on anyone who creates the senbazuru, which refers to this collection of origami animals. Kikuji is the orphaned protagonist of a Kawabata novel named for this collection. The number and name of the animal is required.",
+          "answer": "thousand",
+          "acceptableAnswers": [
+            "thousand",
+            "equivalents",
+            "accept Thousand Cranes",
+            "prompt on cranes by asking “how many?”",
+            "The thousand"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another East Asian paper art is the creation and release of these items during China's Mid-Autumn Festival. These paper objects have a candle inside that provides both light and upward propulsion, similar to a hot air balloon.",
+          "answer": "lantern",
+          "acceptableAnswers": [
+            "lantern",
+            "tiandeng",
+            "sky lanterns",
+            "Kongming lanterns",
+            "accept sky candles",
+            "accept fire balloons",
+            "accept flying lanterns",
+            "accept floating lanterns",
+            "The lantern"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Erik Demaine pioneered a \"computational\" form of this discipline in which an algorithm determines the minimum number of folds to create a complex polyhedron. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52640"
+    }
+  ]
+}

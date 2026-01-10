@@ -1,0 +1,1127 @@
+{
+  "packetId": "packet-114",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Literature",
+    "Science",
+    "Philosophy",
+    "Fine Arts",
+    "History",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "ddfd43c4-c118-4a99-8e44-487c34f26039",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "The narrator of this work recounts Socrates's statement that \"before thunder ceases, the rain comes,\" made when his wife urinated on him, and quotes extensively from Ptolemey's Amalgest. One character argues that gentility comes only from god, and another character draws a metaphor by claiming that a castle wall cannot be defended when it is besieged from every side. The central character tears pages out of Valerius and Theophrastus, which earns her a punch in the ear by Jankin. One character is forced to wed an old woman in return for information but that woman later transforms into a young beauty, and as punishment for raping a maiden, a knight is ordered to name the thing which woman desires most. For 10 points, name this Canterbury tale in which the title character recounts her misadventures with her five husbands.",
+      "powerMarkPosition": 369,
+      "answer": "Wife of Bath’s Tale",
+      "acceptableAnswers": [
+        "Wife of Bath’s Tale",
+        "The Wife of Bath’s Tale"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4364f"
+    },
+    {
+      "id": "b0dec9f3-cfeb-4380-8e7f-338e552c369b",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "A minor character in this work, Eugenius, sees a more important character die, and that dying character's last words quote Sancho Panza, stating that should he recover, \"Mitres be suffered to rain down from heaven thick as hail\". In another episode of this novel, Le Fever falls ill during his a trip to Flanders, and is visited by the future suitor of Mrs. Bridget, Corporal Trim. This romance nearly parallels that of the Widow Wadman and the title character's uncle, but for a wound the latter suffers in the Battle of Namur, and the title character constantly refers to him as \"My Uncle Toby\". For 10 points, name this novel about the Life and Opinions of the title Gentleman, a work by Lawrence Sterne.",
+      "powerMarkPosition": 357,
+      "answer": "Tristram Shandy",
+      "acceptableAnswers": [
+        "Tristram Shandy",
+        "The Tristram Shandy"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d434f9"
+    },
+    {
+      "id": "c7917b55-cafd-48db-9832-c00d2f158d0f",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "One of these objects is named after Cocos Island and is next to one named after a region of Peru, Nazca. The spaces between them are usually classified as divergent or convergent transform faults. The theory of these objects has become connected to theories of mantle plumes, and the original theory came out of the continental drift ideas of Alfred Wegener. For 10 points, name these shifting sections of the Earth's surface.",
+      "powerMarkPosition": 196,
+      "answer": "plate",
+      "acceptableAnswers": [
+        "plate",
+        "anything reasonable containing the word tectonic",
+        "The plate"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec6726"
+    },
+    {
+      "id": "23ccf5eb-7baf-473e-b514-0ee275627436",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "One of these is termed non-innocent if it can exist in multiple oxidation states, and Zeise's salt contains one of these were backbonding places d electrons in a pi antibonding orbital. The concept of hapticity is used to describe the structure of one of these in a bond, which can also be described by a \"bite angle,\" and ones termed labile are easily reactive. Polydentate ones form bonds over several sites and are termed chelating [KEE-lating], an example of which is EDTA. For 10 points, give this name for an atom or molecule that bonds to a central metal atom in a coordination complex.",
+      "powerMarkPosition": 362,
+      "answer": "ligand",
+      "acceptableAnswers": [
+        "ligand",
+        "chelate",
+        "chelating agent until “polydentate ones”",
+        "then prompt on it until mentioned",
+        "The ligand"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841a7f"
+    },
+    {
+      "id": "df8a88ed-920e-40e9-b612-4c77ce46f6ec",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "One holder of this title challenged people to point him to where God is not after pointing his feet toward the Kaaba. That holder of this title threw his bowl in a sewer to find a successor. The first person to hold this title declared, \"there is no Hindu, there is no Muslim.\" The last person to hold this title founded an order called the Khalsa and told his followers to obey the Five Ks. The last human to hold this title, Gobind Singh, declared that the eternal holder of this title would be a book called Granth Sahib. The first person to hold this title was named Nanak. For 10 points, give the title for religious leaders in Sikhism, derived from the Sanskrit word for \"mentor.\"",
+      "powerMarkPosition": 340,
+      "answer": "Guru",
+      "acceptableAnswers": [
+        "Guru",
+        "The Guru"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec2b2977063e8d403f06fc"
+    },
+    {
+      "id": "f55fa0f1-004d-4cc9-b173-1216fd312b43",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "In one section of this work, the author calls Euclid's methods 'perverted' since he tends to ignore the importance of perception. In another part, the author draws upon the concept of Tat tvam asi, but dispels the idea that renunciation leads to suicide. In the preface, the author compares the effects of the works of Kant to operating on a blind man's cataracts, and in book 3 argues that art allows us to transcend conflict, and that music grants immediate access to its subject. In the opening he states that one who attains wisdom becomes certain that what he knows is only an eye that sees a sun and a hand that feels the earth. For 10 points, name this work which considers the unobservable truth as a \"thing-in itself\", penned by Arthur Schopenhauer.",
+      "powerMarkPosition": 254,
+      "answer": "W",
+      "acceptableAnswers": [
+        "W"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d44366"
+    },
+    {
+      "id": "0b53c445-e899-4b77-9a81-8fc365dfd700",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "One of this composer's pieces for solo piano opens in pianissimo with the left hand playing the notes B flat, C, D, G up and down. The eighth of his Préludes was inspired by a Leconte de Lisle poem, and other works in that collection include \"What the West Wind Saw\" and \"The Sunken Cathedral.\" Movements entitled Doctor Gradus ad Parnassum and Golliwogg's Cakewalk begin and end this composer's Children's Corner suite. Another of his pieces imitates a satyr playing the panpipes. The third movement of his Suite Bergamasque was inspired by a Paul Verlaine poem and evokes moonlight. For 10 points, name this composer of Prelude to the Afternoon of a Faun and Clair de Lune.",
+      "powerMarkPosition": 313,
+      "answer": "Debussy",
+      "acceptableAnswers": [
+        "Debussy",
+        "The Debussy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fbeb2"
+    },
+    {
+      "id": "6e30659d-2e2e-48ea-9812-cd065ce74d1b",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "Each ratio in the law of sines is equal to this measurement for the circle circumscribed about the triangle. Given three points on a circle, Thales' [THAY-leez'] theorem says that if two of the points form this, then the three points can form a right angle. This line segment is the longest possible chord of a circle, since it passes through the center. Pi is defined as the ratio between the circumference and, for 10 points, what measurement equal to twice the circle's radius?",
+      "powerMarkPosition": 244,
+      "answer": "diameter",
+      "acceptableAnswers": [
+        "diameter",
+        "The diameter"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318ac9ff"
+    },
+    {
+      "id": "346a2c38-08fb-46a3-a66a-db0bcd45c126",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "Mademoiselle Reisz is a renowned pianist in this work, and Adele Ratignolle reminds the protagonist of this novel the importance of children and family. Opening at a vacation resort on Grand Isle where the protagonist is vacationing with her husband Leonce and her two children, the work depicts two affairs the protagonist has with Alcee Arobin and Robert Lebrun. Ending with the protagonist drowning herself in the Gulf of Mexico, for 10 points, name this work about Edna Pontellier, the most famous and last work of Kate Chopin.",
+      "powerMarkPosition": 364,
+      "answer": "Awakening",
+      "acceptableAnswers": [
+        "Awakening",
+        "The Awakening"
+      ],
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced876"
+    },
+    {
+      "id": "98cb750e-c27b-4e49-942b-3e158f887aa0",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "One equation for calculating this quantity is only valid when the volume divided by the particle number times the thermal wavelength cubed is greater than 1 and is named for Sackur and Tetrode. For a gas undergoing a temperature change this quantity is equal to the number of moles, times the heat capacity, times the natural log of final temperature over initial. This quantity is equal to the amount of heat added to a system divided by the system's temperature. It is also equal to Boltzmann's constant times the natural log of the number of microstates. This quantity is always increasing for an isolated system according to the second law of thermodynamics. For 10 points, name this quantity, a measure of the disorder of a system.",
+      "powerMarkPosition": 364,
+      "answer": "entropy",
+      "acceptableAnswers": [
+        "entropy",
+        "The entropy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125d47b"
+    },
+    {
+      "id": "222b60e0-3235-44e7-a034-bd13737bddd0",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "One character in this play says with frustration, \"I have fought here three long years to bend these stiff-necked people to me.\" Mercy Lewis may have stolen one character's life savings in this play, and at the end of this play, that character's wife notably declares that he has \"found his goodness.\" Mary Warren is almost beaten in this play due to the gift of a \"poppet.\" In this play, which features Giles Corey, a crowd gathers outside Reverend Parris' house after suspicions arise over the actions of Tituba, and Elizabeth accuses Abigail of having an affair with John Proctor. For 10 points, name this Arthur Miller play about the Salem Witch trials.",
+      "powerMarkPosition": 364,
+      "answer": "Crucible",
+      "acceptableAnswers": [
+        "Crucible",
+        "The Crucible"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144b81"
+    },
+    {
+      "id": "918f478a-2716-4e61-b0cf-adfd69814e46",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "This substance accumulates in the bodies of patients whose receptors for this substance's carriers are unable to recognize apoprotein B100. Drugs that inhibit the synthesis of this substance target HMG-CoA reductase, which catalyzes the formation of mevalonate. This derivative of squalene is a precursor of estrogens, androgens, and other steroid hormones. This molecule maintains the fluidity of the plasma membrane at low temperatures. High levels of this compound can build up in arteries and form plaques, leading to myocardial infarctions and strokes. For 10 points, name this lipid substance, whose \"good\" and \"bad\" kinds are carried by HDLs and LDLs, respectively.",
+      "powerMarkPosition": 261,
+      "answer": "cholesterol",
+      "acceptableAnswers": [
+        "cholesterol",
+        "3-beta-cholest-5-en-3-ol",
+        "The cholesterol"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0702bb8d2514c62130903"
+    },
+    {
+      "id": "859ef3f2-8dda-44ce-a59b-09fd6d589c46",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "A confederation founded in this nation's fortress of Bar resisted eastern encroachment. This nation, first established under the Piast dynasty, once had a three-house parliament that allowed any member to veto a bill, the Sejm. The thirteenth of Wilson's Fourteen Points demanded this nation's free access to a northern seaport. This country's Union of Lublin phase was ended by three partitions, and a union leader who organized a strike in its shipyards, Lech Walesa, became its first post-Communist President. For 10 points, identify this nation, the location of Solidarity, Auschwitz, and the Warsaw Ghetto.",
+      "powerMarkPosition": 227,
+      "answer": "Poland",
+      "acceptableAnswers": [
+        "Poland",
+        "The Poland"
+      ],
+      "source": "qbreader",
+      "sourceId": "6451e799d4402ec440c6249d"
+    },
+    {
+      "id": "786ab193-743d-44b3-a7f8-7cc8567a8e18",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "This colony's Plundering Time saw looting by Richard Ingle and led to the Battle of Severn. This colony fought a boundary war with its northern neighbor known as Cresap's War. William Stone served as this state's governor when it passed an act protecting all Trinitarian practitioners of a certain religion. That aforementioned act was revoked by this colony's governor William Claiborne and was known as this colony's \"Toleration Act,\" or the \"Act Concerning Religion.\" In addition to having its northern boundary set by the Mason-Dixon Line, this colony was established as a safe-haven for Catholics. For 10 points, name this colony that was founded by Cecil Calvert.",
+      "powerMarkPosition": 307,
+      "answer": "Maryland",
+      "acceptableAnswers": [
+        "Maryland",
+        "The Maryland"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df87c09bc4e61b2fb377ea"
+    },
+    {
+      "id": "ab9dbe4c-c6e9-477c-a805-7d10f7122f89",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "D.J. Hershman and Julian Lieb outlined how some patients with this condition were highly productive and creative in their book The Key to Genius. In her study of Pennsylvania Amish, Janice Egeland found that the family inheritance of this disorder may be linked to chromosome 11. Patty Dukes raised public awareness of this disorder with her memoir Call Me Anna. This is the most common disorder treated with doses of lithium carbonate. This disorder is divided into Type I and Type II based on the occurrence of episodes involving rapid speech, flight of ideas, and irritability. For 10 points, name this psychological disorder characterized by dramatic mood changes between manic and depressive episodes.",
+      "powerMarkPosition": 417,
+      "answer": "bipolar",
+      "acceptableAnswers": [
+        "bipolar",
+        "manic depression until “manic”",
+        "prompt on depression",
+        "word forms",
+        "prompt on mania",
+        "anti-prompt on seasonal affective disorder",
+        "SAD",
+        "The bipolar"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382c06e578a78206cf208b0"
+    },
+    {
+      "id": "1c2d83a8-32a2-4e49-a517-4acd00ce88e5",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "In one novel by this author, the narrator finds 256 small wooden slips with unexplainable markings while excavating ruins in the desert. In another novel by this author, Anna is carried to a hospital in a wheelbarrow by her son, a gardener with a cleft lip. This man wrote a novel about a magistrate of the Empire and his encounter with the sunglass-wearing Colonel Joll, and wrote another novel in which an affair with a student causes David Lurie to lose his job. For 10 points, name this South African born author of Waiting for the Barbarians, Life and Times of Michael K., and Disgrace.",
+      "powerMarkPosition": 257,
+      "answer": "Coetzee",
+      "acceptableAnswers": [
+        "Coetzee",
+        "The Coetzee"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee5b8"
+    },
+    {
+      "id": "13d88e77-8a54-4d78-a4fe-7257dcf696e6",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "In one work, David Ricardo outlined the Principles of Political Economy and this concept. The Pigovian type of this concept is used to combat negative externalities, and deadweight loss results from their use. Milton Friedman advocated a negative version of one of these to replace governmental welfare; the type of this that he targeted was legalized in the US by the Sixteenth Amendment. Including \"capital gains\", \"estate\", and \"income\" varieties, give this general term for financial levies enacted by a government.",
+      "powerMarkPosition": 368,
+      "answer": "tax",
+      "acceptableAnswers": [
+        "tax",
+        "word forms",
+        "The tax"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1e17"
+    },
+    {
+      "id": "57856219-b778-48c0-948f-adaf783fa7be",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "Despite a clause in the Treaty of Paris, a fort of this name, captured by William Johnson in the French and Indian War, was not ceded to the United States until the signing of Jay's Treaty. Two thousand Native American leaders signed a treaty of this name with William Johnson in 1741. A city of this name was the site of the historic Edward Dean Adams Power Plant. The 93rd and 99th Street Schools were built atop a toxic dumpsite in the Love Canal neighborhood of a city of this name. A natural landmark of this name was a favorite site for harrowing tight-rope walks and was descended in 1901 by schoolteacher Annie Edson Taylor in a barrel. For 10 points, identify this name common to a set of magnificent waterfalls in upstate New York.",
+      "powerMarkPosition": 285,
+      "answer": "Niagara",
+      "acceptableAnswers": [
+        "Niagara",
+        "The Niagara"
+      ],
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490b991"
+    },
+    {
+      "id": "262050c4-aac5-4e0a-930c-32fb438a5264",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "This author of Islam Observed and the essay collection Local Knowledge objected to structuralism, calling it \"a sort of high-tech rationalism\", and often focused his writings on the revolution in what he called \"the way we think about the way we think\". Beginning with his fieldwork in Java and Bali in the 1950s, he analyzed the role of symbols in society in works like The Religion of Java and Person, Time, and Conduct in Bali. For 10 points, who is the influential U.S. anthropologist perhaps best known for his essay collection The Interpretation of Cultures?",
+      "powerMarkPosition": 253,
+      "answer": "Clifford Geertz",
+      "acceptableAnswers": [
+        "Clifford Geertz",
+        "The Clifford Geertz"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596ea2"
+    },
+    {
+      "id": "1ef1269e-9b3d-43d2-b7db-be0e1f8bb2a7",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "Under this ruler, wolves were tagged as \"noxious animals\" by noted wolf killer Edwin Dun, who reorganized agriculture in this man's nation. The idea of a \"national family\" was promoted under this ruler, under whom The National Morality Movement began. The slogan \"Enrich the country, strengthen the military\" was introduced when this ruler came to power, which ended the sonno joi movement. This ruler issued a document containing the Five Articles, including one that promised to seek \"knowledge throughout the world.\" This man's forces won the Battle of Shiroyama, ending the Saigo Takamori led Satsuma Rebellion. The issuer of the Charter Oath, this emperor was the namesake of a period that included the Boshin War. For 10 points, name this emperor succeeded by Taisho, who ruled during a namesake restoration.",
+      "powerMarkPosition": 370,
+      "answer": "Meiji",
+      "acceptableAnswers": [
+        "Meiji",
+        "The Meiji"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d5b2"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "0c84bf94-1db3-4eb2-93a4-0ed54d3038c8",
+      "linkedTossupId": "ddfd43c4-c118-4a99-8e44-487c34f26039",
+      "category": "Literature",
+      "subcategory": "Other Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This royal advisor claims \"brevity is the soul of wit,\" which is sort of ironic considering that Hamlet is Shakespeare's longest play. This father of Ophelia is stabbed by Hamlet while hiding behind a curtain.",
+          "answer": "Polonius",
+          "acceptableAnswers": [
+            "Polonius",
+            "The Polonius"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A character with this profession sings a namesake song before throwing a skull up in the air. After the death of Ophelia, two characters with this job tell each other morbid riddles right before Hamlet discovers the skull of the jester Yorick.",
+          "answer": "gravedigger",
+          "acceptableAnswers": [
+            "gravedigger",
+            "the Gravedigger’s Song",
+            "The gravedigger"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This character claims he could tell a tale that would \"freeze thy young blood\" and make \"each particular hair to stand on end.\" Nicholas Rowe claimed that this character was played by Shakespeare himself during the original staging of Hamlet.",
+          "answer": "ghost",
+          "acceptableAnswers": [
+            "ghost",
+            "Hamlet’s father",
+            "any answers indicating the father of Hamlet",
+            "accept King Hamlet",
+            "prompt on Hamlet",
+            "since that is also the father’s name",
+            "The ghost"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some characters from the play Hamlet, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c06e578a78206cf2092c"
+    },
+    {
+      "id": "6d6b85e0-7e31-4aa9-9fd7-882dc9801c1a",
+      "linkedTossupId": "b0dec9f3-cfeb-4380-8e7f-338e552c369b",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this controversial novelist who won the Pulitzer Prize for telling the true story of death row convict Gary Gilmore in The Executioner's Song. This man unsuccessfully ran for Mayor of New York in 1973.",
+          "answer": "Mailer",
+          "acceptableAnswers": [
+            "Mailer",
+            "The Mailer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mailer based this first novel off of his World War II experiences in the Pacific. This book tells the story of Marines on the island of Anopopei and uses the euphemism \"fug\" instead of \"fuck.\"",
+          "answer": "Naked and the Dead",
+          "acceptableAnswers": [
+            "Naked and the Dead",
+            "The Naked and the Dead"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mailer also wrote a novel whose title asks \"Why Are We in\" this country. His novel The Armies of the Night is about a group of protesters opposing American involvement in a war in this country.",
+          "answer": "Vietnam",
+          "acceptableAnswers": [
+            "Vietnam",
+            "The Vietnam"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man wrote the essay \"The White Negro: Superficial Reflections on the Hipster\" about young whites' adoption of black culture. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bcab6bc6fadbe6166da25f"
+    },
+    {
+      "id": "f309c908-28dc-4932-bc38-ff5ace091bc7",
+      "linkedTossupId": "c7917b55-cafd-48db-9832-c00d2f158d0f",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "The Büchner [BYOUK-ner] type of this piece of lab equipment is often used in vacuum filtrations. Its simpler version is conical and eases the transfer of samples to containers with small necks.",
+          "answer": "funnel",
+          "acceptableAnswers": [
+            "funnel",
+            "The funnel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This method of separation involves heating a solution of components with different boiling points. This process does not work on azeotropic solutions.",
+          "answer": "distillation",
+          "acceptableAnswers": [
+            "distillation",
+            "The distillation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Thin-layer\" and \"column\" are versions of this separatory method which uses a mobile phase flowing past a stationary phase to separate solution components.",
+          "answer": "chromatography",
+          "acceptableAnswers": [
+            "chromatography",
+            "The chromatography"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these laboratory separation methods.",
+      "source": "qbreader",
+      "sourceId": "663806eaa0924256318acc73"
+    },
+    {
+      "id": "106cb572-4e4d-4020-b6b1-c09474eb3574",
+      "linkedTossupId": "23ccf5eb-7baf-473e-b514-0ee275627436",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This type of radioactive decay does not result in a net loss or gain in mass or charge. It is emitted during stellar fusion and is often contrasted with alpha and beta decay.",
+          "answer": "Gamma",
+          "acceptableAnswers": [
+            "Gamma",
+            "The Gamma"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Beta decay causes the emission of either a positron or an electron, and this other uncharged nearly massless particle.",
+          "answer": "Neutrino",
+          "acceptableAnswers": [
+            "Neutrino",
+            "Antineutrino",
+            "The Neutrino"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Due to its size, single alpha decay is only observed in this element and elements heavier than it.",
+          "answer": "Tellurium",
+          "acceptableAnswers": [
+            "Tellurium",
+            "The Tellurium"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about radioactive decay.",
+      "source": "qbreader",
+      "sourceId": "639f7290036417219c961d63"
+    },
+    {
+      "id": "8457402c-9d59-4a02-853e-e1f4a0ca3f9a",
+      "linkedTossupId": "df8a88ed-920e-40e9-b612-4c77ce46f6ec",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this work co-written with Friedrich Engels that explores class struggles in Europe and ends with \"the proletariat have nothing to lose but their chains!\"",
+          "answer": "Communist Manifesto",
+          "acceptableAnswers": [
+            "Communist Manifesto",
+            "Manifest der Kommunistischen Partei",
+            "The Communist Manifesto"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Communist Manifesto was written by this German philosopher who also wrote Theses on Faeurbach and Das Kapital.",
+          "answer": "Marx",
+          "acceptableAnswers": [
+            "Marx",
+            "The Marx"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Marx also wrote a Critique of this 1875 party platform that attempted to give universal suffrage and protection to workers. Marx wrote that this would have to follow the principle of \"To each according to his contributions.\"",
+          "answer": "Gotha Program",
+          "acceptableAnswers": [
+            "Gotha Program",
+            "The Gotha Program"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work begins \"A spectre is haunting Europe.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895997a0d8ea074be7c82"
+    },
+    {
+      "id": "5a73d41d-71df-4f87-962a-e4ea09b5e920",
+      "linkedTossupId": "f55fa0f1-004d-4cc9-b173-1216fd312b43",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Spanish-born thinker, who also wrote the novel The Last Puritan and the autobiographical Persons and Places.",
+          "answer": "Santayana",
+          "acceptableAnswers": [
+            "Santayana",
+            "The Santayana"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a 1923 book, Santayana contrasted this kind of thought with \"animal faith.\" In the classical world, this school featured such members as Pyrrho and Sextus Empiricus.",
+          "answer": "Skepticism",
+          "acceptableAnswers": [
+            "Skepticism",
+            "The Skepticism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Santayana's major early achievement is a five-volume work about the \"life of\" this concept.",
+          "answer": "reason",
+          "acceptableAnswers": [
+            "reason",
+            "The reason"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His first book was 1896's The Sense of Beauty, in which he laid out his aesthetic philosophy. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fb24"
+    },
+    {
+      "id": "5332ac61-162b-430f-81ef-7241385d0dc2",
+      "linkedTossupId": "0b53c445-e899-4b77-9a81-8fc365dfd700",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this sculptor of The Resting Satyr and The Aberdeen Head.",
+          "answer": "Praxiteles",
+          "acceptableAnswers": [
+            "Praxiteles",
+            "The Praxiteles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This sculpture by Praxiteles features a Greek god balancing a small baby in his hand. The arm missing from this sculpture was likely holding grapes.",
+          "answer": "Hermes with the Infant Dionysus",
+          "acceptableAnswers": [
+            "Hermes with the Infant Dionysus",
+            "The Hermes with the Infant Dionysus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Praxiteles created multiple sculptures of this God, including Lycian and Sauroktonos versions. Depictions of this god often show him playing a lute or slaying Python.",
+          "answer": "Apollo",
+          "acceptableAnswers": [
+            "Apollo",
+            "The Apollo"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This ancient Athenian artist had a favorite model named Phryne. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f743b20e8b632d5cf1410f"
+    },
+    {
+      "id": "4440b481-73c6-4415-ac67-978f010ca518",
+      "linkedTossupId": "6e30659d-2e2e-48ea-9812-cd065ce74d1b",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This German won the award in 1918 for discovering that light energy travelled in quanta as opposed to continuous waves. He names a fundamental \"length\" in physics.",
+          "answer": "Planck",
+          "acceptableAnswers": [
+            "Planck",
+            "The Planck"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "William Roentgen was awarded the first Nobel Prize in Physics for his discovery of this portion of the electromagnetic spectrum between ultraviolet and gamma radiation.",
+          "answer": "x-ray",
+          "acceptableAnswers": [
+            "x-ray",
+            "The x-ray"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The 2014 award was split between three scientists who worked on these devices which use a p-n junction to generate light when a voltage is applied.",
+          "answer": "LED",
+          "acceptableAnswers": [
+            "LED",
+            "light-emitting diodes",
+            "The LED"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the Nobel Prize in physics.",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c69f"
+    },
+    {
+      "id": "b9eed92b-97d2-400d-9255-503d12668279",
+      "linkedTossupId": "346a2c38-08fb-46a3-a66a-db0bcd45c126",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel in which Elizabeth Bennet marries Mr. Darcy.",
+          "answer": "Pride and Prejudice",
+          "acceptableAnswers": [
+            "Pride and Prejudice",
+            "The Pride and Prejudice"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author wrote Pride and Prejudice and the novel Emma.",
+          "answer": "Austen",
+          "acceptableAnswers": [
+            "Austen",
+            "The Austen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this other Austen novel, after Lucy Steele breaks off her engagement with Edward Ferrars to marry his brother Robert, Elinor Dashwood is able to marry Edward.",
+          "answer": "Sense and Sensibility",
+          "acceptableAnswers": [
+            "Sense and Sensibility",
+            "The Sense and Sensibility"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this novel, Charlotte Lucas marries William Collins, after he had been rejected by the protagonist. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec6713"
+    },
+    {
+      "id": "09f4a1c0-a4c8-4422-99fc-861dc8127735",
+      "linkedTossupId": "98cb750e-c27b-4e49-942b-3e158f887aa0",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this data structure where each node may have children, and every node except the root has a parent.",
+          "answer": "tree",
+          "acceptableAnswers": [
+            "tree",
+            "The tree"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This data structure can be represented as a tree where the root node has the highest key value, and children nodes have strictly smaller keys than their parents.",
+          "answer": "heap",
+          "acceptableAnswers": [
+            "heap",
+            "The heap"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Heap sort is a comparison based sorting algorithm that has a worst case run time of big O of this function. This function is also the worst case run time of other asymptotically optimal comparison sorts like merge sort.",
+          "answer": "n log n",
+          "acceptableAnswers": [
+            "n log n",
+            "The n log n"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This data structure has many varieties, including Red/Black, AVL, and B. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b97f"
+    },
+    {
+      "id": "f9823eca-ba68-405f-be85-4bc60c845ec2",
+      "linkedTossupId": "222b60e0-3235-44e7-a034-bd13737bddd0",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this African novelist who wrote the novels Purple Hibiscus and Half of a Yellow Sun, and the story collection The Thing Around Your Neck.",
+          "answer": "Adichie",
+          "acceptableAnswers": [
+            "Adichie",
+            "The Adichie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Adichie's most recent novel is this 2013 work about Ifemelu, who moves to the United States and writes the popular blog \"Raceteenth.\"",
+          "answer": "Americanah",
+          "acceptableAnswers": [
+            "Americanah",
+            "The Americanah"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Adichie is from this West African country, whose civil war she depicted in Half a Yellow Sun. The author of Death and the King's Horseman, Wole Soyinka (WALL-ay SHOW-ying-ka), is an ethnically-Yoruban (YORE-oo-bin) playwright from this country.",
+          "answer": "Nigeria",
+          "acceptableAnswers": [
+            "Nigeria",
+            "The Nigeria"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author's non-fiction includes the book We Should All Be Feminists and her TED talk \"The Danger of a Single Story.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae7c6"
+    },
+    {
+      "id": "ccd854a7-3b0b-4977-a203-570e105fce69",
+      "linkedTossupId": "918f478a-2716-4e61-b0cf-adfd69814e46",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this interaction in which the electron feels an effective magnetic field that couples with its intrinsic angular momentum, which helps give rise to the fine structure.",
+          "answer": "spin-orbit",
+          "acceptableAnswers": [
+            "spin-orbit",
+            "The spin-orbit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A similar phenomenon to spin-orbit coupling occurs in this region, which can be modeled with the liquid-drop and shell models, and which consists of two types of baryons held together by the strong force.",
+          "answer": "nucleus",
+          "acceptableAnswers": [
+            "nucleus",
+            "The nucleus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The extra factor of 2 obtained from a naive calculation of spin-orbit coupling can be removed by deriving the answer from this fully relativistic quantum mechanical equation for fermions. It is named after a man who is the co-namesake of some statistics with Fermi, and of a delta function.",
+          "answer": "Dirac",
+          "acceptableAnswers": [
+            "Dirac",
+            "Paul Dirac",
+            "The Dirac"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "According to J.J. Sakurai, \"you have to be either a fool or a masochist\" to find the energy shift from this phenomenon using the eigenkets corresponding to the z-direction of the angular momenta. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fd72"
+    },
+    {
+      "id": "fc465878-4fde-4864-8ebc-4af326ccfde2",
+      "linkedTossupId": "859ef3f2-8dda-44ce-a59b-09fd6d589c46",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this author who described the migration of the Helvetii in the first book of his Commentaries",
+          "answer": "Julius Caesar",
+          "acceptableAnswers": [
+            "Julius Caesar",
+            "Caesar",
+            "The Julius Caesar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Caesar wrote the Commentarii on his campaigns against the Averni of this region. The Commentaries open by describing how this region is divided into three parts",
+          "answer": "Gaul",
+          "acceptableAnswers": [
+            "Gaul",
+            "Gallia",
+            "The Gaul"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Book VII of the Commentarii de Bello Gallico relates the siege of this city where Caesar built a second set of walls to protect his army from Vercingetorix's reinforcements.",
+          "answer": "Alesia",
+          "acceptableAnswers": [
+            "Alesia",
+            "The Alesia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author wrote an ethnographic work describing how a certain group worships Mercury and arranges their calendar so that nights come first. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52e6d"
+    },
+    {
+      "id": "87fda403-1160-4aae-b411-b3860b541d63",
+      "linkedTossupId": "786ab193-743d-44b3-a7f8-7cc8567a8e18",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this woman. A 2020 FX documentary claimed to reveal this woman's \"deathbed confession\" of being paid off by Benham's group Operation Rescue and never actually having switched sides.",
+          "answer": "McCorvey",
+          "acceptableAnswers": [
+            "McCorvey",
+            "Jane Roe by asking “what was her real name?”",
+            "The McCorvey"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The documentary AKA Jane Roe also depicted how this lawyer of McCorvey's was shocked at McCorvey's anti-abortion turn. This feminist lawyer prosecuted Bill Cosby and Harvey Weinstein.",
+          "answer": "Allred",
+          "acceptableAnswers": [
+            "Allred",
+            "The Allred"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 2009, McCorvey was arrested for disrupting this justice's Senate confirmation hearings by saying she was \"wrong about abortion.\" This justice and Elena Kagan were Obama's only successful Supreme Court appointees.",
+          "answer": "Sotomayor",
+          "acceptableAnswers": [
+            "Sotomayor",
+            "The Sotomayor"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A 1995 photo shows this woman baptized as a born-again Christian by \"Flip\" Benham in a pool. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66a566d2afb4d671f312e979"
+    },
+    {
+      "id": "eed4c2bb-7ac6-45cf-bb19-89ca6752955f",
+      "linkedTossupId": "ab9dbe4c-c6e9-477c-a805-7d10f7122f89",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "What is this type of organized entity, through which various governments wield power?",
+          "answer": "state",
+          "acceptableAnswers": [
+            "state",
+            "The state"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This German sociologist and political theorist put forward that definition of a state in his Politics as a Vocation. He also wrote The Protestant Ethic and the Spirit of Capitalism.",
+          "answer": "Weber",
+          "acceptableAnswers": [
+            "Weber",
+            "The Weber"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Weber argued that the focus on predestination by this protestant sect, named for the Swiss author of Institutes of the Christian Religion, helped propel the protestant work ethic.",
+          "answer": "Calvinism",
+          "acceptableAnswers": [
+            "Calvinism",
+            "The Calvinism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One definition of this type of political entity states that it has a monopoly on the legitimate use of violence. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee5ee"
+    },
+    {
+      "id": "a10f8bff-fe88-4c18-8c79-8cf14e63d8f3",
+      "linkedTossupId": "1c2d83a8-32a2-4e49-a517-4acd00ce88e5",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This author's first novel is Nip the Buds, Shoot the Kids, in which fifteen boys are trapped in a town by plague. His experiences with his brain-damaged son, Hikari, inspired A Personal Matter.",
+          "answer": "Oe",
+          "acceptableAnswers": [
+            "Oe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This book, Oe's favorite, tells of a friend of Tom Sawyer and his adventures with the slave Jim.",
+          "answer": "Huckleberry Finn",
+          "acceptableAnswers": [
+            "Huckleberry Finn",
+            "Huck Finn",
+            "The Huckleberry Finn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Kenzaburo Oe novel concerns the brothers Mitsu and Takashi, the latter of whom leads an uprising against a wealthy Korean named \"the Emperor\" and kills himself after committing murder.",
+          "answer": "Silent Cry",
+          "acceptableAnswers": [
+            "Silent Cry",
+            "The Silent Cry"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about a Japanese author, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b3d2"
+    },
+    {
+      "id": "f83a2522-7730-45e1-80e7-fc885203514e",
+      "linkedTossupId": "13d88e77-8a54-4d78-a4fe-7257dcf696e6",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Give this term for a fee paid to a lender in exchange for borrowed money. It is usually calculated as a percentage of the borrowed principal.",
+          "answer": "interest",
+          "acceptableAnswers": [
+            "interest",
+            "The interest"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 1936 work by a British economist described how a reduction in interest rate by a central government could generate increased investment and economic growth. As its title suggests, it also discusses employment and money.",
+          "answer": "General Theory",
+          "acceptableAnswers": [
+            "General Theory",
+            "The General Theory"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This British economist wrote The General Theory, as well as a Treatise on Money. His economic philosophy holds that, thanks to the multiplier effect, government spending has a strong influence on economic stability.",
+          "answer": "Keynes",
+          "acceptableAnswers": [
+            "Keynes",
+            "The Keynes"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Usury is the practice of charging an unacceptable rate of this concept. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318aca18"
+    },
+    {
+      "id": "f6f1d038-7399-413d-ba2c-0676d9dabc6d",
+      "linkedTossupId": "57856219-b778-48c0-948f-adaf783fa7be",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this country where the ruling National Party's ban of an opposition party spurred the formation of a guerrilla group led by Arthur Goldreich and Walter Sisulu.",
+          "answer": "South Africa",
+          "acceptableAnswers": [
+            "South Africa",
+            "Union of South Africa",
+            "The South Africa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Prime Minister of South Africa, often dubbed the \"Architect of Apartheid,\" declared the country a republic a year after the Sharpeville Massacre. This Prime Minister was assassinated by Dimitri Tsafendas in 1966.",
+          "answer": "Verwoerd",
+          "acceptableAnswers": [
+            "Verwoerd",
+            "The Verwoerd"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Verwoerd lent intellectual support to baasskap, a term in this language that describes the economic dominance of white South Africans over blacks. Besides English, this is the only official South African language of European origin.",
+          "answer": "Afrikaans",
+          "acceptableAnswers": [
+            "Afrikaans",
+            "The Afrikaans"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this country, Ian Berry photographed a massacre committed by this country's police force during a protest over passbook laws. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f1b8aed2b97d3109c68342"
+    },
+    {
+      "id": "979a8e05-8928-462c-bd54-83c71877356f",
+      "linkedTossupId": "262050c4-aac5-4e0a-930c-32fb438a5264",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this region. The book Making Democracy Works claims that this region's underdevelopment and failures of local government are caused by a lack of trust and civic involvement.",
+          "answer": "Southern Italy",
+          "acceptableAnswers": [
+            "Southern Italy",
+            "Mezzogiorno",
+            "prompt on the South",
+            "The Southern Italy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Making Democracy Work was written by this American sociologist whose best-known book uses decreasing membership in sports leagues to trace a decline in \"social capital\" in the United States.",
+          "answer": "Putnam",
+          "acceptableAnswers": [
+            "Putnam",
+            "The Putnam"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Banfield's The Moral Basis of a Backward Society coined a term for an \"amoral\" focus on the interests of this unit. The \"nuclear\" group of this sort usually includes two married adults.",
+          "answer": "family",
+          "acceptableAnswers": [
+            "family",
+            "word forms such as families",
+            "familism",
+            "The family"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Edward Banfield portrayed residents of a town in this region as uninterested in taking initiative for the public good in his book The Moral Basis of a Backward Society. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32f19679b6464bbdf7539"
+    },
+    {
+      "id": "6a561155-d709-4de3-9f52-ef34d466659f",
+      "linkedTossupId": "1ef1269e-9b3d-43d2-b7db-be0e1f8bb2a7",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "What document was signed on November 11, 1620 aboard an eponymous ship by men such as John Carver, William Bradford, and Myles Standish?",
+          "answer": "Mayflower Compact",
+          "acceptableAnswers": [
+            "Mayflower Compact",
+            "The Mayflower Compact"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Which governor of Virginia organized the House of Burgesses in 1619, creating the first legislature in the English colonies?",
+          "answer": "Yardley",
+          "acceptableAnswers": [
+            "Yardley",
+            "The Yardley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What document, spearheaded by Reverend Thomas Hooker, became the first written constitution in the history of the American colonies when it was signed in 1638?",
+          "answer": "Fundamental Orders of Connecticut",
+          "acceptableAnswers": [
+            "Fundamental Orders of Connecticut",
+            "The Fundamental Orders of Connecticut"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following questions--actual questions!--relating to government in colonial America For 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a45606b7"
+    }
+  ]
+}

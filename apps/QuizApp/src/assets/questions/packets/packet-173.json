@@ -1,0 +1,1147 @@
+{
+  "packetId": "packet-173",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "History",
+    "Literature",
+    "Mythology",
+    "Fine Arts",
+    "Human Body",
+    "Philosophy",
+    "Geography"
+  ],
+  "tossups": [
+    {
+      "id": "152bbd66-6421-439a-b167-b72204c0a5d8",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Areas of high CAPE in the beta-skirt outside these regions are the subject of an \"axisymmetrization hypothesis\" explaining how secondary examples of these regions are formed. Microwave satellites are used to see through the CDO that obscures these regions. Mesovortices are found in structures outside these regions that undergo a namesake \"replacement cycle.\" Systems in which these regions are large are assigned high numbers by the Dvorak technique. Because these regions are wider at greater altitudes, their appearance is often compared to a stadium. These regions are surrounded by strong updrafts that rotate about them. A \"wall\" surrounding these regions contains the most intense winds of systems categorized by the Saffir-Simpson scale. For 10 points, name these regions of calm weather at the center of tropical cyclones.",
+      "powerMarkPosition": 434,
+      "answer": "eye",
+      "acceptableAnswers": [
+        "eye",
+        "eyewalls",
+        "accept eyes of hurricanes",
+        "accept eyes of typhoons",
+        "accept eyewall replacement cycle",
+        "prompt on tropical cyclones",
+        "hurricanes",
+        "typhoons",
+        "prompt on storms",
+        "prompt on the center",
+        "middle of a tropical cyclone",
+        "The eye"
+      ],
+      "source": "qbreader",
+      "sourceId": "67e338da63ef71fce09dfa5e"
+    },
+    {
+      "id": "db148f82-309d-43ca-a096-9bda410c965f",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "This man was grouped with a US president and his one-time orderly Agrippa Hull in the 2008 triple biography, Friends of Liberty. He proclaimed, \"I hold in equal esteem the Jew, the peasant, the nobleman and the freeman\" in his namesake oath given during the National Uprising. This man's will was supposed to go towards freeing as many slaves as possible, but Thomas Jefferson failed to carry it out. He issued the Proclamation of Polaniec and rejected the legitimacy of the Congress Kingdom. Before being captured by the Russians, he proclaimed freedom and citizenship for the serfs of his country on May 7, 1794. He supervised the construction of the defenses on Bemis Hill at Saratoga. For 10 points, name this Polish aristocrat who fought in the Revolutionary War.",
+      "powerMarkPosition": 430,
+      "answer": "Kosciuszko",
+      "acceptableAnswers": [
+        "Kosciuszko",
+        "The Kosciuszko"
+      ],
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faa931"
+    },
+    {
+      "id": "db3ab04c-ecfd-470c-aebf-80e6fc5d729e",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "This author's work, which was discovered by Miep Gies [meep gees], is set in the achterhuis. Most of this author's work is addressed to Kitty. This author's roommate, Albert Dussel, and her sister, Margot, feature in her only book, which discusses a young romance with Peter van Pels and calisthenics routines in a secret annex in Amsterdam. For 10 points, name young girl who wrote a diary while hiding from the Nazis.",
+      "powerMarkPosition": 220,
+      "answer": "Frank",
+      "acceptableAnswers": [
+        "Frank",
+        "The Frank"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acdd8"
+    },
+    {
+      "id": "55e41e3f-bf87-4212-a29d-1663ae7f9a3d",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "People traveling to these events could rest on stone ledges common in Jersey's and Guernsey's vernacular architecture. During these events, a laughing man wearing blue and red stockings liked to pull down the stone houses he ordered be built in the vast meadows of the Swedish island of Blockula. Sorginak appeared at a type of these events called akelarre in Basque Country. These events and their more frequent counterparts, esbats, were targeted in a campaign against a two-faced god according to a book by the Egyptologist Margaret Murray. A greeting at these events called the osculum infame involved kissing the recipient's \"other mouth,\" or anus. Participants in these events might apply magic ointment before heading to the peak of the Brocken on Walpurgis Night. For 10 points, name these mythical gatherings of devil-worshiping sorceresses.",
+      "powerMarkPosition": 472,
+      "answer": "sabbath",
+      "acceptableAnswers": [
+        "sabbath",
+        "black sabbaths",
+        "sabbats",
+        "prompt on witches’ gatherings",
+        "witch-cults",
+        "covens",
+        "The sabbath"
+      ],
+      "source": "qbreader",
+      "sourceId": "66b83d7be381fe913c42f9dc"
+    },
+    {
+      "id": "744e340c-8d02-40dd-b304-2e7abbf2d44d",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "Congressman Charles Wilson pushed to covertly supply this country with Stinger missiles in Operation Cyclone. The Saur Revolution installed a socialist regime in this country, leading to an ill-fated 1979 Soviet invasion that was countered by its mujahideen [moo-jah-hih-deen]. In the wake of the September 11th attacks, a US-led NATO coalition invaded, for 10 points, what country that was liberated by the 2001 ousting of the Taliban from its capital, Kabul?",
+      "powerMarkPosition": 296,
+      "answer": "Afghanistan",
+      "acceptableAnswers": [
+        "Afghanistan",
+        "The Afghanistan"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc005001"
+    },
+    {
+      "id": "917d8832-33fa-4df8-bc2e-89a4a1f98382",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "In a flashback in this work, the protagonist's mother advises him to never do anything he would feel ashamed to tell her. The \"Tattered Soldier\" asks the protagonist where he is wounded, and Wilson gives the protagonist a yellow envelope to deliver to his family in case he dies in battle. Jim Conklin dies after receiving wounds in the first battle, and the protagonist becomes the flag bearer the next day, becoming the bravest fighter of the regiment. For 10 points, identify this work about Henry Fleming, a Civil War novel by Stephen Crane.",
+      "powerMarkPosition": 289,
+      "answer": "Red Badge of Courage",
+      "acceptableAnswers": [
+        "Red Badge of Courage",
+        "The Red Badge of Courage"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0dee"
+    },
+    {
+      "id": "6d49a2d1-7d61-4fc4-b878-08db18ba3e3c",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "This artist's works based on poetry include the Shakespearean scenes Valentine Rescuing Sylvia and Claudio and Isabella, which are contemporary with a painting in which he shows an ancient British family sheltering a Christian missionary from persecuting Druids. His first visit to the Holy Land produced such works as The Finding of the Saviour in the Temple, while a lustful gentleman is contrasted with an abruptly repentant mistress in his Awakening Conscience. This artist of Miracle of the Sacred Fire and The Scapegoat remains best known for a painting of Jesus against a dark background, knocking on a door, titled The Light of the World. For ten points, identify this man who founded the Pre-Raphaelite Brotherhood along with Dante Gabriel Rossetti and John Everett Millais.",
+      "powerMarkPosition": 262,
+      "answer": "Hunt",
+      "acceptableAnswers": [
+        "Hunt",
+        "The Hunt"
+      ],
+      "source": "qbreader",
+      "sourceId": "6643bbee01cbf053963dd798"
+    },
+    {
+      "id": "8ba2096e-49e8-41c4-a024-f0bc3d82ddea",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for hepatic portal system. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this liver-related structure.",
+      "powerMarkPosition": 77,
+      "answer": "Liver",
+      "acceptableAnswers": [
+        "liver",
+        "Liver"
+      ],
+      "explanation": "The liver is a key component of the Digestive system, involved in hepatic portal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "d8d5bf9c-7888-4053-873c-7af71c71c90c",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "This country's revolution began with the Cry of Pugad Lawin and was orchestrated by the Katipunan society. The Hukbalahap insurgency advocated for communism in this nation, whose first independent president was Manuel Quezon. An American occupation of this nation was resisted by the islamic Moro people and revolutionaries led by Emilio Aguinaldo. In 1983, Benigno Aquino was assassinated upon returning to this county, an event which helped spark the People Power Revolution against this nation's dictator Ferdinand Marcos. For 10 points, name this island nation of Southeast Asia with capital at Manilla.",
+      "powerMarkPosition": 330,
+      "answer": "Philippines",
+      "acceptableAnswers": [
+        "Philippines",
+        "The Philippines"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f743b20e8b632d5cf141f1"
+    },
+    {
+      "id": "bd167e2a-2286-45dc-987c-1e7c35a66c9d",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "Located on Mount Davidson in the Virginia Range, it was discovered by Ethan and Hosea Grosh, who died before making a claim. Its namesake was a shepherd known as \"Old Pancake\" who took the brothers' cabin and set out for riches. For 10 points-name this deposit discovered in 1859, the source of the nickname \"The Silver State.\"",
+      "powerMarkPosition": 124,
+      "answer": "Comstock",
+      "acceptableAnswers": [
+        "Comstock",
+        "The Comstock"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a984213a"
+    },
+    {
+      "id": "063455e2-5816-45f8-be97-1658f1e4f763",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "A quotation in the treatise On Literary Composition is the only place any poem by this author survives in its full text, while other references comment on the difficulty of this author's dialect. Among the founders of Greek lyric poetry, this poet was one of three famed for monodic verse alongside Alcaeus and Anacreon. One Byzantine source names this author's spouse as Kerkylas of Andros, but this is widely assumed to be a later insulting joke. Two of this author's siblings, Charaxos and Larichos, are mentioned in their Brothers Poem. Dioscorides [dy-os-KOR-id-eez] called this poet \"the Tenth Muse\", and Catullus borrowed a verse form associated with this woman for his love poems to Lesbia. For ten points name this ancient poet, whose birthplace and name are the source of two modern terms for women attracted to women.",
+      "powerMarkPosition": 383,
+      "answer": "Sappho",
+      "acceptableAnswers": [
+        "Sappho",
+        "The Sappho"
+      ],
+      "source": "qbreader",
+      "sourceId": "6504ab679ee6e14c2d0e414d"
+    },
+    {
+      "id": "5ead96dd-292e-4f9d-b840-151b3440b4c4",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "This is the first name of a saint \"of the Five Wounds of Jesus\" who lived in Naples in the eighteenth century. A woman of this name went on a pilgrimage to the Holy Land in search of sexual partners, but in Jerusalem that woman of this name had a religious experience that led her to live alone for 47 years in the desert in Egypt. This is the alphabetically later of the names of two sisters from Bethany in the Gospel of Luke whom Jesus visits at the home they share with their brother Lazarus. A woman of this name was the first person to see Jesus upon his resurrection; that woman is often identified with a penitent sinner who anoints Jesus' feet. According to Catholic doctrine, the most famous woman of this name was conceived free of original sin. For 10 points, identify this name shared by a Magdalene woman and the mother of Jesus.",
+      "powerMarkPosition": 384,
+      "answer": "Mary",
+      "acceptableAnswers": [
+        "Mary",
+        "Mary Frances of the Five Wounds of Jesus",
+        "Maria Francesca delle Cinque Piaghe",
+        "Mary of Clopheas",
+        "Mary of Egypt",
+        "Mary of Bethany",
+        "Mary Magdalene",
+        "the Virgin Mary",
+        "The Mary"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289caf3b"
+    },
+    {
+      "id": "e1fc381c-0112-4981-ab4a-b9ed052a115c",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "This quantity is reduced in the hot chocolate effect due to bubbles formed by adding fine powders to liquids. Approaching this value causes the Prandtl-Glauert (\"pran-tel glaw-ert\") transformation to have a singularity. This quantity in general equals the square root of the bulk modulus over density. Pierre Gassendi (\"ga-sahn-dee\") attempted to calculate this quantity using cannon fire. When this quantity is exceeded, a shock wave occurs, which gives rise to a sonic boom. This quantity is equal to Mach one. For 10 points, name this quantity equal to about 343 meters per second in air.",
+      "powerMarkPosition": 411,
+      "answer": "speed of sound",
+      "acceptableAnswers": [
+        "speed of sound",
+        "Mach One until it is read",
+        "The speed of sound"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6bc5a"
+    },
+    {
+      "id": "15ecc2c8-a083-4235-b4c0-492b44a1a172",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "2. Despite not flowing through Virginia, Thomas Jefferson described this river as the most beautiful in the United States in his Notes on the State of Virginia. Cities on this river, which served as the southern boundary of the Northwest Territory, include Paducah, Evansville, Louisville and Wheeling. Flowing 981 miles from western Pennsylvania to its mouth in Cairo, Illinois, for 10 points, identify this river that forms the northern border of Kentucky and West Virginia and the southern border of its namesake state.",
+      "powerMarkPosition": 160,
+      "answer": "Ohio",
+      "acceptableAnswers": [
+        "Ohio",
+        "The Ohio"
+      ],
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced879"
+    },
+    {
+      "id": "94230a66-bbbf-4b21-9f7d-8e040b0ae39e",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "In this novel, a dog dies when an artery bursts as it tries to catch up to the family car. The protagonist is injured by Fat Perce and Glandy Keith while flirting with a champion swimmer, and a filmmaker keeps his idiot daughter Toxy confined in a former palace. The narrator crashes into a group of language protesters while trying to impress Evelyn Burns by riding a bike. He soon discovers that he is telepathic due to his enormous snot-filled nose, and in an earlier episode Aadam Aziz is forced to examine a patient through a 7-inch hole in a sheet. For 10 points, name this novel in which Saleem Sinai is one of the 1,001 title characters born in India's first hour of independence, by Salman Rushdie.",
+      "powerMarkPosition": 262,
+      "answer": "Midnight",
+      "acceptableAnswers": [
+        "Midnight",
+        "The Midnight"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d435ad"
+    },
+    {
+      "id": "77d33882-8801-4d2b-862f-3adfc7908699",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "This polity's second ruler saw a social conflict erupt over \"free eating,\" which displaced the kapu sytem, and it was the subject of the Blunt and Morgan reports. After being cornered on Pali lookout, the first ruler of this kingdom won the Battle of the Leaping Mullet, and was earlier hit on the head with a piece of wood while trying to massacre two fishermen, prompting him to remorsefully proclaim the Law of the Splintered Paddle. For 10 points, name this kingdom which signed Lorrin Thurston's Bayonet Constitution and gave way to the government of Sanford Dole, a monarchy led by Kamehameha and Liliuokalani that became the fiftieth U.S. state.",
+      "powerMarkPosition": 436,
+      "answer": "Hawai'i",
+      "acceptableAnswers": [
+        "Hawai'i",
+        "The Hawai'i"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841825"
+    },
+    {
+      "id": "3bbf6832-e5c1-4417-a4f5-fda2526cbece",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for muscle fiber types. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this sarcomere-related structure.",
+      "powerMarkPosition": 73,
+      "answer": "Sarcomere",
+      "acceptableAnswers": [
+        "sarcomere",
+        "Sarcomere"
+      ],
+      "explanation": "The sarcomere is a key component of the Musculoskeletal system, involved in muscle fiber types.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "30be8dd6-bc63-47f0-93c6-b09f8729e640",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "This historical era's \"frame of mind\" titles a book by Walter Houghton (\"HO-tun\"), who curated a notable \"Wellesley Index\" of primary sources from this period. The historiography of the fatal beating of a gingerbread vendor during this historical era exemplifies the transition from \"facts of the past\" to \"facts of history,\" according to a book by E.H. Carr. Caroll Smith-Rosenberg's Disorderly Conduct is a collection of essays about this historical era. A book by Mike Davis studying the connections between the El Niño-Southern Oscillation and world famine is titled for the \"holocausts\" of the later part of this historical era. The introduction to a famously inaccurate historical work about this era includes the caveat \"Je n'impose rien; je ne propose rien; j'expose.\" Cardinal Manning and Thomas Arnold are two of the title \"eminent\" figures from this era in a book by Lytton Strachey (\"STRAY-chee\"). For 10 points, name this lengthy historical era of the British Empire named for a female monarch.",
+      "powerMarkPosition": 578,
+      "answer": "Victorian",
+      "acceptableAnswers": [
+        "Victorian",
+        "The Victorian Frame of Mind",
+        "Late Victorian Holocausts",
+        "Eminent Victorians",
+        "accept Late Victorian Era",
+        "prompt on answers like \"nineteenth-century Britain\"",
+        "\"nineteenth-century America\"",
+        "The Victorian"
+      ],
+      "source": "qbreader",
+      "sourceId": "6306e3725252479dd12942ca"
+    },
+    {
+      "id": "89899aa8-b0f1-49b2-afb9-9787e377339f",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "A work by this poet imagines a dying soldier hearing \"distant strains of triumph\" to show that \"success is counted sweetest\" by those who \"ne'er succeed\". This poet enclosed four poems in a letter to Thomas Wentworth Higginson and wrote a number of erotic poems to their sister-in-law Susan Gilbert. This poet, who often wrote in common metre, wrote of a person who passes playing school children and the setting sun while riding in a carriage with \"Immortality\". This poet described a \"stillness in the room\" in her poem \"I heard a Fly Buzz - when I died\". For 10 points, name this \"Belle of Amherst\", a reclusive American poet who wrote \"Because I could not stop for Death\".",
+      "powerMarkPosition": 448,
+      "answer": "Dickinson",
+      "acceptableAnswers": [
+        "Dickinson",
+        "The Dickinson"
+      ],
+      "source": "qbreader",
+      "sourceId": "68d7483a23ecd621bd0cea78"
+    },
+    {
+      "id": "cd1fbc65-cda6-48a6-bd1c-239103525b00",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "This person was taught music by the same teacher as both Thamyris [THAN-uh-riss] and Orpheus. When that teacher, Linus, reprimanded this person, he hit Linus with his lyre, killing him. This person was born after Zeus impersonated Amphitryon [am-FIT-ree-un], and this person's birth name was Alcaeus [al-KAY-us]. This person died due to a lie that Nessus told to this person's wife, Deianira [dee-uh-NEE-ruh], who gave him a blood-soaked tunic. This person showed his strength by wearing the skin of the Nemean [nih-MEE-un] lion, which he killed before killing the Lernaean [ler-NEE-un] Hydra. For 10 points, name this mythological hero who performed 12 labors.",
+      "powerMarkPosition": 312,
+      "answer": "Hercules",
+      "acceptableAnswers": [
+        "Hercules",
+        "Alcaeus before it is mentioned",
+        "The Hercules"
+      ],
+      "source": "qbreader",
+      "sourceId": "635b5bc633afc95b57f7e6c8"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "f76bcab2-20de-4a94-b60d-f9e793c3255e",
+      "linkedTossupId": "152bbd66-6421-439a-b167-b72204c0a5d8",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this mathematical phenomenon where a function is too exact for a specific set of data points, thus being less reliable when more data points are added.",
+          "answer": "overfit",
+          "acceptableAnswers": [
+            "overfit",
+            "overfitted models",
+            "The overfit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Choosing the depth of a decision tree illustrates the tradeoff between bias and this quantity. This quantity equals the square of the standard deviation.",
+          "answer": "variance",
+          "acceptableAnswers": [
+            "variance",
+            "sigma-squared",
+            "The variance"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "For a binary classification task, splits in decision trees are chosen to minimize this quantity, which equals \"1 minus the probability of class 1 squared minus the probability of class 2 squared\".",
+          "answer": "Gini",
+          "acceptableAnswers": [
+            "Gini",
+            "Gini index",
+            "prompt on impurity",
+            "entropy",
+            "information",
+            "reject “Gini coefficient”",
+            "The Gini"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Random decision forests are used to mitigate this phenomenon in decision trees. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67cb4e10a4d5f0b0e22ac0e2"
+    },
+    {
+      "id": "25a8456c-4220-4e07-ba69-0caa50880e7e",
+      "linkedTossupId": "db148f82-309d-43ca-a096-9bda410c965f",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Son of Catherine the Great, this little guy enacted peasant reforms, established a law of male succession to the throne, and sent an army on a failed invasion of British India. He was hilariously murdered by some drunk soldiers in 1801.",
+          "answer": "Paul",
+          "acceptableAnswers": [
+            "Paul",
+            "The Paul"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Paul was succeeded by this son, who forged a brief alliance with Napoleon in the Treaty of Tilsit.",
+          "answer": "Alexander I",
+          "acceptableAnswers": [
+            "Alexander I",
+            "The Alexander I"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After offering this group asylum when Napoleon seized their home territory, Paul was named Grand Master of this knightly order, whose lands were returned in the Treaty of Amiens.",
+          "answer": "Knights Hospital",
+          "acceptableAnswers": [
+            "Knights Hospital",
+            "The Knights Hospital"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about a funny-looking douche, who also happened to rule Russia. FTPE:",
+      "source": "qbreader",
+      "sourceId": "6643bbf301cbf053963dd975"
+    },
+    {
+      "id": "a07c1e82-16fa-45fe-a52e-bb2865b17ce7",
+      "linkedTossupId": "db3ab04c-ecfd-470c-aebf-80e6fc5d729e",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Welsh poet of \"Do not go gentle into that good night.\"",
+          "answer": "Thomas",
+          "acceptableAnswers": [
+            "Thomas",
+            "The Thomas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Dylan Thomas wrote a short story collection titled Portrait of the Artist as a Young \"this\" kind of domestic animal. Jack London often wrote about the interactions of wolves and these domestic canines.",
+          "answer": "dog",
+          "acceptableAnswers": [
+            "dog",
+            "The dog"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The title \"Portrait of the Artist as a Young Dog\" is taken from the title of this Irish author's first novel. This man also wrote about a day in the life of Leopold Bloom in Ulysses.",
+          "answer": "Joyce",
+          "acceptableAnswers": [
+            "Joyce",
+            "The Joyce"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This poet wrote the radio drama Under Milk Wood and implored his father to \"rage, rage against the dying of the light\" in one poem. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac98c"
+    },
+    {
+      "id": "e7d7cdf2-d4f9-4ace-ba0d-529b8ceda85e",
+      "linkedTossupId": "55e41e3f-bf87-4212-a29d-1663ae7f9a3d",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this member of the Dioscuri and son of Zeus and Leto that with his brother Pollux or Polydeuces became one of the Gemini.",
+          "answer": "Castor",
+          "acceptableAnswers": [
+            "Castor",
+            "The Castor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Castor and Pollux first met Idas when they were participating in the Cattle Raid at this location, whose shephard like population were immortal. Under the domain of Pan, death was kept out of this region, and the Bucolics were poems set here.",
+          "answer": "Arcadia",
+          "acceptableAnswers": [
+            "Arcadia",
+            "The Arcadia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At this ancient Roman battle, where dictator Postumius Albus beat out the Latins Octavius Mamilius, it is said by Livy that Castor and Pollux descended from the sky on white horses and helped the Romans won by kicking the shit out of the Latins.",
+          "answer": "Lake Regillus",
+          "acceptableAnswers": [
+            "Lake Regillus",
+            "The Lake Regillus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Unlike his brother, this mortal was killed by Idas when he was defending Sparta. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "646565b40e43b5aafda1c8b6"
+    },
+    {
+      "id": "134b708c-c8e5-4379-a671-03d0e7dde9fe",
+      "linkedTossupId": "744e340c-8d02-40dd-b304-2e7abbf2d44d",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "One such statue in this country used to depict all of Stalin until crowds pulled it down. A 1956 revolution in this country briefly installed Imre Nagy (EEM-ray NADJ) as its leader.",
+          "answer": "Hungary",
+          "acceptableAnswers": [
+            "Hungary",
+            "Magyarország",
+            "The Hungary"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Boot Monument commemorates this man's service at the Battle of Saratoga. This man is better known for committing treason by attempting to betray West Point to the British.",
+          "answer": "Arnold",
+          "acceptableAnswers": [
+            "Arnold",
+            "The Arnold"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The world's largest statue of cowboy boots is, characteristically, located in this state's city of San Antonio.",
+          "answer": "Texas",
+          "acceptableAnswers": [
+            "Texas",
+            "The Texas"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about statues of just boots, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "673aef79cbbbb69a5263cdf0"
+    },
+    {
+      "id": "36ff99d6-0003-44e1-a698-290c8ebbfe53",
+      "linkedTossupId": "917d8832-33fa-4df8-bc2e-89a4a1f98382",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "In this Dickens novel, Miss Havisham encourages her adopted daughter Estella to break Pip's heart, since she herself was left at the altar..",
+          "answer": "Great Expectations",
+          "acceptableAnswers": [
+            "Great Expectations",
+            "The Great Expectations"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This novel by Dickens has a couple not-so-nice characters: Fagin, a Jewish man who leads a group of child pickpockets including the Artful Dodger, and Bill Sikes, a brute who savagely beats his girlfriend Nancy to death.",
+          "answer": "Oliver Twist",
+          "acceptableAnswers": [
+            "Oliver Twist",
+            "The Oliver Twist"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This slimy villain in David Copperfield blackmails Mr. Wickfield and gains control of his business. He is portrayed as insincere and over-the-top in his \"humility,\" and his movements are described as writhing, jerking, and snakelike.",
+          "answer": "Uriah",
+          "acceptableAnswers": [
+            "Uriah",
+            "either underlined portion",
+            "The Uriah"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about Dickens villains for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9dec"
+    },
+    {
+      "id": "fc87a820-ca8e-476b-85f3-e4b9b519c210",
+      "linkedTossupId": "6d49a2d1-7d61-4fc4-b878-08db18ba3e3c",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this 1907 opera centered around the love between Sali and Vretchen in a small farming town.",
+          "answer": "V",
+          "acceptableAnswers": [
+            "V"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer, whose other works include the Florida Suite, In a Summer Garden, and the opera Margot the Red, wrote A Village Romeo and Juliet",
+          "answer": "Delius",
+          "acceptableAnswers": [
+            "Delius",
+            "The Delius"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Delius opera is loosely based on George Washington Cable's The Grandissimes. The title character is a voodoo priest who falls in love with the maid Palmyra, and is then executed for killing Perez.",
+          "answer": "K",
+          "acceptableAnswers": [
+            "K"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It was based on a Gottfried Keller short story, and its interlude, \"The Walk to Paradise Garden\", is often performed separately. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b0f23"
+    },
+    {
+      "id": "7ad6be75-d779-41b1-ac01-70f3c988a8e6",
+      "linkedTossupId": "8ba2096e-49e8-41c4-a024-f0bc3d82ddea",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with inflammatory response.",
+          "answer": "phagocyte",
+          "acceptableAnswers": [
+            "phagocyte"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the phagocyte in the immune system?",
+          "answer": "Inflammatory response",
+          "acceptableAnswers": [
+            "Inflammatory response"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to inflammatory response.",
+          "answer": "macrophage",
+          "acceptableAnswers": [
+            "macrophage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "61f53c39-e358-4dd7-a178-5da4d0f9ac03",
+      "linkedTossupId": "d8d5bf9c-7888-4053-873c-7af71c71c90c",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these works, which are handwritten books that are decorated with gold or silver Initiation capital letters in these works are often historiated, meaning that they are decorated with pictures of humans, plants, or animals.",
+          "answer": "illuminated manuscript",
+          "acceptableAnswers": [
+            "illuminated manuscript",
+            "The illuminated manuscript"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Illuminated manuscripts went into decline after this craftsman invented the first European printing press with moveable type. He lost his equipment to his creditor Johann Fust after Fust successfully sued him in 1455.",
+          "answer": "Gutenberg",
+          "acceptableAnswers": [
+            "Gutenberg",
+            "The Gutenberg"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gutenberg's best known work as a printer was his namesake copy of this religious text, sometimes named after its 42-line pages. A version of this religious text named after King James was first published in English in 1611.",
+          "answer": "Bible",
+          "acceptableAnswers": [
+            "Bible",
+            "The Bible"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An example of one of these works is the Book of Kells, which is a gospel book from Ireland that was completed around the early 9th century. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b534f7"
+    },
+    {
+      "id": "1b197b7a-4dd6-4a6a-bb24-dae29f0e1299",
+      "linkedTossupId": "bd167e2a-2286-45dc-987c-1e7c35a66c9d",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these Native Americans, many of whom live in Florida.",
+          "answer": "Seminole",
+          "acceptableAnswers": [
+            "Seminole",
+            "The Seminole"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This person led several Seminole fighters during the Second Seminole War, but he was captured under a false flag of truce. This person died while still in captivity.",
+          "answer": "Osceola",
+          "acceptableAnswers": [
+            "Osceola",
+            "Billy Powell",
+            "Asi-yahola",
+            "The Osceola"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While Osceola was busy killing Wiley Thompson, several Seminoles took part in this event that killed 107 members of the U.S. Army going from Fort Brooke to Fort King.",
+          "answer": "Dade",
+          "acceptableAnswers": [
+            "Dade",
+            "The Dade"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The United States fought three wars against these people between 1816 and 1858. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "635b5bc633afc95b57f7e703"
+    },
+    {
+      "id": "99418b4c-3123-48cc-8ac3-88d4083576c8",
+      "linkedTossupId": "063455e2-5816-45f8-be97-1658f1e4f763",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this title character of a sixth century epic, the leader of the Geats, who sets sail for Denmark to defeat the monster Grendel.",
+          "answer": "Beowulf",
+          "acceptableAnswers": [
+            "Beowulf",
+            "The Beowulf"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This king of Denmark and builder of the hall Heorot summons Beowulf to help him defeat Grendel.",
+          "answer": "Hrothgar",
+          "acceptableAnswers": [
+            "Hrothgar",
+            "The Hrothgar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Originally envious of Beowulf, this man predicts that Beowulf will fail in his fight against Grendel. He later has a change of heart and lends Beowulf his sword Hrunting in the fight against Grendel's mother.",
+          "answer": "Unferth",
+          "acceptableAnswers": [
+            "Unferth",
+            "The Unferth"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He returns to Hygelac's kingdom after using a sword of the giants to kill a monster in an underwater lair, and his last act is to give Wiglaf a king's collar made of gold after suffering a fatal blow by a dragon. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a4560777"
+    },
+    {
+      "id": "89caffce-2d45-42dd-aa4e-08ce5d8aa460",
+      "linkedTossupId": "5ead96dd-292e-4f9d-b840-151b3440b4c4",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these ten \"emanations\" of God in the system of Kabbalah.",
+          "answer": "sefirot",
+          "acceptableAnswers": [
+            "sefirot",
+            "sephiroth",
+            "sefirah",
+            "The sefirot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This rabbi taught that the sefirot could be arranged into different \"configurations\" called partzufim (\"par-tsoo-FEEM\"), or \"personas.\" Known as \"the Lion\" or \"Ha'Ari\" (\"ha-AH-ree\"), this rabbi founded the Safed school of Kabbalah.",
+          "answer": "Luria",
+          "acceptableAnswers": [
+            "Luria",
+            "The Luria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the Tree of Life diagram, the topmost node usually represents keter (\"KEH-tair\"), while the lowermost node represents this sefirah. God's feminine aspect, the shekhinah (\"sh'kee-NAH\"), is identified with this sefirah, whose name means \"kingdom.\"",
+          "answer": "Malkuth",
+          "acceptableAnswers": [
+            "Malkuth",
+            "Malchut",
+            "The Malkuth"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These concepts are represented as ten nodes, with twenty-two interconnections, on the Tree of Life diagram. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64306481335bc8c468cbb64a"
+    },
+    {
+      "id": "cd512879-d4f3-4108-b414-9681ea9d805c",
+      "linkedTossupId": "e1fc381c-0112-4981-ab4a-b9ed052a115c",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this property that a list must possess if you wish to search it using binary search.",
+          "answer": "sorted",
+          "acceptableAnswers": [
+            "sorted",
+            "the list is in order",
+            "obvious equivalents",
+            "The sorted"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Suppose that you have a sorted list of 16 elements. What is the maximum number of iterations binary search will take to find an element in the list?",
+          "answer": "four",
+          "acceptableAnswers": [
+            "four",
+            "The four"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The result of the previous part is a consequence of the fact that the time complexity of binary search grows like this function of the input size. This function is the inverse of the exponential function.",
+          "answer": "log",
+          "acceptableAnswers": [
+            "log",
+            "natural logarithm",
+            "accept logarithm base anything",
+            "The log"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Lists with this property are amenable to random access. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f86328cdb0cbb3f4645c2c"
+    },
+    {
+      "id": "2cb85546-3011-4a79-93a9-922e62fe30fd",
+      "linkedTossupId": "15ecc2c8-a083-4235-b4c0-492b44a1a172",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this continent whose highest peak, Kilimanjaro, stands over Tanzania.",
+          "answer": "Africa",
+          "acceptableAnswers": [
+            "Africa",
+            "The Africa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A few different African mountains in Morocco have been proposed as the legendary southern \"Pillar of Hercules;\"the pillars are on either side of this narrow waterway that separates the Mediterranean Sea and Atlantic Ocean.",
+          "answer": "Gibraltar",
+          "acceptableAnswers": [
+            "Gibraltar",
+            "The Gibraltar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "On the opposite side of the continent, Table Mountain overlooks this city, the second most populous in South Africa after Johannesburg. South Africa's Parliament meets in this coastal city.",
+          "answer": "Cape Town",
+          "acceptableAnswers": [
+            "Cape Town",
+            "The Cape Town"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This continent is home to the Drakensberg, a 600 mile long formation in the Great Escarpment, and Mount Kenya, which features over a dozen peaks. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004c50"
+    },
+    {
+      "id": "0a8642fe-b98c-4686-b699-31d33750e305",
+      "linkedTossupId": "94230a66-bbbf-4b21-9f7d-8e040b0ae39e",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this short story whose title character puts her nephew Nicanor in charge of her material possessions, and dies in the middle of listing her immaterial possessions.",
+          "answer": "Big Mama’s Funeral",
+          "acceptableAnswers": [
+            "Big Mama’s Funeral",
+            "“Los funerales de Mamá Grande”",
+            "The Big Mama’s Funeral"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Big Mama's grandmother once faced this character from a 1967 novel, who started 32 failed uprisings against the Conservative regime. He also fathered 17 sons who share his name.",
+          "answer": "Colonel Aureliano",
+          "acceptableAnswers": [
+            "Colonel Aureliano",
+            "“Aureliano”",
+            "“Buendía”",
+            "The Colonel Aureliano"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Big Mama's Funeral\" is by this author, who introduced Colonel Aureliano Buendía in his novel One Hundred Years of Solitude.",
+          "answer": "García Márquez",
+          "acceptableAnswers": [
+            "García Márquez",
+            "The García Márquez"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This story's enormously powerful title character owns her entire village, and the local families pay her a portion of their crops in exchange for the right to live there. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32e2883e2636cb3c96281"
+    },
+    {
+      "id": "ca5ff3d9-8f68-45a8-b6da-34b1ebfc73db",
+      "linkedTossupId": "77d33882-8801-4d2b-862f-3adfc7908699",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Senator from a west coast state who is currently seeking the Democratic nomination for the Presidential Election of 2020.",
+          "answer": "Harris",
+          "acceptableAnswers": [
+            "Harris",
+            "The Harris"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Also running for the Democratic nomination is this Senator from New Jersey. Before becoming a senator, this man served as the Mayor of Newark.",
+          "answer": "Booker",
+          "acceptableAnswers": [
+            "Booker",
+            "The Booker"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In August 2019, this former governor of Colorado dropped out of the race. He recently announced a 2020 Senate run.",
+          "answer": "Hickenlooper",
+          "acceptableAnswers": [
+            "Hickenlooper",
+            "The Hickenlooper"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After participating in one political debate, this woman tweeted that \"America does not want to witness a food fight. They want to know how we will put food on their table.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edc1ba974521c293e49713"
+    },
+    {
+      "id": "4a9bbe9a-ae30-4a4b-b101-7f105dcbf4e6",
+      "linkedTossupId": "3bbf6832-e5c1-4417-a4f5-fda2526cbece",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with diaphragm and intercostal muscles.",
+          "answer": "diaphragm",
+          "acceptableAnswers": [
+            "diaphragm"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the diaphragm in the respiratory system?",
+          "answer": "Diaphragm and intercostal muscles",
+          "acceptableAnswers": [
+            "Diaphragm and intercostal muscles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to diaphragm and intercostal muscles.",
+          "answer": "tidal volume",
+          "acceptableAnswers": [
+            "tidal volume"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "086036e8-6622-4850-bfeb-5373972b8d89",
+      "linkedTossupId": "30be8dd6-bc63-47f0-93c6-b09f8729e640",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this author of \"On Sitting Down to Read King Lear Once Again\" who also wrote \"Silent, upon a peak in Darien\" in a work that begins \"Much have I travell'd in the realms of gold.\"",
+          "answer": "Keats",
+          "acceptableAnswers": [
+            "Keats",
+            "The Keats"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In La Bell Dame Sans Merci, Keats discusses how the narrator was taken to one of these places, where the title character \"wept, and sigh'd fill sore.\" It is also where the narrator \"shut her wild wild eyes, with kisses four.\"",
+          "answer": "elfin grot",
+          "acceptableAnswers": [
+            "elfin grot",
+            "“grot",
+            "” prompt on “grotto” grudgingly accept “elfin grotto”",
+            "The elfin grot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After the narrator-knight in La Belle Dame Sans Merci sat the title character on her \"pacing steed,\" she sang this type of song.",
+          "answer": "faery",
+          "acceptableAnswers": [
+            "faery",
+            "The faery"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one poem, this author talks about receiving a crown from Leigh Hunt. FTPE:",
+      "source": "qbreader",
+      "sourceId": "676f8301c626ea977c7a383b"
+    },
+    {
+      "id": "405be7ab-e856-4ba4-89a3-16f7fb88716e",
+      "linkedTossupId": "89899aa8-b0f1-49b2-afb9-9787e377339f",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this poem that also talks about the braided hair of \"Pale Shebah\" and a \"ainted chief, and pointed spear.\"",
+          "answer": "Indian Burying Ground",
+          "acceptableAnswers": [
+            "Indian Burying Ground",
+            "The Indian Burying Ground"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"The Indian Burying Ground\" was written by this \"poet of the American Revolution\" who co-wrote Father Bombo's Pilgrimage to Mecca with Hugh Henry Breckenridge and penned \"The Wild Honey Suckle.\"",
+          "answer": "Freneau",
+          "acceptableAnswers": [
+            "Freneau",
+            "The Freneau"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "William Harmon asserts that Freneau deliberately copied the \"alternating rhyming quatrains\" of this poem, which claims that \"some mute inglorious Milton\" lies in the titular place, which is \"far from the madding crowd.\"",
+          "answer": "Elegy Written in a Country Churchyard",
+          "acceptableAnswers": [
+            "Elegy Written in a Country Churchyard",
+            "The Elegy Written in a Country Churchyard"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It tells of a figure who \"again is seated with his friends / and shares again the joyous feast. \" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0bc0b"
+    },
+    {
+      "id": "305956b0-2fd8-41a5-b231-d195e3c9911f",
+      "linkedTossupId": "cd1fbc65-cda6-48a6-bd1c-239103525b00",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This goddess has a lion's head and a woman's body. Ra created her to destroy mankind, but when she got out of hand, he tricked her into drinking seven thousand jars of beer, transforming her into her counterpart Hathor.",
+          "answer": "Sekhmet",
+          "acceptableAnswers": [
+            "Sekhmet",
+            "Sakhmet",
+            "Sachmis",
+            "Sekhet",
+            "Sakhet",
+            "The Sekhmet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sekhmet is the wife and sister of this green-skinned god, the patron of craftsmen. He is depicted in the linens of a mummy and carries a was sceptre with a djed and an ankh. In some myths, he thought the universe into existence.",
+          "answer": "Ptah",
+          "acceptableAnswers": [
+            "Ptah",
+            "The Ptah"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This city was the center of the Ptah cult. Ptah is part of this city's namesake triad, along with Sekhmet and Nefertem. It was the capital of the Old Kingdom, and was also notable for its huge statues of Ramses II.",
+          "answer": "Memphis",
+          "acceptableAnswers": [
+            "Memphis",
+            "The Memphis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "She bears on her head a solar disk and uraeus, a cobra. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eec0e40657a21915d9f1e0"
+    }
+  ]
+}

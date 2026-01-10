@@ -1,0 +1,1127 @@
+{
+  "packetId": "packet-241",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Fine Arts",
+    "Social Science",
+    "Science",
+    "Literature",
+    "Geography",
+    "Philosophy",
+    "History",
+    "Human Body",
+    "Mythology"
+  ],
+  "tossups": [
+    {
+      "id": "5944bae8-47fc-4133-b375-391d43ea2d7d",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "middle_school",
+      "text": "2. He declined a royal commission from Charles II to direct the refortification of Tangier on grounds of health. He based his design of the on the Hôpital des Invalides in , and, with Sir Jonas Moore, designed the Royal Observatory in . He proposed a dome for the building he is most associated with one week before it was burned down in 1666, and later headed its reconstruction that took him 36 years to finish. For 10 points, identify this British architect who rebuilt 's Cathedral after the Great Fire of London.",
+      "powerMarkPosition": 236,
+      "answer": "Wren",
+      "acceptableAnswers": [
+        "Wren",
+        "The Wren"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0d44"
+    },
+    {
+      "id": "f296685b-dcda-4c8a-a9d1-74dd5e680791",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "In 2001, Link et al. studied the connection between this phenomenon and the self-esteem of patients with mental illnesses, while Gerhard Falk distinguished between the \"existential\" and \"achieved\" type of them. Edward E. Jones added six dimensions of these to augment the two levels created by the author of a 1963 work about them. Its author classified the subject concept into three types: bodily, moral, and tribal. He also suggests that they are a gap between virtual and actual social identity and are the mechanisms through which society rationalizes animosity based on differences such as class or race. For 10 points, name these objects of social devaluation which were studied by Erving Goffman and are attributes that cause individuals to be classified in an unacceptable stereotype.",
+      "powerMarkPosition": 331,
+      "answer": "stigma",
+      "acceptableAnswers": [
+        "stigma",
+        "The stigma"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0bce9"
+    },
+    {
+      "id": "efbb7b1c-041f-45af-a6aa-6da28c4b09b6",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "text": "A lack of info about cation-anion distances can prevent the use of the Kapustinskii equation to determine this value. Another method of calculating it involves squaring both the charge of ions and electrons and knowing the Madelung constant. A process that involves the enthalpy of sublimation and the electron affinity is yet another way to calculate this quantity. It generally increases as ionic charge increases and it is equal to the negative of the energy of crystallization. For 10 points, name this quantity often symbolized U that measures how much energy is required to separate a solid mole of an ion or molecule into a gas.",
+      "powerMarkPosition": 241,
+      "answer": "lattice",
+      "acceptableAnswers": [
+        "lattice",
+        "The lattice"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f830fc626ea977c7a3ca2"
+    },
+    {
+      "id": "db195c37-2532-4e7d-a553-9bf3f5fc51db",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "In one part of this play, a character calls one of his enemies \"the prince of cats\" during a duel. One of the protagonists of this play goes to Friar Lawrence for advice. In this play, Benvolio fights with Tybalt, who had earlier killed the eccentric Mercutio. The houses of Montague and Capulet feud in this play's setting of Verona. For 10 points, name this Shakespeare tragedy about two \"star-crossed lovers\".",
+      "powerMarkPosition": 274,
+      "answer": "Romeo and Juliet",
+      "acceptableAnswers": [
+        "Romeo and Juliet",
+        "The Romeo and Juliet"
+      ],
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ecdb"
+    },
+    {
+      "id": "e1fe3a1b-ea9d-4683-862d-5a43fc57b1e9",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "This state contains deeply eroded ash deposits in the Valley of Ten Thousand Smokes within Katmai National Park. The North Slope oil fields are found in this state, where the Chilkoot Pass can be accessed through this state's port city of Skagway on the historic Yukon Trail. The highest point in North America, Denali, is found in this state. For 10 points, name this \"North Star\" state whose most populous city is Anchorage and whose capital is Juneau.",
+      "powerMarkPosition": 262,
+      "answer": "Alaska",
+      "acceptableAnswers": [
+        "Alaska",
+        "The Alaska"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b6f6"
+    },
+    {
+      "id": "40cc5ec6-1c5b-4574-9047-c8d35f3f2ac7",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "One dream described in this encourages a voyage to Macedonia, while another concerns ritual practices. Like its predecessor, this book is addressed to Theophilus. It includes a speech to a group of people gathered from several nations each in their own language, and Philip the Evangelist makes several appearances in this book. Authored by Luke the Evangelist, it also describes the ascent of Jesus into heaven. For 10 points, name this book of the New Testament that chronicles the events of the followers of Jesus.",
+      "powerMarkPosition": 328,
+      "answer": "Acts",
+      "acceptableAnswers": [
+        "Acts",
+        "The Acts"
+      ],
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced83b"
+    },
+    {
+      "id": "636e67cf-8f81-48bc-83bc-2d32d9a48b6c",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "(Note to reader: The first sentence has the word \"attitude,\" NOT \"altitude.\") Description acceptable. The flare or round-out is one stage in this process in which the attitude is increased. Groundlooping during this process is less common in tricycle gear setups compared to taildraggers. During a typical run of this process, \"dumping\" occurs due to the spoilers being fully raised up while the yoke is pushed forward to lower the elevators. Imperfect \"crab\" and \"slip\" forms of this process can occur due to crosswinds. The long nose on the Concorde had to \"droop\" down a further 12.5 degrees during this process to allow for better visibility. A lower angle of attack is used in this process, which is accompanied by taxiing soon after a successful completion. For 10 points, identify this general process that requires the wheels in the undercarriage of a plane to be brought out.",
+      "powerMarkPosition": 442,
+      "answer": "land",
+      "acceptableAnswers": [
+        "land",
+        "touchdown",
+        "splashdown",
+        "any description of an airplane reaching the ground after a flight route",
+        "equivalents",
+        "prompt on descending",
+        "word forms",
+        "The land"
+      ],
+      "source": "qbreader",
+      "sourceId": "650a74b87033487bec6a7c48"
+    },
+    {
+      "id": "fa702900-7dbf-4d9f-94b2-44ba5efbf5a9",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "A small French army fought for the losing side of this battle under a man named Sinfray. The main tactic of this battle was probably conveyed by an Armenian merchant named Khwaja Petruse to William Watts. The losing side had two-thirds of its army sit around and watch on the first day of this battle, when, around noon, a rain storm struck which damaged the losing side's gunpowder, as they were too inexperienced to cover it. This battle was a result of the breakdown of the Alinagar Treaty, signed four months earlier. The English camp was set up near the namesake mango grove on the River Bhagarathi, and during it, Mir Jafar defected, sealing the fate of Siraj-ud-doula, the Nawab of Bengal. Taking place a year after the capture of Fort William, which included the Black Hole of Calcutta, for 10 points, name this battle in which Robert Clive led the British East India Company to victory, leading to the annexation of Bengal.",
+      "powerMarkPosition": 427,
+      "answer": "Plassey",
+      "acceptableAnswers": [
+        "Plassey",
+        "The Plassey"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43624"
+    },
+    {
+      "id": "641af08c-7592-4ac7-a7be-96bf7a6da824",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for sebaceous glands. It plays a key role in the integumentary system and is one of the most studied parts of human anatomy. For ten points, name this hair follicle-related structure.",
+      "powerMarkPosition": 81,
+      "answer": "Hair follicle",
+      "acceptableAnswers": [
+        "hair follicle",
+        "Hair follicle"
+      ],
+      "explanation": "The hair follicle is a key component of the Integumentary system, involved in sebaceous glands.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a4411fd3-a218-4ce1-b6e6-78a571e9632b",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "In 1947, political dissidents in this nation were massacred in what is known as the 228 incident. European explorers encountered the Ami and Atayal indigenous tribes while settling this modern nation and the western portion of this nation contains the strategically important Pescadores Islands. This nation was the home to the Dutch Fort Zeelandia, although it was eventually captured following a long siege led by Koxinga. Later, this nation became one of the Asian Economic Tigers and during the Cold War it was controlled tightly by the KMT party. For 10 points, name this island nation once known as Formosa.",
+      "powerMarkPosition": 295,
+      "answer": "Taiwan",
+      "acceptableAnswers": [
+        "Taiwan",
+        "Formosa early",
+        "The Taiwan"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df83920c3a38102cd75a0d"
+    },
+    {
+      "id": "284dd30a-4016-4fc8-bed2-c178308d43a6",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for sensory receptors. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this cranial nerve-related structure.",
+      "powerMarkPosition": 78,
+      "answer": "Cranial nerve",
+      "acceptableAnswers": [
+        "cranial nerve",
+        "Cranial nerve"
+      ],
+      "explanation": "The cranial nerve is a key component of the Nervous system, involved in sensory receptors.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "bbc70bc7-3ba4-49ea-af20-f416d4ebecc5",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "This element's carbonate is combined with brine in the Solvay process in order to produce soda ash. This element is released from the sarcoplasmic reticulum, and this element binds with troponin to facilitate muscle contraction. Vitamin D aids in absorbing this element, and this element's carbonate is known as limestone. This element is necessary for bone and teeth strength. For 10 points, name this element symbolized Ca.",
+      "powerMarkPosition": 236,
+      "answer": "calcium",
+      "acceptableAnswers": [
+        "calcium",
+        "Ca before mentioned",
+        "The calcium"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9e44"
+    },
+    {
+      "id": "de306c16-5741-40ec-a87d-6c3ae1c8a961",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "Despite disagreeing with her views on religion, this congressman praises Ayn Rand for making the best argument for a moral case of capitalism and has Atlas Shrugged as required reading for his interns and staff. This chairman of the House Budget Committee authored The Path to Prosperity budget plans that were heavily criticized for their proposed changes to Medicare and lack of tax increases to offset $4.6 trillion in tax cuts. His speech at the 2012 Republican National Convention has been criticized as deeply dishonest and misleading. For 10 points, name this Wisconsin representative and Mitt Romney's vice presidential running mate.",
+      "powerMarkPosition": 431,
+      "answer": "Ryan",
+      "acceptableAnswers": [
+        "Ryan",
+        "The Ryan"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f077d"
+    },
+    {
+      "id": "5f7abb3c-f669-4d84-939a-19f3a6e209c5",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "In one poem titled for this figure, Odin disguises himself as Vegtam to find out why this deity is having bad dreams, and in the Gesta Danorum he is badly wounded by Miming's sword. The dwarf Lit died on one of this god's possessions, and that possession was launched by Hyrokkin. The land of \"fewest baneful runes\" was home to his hall Breidablik, and his brother Hermod was denied while petitioning on his behalf by the giantess Thokk, really Loki in disguise. This owner of the ship Hringhorn was the father of Forseti by Nanna, and Vali was born to avenge his death. For 10 points, identify this Norse god of light, killed with a mistletoe dart by his brother Hodr.",
+      "powerMarkPosition": 280,
+      "answer": "Baldur",
+      "acceptableAnswers": [
+        "Baldur",
+        "Balderus",
+        "Phol",
+        "The Baldur"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43aab"
+    },
+    {
+      "id": "17f04975-e842-4480-b3e7-3c2cf7ab153c",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "Tennessee politician Harry Burn cast the deciding vote for this amendment. The Silent Sentinels, including Lucy Burns and Alice Paul, protested in favor of this amendment in front of the White House and were tortured by police in 1917. Carrie Chapman Catt led the National American Woman Suffrage Association, which advocated for, for 10 points, what Constitutional amendment that guaranteed women the right to vote?",
+      "powerMarkPosition": 229,
+      "answer": "Nineteen",
+      "acceptableAnswers": [
+        "Nineteen",
+        "The Nineteen"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2ccc3"
+    },
+    {
+      "id": "35a2efda-0bab-4b52-8a7e-1d9d56928149",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "One character in this play chimes in with supportive asides like \"Ay touch him, there's the vein\" and \"You are too cold\" during an audience in which his companion quips that \"it is excellent / To have a giant's strength; but it is tyrannous / To use it like a giant.\" In another scene, one of its characters proposes that a woman who lost her dowry in a shipwreck be used as a sexual decoy. Early in this play, a drunkard named Froth is apprehended by a policeman who calls him a \"benefactor\" rather than a \"malefactor.\" One character substitutes a pirate's head for that of the lover of Juliet and dons the guise of a friar for the majority of the play. Elbow and Mistress Overdone appear in a subplot of this play, in which Isabella is offered the safe release of her brother Claudio in exchange for her virginity after laws against fornication are enforced in Vienna. For 10 points, name this comedy by Shakespeare, in which Duke Brabantio hands over power to Angelo.",
+      "powerMarkPosition": 548,
+      "answer": "Measure for Measure",
+      "acceptableAnswers": [
+        "Measure for Measure",
+        "The Measure for Measure"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1993"
+    },
+    {
+      "id": "e3c01d1f-667a-4666-b20a-d1e9d7b7b579",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for major arteries (aorta, carotid, femoral). It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this aorta-related structure.",
+      "powerMarkPosition": 103,
+      "answer": "Aorta",
+      "acceptableAnswers": [
+        "aorta",
+        "Aorta"
+      ],
+      "explanation": "The aorta is a key component of the Cardiovascular system, involved in major arteries (aorta, carotid, femoral).",
+      "source": "ai-generated"
+    },
+    {
+      "id": "556826ef-f91c-427f-b1aa-3681f9850e44",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "These objects collect and deposit debris in masses called moraines. These objects can move via basal sliding, which occurs when meltwater reduces ground friction. The Great Lakes were formed from the retreat of these objects. About seventy percent of Earth's freshwater is stored in, for 10 points, what large sheets of land-based ice?",
+      "powerMarkPosition": 127,
+      "answer": "glacier",
+      "acceptableAnswers": [
+        "glacier",
+        "The glacier"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2cd55"
+    },
+    {
+      "id": "c3a67217-b57c-483c-b66d-f25dcd8f1ab7",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "This cofounder of Hogarth Press wrote about Katharine Hilbery's attempt to write a biography of her grandfather Richard Alardyce in Night and Day. One of this author's novels follows the thoughts of six childhood friends as they react to the death of Percival. In another of this author's novels, Peter Walsh's return from India and Septimus Smith's suicide occur on the same day that the title character gives a party. For 10 points, name this lover of Vita Sackville-West, the British author of The Waves, Mrs. Dalloway, and To the Lighthouse.",
+      "powerMarkPosition": 260,
+      "answer": "Woolf",
+      "acceptableAnswers": [
+        "Woolf",
+        "The Woolf"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a98413e1"
+    },
+    {
+      "id": "f9111c60-be7a-452d-9de2-92a20f964a4d",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "Paul Byers argued that these objects work via a three-way communication process in an article claiming that they are more than an \"illustrating tool\" than pure \"observation.\" These man-made objects were studied extensively by the anthropologist Ray Birdwhistell, whose theory of \"kinesic\" communication was formulated after examining these things. J. P. Morgan provided the funds for Edward Curtis to produce these things in what is sometimes called the first proto-salvage ethnography project, and is titled The North American Indian. Some of the 23,000 of these things produced by Gregory Bateson were used by Margaret Mead to help depict Balinese Character. Many of these things accompany the text of Born Free and Equal, a book documenting the Manzanar internment camp. For 10 points, name these objects which, along with films, are the subject of visual anthropology.",
+      "powerMarkPosition": 459,
+      "answer": "photo",
+      "acceptableAnswers": [
+        "photo",
+        "photos",
+        "accept cameras until \"proto-salvage ethnography\"",
+        "prompt on pictures",
+        "The photo"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0df6e"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "09f50444-97be-480e-9bc2-31b81f8b62dc",
+      "linkedTossupId": "5944bae8-47fc-4133-b375-391d43ea2d7d",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this opera, which famously includes the \"Catalogue Aria\" listing the title character's many, many sexual conquests.",
+          "answer": "Don Giovanni",
+          "acceptableAnswers": [
+            "Don Giovanni",
+            "Köchel 527",
+            "The Don Giovanni"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Don Giovanni was composed by this Austrian, who also collaborated with Lorenzo da Ponte on Cosi fan tutte. He's also famous for 41 symphonies.",
+          "answer": "Mozart",
+          "acceptableAnswers": [
+            "Mozart",
+            "The Mozart"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Mozart opera includes the Queen of the Night aria. The title instrument, which has the power to charm men, is given to Tamino.",
+          "answer": "Magic Flute",
+          "acceptableAnswers": [
+            "Magic Flute",
+            "Die Zauberflöte",
+            "Köchel 620",
+            "The Magic Flute"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This opera's book was written by Lorenzo da Ponte, and it traditionally ends with the title character being dragged to Hell by a statue of the Commendatore. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1e53"
+    },
+    {
+      "id": "d880fc44-b5e0-46ed-95ad-d311c9db0321",
+      "linkedTossupId": "f296685b-dcda-4c8a-a9d1-74dd5e680791",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this concept. Another thinker characterized opposing forms of this non-literary concept as Apollonian and Dionysian.",
+          "answer": "culture",
+          "acceptableAnswers": [
+            "culture",
+            "The culture"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This anthropologist interpreted Plains Indian culture as Dionysian in her book Patterns of Culture. This anthropologist later described guilt and shame cultures in The Chrysanthemum and the Sword.",
+          "answer": "Benedict",
+          "acceptableAnswers": [
+            "Benedict",
+            "The Benedict"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Due to this war, research on Japan for The Chrysanthemum and the Sword was conducted \"at a distance\". In The Races of Mankind, Benedict noted racially diverse nations were united against Axis aggression during this war.",
+          "answer": "World War II",
+          "acceptableAnswers": [
+            "World War II",
+            "Second World War",
+            "accept the war against Hitler",
+            "The World War II"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Kroeber and Kluckhohn described the \"essential core\" of this concept as \"traditional ideas and their attached values\" in a comprehensive 1952 review of this concept. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "671d6e2b704068afc3e929e9"
+    },
+    {
+      "id": "2f033012-2b11-4620-89b2-88e4cb068177",
+      "linkedTossupId": "efbb7b1c-041f-45af-a6aa-6da28c4b09b6",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This value for a damped oscillator, the product of the initial angular frequency and the decay time, relates the energy dissipated in one cycle of the oscillator to the total energy stored at the beginning of that oscillation.",
+          "answer": "quality factor",
+          "acceptableAnswers": [
+            "quality factor",
+            "Q factor",
+            "prompt on quality",
+            "Q",
+            "The quality factor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Q factor determines the \"sharpness\" of peaks in curves of this name. This word also describes what occurs when driving frequency closely approximates natural frequency, an example of which caused the Tacoma Narrows bridge collapse.",
+          "answer": "resonance",
+          "acceptableAnswers": [
+            "resonance",
+            "resonance curves",
+            "The resonance"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At resonance, this value is always pi/2 radians for a driven oscillator, while it's near zero for driving frequencies less than the natural frequency and near pi for ones greater. It represents angular displacement.",
+          "answer": "phase",
+          "acceptableAnswers": [
+            "phase",
+            "delta",
+            "The phase"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some things related to harmonic oscillators, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e6c82"
+    },
+    {
+      "id": "da7085c9-9f75-493e-a9ef-0eeee53b867a",
+      "linkedTossupId": "db195c37-2532-4e7d-a553-9bf3f5fc51db",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this world visited by the Pevensie children in a series of C. S. Lewis books that includes The Lion, the Witch, and the Wardrobe.",
+          "answer": "Narnia",
+          "acceptableAnswers": [
+            "Narnia",
+            "The Narnia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The White Witch is opposed by this lion.",
+          "answer": "Aslan",
+          "acceptableAnswers": [
+            "Aslan",
+            "The Aslan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the title character in The Magician's Nephew. He lives with his Uncle Andrew.",
+          "answer": "Digory",
+          "acceptableAnswers": [
+            "Digory",
+            "either",
+            "both underlined parts",
+            "The Digory"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This fantasy world contains Cruels who follow the White Witch. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec67e8"
+    },
+    {
+      "id": "07c66ce9-6fe6-4103-96ef-d8df15b94dff",
+      "linkedTossupId": "e1fe3a1b-ea9d-4683-862d-5a43fc57b1e9",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this country, whose provinces include Saskatchewan and Manitoba. This country's capital is Ottawa.",
+          "answer": "Canada",
+          "acceptableAnswers": [
+            "Canada",
+            "The Canada"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pierre LaPorte and James Cross were kidnapped by the FLQ in this French-speaking province of Canada, whose largest city is Montreal.",
+          "answer": "Québec",
+          "acceptableAnswers": [
+            "Québec",
+            "The Québec"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The western side of Lake Athabasca reaches this province of Canada, whose cities include Calgary and its capital Edmonton.",
+          "answer": "Alberta",
+          "acceptableAnswers": [
+            "Alberta",
+            "The Alberta"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Niagara Falls separates this country's province of Ontario from Buffalo, New York. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e1413"
+    },
+    {
+      "id": "3e8f4e80-3af4-4f75-a537-42e0cc68a209",
+      "linkedTossupId": "40cc5ec6-1c5b-4574-9047-c8d35f3f2ac7",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this annual pilgrimage to Mecca, which all Muslims must complete at least once in their lifetime.",
+          "answer": "hajj",
+          "acceptableAnswers": [
+            "hajj",
+            "The hajj"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A common ritual during the hajj is the \"Stoning of [this figure].\" This evil figure, called Shaitan or Iblis by Muslims, tempted Ibrahim to disobey Allah.",
+          "answer": "Devil",
+          "acceptableAnswers": [
+            "Devil",
+            "Satan",
+            "accept Shaitan",
+            "Iblis before mentioned",
+            "The Stoning of the Devil",
+            "The Devil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another hajj ritual, running between the hills of Safa and Marwa, symbolizes Hajar's search for this substance. The angel Jibreel provided this substance to Hajar by striking the ground with his heel.",
+          "answer": "water",
+          "acceptableAnswers": [
+            "water",
+            "The water"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Umrah is a \"lesser\" form of this practice, which can be undertaken at any point in the year. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b9c7"
+    },
+    {
+      "id": "a81243ec-65ce-4c1e-a5e5-7ca28ad173af",
+      "linkedTossupId": "636e67cf-8f81-48bc-83bc-2d32d9a48b6c",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this technique in which primers are used to amplify a segment of DNA. The standard version of this procedure cycles through denaturation, annealing, and elongation steps.",
+          "answer": "PCR",
+          "acceptableAnswers": [
+            "PCR",
+            "polymerase chain reaction",
+            "The PCR"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The annealing temperature for PCR is usually three degrees below this temperature for the primers. This quantity is often calculated using a nearest-neighbor method.",
+          "answer": "Tm",
+          "acceptableAnswers": [
+            "Tm",
+            "T-sub-m",
+            "melting temperature"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One way to improve PCR specificity is to anneal at a high temperature for the first few cycles, then increase stringency by lowering the annealing temperature for subsequent cycles. That approach is given this name.",
+          "answer": "touchdown",
+          "acceptableAnswers": [
+            "touchdown",
+            "The touchdown"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This technique's overlap-extension variant can be used to anneal two different segments of DNA together. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "677775a5115778212c716d6b"
+    },
+    {
+      "id": "2fcdefc2-3b95-47d7-8d3f-fb4a1d70b483",
+      "linkedTossupId": "fa702900-7dbf-4d9f-94b2-44ba5efbf5a9",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this first Stuart king of England. During his reign, Robert Catesby and Guy Fox attempted to blow up the Parliament in the Gunpowder plot.",
+          "answer": "James I",
+          "acceptableAnswers": [
+            "James I",
+            "James IV of Scotland",
+            "The James I"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Francis Walsingham was an advisor to this monarch, the predecessor to James I. This ruler also signed the Treaty of Berwick with James while he was the king of Scotland.",
+          "answer": "Elizabeth I",
+          "acceptableAnswers": [
+            "Elizabeth I",
+            "The Elizabeth I"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "James I signed this treaty in which Britain recognized Spanish claims in the new world. Cardinal Wolsey was the architect of a 1518 treaty by this name through which the major European powers pledged non-aggression in response to the growing Ottoman threat.",
+          "answer": "London",
+          "acceptableAnswers": [
+            "London",
+            "The London"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One conspiracy during his reign was thwarted when Lord Monteagle received a letter of warning. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bcab6bc6fadbe6166da3f1"
+    },
+    {
+      "id": "c13c8901-8f35-48a7-9133-9215ae3d7a63",
+      "linkedTossupId": "641af08c-7592-4ac7-a7be-96bf7a6da824",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with synaptic transmission.",
+          "answer": "axon",
+          "acceptableAnswers": [
+            "axon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the axon in the nervous system?",
+          "answer": "Synaptic transmission",
+          "acceptableAnswers": [
+            "Synaptic transmission"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to synaptic transmission.",
+          "answer": "dendrite",
+          "acceptableAnswers": [
+            "dendrite"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "3dc6b9c0-7d39-4bb3-a972-1b833e00ac24",
+      "linkedTossupId": "a4411fd3-a218-4ce1-b6e6-78a571e9632b",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Canadian island on which the province Nova Scotia is located.",
+          "answer": "Cape Breton",
+          "acceptableAnswers": [
+            "Cape Breton",
+            "The Cape Breton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This body of water is the largest lake on Cape Breton Island. It is a saltwater lake, and it receives rivers such as the Skye, Denys, and Braddeck.",
+          "answer": "Bras d’or",
+          "acceptableAnswers": [
+            "Bras d’or",
+            "The Bras d’or"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This fortress on Cape Breton Island was notably seized by Jeffrey \"Lord Jeff\" Amherst in 1758.",
+          "answer": "Louisbourg",
+          "acceptableAnswers": [
+            "Louisbourg",
+            "The Louisbourg"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This island contains the cities of Sydney, Port Hawkesbury, and Halifax. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e62f97"
+    },
+    {
+      "id": "122133e2-6d0b-477f-8cf0-c0b8af4bdd38",
+      "linkedTossupId": "284dd30a-4016-4fc8-bed2-c178308d43a6",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with gut microbiome.",
+          "answer": "colon",
+          "acceptableAnswers": [
+            "colon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the colon in the digestive system?",
+          "answer": "Gut microbiome",
+          "acceptableAnswers": [
+            "Gut microbiome"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to gut microbiome.",
+          "answer": "cecum",
+          "acceptableAnswers": [
+            "cecum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9f7b40d3-f2db-4f6f-af7e-3a061a56a770",
+      "linkedTossupId": "bbc70bc7-3ba4-49ea-af20-f416d4ebecc5",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This type of magnetism, exhibited by nickel, cobalt, and its namesake, iron, is present even when an exterior magnetic field is absent. It is the most common type of magnetism observed.",
+          "answer": "ferromagnet",
+          "acceptableAnswers": [
+            "ferromagnet",
+            "The ferromagnet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ferromagnetism breaks down above this temperature named for a French scientist who, with his Polish wife, isolated radium and studied radioactivity.",
+          "answer": "Curie",
+          "acceptableAnswers": [
+            "Curie",
+            "The Curie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Above the Curie temperature, ferromagnetic materials instead exhibit this type of magnetism, a weak attraction that only appears when an external magnetic field is applied.",
+          "answer": "para",
+          "acceptableAnswers": [
+            "para",
+            "The para"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about magnets, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4383c"
+    },
+    {
+      "id": "3ad7191a-d5aa-43f3-a4f1-521cade76a4f",
+      "linkedTossupId": "de306c16-5741-40ec-a87d-6c3ae1c8a961",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This Democrat from Missouri surprisingly won a full term in office. He had already served almost a full termwithout being elected, having succeeded Franklin Roosevelt in spring 1945.",
+          "answer": "Truman",
+          "acceptableAnswers": [
+            "Truman",
+            "The Truman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Truman defeated this New York Governor in 1948. The result was a huge upset; infamously, theChicagoDaily Tribuneprinted newspapers reading \"[this man]DEFEATS TRUMAN,\" which became a prop for a smiling,victorious Truman.",
+          "answer": "Dewey",
+          "acceptableAnswers": [
+            "Dewey",
+            "The Dewey"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the election, racist Strom Thurmond ran with this third party, whose common nickname is a mashup of\"Democrat\" and a term for the South. This party's official name was a political concept commonly cited inarguments for nineteenth-century slavery and twentieth-century segregation.",
+          "answer": "Dixiecrat",
+          "acceptableAnswers": [
+            "Dixiecrat",
+            "The Dixiecrat"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Give the following about the presidential Election of 1948, for ten points each.",
+      "source": "qbreader",
+      "sourceId": "6837af65278db02eb79f1d7d"
+    },
+    {
+      "id": "67a05fdf-244c-4200-b168-943b779ed928",
+      "linkedTossupId": "5f7abb3c-f669-4d84-939a-19f3a6e209c5",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this hero from Greek myth who received a golden bridle from Athena after sleeping in her temple on advice from the seer Polyeidus.",
+          "answer": "Bellerophon",
+          "acceptableAnswers": [
+            "Bellerophon",
+            "Bellerophontes",
+            "The Bellerophon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bellerophon slew this fire-breathing monster with the head of a lion, the body of a goat, and the tail of a snake by flying at it on Pegasus and ramming a lead block down its throat.",
+          "answer": "Chimera",
+          "acceptableAnswers": [
+            "Chimera",
+            "The Chimera"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bellerophon got cocky about having slain the Chimera and tried to fly to this mountain home of the Greek gods, but Zeus sent a gadfly to sting Pegasus, which caused him to fall.",
+          "answer": "Olympus",
+          "acceptableAnswers": [
+            "Olympus",
+            "The Olympus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "When this figure refused to sleep with the queen of Tiryns, she accused him of attempted rape. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6ded7f6"
+    },
+    {
+      "id": "5428db2c-9037-4ec5-9db6-8b4bbab9a5cc",
+      "linkedTossupId": "17f04975-e842-4480-b3e7-3c2cf7ab153c",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This president created the U.S. Department of Justice in 1871 to enforce basic rights for African Americans. In 1875 he signed a landmark Civil Rights Act.",
+          "answer": "Grant",
+          "acceptableAnswers": [
+            "Grant",
+            "The Grant"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Prior to becoming President, Grant served in this war that began in 1846, the year after the United States annexed Texas. This war was ended by the Treaty of Guadalupe Hidalgo.",
+          "answer": "Mexican-American War",
+          "acceptableAnswers": [
+            "Mexican-American War",
+            "The Mexican-American War"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Most famously, during the Civil War Grant led the Union army to victory, culminating with the surrender of this Confederate general at Appomattox Court House.",
+          "answer": "Lee",
+          "acceptableAnswers": [
+            "Lee",
+            "The Lee"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For ten points each, answer some questions about the 18th President of the United States:",
+      "source": "qbreader",
+      "sourceId": "676f723bf56e0dff73abed16"
+    },
+    {
+      "id": "f0d55e0e-ae3f-4a93-b7ec-cd4efd593a1d",
+      "linkedTossupId": "35a2efda-0bab-4b52-8a7e-1d9d56928149",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these things. In the preface to Breakfast of Champions, Vonnegut highlights his immaturity by including a drawing of one of these things, which he claims is a picture of an anus.",
+          "answer": "asterisk",
+          "acceptableAnswers": [
+            "asterisk",
+            "star",
+            "The asterisk"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Somewhat more maturely, this other Vonnegut novel includes a drawing of a tombstone with the epitaph \"Everything was beautiful, and nothing hurt,\" which Billy Pilgrim thinks up when asked about World War II by his wife Valencia.",
+          "answer": "Slaughterhouse-Five",
+          "acceptableAnswers": [
+            "Slaughterhouse-Five",
+            "The Slaughterhouse-Five"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Slaughterhouse-Five also includes a drawing of a heart-shaped locket engraved with the Serenity Prayer, which belongs to this woman. This actress is abducted by the Tralfamadorians along with Billy Pilgrim.",
+          "answer": "Montana",
+          "acceptableAnswers": [
+            "Montana",
+            "either underlined name",
+            "The Montana"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Kurt Vonnegut's novel Galápagos puts one of these things before a character's name whenever that character is going to die soon. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631a175712170ac0a81b9993"
+    },
+    {
+      "id": "4f1e6655-99a7-47fb-bc34-dd9d13bc2b48",
+      "linkedTossupId": "e3c01d1f-667a-4666-b20a-d1e9d7b7b579",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with neuromuscular junction.",
+          "answer": "contraction",
+          "acceptableAnswers": [
+            "contraction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the contraction in the musculoskeletal system?",
+          "answer": "Neuromuscular junction",
+          "acceptableAnswers": [
+            "Neuromuscular junction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to neuromuscular junction.",
+          "answer": "troponin",
+          "acceptableAnswers": [
+            "troponin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e6e4902d-3100-4f85-a218-74f446123086",
+      "linkedTossupId": "556826ef-f91c-427f-b1aa-3681f9850e44",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these equations that describe how quickly a reaction goes to completion. They include a namesake constant times the concentrations of each reactant raised to a power.",
+          "answer": "rate",
+          "acceptableAnswers": [
+            "rate",
+            "The rate"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This measure of concentration is used in rate laws. In it, concentration equals moles of solute divided by liters of solution.",
+          "answer": "molarity",
+          "acceptableAnswers": [
+            "molarity",
+            "The molarity"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rate laws can predict this quantity, the amount of time in which 50% of the reactant becomes product. In nuclear chemistry, it's used to measure how quickly an isotope decays.",
+          "answer": "half-",
+          "acceptableAnswers": [
+            "half-",
+            "The half-"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These equations can be more easily determined with the steady state approximation. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e9a0924256318acbe8"
+    },
+    {
+      "id": "0934d10b-9af0-467a-859c-7617a5381ba0",
+      "linkedTossupId": "c3a67217-b57c-483c-b66d-f25dcd8f1ab7",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this woman who has an affair with May Welland's fiance.",
+          "answer": "Ellen",
+          "acceptableAnswers": [
+            "Ellen",
+            "either",
+            "both",
+            "The Ellen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "That fiance, Newland Archer, is the protagonist of this novel set in New York.",
+          "answer": "Age of Innocence",
+          "acceptableAnswers": [
+            "Age of Innocence",
+            "The Age of Innocence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of The Age of Innocence also wrote about Lily Bart in The House of Mirth.",
+          "answer": "Wharton",
+          "acceptableAnswers": [
+            "Wharton",
+            "The Wharton"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character escapes her failed marriage to a Polish count by fleeing to Venice with the secretary Monsieur Riviere. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ead0be8c91030f69d5b776"
+    },
+    {
+      "id": "4e62a8d2-5b7c-4744-b65e-1ed4ab43bad7",
+      "linkedTossupId": "f9111c60-be7a-452d-9de2-92a20f964a4d",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this American anthropologist, who used his method of \"cultural materialism\" in studies like Cows, Pigs, Wars, and Witches and Cannibals and Kings.",
+          "answer": "Harris",
+          "acceptableAnswers": [
+            "Harris",
+            "The Harris"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Harris explained the periodic warfare of this Amazon rainforest tribe as a response to scarcity of protein, thus disagreeing with Napoleon Chagnon's claim that these \"fierce people\" are innately aggressive.",
+          "answer": "Yanomamo",
+          "acceptableAnswers": [
+            "Yanomamo",
+            "Yanomami",
+            "The Yanomamo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Harris criticized this foundational anthropologist and his students for using \"historical particularism\" and abandoning theory. This author of The Mind of Primitive Man taught Alfred Kroeber and Margaret Mead.",
+          "answer": "Boas",
+          "acceptableAnswers": [
+            "Boas",
+            "The Boas"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This thinker argues that India's veneration of sacred cows can be rationally explained as a response to ecological pressures, in particular the usefulness of cattle as draft animals in agriculture. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba960cf"
+    }
+  ]
+}

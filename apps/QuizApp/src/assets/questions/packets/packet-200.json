@@ -1,0 +1,1134 @@
+{
+  "packetId": "packet-200",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Human Body",
+    "Literature",
+    "Science",
+    "History",
+    "Philosophy",
+    "Social Science",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "3d186cfc-7dca-41ac-ad69-b51ad90ec49c",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for synovial joint structure. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this synovial-related structure.",
+      "powerMarkPosition": 82,
+      "answer": "Synovial",
+      "acceptableAnswers": [
+        "synovial",
+        "Synovial"
+      ],
+      "explanation": "The synovial is a key component of the Musculoskeletal system, involved in synovial joint structure.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e75dc50b-4b9a-4476-9a92-af87d3782854",
+      "category": "Literature",
+      "subcategory": "Classical Literature",
+      "difficulty": "middle_school",
+      "text": "The ancient Dionysia festival included a competition at which playwrights would submit three plays in this genre and one satyr play. A play in this genre was set near Colonus by Sophocles, who also wrote the plays Antigone and Oedipus, whose title characters' stubbornness and hubris are the fatal flaws that lead to their downfalls. For 10 points, name this genre of ancient drama, contrasted with comedy.",
+      "powerMarkPosition": 213,
+      "answer": "tragedy",
+      "acceptableAnswers": [
+        "tragedy",
+        "The tragedy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2cd06"
+    },
+    {
+      "id": "3f2422dd-9c17-4f83-949c-d02539831857",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "text": "One book by this author sees Max Ophuls, a United States ambassador to India murdered by the title character, who is skilled at the tightrope, Shalimar the Clown. Another book by this author features Saleem, who is telepathic and was born at the exact time of India's independence. In addition to writing Midnight's Children, a fatwa was issued against this man for writing a book concerning Gibreel and Saladin, who find themselves on a hijacked airplane. For 10 points, name this British-Indian author of The Satanic Verses.",
+      "powerMarkPosition": 281,
+      "answer": "Rushdie",
+      "acceptableAnswers": [
+        "Rushdie",
+        "The Rushdie"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f05ad"
+    },
+    {
+      "id": "56aafea7-6d60-49d6-b6cb-f5025237144b",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "Zeckendorf's theorem relates every positive integer to these numbers, which are used in a lagged pseudo-random number generator. These numbers can be used to search sorted arrays in data structures more flexible than binomial heaps. Binet's formula can be used to find terms in this series, and Lucas is the namesake of a sequence that has its same recursion relation. The ratio between its successive terms approaches the golden ratio, and each term in this series is the sum of its two predecessors. For 10 points, name these numbers named after an Italian mathematician.",
+      "powerMarkPosition": 232,
+      "answer": "Fibonacci",
+      "acceptableAnswers": [
+        "Fibonacci",
+        "Fibonacci series",
+        "Fibonacci sequence",
+        "The Fibonacci"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636eecf2"
+    },
+    {
+      "id": "9f65875a-731e-4807-8770-2b8c745d8116",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "This man's government allowed the establishment of Catholic schools with the Falloux law. He was supported financially by his mistress Harriet Howard after disguising himself as a mason and escaping life imprisonment in the fortress of Ham. This leader secretly signed the Treaty of Villafranca, thus abrogating his promise to aid Piedmontese forces in the Treaty of Plombieres. The streets of this ruler's capital were made harder to barricade by the renovations of Baron Haussmann. This man lost a war that was instigated by the Ems dispatch and that ended with his capture at Sedan. For 10 points, name this president and last emperor of France, the nephew of an emperor who lost at Waterloo.",
+      "powerMarkPosition": 240,
+      "answer": "Napoleon III",
+      "acceptableAnswers": [
+        "Napoleon III",
+        "Louis-Napoleon Bonaparte",
+        "prompt on “Napoleon”",
+        "The Napoleon III"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0702bb8d2514c62130a39"
+    },
+    {
+      "id": "b8b78ad2-7594-4ec0-899c-8b863b4bd218",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "This poet repeats, \"shutters shut and open so do queens\" in a poem that implores, \"Let me recite what history teaches. History teaches.\" A short poem by this author describes \"a single hurt color\" and ends, \"the difference is spreading.\" The sections \"Objects,\" \"Food,\" and \"Rooms\" make up a collection by this poet that includes \"A Carafe, That is a Blind Glass.\" A book by this author set in the town of Bridgepoint follows the titular Three Lives of Anna, Lena and Melanctha. A Tommy Orange novel takes its title from this poet's comment of her hometown, \"there is no there there.\" A remark by this author was used for the epigraph of The Sun Also Rises and coined the term \"Lost Generation.\" For 10 points, name this author of Tender Buttons and The Autobiography of Alice B. Toklas.",
+      "powerMarkPosition": 437,
+      "answer": "Stein",
+      "acceptableAnswers": [
+        "Stein",
+        "The Stein"
+      ],
+      "source": "qbreader",
+      "sourceId": "686e1e50786d3dcf273bf515"
+    },
+    {
+      "id": "9ecfb308-adab-4e28-b4d9-876cc07c344f",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "On the way to this city, a man is encouraged after being greeted by \"brothers and sisters\" at the Three Taverns. While journeying to this city, one man heals the father of Publius from dysentery and survives a snakebite while building a fire, causing spectators to think he is a god. An epistle addressed to the people of this city uses the metaphor of a wild shoot being grafted into an olive tree to illustrate the inclusion of the Gentiles into the gospel. The twelfth chapter of that epistle addressed to this city commands the readers to offer their bodies as \"living sacrifice.\" Earlier, that epistle to this city asserts that \"all things work together for good to those who love God\" and that the \"wages of sin is death.\" For 10 points, name this city that Paul travels to at the end of the Acts of the Apostles to stand trial before Nero.",
+      "powerMarkPosition": 459,
+      "answer": "Rome",
+      "acceptableAnswers": [
+        "Rome",
+        "Epistle to the Romans",
+        "The Rome"
+      ],
+      "source": "qbreader",
+      "sourceId": "631a175712170ac0a81b9981"
+    },
+    {
+      "id": "1efda6e6-b73d-4a1c-b805-4cac9958b19c",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "When a rigid object is stretched parallel to its axis of rotation, this quantity is unchanged according to the Stretch Rule. Its scalar form is proportional to the square of the radius of gyration, and it is also equal to the torque over the angular acceleration. The rotational kinetic energy equals one half times the square of the angular velocity times this quantity, which can be found via the parallel axis theorem. For 10 points, identify this rotational analog of mass with SI units of kilograms times meters squared, often symbolized capital I.",
+      "powerMarkPosition": 263,
+      "answer": "moment of inertia",
+      "acceptableAnswers": [
+        "moment of inertia",
+        "The moment of inertia"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0eee"
+    },
+    {
+      "id": "3800fa85-3136-4a27-9713-c5a5aad70e6e",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "This work is the source of the controversial line, \"Don't we have the right to take a believing wife along with us, as do the other apostles and the Lord's brothers,\" and mentions that little yeast leavens a whole batch of dough when chiding its addressees. This text notes that the author \"laid a foundation as a wise builder, and someone else is building on it.\" This text discusses the question of women wearing head-coverings in church among matters pertaining to women, and the author draws a distinction between prophesying and speaking in tongues. The fifteenth section of this text recounts those who saw Jesus after the resurrection, and this book is the source of the phrase \"through a glass, darkly.\" Containing the lines \"When I was a child, I talked like a child, I thought like a child,\" and \"Love is patient, love is kind,\" for 10 points, name this Pauline epistle addressed to a Greek city.",
+      "powerMarkPosition": 554,
+      "answer": "First Corinthians",
+      "acceptableAnswers": [
+        "First Corinthians",
+        "partial answer",
+        "The First Corinthians"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f33042333cf2cfbd44ad78"
+    },
+    {
+      "id": "a8bee522-c388-4dae-b1d6-92719556dcde",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "One chapter in this book notes that virtue begins when the process of gratitude becomes active and is entitled \"Repaying One Ten-Thousandth.\" In addition to that one and a chapter about \"The Dilemma of Virtue,\" one chapter discusses the practice of shaking a baby's head and hands to put it through the \"motions of manners,\" and is entitled \"The Child Learns.\" For ten points, identify this book which introduced the concepts of shame culture and guilt culture, in addition to purporting to explain \"Patterns of Japanese Culture,\" written by Ruth Benedict.",
+      "powerMarkPosition": 144,
+      "answer": "Chrysanthemum and the Sword",
+      "acceptableAnswers": [
+        "Chrysanthemum and the Sword",
+        "The Chrysanthemum and the Sword"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841a2b"
+    },
+    {
+      "id": "a837306f-fe83-40ae-8d16-24086d24a458",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "This empire conducted restoration projects on the Dome of the Rock and the walls of Jerusalem in the nineteenth century. Near the end of this empire, it was nicknamed a \"sick man.\" A sixteenth-century ruler of this empire known as \"the Lawgiver\" was its longest-reigning sultan. Suleiman the Magnificent ruled, for 10 points, what empire that fell in the twentieth century and was based in what is now Turkey?",
+      "powerMarkPosition": 235,
+      "answer": "Ottoman",
+      "acceptableAnswers": [
+        "Ottoman",
+        "The Ottoman"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba971d4"
+    },
+    {
+      "id": "ee5654a7-590f-433d-adff-35e417cbc02c",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "The house shown in this painting was inspired by the Dibble House in Eldon, Iowa. A red barn to the right and a green window to the left frame this painting's two central figures. One of those figures wears a colonial print apron and was modeled on the artist's sister, while the other was modeled on the artist's dentist. For 10 points, name this painting by Grant Wood that shows a woman and a pitchfork-holding man.",
+      "powerMarkPosition": 313,
+      "answer": "American Gothic",
+      "acceptableAnswers": [
+        "American Gothic",
+        "The American Gothic"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a503bb"
+    },
+    {
+      "id": "9fe234a0-5143-477f-9b91-149b2451ec1d",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "The proteins Band 3 and glycophorins are found on the surface of these cells, the latter of which make them susceptible to plasmodium. In mammals, they do not contain mitochondria and generate energy via fermentation. The old ones are filtered out by the spleen, and they contain about 65% of all iron contents in the body in the form of hemes. A genetic mutation can cause the sickle shape in - for 10 points - what cells, also called erythrocytes, whose hemoglobin gives them their distinctive color and the ability to carry oxygen?",
+      "powerMarkPosition": 217,
+      "answer": "red blood",
+      "acceptableAnswers": [
+        "red blood",
+        "erythrocytes before mentioned",
+        "accept haematids",
+        "prompt on RBC",
+        "The red blood"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0db0"
+    },
+    {
+      "id": "181fca6b-7d01-4c79-aded-0ace1b5fd0e6",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "During an early attempt to capture a major city in this conflict, Rudolf Cederström destroyed several ships while suffering no casualties. With the assistance of the Argus, Presley O'Bannon captured a battery of a port city in this conflict. During a failed attempt to destroy the opposing fleet in this conflict, the entire crew of the Intrepid was killed, including its captain Richard Somers. William Eaton, the commander at the Battle of Derna, was furious after Tobias Lear signed the peace treaty ending this war. An incident in this war saw William Bainbridge's ship, the USS Philadelphia, burned by Stephen Decatur. For 10 points, name this war that began after Thomas Jefferson refused to pay tributes to the Pasha of Tripoli.",
+      "powerMarkPosition": 403,
+      "answer": "First Barbary",
+      "acceptableAnswers": [
+        "First Barbary",
+        "First Barbary Coast War",
+        "accept Tripolitanian War before mentioned",
+        "prompt on Barbary Wars",
+        "The First Barbary"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab84f"
+    },
+    {
+      "id": "747048d7-c610-4542-af54-acebc569a532",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "This figure established the Yasa legal code. This figure defeated the Khwarezmid empire and introduced the Uyghur script to his domains. Succeeded by Ogedei in his capital of Karakorum, he conquered the Jin and Xia dynasties, later controlling the largest contiguous land area of any ruler in history. For 10 points, name this warchief who united neighboring nomadic tribes and founded the Mongol Empire.",
+      "powerMarkPosition": 136,
+      "answer": "Genghis",
+      "acceptableAnswers": [
+        "Genghis",
+        "The Genghis"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43ff6"
+    },
+    {
+      "id": "99c20581-3cd0-4bf9-9f17-d6215ea52a4c",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "In this state, US troops attempted to attack lava beds near Tule Lake in the Battle of the Stronghold, a victory for Native American chief Captain Jack in the Modoc War. Commodore Sloat became military governor of this state after claiming it for the United States; its other governors included William B. Ide and Stephen Kearny. John C. Fremont began a revolt that led to the creation of the Bear Flag Republic of this state. Thousands of people flocked to this state following the discovery of Gold in Sutter's Mill in 1849. For 10 points, name this state which contains many missions established by Junipero Serra in locations like San Diego and San Francisco.",
+      "powerMarkPosition": 305,
+      "answer": "California",
+      "acceptableAnswers": [
+        "California",
+        "The California"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b59a"
+    },
+    {
+      "id": "e6c9a06e-4755-4ab6-8bec-d4e940ca3fa5",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "One of these discusses a woman who at first refuses to open her mouth and who later falls ill after being given an injection of propyl. Another of these involved six or seven white wolves sitting on a big walnut tree outside of a window. Those episodes are \"Irma's Injection\" and \"Wolf Man,\" respectively. A book on these discusses the mechanisms of secondary elaboration and condensation, along with symbols and the title phenomena. For 10 points, identify this phenomena that, according to the activation-synthesis hypothesis, occurs during REM, and which were written about in Sigmund Freud's Interpretation of these.",
+      "powerMarkPosition": 237,
+      "answer": "dream",
+      "acceptableAnswers": [
+        "dream",
+        "The dream"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b95f"
+    },
+    {
+      "id": "ecf6b5dd-d13c-4833-9120-01ca2e73e687",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "This molecule is synthesized by TadA, whose overexpression increases xanthorrhizol resistance in E. coli. By encouraging T-cell proliferation, this molecule's pranobex is used as an antiviral. This molecule's monophosphate cyclohydrolase forms this molecule from FAICAR, where it is the first of three products to be formed in a de novo pathway that begins with the transfer of an amino group from glutamine onto PRPP. An enzyme acting on this molecule's monophosphate is inhibited by the immunosuppressant mycophenolate. This molecule consists of hypoxanthine bonded to a ribose ring and is formed by the deamination of adenosine, which is catalyzed by ADAR enzymes in A-to-[this molecule] editing. By forming two hydrogen bonds with cytosine, adenine, and uracil, this molecule contributes to the wobble effect. For 10 points, name this non-canonical nucleoside found in tRNA.",
+      "powerMarkPosition": 547,
+      "answer": "inosine",
+      "acceptableAnswers": [
+        "inosine",
+        "I",
+        "accept inosine pranobex",
+        "prompt on hypoxanthine before mentioned",
+        "The inosine"
+      ],
+      "source": "qbreader",
+      "sourceId": "67e338db63ef71fce09dfb68"
+    },
+    {
+      "id": "c4cc20be-a427-4b0a-8a92-b3f8b71ccedf",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "text": "An author from this country recalls being approached by Janet Suzman to act in a production of Othello in one essay. That author, John Kani, collaborated on a play with another author from this country, in which the title character adopts the pass book and identity of Robert Zwelinzima. At the end of another play by an author from this country, the protagonist writes an English essay about ballroom dancing as a \"world without collisions.\" A character named Morris poses as his brother Zachariah to impress a woman named Ethel Lange in a play set in this country. A servant named Sam is spit on in the face by a character who claims that \"you can't fly kites on rainy days\" named Hally in a play from this country. For 10 points, name this home country of Athol Fugard.",
+      "powerMarkPosition": 414,
+      "answer": "South Africa",
+      "acceptableAnswers": [
+        "South Africa",
+        "The South Africa"
+      ],
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa5b5"
+    },
+    {
+      "id": "4680b17b-8d12-4aec-8a07-d5b27c7319c9",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "This empire's ruler Selim the Grim was the father of a man who would go on to expel the Knights Hospitaller from Rhodes. This empire was called the \"Sick Man of Europe\" before World War I, and it repurposed the Hagia Sophia as a mosque when it conquered Constantinople in 1453. For 10 points, what empire was ruled by Suleiman the Magnificent and would eventually be mostly replaced by Turkey?",
+      "powerMarkPosition": 253,
+      "answer": "Ottoman",
+      "acceptableAnswers": [
+        "Ottoman",
+        "The Ottoman"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a50481"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "6cba0aba-cba3-49f4-87b6-0344fbdc7a3a",
+      "linkedTossupId": "3d186cfc-7dca-41ac-ad69-b51ad90ec49c",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with thyroid hormones t3 and t4.",
+          "answer": "thyroid",
+          "acceptableAnswers": [
+            "thyroid"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the thyroid in the endocrine system?",
+          "answer": "Thyroid hormones T3 and T4",
+          "acceptableAnswers": [
+            "Thyroid hormones T3 and T4"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to thyroid hormones t3 and t4.",
+          "answer": "thyroxine",
+          "acceptableAnswers": [
+            "thyroxine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "4c5ccf06-34df-4acf-93df-458b6f6f0d5e",
+      "linkedTossupId": "e75dc50b-4b9a-4476-9a92-af87d3782854",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Michael Henchard swears off alcohol after auctioning his wife and baby daughter to a sailor in this work. Eighteen years later, Henchard has assumed the titular title before his wife and daughter return.",
+          "answer": "Mayor of Casterbridge",
+          "acceptableAnswers": [
+            "Mayor of Casterbridge",
+            "The Mayor of Casterbridge"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This work takes place in Egdon Heath, and tells the story of Eustacia Vye, who some in the Heath believe is a witch, and her relationship with Clym Yeobright.",
+          "answer": "Return of the Native",
+          "acceptableAnswers": [
+            "Return of the Native",
+            "The Return of the Native"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This work profiles a Wessex stonemason, Mr. Fawley, who desires to become a scholar at Christminster.",
+          "answer": "Jude the Obscure",
+          "acceptableAnswers": [
+            "Jude the Obscure",
+            "The Jude the Obscure"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these Thomas Hardy novels, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0e7c"
+    },
+    {
+      "id": "2b0fea02-2133-49b2-8d00-e9874fb2d6c7",
+      "linkedTossupId": "3f2422dd-9c17-4f83-949c-d02539831857",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this collection in which pilgrims tell stories on a pilgrimage to the tomb of Thomas Becket.",
+          "answer": "Canterbury Tales",
+          "acceptableAnswers": [
+            "Canterbury Tales",
+            "The Canterbury Tales"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This British author wrote The Canterbury Tales and was a contemporary of Giovanni Bocaccio.",
+          "answer": "Chaucer",
+          "acceptableAnswers": [
+            "Chaucer",
+            "The Chaucer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This character in The Canterbury Tales tells a tale about Arcite and Palamon, who both fall in love with Emily upon seeing her. This character's tale follows the work's general prologue.",
+          "answer": "Knight",
+          "acceptableAnswers": [
+            "Knight",
+            "The Knight"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This collection includes tales told by the Pardoner and the Nun's Priest. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae0cc"
+    },
+    {
+      "id": "2e19bae9-9c33-4554-950d-8ec652b5fc00",
+      "linkedTossupId": "56aafea7-6d60-49d6-b6cb-f5025237144b",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this peptide hormone and neurohormone that is secreted by the posterior pituitary gland. This so-called \"love hormone\" helps induce childbirth and social bonding.",
+          "answer": "oxytocin",
+          "acceptableAnswers": [
+            "oxytocin",
+            "The oxytocin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Oxytocin causes uterine contractions in childbirth which is an example of this type of loop. This type of loop amplifies the starting signal and is usually found in the process that needs to be pushed to completion.",
+          "answer": "positive",
+          "acceptableAnswers": [
+            "positive",
+            "The positive"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Unlike positive feedback loops, negative feedback loops help maintain this concept. This concept is an organism's maintenance of a stable internal environment, despite changes in pH and body temperature.",
+          "answer": "homeostasis",
+          "acceptableAnswers": [
+            "homeostasis",
+            "The homeostasis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A 2019 Nature paper showed MDMA reopened the critical period of this hormone-dependent pathway. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eea9fb047a67fbbb305c51"
+    },
+    {
+      "id": "3dd61be4-76e9-4d4d-8663-00f5188ee54b",
+      "linkedTossupId": "9f65875a-731e-4807-8770-2b8c745d8116",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this document detailing the aggressive behavior of Count Benedetti toward Wilhelm I, named for a spa on the Lahn river.",
+          "answer": "Ems telegram",
+          "acceptableAnswers": [
+            "Ems telegram",
+            "Ems dispatch",
+            "The Ems telegram"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Ems telegram was edited by this German chancellor who later abandoned his Kulturkampf against the Catholics and was fired by Wilhelm II partly for his anti-socialist legislation.",
+          "answer": "Bismarck",
+          "acceptableAnswers": [
+            "Bismarck",
+            "The Bismarck"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bismarck almost agitated a second war with the French with the arrest of Guillaume Schnaebele near the French-German border. Schnaebele was in the employ of this French minister of war who led an authoritarian movement that almost seized power in the late 1880s.",
+          "answer": "Boulanger",
+          "acceptableAnswers": [
+            "Boulanger",
+            "The Boulanger"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Antoine Alfred, the Duke of Garmont, only wanted reassurances that Leopold of Hohenzollern-Sigmaringen would refuse the newly-vacated Spanish throne, but instead he got this. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0bd07"
+    },
+    {
+      "id": "955da975-bb7f-430d-8a76-1bd0318d4da2",
+      "linkedTossupId": "b8b78ad2-7594-4ec0-899c-8b863b4bd218",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this project permitted by the Raker Act after Secretary of the Interior Walter Fisher turned its authorization over to Congress. Gifford Pinchot supported this project, which supplied electricity to San Francisco.",
+          "answer": "Hetch Hetchy",
+          "acceptableAnswers": [
+            "Hetch Hetchy",
+            "O’Shaughnessy Dam",
+            "The Hetch Hetchy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The O'Shaughnessy Dam flooded the Hetch Hetchy Valley in Yosemite, which was later lobbied for by this naturalist and wilderness advocate who founded the Sierra Club.",
+          "answer": "Muir",
+          "acceptableAnswers": [
+            "Muir",
+            "The Muir"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 1950, this other national park was combined with the Jackson Hole National Monument; as a result, the Antiquities Act was modified to require congressional approval to proclaim national monuments in Wyoming.",
+          "answer": "Grand Teton",
+          "acceptableAnswers": [
+            "Grand Teton",
+            "The Grand Teton"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Ethan Hitchcock denied James Phelan's original application for land rights related to this project, which was completed in 1923. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31e7b"
+    },
+    {
+      "id": "2dfb72b3-cfcb-4a87-aaa8-5af96e550485",
+      "linkedTossupId": "9ecfb308-adab-4e28-b4d9-876cc07c344f",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this phenomenon, also known as a parapraxis, an infiltration of the unconscious which causes people to make careless, often sexual speech errors.",
+          "answer": "slip",
+          "acceptableAnswers": [
+            "slip",
+            "slip of the tongue",
+            "The slip"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Freud extensively analyzed parapraxes in this 1901 \"Mistake Book,\" which joins the \"Dream Book\" and the \"Joke Book\" in a trilogy of Freud works about the unconscious.",
+          "answer": "Psychopathology of Everyday Life",
+          "acceptableAnswers": [
+            "Psychopathology of Everyday Life",
+            "Zur Psychopathologie des Alltagslebens",
+            "The Psychopathology of Everyday Life"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In his General Psychopathology, this thinker came up with the novel idea that psychiatrists should evaluate symptoms based on their form, not their content. He redefined Heidegger's dasein to mean existence in the realm of science and objectivity.",
+          "answer": "Jaspers",
+          "acceptableAnswers": [
+            "Jaspers",
+            "Karl Theodor Jaspers",
+            "The Jaspers"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The theorist of this phenomenon gave an example where he misidentified the painter of the Orvieto frescoes, Signorelli, as \"Boltraffio,\" because \"Signorelli\" contains \"Signor,\" the German equivalent of \"Signor\" is \"Herr,\" \"Herr\" is the first syllable of \"Herzegovina,\" and he was having a conversation about Italian art in Herzegovina during a train trip to \"Trafoi,\" which almost sounds like \"Boltraffio.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed6a483fe041d20f4a496f"
+    },
+    {
+      "id": "03f6a598-6368-4273-b308-27be4b615e71",
+      "linkedTossupId": "1efda6e6-b73d-4a1c-b805-4cac9958b19c",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Most trees are covered in these objects, at least during the summer. These flat green structures allow the trees to \"breathe\", and during the fall they may change color.",
+          "answer": "leaves",
+          "acceptableAnswers": [
+            "leaves",
+            "a leaf",
+            "The leaves"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Trees whose leaves change color and fall off every winter are referred to by this term, which is contrasted with \"evergreen\".",
+          "answer": "deciduous",
+          "acceptableAnswers": [
+            "deciduous",
+            "The deciduous"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Many evergreen trees fall into this category of plants which bear exposed seeds, whose name comes from the Greek for \"naked seed\". They are contrasted with angiosperms.",
+          "answer": "gymnosperm",
+          "acceptableAnswers": [
+            "gymnosperm",
+            "Acrogymnospermae",
+            "The gymnosperm"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "You are the Lorax. Speak for some trees, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae0e6"
+    },
+    {
+      "id": "cce242d6-fecf-48b5-b9ff-9746051829c4",
+      "linkedTossupId": "3800fa85-3136-4a27-9713-c5a5aad70e6e",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this philosophical work that also contains a section \"Of Miracles,\" a reworking of its author's earlier Treatise of Human Nature.",
+          "answer": "Enquiry Concerning Human Understanding",
+          "acceptableAnswers": [
+            "Enquiry Concerning Human Understanding",
+            "The Enquiry Concerning Human Understanding"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Scottish empiricist wrote An Enquiry Concerning Human Understanding.",
+          "answer": "Hume",
+          "acceptableAnswers": [
+            "Hume",
+            "The Hume"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This posthumously published work of Hume's features characters such as Philo and Cleanthes and examines several arguments for the existence of God.",
+          "answer": "Dialogues Concerning Natural Religion",
+          "acceptableAnswers": [
+            "Dialogues Concerning Natural Religion",
+            "The Dialogues Concerning Natural Religion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Its final section, \"Of the Academical or Sceptical Philosophy,\" urges readers to burn books that contain neither \"abstract reasoning concerning quantity or number\" nor \"experimental reasoning concerning matter of fact and existence.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a4560809"
+    },
+    {
+      "id": "0247377b-debe-4bb9-9ca6-0469229d4d87",
+      "linkedTossupId": "a8bee522-c388-4dae-b1d6-92719556dcde",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this system, which has a name meaning \"wind-water\" and is based upon architecture with auspicious flow of qì.",
+          "answer": "fēng",
+          "acceptableAnswers": [
+            "fēng",
+            "The fēng"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Techniques of qìgōng, which employs meditative movements and breathing, are employed in this slow martial art.",
+          "answer": "T'ai",
+          "acceptableAnswers": [
+            "T'ai",
+            "Tàijí quán",
+            "The T'ai"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Understanding and manipulating the flow of qì is also essential to this discipline, traditional examples of which include moxibustion and acupuncture. Some alternative forms of this discipline employ crystals.",
+          "answer": "medicine",
+          "acceptableAnswers": [
+            "medicine",
+            "healing",
+            "The medicine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A luópăn, or geometric compass, is used to assess the direction that a structure should face under this system. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b0f51"
+    },
+    {
+      "id": "b22a06cf-c9c5-4778-8e91-7f5077a210fe",
+      "linkedTossupId": "a837306f-fe83-40ae-8d16-24086d24a458",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this South American country where Pablo Escobar's cartel once earned Medellin the title of \"most violent city on Earth.\"",
+          "answer": "Colombia",
+          "acceptableAnswers": [
+            "Colombia",
+            "The Colombia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Escobar's cartel dominated the trade in this illegal drug, processed from leaves grown in Colombian valleys.",
+          "answer": "cocaine",
+          "acceptableAnswers": [
+            "cocaine",
+            "The cocaine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 2012, FARC ended this controversial practice, which it used to create political pressure and generate income. Ingrid Betancourt was notably subjected to this practice.",
+          "answer": "kidnapping",
+          "acceptableAnswers": [
+            "kidnapping",
+            "The kidnapping"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Sri Sri Ravi Shankar has mediated peace talks in this country between FARC rebels and Juan Manuel Santos' government. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806eea0924256318acef2"
+    },
+    {
+      "id": "158c55cb-1f7f-4f3c-9892-5fc7eb3015ff",
+      "linkedTossupId": "ee5654a7-590f-433d-adff-35e417cbc02c",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these three primary colors.",
+          "answer": "red",
+          "acceptableAnswers": [
+            "red",
+            "answers in any order as long as all three are present",
+            "The red"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "With Theo van Doesburg, this painter founded De Stijl, an art movement which used only black, white, and the primary colors. Yellow squares represent taxis in this painter's Broadway Boogie-Woogie.",
+          "answer": "Mondrian",
+          "acceptableAnswers": [
+            "Mondrian",
+            "The Mondrian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The painter of Yellow, Red, Blue, Wassily Kandinsky, was a pioneer of this type of art. Jackson Pollock was part of a movement known as \"[this word] expressionism.\"",
+          "answer": "abstract",
+          "acceptableAnswers": [
+            "abstract",
+            "abstract expressionism",
+            "The abstract"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A series of color field paintings by Barnett Newman is titled \"Who's Afraid of [these three colors]?\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7dee7e"
+    },
+    {
+      "id": "2aefa58f-a57a-40e8-a80d-134ebfd9a4bf",
+      "linkedTossupId": "9fe234a0-5143-477f-9b91-149b2451ec1d",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this astronomical object discovered by Clyde Tombaugh that was studied by the New Horizons probe.",
+          "answer": "Pluto",
+          "acceptableAnswers": [
+            "Pluto",
+            "The Pluto"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other dwarf planet is the largest object in the asteroid belt. This object, along with Vesta, was visited by the Dawn probe.",
+          "answer": "Ceres",
+          "acceptableAnswers": [
+            "Ceres",
+            "The Ceres"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Both New Horizons and Dawn were launched by this American space agency.",
+          "answer": "NASA",
+          "acceptableAnswers": [
+            "NASA",
+            "National Aeronautics and Space Administration",
+            "The NASA"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In 2006, this object was labeled a \"dwarf planet\" by the International Astronomical Union. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9d15"
+    },
+    {
+      "id": "6874dad8-efae-4f96-a4b1-2bead8d5b308",
+      "linkedTossupId": "181fca6b-7d01-4c79-aded-0ace1b5fd0e6",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The Great Cat Massacre was perpetrated by apprentice printers in the 1730s on the Rue Saint-Severin in this capital city, where Diderot's Encyclopédie was published.",
+          "answer": "Paris",
+          "acceptableAnswers": [
+            "Paris",
+            "The Paris"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Great Cat Massacre is considered a work in the history of mentalities, an offshoot of this school of historiography. This primarily French school of historiography emphasizes sociocultural history, especially of ordinary people, over the study of \"great\" men.",
+          "answer": "Annales",
+          "acceptableAnswers": [
+            "Annales",
+            "The Annales"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Great Cat Massacre is also an example of this type of history, which Fernand Braudel criticized for being too focused on events. A work in this genre of historiography examines the life of the sixteenth-century Italian miller Menocchio.",
+          "answer": "microhistory",
+          "acceptableAnswers": [
+            "microhistory",
+            "episodic history",
+            "The microhistory"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The title event exemplified the \"culture of popular laughter\" by setting up farcical trials, according to Richard Darnton's historiographical book The Great Cat Massacre. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "644dff39de0b658d0841ae01"
+    },
+    {
+      "id": "c1fe2916-980a-4714-bb47-70625a0ad458",
+      "linkedTossupId": "747048d7-c610-4542-af54-acebc569a532",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Monowi is in this state, which is the only US state whose state government is unicameral. This state's legislature meets in the capital of Lincoln.",
+          "answer": "Nebraska",
+          "acceptableAnswers": [
+            "Nebraska",
+            "The Nebraska"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Elsie Eiler is the mayor and only resident of Monowi, but data collected in 2020 by this governmental procedure claimed that Monowi's population was actually two. Article One of the Constitution requires that this process take place every ten years.",
+          "answer": "Census",
+          "acceptableAnswers": [
+            "Census",
+            "The Census"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Census' official policy is to occasionally shift respondents between nearby census blocks to preserve privacy in low population areas. So, while Monowi's block is inaccurate, the data is still accurate at the level of these geographic divisions. These 435 divisions are redrawn - and possibly gerrymandered - after every census.",
+          "answer": "Congressional district",
+          "acceptableAnswers": [
+            "Congressional district",
+            "The Congressional district"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Give the following about the particularly small town of Monowi, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba971a1"
+    },
+    {
+      "id": "0cc65615-cab0-499b-a726-244ae93da0c5",
+      "linkedTossupId": "99c20581-3cd0-4bf9-9f17-d6215ea52a4c",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this document, moderated by the Fundamental Laws of the following year, which is taken to represent the end of unchecked autocracy in .",
+          "answer": "October Manifesto",
+          "acceptableAnswers": [
+            "October Manifesto",
+            "Oktyabrsky Manifest",
+            "The October Manifesto"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The October Manifesto was promulgated by this last tsar, the target of the 1905 and 1917 revolutions.",
+          "answer": "Nicholas II",
+          "acceptableAnswers": [
+            "Nicholas II",
+            "partial answer",
+            "The Nicholas II"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 1917, this member of the Socialist Revolutionary Party became prime minister following the fall of Lvov, but his disastrous June Offensive and Bolshevik scheming led to his provisional government's downfall.",
+          "answer": "Kerensky",
+          "acceptableAnswers": [
+            "Kerensky",
+            "The Kerensky"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Announced in 1905 under the influence of Sergei Witte, it guaranteed civil liberties and announced the first Duma. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a45605bf"
+    },
+    {
+      "id": "c36a10fc-23e1-42f6-90ec-d30fe564b637",
+      "linkedTossupId": "e6c9a06e-4755-4ab6-8bec-d4e940ca3fa5",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This man espoused his structuralist view that mental structures and human characteristics are constant across societies in several books, The Savage Mind and Tristes Tropiques being a few examples.",
+          "answer": "Levi-Strauss",
+          "acceptableAnswers": [
+            "Levi-Strauss",
+            "The Levi-Strauss"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This nephew of Emile Durkheim wrote extensively on the Kula Ring in his The Gift.",
+          "answer": "Mauss",
+          "acceptableAnswers": [
+            "Mauss",
+            "The Mauss"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This proponent of actor-network theory wrote Aramis, or the Love of Technology, but is probably better known for We Have Never Been Modern.",
+          "answer": "Latour",
+          "acceptableAnswers": [
+            "Latour",
+            "The Latour"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points, give some influential French anthropologists:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31873"
+    },
+    {
+      "id": "57edbd16-bb35-43fc-bb54-57fcc80189e6",
+      "linkedTossupId": "ecf6b5dd-d13c-4833-9120-01ca2e73e687",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this quantity whose \"keying\" is plotted on \"constellation diagrams\" in digital modulation. This quantity names a class of time-invariant vectors that are generalized by analytic signal representations.",
+          "answer": "phase",
+          "acceptableAnswers": [
+            "phase",
+            "phasors",
+            "phase-shift keying",
+            "The phase"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Phasors are representations of functions with this shape, since they encode the amplitude and phase of a signal. Functions with this shape are the usual terms in a Fourier series.",
+          "answer": "sinusoidal",
+          "acceptableAnswers": [
+            "sinusoidal",
+            "sine",
+            "cosine",
+            "prompt on periodic",
+            "prompt on waves",
+            "The sinusoidal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In circuit analysis, the ratio of two phasors corresponds to this complex quantity. A generalization of Ohm's law for inductors and capacitors in AC circuits states that voltage equals current times this quantity.",
+          "answer": "impedance",
+          "acceptableAnswers": [
+            "impedance",
+            "Z",
+            "The impedance"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This quantity for a modulated signal differs by a fixed amount for the two streams in I/Q data, which is derived from the narrowband assumption. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67aec9f66f064eb7c48bbd85"
+    },
+    {
+      "id": "e335b11d-b1d3-4934-b428-2653d39c9026",
+      "linkedTossupId": "c4cc20be-a427-4b0a-8a92-b3f8b71ccedf",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this author of Typhoon. He also wrote The Secret Agent and Heart of Darkness.",
+          "answer": "Conrad",
+          "acceptableAnswers": [
+            "Conrad",
+            "Józef Teodor Konrad Korzeniowski",
+            "The Conrad"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Conrad's Heart of Darkness closes with Charles Marlow lying that Mr. Kurtz's final words were his wife's name instead of this repeated two-word exclamation.",
+          "answer": "the horror",
+          "acceptableAnswers": [
+            "the horror",
+            "“the horror! the horror!”",
+            "horror"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Conrad novel is about an \"incorruptible\" man in Costaguana who stashes a load of silver on the island of Great Isabel with Martin Decoud.",
+          "answer": "Nostromo",
+          "acceptableAnswers": [
+            "Nostromo",
+            "The Nostromo"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a work by this author, the captain of the SS Nan-Shan, Captain McWhir, refused to change course to avoid the title phenomenon. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a4d585770cd7127f7daad7"
+    },
+    {
+      "id": "c7f31ce5-9e7c-4b69-8043-c43d8cae76f8",
+      "linkedTossupId": "4680b17b-8d12-4aec-8a07-d5b27c7319c9",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This is what Rurik Tsar who was known to be violent.",
+          "answer": "Ivan IV",
+          "acceptableAnswers": [
+            "Ivan IV",
+            "The Ivan IV"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The first false Dmitri claimed right to the throne during this period after the death of Boris Godunov before the establishment of the Romanov Dynasty.",
+          "answer": "Time",
+          "acceptableAnswers": [
+            "Time",
+            "The Time"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This first Romanov Tsar was the first tsar after the Time of Troubles.",
+          "answer": "Michael",
+          "acceptableAnswers": [
+            "Michael",
+            "The Michael"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This son of Vasily III established the Oprichniki and is considered the first Tsar. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced8b4"
+    }
+  ]
+}
