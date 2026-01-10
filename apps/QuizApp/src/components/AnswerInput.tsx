@@ -56,33 +56,49 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
 
   // Setup voice recognition listeners
   useEffect(() => {
+    let isMounted = true;
+
     const initVoice = async () => {
+      // On Android, the native Voice module may not be properly linked
+      // The Voice JS object exists but its native module is null
+      // This causes errors like "Cannot read property 'isSpeechAvailable' of null"
+      // We wrap everything in try-catch since errors occur inside the native calls
       try {
-        // Check if Voice is available
         const isAvailable = await Voice.isAvailable();
+        if (!isMounted) return;
+
         if (isAvailable) {
           setVoiceAvailable(true);
-
-          // Set up event listeners
           Voice.onSpeechResults = onSpeechResults;
           Voice.onSpeechError = onSpeechError;
           Voice.onSpeechEnd = onSpeechEnd;
         } else {
-          console.warn('Voice recognition not available on this device');
           setVoiceAvailable(false);
         }
-      } catch (error) {
-        console.warn('Failed to initialize voice recognition:', error);
-        setVoiceAvailable(false);
+      } catch {
+        // Native module not available - this is expected on some Android devices
+        // or when the native module isn't properly linked
+        if (isMounted) {
+          setVoiceAvailable(false);
+        }
       }
     };
 
     initVoice();
 
     return () => {
-      Voice.destroy().then(Voice.removeAllListeners).catch((error) => {
-        console.warn('Failed to cleanup voice recognition:', error);
-      });
+      isMounted = false;
+      // Clean up Voice recognition on unmount
+      try {
+        Voice.onSpeechResults = undefined;
+        Voice.onSpeechError = undefined;
+        Voice.onSpeechEnd = undefined;
+        Voice.onSpeechStart = undefined;
+        Voice.onSpeechPartialResults = undefined;
+        Voice.destroy().catch(() => {});
+      } catch {
+        // Ignore cleanup errors
+      }
     };
   }, []);
 

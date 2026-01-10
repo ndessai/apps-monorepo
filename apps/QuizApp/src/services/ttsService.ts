@@ -21,6 +21,10 @@ let currentProgressCallback: TTSProgressCallback | null = null;
 let currentFinishCallback: TTSFinishCallback | null = null;
 let currentText = '';
 let startTime = 0;
+// Track if we're receiving native progress events (Android provides these, iOS doesn't)
+let receivingNativeProgress = false;
+// Track the last reported char index to prevent flicker from out-of-order updates
+let lastReportedCharIndex = 0;
 
 /**
  * Initialize TTS engine
@@ -111,6 +115,9 @@ export async function speakText(
     currentProgressCallback = onProgress || null;
     currentFinishCallback = onFinish || null;
     startTime = Date.now();
+    // Reset native progress tracking for new speech
+    receivingNativeProgress = false;
+    lastReportedCharIndex = 0;
 
     isSpeaking = true;
     await Tts.speak(text);
@@ -255,8 +262,15 @@ function handleTTSFinish(_event: any): void {
   console.log('TTS finished');
   isSpeaking = false;
 
-  // Ensure text is fully revealed
+  // Clear progress interval first
+  if (progressInterval) {
+    clearInterval(progressInterval);
+    progressInterval = null;
+  }
+
+  // Ensure text is fully revealed (bypass lastReportedCharIndex check)
   if (currentProgressCallback && currentText) {
+    lastReportedCharIndex = currentText.length;
     currentProgressCallback(currentText.length);
   }
 
@@ -265,14 +279,10 @@ function handleTTSFinish(_event: any): void {
     currentFinishCallback();
   }
 
+  // Reset state
   currentProgressCallback = null;
   currentFinishCallback = null;
-
-  // Clear progress interval
-  if (progressInterval) {
-    clearInterval(progressInterval);
-    progressInterval = null;
-  }
+  receivingNativeProgress = false;
 }
 
 function handleTTSCancel(_event: any): void {
@@ -285,19 +295,44 @@ function handleTTSProgress(event: any): void {
   // Android provides 'start' and 'end' properties from onRangeStart callback
   // iOS does not provide progress events with character positions
   if (event && event.start !== undefined) {
-    // Android: use the 'start' property which contains the character position
-    currentProgressCallback?.(event.start);
+    // Mark that we're receiving native progress events (Android)
+    // This disables the interval-based fallback to prevent conflicts
+    receivingNativeProgress = true;
+
+    // Stop the interval-based tracking since Android provides native progress
+    if (progressInterval) {
+      clearInterval(progressInterval);
+      progressInterval = null;
+    }
+
+    // Only update if the new position is ahead of the last reported position
+    // This prevents flicker from out-of-order events
+    const charIndex = event.start;
+    if (charIndex >= lastReportedCharIndex) {
+      lastReportedCharIndex = charIndex;
+      currentProgressCallback?.(charIndex);
+    }
   } else if (event && event.offset !== undefined) {
     // Fallback for any platform that might use 'offset'
-    currentProgressCallback?.(event.offset);
+    receivingNativeProgress = true;
+    if (progressInterval) {
+      clearInterval(progressInterval);
+      progressInterval = null;
+    }
+    const charIndex = event.offset;
+    if (charIndex >= lastReportedCharIndex) {
+      lastReportedCharIndex = charIndex;
+      currentProgressCallback?.(charIndex);
+    }
   }
 }
 
 /**
  * Start progress tracking with interval
  * Provides smooth character-by-character updates
+ * Only used as fallback when native progress events aren't available (iOS)
  */
-let progressInterval: NodeJS.Timeout | null = null;
+let progressInterval: ReturnType<typeof setInterval> | null = null;
 
 function startProgressTracking(): void {
   if (progressInterval) {
@@ -305,7 +340,8 @@ function startProgressTracking(): void {
   }
 
   progressInterval = setInterval(() => {
-    if (!isSpeaking || !currentProgressCallback) {
+    // Stop if not speaking, no callback, or if Android native progress is active
+    if (!isSpeaking || !currentProgressCallback || receivingNativeProgress) {
       if (progressInterval) {
         clearInterval(progressInterval);
         progressInterval = null;
@@ -315,6 +351,11 @@ function startProgressTracking(): void {
 
     const elapsed = Date.now() - startTime;
     const charIndex = calculateCharPosition(elapsed, currentText);
-    currentProgressCallback(charIndex);
+
+    // Only update if moving forward to prevent flicker
+    if (charIndex >= lastReportedCharIndex) {
+      lastReportedCharIndex = charIndex;
+      currentProgressCallback(charIndex);
+    }
   }, 50); // Update every 50ms for smoother text reveal
 }
