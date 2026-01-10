@@ -37,6 +37,8 @@ export interface QuizSettingsData {
   answerTimeMs: number; // 1000-10000ms (deprecated, kept for compatibility)
   tossupAnswerTimeMs: number; // 1000-10000ms - Answer time for tossup questions
   bonusAnswerTimeMs: number; // 1000-10000ms - Answer time for bonus questions
+  tossupReviewTimeMs: number; // 1000-10000ms - Review time after tossup answer
+  bonusReviewTimeMs: number; // 1000-10000ms - Review time after bonus answer
   microphoneEnabled: boolean; // Whether mic is auto-enabled when answering
   autoSubmitOnSilence: boolean; // Whether to auto-submit after silence when speaking
   autoSubmitSilenceMs: number; // 500-3000ms - Silence duration before auto-submit
@@ -49,6 +51,8 @@ export const DEFAULT_QUIZ_SETTINGS: QuizSettingsData = {
   answerTimeMs: 3000,
   tossupAnswerTimeMs: 8000, // 8 seconds for tossup answers
   bonusAnswerTimeMs: 5000, // 5 seconds for bonus answers
+  tossupReviewTimeMs: 3000, // 3 seconds to review tossup answer
+  bonusReviewTimeMs: 2000, // 2 seconds to review bonus answer
   microphoneEnabled: true, // Microphone enabled by default
   autoSubmitOnSilence: true, // Auto-submit spoken answers by default
   autoSubmitSilenceMs: 1500, // 1.5 seconds of silence before auto-submit

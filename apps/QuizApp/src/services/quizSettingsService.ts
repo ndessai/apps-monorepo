@@ -10,6 +10,8 @@ const DEFAULT_SETTINGS: QuizSettingsData = {
   answerTimeMs: 3000,
   tossupAnswerTimeMs: 8000,
   bonusAnswerTimeMs: 5000,
+  tossupReviewTimeMs: 3000,
+  bonusReviewTimeMs: 2000,
   microphoneEnabled: true,
   autoSubmitOnSilence: true,
   autoSubmitSilenceMs: 1500,
@@ -40,6 +42,8 @@ export async function getQuizSettings(
     answerTimeMs: s.answerTimeMs,
     tossupAnswerTimeMs: s.tossupAnswerTimeMs ?? DEFAULT_SETTINGS.tossupAnswerTimeMs,
     bonusAnswerTimeMs: s.bonusAnswerTimeMs ?? DEFAULT_SETTINGS.bonusAnswerTimeMs,
+    tossupReviewTimeMs: s.tossupReviewTimeMs ?? DEFAULT_SETTINGS.tossupReviewTimeMs,
+    bonusReviewTimeMs: s.bonusReviewTimeMs ?? DEFAULT_SETTINGS.bonusReviewTimeMs,
     microphoneEnabled: s.microphoneEnabled ?? DEFAULT_SETTINGS.microphoneEnabled,
     autoSubmitOnSilence: s.autoSubmitOnSilence ?? DEFAULT_SETTINGS.autoSubmitOnSilence,
     autoSubmitSilenceMs: s.autoSubmitSilenceMs ?? DEFAULT_SETTINGS.autoSubmitSilenceMs,
@@ -74,6 +78,8 @@ export async function updateQuizSettings(
         s.answerTimeMs = merged.answerTimeMs;
         s.tossupAnswerTimeMs = merged.tossupAnswerTimeMs;
         s.bonusAnswerTimeMs = merged.bonusAnswerTimeMs;
+        s.tossupReviewTimeMs = merged.tossupReviewTimeMs;
+        s.bonusReviewTimeMs = merged.bonusReviewTimeMs;
         s.microphoneEnabled = merged.microphoneEnabled;
         s.autoSubmitOnSilence = merged.autoSubmitOnSilence;
         s.autoSubmitSilenceMs = merged.autoSubmitSilenceMs;
@@ -97,6 +103,12 @@ export async function updateQuizSettings(
         if (newSettings.bonusAnswerTimeMs !== undefined) {
           s.bonusAnswerTimeMs = newSettings.bonusAnswerTimeMs;
         }
+        if (newSettings.tossupReviewTimeMs !== undefined) {
+          s.tossupReviewTimeMs = newSettings.tossupReviewTimeMs;
+        }
+        if (newSettings.bonusReviewTimeMs !== undefined) {
+          s.bonusReviewTimeMs = newSettings.bonusReviewTimeMs;
+        }
         if (newSettings.microphoneEnabled !== undefined) {
           s.microphoneEnabled = newSettings.microphoneEnabled;
         }
@@ -118,6 +130,8 @@ export async function updateQuizSettings(
         answerTimeMs: newSettings.answerTimeMs ?? existing.answerTimeMs,
         tossupAnswerTimeMs: newSettings.tossupAnswerTimeMs ?? existing.tossupAnswerTimeMs ?? DEFAULT_SETTINGS.tossupAnswerTimeMs,
         bonusAnswerTimeMs: newSettings.bonusAnswerTimeMs ?? existing.bonusAnswerTimeMs ?? DEFAULT_SETTINGS.bonusAnswerTimeMs,
+        tossupReviewTimeMs: newSettings.tossupReviewTimeMs ?? existing.tossupReviewTimeMs ?? DEFAULT_SETTINGS.tossupReviewTimeMs,
+        bonusReviewTimeMs: newSettings.bonusReviewTimeMs ?? existing.bonusReviewTimeMs ?? DEFAULT_SETTINGS.bonusReviewTimeMs,
         microphoneEnabled: newSettings.microphoneEnabled ?? existing.microphoneEnabled ?? DEFAULT_SETTINGS.microphoneEnabled,
         autoSubmitOnSilence: newSettings.autoSubmitOnSilence ?? existing.autoSubmitOnSilence ?? DEFAULT_SETTINGS.autoSubmitOnSilence,
         autoSubmitSilenceMs: newSettings.autoSubmitSilenceMs ?? existing.autoSubmitSilenceMs ?? DEFAULT_SETTINGS.autoSubmitSilenceMs,
@@ -151,6 +165,8 @@ export async function resetQuizSettings(
         s.answerTimeMs = DEFAULT_SETTINGS.answerTimeMs;
         s.tossupAnswerTimeMs = DEFAULT_SETTINGS.tossupAnswerTimeMs;
         s.bonusAnswerTimeMs = DEFAULT_SETTINGS.bonusAnswerTimeMs;
+        s.tossupReviewTimeMs = DEFAULT_SETTINGS.tossupReviewTimeMs;
+        s.bonusReviewTimeMs = DEFAULT_SETTINGS.bonusReviewTimeMs;
         s.microphoneEnabled = DEFAULT_SETTINGS.microphoneEnabled;
         s.autoSubmitOnSilence = DEFAULT_SETTINGS.autoSubmitOnSilence;
         s.autoSubmitSilenceMs = DEFAULT_SETTINGS.autoSubmitSilenceMs;
@@ -164,6 +180,8 @@ export async function resetQuizSettings(
         s.answerTimeMs = DEFAULT_SETTINGS.answerTimeMs;
         s.tossupAnswerTimeMs = DEFAULT_SETTINGS.tossupAnswerTimeMs;
         s.bonusAnswerTimeMs = DEFAULT_SETTINGS.bonusAnswerTimeMs;
+        s.tossupReviewTimeMs = DEFAULT_SETTINGS.tossupReviewTimeMs;
+        s.bonusReviewTimeMs = DEFAULT_SETTINGS.bonusReviewTimeMs;
         s.microphoneEnabled = DEFAULT_SETTINGS.microphoneEnabled;
         s.autoSubmitOnSilence = DEFAULT_SETTINGS.autoSubmitOnSilence;
         s.autoSubmitSilenceMs = DEFAULT_SETTINGS.autoSubmitSilenceMs;
@@ -209,4 +227,11 @@ export function validateBonusAnswerTime(ms: number): number {
  */
 export function validateAutoSubmitSilenceTime(ms: number): number {
   return Math.max(500, Math.min(3000, ms));
+}
+
+/**
+ * Validate review time is within acceptable range
+ */
+export function validateReviewTime(ms: number): number {
+  return Math.max(1000, Math.min(10000, ms));
 }

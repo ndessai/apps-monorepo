@@ -63,6 +63,8 @@ export const QuizSetupTab: React.FC = () => {
       settings.answerTimeMs !== originalSettings.answerTimeMs ||
       settings.tossupAnswerTimeMs !== originalSettings.tossupAnswerTimeMs ||
       settings.bonusAnswerTimeMs !== originalSettings.bonusAnswerTimeMs ||
+      settings.tossupReviewTimeMs !== originalSettings.tossupReviewTimeMs ||
+      settings.bonusReviewTimeMs !== originalSettings.bonusReviewTimeMs ||
       settings.microphoneEnabled !== originalSettings.microphoneEnabled ||
       settings.autoSubmitOnSilence !== originalSettings.autoSubmitOnSilence ||
       settings.autoSubmitSilenceMs !== originalSettings.autoSubmitSilenceMs ||
@@ -415,6 +417,82 @@ export const QuizSetupTab: React.FC = () => {
             maximumTrackTintColor={themeColors.divider}
             thumbTintColor={themeColors.primary.main}
             testID="bonus-answer-time-slider"
+          />
+          <View style={styles.sliderLabels}>
+            <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatTime(MIN_TIME_MS)}</Text>
+            <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatTime(MAX_TIME_MS)}</Text>
+          </View>
+        </Card.Content>
+      </Card>
+
+      {/* Tossup Review Time */}
+      <Card style={[styles.card, { backgroundColor: themeColors.surface.default }]}>
+        <Card.Content>
+          <View style={styles.settingHeader}>
+            <Icon name="eye-check" size={24} color={themeColors.primary.main} />
+            <View style={styles.settingTitleContainer}>
+              <Text variant="titleMedium" style={[styles.settingTitle, { color: themeColors.text.primary }]}>
+                Tossup Review Time
+              </Text>
+              <Text variant="bodySmall" style={[styles.settingDescription, { color: themeColors.text.secondary }]}>
+                Time to review answer after tossup submission
+              </Text>
+            </View>
+            <Text variant="titleMedium" style={[styles.settingValue, { color: themeColors.primary.main }]}>
+              {formatTime(settings.tossupReviewTimeMs)}
+            </Text>
+          </View>
+          <Slider
+            style={styles.slider}
+            minimumValue={MIN_TIME_MS}
+            maximumValue={MAX_TIME_MS}
+            step={500}
+            value={settings.tossupReviewTimeMs}
+            onValueChange={(value: number) =>
+              setSettings((prev) => ({ ...prev, tossupReviewTimeMs: value }))
+            }
+            minimumTrackTintColor={themeColors.primary.main}
+            maximumTrackTintColor={themeColors.divider}
+            thumbTintColor={themeColors.primary.main}
+            testID="tossup-review-time-slider"
+          />
+          <View style={styles.sliderLabels}>
+            <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatTime(MIN_TIME_MS)}</Text>
+            <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatTime(MAX_TIME_MS)}</Text>
+          </View>
+        </Card.Content>
+      </Card>
+
+      {/* Bonus Review Time */}
+      <Card style={[styles.card, { backgroundColor: themeColors.surface.default }]}>
+        <Card.Content>
+          <View style={styles.settingHeader}>
+            <Icon name="eye-check-outline" size={24} color={themeColors.primary.main} />
+            <View style={styles.settingTitleContainer}>
+              <Text variant="titleMedium" style={[styles.settingTitle, { color: themeColors.text.primary }]}>
+                Bonus Review Time
+              </Text>
+              <Text variant="bodySmall" style={[styles.settingDescription, { color: themeColors.text.secondary }]}>
+                Time to review answer after each bonus part
+              </Text>
+            </View>
+            <Text variant="titleMedium" style={[styles.settingValue, { color: themeColors.primary.main }]}>
+              {formatTime(settings.bonusReviewTimeMs)}
+            </Text>
+          </View>
+          <Slider
+            style={styles.slider}
+            minimumValue={MIN_TIME_MS}
+            maximumValue={MAX_TIME_MS}
+            step={500}
+            value={settings.bonusReviewTimeMs}
+            onValueChange={(value: number) =>
+              setSettings((prev) => ({ ...prev, bonusReviewTimeMs: value }))
+            }
+            minimumTrackTintColor={themeColors.primary.main}
+            maximumTrackTintColor={themeColors.divider}
+            thumbTintColor={themeColors.primary.main}
+            testID="bonus-review-time-slider"
           />
           <View style={styles.sliderLabels}>
             <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatTime(MIN_TIME_MS)}</Text>

@@ -9,6 +9,8 @@ export class QuizSettings extends Model {
   @field('answer_time_ms') answerTimeMs!: number;
   @field('tossup_answer_time_ms') tossupAnswerTimeMs!: number;
   @field('bonus_answer_time_ms') bonusAnswerTimeMs!: number;
+  @field('tossup_review_time_ms') tossupReviewTimeMs!: number;
+  @field('bonus_review_time_ms') bonusReviewTimeMs!: number;
   @field('microphone_enabled') microphoneEnabled!: boolean;
   @field('auto_submit_on_silence') autoSubmitOnSilence!: boolean;
   @field('auto_submit_silence_ms') autoSubmitSilenceMs!: number;

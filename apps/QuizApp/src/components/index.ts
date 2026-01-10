@@ -5,6 +5,7 @@ export { TossupReader } from './TossupReader';
 export { AnswerInput } from './AnswerInput';
 export { AnswerSubmitter } from './AnswerSubmitter';
 export { AnswerBottomSheet } from './AnswerBottomSheet';
+export { AnswerFeedback } from './AnswerFeedback';
 export { ScoreDisplay } from './ScoreDisplay';
 export { ProgressIndicator } from './ProgressIndicator';
 export { TimerDisplay } from './TimerDisplay';

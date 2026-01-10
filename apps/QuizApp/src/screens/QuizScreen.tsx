@@ -25,6 +25,7 @@ import {
   BuzzButton,
   TossupReader,
   AnswerBottomSheet,
+  AnswerFeedback,
   ScoreDisplay,
   ProgressIndicator,
 } from '../components';
@@ -82,6 +83,19 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   const [bottomSheetVisible, setBottomSheetVisible] = useState(false);
   const [bottomSheetTimerState, setBottomSheetTimerState] = useState<TimerState>('idle');
   const [bottomSheetQuestionType, setBottomSheetQuestionType] = useState<QuestionType>('tossup');
+
+  // Answer feedback state
+  const [feedbackVisible, setFeedbackVisible] = useState(false);
+  const [feedbackData, setFeedbackData] = useState<{
+    isCorrect: boolean;
+    points: number;
+    userAnswer: string | null;
+    acceptableAnswers: string[];
+    questionType: QuestionType;
+  } | null>(null);
+
+  // Pending action after feedback review completes
+  const pendingActionRef = useRef<(() => void) | null>(null);
 
   // Initialize quiz
   useEffect(() => {
@@ -297,16 +311,25 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     setTossupResults([...tossupResults, result]);
     setCurrentScore(currentScore + points);
 
-    // If correct, show bonus questions
+    // Show feedback
+    setFeedbackData({
+      isCorrect,
+      points,
+      userAnswer: answer || null,
+      acceptableAnswers: question.acceptableAnswers,
+      questionType: 'tossup',
+    });
+    setFeedbackVisible(true);
+    setQuizState('review');
+
+    // Set pending action for after review completes
     if (isCorrect) {
-      showBonusQuestions(question.id);
+      pendingActionRef.current = () => showBonusQuestions(question.id);
     } else {
-      // Move to next question
-      setQuizState('review');
-      setTimeout(() => {
+      pendingActionRef.current = () => {
         setCurrentQuestionIndex(currentQuestionIndex + 1);
         setQuizState('idle');
-      }, REVIEW_DURATION);
+      };
     }
   };
 
@@ -408,9 +431,23 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
 
     setCurrentScore(currentScore + points);
 
-    // Move to next part
-    setCurrentBonusPartIndex(currentBonusPartIndex + 1);
-    startBonusPart(bonus, currentBonusPartIndex + 1);
+    // Show feedback
+    setFeedbackData({
+      isCorrect,
+      points,
+      userAnswer: answer || null,
+      acceptableAnswers: part.acceptableAnswers,
+      questionType: 'bonus',
+    });
+    setFeedbackVisible(true);
+    setQuizState('review');
+
+    // Set pending action - move to next part after review
+    const nextPartIndex = currentBonusPartIndex + 1;
+    pendingActionRef.current = () => {
+      setCurrentBonusPartIndex(nextPartIndex);
+      startBonusPart(bonus, nextPartIndex);
+    };
   };
 
   // Handle timeout (buzz window)
@@ -419,8 +456,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
 
     // No buzz, treat as incorrect with no penalty
     if (currentQuestion && 'powerMarkPosition' in currentQuestion) {
+      const question = currentQuestion as TossupQuestion;
       const result: TossupResult = {
-        question: currentQuestion as TossupQuestion,
+        question,
         userAnswer: null,
         isCorrect: false,
         wasBeforePowerMark: false,
@@ -429,14 +467,24 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       };
 
       setTossupResults([...tossupResults, result]);
-    }
 
-    // Move to next question
-    setQuizState('review');
-    setTimeout(() => {
-      setCurrentQuestionIndex(currentQuestionIndex + 1);
-      setQuizState('idle');
-    }, REVIEW_DURATION);
+      // Show feedback for timeout
+      setFeedbackData({
+        isCorrect: false,
+        points: 0,
+        userAnswer: null,
+        acceptableAnswers: question.acceptableAnswers,
+        questionType: 'tossup',
+      });
+      setFeedbackVisible(true);
+      setQuizState('review');
+
+      // Set pending action
+      pendingActionRef.current = () => {
+        setCurrentQuestionIndex(currentQuestionIndex + 1);
+        setQuizState('idle');
+      };
+    }
   };
 
   // Handle answer timeout
@@ -448,6 +496,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   // Handle bonus timeout
   const handleBonusTimeout = (bonus: BonusQuestion, partIndex: number) => {
     clearAllTimers();
+    setBottomSheetVisible(false);
+
+    const part = bonus.parts[partIndex];
 
     // Treat as incorrect (0 points)
     const result: BonusResult = {
@@ -459,9 +510,35 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
 
     setBonusResults([...bonusResults, result]);
 
-    // Move to next part
-    setCurrentBonusPartIndex(partIndex + 1);
-    startBonusPart(bonus, partIndex + 1);
+    // Show feedback for timeout
+    setFeedbackData({
+      isCorrect: false,
+      points: 0,
+      userAnswer: null,
+      acceptableAnswers: part.acceptableAnswers,
+      questionType: 'bonus',
+    });
+    setFeedbackVisible(true);
+    setQuizState('review');
+
+    // Set pending action - move to next part after review
+    const nextPartIndex = partIndex + 1;
+    pendingActionRef.current = () => {
+      setCurrentBonusPartIndex(nextPartIndex);
+      startBonusPart(bonus, nextPartIndex);
+    };
+  };
+
+  // Handle feedback review complete
+  const handleReviewComplete = () => {
+    setFeedbackVisible(false);
+    setFeedbackData(null);
+
+    // Execute pending action if any
+    if (pendingActionRef.current) {
+      pendingActionRef.current();
+      pendingActionRef.current = null;
+    }
   };
 
   // Complete quiz
@@ -574,6 +651,26 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
         autoSubmitSilenceMs={settings.autoSubmitSilenceMs}
         testID="quiz-answer-bottom-sheet"
       />
+
+      {/* Answer Feedback */}
+      {feedbackData && (
+        <AnswerFeedback
+          key={`feedback-${currentQuestionIndex}-${currentBonusPartIndex}`}
+          visible={feedbackVisible}
+          isCorrect={feedbackData.isCorrect}
+          points={feedbackData.points}
+          userAnswer={feedbackData.userAnswer}
+          acceptableAnswers={feedbackData.acceptableAnswers}
+          questionType={feedbackData.questionType}
+          reviewTimeMs={
+            feedbackData.questionType === 'tossup'
+              ? settings.tossupReviewTimeMs
+              : settings.bonusReviewTimeMs
+          }
+          onReviewComplete={handleReviewComplete}
+          testID="quiz-answer-feedback"
+        />
+      )}
     </View>
   );
 };
