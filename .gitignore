@@ -69,3 +69,6 @@ yarn-error.log*
 
 # TypeScript
 *.tsbuildinfo
+package-lock.json
+yarn.lock
+apps/QuizApp/ios/Podfile.lock

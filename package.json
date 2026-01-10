@@ -16,6 +16,7 @@
     "create-app": "node scripts/create-app.js"
   },
   "devDependencies": {
+    "jest-html-reporter": "^4.3.0",
     "patch-package": "^8.0.1",
     "postinstall-postinstall": "^2.1.0",
     "prettier": "^3.4.2",
