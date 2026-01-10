@@ -193,17 +193,23 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     });
   };
 
-  // Start buzz window (3s after question finishes)
+  // Start buzz window (countdown after question finishes)
   const startBuzzWindow = () => {
     setQuizState('buzz_window');
-    setTimeRemaining(3);
+    const buzzerSeconds = Math.ceil(settings.buzzerTimeMs / 1000);
+    setTimeRemaining(buzzerSeconds);
 
-    let remaining = 3;
+    let remaining = buzzerSeconds;
     timerRef.current = setInterval(() => {
       remaining -= 1;
       setTimeRemaining(remaining);
 
       if (remaining <= 0) {
+        // Clear timer first to prevent multiple calls
+        if (timerRef.current) {
+          clearInterval(timerRef.current);
+          timerRef.current = null;
+        }
         handleTimeout();
       }
     }, 1000);
@@ -247,6 +253,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       setTimeRemaining(remaining);
 
       if (remaining <= 0) {
+        // Clear timer first to prevent multiple calls
+        if (timerRef.current) {
+          clearInterval(timerRef.current);
+          timerRef.current = null;
+        }
         handleAnswerTimeout();
       }
     }, 1000);
@@ -390,6 +401,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
           setTimeRemaining(remaining);
 
           if (remaining <= 0) {
+            // Clear timer first to prevent multiple calls
+            if (timerRef.current) {
+              clearInterval(timerRef.current);
+              timerRef.current = null;
+            }
             handleBonusTimeout(bonus, partIndex);
           }
         }, 1000);
@@ -629,7 +645,12 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       {/* Buzz Button */}
       {(quizState === 'reading' || quizState === 'buzz_window') && (
         <View style={styles.buzzContainer}>
-          <BuzzButton onPress={handleBuzz} disabled={false} />
+          <BuzzButton
+            onPress={handleBuzz}
+            disabled={false}
+            isInBuzzWindow={quizState === 'buzz_window'}
+            countdownSeconds={quizState === 'buzz_window' ? timeRemaining : undefined}
+          />
         </View>
       )}
 
