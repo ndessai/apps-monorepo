@@ -35,9 +35,9 @@ export const TossupReader: React.FC<TossupReaderProps> = ({
     return text.substring(0, minIndex);
   }, [text, currentCharIndex]);
 
-  // Check if power mark has been revealed
-  const powerMarkRevealed = React.useMemo(() => {
-    return powerMarkPosition !== undefined && currentCharIndex >= powerMarkPosition;
+  // Check if we're still in the power zone (before the power mark)
+  const inPowerZone = React.useMemo(() => {
+    return powerMarkPosition !== undefined && currentCharIndex < powerMarkPosition;
   }, [powerMarkPosition, currentCharIndex]);
 
   // Auto-scroll to bottom as text reveals
@@ -55,7 +55,7 @@ export const TossupReader: React.FC<TossupReaderProps> = ({
           <Text variant="labelMedium" style={styles.headerText}>
             Toss-up Question
           </Text>
-          {powerMarkRevealed && (
+          {inPowerZone && (
             <View style={styles.powerMarkBadge}>
               <Icon name="star" size={14} color={colors.warning.main} />
               <Text variant="labelSmall" style={styles.powerMarkText}>
