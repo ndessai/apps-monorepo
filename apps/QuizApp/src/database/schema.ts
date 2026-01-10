@@ -87,6 +87,8 @@ export const schema = appSchema({
         { name: 'tossup_answer_time_ms', type: 'number' },
         { name: 'bonus_answer_time_ms', type: 'number' },
         { name: 'microphone_enabled', type: 'boolean' },
+        { name: 'auto_submit_on_silence', type: 'boolean' },
+        { name: 'auto_submit_silence_ms', type: 'number' },
         { name: 'difficulty', type: 'string' },
         { name: 'theme', type: 'string', isOptional: true },
         { name: 'updated_at', type: 'number' },

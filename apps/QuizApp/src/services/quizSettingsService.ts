@@ -11,6 +11,8 @@ const DEFAULT_SETTINGS: QuizSettingsData = {
   tossupAnswerTimeMs: 8000,
   bonusAnswerTimeMs: 5000,
   microphoneEnabled: true,
+  autoSubmitOnSilence: true,
+  autoSubmitSilenceMs: 1500,
   difficulty: 'varsity',
   theme: 'light',
 };
@@ -39,6 +41,8 @@ export async function getQuizSettings(
     tossupAnswerTimeMs: s.tossupAnswerTimeMs ?? DEFAULT_SETTINGS.tossupAnswerTimeMs,
     bonusAnswerTimeMs: s.bonusAnswerTimeMs ?? DEFAULT_SETTINGS.bonusAnswerTimeMs,
     microphoneEnabled: s.microphoneEnabled ?? DEFAULT_SETTINGS.microphoneEnabled,
+    autoSubmitOnSilence: s.autoSubmitOnSilence ?? DEFAULT_SETTINGS.autoSubmitOnSilence,
+    autoSubmitSilenceMs: s.autoSubmitSilenceMs ?? DEFAULT_SETTINGS.autoSubmitSilenceMs,
     difficulty: s.difficulty as NAQTDifficulty,
     theme: (s.theme as ThemeMode) || 'light',
   };
@@ -71,6 +75,8 @@ export async function updateQuizSettings(
         s.tossupAnswerTimeMs = merged.tossupAnswerTimeMs;
         s.bonusAnswerTimeMs = merged.bonusAnswerTimeMs;
         s.microphoneEnabled = merged.microphoneEnabled;
+        s.autoSubmitOnSilence = merged.autoSubmitOnSilence;
+        s.autoSubmitSilenceMs = merged.autoSubmitSilenceMs;
         s.difficulty = merged.difficulty;
         s.theme = merged.theme;
       });
@@ -94,6 +100,12 @@ export async function updateQuizSettings(
         if (newSettings.microphoneEnabled !== undefined) {
           s.microphoneEnabled = newSettings.microphoneEnabled;
         }
+        if (newSettings.autoSubmitOnSilence !== undefined) {
+          s.autoSubmitOnSilence = newSettings.autoSubmitOnSilence;
+        }
+        if (newSettings.autoSubmitSilenceMs !== undefined) {
+          s.autoSubmitSilenceMs = newSettings.autoSubmitSilenceMs;
+        }
         if (newSettings.difficulty !== undefined) {
           s.difficulty = newSettings.difficulty;
         }
@@ -107,6 +119,8 @@ export async function updateQuizSettings(
         tossupAnswerTimeMs: newSettings.tossupAnswerTimeMs ?? existing.tossupAnswerTimeMs ?? DEFAULT_SETTINGS.tossupAnswerTimeMs,
         bonusAnswerTimeMs: newSettings.bonusAnswerTimeMs ?? existing.bonusAnswerTimeMs ?? DEFAULT_SETTINGS.bonusAnswerTimeMs,
         microphoneEnabled: newSettings.microphoneEnabled ?? existing.microphoneEnabled ?? DEFAULT_SETTINGS.microphoneEnabled,
+        autoSubmitOnSilence: newSettings.autoSubmitOnSilence ?? existing.autoSubmitOnSilence ?? DEFAULT_SETTINGS.autoSubmitOnSilence,
+        autoSubmitSilenceMs: newSettings.autoSubmitSilenceMs ?? existing.autoSubmitSilenceMs ?? DEFAULT_SETTINGS.autoSubmitSilenceMs,
         difficulty: (newSettings.difficulty ?? existing.difficulty) as NAQTDifficulty,
         theme: (newSettings.theme ?? existing.theme ?? 'light') as ThemeMode,
       };
@@ -138,6 +152,8 @@ export async function resetQuizSettings(
         s.tossupAnswerTimeMs = DEFAULT_SETTINGS.tossupAnswerTimeMs;
         s.bonusAnswerTimeMs = DEFAULT_SETTINGS.bonusAnswerTimeMs;
         s.microphoneEnabled = DEFAULT_SETTINGS.microphoneEnabled;
+        s.autoSubmitOnSilence = DEFAULT_SETTINGS.autoSubmitOnSilence;
+        s.autoSubmitSilenceMs = DEFAULT_SETTINGS.autoSubmitSilenceMs;
         s.difficulty = DEFAULT_SETTINGS.difficulty;
         s.theme = DEFAULT_SETTINGS.theme;
       });
@@ -149,6 +165,8 @@ export async function resetQuizSettings(
         s.tossupAnswerTimeMs = DEFAULT_SETTINGS.tossupAnswerTimeMs;
         s.bonusAnswerTimeMs = DEFAULT_SETTINGS.bonusAnswerTimeMs;
         s.microphoneEnabled = DEFAULT_SETTINGS.microphoneEnabled;
+        s.autoSubmitOnSilence = DEFAULT_SETTINGS.autoSubmitOnSilence;
+        s.autoSubmitSilenceMs = DEFAULT_SETTINGS.autoSubmitSilenceMs;
         s.difficulty = DEFAULT_SETTINGS.difficulty;
         s.theme = DEFAULT_SETTINGS.theme;
       });
@@ -184,4 +202,11 @@ export function validateTossupAnswerTime(ms: number): number {
  */
 export function validateBonusAnswerTime(ms: number): number {
   return Math.max(1000, Math.min(10000, ms));
+}
+
+/**
+ * Validate auto-submit silence time is within acceptable range
+ */
+export function validateAutoSubmitSilenceTime(ms: number): number {
+  return Math.max(500, Math.min(3000, ms));
 }

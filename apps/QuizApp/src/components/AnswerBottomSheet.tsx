@@ -28,6 +28,8 @@ interface AnswerBottomSheetProps {
   timerState: TimerState;
   answerTimeMs: number;
   microphoneEnabledByDefault?: boolean;
+  autoSubmitOnSilence?: boolean;
+  autoSubmitSilenceMs?: number;
   testID?: string;
 }
 
@@ -39,6 +41,8 @@ export const AnswerBottomSheet: React.FC<AnswerBottomSheetProps> = ({
   timerState,
   answerTimeMs,
   microphoneEnabledByDefault = false,
+  autoSubmitOnSilence = false,
+  autoSubmitSilenceMs = 1500,
   testID = 'answer-bottom-sheet',
 }) => {
   const translateY = useRef(new Animated.Value(SHEET_HEIGHT)).current;
@@ -86,6 +90,8 @@ export const AnswerBottomSheet: React.FC<AnswerBottomSheetProps> = ({
             timerState={timerState}
             answerTimeMs={answerTimeMs}
             microphoneEnabledByDefault={microphoneEnabledByDefault}
+            autoSubmitOnSilence={autoSubmitOnSilence}
+            autoSubmitSilenceMs={autoSubmitSilenceMs}
             testID={`${testID}-submitter`}
           />
         </View>

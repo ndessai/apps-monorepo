@@ -569,6 +569,8 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
             : settings.bonusAnswerTimeMs
         }
         microphoneEnabledByDefault={settings.microphoneEnabled}
+        autoSubmitOnSilence={settings.autoSubmitOnSilence}
+        autoSubmitSilenceMs={settings.autoSubmitSilenceMs}
         testID="quiz-answer-bottom-sheet"
       />
     </View>

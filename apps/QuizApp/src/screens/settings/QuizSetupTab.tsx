@@ -16,6 +16,8 @@ import {
   NAQT_DIFFICULTY_LABELS,
   MIN_TIME_MS,
   MAX_TIME_MS,
+  MIN_SILENCE_MS,
+  MAX_SILENCE_MS,
   ThemeMode,
 } from '../../types/settings';
 
@@ -62,8 +64,14 @@ export const QuizSetupTab: React.FC = () => {
       settings.tossupAnswerTimeMs !== originalSettings.tossupAnswerTimeMs ||
       settings.bonusAnswerTimeMs !== originalSettings.bonusAnswerTimeMs ||
       settings.microphoneEnabled !== originalSettings.microphoneEnabled ||
+      settings.autoSubmitOnSilence !== originalSettings.autoSubmitOnSilence ||
+      settings.autoSubmitSilenceMs !== originalSettings.autoSubmitSilenceMs ||
       settings.difficulty !== originalSettings.difficulty
     );
+  };
+
+  const formatSilenceTime = (ms: number) => {
+    return `${(ms / 1000).toFixed(1)}s`;
   };
 
   const handleThemeChange = async (newTheme: ThemeMode) => {
@@ -201,6 +209,65 @@ export const QuizSetupTab: React.FC = () => {
               testID="microphone-enabled-toggle"
             />
           </View>
+        </Card.Content>
+      </Card>
+
+      {/* Auto-Submit on Silence */}
+      <Card style={[styles.card, { backgroundColor: themeColors.surface.default }]}>
+        <Card.Content>
+          <View style={styles.settingHeader}>
+            <Icon name="microphone-off" size={24} color={themeColors.primary.main} />
+            <View style={styles.settingTitleContainer}>
+              <Text variant="titleMedium" style={[styles.settingTitle, { color: themeColors.text.primary }]}>
+                Auto-Submit on Silence
+              </Text>
+              <Text variant="bodySmall" style={[styles.settingDescription, { color: themeColors.text.secondary }]}>
+                Submit spoken answer after silence
+              </Text>
+            </View>
+            <Switch
+              value={settings.autoSubmitOnSilence}
+              onValueChange={(value) =>
+                setSettings((prev) => ({ ...prev, autoSubmitOnSilence: value }))
+              }
+              color={themeColors.primary.main}
+              testID="auto-submit-silence-toggle"
+            />
+          </View>
+
+          {/* Silence Duration Slider - only show when auto-submit is enabled */}
+          {settings.autoSubmitOnSilence && (
+            <>
+              <View style={[styles.settingHeader, { marginTop: spacing.md }]}>
+                <View style={styles.settingTitleContainer}>
+                  <Text variant="bodyMedium" style={{ color: themeColors.text.secondary }}>
+                    Silence Duration
+                  </Text>
+                </View>
+                <Text variant="titleMedium" style={[styles.settingValue, { color: themeColors.primary.main }]}>
+                  {formatSilenceTime(settings.autoSubmitSilenceMs)}
+                </Text>
+              </View>
+              <Slider
+                style={styles.slider}
+                minimumValue={MIN_SILENCE_MS}
+                maximumValue={MAX_SILENCE_MS}
+                step={100}
+                value={settings.autoSubmitSilenceMs}
+                onValueChange={(value: number) =>
+                  setSettings((prev) => ({ ...prev, autoSubmitSilenceMs: value }))
+                }
+                minimumTrackTintColor={themeColors.primary.main}
+                maximumTrackTintColor={themeColors.divider}
+                thumbTintColor={themeColors.primary.main}
+                testID="auto-submit-silence-slider"
+              />
+              <View style={styles.sliderLabels}>
+                <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatSilenceTime(MIN_SILENCE_MS)}</Text>
+                <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatSilenceTime(MAX_SILENCE_MS)}</Text>
+              </View>
+            </>
+          )}
         </Card.Content>
       </Card>
 

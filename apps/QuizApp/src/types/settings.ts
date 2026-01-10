@@ -38,6 +38,8 @@ export interface QuizSettingsData {
   tossupAnswerTimeMs: number; // 1000-10000ms - Answer time for tossup questions
   bonusAnswerTimeMs: number; // 1000-10000ms - Answer time for bonus questions
   microphoneEnabled: boolean; // Whether mic is auto-enabled when answering
+  autoSubmitOnSilence: boolean; // Whether to auto-submit after silence when speaking
+  autoSubmitSilenceMs: number; // 500-3000ms - Silence duration before auto-submit
   difficulty: NAQTDifficulty;
   theme: ThemeMode;
 }
@@ -48,6 +50,8 @@ export const DEFAULT_QUIZ_SETTINGS: QuizSettingsData = {
   tossupAnswerTimeMs: 8000, // 8 seconds for tossup answers
   bonusAnswerTimeMs: 5000, // 5 seconds for bonus answers
   microphoneEnabled: true, // Microphone enabled by default
+  autoSubmitOnSilence: true, // Auto-submit spoken answers by default
+  autoSubmitSilenceMs: 1500, // 1.5 seconds of silence before auto-submit
   difficulty: 'varsity',
   theme: 'light',
 };
@@ -55,6 +59,11 @@ export const DEFAULT_QUIZ_SETTINGS: QuizSettingsData = {
 export const MIN_TIME_MS = 1000;
 export const MAX_TIME_MS = 10000;
 export const TIME_STEP_MS = 500;
+
+// Auto-submit silence time bounds
+export const MIN_SILENCE_MS = 500;
+export const MAX_SILENCE_MS = 3000;
+export const SILENCE_STEP_MS = 100;
 
 // Team interfaces
 export interface TeamData {

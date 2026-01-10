@@ -2,10 +2,10 @@
  * AnswerInput Component
  *
  * Text input with microphone button and Submit CTA for entering answers.
- * Supports speech-to-text for voice input.
+ * Supports speech-to-text for voice input with auto-submit on silence.
  */
 
-import React, { useEffect, useRef } from 'react';
+import React, { useEffect, useRef, useCallback } from 'react';
 import { StyleSheet, View, TextInput as RNTextInput, TouchableOpacity, Alert } from 'react-native';
 import { TextInput, Button } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
@@ -16,6 +16,8 @@ interface AnswerInputProps {
   onSubmit: (answer: string) => void;
   placeholder?: string;
   microphoneEnabledByDefault?: boolean;
+  autoSubmitOnSilence?: boolean;
+  autoSubmitSilenceMs?: number;
   testID?: string;
 }
 
@@ -23,30 +25,74 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
   onSubmit,
   placeholder = 'Enter your answer...',
   microphoneEnabledByDefault = false,
+  autoSubmitOnSilence = false,
+  autoSubmitSilenceMs = 1500,
   testID = 'answer-input',
 }) => {
   const [answer, setAnswer] = React.useState('');
   const [isListening, setIsListening] = React.useState(false);
   const [voiceAvailable, setVoiceAvailable] = React.useState(false);
+  const [hasSpeechResult, setHasSpeechResult] = React.useState(false);
   const inputRef = useRef<RNTextInput>(null);
   const hasAutoStartedRef = useRef(false);
+  const silenceTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const lastSpeechResultRef = useRef<string>('');
+  const hasAutoSubmittedRef = useRef(false);
+
+  // Clear silence timer
+  const clearSilenceTimer = useCallback(() => {
+    if (silenceTimerRef.current) {
+      clearTimeout(silenceTimerRef.current);
+      silenceTimerRef.current = null;
+    }
+  }, []);
+
+  // Start silence timer for auto-submit
+  const startSilenceTimer = useCallback(() => {
+    clearSilenceTimer();
+
+    if (!autoSubmitOnSilence || !hasSpeechResult || hasAutoSubmittedRef.current) {
+      return;
+    }
+
+    silenceTimerRef.current = setTimeout(() => {
+      // Auto-submit if we have spoken text and haven't already submitted
+      if (lastSpeechResultRef.current.trim().length > 0 && !hasAutoSubmittedRef.current) {
+        hasAutoSubmittedRef.current = true;
+        console.log('Auto-submitting after silence:', lastSpeechResultRef.current);
+        onSubmit(lastSpeechResultRef.current.trim());
+      }
+    }, autoSubmitSilenceMs);
+  }, [autoSubmitOnSilence, autoSubmitSilenceMs, hasSpeechResult, onSubmit, clearSilenceTimer]);
 
   // Define callback functions first
-  const onSpeechResults = (e: any) => {
+  const onSpeechResults = useCallback((e: any) => {
     if (e.value && e.value.length > 0) {
-      setAnswer(e.value[0]);
-    }
-  };
+      const result = e.value[0];
+      setAnswer(result);
+      lastSpeechResultRef.current = result;
+      setHasSpeechResult(true);
 
-  const onSpeechError = (e: any) => {
+      // Reset silence timer on new speech
+      clearSilenceTimer();
+    }
+  }, [clearSilenceTimer]);
+
+  const onSpeechError = useCallback((e: any) => {
     console.error('Speech recognition error:', e);
     setIsListening(false);
+    clearSilenceTimer();
     Alert.alert('Speech Recognition Error', 'Failed to recognize speech. Please try again.');
-  };
+  }, [clearSilenceTimer]);
 
-  const onSpeechEnd = () => {
+  const onSpeechEnd = useCallback(() => {
     setIsListening(false);
-  };
+
+    // Start silence timer when speech ends (if we have results)
+    if (hasSpeechResult && autoSubmitOnSilence && lastSpeechResultRef.current.trim().length > 0) {
+      startSilenceTimer();
+    }
+  }, [hasSpeechResult, autoSubmitOnSilence, startSilenceTimer]);
 
   // Auto-focus input when component mounts
   useEffect(() => {
@@ -101,6 +147,7 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
 
     return () => {
       isMounted = false;
+      clearSilenceTimer();
       // Clean up Voice recognition on unmount
       try {
         Voice.removeAllListeners();
@@ -109,11 +156,15 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
         // Ignore cleanup errors
       }
     };
-  }, [microphoneEnabledByDefault]);
+  }, [microphoneEnabledByDefault, onSpeechResults, onSpeechError, onSpeechEnd, clearSilenceTimer]);
 
   const startListeningInternal = async () => {
     try {
       setIsListening(true);
+      setHasSpeechResult(false);
+      hasAutoSubmittedRef.current = false;
+      lastSpeechResultRef.current = '';
+      clearSilenceTimer();
       await Voice.start('en-US');
     } catch (error) {
       console.error('Failed to start voice recognition:', error);
@@ -129,6 +180,10 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
 
     try {
       setIsListening(true);
+      setHasSpeechResult(false);
+      hasAutoSubmittedRef.current = false;
+      lastSpeechResultRef.current = '';
+      clearSilenceTimer();
       await Voice.start('en-US');
     } catch (error) {
       console.error('Failed to start voice recognition:', error);
@@ -157,6 +212,10 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
 
   const handleSubmit = () => {
     if (answer.trim().length > 0) {
+      // Clear silence timer and mark as submitted
+      clearSilenceTimer();
+      hasAutoSubmittedRef.current = true;
+
       // Stop listening if active before submitting
       if (isListening) {
         stopListening();

@@ -24,6 +24,8 @@ interface AnswerSubmitterProps {
   timerState: TimerState;
   answerTimeMs: number;
   microphoneEnabledByDefault?: boolean;
+  autoSubmitOnSilence?: boolean;
+  autoSubmitSilenceMs?: number;
   testID?: string;
 }
 
@@ -34,6 +36,8 @@ export const AnswerSubmitter: React.FC<AnswerSubmitterProps> = ({
   timerState,
   answerTimeMs,
   microphoneEnabledByDefault = false,
+  autoSubmitOnSilence = false,
+  autoSubmitSilenceMs = 1500,
   testID = 'answer-submitter',
 }) => {
   const [timeRemaining, setTimeRemaining] = useState(Math.ceil(answerTimeMs / 1000));
@@ -130,6 +134,8 @@ export const AnswerSubmitter: React.FC<AnswerSubmitterProps> = ({
       <AnswerInput
         onSubmit={handleSubmit}
         microphoneEnabledByDefault={microphoneEnabledByDefault}
+        autoSubmitOnSilence={autoSubmitOnSilence}
+        autoSubmitSilenceMs={autoSubmitSilenceMs}
         testID={`${testID}-input`}
       />
     </View>

@@ -10,6 +10,8 @@ export class QuizSettings extends Model {
   @field('tossup_answer_time_ms') tossupAnswerTimeMs!: number;
   @field('bonus_answer_time_ms') bonusAnswerTimeMs!: number;
   @field('microphone_enabled') microphoneEnabled!: boolean;
+  @field('auto_submit_on_silence') autoSubmitOnSilence!: boolean;
+  @field('auto_submit_silence_ms') autoSubmitSilenceMs!: number;
   @field('difficulty') difficulty!: string;
   @field('theme') theme!: string;
   @date('updated_at') updatedAt!: Date;
