@@ -104,6 +104,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   const pendingVoiceAnswerRef = useRef<string | null>(null);
   const quizStateRef = useRef<QuizState>('idle');
 
+  // Ref to track current question for use in interval callbacks (avoids stale closures)
+  const currentQuestionRef = useRef<TossupQuestion | BonusQuestion | null>(null);
+
   // Initialize quiz
   useEffect(() => {
     const initialize = async () => {
@@ -161,6 +164,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   useEffect(() => {
     quizStateRef.current = quizState;
   }, [quizState]);
+
+  // Keep currentQuestionRef in sync with currentQuestion
+  useEffect(() => {
+    currentQuestionRef.current = currentQuestion;
+  }, [currentQuestion]);
 
   // Manage audio actions based on settings and quiz state
   useEffect(() => {
@@ -572,11 +580,14 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   const handleTimeout = () => {
     clearAllTimers();
 
+    // Use ref to get current question (avoids stale closure in interval callback)
+    const question = currentQuestionRef.current;
+
     // No buzz, treat as incorrect with no penalty
-    if (currentQuestion && 'powerMarkPosition' in currentQuestion) {
-      const question = currentQuestion as TossupQuestion;
+    if (question && 'powerMarkPosition' in question) {
+      const tossupQuestion = question as TossupQuestion;
       const result: TossupResult = {
-        question,
+        question: tossupQuestion,
         userAnswer: null,
         isCorrect: false,
         wasBeforePowerMark: false,
@@ -584,22 +595,23 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
         points: 0,
       };
 
-      setTossupResults([...tossupResults, result]);
+      setTossupResults((prev) => [...prev, result]);
 
-      // Show feedback for timeout
-      setFeedbackData({
+      // Show feedback for timeout - set feedback data first, then show it
+      const feedbackInfo = {
         isCorrect: false,
         points: 0,
         userAnswer: null,
-        acceptableAnswers: question.acceptableAnswers,
-        questionType: 'tossup',
-      });
+        acceptableAnswers: tossupQuestion.acceptableAnswers,
+        questionType: 'tossup' as const,
+      };
+      setFeedbackData(feedbackInfo);
       setFeedbackVisible(true);
       setQuizState('review');
 
-      // Set pending action
+      // Set pending action using functional update to avoid stale closure
       pendingActionRef.current = () => {
-        setCurrentQuestionIndex(currentQuestionIndex + 1);
+        setCurrentQuestionIndex((prev) => prev + 1);
         setQuizState('idle');
       };
     }
@@ -791,8 +803,10 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
         />
       </View>
 
-      {/* Buzz Button */}
-      {(quizState === 'reading' || quizState === 'buzz_window') && (
+      {/* Buzz Button - only show during reading or buzz_window, hide when feedback is shown */}
+      {(quizState === 'reading' || quizState === 'buzz_window') &&
+       !feedbackVisible &&
+       !feedbackData && (
         <View style={styles.buzzContainer}>
           <BuzzButton
             onPress={handleBuzz}
