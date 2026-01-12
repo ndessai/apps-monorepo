@@ -333,6 +333,31 @@ export async function setRate(rate: number): Promise<void> {
   }
 }
 
+/**
+ * Speak a single word (fire and forget)
+ * Used by ttsWrapperService for word-by-word reading
+ * No state tracking or callbacks - just speaks the word
+ */
+export function speakWord(word: string): void {
+  if (!isInitialized) {
+    console.warn('TTS: Not initialized, skipping word');
+    return;
+  }
+
+  // Fire and forget - don't track state for individual words
+  try {
+    const result = Tts.speak(word);
+    // Handle if it returns a promise
+    if (result && typeof result === 'object' && 'catch' in result) {
+      (result as Promise<unknown>).catch(() => {
+        // Ignore errors for individual words
+      });
+    }
+  } catch {
+    // Ignore synchronous errors
+  }
+}
+
 // --- Internal functions ---
 
 function stopProgressTracking(): void {

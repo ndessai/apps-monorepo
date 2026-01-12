@@ -32,7 +32,7 @@ import {
 } from '../components';
 import type { TimerState, QuestionType } from '../components';
 import { loadQuestions } from '../services/questionService';
-import * as ttsService from '../services/ttsService';
+import * as ttsWrapper from '../services/ttsWrapperService';
 import { validateAnswer } from '../services/answerValidator';
 import {
   calculateTossupPoints,
@@ -111,17 +111,15 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   useEffect(() => {
     const initialize = async () => {
       try {
-        console.log('Initializing TTS...');
-        await ttsService.initializeTTS();
-        console.log('TTS initialized, loading questions...');
+        console.log('Initializing TTS Wrapper...');
+        await ttsWrapper.initialize();
+        console.log('TTS Wrapper initialized, loading questions...');
 
         // Load user settings
         const user = await getCurrentUser(database);
         if (user) {
           const userSettings = await getQuizSettings(database, user.userId);
           setSettings(userSettings);
-          // Set TTS reading speed from user settings
-          ttsService.setReadingSpeed(userSettings.readingSpeedWpm);
           console.log('User settings loaded:', userSettings);
         }
 
@@ -144,8 +142,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     initialize();
 
     return () => {
-      ttsService.stopSpeaking();
-      ttsService.cleanupTTS();
+      ttsWrapper.cleanup();
       clearAllTimers();
       // Stop audio actions on cleanup
       if (audioActionsActiveRef.current) {
@@ -272,10 +269,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       audioActionsService.setQuestionTextForFiltering(nextQuestion.text);
     }
 
-    // Start TTS with progress and finish callbacks
-    ttsService.speakText(
+    // Start word-by-word reading with progress and finish callbacks
+    ttsWrapper.startReading(
       nextQuestion.text,
-      (charIndex) => {
+      settings.readingSpeedWpm,
+      (charIndex: number) => {
         // Only update char index if still reading (not buzzed/answering)
         if (quizStateRef.current === 'reading') {
           setCurrentCharIndex(charIndex);
@@ -284,14 +282,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       () => {
         // Only start buzz window if still in reading state
         if (quizStateRef.current === 'reading') {
-          console.log('TTS Finished - starting buzz window');
+          console.log('TTS Wrapper Finished - starting buzz window');
           startBuzzWindow();
         }
       }
-    ).catch((error) => {
-      console.error('TTS speakText failed:', error);
-      Alert.alert('Error', 'Failed to read question. Please try again.');
-    });
+    );
   };
 
   // Start buzz window (countdown after question finishes)
@@ -321,11 +316,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     if (quizState !== 'reading' && quizState !== 'buzz_window') return;
 
     // IMMEDIATELY update the ref to stop any pending TTS callbacks
-    // This must happen BEFORE stopSpeaking() to prevent race conditions
+    // This must happen BEFORE stopReading() to prevent race conditions
     quizStateRef.current = 'buzzed';
 
     clearAllTimers();
-    ttsService.stopSpeaking();
+    ttsWrapper.stopReading();
 
     // Clear question text filter when buzzing (user is now answering, not listening to question)
     if (settings.audioActionsEnabled) {
@@ -504,10 +499,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       audioActionsService.setQuestionTextForFiltering(part.text);
     }
 
-    // Read the part with progress and finish callbacks
-    ttsService.speakText(
+    // Read the part word-by-word with progress and finish callbacks
+    ttsWrapper.startReading(
       part.text,
-      (charIndex) => {
+      settings.readingSpeedWpm,
+      (charIndex: number) => {
         // Only update char index if still in bonus state (not answering)
         if (quizStateRef.current === 'bonus') {
           setCurrentCharIndex(charIndex);
@@ -518,7 +514,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
         if (quizStateRef.current !== 'bonus') {
           return;
         }
-        console.log('Bonus TTS Finished - starting answer timer');
+        console.log('Bonus TTS Wrapper Finished - starting answer timer');
         // When TTS finishes, start countdown timer and clear filter
         setBottomSheetTimerState('counting');
 
@@ -544,10 +540,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
           }
         }, 1000);
       }
-    ).catch((error) => {
-      console.error('Bonus TTS speakText failed:', error);
-      Alert.alert('Error', 'Failed to read bonus question. Please try again.');
-    });
+    );
   };
 
   // Handle bonus answer
@@ -713,7 +706,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
           onPress: () => {
             // Stop all ongoing activities
             clearAllTimers();
-            ttsService.stopSpeaking();
+            ttsWrapper.stopReading();
             setBottomSheetVisible(false);
 
             // Stop audio actions
