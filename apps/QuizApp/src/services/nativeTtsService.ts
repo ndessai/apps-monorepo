@@ -1,20 +1,20 @@
 /**
  * Native TTS Service
  *
- * Drop-in replacement for ttsService.ts using custom native module.
- * Provides identical API surface for seamless migration.
+ * Direct interface to native text-to-speech using custom native module.
  *
- * Key improvements over react-native-tts:
- * - Direct stop() without workarounds (no speak(' ') hack)
- * - Native character-level progress events (no time-based fallback)
+ * Key features:
+ * - Direct stop() without workarounds
+ * - Native character-level progress events
  * - Proper audio session configuration
+ * - Index resets on new text or stop
  */
 
 import { NativeTTS, TTSProgressEvent, TTSEvent } from '../native/NativeTTS';
 
-// Progress callback type (matches original ttsService)
-export type TTSProgressCallback = (charIndex: number) => void;
-export type TTSFinishCallback = () => void;
+// Callback types
+export type ProgressCallback = (charIndex: number) => void;
+export type FinishCallback = () => void;
 
 // Session tracking - each speakText call gets a unique session ID
 // This prevents events from old sessions affecting new questions
@@ -25,8 +25,8 @@ let activeSessionId: number | null = null;
 let isInitialized = false;
 let isSpeaking = false;
 let isStopping = false; // Flag to ignore all events during stop sequence
-let currentProgressCallback: TTSProgressCallback | null = null;
-let currentFinishCallback: TTSFinishCallback | null = null;
+let currentProgressCallback: ProgressCallback | null = null;
+let currentFinishCallback: FinishCallback | null = null;
 let currentText = '';
 let lastReportedCharIndex = 0;
 
@@ -123,12 +123,12 @@ export function cleanupTTS(): void {
 }
 
 /**
- * Speak text with progress tracking
+ * Speak text with progress tracking (internal)
  */
-export async function speakText(
+async function speakText(
   text: string,
-  onProgress?: TTSProgressCallback,
-  onFinish?: TTSFinishCallback
+  onProgress?: ProgressCallback,
+  onFinish?: FinishCallback
 ): Promise<void> {
   // Ensure initialized
   if (!isInitialized) {
@@ -286,26 +286,60 @@ export async function setRate(rate: number): Promise<void> {
 }
 
 /**
- * Speak a chunk of text with progress tracking
- * Used by ttsWrapperService for chunk-by-chunk reading
+ * Start reading text with progress callbacks
  *
- * @param text - The chunk text to speak
- * @param onProgress - Called with character index within the chunk as speech progresses
- * @param onFinish - Called when the chunk finishes speaking
+ * @param text - Text to read
+ * @param _wpm - Words per minute (unused, TTS controls pace)
+ * @param onProgress - Called with character index as speech progresses
+ * @param onFinish - Called when speech completes naturally
  */
-export async function speakChunk(
+export function startReading(
   text: string,
-  onProgress?: TTSProgressCallback,
-  onFinish?: TTSFinishCallback
-): Promise<void> {
-  if (!isInitialized) {
-    console.warn('NativeTTS: Not initialized, skipping chunk');
-    onFinish?.();
-    return;
-  }
+  _wpm: number,
+  onProgress: ProgressCallback,
+  onFinish: FinishCallback
+): void {
+  // Reset index and start fresh
+  lastReportedCharIndex = 0;
 
-  // Use speakText which has full progress tracking
-  await speakText(text, onProgress, onFinish);
+  // Fire and forget - speakText handles everything
+  speakText(text, onProgress, onFinish).catch((error) => {
+    console.error('NativeTTS: startReading failed:', error);
+  });
+}
+
+/**
+ * Stop reading immediately
+ * Resets progress index and clears all callbacks
+ */
+export function stopReading(): void {
+  // Reset index
+  lastReportedCharIndex = 0;
+
+  // Use existing stopSpeaking which handles everything
+  stopSpeaking();
+}
+
+/**
+ * Check if currently reading
+ */
+export function isReading(): boolean {
+  return isSpeaking;
+}
+
+/**
+ * Cleanup on unmount
+ */
+export function cleanup(): void {
+  stopReading();
+}
+
+/**
+ * Initialize the TTS service
+ * Alias for initializeTTS for API compatibility
+ */
+export async function initialize(): Promise<void> {
+  await initializeTTS();
 }
 
 // --- TTS Event Handlers ---

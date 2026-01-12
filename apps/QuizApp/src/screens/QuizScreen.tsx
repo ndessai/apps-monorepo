@@ -32,7 +32,7 @@ import {
 } from '../components';
 import type { TimerState, QuestionType } from '../components';
 import { loadQuestions } from '../services/questionService';
-import * as ttsWrapper from '../services/ttsWrapperService';
+import * as tts from '../services/nativeTtsService';
 import { validateAnswer } from '../services/answerValidator';
 import {
   calculateTossupPoints,
@@ -112,7 +112,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     const initialize = async () => {
       try {
         console.log('Initializing TTS Wrapper...');
-        await ttsWrapper.initialize();
+        await tts.initialize();
         console.log('TTS Wrapper initialized, loading questions...');
 
         // Load user settings
@@ -142,7 +142,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     initialize();
 
     return () => {
-      ttsWrapper.cleanup();
+      tts.cleanup();
       clearAllTimers();
       // Stop audio actions on cleanup
       if (audioActionsActiveRef.current) {
@@ -270,7 +270,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     }
 
     // Start word-by-word reading with progress and finish callbacks
-    ttsWrapper.startReading(
+    tts.startReading(
       nextQuestion.text,
       settings.readingSpeedWpm,
       (charIndex: number) => {
@@ -320,7 +320,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     quizStateRef.current = 'buzzed';
 
     clearAllTimers();
-    ttsWrapper.stopReading();
+    tts.stopReading();
 
     // Clear question text filter when buzzing (user is now answering, not listening to question)
     if (settings.audioActionsEnabled) {
@@ -500,7 +500,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     }
 
     // Read the part word-by-word with progress and finish callbacks
-    ttsWrapper.startReading(
+    tts.startReading(
       part.text,
       settings.readingSpeedWpm,
       (charIndex: number) => {
@@ -706,7 +706,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
           onPress: () => {
             // Stop all ongoing activities
             clearAllTimers();
-            ttsWrapper.stopReading();
+            tts.stopReading();
             setBottomSheetVisible(false);
 
             // Stop audio actions
