@@ -3,175 +3,239 @@
  *
  * Wrapper around react-native-tts for quiz question reading
  * Provides word-by-word progress tracking for highlighting
+ *
+ * Key design decisions:
+ * - Uses session IDs to track which speech events belong to which question
+ * - Resets all state when starting new speech to prevent carryover
+ * - Keeps listeners registered to avoid "no listeners" warnings
+ * - Uses speak(' ') workaround on iOS since stop() has broken BOOL* parameter
  */
 
+import { Platform } from 'react-native';
 import Tts from 'react-native-tts';
 
 // TTS configuration
 const TARGET_WPM = 150; // Words per minute (NAQT standard)
-const DEFAULT_RATE = 0.5; // TTS rate to achieve ~150 WPM (adjust based on testing)
 
 // Progress callback type
 export type TTSProgressCallback = (charIndex: number) => void;
 export type TTSFinishCallback = () => void;
 
+// Session tracking - each speakText call gets a unique session ID
+// This prevents events from old sessions affecting new questions
+let currentSessionId = 0;
+let activeSessionId: number | null = null;
+
 // Current TTS state
+let isInitialized = false;
 let isSpeaking = false;
 let currentProgressCallback: TTSProgressCallback | null = null;
 let currentFinishCallback: TTSFinishCallback | null = null;
 let currentText = '';
 let startTime = 0;
-// Track if we're receiving native progress events (Android provides these, iOS doesn't)
-let receivingNativeProgress = false;
-// Track the last reported char index to prevent flicker from out-of-order updates
 let lastReportedCharIndex = 0;
+let progressInterval: ReturnType<typeof setInterval> | null = null;
+
+// Track if listeners are registered (they stay registered for app lifetime)
+let listenersRegistered = false;
+
+/**
+ * Completely reset all speech state
+ */
+function resetState(): void {
+  stopProgressTracking();
+  isSpeaking = false;
+  currentProgressCallback = null;
+  currentFinishCallback = null;
+  currentText = '';
+  startTime = 0;
+  lastReportedCharIndex = 0;
+}
 
 /**
  * Initialize TTS engine
  * Should be called when app starts
  */
 export async function initializeTTS(): Promise<void> {
+  if (isInitialized) {
+    return;
+  }
+
   try {
+    // Register listeners ONCE for the lifetime of the app
+    // They stay registered to prevent "no listeners" warnings
+    if (!listenersRegistered) {
+      Tts.addEventListener('tts-start', handleTTSStart);
+      Tts.addEventListener('tts-finish', handleTTSFinish);
+      Tts.addEventListener('tts-cancel', handleTTSCancel);
+      Tts.addEventListener('tts-progress', handleTTSProgress);
+      listenersRegistered = true;
+    }
+
     // Set default language
     try {
       await Tts.setDefaultLanguage('en-US');
     } catch (error) {
-      console.warn('Failed to set default language:', error);
+      console.warn('TTS: Failed to set language');
     }
 
-    // Set default rate to achieve ~150 WPM
-    // Note: setDefaultRate has issues on iOS simulator, so we skip it
-    // The rate can be set per-speak call if needed
-    // try {
-    //   await Tts.setDefaultRate(DEFAULT_RATE);
-    // } catch (error) {
-    //   console.warn('Failed to set default rate:', error);
-    // }
-
-    // Set default pitch
+    // Set default pitch (safe on both platforms)
     try {
       await Tts.setDefaultPitch(1.0);
     } catch (error) {
-      console.warn('Failed to set default pitch:', error);
+      console.warn('TTS: Failed to set pitch');
     }
 
-    // Get available voices and select a high-quality one
+    // Note: We skip setDefaultRate on iOS due to BOOL* parameter issue
+
+    // Try to select a high-quality voice
     try {
       const voices = await Tts.voices();
-      const enVoices = voices.filter((v) => v.language === 'en-US');
-
-      // Prefer enhanced/premium voices if available
-      const goodVoice = enVoices.find((v) =>
-        v.name.toLowerCase().includes('enhanced') ||
-        v.name.toLowerCase().includes('premium') ||
-        (v.quality && v.quality >= 300)
+      const enVoices = voices.filter((v: any) => v.language?.startsWith('en'));
+      const goodVoice = enVoices.find(
+        (v: any) =>
+          v.name?.toLowerCase().includes('enhanced') ||
+          v.name?.toLowerCase().includes('premium') ||
+          (v.quality && v.quality >= 400)
       );
-
       if (goodVoice) {
         await Tts.setDefaultVoice(goodVoice.id);
       }
     } catch (error) {
-      console.warn('Failed to set voice:', error);
+      console.warn('TTS: Failed to set voice');
     }
 
-    // Set up event listeners
-    Tts.addEventListener('tts-start', handleTTSStart);
-    Tts.addEventListener('tts-finish', handleTTSFinish);
-    Tts.addEventListener('tts-cancel', handleTTSCancel);
-    Tts.addEventListener('tts-progress', handleTTSProgress);
-
-    console.log('TTS initialized successfully');
+    isInitialized = true;
+    console.log('TTS: Initialized');
   } catch (error) {
-    console.error('Failed to initialize TTS:', error);
-    // Don't throw - allow app to continue without TTS
-    console.warn('Continuing without full TTS support');
+    console.error('TTS: Initialization failed:', error);
   }
 }
 
 /**
- * Clean up TTS listeners
- * Should be called when component unmounts
+ * Clean up TTS state
+ * Called when quiz screen unmounts
  */
 export function cleanupTTS(): void {
-  Tts.removeAllListeners('tts-start');
-  Tts.removeAllListeners('tts-finish');
-  Tts.removeAllListeners('tts-cancel');
-  Tts.removeAllListeners('tts-progress');
+  // Stop any active speech
+  stopSpeaking();
+
+  // Clear the active session so late events are ignored
+  activeSessionId = null;
+
+  // Note: We keep listeners registered to prevent warnings
 }
 
 /**
- * Speak text with word-by-word progress tracking
- * @param text Text to speak
- * @param onProgress Callback for character position updates
- * @param onFinish Callback when speech finishes
+ * Speak text with progress tracking
  */
 export async function speakText(
   text: string,
   onProgress?: TTSProgressCallback,
   onFinish?: TTSFinishCallback
 ): Promise<void> {
-  try {
-    currentText = text;
-    currentProgressCallback = onProgress || null;
-    currentFinishCallback = onFinish || null;
-    startTime = Date.now();
-    // Reset native progress tracking for new speech
-    receivingNativeProgress = false;
-    lastReportedCharIndex = 0;
+  // Ensure initialized
+  if (!isInitialized) {
+    await initializeTTS();
+  }
 
-    isSpeaking = true;
+  // Stop any ongoing speech and fully reset state
+  await stopSpeakingAsync();
+
+  // Create new session - this invalidates any pending events from previous questions
+  currentSessionId++;
+  activeSessionId = currentSessionId;
+  const sessionId = currentSessionId;
+
+  console.log(`TTS: Starting session ${sessionId}, text length: ${text.length}`);
+
+  // Set up fresh state for this question
+  currentText = text;
+  currentProgressCallback = onProgress || null;
+  currentFinishCallback = onFinish || null;
+  startTime = Date.now();
+  lastReportedCharIndex = 0;
+  isSpeaking = true;
+
+  try {
     await Tts.speak(text);
   } catch (error) {
-    console.error('Failed to speak text:', error);
-    isSpeaking = false;
+    console.error('TTS: Speak failed:', error);
+    // Only reset if this is still the active session
+    if (activeSessionId === sessionId) {
+      resetState();
+      activeSessionId = null;
+    }
     throw error;
   }
 }
 
 /**
- * Stop speaking immediately
+ * Stop speaking asynchronously (for internal use)
+ */
+async function stopSpeakingAsync(): Promise<void> {
+  // Invalidate current session first
+  const wasSession = activeSessionId;
+  activeSessionId = null;
+
+  stopProgressTracking();
+
+  // Clear callbacks
+  currentProgressCallback = null;
+  currentFinishCallback = null;
+
+  if (!isSpeaking) {
+    return;
+  }
+
+  console.log(`TTS: Stopping session ${wasSession}`);
+  isSpeaking = false;
+
+  // Actually stop the speech
+  if (Platform.OS === 'ios') {
+    try {
+      await Tts.speak(' ');
+    } catch {
+      // Ignore
+    }
+  } else {
+    try {
+      await Tts.stop();
+    } catch {
+      // Ignore
+    }
+  }
+
+  // Small delay to let the stop complete before starting new speech
+  await new Promise((resolve) => setTimeout(resolve, 50));
+}
+
+/**
+ * Stop speaking immediately (synchronous interface)
  */
 export function stopSpeaking(): void {
-  try {
-    // Clear progress interval first to stop updates
-    if (progressInterval) {
-      clearInterval(progressInterval);
-      progressInterval = null;
-    }
+  // Invalidate current session first - this ensures events are ignored
+  const wasSession = activeSessionId;
+  activeSessionId = null;
 
-    if (isSpeaking) {
-      // iOS TTS stop is unreliable, use multiple strategies
-      try {
-        // Strategy 1: Call stop without await (synchronous call)
-        Tts.stop();
-      } catch (stopError) {
-        console.warn('Stop call failed, trying pause:', stopError);
-        // Strategy 2: Try pause instead
-        try {
-          Tts.pause();
-        } catch (pauseError) {
-          console.warn('Pause failed, force stopping by speaking silence:', pauseError);
-          // Strategy 3: Interrupt with a very short silence
-          try {
-            // On iOS, rate must be between 0.0 and 1.0 (or up to 2.0 on some versions)
-            // Use maximum allowed rate to finish quickly
-            Tts.speak(' ', {
-              iosVoiceId: 'com.apple.ttsbundle.Samantha-compact',
-              rate: 1.0,
-            });
-          } catch (silenceError) {
-            console.warn('All stop strategies failed:', silenceError);
-          }
-        }
-      }
-    }
-  } catch (error) {
-    console.warn('Failed to stop TTS:', error);
-  } finally {
-    // Always clean up state regardless of stop() success
-    isSpeaking = false;
-    currentProgressCallback = null;
-    currentFinishCallback = null;
+  stopProgressTracking();
+
+  // Clear callbacks
+  currentProgressCallback = null;
+  currentFinishCallback = null;
+
+  if (!isSpeaking) {
+    return;
+  }
+
+  console.log(`TTS: Stopping session ${wasSession} (sync)`);
+  isSpeaking = false;
+
+  // Fire and forget - just try to stop
+  if (Platform.OS === 'ios') {
+    Tts.speak(' ').catch(() => {});
+  } else {
+    Tts.stop().catch(() => {});
   }
 }
 
@@ -183,14 +247,12 @@ export function getIsSpeaking(): boolean {
 }
 
 /**
- * Calculate estimated reading duration for text
- * @param text Text to analyze
- * @returns Duration in milliseconds
+ * Calculate estimated reading duration
  */
 export function calculateReadingDuration(text: string): number {
   const words = text.split(/\s+/).length;
   const minutes = words / TARGET_WPM;
-  return Math.ceil(minutes * 60 * 1000); // Convert to milliseconds
+  return Math.ceil(minutes * 60 * 1000);
 }
 
 /**
@@ -200,164 +262,163 @@ export async function getVoices(): Promise<any[]> {
   try {
     return await Tts.voices();
   } catch (error) {
-    console.error('Failed to get voices:', error);
+    console.error('TTS: Failed to get voices');
     return [];
   }
 }
 
 /**
  * Set TTS voice
- * @param voiceId Voice ID to use
  */
 export async function setVoice(voiceId: string): Promise<void> {
   try {
     await Tts.setDefaultVoice(voiceId);
   } catch (error) {
-    console.error('Failed to set voice:', error);
+    console.error('TTS: Failed to set voice');
   }
 }
 
 /**
- * Set TTS speaking rate
- * @param rate Speaking rate (0.5 = slow, 1.0 = normal, 2.0 = fast)
+ * Set TTS rate (Android only due to iOS bridge issues)
  */
 export async function setRate(rate: number): Promise<void> {
+  if (Platform.OS === 'ios') {
+    return; // Skip on iOS due to BOOL* parameter issue
+  }
   try {
     await Tts.setDefaultRate(rate);
   } catch (error) {
-    console.error('Failed to set rate:', error);
+    console.error('TTS: Failed to set rate');
   }
 }
 
-/**
- * Calculate character position from elapsed time
- * Uses a linear approximation based on actual TTS speed
- * Calibrated to match actual iOS TTS reading speed
- */
-function calculateCharPosition(elapsedMs: number, totalText: string): number {
-  if (!totalText) return 0;
+// --- Internal functions ---
 
-  // Adjust duration to match actual TTS speed
-  // Fine-tuned factor to synchronize text reveal with speech
-  const totalDuration = calculateReadingDuration(totalText);
-  const adjustedDuration = totalDuration * 0.85; // Slightly faster than estimated
-
-  const progress = Math.min(elapsedMs / adjustedDuration, 1);
-  return Math.floor(progress * totalText.length);
-}
-
-// Event handlers
-function handleTTSStart(_event: any): void {
-  console.log('TTS started');
-  isSpeaking = true;
-  startTime = Date.now();
-
-  // Start progress updates immediately
-  if (currentProgressCallback) {
-    // Give an immediate progress update to show first character
-    currentProgressCallback(1);
-    startProgressTracking();
-  }
-}
-
-function handleTTSFinish(_event: any): void {
-  console.log('TTS finished');
-  isSpeaking = false;
-
-  // Clear progress interval first
+function stopProgressTracking(): void {
   if (progressInterval) {
     clearInterval(progressInterval);
     progressInterval = null;
   }
-
-  // Ensure text is fully revealed (bypass lastReportedCharIndex check)
-  if (currentProgressCallback && currentText) {
-    lastReportedCharIndex = currentText.length;
-    currentProgressCallback(currentText.length);
-  }
-
-  // Call finish callback
-  if (currentFinishCallback) {
-    currentFinishCallback();
-  }
-
-  // Reset state
-  currentProgressCallback = null;
-  currentFinishCallback = null;
-  receivingNativeProgress = false;
 }
 
-function handleTTSCancel(_event: any): void {
-  console.log('TTS cancelled');
-  isSpeaking = false;
-  currentProgressCallback = null;
-}
-
-function handleTTSProgress(event: any): void {
-  // Android provides 'start' and 'end' properties from onRangeStart callback
-  // iOS does not provide progress events with character positions
-  if (event && event.start !== undefined) {
-    // Mark that we're receiving native progress events (Android)
-    // This disables the interval-based fallback to prevent conflicts
-    receivingNativeProgress = true;
-
-    // Stop the interval-based tracking since Android provides native progress
-    if (progressInterval) {
-      clearInterval(progressInterval);
-      progressInterval = null;
-    }
-
-    // Only update if the new position is ahead of the last reported position
-    // This prevents flicker from out-of-order events
-    const charIndex = event.start;
-    if (charIndex >= lastReportedCharIndex) {
-      lastReportedCharIndex = charIndex;
-      currentProgressCallback?.(charIndex);
-    }
-  } else if (event && event.offset !== undefined) {
-    // Fallback for any platform that might use 'offset'
-    receivingNativeProgress = true;
-    if (progressInterval) {
-      clearInterval(progressInterval);
-      progressInterval = null;
-    }
-    const charIndex = event.offset;
-    if (charIndex >= lastReportedCharIndex) {
-      lastReportedCharIndex = charIndex;
-      currentProgressCallback?.(charIndex);
-    }
-  }
-}
-
-/**
- * Start progress tracking with interval
- * Provides smooth character-by-character updates
- * Only used as fallback when native progress events aren't available (iOS)
- */
-let progressInterval: ReturnType<typeof setInterval> | null = null;
-
-function startProgressTracking(): void {
-  if (progressInterval) {
-    clearInterval(progressInterval);
-  }
+function startProgressTracking(sessionId: number): void {
+  stopProgressTracking();
 
   progressInterval = setInterval(() => {
-    // Stop if not speaking, no callback, or if Android native progress is active
-    if (!isSpeaking || !currentProgressCallback || receivingNativeProgress) {
-      if (progressInterval) {
-        clearInterval(progressInterval);
-        progressInterval = null;
-      }
+    // Stop if session changed or not speaking
+    if (activeSessionId !== sessionId || !isSpeaking || !currentProgressCallback) {
+      stopProgressTracking();
       return;
     }
 
     const elapsed = Date.now() - startTime;
     const charIndex = calculateCharPosition(elapsed, currentText);
 
-    // Only update if moving forward to prevent flicker
-    if (charIndex >= lastReportedCharIndex) {
+    if (charIndex > lastReportedCharIndex) {
       lastReportedCharIndex = charIndex;
       currentProgressCallback(charIndex);
     }
-  }, 50); // Update every 50ms for smoother text reveal
+  }, 50);
+}
+
+function calculateCharPosition(elapsedMs: number, text: string): number {
+  if (!text) return 0;
+
+  const totalDuration = calculateReadingDuration(text);
+  const adjustedDuration = totalDuration * 0.85;
+  const progress = Math.min(elapsedMs / adjustedDuration, 1);
+
+  return Math.floor(progress * text.length);
+}
+
+// --- TTS Event Handlers ---
+
+function handleTTSStart(_event: any): void {
+  // Ignore if no active session (speech was stopped)
+  if (activeSessionId === null) {
+    return;
+  }
+
+  const sessionId = activeSessionId;
+  console.log(`TTS: Session ${sessionId} started`);
+
+  isSpeaking = true;
+  startTime = Date.now();
+  lastReportedCharIndex = 0;
+
+  if (currentProgressCallback) {
+    currentProgressCallback(1);
+    startProgressTracking(sessionId);
+  }
+}
+
+function handleTTSFinish(_event: any): void {
+  // Ignore if no active session (speech was stopped or this is from old session)
+  if (activeSessionId === null) {
+    return;
+  }
+
+  const sessionId = activeSessionId;
+  console.log(`TTS: Session ${sessionId} finished`);
+
+  stopProgressTracking();
+
+  // Report full text length
+  if (currentProgressCallback && currentText) {
+    lastReportedCharIndex = currentText.length;
+    currentProgressCallback(currentText.length);
+  }
+
+  // Capture callback before clearing
+  const finishCallback = currentFinishCallback;
+
+  // Clear session and state
+  activeSessionId = null;
+  isSpeaking = false;
+  currentProgressCallback = null;
+  currentFinishCallback = null;
+
+  // Call finish callback
+  if (finishCallback) {
+    finishCallback();
+  }
+}
+
+function handleTTSCancel(_event: any): void {
+  // Ignore if no active session
+  if (activeSessionId === null) {
+    return;
+  }
+
+  console.log(`TTS: Session ${activeSessionId} cancelled`);
+
+  stopProgressTracking();
+  activeSessionId = null;
+  isSpeaking = false;
+  currentProgressCallback = null;
+  currentFinishCallback = null;
+}
+
+function handleTTSProgress(event: any): void {
+  // Ignore if no active session or no callback
+  if (activeSessionId === null || !currentProgressCallback) {
+    return;
+  }
+
+  // Get character index from event (iOS uses 'location', Android uses 'start')
+  let charIndex: number | null = null;
+
+  if (event && typeof event.location === 'number') {
+    charIndex = event.location;
+  } else if (event && typeof event.start === 'number') {
+    charIndex = event.start;
+  }
+
+  if (charIndex !== null && charIndex > lastReportedCharIndex) {
+    // Stop interval tracking since we have native events
+    stopProgressTracking();
+
+    lastReportedCharIndex = charIndex;
+    currentProgressCallback(charIndex);
+  }
 }

@@ -5,6 +5,11 @@
  * - Detects "Buzz" command during tossup questions
  * - Filters out question text from voice input to avoid interference
  * - Works alongside TTS (text-to-speech) for question reading
+ *
+ * Key design decisions:
+ * - Sets up event handlers BEFORE calling Voice.start() to prevent "no listeners" warnings
+ * - Keeps listeners registered while active to avoid race conditions
+ * - Uses session tracking to prevent stale events
  */
 
 import Voice from '@react-native-voice/voice';
@@ -20,6 +25,10 @@ export type AudioActionCallback = {
   onSpeechResult: (text: string) => void;
   onError?: (error: string) => void;
 };
+
+// Session tracking
+let sessionId = 0;
+let activeSessionId: number | null = null;
 
 let isListening = false;
 let currentCallback: AudioActionCallback | null = null;
@@ -86,26 +95,21 @@ function containsBuzzTrigger(text: string): boolean {
 
 /**
  * Remove question text fragments from speech result
- * This helps filter out when the microphone picks up the TTS reading the question
  */
 function filterQuestionText(speechText: string, questionText: string): string {
   if (!questionText || !isFilteringEnabled) {
     return speechText;
   }
 
-  // Normalize both texts
   const normalizedSpeech = speechText.toLowerCase().trim();
   const normalizedQuestion = questionText.toLowerCase().trim();
 
-  // Split question into significant words (3+ characters)
   const questionWords = normalizedQuestion
     .split(/\s+/)
     .filter((word) => word.length >= 3);
 
-  // Split speech into words
   const speechWords = normalizedSpeech.split(/\s+/);
 
-  // Count how many speech words match question words
   let matchCount = 0;
   for (const speechWord of speechWords) {
     for (const questionWord of questionWords) {
@@ -119,13 +123,9 @@ function filterQuestionText(speechText: string, questionText: string): string {
     }
   }
 
-  // If more than 50% of speech words match question words, filter it out
   const matchRatio = speechWords.length > 0 ? matchCount / speechWords.length : 0;
   if (matchRatio > 0.5) {
-    console.log(
-      '[AudioActions] Filtering out speech that matches question text:',
-      speechText
-    );
+    console.log('[AudioActions] Filtering out question echo:', speechText);
     return '';
   }
 
@@ -133,17 +133,18 @@ function filterQuestionText(speechText: string, questionText: string): string {
 }
 
 /**
- * Handle speech results from Voice recognition
+ * Handle speech results
  */
 function handleSpeechResults(e: any): void {
-  if (!currentCallback || !e.value || e.value.length === 0) {
+  // Ignore if no active session
+  if (activeSessionId === null || !currentCallback || !e.value || e.value.length === 0) {
     return;
   }
 
   const rawText = e.value[0] || '';
-  console.log('[AudioActions] Raw speech result:', rawText);
+  console.log('[AudioActions] Speech result:', rawText);
 
-  // Check for buzz command first (always check, even during filtering)
+  // Check for buzz command first
   if (containsBuzzTrigger(rawText)) {
     console.log('[AudioActions] Buzz detected!');
     currentCallback.onBuzzDetected();
@@ -162,23 +163,22 @@ function handleSpeechResults(e: any): void {
  * Handle speech errors
  */
 function handleSpeechError(e: any): void {
+  // Ignore if no active session
+  if (activeSessionId === null) {
+    return;
+  }
+
   console.error('[AudioActions] Speech error:', e);
 
-  // Some errors are recoverable - try to restart listening
+  // Some errors are recoverable
   if (isListening) {
-    // Error codes that indicate we should restart
-    const recoverableErrors = [
-      'recognition_fail',
-      'network',
-      'no_match',
-      'speech_timeout',
-    ];
-
+    const recoverableErrors = ['recognition_fail', 'network', 'no_match', 'speech_timeout'];
     const errorCode = e.error?.code || '';
+
     if (recoverableErrors.some((code) => errorCode.includes(code))) {
-      console.log('[AudioActions] Attempting to restart after recoverable error');
+      console.log('[AudioActions] Attempting restart after error');
       setTimeout(() => {
-        if (isListening) {
+        if (isListening && activeSessionId !== null) {
           restartListening();
         }
       }, 500);
@@ -192,37 +192,69 @@ function handleSpeechError(e: any): void {
 }
 
 /**
- * Handle speech end - restart if we're in continuous mode
+ * Handle speech end - restart if in continuous mode
  */
 function handleSpeechEnd(): void {
+  // Ignore if no active session
+  if (activeSessionId === null) {
+    return;
+  }
+
   console.log('[AudioActions] Speech ended');
 
-  // Restart listening if we're still in listening mode
   if (isListening) {
     restartListening();
   }
 }
 
 /**
- * Restart listening after a brief delay
+ * Handle speech start
+ */
+function handleSpeechStart(_e: any): void {
+  // Ignore if no active session
+  if (activeSessionId === null) {
+    return;
+  }
+  console.log('[AudioActions] Speech started');
+}
+
+/**
+ * Restart listening
  */
 async function restartListening(): Promise<void> {
+  if (activeSessionId === null) {
+    return;
+  }
+
   try {
     await Voice.stop();
   } catch {
-    // Ignore stop errors
+    // Ignore
+  }
+
+  try {
+    await Voice.destroy();
+  } catch {
+    // Ignore
   }
 
   setTimeout(async () => {
-    if (isListening) {
+    if (isListening && activeSessionId !== null) {
       try {
+        // Re-register handlers before starting
+        Voice.onSpeechStart = handleSpeechStart;
+        Voice.onSpeechResults = handleSpeechResults;
+        Voice.onSpeechError = handleSpeechError;
+        Voice.onSpeechEnd = handleSpeechEnd;
+
         await Voice.start('en-US');
         console.log('[AudioActions] Restarted listening');
       } catch (error) {
-        console.error('[AudioActions] Failed to restart listening:', error);
+        console.error('[AudioActions] Failed to restart:', error);
+        // Don't retry immediately to avoid loops
       }
     }
-  }, 100);
+  }, 150);
 }
 
 /**
@@ -232,26 +264,54 @@ export async function startAudioActions(
   callback: AudioActionCallback
 ): Promise<boolean> {
   try {
+    // If already listening, just update the callback and return
+    if (isListening && activeSessionId !== null) {
+      console.log('[AudioActions] Already listening, updating callback');
+      currentCallback = callback;
+      return true;
+    }
+
     const isAvailable = await Voice.isAvailable();
     if (!isAvailable) {
       console.warn('[AudioActions] Voice recognition not available');
       return false;
     }
 
-    // Set up callbacks
+    // Stop any existing session first to avoid "already started" error
+    try {
+      await Voice.stop();
+      await Voice.destroy();
+    } catch {
+      // Ignore - may not be running
+    }
+
+    // Create new session
+    sessionId++;
+    activeSessionId = sessionId;
     currentCallback = callback;
+
+    console.log(`[AudioActions] Starting session ${sessionId}`);
+
+    // Set up event handlers BEFORE starting - this prevents "no listeners" warnings
+    Voice.onSpeechStart = handleSpeechStart;
     Voice.onSpeechResults = handleSpeechResults;
     Voice.onSpeechError = handleSpeechError;
     Voice.onSpeechEnd = handleSpeechEnd;
 
-    // Start listening
+    // Small delay to ensure handlers are registered
+    await new Promise((resolve) => setTimeout(resolve, 50));
+
+    // Now start listening
     await Voice.start('en-US');
     isListening = true;
-    console.log('[AudioActions] Started continuous listening');
 
+    console.log('[AudioActions] Started listening');
     return true;
   } catch (error) {
     console.error('[AudioActions] Failed to start:', error);
+    activeSessionId = null;
+    currentCallback = null;
+    isListening = false;
     return false;
   }
 }
@@ -260,61 +320,71 @@ export async function startAudioActions(
  * Stop listening for voice commands
  */
 export async function stopAudioActions(): Promise<void> {
+  const wasSession = activeSessionId;
+
+  // Invalidate session first
+  activeSessionId = null;
   isListening = false;
   currentCallback = null;
   currentQuestionText = '';
   isFilteringEnabled = false;
 
+  console.log(`[AudioActions] Stopping session ${wasSession}`);
+
   try {
     await Voice.stop();
-    await Voice.destroy();
-    Voice.removeAllListeners();
-    console.log('[AudioActions] Stopped listening');
-  } catch (error) {
-    console.error('[AudioActions] Error stopping:', error);
+  } catch {
+    // Ignore
   }
+
+  try {
+    await Voice.destroy();
+  } catch {
+    // Ignore
+  }
+
+  // Clear handlers
+  Voice.onSpeechStart = undefined;
+  Voice.onSpeechResults = undefined;
+  Voice.onSpeechError = undefined;
+  Voice.onSpeechEnd = undefined;
+
+  console.log('[AudioActions] Stopped');
 }
 
 /**
  * Set the current question text for filtering
- * Call this when a new question starts being read
  */
 export function setQuestionTextForFiltering(questionText: string): void {
   currentQuestionText = questionText;
   isFilteringEnabled = true;
-  console.log('[AudioActions] Set question text for filtering');
 }
 
 /**
  * Clear the question text filter
- * Call this when user buzzes or question reading ends
  */
 export function clearQuestionTextFilter(): void {
   currentQuestionText = '';
   isFilteringEnabled = false;
-  console.log('[AudioActions] Cleared question text filter');
 }
 
 /**
- * Check if audio actions are currently active
+ * Check if audio actions are active
  */
 export function isAudioActionsActive(): boolean {
-  return isListening;
+  return isListening && activeSessionId !== null;
 }
 
 /**
- * Pause listening temporarily (e.g., when TTS is speaking)
- * This keeps the service active but ignores results
+ * Pause listening (enable filtering)
  */
 export function pauseListening(): void {
   isFilteringEnabled = true;
-  console.log('[AudioActions] Paused (filtering enabled)');
 }
 
 /**
- * Resume listening after pause
+ * Resume listening (disable filtering)
  */
 export function resumeListening(): void {
   isFilteringEnabled = false;
-  console.log('[AudioActions] Resumed (filtering disabled)');
 }

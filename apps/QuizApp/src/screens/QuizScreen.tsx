@@ -322,14 +322,19 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       audioActionsService.clearQuestionTextFilter();
     }
 
+    // Capture the current char index at buzz time for power mark calculation
+    const buzzedAtCharIndex = currentCharIndex;
+
     // Check if buzzed before power mark
     if (currentQuestion && 'powerMarkPosition' in currentQuestion) {
       const powerPos = currentQuestion.powerMarkPosition;
-      setWasBeforePowerMark(currentCharIndex < powerPos);
+      setWasBeforePowerMark(buzzedAtCharIndex < powerPos);
     }
 
-    // Keep text revealed only up to the current position
-    // currentCharIndex remains at its current value (where user buzzed)
+    // Reveal full text after buzzing (user needs to see the whole question)
+    if (currentQuestion && 'text' in currentQuestion) {
+      setCurrentCharIndex(currentQuestion.text.length);
+    }
 
     setQuizState('buzzed');
 
@@ -438,7 +443,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       pendingActionRef.current = () => showBonusQuestions(question.id);
     } else {
       pendingActionRef.current = () => {
-        setCurrentQuestionIndex(currentQuestionIndex + 1);
+        // Reset char index before moving to next question
+        setCurrentCharIndex(0);
+        setCurrentQuestionIndex((prev) => prev + 1);
         setQuizState('idle');
       };
     }
@@ -447,6 +454,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   // Show bonus questions
   const showBonusQuestions = (tossupId: string) => {
     if (!quizData) return;
+
+    // Reset char index for new question
+    setCurrentCharIndex(0);
 
     const bonus = quizData.bonuses.find((b) => b.linkedTossupId === tossupId);
     if (!bonus) {
@@ -571,6 +581,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     // Set pending action - move to next part after review
     const nextPartIndex = currentBonusPartIndex + 1;
     pendingActionRef.current = () => {
+      setCurrentCharIndex(0);
       setCurrentBonusPartIndex(nextPartIndex);
       startBonusPart(bonus, nextPartIndex);
     };
@@ -611,6 +622,8 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
 
       // Set pending action using functional update to avoid stale closure
       pendingActionRef.current = () => {
+        // Reset char index before moving to next question
+        setCurrentCharIndex(0);
         setCurrentQuestionIndex((prev) => prev + 1);
         setQuizState('idle');
       };
@@ -654,6 +667,8 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     // Set pending action - move to next part after review
     const nextPartIndex = partIndex + 1;
     pendingActionRef.current = () => {
+      // Reset char index for next part
+      setCurrentCharIndex(0);
       setCurrentBonusPartIndex(nextPartIndex);
       startBonusPart(bonus, nextPartIndex);
     };
