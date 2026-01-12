@@ -7,6 +7,7 @@ import com.facebook.react.ReactHost
 import com.facebook.react.ReactNativeApplicationEntryPoint.loadReactNative
 import com.facebook.react.defaults.DefaultReactHost.getDefaultReactHost
 import com.nozbe.watermelondb.jsi.WatermelonDBJSIPackage
+import com.quizapp.nativetss.NativeTTSPackage
 
 class MainApplication : Application(), ReactApplication {
 
@@ -18,6 +19,8 @@ class MainApplication : Application(), ReactApplication {
           // Packages that cannot be autolinked yet can be added manually here, for example:
           // WatermelonDB JSI for synchronous database operations
           add(WatermelonDBJSIPackage())
+          // Custom NativeTTS module for text-to-speech
+          add(NativeTTSPackage())
         },
     )
   }

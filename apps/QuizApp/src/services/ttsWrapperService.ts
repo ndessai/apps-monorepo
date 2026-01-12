@@ -11,7 +11,7 @@
  * only the current clause (if any) finishes - no continuation.
  */
 
-import * as ttsService from './ttsService';
+import * as ttsService from './nativeTtsService';
 
 // ============ Types ============
 
