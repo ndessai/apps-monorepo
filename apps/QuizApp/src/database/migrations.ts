@@ -87,5 +87,14 @@ export const migrations = schemaMigrations({
         }),
       ],
     },
+    {
+      toVersion: 4,
+      steps: [
+        addColumns({
+          table: 'quiz_settings',
+          columns: [{ name: 'reading_speed_wpm', type: 'number' }],
+        }),
+      ],
+    },
   ],
 });

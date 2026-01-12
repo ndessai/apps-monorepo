@@ -18,6 +18,9 @@ import {
   MAX_TIME_MS,
   MIN_SILENCE_MS,
   MAX_SILENCE_MS,
+  MIN_WPM,
+  MAX_WPM,
+  WPM_STEP,
   ThemeMode,
 } from '../../types/settings';
 
@@ -65,6 +68,7 @@ export const QuizSetupTab: React.FC = () => {
       settings.bonusAnswerTimeMs !== originalSettings.bonusAnswerTimeMs ||
       settings.tossupReviewTimeMs !== originalSettings.tossupReviewTimeMs ||
       settings.bonusReviewTimeMs !== originalSettings.bonusReviewTimeMs ||
+      settings.readingSpeedWpm !== originalSettings.readingSpeedWpm ||
       settings.microphoneEnabled !== originalSettings.microphoneEnabled ||
       settings.autoSubmitOnSilence !== originalSettings.autoSubmitOnSilence ||
       settings.autoSubmitSilenceMs !== originalSettings.autoSubmitSilenceMs ||
@@ -532,6 +536,44 @@ export const QuizSetupTab: React.FC = () => {
           <View style={styles.sliderLabels}>
             <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatTime(MIN_TIME_MS)}</Text>
             <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{formatTime(MAX_TIME_MS)}</Text>
+          </View>
+        </Card.Content>
+      </Card>
+
+      {/* Reading Speed (WPM) */}
+      <Card style={[styles.card, { backgroundColor: themeColors.surface.default }]}>
+        <Card.Content>
+          <View style={styles.settingHeader}>
+            <Icon name="text-to-speech" size={24} color={themeColors.primary.main} />
+            <View style={styles.settingTitleContainer}>
+              <Text variant="titleMedium" style={[styles.settingTitle, { color: themeColors.text.primary }]}>
+                Reading Speed
+              </Text>
+              <Text variant="bodySmall" style={[styles.settingDescription, { color: themeColors.text.secondary }]}>
+                Words per minute for question reading (NAQT standard: 150)
+              </Text>
+            </View>
+            <Text variant="titleMedium" style={[styles.settingValue, { color: themeColors.primary.main }]}>
+              {settings.readingSpeedWpm} WPM
+            </Text>
+          </View>
+          <Slider
+            style={styles.slider}
+            minimumValue={MIN_WPM}
+            maximumValue={MAX_WPM}
+            step={WPM_STEP}
+            value={settings.readingSpeedWpm}
+            onValueChange={(value: number) =>
+              setSettings((prev) => ({ ...prev, readingSpeedWpm: value }))
+            }
+            minimumTrackTintColor={themeColors.primary.main}
+            maximumTrackTintColor={themeColors.divider}
+            thumbTintColor={themeColors.primary.main}
+            testID="reading-speed-slider"
+          />
+          <View style={styles.sliderLabels}>
+            <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{MIN_WPM} WPM</Text>
+            <Text style={[styles.sliderLabel, { color: themeColors.text.secondary }]}>{MAX_WPM} WPM</Text>
           </View>
         </Card.Content>
       </Card>

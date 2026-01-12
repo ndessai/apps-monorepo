@@ -15,7 +15,8 @@ import { Platform } from 'react-native';
 import Tts from 'react-native-tts';
 
 // TTS configuration
-const TARGET_WPM = 150; // Words per minute (NAQT standard)
+const DEFAULT_WPM = 150; // Words per minute (NAQT standard)
+let currentWpm = DEFAULT_WPM; // Current reading speed, can be updated via setReadingSpeed()
 
 // Progress callback type
 export type TTSProgressCallback = (charIndex: number) => void;
@@ -29,6 +30,7 @@ let activeSessionId: number | null = null;
 // Current TTS state
 let isInitialized = false;
 let isSpeaking = false;
+let isStopping = false; // Flag to ignore all events during stop sequence
 let currentProgressCallback: TTSProgressCallback | null = null;
 let currentFinishCallback: TTSFinishCallback | null = null;
 let currentText = '';
@@ -45,6 +47,7 @@ let listenersRegistered = false;
 function resetState(): void {
   stopProgressTracking();
   isSpeaking = false;
+  isStopping = false;
   currentProgressCallback = null;
   currentFinishCallback = null;
   currentText = '';
@@ -174,17 +177,22 @@ export async function speakText(
  * Stop speaking asynchronously (for internal use)
  */
 async function stopSpeakingAsync(): Promise<void> {
-  // Invalidate current session first
+  // Set stopping flag FIRST to block all event handlers immediately
+  isStopping = true;
+
+  // Invalidate current session
   const wasSession = activeSessionId;
   activeSessionId = null;
 
+  // Stop progress tracking
   stopProgressTracking();
 
-  // Clear callbacks
+  // Clear callbacks BEFORE any TTS operations to prevent them from being called
   currentProgressCallback = null;
   currentFinishCallback = null;
 
   if (!isSpeaking) {
+    isStopping = false;
     return;
   }
 
@@ -193,11 +201,15 @@ async function stopSpeakingAsync(): Promise<void> {
 
   // Actually stop the speech
   if (Platform.OS === 'ios') {
+    // On iOS, stop() has a broken BOOL* parameter, so we use speak(' ') to interrupt
+    // This will queue an empty utterance which effectively stops the current one
     try {
       await Tts.speak(' ');
     } catch {
       // Ignore
     }
+    // Wait for the empty speech to complete/cancel
+    await new Promise((resolve) => setTimeout(resolve, 100));
   } else {
     try {
       await Tts.stop();
@@ -206,7 +218,10 @@ async function stopSpeakingAsync(): Promise<void> {
     }
   }
 
-  // Small delay to let the stop complete before starting new speech
+  // Clear stopping flag after operations complete
+  isStopping = false;
+
+  // Small delay to let everything settle before starting new speech
   await new Promise((resolve) => setTimeout(resolve, 50));
 }
 
@@ -214,17 +229,23 @@ async function stopSpeakingAsync(): Promise<void> {
  * Stop speaking immediately (synchronous interface)
  */
 export function stopSpeaking(): void {
-  // Invalidate current session first - this ensures events are ignored
+  // Set stopping flag FIRST to block all event handlers immediately
+  // This is the critical fix - any TTS events that fire after this point are ignored
+  isStopping = true;
+
+  // Invalidate current session
   const wasSession = activeSessionId;
   activeSessionId = null;
 
+  // Stop progress tracking immediately
   stopProgressTracking();
 
-  // Clear callbacks
+  // Clear callbacks BEFORE any TTS operations to prevent them from being called
   currentProgressCallback = null;
   currentFinishCallback = null;
 
   if (!isSpeaking) {
+    isStopping = false;
     return;
   }
 
@@ -232,10 +253,22 @@ export function stopSpeaking(): void {
   isSpeaking = false;
 
   // Fire and forget - just try to stop
+  // On iOS, we use speak(' ') to interrupt the current speech
   if (Platform.OS === 'ios') {
-    Tts.speak(' ').catch(() => {});
+    Tts.speak(' ')
+      .catch(() => {})
+      .finally(() => {
+        // Reset stopping flag after the operation completes
+        setTimeout(() => {
+          isStopping = false;
+        }, 100);
+      });
   } else {
-    Tts.stop().catch(() => {});
+    Tts.stop()
+      .catch(() => {})
+      .finally(() => {
+        isStopping = false;
+      });
   }
 }
 
@@ -251,8 +284,16 @@ export function getIsSpeaking(): boolean {
  */
 export function calculateReadingDuration(text: string): number {
   const words = text.split(/\s+/).length;
-  const minutes = words / TARGET_WPM;
+  const minutes = words / currentWpm;
   return Math.ceil(minutes * 60 * 1000);
+}
+
+/**
+ * Set reading speed (words per minute)
+ */
+export function setReadingSpeed(wpm: number): void {
+  currentWpm = wpm;
+  console.log(`TTS: Reading speed set to ${wpm} WPM`);
 }
 
 /**
@@ -305,8 +346,8 @@ function startProgressTracking(sessionId: number): void {
   stopProgressTracking();
 
   progressInterval = setInterval(() => {
-    // Stop if session changed or not speaking
-    if (activeSessionId !== sessionId || !isSpeaking || !currentProgressCallback) {
+    // Stop if stopping, session changed, or not speaking
+    if (isStopping || activeSessionId !== sessionId || !isSpeaking || !currentProgressCallback) {
       stopProgressTracking();
       return;
     }
@@ -334,8 +375,9 @@ function calculateCharPosition(elapsedMs: number, text: string): number {
 // --- TTS Event Handlers ---
 
 function handleTTSStart(_event: any): void {
-  // Ignore if no active session (speech was stopped)
-  if (activeSessionId === null) {
+  // Ignore if stopping or no active session (speech was stopped)
+  if (isStopping || activeSessionId === null) {
+    console.log('TTS: Ignoring start event (stopping or no session)');
     return;
   }
 
@@ -353,8 +395,9 @@ function handleTTSStart(_event: any): void {
 }
 
 function handleTTSFinish(_event: any): void {
-  // Ignore if no active session (speech was stopped or this is from old session)
-  if (activeSessionId === null) {
+  // Ignore if stopping or no active session (speech was stopped or this is from old session)
+  if (isStopping || activeSessionId === null) {
+    console.log('TTS: Ignoring finish event (stopping or no session)');
     return;
   }
 
@@ -385,8 +428,9 @@ function handleTTSFinish(_event: any): void {
 }
 
 function handleTTSCancel(_event: any): void {
-  // Ignore if no active session
-  if (activeSessionId === null) {
+  // Ignore if stopping or no active session
+  if (isStopping || activeSessionId === null) {
+    console.log('TTS: Ignoring cancel event (stopping or no session)');
     return;
   }
 
@@ -400,8 +444,8 @@ function handleTTSCancel(_event: any): void {
 }
 
 function handleTTSProgress(event: any): void {
-  // Ignore if no active session or no callback
-  if (activeSessionId === null || !currentProgressCallback) {
+  // Ignore if stopping, no active session, or no callback
+  if (isStopping || activeSessionId === null || !currentProgressCallback) {
     return;
   }
 

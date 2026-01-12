@@ -120,6 +120,8 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
         if (user) {
           const userSettings = await getQuizSettings(database, user.userId);
           setSettings(userSettings);
+          // Set TTS reading speed from user settings
+          ttsService.setReadingSpeed(userSettings.readingSpeedWpm);
           console.log('User settings loaded:', userSettings);
         }
 
@@ -274,13 +276,17 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     ttsService.speakText(
       nextQuestion.text,
       (charIndex) => {
-        console.log('TTS Progress - char index:', charIndex);
-        setCurrentCharIndex(charIndex);
+        // Only update char index if still reading (not buzzed/answering)
+        if (quizStateRef.current === 'reading') {
+          setCurrentCharIndex(charIndex);
+        }
       },
       () => {
-        console.log('TTS Finished - starting buzz window');
-        // When TTS finishes, start buzz window
-        startBuzzWindow();
+        // Only start buzz window if still in reading state
+        if (quizStateRef.current === 'reading') {
+          console.log('TTS Finished - starting buzz window');
+          startBuzzWindow();
+        }
       }
     ).catch((error) => {
       console.error('TTS speakText failed:', error);
@@ -313,6 +319,10 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   // Handle buzz button press
   const handleBuzz = () => {
     if (quizState !== 'reading' && quizState !== 'buzz_window') return;
+
+    // IMMEDIATELY update the ref to stop any pending TTS callbacks
+    // This must happen BEFORE stopSpeaking() to prevent race conditions
+    quizStateRef.current = 'buzzed';
 
     clearAllTimers();
     ttsService.stopSpeaking();
@@ -500,10 +510,16 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     ttsService.speakText(
       part.text,
       (charIndex) => {
-        console.log('Bonus TTS Progress - char index:', charIndex);
-        setCurrentCharIndex(charIndex);
+        // Only update char index if still in bonus state (not answering)
+        if (quizStateRef.current === 'bonus') {
+          setCurrentCharIndex(charIndex);
+        }
       },
       () => {
+        // Only proceed if still in bonus state
+        if (quizStateRef.current !== 'bonus') {
+          return;
+        }
         console.log('Bonus TTS Finished - starting answer timer');
         // When TTS finishes, start countdown timer and clear filter
         setBottomSheetTimerState('counting');

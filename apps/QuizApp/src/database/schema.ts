@@ -1,7 +1,7 @@
 import { appSchema, tableSchema } from '@nozbe/watermelondb';
 
 export const schema = appSchema({
-  version: 3,
+  version: 4,
   tables: [
     tableSchema({
       name: 'users',
@@ -88,6 +88,7 @@ export const schema = appSchema({
         { name: 'bonus_answer_time_ms', type: 'number' },
         { name: 'tossup_review_time_ms', type: 'number' },
         { name: 'bonus_review_time_ms', type: 'number' },
+        { name: 'reading_speed_wpm', type: 'number' },
         { name: 'microphone_enabled', type: 'boolean' },
         { name: 'auto_submit_on_silence', type: 'boolean' },
         { name: 'auto_submit_silence_ms', type: 'number' },

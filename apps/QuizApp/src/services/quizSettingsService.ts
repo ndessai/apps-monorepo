@@ -12,6 +12,7 @@ const DEFAULT_SETTINGS: QuizSettingsData = {
   bonusAnswerTimeMs: 5000,
   tossupReviewTimeMs: 3000,
   bonusReviewTimeMs: 2000,
+  readingSpeedWpm: 150,
   microphoneEnabled: true,
   autoSubmitOnSilence: true,
   autoSubmitSilenceMs: 1500,
@@ -45,6 +46,7 @@ export async function getQuizSettings(
     bonusAnswerTimeMs: s.bonusAnswerTimeMs ?? DEFAULT_SETTINGS.bonusAnswerTimeMs,
     tossupReviewTimeMs: s.tossupReviewTimeMs ?? DEFAULT_SETTINGS.tossupReviewTimeMs,
     bonusReviewTimeMs: s.bonusReviewTimeMs ?? DEFAULT_SETTINGS.bonusReviewTimeMs,
+    readingSpeedWpm: s.readingSpeedWpm ?? DEFAULT_SETTINGS.readingSpeedWpm,
     microphoneEnabled: s.microphoneEnabled ?? DEFAULT_SETTINGS.microphoneEnabled,
     autoSubmitOnSilence: s.autoSubmitOnSilence ?? DEFAULT_SETTINGS.autoSubmitOnSilence,
     autoSubmitSilenceMs: s.autoSubmitSilenceMs ?? DEFAULT_SETTINGS.autoSubmitSilenceMs,
@@ -82,6 +84,7 @@ export async function updateQuizSettings(
         s.bonusAnswerTimeMs = merged.bonusAnswerTimeMs;
         s.tossupReviewTimeMs = merged.tossupReviewTimeMs;
         s.bonusReviewTimeMs = merged.bonusReviewTimeMs;
+        s.readingSpeedWpm = merged.readingSpeedWpm;
         s.microphoneEnabled = merged.microphoneEnabled;
         s.autoSubmitOnSilence = merged.autoSubmitOnSilence;
         s.autoSubmitSilenceMs = merged.autoSubmitSilenceMs;
@@ -112,6 +115,9 @@ export async function updateQuizSettings(
         if (newSettings.bonusReviewTimeMs !== undefined) {
           s.bonusReviewTimeMs = newSettings.bonusReviewTimeMs;
         }
+        if (newSettings.readingSpeedWpm !== undefined) {
+          s.readingSpeedWpm = newSettings.readingSpeedWpm;
+        }
         if (newSettings.microphoneEnabled !== undefined) {
           s.microphoneEnabled = newSettings.microphoneEnabled;
         }
@@ -138,6 +144,7 @@ export async function updateQuizSettings(
         bonusAnswerTimeMs: newSettings.bonusAnswerTimeMs ?? existing.bonusAnswerTimeMs ?? DEFAULT_SETTINGS.bonusAnswerTimeMs,
         tossupReviewTimeMs: newSettings.tossupReviewTimeMs ?? existing.tossupReviewTimeMs ?? DEFAULT_SETTINGS.tossupReviewTimeMs,
         bonusReviewTimeMs: newSettings.bonusReviewTimeMs ?? existing.bonusReviewTimeMs ?? DEFAULT_SETTINGS.bonusReviewTimeMs,
+        readingSpeedWpm: newSettings.readingSpeedWpm ?? existing.readingSpeedWpm ?? DEFAULT_SETTINGS.readingSpeedWpm,
         microphoneEnabled: newSettings.microphoneEnabled ?? existing.microphoneEnabled ?? DEFAULT_SETTINGS.microphoneEnabled,
         autoSubmitOnSilence: newSettings.autoSubmitOnSilence ?? existing.autoSubmitOnSilence ?? DEFAULT_SETTINGS.autoSubmitOnSilence,
         autoSubmitSilenceMs: newSettings.autoSubmitSilenceMs ?? existing.autoSubmitSilenceMs ?? DEFAULT_SETTINGS.autoSubmitSilenceMs,
@@ -174,6 +181,7 @@ export async function resetQuizSettings(
         s.bonusAnswerTimeMs = DEFAULT_SETTINGS.bonusAnswerTimeMs;
         s.tossupReviewTimeMs = DEFAULT_SETTINGS.tossupReviewTimeMs;
         s.bonusReviewTimeMs = DEFAULT_SETTINGS.bonusReviewTimeMs;
+        s.readingSpeedWpm = DEFAULT_SETTINGS.readingSpeedWpm;
         s.microphoneEnabled = DEFAULT_SETTINGS.microphoneEnabled;
         s.autoSubmitOnSilence = DEFAULT_SETTINGS.autoSubmitOnSilence;
         s.autoSubmitSilenceMs = DEFAULT_SETTINGS.autoSubmitSilenceMs;
@@ -190,6 +198,7 @@ export async function resetQuizSettings(
         s.bonusAnswerTimeMs = DEFAULT_SETTINGS.bonusAnswerTimeMs;
         s.tossupReviewTimeMs = DEFAULT_SETTINGS.tossupReviewTimeMs;
         s.bonusReviewTimeMs = DEFAULT_SETTINGS.bonusReviewTimeMs;
+        s.readingSpeedWpm = DEFAULT_SETTINGS.readingSpeedWpm;
         s.microphoneEnabled = DEFAULT_SETTINGS.microphoneEnabled;
         s.autoSubmitOnSilence = DEFAULT_SETTINGS.autoSubmitOnSilence;
         s.autoSubmitSilenceMs = DEFAULT_SETTINGS.autoSubmitSilenceMs;
