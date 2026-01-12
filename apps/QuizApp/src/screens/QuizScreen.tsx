@@ -341,10 +341,8 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       setWasBeforePowerMark(buzzedAtCharIndex < powerPos);
     }
 
-    // Reveal full text after buzzing (user needs to see the whole question)
-    if (currentQuestion && 'text' in currentQuestion) {
-      setCurrentCharIndex(currentQuestion.text.length);
-    }
+    // Keep text at current position - do NOT reveal the rest of the question
+    // The text stays where it was when the user buzzed
 
     setQuizState('buzzed');
 
