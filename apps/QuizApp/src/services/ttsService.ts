@@ -1,8 +1,8 @@
 /**
  * Text-to-Speech Service
  *
- * Wrapper around react-native-tts for quiz question reading
- * Provides word-by-word progress tracking for highlighting
+ * Low-level wrapper around react-native-tts for speech synthesis.
+ * Used by ttsWrapperService which controls chunking and timing.
  *
  * Key design decisions:
  * - Uses session IDs to track which speech events belong to which question
@@ -13,10 +13,6 @@
 
 import { Platform } from 'react-native';
 import Tts from 'react-native-tts';
-
-// TTS configuration
-const DEFAULT_WPM = 150; // Words per minute (NAQT standard)
-let currentWpm = DEFAULT_WPM; // Current reading speed, can be updated via setReadingSpeed()
 
 // Progress callback type
 export type TTSProgressCallback = (charIndex: number) => void;
@@ -281,19 +277,13 @@ export function getIsSpeaking(): boolean {
 
 /**
  * Calculate estimated reading duration
+ * @param text - Text to calculate duration for
+ * @param wpm - Words per minute (passed from caller)
  */
-export function calculateReadingDuration(text: string): number {
+export function calculateReadingDuration(text: string, wpm: number): number {
   const words = text.split(/\s+/).length;
-  const minutes = words / currentWpm;
+  const minutes = words / wpm;
   return Math.ceil(minutes * 60 * 1000);
-}
-
-/**
- * Set reading speed (words per minute)
- */
-export function setReadingSpeed(wpm: number): void {
-  currentWpm = wpm;
-  console.log(`TTS: Reading speed set to ${wpm} WPM`);
 }
 
 /**
@@ -334,28 +324,26 @@ export async function setRate(rate: number): Promise<void> {
 }
 
 /**
- * Speak a single word (fire and forget)
- * Used by ttsWrapperService for word-by-word reading
- * No state tracking or callbacks - just speaks the word
+ * Speak a chunk of text with progress tracking
+ * Used by ttsWrapperService for chunk-by-chunk reading
+ *
+ * @param text - The chunk text to speak
+ * @param onProgress - Called with character index within the chunk as speech progresses
+ * @param onFinish - Called when the chunk finishes speaking
  */
-export function speakWord(word: string): void {
+export async function speakChunk(
+  text: string,
+  onProgress?: TTSProgressCallback,
+  onFinish?: TTSFinishCallback
+): Promise<void> {
   if (!isInitialized) {
-    console.warn('TTS: Not initialized, skipping word');
+    console.warn('TTS: Not initialized, skipping chunk');
+    onFinish?.();
     return;
   }
 
-  // Fire and forget - don't track state for individual words
-  try {
-    const result = Tts.speak(word);
-    // Handle if it returns a promise
-    if (result && typeof result === 'object' && 'catch' in result) {
-      (result as Promise<unknown>).catch(() => {
-        // Ignore errors for individual words
-      });
-    }
-  } catch {
-    // Ignore synchronous errors
-  }
+  // Use speakText which has full progress tracking
+  await speakText(text, onProgress, onFinish);
 }
 
 // --- Internal functions ---
@@ -387,10 +375,12 @@ function startProgressTracking(sessionId: number): void {
   }, 50);
 }
 
+const DEFAULT_WPM_FALLBACK = 150; // Fallback for legacy speakText progress tracking
+
 function calculateCharPosition(elapsedMs: number, text: string): number {
   if (!text) return 0;
 
-  const totalDuration = calculateReadingDuration(text);
+  const totalDuration = calculateReadingDuration(text, DEFAULT_WPM_FALLBACK);
   const adjustedDuration = totalDuration * 0.85;
   const progress = Math.min(elapsedMs / adjustedDuration, 1);
 

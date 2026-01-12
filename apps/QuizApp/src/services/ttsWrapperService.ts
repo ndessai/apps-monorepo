@@ -2,9 +2,9 @@
  * TTS Wrapper Service
  *
  * Controls text-to-speech at the clause/phrase level, providing:
- * - Clause-by-clause text progression based on WPM
- * - Character index tracking for text highlighting
- * - Clean stop behavior (just stops queuing chunks, no native stop() needed)
+ * - Clause-by-clause text progression
+ * - Character index tracking for text highlighting (translates chunk progress to full text)
+ * - Clean stop behavior
  *
  * This wrapper solves the iOS TTS stop() reliability issues by
  * sending one clause at a time to the TTS engine. When stopped,
@@ -30,7 +30,6 @@ interface ChunkInfo {
 let chunks: ChunkInfo[] = [];
 let currentChunkIndex = 0;
 let isActive = false;
-let chunkTimer: ReturnType<typeof setTimeout> | null = null;
 
 let progressCallback: ProgressCallback | null = null;
 let finishCallback: FinishCallback | null = null;
@@ -73,9 +72,9 @@ function parseChunks(text: string): ChunkInfo[] {
 // ============ Core Logic ============
 
 /**
- * Speak the next chunk and schedule the following one
+ * Speak the next chunk with progress tracking
  */
-function speakNextChunk(msPerWord: number): void {
+async function speakNextChunk(): Promise<void> {
   // Check if we should stop
   if (!isActive) {
     console.log(`Wrapper: Stopped, not speaking more chunks`);
@@ -99,25 +98,55 @@ function speakNextChunk(msPerWord: number): void {
   }
 
   const chunkInfo = chunks[currentChunkIndex];
+  const chunkIdx = currentChunkIndex; // Capture for closure
 
   console.log(
     `Wrapper: Speaking chunk ${currentChunkIndex + 1}/${chunks.length}: "${chunkInfo.text.substring(0, 40)}..." (${chunkInfo.wordCount} words)`
   );
 
-  // Report progress (end of current chunk for highlighting)
-  if (progressCallback) {
-    progressCallback(chunkInfo.endIndex);
+  // Create progress handler that translates chunk position to full text position
+  const handleChunkProgress = (chunkCharIndex: number) => {
+    if (!isActive || currentChunkIndex !== chunkIdx) {
+      return; // Ignore if stopped or moved to different chunk
+    }
+
+    // Translate chunk character index to full text character index
+    const fullTextCharIndex = chunkInfo.startIndex + chunkCharIndex;
+
+    if (progressCallback) {
+      progressCallback(fullTextCharIndex);
+    }
+  };
+
+  // Create finish handler that moves to next chunk
+  const handleChunkFinish = () => {
+    if (!isActive) {
+      return; // Stopped, don't continue
+    }
+
+    // Report end of chunk progress
+    if (progressCallback) {
+      progressCallback(chunkInfo.endIndex);
+    }
+
+    // Move to next chunk
+    currentChunkIndex++;
+
+    // Speak next chunk
+    speakNextChunk();
+  };
+
+  // Speak the chunk with progress tracking
+  try {
+    await ttsService.speakChunk(chunkInfo.text, handleChunkProgress, handleChunkFinish);
+  } catch (error) {
+    console.error('Wrapper: Error speaking chunk:', error);
+    // Try to continue with next chunk
+    if (isActive) {
+      currentChunkIndex++;
+      speakNextChunk();
+    }
   }
-
-  // Speak the chunk (fire and forget)
-  ttsService.speakWord(chunkInfo.text);
-
-  // Move to next chunk
-  currentChunkIndex++;
-
-  // Schedule next chunk based on word count and WPM timing
-  const chunkDuration = chunkInfo.wordCount * msPerWord;
-  chunkTimer = setTimeout(() => speakNextChunk(msPerWord), chunkDuration);
 }
 
 // ============ Public API ============
@@ -134,13 +163,13 @@ export async function initialize(): Promise<void> {
  * Start reading text chunk-by-chunk (clauses/phrases)
  *
  * @param text - Full text to read
- * @param wpm - Words per minute (e.g., 150 for NAQT standard)
- * @param onProgress - Called with char index as each chunk is spoken
+ * @param wpm - Words per minute (currently unused, TTS controls pace)
+ * @param onProgress - Called with char index in full text as speech progresses
  * @param onFinish - Called when all chunks have been spoken
  */
 export function startReading(
   text: string,
-  wpm: number,
+  _wpm: number,
   onProgress: ProgressCallback,
   onFinish: FinishCallback
 ): void {
@@ -157,11 +186,8 @@ export function startReading(
     return;
   }
 
-  // Calculate timing
-  const msPerWord = Math.round(60000 / wpm);
-
   console.log(
-    `Wrapper: Starting "${text.substring(0, 30)}...", ${chunks.length} chunks at ${wpm} WPM (${msPerWord}ms/word)`
+    `Wrapper: Starting "${text.substring(0, 30)}...", ${chunks.length} chunks`
   );
   chunks.forEach((c, i) =>
     console.log(`  Chunk ${i + 1}: "${c.text.substring(0, 50)}..." (${c.wordCount} words)`)
@@ -179,15 +205,15 @@ export function startReading(
   }
 
   // Start speaking
-  speakNextChunk(msPerWord);
+  speakNextChunk();
 }
 
 /**
  * Stop reading
- * Current chunk (if any) finishes naturally - no TTS stop() call needed
+ * Stops both the chunk scheduling and the current TTS speech
  */
 export function stopReading(): void {
-  if (!isActive && chunkTimer === null) {
+  if (!isActive) {
     return;
   }
 
@@ -195,11 +221,8 @@ export function stopReading(): void {
 
   isActive = false;
 
-  // Clear the timer - no more chunks will be queued
-  if (chunkTimer) {
-    clearTimeout(chunkTimer);
-    chunkTimer = null;
-  }
+  // Stop current TTS speech
+  ttsService.stopSpeaking();
 
   // Clear callbacks to prevent any late events
   progressCallback = null;
