@@ -309,15 +309,35 @@ export function startReading(
 }
 
 /**
- * Stop reading immediately
- * Resets progress index and clears all callbacks
+ * Stop reading immediately and fully reset state
+ * Resets progress index, clears callbacks, and invalidates session
  */
 export function stopReading(): void {
-  // Reset index
-  lastReportedCharIndex = 0;
+  console.log('NativeTTS: stopReading called - full reset');
 
-  // Use existing stopSpeaking which handles everything
-  stopSpeaking();
+  // Set stopping flag FIRST to block all event handlers
+  isStopping = true;
+
+  // Invalidate session immediately
+  activeSessionId = null;
+
+  // Reset ALL state
+  lastReportedCharIndex = 0;
+  currentText = '';
+  currentProgressCallback = null;
+  currentFinishCallback = null;
+
+  // Stop native TTS if speaking
+  if (isSpeaking) {
+    isSpeaking = false;
+    NativeTTS.stop()
+      .catch(() => {})
+      .finally(() => {
+        isStopping = false;
+      });
+  } else {
+    isStopping = false;
+  }
 }
 
 /**

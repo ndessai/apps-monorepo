@@ -375,6 +375,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   const handleAnswerSubmit = (answer: string) => {
     clearAllTimers();
 
+    // Stop and reset TTS completely
+    tts.stopReading();
+
     // Hide bottom sheet on submit
     setBottomSheetVisible(false);
 
@@ -392,6 +395,10 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   // Handle answer timeout from bottom sheet
   const handleAnswerTimeUp = () => {
     clearAllTimers();
+
+    // Stop and reset TTS completely
+    tts.stopReading();
+
     setBottomSheetVisible(false);
 
     if (!currentQuestion) return;
@@ -488,6 +495,12 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
 
     const part = bonus.parts[partIndex];
     setCurrentCharIndex(0);
+
+    // CRITICAL: Set state to 'bonus' BEFORE starting TTS
+    // This ensures progress callbacks will be processed
+    // (coming from 'review' state after previous part's feedback)
+    setQuizState('bonus');
+    quizStateRef.current = 'bonus';
 
     // Show bottom sheet for bonus with idle timer (shows "--")
     setBottomSheetQuestionType('bonus');
@@ -646,6 +659,10 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   // Handle bonus timeout
   const handleBonusTimeout = (bonus: BonusQuestion, partIndex: number) => {
     clearAllTimers();
+
+    // Stop and reset TTS completely
+    tts.stopReading();
+
     setBottomSheetVisible(false);
 
     const part = bonus.parts[partIndex];
