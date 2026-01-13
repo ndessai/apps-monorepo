@@ -39,6 +39,7 @@ export async function getQuizSettings(
   }
 
   const s = settings[0];
+  console.log('[quizSettingsService] getQuizSettings - Raw difficulty from DB:', JSON.stringify(s.difficulty), 'type:', typeof s.difficulty);
   return {
     buzzerTimeMs: s.buzzerTimeMs,
     answerTimeMs: s.answerTimeMs,
@@ -51,8 +52,8 @@ export async function getQuizSettings(
     autoSubmitOnSilence: s.autoSubmitOnSilence ?? DEFAULT_SETTINGS.autoSubmitOnSilence,
     autoSubmitSilenceMs: s.autoSubmitSilenceMs ?? DEFAULT_SETTINGS.autoSubmitSilenceMs,
     audioActionsEnabled: s.audioActionsEnabled ?? DEFAULT_SETTINGS.audioActionsEnabled,
-    difficulty: (s.difficulty as NAQTDifficulty) ?? DEFAULT_SETTINGS.difficulty,
-    theme: (s.theme as ThemeMode) ?? DEFAULT_SETTINGS.theme,
+    difficulty: (s.difficulty || DEFAULT_SETTINGS.difficulty) as NAQTDifficulty,
+    theme: (s.theme || DEFAULT_SETTINGS.theme) as ThemeMode,
   };
 }
 
@@ -131,6 +132,7 @@ export async function updateQuizSettings(
           s.audioActionsEnabled = newSettings.audioActionsEnabled;
         }
         if (newSettings.difficulty !== undefined) {
+          console.log('[quizSettingsService] updateQuizSettings - Writing difficulty:', JSON.stringify(newSettings.difficulty));
           s.difficulty = newSettings.difficulty;
         }
         if (newSettings.theme !== undefined) {
@@ -149,8 +151,8 @@ export async function updateQuizSettings(
         autoSubmitOnSilence: newSettings.autoSubmitOnSilence ?? existing.autoSubmitOnSilence ?? DEFAULT_SETTINGS.autoSubmitOnSilence,
         autoSubmitSilenceMs: newSettings.autoSubmitSilenceMs ?? existing.autoSubmitSilenceMs ?? DEFAULT_SETTINGS.autoSubmitSilenceMs,
         audioActionsEnabled: newSettings.audioActionsEnabled ?? existing.audioActionsEnabled ?? DEFAULT_SETTINGS.audioActionsEnabled,
-        difficulty: (newSettings.difficulty ?? existing.difficulty ?? DEFAULT_SETTINGS.difficulty) as NAQTDifficulty,
-        theme: (newSettings.theme ?? existing.theme ?? DEFAULT_SETTINGS.theme) as ThemeMode,
+        difficulty: (newSettings.difficulty || existing.difficulty || DEFAULT_SETTINGS.difficulty) as NAQTDifficulty,
+        theme: (newSettings.theme || existing.theme || DEFAULT_SETTINGS.theme) as ThemeMode,
       };
     }
   });
