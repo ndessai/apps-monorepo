@@ -38,20 +38,41 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
   const { colors } = useTheme();
   const { isListening, isAvailable, startListening, stopListening } = useVoice();
 
+  console.log('[AnswerInput] Render - isAvailable:', isAvailable, 'isListening:', isListening);
+
+  // Log props on mount for debugging
+  useEffect(() => {
+    console.log('[AnswerInput] Mounted with props:', {
+      microphoneEnabledByDefault,
+      autoSubmitOnSilence,
+      autoSubmitSilenceMs,
+      autoSubmitOnIdle,
+      autoSubmitIdleMs,
+    });
+    return () => {
+      console.log('[AnswerInput] Unmounting');
+    };
+  }, []);
+
   const [answer, setAnswer] = React.useState('');
-  const [hasSpeechResult, setHasSpeechResult] = React.useState(false);
   const inputRef = useRef<RNTextInput>(null);
   const hasAutoStartedRef = useRef(false);
   const silenceTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const idleTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const lastSpeechResultRef = useRef<string>('');
+  const hasSpeechResultRef = useRef(false);
   const hasAutoSubmittedRef = useRef(false);
   const onSubmitRef = useRef(onSubmit);
+  const answerRef = useRef(answer);
 
-  // Keep onSubmit ref updated to avoid stale closures
+  // Keep refs updated to avoid stale closures
   useEffect(() => {
     onSubmitRef.current = onSubmit;
   }, [onSubmit]);
+
+  useEffect(() => {
+    answerRef.current = answer;
+  }, [answer]);
 
   // Clear silence timer
   const clearSilenceTimer = useCallback(() => {
@@ -82,50 +103,70 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
       return;
     }
 
+    console.log('[AnswerInput] Starting idle timer for:', currentAnswer);
     idleTimerRef.current = setTimeout(() => {
+      // Use ref to get latest answer value
+      const latestAnswer = answerRef.current;
       // Auto-submit if we have text and haven't already submitted
-      if (currentAnswer.trim().length > 0 && !hasAutoSubmittedRef.current) {
+      if (latestAnswer.trim().length > 0 && !hasAutoSubmittedRef.current) {
         hasAutoSubmittedRef.current = true;
-        console.log('Auto-submitting after typing idle:', currentAnswer);
-        onSubmitRef.current(currentAnswer.trim());
+        console.log('[AnswerInput] Auto-submitting after typing idle:', latestAnswer);
+        onSubmitRef.current(latestAnswer.trim());
       }
     }, autoSubmitIdleMs);
   }, [autoSubmitOnIdle, autoSubmitIdleMs, clearIdleTimer]);
 
-  // Start silence timer for auto-submit
+  // Start silence timer for auto-submit after speech ends
   const startSilenceTimer = useCallback(() => {
     clearSilenceTimer();
 
-    if (!autoSubmitOnSilence || !hasSpeechResult || hasAutoSubmittedRef.current) {
+    if (!autoSubmitOnSilence || !hasSpeechResultRef.current || hasAutoSubmittedRef.current) {
+      console.log('[AnswerInput] Skipping silence timer:', {
+        autoSubmitOnSilence,
+        hasSpeechResult: hasSpeechResultRef.current,
+        hasAutoSubmitted: hasAutoSubmittedRef.current,
+      });
       return;
     }
 
+    console.log('[AnswerInput] Starting silence timer for:', lastSpeechResultRef.current);
     silenceTimerRef.current = setTimeout(() => {
       // Auto-submit if we have spoken text and haven't already submitted
       if (lastSpeechResultRef.current.trim().length > 0 && !hasAutoSubmittedRef.current) {
         hasAutoSubmittedRef.current = true;
-        console.log('Auto-submitting after silence:', lastSpeechResultRef.current);
+        console.log('[AnswerInput] Auto-submitting after silence:', lastSpeechResultRef.current);
         onSubmitRef.current(lastSpeechResultRef.current.trim());
       }
     }, autoSubmitSilenceMs);
-  }, [autoSubmitOnSilence, autoSubmitSilenceMs, hasSpeechResult, clearSilenceTimer]);
+  }, [autoSubmitOnSilence, autoSubmitSilenceMs, clearSilenceTimer]);
 
   // Handle speech result from VoiceProvider
   const handleSpeechResult = useCallback((result: string) => {
+    console.log('[AnswerInput] Speech result received:', result);
+    console.log('[AnswerInput] Setting answer state to:', result);
     setAnswer(result);
+    answerRef.current = result;
     lastSpeechResultRef.current = result;
-    setHasSpeechResult(true);
-    // Reset silence timer on new speech
+    hasSpeechResultRef.current = true;
+    console.log('[AnswerInput] hasSpeechResultRef set to true');
+    // Reset silence timer on new speech (will be restarted on speech end)
     clearSilenceTimer();
   }, [clearSilenceTimer]);
 
   // Handle speech end - start silence timer
   const handleSpeechEnd = useCallback(() => {
+    console.log('[AnswerInput] Speech ended');
+    console.log('[AnswerInput] - hasSpeechResult:', hasSpeechResultRef.current);
+    console.log('[AnswerInput] - autoSubmitOnSilence:', autoSubmitOnSilence);
+    console.log('[AnswerInput] - lastSpeechResult:', lastSpeechResultRef.current);
     // Start silence timer when speech ends (if we have results)
-    if (hasSpeechResult && autoSubmitOnSilence && lastSpeechResultRef.current.trim().length > 0) {
+    if (hasSpeechResultRef.current && autoSubmitOnSilence && lastSpeechResultRef.current.trim().length > 0) {
+      console.log('[AnswerInput] Starting silence timer for auto-submit');
       startSilenceTimer();
+    } else {
+      console.log('[AnswerInput] NOT starting silence timer - conditions not met');
     }
-  }, [hasSpeechResult, autoSubmitOnSilence, startSilenceTimer]);
+  }, [autoSubmitOnSilence, startSilenceTimer]);
 
   // Auto-focus input when component mounts
   useEffect(() => {
@@ -136,15 +177,26 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
   }, []);
 
   // Auto-start microphone if enabled by default
+  // Re-check when isListening changes (e.g., after audioActionsService stops)
   useEffect(() => {
-    if (microphoneEnabledByDefault && isAvailable && !hasAutoStartedRef.current) {
-      hasAutoStartedRef.current = true;
-      // Small delay to ensure component is fully mounted
-      setTimeout(() => {
-        startListeningHandler();
-      }, 300);
+    // Only auto-start if:
+    // 1. microphoneEnabledByDefault is true
+    // 2. Voice is available
+    // 3. Voice is NOT currently listening (someone else might be using it)
+    // 4. We haven't successfully started listening yet
+    if (microphoneEnabledByDefault && isAvailable && !isListening && !hasAutoStartedRef.current) {
+      // Small delay to ensure component is fully mounted and voice is ready
+      console.log('[AnswerInput] Auto-starting microphone (isListening:', isListening, ')');
+      const timer = setTimeout(() => {
+        // Double-check we still want to start (component might have unmounted)
+        if (!hasAutoStartedRef.current) {
+          hasAutoStartedRef.current = true;
+          startListeningHandler();
+        }
+      }, 400);
+      return () => clearTimeout(timer);
     }
-  }, [microphoneEnabledByDefault, isAvailable]);
+  }, [microphoneEnabledByDefault, isAvailable, isListening]);
 
   // Cleanup on unmount
   useEffect(() => {
@@ -160,11 +212,13 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
       return;
     }
 
-    setHasSpeechResult(false);
+    // Reset state for new listening session
+    hasSpeechResultRef.current = false;
     hasAutoSubmittedRef.current = false;
     lastSpeechResultRef.current = '';
     clearSilenceTimer();
 
+    console.log('[AnswerInput] Starting listening...');
     await startListening({
       continuous: false,
       filterTTS: false,
@@ -203,11 +257,15 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
 
   // Handle text changes - start idle timer on each change
   const handleTextChange = (text: string) => {
+    console.log('[AnswerInput] Text changed to:', text);
     setAnswer(text);
+    answerRef.current = text;
     // Start/reset idle timer when user types (only if there's text)
     if (autoSubmitOnIdle && text.trim().length > 0) {
+      console.log('[AnswerInput] autoSubmitOnIdle is true, starting idle timer');
       startIdleTimer(text);
     } else {
+      console.log('[AnswerInput] NOT starting idle timer - autoSubmitOnIdle:', autoSubmitOnIdle);
       clearIdleTimer();
     }
   };

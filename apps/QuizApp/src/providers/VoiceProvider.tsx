@@ -61,10 +61,42 @@ export const VoiceProvider: React.FC<{ children: React.ReactNode }> = ({ childre
     };
   }, []);
 
+  // Sync isListening state with voiceService when it becomes false externally
+  // This handles cases where voiceService is stopped by something else (e.g., audioActionsService)
+  useEffect(() => {
+    if (!isListening) {
+      // We already know we're not listening, no need to sync
+      return;
+    }
+
+    const syncInterval = setInterval(() => {
+      const actuallyListening = voiceService.isListening();
+      // If voiceService says we're not listening, sync our state
+      // This catches cases where audioActionsService (which uses continuous mode) stops
+      // NOTE: Don't clear optionsRef here - only set isListening to false
+      // The optionsRef will be updated when startListening is called again
+      if (!actuallyListening) {
+        console.log('[VoiceProvider] Syncing isListening to false (stopped externally)');
+        setIsListening(false);
+        // Don't clear optionsRef.current here - it might be in the middle of being
+        // set by a new startListening call. The new startListening will set it.
+      }
+    }, 100); // Check more frequently for faster response
+
+    return () => clearInterval(syncInterval);
+  }, [isListening]);
+
   // Start listening for speech
   const startListening = useCallback(async (options: ListeningOptions = {}): Promise<boolean> => {
+    console.log('[VoiceProvider] startListening called with options:', {
+      continuous: options.continuous,
+      filterTTS: options.filterTTS,
+      hasOnResult: !!options.onResult,
+      hasOnEnd: !!options.onEnd,
+    });
     setError(null);
     optionsRef.current = options;
+    console.log('[VoiceProvider] optionsRef.current set, keys:', Object.keys(optionsRef.current));
 
     const success = await voiceService.startListening(
       {
@@ -74,10 +106,13 @@ export const VoiceProvider: React.FC<{ children: React.ReactNode }> = ({ childre
       },
       {
         onStart: () => {
+          console.log('[VoiceProvider] onStart callback triggered');
           setIsListening(true);
           optionsRef.current.onStart?.();
         },
         onEnd: () => {
+          console.log('[VoiceProvider] onEnd callback triggered');
+          console.log('[VoiceProvider] - has onEnd in options:', !!optionsRef.current.onEnd);
           // Only set isListening false if not continuous
           if (!optionsRef.current.continuous) {
             setIsListening(false);
@@ -85,13 +120,22 @@ export const VoiceProvider: React.FC<{ children: React.ReactNode }> = ({ childre
           optionsRef.current.onEnd?.();
         },
         onResult: (text: string) => {
+          console.log('[VoiceProvider] onResult callback triggered with:', text);
+          console.log('[VoiceProvider] - has onResult in options:', !!optionsRef.current.onResult);
+          console.log('[VoiceProvider] - optionsRef.current keys:', Object.keys(optionsRef.current));
           setLastResult(text);
-          optionsRef.current.onResult?.(text);
+          if (optionsRef.current.onResult) {
+            console.log('[VoiceProvider] Calling optionsRef.current.onResult');
+            optionsRef.current.onResult(text);
+          } else {
+            console.log('[VoiceProvider] WARNING: optionsRef.current.onResult is undefined!');
+          }
         },
         onPartialResult: (text: string) => {
           optionsRef.current.onPartialResult?.(text);
         },
         onError: (errorMsg: string) => {
+          console.log('[VoiceProvider] onError callback triggered:', errorMsg);
           setError(errorMsg);
           setIsListening(false);
         },

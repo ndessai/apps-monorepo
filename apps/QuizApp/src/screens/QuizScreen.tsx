@@ -166,8 +166,10 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
   // Manage audio actions based on settings and quiz state
   useEffect(() => {
     const manageAudioActions = async () => {
+      console.log('[QuizScreen] manageAudioActions - audioActionsEnabled:', settings.audioActionsEnabled, 'quizState:', quizState);
       // Only activate if audioActionsEnabled setting is on
       if (!settings.audioActionsEnabled) {
+        console.log('[QuizScreen] audioActionsEnabled is false, skipping audio actions');
         if (audioActionsActiveRef.current) {
           await audioActionsService.stopAudioActions();
           audioActionsActiveRef.current = false;
@@ -213,14 +215,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         }
       } else if (!shouldBeActive && audioActionsActiveRef.current) {
         // Stop audio actions when not in reading/buzz_window state
-        // But keep it active during answering for voice answer input
-        if (quizState !== 'answering' && quizState !== 'buzzed') {
-          await audioActionsService.stopAudioActions();
-          audioActionsActiveRef.current = false;
-        } else {
-          // Clear the question text filter when buzzing in
-          audioActionsService.clearQuestionTextFilter();
-        }
+        // Also stop during answering/buzzed so AnswerInput can use voice recognition
+        await audioActionsService.stopAudioActions();
+        audioActionsActiveRef.current = false;
       }
     };
 
@@ -306,7 +303,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
   };
 
   // Handle buzz button press
-  const handleBuzz = () => {
+  const handleBuzz = async () => {
     if (quizState !== 'reading' && quizState !== 'buzz_window') return;
 
     // IMMEDIATELY update the ref to stop any pending TTS callbacks
@@ -316,9 +313,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
     clearAllTimers();
     tts.stopReading();
 
-    // Clear question text filter when buzzing (user is now answering, not listening to question)
-    if (settings.audioActionsEnabled) {
-      audioActionsService.clearQuestionTextFilter();
+    // Stop audio actions IMMEDIATELY so AnswerInput can use voice recognition
+    // This must happen BEFORE showing the bottom sheet
+    if (audioActionsActiveRef.current) {
+      await audioActionsService.stopAudioActions();
+      audioActionsActiveRef.current = false;
     }
 
     // Capture the current char index at buzz time for power mark calculation
