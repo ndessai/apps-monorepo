@@ -2,7 +2,7 @@
  * OnboardingNavigator
  *
  * Stack navigator for first-time user onboarding flow.
- * Screens: Welcome → ThemeSelection → VoiceSettings → TimerSettings → SampleQuizIntro → Quiz → QuizResults
+ * Screens: Welcome → ThemeSelection → AudioFeedback → VoiceSettings → TimerSettings → SampleQuizIntro → Quiz → QuizResults
  */
 
 import React from 'react';
@@ -12,6 +12,7 @@ import { useTheme } from '../providers/ThemeProvider';
 import {
   WelcomeScreen,
   ThemeSelectionScreen,
+  AudioFeedbackScreen,
   VoiceSettingsScreen,
   TimerSettingsScreen,
   SampleQuizIntroScreen,
@@ -44,6 +45,12 @@ export const OnboardingNavigator: React.FC = () => {
       <Stack.Screen
         name="ThemeSelection"
         component={ThemeSelectionScreen}
+        options={{ headerShown: false }}
+      />
+
+      <Stack.Screen
+        name="AudioFeedback"
+        component={AudioFeedbackScreen}
         options={{ headerShown: false }}
       />
 

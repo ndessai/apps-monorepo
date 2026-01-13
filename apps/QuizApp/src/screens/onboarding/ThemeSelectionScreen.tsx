@@ -26,7 +26,7 @@ export const ThemeSelectionScreen: React.FC<Props> = ({ navigation }) => {
   };
 
   const handleContinue = () => {
-    navigation.navigate('VoiceSettings');
+    navigation.navigate('AudioFeedback');
   };
 
   return (

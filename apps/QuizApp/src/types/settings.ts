@@ -31,6 +31,16 @@ export const NAQT_DIFFICULTIES: NAQTDifficulty[] = [
   'open',
 ];
 
+// Audio Feedback Tone options
+export type AudioFeedbackTone = 'Positive' | 'Sarcastic';
+
+export const AUDIO_FEEDBACK_TONES: AudioFeedbackTone[] = ['Positive', 'Sarcastic'];
+
+export const AUDIO_FEEDBACK_TONE_LABELS: Record<AudioFeedbackTone, string> = {
+  Positive: 'Positive',
+  Sarcastic: 'Sarcastic',
+};
+
 // Quiz Settings interface
 export interface QuizSettingsData {
   buzzerTimeMs: number; // 1000-10000ms
@@ -44,6 +54,9 @@ export interface QuizSettingsData {
   autoSubmitOnSilence: boolean; // Whether to auto-submit after silence when speaking
   autoSubmitSilenceMs: number; // 500-3000ms - Silence duration before auto-submit
   audioActionsEnabled: boolean; // Whether to enable hands-free voice commands (say "Buzz" to buzz, auto-submit answers)
+  readQuestions: boolean; // Whether to read questions aloud via TTS (always true for now)
+  provideAudioFeedback: boolean; // Whether to provide spoken commentary after answers
+  audioFeedbackTone: AudioFeedbackTone; // Tone of the audio feedback
   difficulty: NAQTDifficulty;
   theme: ThemeMode;
 }
@@ -60,6 +73,9 @@ export const DEFAULT_QUIZ_SETTINGS: QuizSettingsData = {
   autoSubmitOnSilence: true, // Auto-submit spoken answers by default
   autoSubmitSilenceMs: 1500, // 1.5 seconds of silence before auto-submit
   audioActionsEnabled: false, // Hands-free mode disabled by default
+  readQuestions: true, // Read questions aloud by default
+  provideAudioFeedback: false, // Audio feedback disabled by default
+  audioFeedbackTone: 'Positive', // Positive tone by default
   difficulty: 'varsity',
   theme: 'light',
 };

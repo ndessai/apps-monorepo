@@ -39,6 +39,7 @@ import {
 } from '../services/quizScoring';
 import { useSettings } from '../providers/SettingsProvider';
 import * as audioActionsService from '../services/audioActionsService';
+import * as audioFeedbackService from '../services/audioFeedbackService';
 
 type Props = NativeStackScreenProps<QuizStackParamList, 'Quiz'>;
 
@@ -143,6 +144,8 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         audioActionsService.stopAudioActions();
         audioActionsActiveRef.current = false;
       }
+      // Stop any ongoing audio feedback
+      audioFeedbackService.stopFeedback();
     };
   }, [navigation, settings.difficulty]);
 
@@ -408,7 +411,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
   };
 
   // Handle toss-up answer
-  const handleTossupAnswer = (answer: string, question: TossupQuestion) => {
+  const handleTossupAnswer = async (answer: string, question: TossupQuestion) => {
     const isCorrect = validateAnswer(answer, question.acceptableAnswers);
     const wasInterrupted = quizState === 'answering'; // Interrupted if answered during reading
     const points = calculateTossupPoints(
@@ -434,6 +437,17 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
 
     setTossupResults([...tossupResults, result]);
     setCurrentScore(currentScore + points);
+
+    // Speak audio feedback if enabled
+    if (settings.provideAudioFeedback) {
+      await audioFeedbackService.speakFeedback({
+        isCorrect,
+        isTimeUp: false,
+        points,
+        questionType: 'tossup',
+        tone: settings.audioFeedbackTone,
+      });
+    }
 
     // Show feedback
     setFeedbackData({
@@ -555,7 +569,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
   };
 
   // Handle bonus answer
-  const handleBonusAnswer = (answer: string) => {
+  const handleBonusAnswer = async (answer: string) => {
     if (!currentQuestion || !('parts' in currentQuestion)) return;
 
     const bonus = currentQuestion as BonusQuestion;
@@ -599,6 +613,17 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
 
     setCurrentScore(currentScore + partPoints);
 
+    // Speak audio feedback if enabled
+    if (settings.provideAudioFeedback) {
+      await audioFeedbackService.speakFeedback({
+        isCorrect,
+        isTimeUp: false,
+        points: partPoints,
+        questionType: 'bonus',
+        tone: settings.audioFeedbackTone,
+      });
+    }
+
     // Show feedback
     setFeedbackData({
       isCorrect,
@@ -620,7 +645,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
   };
 
   // Handle timeout (buzz window)
-  const handleTimeout = () => {
+  const handleTimeout = async () => {
     clearAllTimers();
 
     // Use ref to get current question (avoids stale closure in interval callback)
@@ -644,6 +669,17 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
       };
 
       setTossupResults((prev) => [...prev, result]);
+
+      // Speak audio feedback for time up if enabled
+      if (settings.provideAudioFeedback) {
+        await audioFeedbackService.speakFeedback({
+          isCorrect: false,
+          isTimeUp: true,
+          points: 0,
+          questionType: 'tossup',
+          tone: settings.audioFeedbackTone,
+        });
+      }
 
       // Show feedback for timeout - set feedback data first, then show it
       const feedbackInfo = {
@@ -674,7 +710,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
   };
 
   // Handle bonus timeout
-  const handleBonusTimeout = (bonus: BonusQuestion, partIndex: number) => {
+  const handleBonusTimeout = async (bonus: BonusQuestion, partIndex: number) => {
     clearAllTimers();
 
     // Stop and reset TTS completely
@@ -714,6 +750,17 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         totalPoints: 0,
       };
       setBonusResults([...bonusResults, result]);
+    }
+
+    // Speak audio feedback for time up if enabled
+    if (settings.provideAudioFeedback) {
+      await audioFeedbackService.speakFeedback({
+        isCorrect: false,
+        isTimeUp: true,
+        points: 0,
+        questionType: 'bonus',
+        tone: settings.audioFeedbackTone,
+      });
     }
 
     // Show feedback for timeout
@@ -770,6 +817,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
               audioActionsService.stopAudioActions();
               audioActionsActiveRef.current = false;
             }
+
+            // Stop any ongoing audio feedback
+            audioFeedbackService.stopFeedback();
 
             // Navigate to results with current progress
             const session = {

@@ -34,6 +34,7 @@ export type QuizStackParamList = {
 export type OnboardingStackParamList = {
   Welcome: undefined;
   ThemeSelection: undefined;
+  AudioFeedback: undefined;
   VoiceSettings: undefined;
   TimerSettings: undefined;
   SampleQuizIntro: undefined;

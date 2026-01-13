@@ -1,6 +1,6 @@
 import { Database, Q } from '@nozbe/watermelondb';
 import { QuizSettings } from '../models/QuizSettings';
-import type { QuizSettingsData, NAQTDifficulty, ThemeMode } from '../types/settings';
+import type { QuizSettingsData, NAQTDifficulty, ThemeMode, AudioFeedbackTone } from '../types/settings';
 
 /**
  * Default quiz settings
@@ -17,6 +17,9 @@ const DEFAULT_SETTINGS: QuizSettingsData = {
   autoSubmitOnSilence: true,
   autoSubmitSilenceMs: 1500,
   audioActionsEnabled: false,
+  readQuestions: true,
+  provideAudioFeedback: false,
+  audioFeedbackTone: 'Positive',
   difficulty: 'varsity',
   theme: 'light',
 };
@@ -51,6 +54,9 @@ export async function getQuizSettings(
     autoSubmitOnSilence: s.autoSubmitOnSilence ?? DEFAULT_SETTINGS.autoSubmitOnSilence,
     autoSubmitSilenceMs: s.autoSubmitSilenceMs ?? DEFAULT_SETTINGS.autoSubmitSilenceMs,
     audioActionsEnabled: s.audioActionsEnabled ?? DEFAULT_SETTINGS.audioActionsEnabled,
+    readQuestions: s.readQuestions ?? DEFAULT_SETTINGS.readQuestions,
+    provideAudioFeedback: s.provideAudioFeedback ?? DEFAULT_SETTINGS.provideAudioFeedback,
+    audioFeedbackTone: (s.audioFeedbackTone || DEFAULT_SETTINGS.audioFeedbackTone) as AudioFeedbackTone,
     difficulty: (s.difficulty || DEFAULT_SETTINGS.difficulty) as NAQTDifficulty,
     theme: (s.theme || DEFAULT_SETTINGS.theme) as ThemeMode,
   };
@@ -89,6 +95,9 @@ export async function updateQuizSettings(
         s.autoSubmitOnSilence = merged.autoSubmitOnSilence;
         s.autoSubmitSilenceMs = merged.autoSubmitSilenceMs;
         s.audioActionsEnabled = merged.audioActionsEnabled;
+        s.readQuestions = merged.readQuestions;
+        s.provideAudioFeedback = merged.provideAudioFeedback;
+        s.audioFeedbackTone = merged.audioFeedbackTone;
         s.difficulty = merged.difficulty;
         s.theme = merged.theme;
       });
@@ -130,6 +139,15 @@ export async function updateQuizSettings(
         if (newSettings.audioActionsEnabled !== undefined) {
           s.audioActionsEnabled = newSettings.audioActionsEnabled;
         }
+        if (newSettings.readQuestions !== undefined) {
+          s.readQuestions = newSettings.readQuestions;
+        }
+        if (newSettings.provideAudioFeedback !== undefined) {
+          s.provideAudioFeedback = newSettings.provideAudioFeedback;
+        }
+        if (newSettings.audioFeedbackTone !== undefined) {
+          s.audioFeedbackTone = newSettings.audioFeedbackTone;
+        }
         if (newSettings.difficulty !== undefined) {
           s.difficulty = newSettings.difficulty;
         }
@@ -149,6 +167,9 @@ export async function updateQuizSettings(
         autoSubmitOnSilence: newSettings.autoSubmitOnSilence ?? existing.autoSubmitOnSilence ?? DEFAULT_SETTINGS.autoSubmitOnSilence,
         autoSubmitSilenceMs: newSettings.autoSubmitSilenceMs ?? existing.autoSubmitSilenceMs ?? DEFAULT_SETTINGS.autoSubmitSilenceMs,
         audioActionsEnabled: newSettings.audioActionsEnabled ?? existing.audioActionsEnabled ?? DEFAULT_SETTINGS.audioActionsEnabled,
+        readQuestions: newSettings.readQuestions ?? existing.readQuestions ?? DEFAULT_SETTINGS.readQuestions,
+        provideAudioFeedback: newSettings.provideAudioFeedback ?? existing.provideAudioFeedback ?? DEFAULT_SETTINGS.provideAudioFeedback,
+        audioFeedbackTone: (newSettings.audioFeedbackTone || existing.audioFeedbackTone || DEFAULT_SETTINGS.audioFeedbackTone) as AudioFeedbackTone,
         difficulty: (newSettings.difficulty || existing.difficulty || DEFAULT_SETTINGS.difficulty) as NAQTDifficulty,
         theme: (newSettings.theme || existing.theme || DEFAULT_SETTINGS.theme) as ThemeMode,
       };
@@ -186,6 +207,9 @@ export async function resetQuizSettings(
         s.autoSubmitOnSilence = DEFAULT_SETTINGS.autoSubmitOnSilence;
         s.autoSubmitSilenceMs = DEFAULT_SETTINGS.autoSubmitSilenceMs;
         s.audioActionsEnabled = DEFAULT_SETTINGS.audioActionsEnabled;
+        s.readQuestions = DEFAULT_SETTINGS.readQuestions;
+        s.provideAudioFeedback = DEFAULT_SETTINGS.provideAudioFeedback;
+        s.audioFeedbackTone = DEFAULT_SETTINGS.audioFeedbackTone;
         s.difficulty = DEFAULT_SETTINGS.difficulty;
         s.theme = DEFAULT_SETTINGS.theme;
       });
@@ -203,6 +227,9 @@ export async function resetQuizSettings(
         s.autoSubmitOnSilence = DEFAULT_SETTINGS.autoSubmitOnSilence;
         s.autoSubmitSilenceMs = DEFAULT_SETTINGS.autoSubmitSilenceMs;
         s.audioActionsEnabled = DEFAULT_SETTINGS.audioActionsEnabled;
+        s.readQuestions = DEFAULT_SETTINGS.readQuestions;
+        s.provideAudioFeedback = DEFAULT_SETTINGS.provideAudioFeedback;
+        s.audioFeedbackTone = DEFAULT_SETTINGS.audioFeedbackTone;
         s.difficulty = DEFAULT_SETTINGS.difficulty;
         s.theme = DEFAULT_SETTINGS.theme;
       });
