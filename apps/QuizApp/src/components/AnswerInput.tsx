@@ -18,6 +18,8 @@ interface AnswerInputProps {
   microphoneEnabledByDefault?: boolean;
   autoSubmitOnSilence?: boolean;
   autoSubmitSilenceMs?: number;
+  autoSubmitOnIdle?: boolean;
+  autoSubmitIdleMs?: number;
   testID?: string;
 }
 
@@ -27,6 +29,8 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
   microphoneEnabledByDefault = false,
   autoSubmitOnSilence = false,
   autoSubmitSilenceMs = 1500,
+  autoSubmitOnIdle = false,
+  autoSubmitIdleMs = 1500,
   testID = 'answer-input',
 }) => {
   const [answer, setAnswer] = React.useState('');
@@ -36,8 +40,15 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
   const inputRef = useRef<RNTextInput>(null);
   const hasAutoStartedRef = useRef(false);
   const silenceTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const idleTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const lastSpeechResultRef = useRef<string>('');
   const hasAutoSubmittedRef = useRef(false);
+  const onSubmitRef = useRef(onSubmit);
+
+  // Keep onSubmit ref updated to avoid stale closures
+  useEffect(() => {
+    onSubmitRef.current = onSubmit;
+  }, [onSubmit]);
 
   // Clear silence timer
   const clearSilenceTimer = useCallback(() => {
@@ -46,6 +57,37 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
       silenceTimerRef.current = null;
     }
   }, []);
+
+  // Clear idle timer
+  const clearIdleTimer = useCallback(() => {
+    if (idleTimerRef.current) {
+      clearTimeout(idleTimerRef.current);
+      idleTimerRef.current = null;
+    }
+  }, []);
+
+  // Start idle timer for auto-submit on typing inactivity
+  const startIdleTimer = useCallback((currentAnswer: string) => {
+    clearIdleTimer();
+
+    if (!autoSubmitOnIdle || hasAutoSubmittedRef.current) {
+      return;
+    }
+
+    // Only start timer if there's text to submit
+    if (currentAnswer.trim().length === 0) {
+      return;
+    }
+
+    idleTimerRef.current = setTimeout(() => {
+      // Auto-submit if we have text and haven't already submitted
+      if (currentAnswer.trim().length > 0 && !hasAutoSubmittedRef.current) {
+        hasAutoSubmittedRef.current = true;
+        console.log('Auto-submitting after typing idle:', currentAnswer);
+        onSubmitRef.current(currentAnswer.trim());
+      }
+    }, autoSubmitIdleMs);
+  }, [autoSubmitOnIdle, autoSubmitIdleMs, clearIdleTimer]);
 
   // Start silence timer for auto-submit
   const startSilenceTimer = useCallback(() => {
@@ -148,6 +190,7 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     return () => {
       isMounted = false;
       clearSilenceTimer();
+      clearIdleTimer();
       // Clean up Voice recognition on unmount
       try {
         Voice.removeAllListeners();
@@ -156,7 +199,7 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
         // Ignore cleanup errors
       }
     };
-  }, [microphoneEnabledByDefault, onSpeechResults, onSpeechError, onSpeechEnd, clearSilenceTimer]);
+  }, [microphoneEnabledByDefault, onSpeechResults, onSpeechError, onSpeechEnd, clearSilenceTimer, clearIdleTimer]);
 
   const startListeningInternal = async () => {
     try {
@@ -212,8 +255,9 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
 
   const handleSubmit = () => {
     if (answer.trim().length > 0) {
-      // Clear silence timer and mark as submitted
+      // Clear timers and mark as submitted
       clearSilenceTimer();
+      clearIdleTimer();
       hasAutoSubmittedRef.current = true;
 
       // Stop listening if active before submitting
@@ -225,6 +269,17 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     }
   };
 
+  // Handle text changes - start idle timer on each change
+  const handleTextChange = (text: string) => {
+    setAnswer(text);
+    // Start/reset idle timer when user types (only if there's text)
+    if (autoSubmitOnIdle && text.trim().length > 0) {
+      startIdleTimer(text);
+    } else {
+      clearIdleTimer();
+    }
+  };
+
   const isSubmitDisabled = answer.trim().length === 0;
 
   return (
@@ -233,7 +288,7 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
         <TextInput
           ref={inputRef}
           value={answer}
-          onChangeText={setAnswer}
+          onChangeText={handleTextChange}
           onSubmitEditing={handleSubmit}
           placeholder={placeholder}
           mode="outlined"

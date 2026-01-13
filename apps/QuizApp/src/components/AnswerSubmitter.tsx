@@ -167,6 +167,8 @@ export const AnswerSubmitter: React.FC<AnswerSubmitterProps> = ({
         microphoneEnabledByDefault={microphoneEnabledByDefault}
         autoSubmitOnSilence={autoSubmitOnSilence}
         autoSubmitSilenceMs={autoSubmitSilenceMs}
+        autoSubmitOnIdle={autoSubmitOnSilence}
+        autoSubmitIdleMs={autoSubmitSilenceMs}
         testID={`${testID}-input`}
       />
     </View>
