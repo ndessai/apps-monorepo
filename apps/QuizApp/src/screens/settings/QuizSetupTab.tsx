@@ -42,6 +42,11 @@ export const QuizSetupTab: React.FC = () => {
     setSettings((prev) => ({ ...prev, theme: currentTheme }));
   }, [currentTheme]);
 
+  // Debug: track settings changes
+  useEffect(() => {
+    console.log('[QuizSetupTab] settings state updated, difficulty is now:', settings.difficulty);
+  }, [settings.difficulty]);
+
   const loadSettings = async () => {
     try {
       setIsLoading(true);
@@ -50,6 +55,7 @@ export const QuizSetupTab: React.FC = () => {
       if (user) {
         setUserId(user.userId);
         const userSettings = await getQuizSettings(database, user.userId);
+        console.log('[QuizSetupTab] Loaded settings, difficulty:', userSettings.difficulty);
         setSettings(userSettings);
         setOriginalSettings(userSettings);
       }
@@ -61,6 +67,8 @@ export const QuizSetupTab: React.FC = () => {
   };
 
   const hasChanges = () => {
+    const difficultyChanged = settings.difficulty !== originalSettings.difficulty;
+    console.log('[QuizSetupTab] hasChanges check - settings.difficulty:', settings.difficulty, 'originalSettings.difficulty:', originalSettings.difficulty, 'changed:', difficultyChanged);
     return (
       settings.buzzerTimeMs !== originalSettings.buzzerTimeMs ||
       settings.answerTimeMs !== originalSettings.answerTimeMs ||
@@ -73,7 +81,7 @@ export const QuizSetupTab: React.FC = () => {
       settings.autoSubmitOnSilence !== originalSettings.autoSubmitOnSilence ||
       settings.autoSubmitSilenceMs !== originalSettings.autoSubmitSilenceMs ||
       settings.audioActionsEnabled !== originalSettings.audioActionsEnabled ||
-      settings.difficulty !== originalSettings.difficulty
+      difficultyChanged
     );
   };
 
@@ -91,6 +99,7 @@ export const QuizSetupTab: React.FC = () => {
 
     try {
       setIsSaving(true);
+      console.log('[QuizSetupTab] Saving settings, difficulty:', settings.difficulty);
       await updateQuizSettings(database, userId, settings);
       setOriginalSettings(settings);
       Alert.alert('Success', 'Settings saved successfully');
@@ -593,9 +602,10 @@ export const QuizSetupTab: React.FC = () => {
             </View>
           </View>
           <RadioButton.Group
-            onValueChange={(value) =>
-              setSettings((prev) => ({ ...prev, difficulty: value as NAQTDifficulty }))
-            }
+            onValueChange={(value) => {
+              console.log('[QuizSetupTab] Difficulty changed to:', value);
+              setSettings((prev) => ({ ...prev, difficulty: value as NAQTDifficulty }));
+            }}
             value={settings.difficulty}
           >
             {NAQT_DIFFICULTIES.map((difficulty) => (

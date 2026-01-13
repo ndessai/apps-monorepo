@@ -118,14 +118,16 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         console.log('TTS Wrapper initialized, loading questions...');
 
         // Load user settings
+        let userDifficulty: string | undefined;
         const user = await getCurrentUser(database);
         if (user) {
           const userSettings = await getQuizSettings(database, user.userId);
           setSettings(userSettings);
+          userDifficulty = userSettings.difficulty;
           console.log('User settings loaded:', userSettings);
         }
 
-        const data = await loadQuestions(isOnboarding);
+        const data = await loadQuestions(isOnboarding, userDifficulty);
         console.log('Questions loaded successfully:', data);
 
         setQuizData(data);
