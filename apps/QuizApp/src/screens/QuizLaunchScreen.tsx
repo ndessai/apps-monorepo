@@ -44,10 +44,10 @@ export const QuizLaunchScreen: React.FC<Props> = ({ navigation }) => {
       <View style={styles.content}>
         <View style={styles.header}>
           <Text variant="displaySmall" style={[styles.title, { color: colors.text.primary }]}>
-            Quiz Bowl
+            Quiz Me!
           </Text>
           <Text variant="bodyLarge" style={[styles.subtitle, { color: colors.text.secondary }]}>
-            Test your knowledge with NAQT format questions
+            Test your knowledge
           </Text>
         </View>
 
@@ -62,34 +62,6 @@ export const QuizLaunchScreen: React.FC<Props> = ({ navigation }) => {
           >
             Start Quiz
           </Button>
-
-          <Button
-            mode="outlined"
-            disabled
-            style={styles.button}
-            contentStyle={styles.buttonContent}
-            labelStyle={[styles.disabledButtonLabel, { color: colors.text.disabled }]}
-            testID="host-tournament-button"
-          >
-            Host Tournament
-          </Button>
-          <Text variant="bodySmall" style={[styles.comingSoon, { color: colors.text.secondary }]}>
-            Coming Soon
-          </Text>
-
-          <Button
-            mode="outlined"
-            disabled
-            style={[styles.button, styles.lastButton]}
-            contentStyle={styles.buttonContent}
-            labelStyle={[styles.disabledButtonLabel, { color: colors.text.disabled }]}
-            testID="join-tournament-button"
-          >
-            Join Tournament
-          </Button>
-          <Text variant="bodySmall" style={[styles.comingSoon, { color: colors.text.secondary }]}>
-            Coming Soon
-          </Text>
         </View>
       </View>
     </View>
