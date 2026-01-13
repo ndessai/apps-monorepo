@@ -47,9 +47,12 @@ export const QuizResultsScreen: React.FC<Props> = ({ route, navigation }) => {
     navigation.replace('Quiz');
   };
 
-  // Handle back to menu
+  // Handle back to menu - reset stack so QuizLaunch is the root
   const handleBackToMenu = () => {
-    navigation.navigate('QuizLaunch');
+    navigation.reset({
+      index: 0,
+      routes: [{ name: 'QuizLaunch' }],
+    });
   };
 
   // Combine all results for display

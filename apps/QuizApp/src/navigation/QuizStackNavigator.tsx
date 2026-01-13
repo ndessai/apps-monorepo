@@ -44,6 +44,8 @@ export const QuizStackNavigator: React.FC = () => {
         options={{
           title: '',
           headerShadowVisible: false,
+          headerBackVisible: false,
+          gestureEnabled: false,
           headerStyle: {
             backgroundColor: colors.background.default,
           },
