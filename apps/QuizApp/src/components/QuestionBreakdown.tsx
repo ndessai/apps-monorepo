@@ -10,10 +10,29 @@ import { StyleSheet, View, Pressable } from 'react-native';
 import { Text, Card } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { colors, spacing, elevation, radius } from '@monorepo/ui-components';
-import type { TossupResult, BonusResult } from '../types/quiz';
+import type { TossupQuestion, BonusQuestion } from '../types/quiz';
+
+// Runtime result types (what QuizScreen actually passes)
+interface TossupResultRuntime {
+  question: TossupQuestion;
+  userAnswer: string | null;
+  isCorrect: boolean;
+  wasBeforePowerMark: boolean;
+  wasInterrupted: boolean;
+  points: number;
+}
+
+interface BonusResultRuntime {
+  question: BonusQuestion;
+  userAnswer: string | null;
+  isCorrect: boolean;
+  points: number;
+}
+
+type ResultRuntime = TossupResultRuntime | BonusResultRuntime;
 
 interface QuestionBreakdownProps {
-  result: TossupResult | BonusResult;
+  result: ResultRuntime;
   questionNumber: number;
   testID?: string;
 }
@@ -46,6 +65,72 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
     if (result.points > 0) return colors.success.main;
     if (result.points < 0) return colors.error.main;
     return colors.text.secondary;
+  };
+
+  // Find the end of word position from a given index
+  const findWordEnd = (text: string, pos: number): number => {
+    let endPos = pos;
+    // If we're in the middle of a word, find the end of that word
+    while (endPos < text.length && !/\s/.test(text[endPos])) {
+      endPos++;
+    }
+    return endPos;
+  };
+
+  // Render question text with power mark highlighting for tossups
+  const renderQuestionText = () => {
+    if (isTossup) {
+      const tossupResult = result as TossupResultRuntime;
+      const question = tossupResult.question;
+      const powerMarkPos = question.powerMarkPosition;
+      const text = question.text;
+
+      if (powerMarkPos > 0 && powerMarkPos < text.length) {
+        // If power mark is in the middle of a word, extend to end of word
+        const adjustedPowerMarkPos = findWordEnd(text, powerMarkPos);
+        const powerPortion = text.substring(0, adjustedPowerMarkPos);
+        const remainingPortion = text.substring(adjustedPowerMarkPos);
+
+        return (
+          <Text variant="bodyMedium" style={styles.questionText}>
+            <Text style={styles.powerText}>{powerPortion}</Text>
+            <Text style={styles.powerMarker}> ★ </Text>
+            <Text>{remainingPortion}</Text>
+          </Text>
+        );
+      }
+    }
+
+    // For bonus questions, show all parts
+    if (!isTossup) {
+      const bonusResult = result as BonusResultRuntime;
+      return (
+        <View>
+          {bonusResult.question.parts.map((part, index) => (
+            <Text key={index} variant="bodyMedium" style={styles.questionText}>
+              {index + 1}. {part.text}
+            </Text>
+          ))}
+        </View>
+      );
+    }
+
+    // Default: tossup without power mark
+    return (
+      <Text variant="bodyMedium" style={styles.questionText}>
+        {(result as TossupResultRuntime).question.text}
+      </Text>
+    );
+  };
+
+  // Get the correct answer text
+  const getCorrectAnswer = () => {
+    if (isTossup) {
+      return (result as TossupResultRuntime).question.answer;
+    }
+    // For bonus, show all part answers
+    const bonusResult = result as BonusResultRuntime;
+    return bonusResult.question.parts.map((p) => p.answer).join(', ');
   };
 
   return (
@@ -92,14 +177,12 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
 
         {expanded && (
           <View style={styles.details}>
-            {/* Question text */}
+            {/* Question text with power mark for tossups */}
             <View style={styles.section}>
               <Text variant="labelMedium" style={styles.sectionLabel}>
                 Question
               </Text>
-              <Text variant="bodyMedium" style={styles.questionText}>
-                {result.question.text}
-              </Text>
+              {renderQuestionText()}
             </View>
 
             {/* Toss-up specific details */}
@@ -109,11 +192,11 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
                   Details
                 </Text>
                 <Text variant="bodySmall" style={styles.detailText}>
-                  {(result as TossupResult).wasBeforePowerMark
+                  {(result as TossupResultRuntime).wasBeforePowerMark
                     ? '⭐ Answered before power mark (15 pts)'
                     : 'Answered after power mark (10 pts)'}
                 </Text>
-                {(result as TossupResult).wasInterrupted && (
+                {(result as TossupResultRuntime).wasInterrupted && (
                   <Text variant="bodySmall" style={styles.detailText}>
                     ⚠️ Interrupted penalty (-5 pts)
                   </Text>
@@ -147,18 +230,18 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
                 Correct Answer
               </Text>
               <Text variant="bodyMedium" style={styles.correctAnswerText}>
-                {result.question.answer}
+                {getCorrectAnswer()}
               </Text>
             </View>
 
-            {/* Explanation if available */}
-            {result.question.explanation && (
+            {/* Explanation if available (tossups only) */}
+            {isTossup && (result as TossupResultRuntime).question.explanation && (
               <View style={styles.section}>
                 <Text variant="labelMedium" style={styles.sectionLabel}>
                   Explanation
                 </Text>
                 <Text variant="bodySmall" style={styles.explanationText}>
-                  {result.question.explanation}
+                  {(result as TossupResultRuntime).question.explanation}
                 </Text>
               </View>
             )}
@@ -226,6 +309,14 @@ const styles = StyleSheet.create({
   questionText: {
     color: colors.text.primary,
     lineHeight: 22,
+  },
+  powerText: {
+    color: colors.warning.dark,
+    fontWeight: '600',
+  },
+  powerMarker: {
+    color: colors.warning.main,
+    fontWeight: 'bold',
   },
   detailText: {
     color: colors.text.secondary,
