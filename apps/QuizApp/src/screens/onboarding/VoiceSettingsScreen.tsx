@@ -6,14 +6,17 @@
  */
 
 import React, { useState, useEffect, useRef, useCallback } from 'react';
-import { StyleSheet, View, Alert } from 'react-native';
+import { StyleSheet, View, ScrollView } from 'react-native';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Button, Text, Switch, Card } from 'react-native-paper';
+import Slider from '@react-native-community/slider';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import Voice from '@react-native-voice/voice';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { spacing, radius, elevation } from '@monorepo/ui-components';
 import { useTheme } from '../../providers/ThemeProvider';
 import { useSettings } from '../../providers/SettingsProvider';
+import { DEFAULT_QUIZ_SETTINGS, MIN_SILENCE_MS, MAX_SILENCE_MS } from '../../types/settings';
 import type { OnboardingStackParamList } from '../../types/navigation';
 
 type Props = NativeStackScreenProps<OnboardingStackParamList, 'VoiceSettings'>;
@@ -21,12 +24,17 @@ type Props = NativeStackScreenProps<OnboardingStackParamList, 'VoiceSettings'>;
 export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
   const { colors } = useTheme();
   const { updateSettings } = useSettings();
+  const insets = useSafeAreaInsets();
   // Default to OFF - user must explicitly enable
   const [microphoneEnabled, setMicrophoneEnabled] = useState(false);
+  const [autoSubmitOnSilence, setAutoSubmitOnSilence] = useState(true);
+  const [autoSubmitSilenceMs, setAutoSubmitSilenceMs] = useState(DEFAULT_QUIZ_SETTINGS.autoSubmitSilenceMs);
   const [isListening, setIsListening] = useState(false);
   const [spokenText, setSpokenText] = useState('');
   const [voiceAvailable, setVoiceAvailable] = useState(false);
   const isMountedRef = useRef(true);
+
+  const formatSilenceTime = (ms: number) => `${(ms / 1000).toFixed(1)}s`;
 
   const onSpeechResults = useCallback((e: any) => {
     if (e.value && e.value.length > 0 && isMountedRef.current) {
@@ -126,7 +134,8 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
     try {
       await updateSettings({
         microphoneEnabled,
-        autoSubmitOnSilence: microphoneEnabled,
+        autoSubmitOnSilence: microphoneEnabled && autoSubmitOnSilence,
+        autoSubmitSilenceMs,
       });
     } catch (error) {
       console.error('Failed to save voice settings:', error);
@@ -137,7 +146,13 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
 
   return (
     <View style={[styles.container, { backgroundColor: colors.background.default }]}>
-      <View style={styles.content}>
+      <ScrollView
+        contentContainerStyle={[
+          styles.scrollContent,
+          { paddingTop: insets.top + spacing.xl, paddingBottom: insets.bottom + spacing.xl }
+        ]}
+        showsVerticalScrollIndicator={false}
+      >
         {/* Title */}
         <Text variant="headlineMedium" style={[styles.title, { color: colors.text.primary }]}>
           Voice Interaction
@@ -159,12 +174,6 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
               <Icon name="clock-fast" size={20} color={colors.primary.main} />
               <Text variant="bodyMedium" style={[styles.benefitText, { color: colors.text.primary }]}>
                 Answer faster during timed questions
-              </Text>
-            </View>
-            <View style={styles.benefitRow}>
-              <Icon name="volume-high" size={20} color={colors.primary.main} />
-              <Text variant="bodyMedium" style={[styles.benefitText, { color: colors.text.primary }]}>
-                Questions are read aloud for better focus
               </Text>
             </View>
           </Card.Content>
@@ -198,6 +207,72 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
             </View>
           </Card.Content>
         </Card>
+
+        {/* Auto-Submit Settings - only show when microphone is enabled */}
+        {microphoneEnabled && (
+          <Card style={[styles.settingCard, { backgroundColor: colors.surface.default }]}>
+            <Card.Content>
+              {/* Auto-Submit Toggle */}
+              <View style={styles.settingRow}>
+                <View style={styles.settingInfo}>
+                  <Icon
+                    name="timer-sand"
+                    size={24}
+                    color={autoSubmitOnSilence ? colors.primary.main : colors.text.disabled}
+                  />
+                  <View style={styles.settingTextContainer}>
+                    <Text variant="titleMedium" style={[styles.settingTitle, { color: colors.text.primary }]}>
+                      Auto-Submit on Silence
+                    </Text>
+                    <Text variant="bodySmall" style={{ color: colors.text.secondary }}>
+                      Automatically submit your answer after you stop speaking
+                    </Text>
+                  </View>
+                </View>
+                <Switch
+                  value={autoSubmitOnSilence}
+                  onValueChange={setAutoSubmitOnSilence}
+                  color={colors.primary.main}
+                  testID="auto-submit-toggle"
+                />
+              </View>
+
+              {/* Silence Duration Slider - only show when auto-submit is enabled */}
+              {autoSubmitOnSilence && (
+                <View style={styles.sliderSection}>
+                  <View style={styles.sliderHeader}>
+                    <Text variant="bodyMedium" style={{ color: colors.text.secondary }}>
+                      Silence Duration
+                    </Text>
+                    <Text variant="titleMedium" style={{ color: colors.primary.main, fontWeight: '600' }}>
+                      {formatSilenceTime(autoSubmitSilenceMs)}
+                    </Text>
+                  </View>
+                  <Slider
+                    style={styles.slider}
+                    minimumValue={MIN_SILENCE_MS}
+                    maximumValue={MAX_SILENCE_MS}
+                    step={100}
+                    value={autoSubmitSilenceMs}
+                    onValueChange={setAutoSubmitSilenceMs}
+                    minimumTrackTintColor={colors.primary.main}
+                    maximumTrackTintColor={colors.divider}
+                    thumbTintColor={colors.primary.main}
+                    testID="silence-duration-slider"
+                  />
+                  <View style={styles.sliderLabels}>
+                    <Text variant="labelSmall" style={{ color: colors.text.tertiary }}>
+                      {formatSilenceTime(MIN_SILENCE_MS)}
+                    </Text>
+                    <Text variant="labelSmall" style={{ color: colors.text.tertiary }}>
+                      {formatSilenceTime(MAX_SILENCE_MS)}
+                    </Text>
+                  </View>
+                </View>
+              )}
+            </Card.Content>
+          </Card>
+        )}
 
         {/* Live Demo Area */}
         <View style={[styles.demoContainer, { backgroundColor: colors.surface.variant }]}>
@@ -252,7 +327,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
         >
           Continue
         </Button>
-      </View>
+      </ScrollView>
     </View>
   );
 };
@@ -261,9 +336,8 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
   },
-  content: {
-    flex: 1,
-    justifyContent: 'center',
+  scrollContent: {
+    flexGrow: 1,
     paddingHorizontal: spacing.xl,
   },
   title: {
@@ -309,11 +383,31 @@ const styles = StyleSheet.create({
   settingTitle: {
     fontWeight: '600',
   },
+  sliderSection: {
+    marginTop: spacing.lg,
+    paddingTop: spacing.md,
+    borderTopWidth: 1,
+    borderTopColor: 'rgba(0, 0, 0, 0.08)',
+  },
+  sliderHeader: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+    alignItems: 'center',
+    marginBottom: spacing.sm,
+  },
+  slider: {
+    width: '100%',
+    height: 40,
+  },
+  sliderLabels: {
+    flexDirection: 'row',
+    justifyContent: 'space-between',
+  },
   demoContainer: {
-    borderRadius: radius.lg,
-    padding: spacing.xl,
-    marginBottom: spacing['2xl'],
-    minHeight: 150,
+    borderRadius: radius.md,
+    padding: spacing.md,
+    marginBottom: spacing.lg,
+    minHeight: 80,
     justifyContent: 'center',
     alignItems: 'center',
   },
