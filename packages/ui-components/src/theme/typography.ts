@@ -1,17 +1,35 @@
 /**
  * Typography System - Material Design 3
  *
- * Professional, accessible typography with warm, friendly feel
+ * Professional, accessible typography with clean, modern feel
+ * Using SF Pro (iOS system font) / Roboto (Android) - Apple's San Francisco font
  */
 
-import { TextStyle } from 'react-native';
+import { Platform, TextStyle } from 'react-native';
 
-// Font families
+// Font families - San Francisco (SF Pro) on iOS, Roboto on Android
+// SF Pro is Apple's system font - clean, modern, and highly readable
 export const fontFamily = {
-  regular: 'System',      // iOS: SF Pro, Android: Roboto
-  medium: 'System',
-  bold: 'System',
-  light: 'System',
+  regular: Platform.select({
+    ios: 'System',  // Maps to SF Pro on iOS
+    android: 'sans-serif',  // Roboto on Android
+    default: 'System',
+  }) as string,
+  medium: Platform.select({
+    ios: 'System',
+    android: 'sans-serif-medium',
+    default: 'System',
+  }) as string,
+  bold: Platform.select({
+    ios: 'System',
+    android: 'sans-serif',
+    default: 'System',
+  }) as string,
+  light: Platform.select({
+    ios: 'System',
+    android: 'sans-serif-light',
+    default: 'System',
+  }) as string,
 } as const;
 
 // Font weights

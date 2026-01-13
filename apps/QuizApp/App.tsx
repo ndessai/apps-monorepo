@@ -14,7 +14,7 @@ import { GestureHandlerRootView } from 'react-native-gesture-handler';
 import { QueryProvider } from './src/providers/QueryProvider';
 import { DatabaseProvider } from './src/providers/DatabaseProvider';
 import { ThemeProvider, useTheme } from './src/providers/ThemeProvider';
-import { QuizStackNavigator } from './src/navigation/QuizStackNavigator';
+import { RootNavigator } from './src/navigation/RootNavigator';
 import { getPaperTheme } from '@monorepo/ui-components';
 import { configureGoogleSignIn } from './src/services/googleSignIn';
 
@@ -26,7 +26,7 @@ function AppContent() {
     <PaperProvider theme={paperTheme}>
       <NavigationContainer>
         <StatusBar barStyle={theme === 'dark' ? 'light-content' : 'dark-content'} />
-        <QuizStackNavigator />
+        <RootNavigator />
       </NavigationContainer>
     </PaperProvider>
   );

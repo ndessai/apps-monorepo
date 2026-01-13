@@ -22,15 +22,36 @@ export type SettingsTabParamList = {
 // Quiz Stack navigation
 export type QuizStackParamList = {
   QuizLaunch: undefined;
-  Quiz: undefined;
+  Quiz: { isOnboarding?: boolean } | undefined;
   QuizResults: {
     session: SerializableQuizSession;
+    isOnboarding?: boolean;
   };
   Settings: NavigatorScreenParams<SettingsTabParamList>;
 };
 
+// Onboarding Stack navigation
+export type OnboardingStackParamList = {
+  Welcome: undefined;
+  ThemeSelection: undefined;
+  VoiceSettings: undefined;
+  TimerSettings: undefined;
+  SampleQuizIntro: undefined;
+  Quiz: { isOnboarding: true };
+  QuizResults: {
+    session: SerializableQuizSession;
+    isOnboarding: true;
+  };
+};
+
+// Root Navigator param list
+export type RootStackParamList = {
+  Onboarding: NavigatorScreenParams<OnboardingStackParamList>;
+  Main: NavigatorScreenParams<QuizStackParamList>;
+};
+
 declare global {
   namespace ReactNavigation {
-    interface RootParamList extends QuizStackParamList {}
+    interface RootParamList extends RootStackParamList {}
   }
 }

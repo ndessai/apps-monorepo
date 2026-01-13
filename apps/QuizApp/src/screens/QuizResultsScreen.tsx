@@ -6,19 +6,21 @@
  */
 
 import React from 'react';
-import { StyleSheet, View, ScrollView } from 'react-native';
+import { StyleSheet, View, ScrollView, TouchableOpacity } from 'react-native';
 import { Button, Text } from 'react-native-paper';
+import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { spacing, elevation, radius } from '@monorepo/ui-components';
 import { useTheme } from '../providers/ThemeProvider';
 import type { QuizStackParamList } from '../types/navigation';
 import { QuestionBreakdown } from '../components';
+import { appStateStorage } from '../storage/KeyValueStorage';
 
 type Props = NativeStackScreenProps<QuizStackParamList, 'QuizResults'>;
 
 export const QuizResultsScreen: React.FC<Props> = ({ route, navigation }) => {
   const { colors } = useTheme();
-  const { session } = route.params;
+  const { session, isOnboarding } = route.params;
 
   // Calculate statistics
   const accuracy =
@@ -53,6 +55,13 @@ export const QuizResultsScreen: React.FC<Props> = ({ route, navigation }) => {
       index: 0,
       routes: [{ name: 'QuizLaunch' }],
     });
+  };
+
+  // Handle finish onboarding - mark complete and RootNavigator will auto-switch to Main
+  const handleFinishOnboarding = () => {
+    // Setting this flag triggers the MMKV listener in RootNavigator
+    // which automatically switches from OnboardingNavigator to QuizStackNavigator
+    appStateStorage.setOnboardingCompleted(true);
   };
 
   // Combine all results for display
@@ -140,25 +149,42 @@ export const QuizResultsScreen: React.FC<Props> = ({ route, navigation }) => {
 
       {/* Action Buttons */}
       <View style={[styles.actionsContainer, { backgroundColor: colors.surface.elevated, borderTopColor: colors.divider }]}>
-        <Button
-          mode="contained"
-          onPress={handlePlayAgain}
-          style={styles.actionButton}
-          contentStyle={styles.buttonContent}
-          testID="play-again-button"
-        >
-          Play Again
-        </Button>
+        {isOnboarding ? (
+          // Onboarding mode: Show only home button
+          <TouchableOpacity
+            style={[styles.homeButton, { backgroundColor: colors.primary.main }]}
+            onPress={handleFinishOnboarding}
+            testID="finish-onboarding-button"
+          >
+            <Icon name="home" size={28} color={colors.primary.onPrimary} />
+            <Text variant="titleMedium" style={[styles.homeButtonText, { color: colors.primary.onPrimary }]}>
+              Go to Home
+            </Text>
+          </TouchableOpacity>
+        ) : (
+          // Regular mode: Show play again and back to menu buttons
+          <>
+            <Button
+              mode="contained"
+              onPress={handlePlayAgain}
+              style={styles.actionButton}
+              contentStyle={styles.buttonContent}
+              testID="play-again-button"
+            >
+              Play Again
+            </Button>
 
-        <Button
-          mode="outlined"
-          onPress={handleBackToMenu}
-          style={styles.actionButton}
-          contentStyle={styles.buttonContent}
-          testID="back-to-menu-button"
-        >
-          Back to Menu
-        </Button>
+            <Button
+              mode="outlined"
+              onPress={handleBackToMenu}
+              style={styles.actionButton}
+              contentStyle={styles.buttonContent}
+              testID="back-to-menu-button"
+            >
+              Back to Menu
+            </Button>
+          </>
+        )}
       </View>
     </View>
   );
@@ -237,5 +263,17 @@ const styles = StyleSheet.create({
   },
   buttonContent: {
     paddingVertical: spacing.sm,
+  },
+  homeButton: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'center',
+    paddingVertical: spacing.md,
+    paddingHorizontal: spacing.xl,
+    borderRadius: radius.md,
+    gap: spacing.sm,
+  },
+  homeButtonText: {
+    fontWeight: '600',
   },
 });

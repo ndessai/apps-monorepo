@@ -50,9 +50,10 @@ const ANSWER_DURATION = 8000; // 8 seconds to answer after buzzing
 const BONUS_ANSWER_DURATION = 5000; // 5 seconds per part
 const REVIEW_DURATION = 2000; // 2 seconds to show result
 
-export const QuizScreen: React.FC<Props> = ({ navigation }) => {
+export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
   const database = useDatabase();
   const { colors } = useTheme();
+  const isOnboarding = route.params?.isOnboarding ?? false;
 
   // Quiz data
   const [quizData, setQuizData] = useState<QuizData | null>(null);
@@ -425,14 +426,19 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       wasInterrupted
     );
 
-    // Create result
+    // Create result matching TossupResult type
     const result: TossupResult = {
-      question,
-      userAnswer: answer,
-      isCorrect,
+      questionId: question.id,
+      category: question.category,
+      questionText: question.text,
+      buzzedAt: currentCharIndex,
       wasBeforePowerMark,
+      userAnswer: answer,
+      correctAnswer: question.answer,
+      isCorrect,
       wasInterrupted,
       points,
+      explanation: question.explanation,
     };
 
     setTossupResults([...tossupResults, result]);
@@ -565,33 +571,47 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     const part = bonus.parts[currentBonusPartIndex];
 
     const isCorrect = validateAnswer(answer, part.acceptableAnswers);
-    const points = isCorrect ? (part.pointValue || 10) : 0; // Default to 10 points per part
+    const partPoints = isCorrect ? (part.pointValue || 10) : 0; // Default to 10 points per part
+
+    // Create part result
+    const partResult = {
+      partIndex: currentBonusPartIndex,
+      questionText: part.text,
+      userAnswer: answer,
+      correctAnswer: part.answer,
+      isCorrect,
+      points: partPoints,
+    };
 
     // Store bonus result (accumulate for all parts)
-    const existingResult = bonusResults.find(
-      (r) => r.question.id === bonus.id
+    const existingResultIndex = bonusResults.findIndex(
+      (r) => r.questionId === bonus.id
     );
 
-    if (existingResult) {
-      existingResult.points += points;
-      existingResult.userAnswer = answer;
-      setBonusResults([...bonusResults]);
+    if (existingResultIndex >= 0) {
+      // Add to existing result
+      const updatedResults = [...bonusResults];
+      updatedResults[existingResultIndex].parts.push(partResult);
+      updatedResults[existingResultIndex].totalPoints += partPoints;
+      setBonusResults(updatedResults);
     } else {
+      // Create new result
       const result: BonusResult = {
-        question: bonus,
-        userAnswer: answer,
-        isCorrect,
-        points,
+        questionId: bonus.id,
+        category: bonus.category,
+        linkedTossupId: bonus.linkedTossupId,
+        parts: [partResult],
+        totalPoints: partPoints,
       };
       setBonusResults([...bonusResults, result]);
     }
 
-    setCurrentScore(currentScore + points);
+    setCurrentScore(currentScore + partPoints);
 
     // Show feedback
     setFeedbackData({
       isCorrect,
-      points,
+      points: partPoints,
       userAnswer: answer || null,
       acceptableAnswers: part.acceptableAnswers,
       questionType: 'bonus',
@@ -619,12 +639,17 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     if (question && 'powerMarkPosition' in question) {
       const tossupQuestion = question as TossupQuestion;
       const result: TossupResult = {
-        question: tossupQuestion,
-        userAnswer: null,
-        isCorrect: false,
+        questionId: tossupQuestion.id,
+        category: tossupQuestion.category,
+        questionText: tossupQuestion.text,
+        buzzedAt: null,
         wasBeforePowerMark: false,
+        userAnswer: '',
+        correctAnswer: tossupQuestion.answer,
+        isCorrect: false,
         wasInterrupted: false,
         points: 0,
+        explanation: tossupQuestion.explanation,
       };
 
       setTossupResults((prev) => [...prev, result]);
@@ -668,15 +693,37 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
 
     const part = bonus.parts[partIndex];
 
-    // Treat as incorrect (0 points)
-    const result: BonusResult = {
-      question: bonus,
-      userAnswer: null,
+    // Create part result for timeout (incorrect, 0 points)
+    const partResult = {
+      partIndex,
+      questionText: part.text,
+      userAnswer: '',
+      correctAnswer: part.answer,
       isCorrect: false,
       points: 0,
     };
 
-    setBonusResults([...bonusResults, result]);
+    // Store bonus result (accumulate for all parts)
+    const existingResultIndex = bonusResults.findIndex(
+      (r) => r.questionId === bonus.id
+    );
+
+    if (existingResultIndex >= 0) {
+      // Add to existing result
+      const updatedResults = [...bonusResults];
+      updatedResults[existingResultIndex].parts.push(partResult);
+      setBonusResults(updatedResults);
+    } else {
+      // Create new result
+      const result: BonusResult = {
+        questionId: bonus.id,
+        category: bonus.category,
+        linkedTossupId: bonus.linkedTossupId,
+        parts: [partResult],
+        totalPoints: 0,
+      };
+      setBonusResults([...bonusResults, result]);
+    }
 
     // Show feedback for timeout
     setFeedbackData({
@@ -742,7 +789,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
               completedAt: new Date().toISOString(),
             };
 
-            navigation.replace('QuizResults', { session });
+            navigation.replace('QuizResults', { session, isOnboarding });
           },
         },
       ]
@@ -761,7 +808,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
       completedAt: new Date().toISOString(),
     };
 
-    navigation.replace('QuizResults', { session });
+    navigation.replace('QuizResults', { session, isOnboarding });
   };
 
   // Calculate max possible score
