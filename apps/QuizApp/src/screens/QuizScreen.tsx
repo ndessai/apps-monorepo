@@ -125,7 +125,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
           console.log('User settings loaded:', userSettings);
         }
 
-        const data = await loadQuestions();
+        const data = await loadQuestions(isOnboarding);
         console.log('Questions loaded successfully:', data);
 
         setQuizData(data);
