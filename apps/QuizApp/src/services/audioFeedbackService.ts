@@ -15,70 +15,78 @@ export interface FeedbackContext {
   points: number;
   questionType: 'tossup' | 'bonus';
   tone: AudioFeedbackTone;
+  userAnswer?: string | null;
+  correctAnswer?: string;
 }
+
+// Template function types
+type CorrectTemplate = (userAnswer: string, points: number) => string;
+type IncorrectTemplate = (userAnswer: string, correctAnswer: string) => string;
+type TimeUpTemplate = (correctAnswer: string) => string;
+type SimpleTemplate = () => string;
 
 // Positive tone feedback templates
 const POSITIVE_FEEDBACK = {
   correct: [
-    (points: number) => `Correct! You earned ${points} points. Great job!`,
-    (points: number) => `That's right! ${points} points for you. Well done!`,
-    (points: number) => `Excellent! ${points} points added. Keep it up!`,
-    (points: number) => `Perfect! You got ${points} points. Nice work!`,
-  ],
+    (userAnswer: string, points: number) => `Your answer "${userAnswer}" is correct! You earned ${points} points. Great job!`,
+    (userAnswer: string, points: number) => `"${userAnswer}" - that's right! ${points} points for you. Well done!`,
+    (userAnswer: string, points: number) => `Excellent! "${userAnswer}" is correct. ${points} points added. Keep it up!`,
+    (userAnswer: string, points: number) => `Perfect! "${userAnswer}" earns you ${points} points. Nice work!`,
+  ] as CorrectTemplate[],
   incorrect: [
-    () => `Not quite. You'll get the next one!`,
-    () => `That's not it. Keep trying!`,
-    () => `Close, but not correct. Don't give up!`,
-    () => `Not the answer we were looking for. You've got this!`,
-  ],
+    (userAnswer: string, correctAnswer: string) => `Your answer "${userAnswer}" is incorrect. The correct answer is "${correctAnswer}". You'll get the next one!`,
+    (userAnswer: string, correctAnswer: string) => `"${userAnswer}" is not quite right. It was "${correctAnswer}". Keep trying!`,
+    (userAnswer: string, correctAnswer: string) => `Close, but "${userAnswer}" is incorrect. The answer was "${correctAnswer}". Don't give up!`,
+    (userAnswer: string, correctAnswer: string) => `"${userAnswer}" wasn't the answer. It was "${correctAnswer}". You've got this!`,
+  ] as IncorrectTemplate[],
   timeUp: [
-    () => `Time's up! No points this round.`,
-    () => `Out of time! Better luck next question.`,
-    () => `Time ran out. You'll nail the next one!`,
-  ],
+    (correctAnswer: string) => `Time's up! The answer was "${correctAnswer}". No points this round.`,
+    (correctAnswer: string) => `Out of time! It was "${correctAnswer}". Better luck next question.`,
+    (correctAnswer: string) => `Time ran out. The correct answer was "${correctAnswer}". You'll nail the next one!`,
+  ] as TimeUpTemplate[],
   nextQuestion: [
     () => `Moving on to the next question.`,
     () => `Here comes the next one.`,
     () => `Let's continue.`,
     () => `Ready for another?`,
-  ],
+  ] as SimpleTemplate[],
   bonusIntro: [
     () => `Bonus question time!`,
     () => `Here's your bonus.`,
     () => `Bonus round!`,
-  ],
+  ] as SimpleTemplate[],
 };
 
 // Sarcastic tone feedback templates
 const SARCASTIC_FEEDBACK = {
   correct: [
-    (points: number) => `Oh wow, you actually got it right. ${points} points for you.`,
-    (points: number) => `Well, look who knows things. ${points} points.`,
-    (points: number) => `Correct. I'm genuinely surprised. ${points} points.`,
-    (points: number) => `Fine, take your ${points} points. Show off.`,
-  ],
+    (userAnswer: string, points: number) => `Your answer "${userAnswer}" is actually correct. ${points} points for you. Color me impressed.`,
+    (userAnswer: string, points: number) => `"${userAnswer}" - well, look who knows things. ${points} points.`,
+    (userAnswer: string, points: number) => `"${userAnswer}" is correct. I'm genuinely surprised. ${points} points.`,
+    (userAnswer: string, points: number) => `Fine, "${userAnswer}" is right. Take your ${points} points. Show off.`,
+  ] as CorrectTemplate[],
   incorrect: [
-    () => `Nope. Not even close. Better luck next time, champ.`,
-    () => `Wrong. Shocking, I know.`,
-    () => `That's... not it. Did you even read the question?`,
-    () => `Incorrect. Maybe try thinking next time?`,
-  ],
+    (userAnswer: string, correctAnswer: string) => `Your answer "${userAnswer}" is incorrect. It was "${correctAnswer}". Not even close, champ.`,
+    (userAnswer: string, correctAnswer: string) => `"${userAnswer}"? Wrong. It was "${correctAnswer}". Shocking, I know.`,
+    (userAnswer: string, correctAnswer: string) => `"${userAnswer}" is not it. The answer was "${correctAnswer}". Did you even read the question?`,
+    (userAnswer: string, correctAnswer: string) => `Nope, "${userAnswer}" is incorrect. It was "${correctAnswer}". Maybe try thinking next time?`,
+  ] as IncorrectTemplate[],
   timeUp: [
-    () => `Tick tock. Time's up. Zero points.`,
-    () => `Too slow. The clock waits for no one.`,
-    () => `Time ran out. Were you even trying?`,
-  ],
+    (correctAnswer: string) => `Tick tock. Time's up. It was "${correctAnswer}". Zero points.`,
+    (correctAnswer: string) => `Too slow. The answer was "${correctAnswer}". The clock waits for no one.`,
+    (correctAnswer: string) => `Time ran out. It was "${correctAnswer}". Were you even trying?`,
+  ] as TimeUpTemplate[],
   nextQuestion: [
     () => `Alright, let's see if you can handle this one.`,
     () => `Moving on. Try to keep up.`,
     () => `Next question. No pressure.`,
     () => `Here we go again.`,
-  ],
+  ] as SimpleTemplate[],
   bonusIntro: [
     () => `Bonus question. Don't mess it up.`,
     () => `Here's a bonus. No pressure or anything.`,
     () => `Bonus round. Let's see what you've got.`,
-  ],
+  ] as SimpleTemplate[],
 };
 
 /**
@@ -93,16 +101,18 @@ function randomChoice<T>(arr: T[]): T {
  */
 export function generateFeedbackText(context: FeedbackContext): string {
   const templates = context.tone === 'Positive' ? POSITIVE_FEEDBACK : SARCASTIC_FEEDBACK;
+  const userAnswer = context.userAnswer?.trim() || 'no answer';
+  const correctAnswer = context.correctAnswer || 'the correct answer';
 
   if (context.isTimeUp) {
-    return randomChoice(templates.timeUp)();
+    return randomChoice(templates.timeUp)(correctAnswer);
   }
 
   if (context.isCorrect) {
-    return randomChoice(templates.correct)(context.points);
+    return randomChoice(templates.correct)(userAnswer, context.points);
   }
 
-  return randomChoice(templates.incorrect)();
+  return randomChoice(templates.incorrect)(userAnswer, correctAnswer);
 }
 
 /**

@@ -87,12 +87,14 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
 
   // Answer feedback state
   const [feedbackVisible, setFeedbackVisible] = useState(false);
+  const [feedbackTimerStarted, setFeedbackTimerStarted] = useState(false);
   const [feedbackData, setFeedbackData] = useState<{
     isCorrect: boolean;
     points: number;
     userAnswer: string | null;
     acceptableAnswers: string[];
     questionType: QuestionType;
+    correctAnswer?: string;
   } | null>(null);
 
   // Pending action after feedback review completes
@@ -438,7 +440,20 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
     setTossupResults([...tossupResults, result]);
     setCurrentScore(currentScore + points);
 
-    // Speak audio feedback if enabled
+    // Step 1: Show visual feedback immediately
+    setFeedbackData({
+      isCorrect,
+      points,
+      userAnswer: answer || null,
+      acceptableAnswers: question.acceptableAnswers,
+      questionType: 'tossup',
+      correctAnswer: question.answer,
+    });
+    setFeedbackTimerStarted(false); // Don't start timer yet
+    setFeedbackVisible(true);
+    setQuizState('review');
+
+    // Step 2: Speak audio feedback if enabled, then start timer
     if (settings.provideAudioFeedback) {
       await audioFeedbackService.speakFeedback({
         isCorrect,
@@ -446,19 +461,13 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         points,
         questionType: 'tossup',
         tone: settings.audioFeedbackTone,
+        userAnswer: answer,
+        correctAnswer: question.answer,
       });
     }
 
-    // Show feedback
-    setFeedbackData({
-      isCorrect,
-      points,
-      userAnswer: answer || null,
-      acceptableAnswers: question.acceptableAnswers,
-      questionType: 'tossup',
-    });
-    setFeedbackVisible(true);
-    setQuizState('review');
+    // Step 3: Start the countdown timer after audio completes
+    setFeedbackTimerStarted(true);
 
     // Set pending action for after review completes
     if (isCorrect) {
@@ -613,7 +622,20 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
 
     setCurrentScore(currentScore + partPoints);
 
-    // Speak audio feedback if enabled
+    // Step 1: Show visual feedback immediately
+    setFeedbackData({
+      isCorrect,
+      points: partPoints,
+      userAnswer: answer || null,
+      acceptableAnswers: part.acceptableAnswers,
+      questionType: 'bonus',
+      correctAnswer: part.answer,
+    });
+    setFeedbackTimerStarted(false); // Don't start timer yet
+    setFeedbackVisible(true);
+    setQuizState('review');
+
+    // Step 2: Speak audio feedback if enabled
     if (settings.provideAudioFeedback) {
       await audioFeedbackService.speakFeedback({
         isCorrect,
@@ -621,19 +643,13 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         points: partPoints,
         questionType: 'bonus',
         tone: settings.audioFeedbackTone,
+        userAnswer: answer,
+        correctAnswer: part.answer,
       });
     }
 
-    // Show feedback
-    setFeedbackData({
-      isCorrect,
-      points: partPoints,
-      userAnswer: answer || null,
-      acceptableAnswers: part.acceptableAnswers,
-      questionType: 'bonus',
-    });
-    setFeedbackVisible(true);
-    setQuizState('review');
+    // Step 3: Start the countdown timer after audio completes
+    setFeedbackTimerStarted(true);
 
     // Set pending action - move to next part after review
     const nextPartIndex = currentBonusPartIndex + 1;
@@ -670,7 +686,20 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
 
       setTossupResults((prev) => [...prev, result]);
 
-      // Speak audio feedback for time up if enabled
+      // Step 1: Show visual feedback immediately
+      setFeedbackData({
+        isCorrect: false,
+        points: 0,
+        userAnswer: null,
+        acceptableAnswers: tossupQuestion.acceptableAnswers,
+        questionType: 'tossup',
+        correctAnswer: tossupQuestion.answer,
+      });
+      setFeedbackTimerStarted(false); // Don't start timer yet
+      setFeedbackVisible(true);
+      setQuizState('review');
+
+      // Step 2: Speak audio feedback for time up if enabled
       if (settings.provideAudioFeedback) {
         await audioFeedbackService.speakFeedback({
           isCorrect: false,
@@ -678,20 +707,13 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
           points: 0,
           questionType: 'tossup',
           tone: settings.audioFeedbackTone,
+          userAnswer: null,
+          correctAnswer: tossupQuestion.answer,
         });
       }
 
-      // Show feedback for timeout - set feedback data first, then show it
-      const feedbackInfo = {
-        isCorrect: false,
-        points: 0,
-        userAnswer: null,
-        acceptableAnswers: tossupQuestion.acceptableAnswers,
-        questionType: 'tossup' as const,
-      };
-      setFeedbackData(feedbackInfo);
-      setFeedbackVisible(true);
-      setQuizState('review');
+      // Step 3: Start the countdown timer after audio completes
+      setFeedbackTimerStarted(true);
 
       // Set pending action using functional update to avoid stale closure
       pendingActionRef.current = () => {
@@ -752,7 +774,20 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
       setBonusResults([...bonusResults, result]);
     }
 
-    // Speak audio feedback for time up if enabled
+    // Step 1: Show visual feedback immediately
+    setFeedbackData({
+      isCorrect: false,
+      points: 0,
+      userAnswer: null,
+      acceptableAnswers: part.acceptableAnswers,
+      questionType: 'bonus',
+      correctAnswer: part.answer,
+    });
+    setFeedbackTimerStarted(false); // Don't start timer yet
+    setFeedbackVisible(true);
+    setQuizState('review');
+
+    // Step 2: Speak audio feedback for time up if enabled
     if (settings.provideAudioFeedback) {
       await audioFeedbackService.speakFeedback({
         isCorrect: false,
@@ -760,19 +795,13 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         points: 0,
         questionType: 'bonus',
         tone: settings.audioFeedbackTone,
+        userAnswer: null,
+        correctAnswer: part.answer,
       });
     }
 
-    // Show feedback for timeout
-    setFeedbackData({
-      isCorrect: false,
-      points: 0,
-      userAnswer: null,
-      acceptableAnswers: part.acceptableAnswers,
-      questionType: 'bonus',
-    });
-    setFeedbackVisible(true);
-    setQuizState('review');
+    // Step 3: Start the countdown timer after audio completes
+    setFeedbackTimerStarted(true);
 
     // Set pending action - move to next part after review
     const nextPartIndex = partIndex + 1;
@@ -788,6 +817,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
   const handleReviewComplete = () => {
     setFeedbackVisible(false);
     setFeedbackData(null);
+    setFeedbackTimerStarted(false); // Reset for next feedback
 
     // Execute pending action if any
     if (pendingActionRef.current) {
@@ -992,6 +1022,8 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
               : settings.bonusReviewTimeMs
           }
           onReviewComplete={handleReviewComplete}
+          delayTimer={settings.provideAudioFeedback}
+          startTimer={feedbackTimerStarted}
           testID="quiz-answer-feedback"
         />
       )}

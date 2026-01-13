@@ -34,6 +34,10 @@ interface AnswerFeedbackProps {
   questionType: QuestionType;
   reviewTimeMs: number;
   onReviewComplete: () => void;
+  /** When true, delays countdown timer start until startTimer is called */
+  delayTimer?: boolean;
+  /** Signal to start the countdown timer (only used when delayTimer is true) */
+  startTimer?: boolean;
   testID?: string;
 }
 
@@ -48,6 +52,8 @@ export const AnswerFeedback: React.FC<AnswerFeedbackProps> = ({
   questionType,
   reviewTimeMs,
   onReviewComplete,
+  delayTimer = false,
+  startTimer = false,
   testID = 'answer-feedback',
 }) => {
   const { colors } = useTheme();
@@ -67,28 +73,11 @@ export const AnswerFeedback: React.FC<AnswerFeedbackProps> = ({
     }).start();
   }, [visible, translateY]);
 
-  // Reset and start countdown when visible
+  // Reset time when visible changes
   useEffect(() => {
     if (visible) {
       setTimeRemaining(Math.ceil(reviewTimeMs / 1000));
       hasCalledCompleteRef.current = false;
-
-      timerRef.current = setInterval(() => {
-        setTimeRemaining((prev) => {
-          if (prev <= 1) {
-            if (timerRef.current) {
-              clearInterval(timerRef.current);
-              timerRef.current = null;
-            }
-            if (!hasCalledCompleteRef.current) {
-              hasCalledCompleteRef.current = true;
-              setTimeout(() => onReviewComplete(), 0);
-            }
-            return 0;
-          }
-          return prev - 1;
-        });
-      }, 1000);
     } else {
       if (timerRef.current) {
         clearInterval(timerRef.current);
@@ -102,7 +91,41 @@ export const AnswerFeedback: React.FC<AnswerFeedbackProps> = ({
         timerRef.current = null;
       }
     };
-  }, [visible, reviewTimeMs, onReviewComplete]);
+  }, [visible, reviewTimeMs]);
+
+  // Start countdown timer - either immediately when visible (if not delayTimer) or when startTimer becomes true
+  useEffect(() => {
+    // Don't start if not visible or already have a timer running
+    if (!visible || timerRef.current) return;
+
+    // If delayTimer is true, wait for startTimer signal
+    if (delayTimer && !startTimer) return;
+
+    // Start the countdown
+    timerRef.current = setInterval(() => {
+      setTimeRemaining((prev) => {
+        if (prev <= 1) {
+          if (timerRef.current) {
+            clearInterval(timerRef.current);
+            timerRef.current = null;
+          }
+          if (!hasCalledCompleteRef.current) {
+            hasCalledCompleteRef.current = true;
+            setTimeout(() => onReviewComplete(), 0);
+          }
+          return 0;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+
+    return () => {
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+        timerRef.current = null;
+      }
+    };
+  }, [visible, delayTimer, startTimer, onReviewComplete]);
 
   // Pulse animation for countdown timer
   useEffect(() => {
