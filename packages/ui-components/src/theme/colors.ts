@@ -1,10 +1,10 @@
 /**
  * Color Palette - Material Design 3
  *
- * Turquoise Sapphire Serenade color scheme with:
- * - Deep sapphire blue primary for elegance and depth
- * - Turquoise/teal accents for freshness and serenity
- * - Cool, calming tones throughout
+ * Forest Green & Mint color scheme for school students:
+ * - Forest green primary for natural, calming feel
+ * - Mint accents for fresh, inviting tones
+ * - Calming, nature-inspired colors
  * - High contrast for accessibility
  * - Support for light and dark themes
  */
@@ -13,109 +13,109 @@ export type ThemeMode = 'light' | 'dark';
 
 // Light theme colors
 export const lightColors = {
-  // Primary - Deep Sapphire Blue
+  // Primary - Forest Green
   primary: {
-    main: '#1E3A5F',      // Deep sapphire
-    light: '#2E5984',     // Medium sapphire
-    dark: '#0F1F33',      // Darker sapphire
-    container: '#485c0cff', // Light sapphire container
+    main: '#2E7D32',      // Forest green
+    light: '#4CAF50',     // Light green
+    dark: '#1B5E20',      // Deep forest
+    container: '#E8F5E9', // Light green container
     onPrimary: '#FFFFFF', // Text on primary
-    onContainer: '#061425ff', // Text on container
+    onContainer: '#1B5E20', // Text on container
   },
 
-  // Secondary - Turquoise
+  // Secondary - Mint
   secondary: {
-    main: '#40E0D0',      // Turquoise
-    light: '#7FECE1',     // Light turquoise
-    dark: '#20B2AA',      // Dark turquoise (Light Sea Green)
-    container: '#E0F7F6', // Light turquoise container
-    onSecondary: '#0F1F33', // Text on secondary (dark for contrast)
-    onContainer: '#0D6B66', // Text on container
+    main: '#26A69A',      // Mint/Teal
+    light: '#4DB6AC',     // Light mint
+    dark: '#00897B',      // Deep teal
+    container: '#E0F2F1', // Light mint container
+    onSecondary: '#FFFFFF', // Text on secondary
+    onContainer: '#004D40', // Text on container
   },
 
-  // Tertiary - Soft Teal accent
+  // Tertiary - Lime accent
   tertiary: {
-    main: '#5F9EA0',      // Cadet blue/teal
-    light: '#88BFC1',     // Light teal
-    dark: '#3D7A7C',      // Medium teal
-    container: '#E5F2F2', // Light teal container
+    main: '#7CB342',      // Lime green
+    light: '#9CCC65',     // Light lime
+    dark: '#558B2F',      // Deep lime
+    container: '#F1F8E9', // Light lime container
     onTertiary: '#FFFFFF', // Text on tertiary
-    onContainer: '#2A5658', // Text on container
+    onContainer: '#33691E', // Text on container
   },
 
-  // Error - Coral Red (complementary to turquoise)
+  // Error - Red
   error: {
-    main: '#E74C3C',
-    light: '#EC7063',
-    dark: '#C0392B',
-    container: '#FDEDEB',
+    main: '#E53935',
+    light: '#EF5350',
+    dark: '#C62828',
+    container: '#FFEBEE',
     onError: '#FFFFFF',
-    onContainer: '#922B21',
+    onContainer: '#5D1A1A',
   },
 
-  // Warning - Golden Amber
+  // Warning - Amber
   warning: {
-    main: '#F39C12',
-    light: '#F7C156',
-    dark: '#D68910',
-    container: '#FEF5E6',
+    main: '#FFA000',
+    light: '#FFB74D',
+    dark: '#FF8F00',
+    container: '#FFF8E1',
     onWarning: '#000000',
-    onContainer: '#9A6209',
+    onContainer: '#5D4A00',
   },
 
-  // Success - Sea Green
+  // Success - Green
   success: {
-    main: '#27AE60',
-    light: '#58D68D',
-    dark: '#1E8449',
-    container: '#E9F7EF',
+    main: '#43A047',
+    light: '#66BB6A',
+    dark: '#2E7D32',
+    container: '#E8F5E9',
     onSuccess: '#FFFFFF',
-    onContainer: '#145A32',
+    onContainer: '#1B5E20',
   },
 
-  // Info - Ocean Blue
+  // Info - Blue
   info: {
-    main: '#3498DB',
-    light: '#5DADE2',
-    dark: '#2E86C1',
-    container: '#EBF5FB',
+    main: '#1976D2',
+    light: '#42A5F5',
+    dark: '#1565C0',
+    container: '#E3F2FD',
     onInfo: '#FFFFFF',
-    onContainer: '#1A5276',
+    onContainer: '#0D47A1',
   },
 
-  // Background - Serene light with subtle cool tint
+  // Background - Clean neutral
   background: {
-    default: '#F5F9FA',   // Very light cyan-gray
+    default: '#FAFAFA',   // Very light gray
     paper: '#FFFFFF',     // Pure white for cards
     elevated: '#FFFFFF',  // Elevated surfaces
   },
 
-  // Surface - Clean surfaces with cool undertones
+  // Surface - Neutral surfaces
   surface: {
     default: '#FFFFFF',
-    variant: '#F0F5F6',   // Very light teal tint
-    tint: '#E1EBF5',      // Sapphire tinted surface
+    variant: '#F5F5F5',   // Very light gray tint
+    tint: '#E8F5E9',      // Green tinted surface
     elevated: '#FFFFFF',
   },
 
-  // Text - High contrast with cool undertones
+  // Text - Pure neutral gray tones
   text: {
-    primary: '#1A2A3A',    // Deep blue-gray
-    secondary: '#4A6572',  // Cool gray secondary
-    tertiary: '#7A8D97',   // Light cool gray
-    disabled: '#A8B8C2',   // Disabled text
+    primary: '#212121',    // Near black
+    secondary: '#424242',  // Dark gray
+    tertiary: '#757575',   // Medium gray
+    disabled: '#BDBDBD',   // Disabled text
     onPrimary: '#FFFFFF',  // Text on primary color
-    onSecondary: '#0F1F33', // Text on secondary
-    onBackground: '#1A2A3A', // Text on background
-    onSurface: '#1A2A3A',   // Text on surface
+    onSecondary: '#FFFFFF', // Text on secondary
+    onBackground: '#212121', // Text on background
+    onSurface: '#212121',   // Text on surface
   },
 
   // Divider and Borders
-  divider: '#D5E1E8',      // Cool divider
+  divider: '#E0E0E0',      // Neutral divider
   border: {
-    light: '#D5E1E8',
-    main: '#B8CCD6',
-    dark: '#9AB5C3',
+    light: '#E0E0E0',
+    main: '#BDBDBD',
+    dark: '#9E9E9E',
   },
 
   // Overlay and Shadows
@@ -126,154 +126,154 @@ export const lightColors = {
     dark: 'rgba(0, 0, 0, 0.5)',
   },
 
-  // Neutral palette (cool grays)
+  // Neutral palette (pure grays)
   neutral: {
-    50: '#FAFBFC',
-    100: '#F0F3F5',
-    200: '#E1E7EB',
-    300: '#CED6DC',
-    400: '#A8B8C2',
-    500: '#7A8D97',
-    600: '#5A6D78',
-    700: '#445560',
-    800: '#2E3D47',
-    900: '#1A2A3A',
+    50: '#FAFAFA',
+    100: '#F5F5F5',
+    200: '#EEEEEE',
+    300: '#E0E0E0',
+    400: '#BDBDBD',
+    500: '#9E9E9E',
+    600: '#757575',
+    700: '#616161',
+    800: '#424242',
+    900: '#212121',
   },
 
-  // Turquoise palette
-  turquoise: {
-    50: '#E0F7F6',
-    100: '#B3EFEA',
-    200: '#80E6DD',
-    300: '#4DDDD0',
-    400: '#40E0D0',
-    500: '#20C4B5',
-    600: '#1AA99C',
-    700: '#148D82',
-    800: '#0D7269',
-    900: '#075750',
+  // Green palette
+  green: {
+    50: '#E8F5E9',
+    100: '#C8E6C9',
+    200: '#A5D6A7',
+    300: '#81C784',
+    400: '#66BB6A',
+    500: '#4CAF50',
+    600: '#43A047',
+    700: '#388E3C',
+    800: '#2E7D32',
+    900: '#1B5E20',
   },
 
-  // Sapphire palette
-  sapphire: {
-    50: '#E8EEF5',
-    100: '#C5D5E8',
-    200: '#9FB9D9',
-    300: '#799DCA',
-    400: '#5C87BE',
-    500: '#4071B2',
-    600: '#3661A0',
-    700: '#2C4F88',
-    800: '#233E70',
-    900: '#1E3A5F',
+  // Mint/Teal palette
+  mint: {
+    50: '#E0F2F1',
+    100: '#B2DFDB',
+    200: '#80CBC4',
+    300: '#4DB6AC',
+    400: '#26A69A',
+    500: '#009688',
+    600: '#00897B',
+    700: '#00796B',
+    800: '#00695C',
+    900: '#004D40',
   },
 } as const;
 
 // Dark theme colors
 export const darkColors = {
-  // Primary - Brighter sapphire for dark backgrounds (better CTA visibility)
+  // Primary - Brighter green for dark backgrounds
   primary: {
-    main: '#5B8BBF',       // Bright sapphire for CTAs
-    light: '#7FA8D4',      // Lighter sapphire
-    dark: '#3A6A9E',       // Medium sapphire
-    container: '#1E3A5F',  // Dark sapphire container
-    onPrimary: '#FFFFFF',  // Text on primary
-    onContainer: '#B8D4F0', // Text on container
+    main: '#66BB6A',       // Light green for CTAs
+    light: '#81C784',      // Lighter green
+    dark: '#4CAF50',       // Medium green
+    container: '#1B5E20',  // Dark green container
+    onPrimary: '#1B5E20',  // Text on primary (dark for contrast)
+    onContainer: '#A5D6A7', // Text on container
   },
 
-  // Secondary - Turquoise (vibrant for dark mode)
+  // Secondary - Bright mint for dark mode
   secondary: {
-    main: '#40E0D0',       // Turquoise
-    light: '#7FECE1',      // Light turquoise
-    dark: '#20B2AA',       // Dark turquoise
-    container: '#0D4A47',  // Dark turquoise container
-    onSecondary: '#0F1F33', // Text on secondary
-    onContainer: '#7FECE1', // Text on container
+    main: '#4DB6AC',       // Bright mint
+    light: '#80CBC4',      // Light mint
+    dark: '#26A69A',       // Medium mint
+    container: '#004D40',  // Dark mint container
+    onSecondary: '#004D40', // Text on secondary
+    onContainer: '#B2DFDB', // Text on container
   },
 
-  // Tertiary - Soft teal (lighter for dark mode)
+  // Tertiary - Lime (lighter for dark mode)
   tertiary: {
-    main: '#88BFC1',       // Light teal
-    light: '#A8D4D6',      // Lighter teal
-    dark: '#5F9EA0',       // Cadet blue
-    container: '#2A4A4C',  // Dark teal container
-    onTertiary: '#0F1F33', // Text on tertiary
-    onContainer: '#B8E0E2', // Text on container
+    main: '#9CCC65',       // Light lime
+    light: '#C5E1A5',      // Lighter lime
+    dark: '#7CB342',       // Medium lime
+    container: '#33691E',  // Dark lime container
+    onTertiary: '#33691E', // Text on tertiary
+    onContainer: '#DCEDC8', // Text on container
   },
 
-  // Error - Coral (lighter for dark mode)
+  // Error - Red (lighter for dark mode)
   error: {
-    main: '#EC7063',
-    light: '#F1948A',
-    dark: '#E74C3C',
-    container: '#5C1A14',
+    main: '#EF5350',
+    light: '#E57373',
+    dark: '#E53935',
+    container: '#5D1A1A',
     onError: '#FFFFFF',
-    onContainer: '#FADBD8',
+    onContainer: '#FFCDD2',
   },
 
-  // Warning - Golden (adjusted for dark mode)
+  // Warning - Amber (adjusted for dark mode)
   warning: {
-    main: '#F7C156',
-    light: '#F9D789',
-    dark: '#F39C12',
-    container: '#5A3D08',
+    main: '#FFB74D',
+    light: '#FFD54F',
+    dark: '#FFA000',
+    container: '#5D4A00',
     onWarning: '#000000',
-    onContainer: '#FCE7B5',
+    onContainer: '#FFE082',
   },
 
-  // Success - Sea Green (lighter for dark mode)
+  // Success - Green (lighter for dark mode)
   success: {
-    main: '#58D68D',
-    light: '#82E0AA',
-    dark: '#27AE60',
-    container: '#145A32',
-    onSuccess: '#0F1F33',
-    onContainer: '#ABEBC6',
+    main: '#66BB6A',
+    light: '#81C784',
+    dark: '#43A047',
+    container: '#1B5E20',
+    onSuccess: '#1B5E20',
+    onContainer: '#A5D6A7',
   },
 
-  // Info - Ocean Blue (lighter for dark mode)
+  // Info - Blue (lighter for dark mode)
   info: {
-    main: '#5DADE2',
-    light: '#85C1E9',
-    dark: '#3498DB',
-    container: '#1A4A6E',
-    onInfo: '#0F1F33',
-    onContainer: '#AED6F1',
+    main: '#42A5F5',
+    light: '#64B5F6',
+    dark: '#1976D2',
+    container: '#0D47A1',
+    onInfo: '#0D47A1',
+    onContainer: '#BBDEFB',
   },
 
-  // Background - Deep ocean dark
+  // Background - Deep neutral
   background: {
-    default: '#0D1821',    // Very dark sapphire (slightly lighter for contrast)
-    paper: '#1A2836',      // Slightly elevated dark
-    elevated: '#243340',   // More elevated dark
+    default: '#121212',    // Material dark
+    paper: '#1E1E1E',      // Slightly elevated dark
+    elevated: '#2C2C2C',   // More elevated dark
   },
 
-  // Surface - Elevated surfaces with better contrast for CTAs
+  // Surface - Elevated surfaces with neutral tones
   surface: {
-    default: '#1A2836',    // Elevated from background for cards
-    variant: '#243340',    // Variant surface
-    tint: '#2A3E50',       // Sapphire tinted surface (more visible)
-    elevated: '#2E4456',   // High elevation for bottom sheets, modals
+    default: '#1E1E1E',    // Elevated from background for cards
+    variant: '#2C2C2C',    // Variant surface
+    tint: '#1B3D1E',       // Green tinted surface
+    elevated: '#484848',   // High elevation for bottom sheets, modals
   },
 
   // Text - Light text on dark backgrounds
   text: {
-    primary: '#F0F5F8',     // Off-white with cool tint
-    secondary: '#B8CDD8',   // Light cool gray
-    tertiary: '#7A9AAB',    // Medium cool gray
-    disabled: '#4A6572',    // Darker disabled
-    onPrimary: '#FFFFFF',   // Text on primary color
-    onSecondary: '#0F1F33', // Text on secondary
-    onBackground: '#F0F5F8', // Text on background
-    onSurface: '#F0F5F8',    // Text on surface
+    primary: '#FAFAFA',     // Near white
+    secondary: '#B0BEC5',   // Light gray
+    tertiary: '#78909C',    // Medium gray
+    disabled: '#616161',    // Darker disabled
+    onPrimary: '#212121',   // Text on primary color
+    onSecondary: '#212121', // Text on secondary
+    onBackground: '#FAFAFA', // Text on background
+    onSurface: '#FAFAFA',    // Text on surface
   },
 
   // Divider and Borders - More visible in dark mode
-  divider: '#3A4D5F',       // Brighter divider for visibility
+  divider: '#383838',       // Brighter divider for visibility
   border: {
-    light: '#3A4D5F',
-    main: '#48607A',
-    dark: '#567890',
+    light: '#383838',
+    main: '#484848',
+    dark: '#616161',
   },
 
   // Overlay and Shadows
@@ -284,46 +284,46 @@ export const darkColors = {
     dark: 'rgba(0, 0, 0, 0.7)',
   },
 
-  // Neutral palette (dark cool grays)
+  // Neutral palette (dark grays)
   neutral: {
-    50: '#1A2A3A',
-    100: '#2E3D47',
-    200: '#445560',
-    300: '#5A6D78',
-    400: '#7A8D97',
-    500: '#A8B8C2',
-    600: '#CED6DC',
-    700: '#E1E7EB',
-    800: '#F0F3F5',
-    900: '#FAFBFC',
+    50: '#212121',
+    100: '#383838',
+    200: '#484848',
+    300: '#616161',
+    400: '#757575',
+    500: '#9E9E9E',
+    600: '#BDBDBD',
+    700: '#E0E0E0',
+    800: '#EEEEEE',
+    900: '#FAFAFA',
   },
 
-  // Turquoise palette (adjusted for dark mode)
-  turquoise: {
-    50: '#0A2A28',
-    100: '#0D3D3A',
-    200: '#105250',
-    300: '#146866',
-    400: '#1A8580',
-    500: '#20A39B',
-    600: '#40E0D0',
-    700: '#7FECE1',
-    800: '#B3F4EE',
-    900: '#E0FCFA',
+  // Green palette (adjusted for dark mode)
+  green: {
+    50: '#0D2810',
+    100: '#1B5E20',
+    200: '#2E7D32',
+    300: '#388E3C',
+    400: '#43A047',
+    500: '#4CAF50',
+    600: '#66BB6A',
+    700: '#81C784',
+    800: '#A5D6A7',
+    900: '#C8E6C9',
   },
 
-  // Sapphire palette (adjusted for dark mode)
-  sapphire: {
-    50: '#0A1520',
-    100: '#12202E',
-    200: '#1A2D3D',
-    300: '#233A4C',
-    400: '#2C475B',
-    500: '#35546A',
-    600: '#5B8BBF',
-    700: '#7FA8D4',
-    800: '#A3C5E9',
-    900: '#C7E2FE',
+  // Mint/Teal palette (adjusted for dark mode)
+  mint: {
+    50: '#002822',
+    100: '#004D40',
+    200: '#00695C',
+    300: '#00796B',
+    400: '#00897B',
+    500: '#009688',
+    600: '#26A69A',
+    700: '#4DB6AC',
+    800: '#80CBC4',
+    900: '#B2DFDB',
   },
 } as const;
 
