@@ -25,7 +25,7 @@ type Props = NativeStackScreenProps<OnboardingStackParamList, 'VoiceSettings'>;
 export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
   const { colors } = useTheme();
   const { updateSettings } = useSettings();
-  const { isListening, isAvailable, startListening, stopListening, lastResult } = useVoice();
+  const { isListening, isAvailable, requestPermission, startListening, stopListening, lastResult } = useVoice();
   const insets = useSafeAreaInsets();
 
   // Default to OFF - user must explicitly enable
@@ -76,11 +76,18 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
     manageListening();
   }, [microphoneEnabled, isAvailable, isListening, startListening, stopListening]);
 
-  const handleToggle = (value: boolean) => {
-    setMicrophoneEnabled(value);
-    if (!value) {
+  const handleToggle = async (value: boolean) => {
+    if (value) {
+      // Request permission when enabling microphone
+      const granted = await requestPermission();
+      if (!granted) {
+        // Permission denied, don't enable
+        return;
+      }
+    } else {
       setSpokenText('');
     }
+    setMicrophoneEnabled(value);
   };
 
   const handleContinue = async () => {

@@ -27,6 +27,7 @@ interface VoiceContextType {
   error: string | null;
 
   // Actions
+  requestPermission: () => Promise<boolean>;  // Request mic permission on-demand
   startListening: (options?: ListeningOptions) => Promise<boolean>;
   stopListening: () => Promise<void>;
 
@@ -46,19 +47,20 @@ export const VoiceProvider: React.FC<{ children: React.ReactNode }> = ({ childre
   // Track current options for callback access
   const optionsRef = useRef<ListeningOptions>({});
 
-  // Initialize voice service on mount
+  // Cleanup on unmount - don't auto-initialize, permission will be requested on-demand
   useEffect(() => {
-    const init = async () => {
-      const available = await voiceService.initialize();
-      setIsAvailable(available);
-    };
-
-    init();
-
-    // Cleanup on unmount
     return () => {
       voiceService.cleanup();
     };
+  }, []);
+
+  // Request microphone permission on-demand
+  const requestPermission = useCallback(async (): Promise<boolean> => {
+    console.log('[VoiceProvider] requestPermission called');
+    const available = await voiceService.initialize();
+    setIsAvailable(available);
+    console.log('[VoiceProvider] Permission result, isAvailable:', available);
+    return available;
   }, []);
 
   // Sync isListening state with voiceService when it becomes false externally
@@ -171,6 +173,7 @@ export const VoiceProvider: React.FC<{ children: React.ReactNode }> = ({ childre
     isAvailable,
     lastResult,
     error,
+    requestPermission,
     startListening,
     stopListening,
     enableTTSFilter,
