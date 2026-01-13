@@ -32,6 +32,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
   const [microphoneEnabled, setMicrophoneEnabled] = useState(false);
   const [autoSubmitOnSilence, setAutoSubmitOnSilence] = useState(true);
   const [autoSubmitSilenceMs, setAutoSubmitSilenceMs] = useState(DEFAULT_QUIZ_SETTINGS.autoSubmitSilenceMs);
+  const [audioActionsEnabled, setAudioActionsEnabled] = useState(false);
   const [spokenText, setSpokenText] = useState('');
   const isMountedRef = useRef(true);
 
@@ -94,6 +95,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
         microphoneEnabled,
         autoSubmitOnSilence: microphoneEnabled && autoSubmitOnSilence,
         autoSubmitSilenceMs,
+        audioActionsEnabled: microphoneEnabled && audioActionsEnabled,
       });
     } catch (error) {
       console.error('Failed to save voice settings:', error);
@@ -107,7 +109,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
       <ScrollView
         contentContainerStyle={[
           styles.scrollContent,
-          { paddingTop: insets.top + spacing.xl, paddingBottom: insets.bottom + spacing.xl }
+          { paddingTop: insets.top + spacing.xl }
         ]}
         showsVerticalScrollIndicator={false}
       >
@@ -118,30 +120,6 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
         <Text variant="bodyLarge" style={[styles.subtitle, { color: colors.text.secondary }]}>
           Answer questions hands-free by speaking
         </Text>
-
-        {/* Benefits Card */}
-        <Card style={[styles.benefitsCard, { backgroundColor: colors.surface.tint }]}>
-          <Card.Content>
-            <View style={styles.benefitRow}>
-              <Icon name="microphone" size={20} color={colors.primary.main} />
-              <Text variant="bodyMedium" style={[styles.benefitText, { color: colors.text.primary }]}>
-                Speak your answers naturally - no typing needed
-              </Text>
-            </View>
-            <View style={styles.benefitRow}>
-              <Icon name="clock-fast" size={20} color={colors.primary.main} />
-              <Text variant="bodyMedium" style={[styles.benefitText, { color: colors.text.primary }]}>
-                Answer faster during timed questions
-              </Text>
-            </View>
-            <View style={styles.benefitRow}>
-              <Icon name="volume-high" size={20} color={colors.primary.main} />
-              <Text variant="bodyMedium" style={[styles.benefitText, { color: colors.text.primary }]}>
-                Questions are read aloud for better focus
-              </Text>
-            </View>
-          </Card.Content>
-        </Card>
 
         {/* Toggle Card */}
         <Card style={[styles.settingCard, { backgroundColor: colors.surface.default }]}>
@@ -238,6 +216,37 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
           </Card>
         )}
 
+        {/* Hands-Free Mode Card - only show when microphone is enabled */}
+        {microphoneEnabled && (
+          <Card style={[styles.settingCard, { backgroundColor: colors.surface.default }]}>
+            <Card.Content>
+              <View style={styles.settingRow}>
+                <View style={styles.settingInfo}>
+                  <Icon
+                    name="hand-wave"
+                    size={24}
+                    color={audioActionsEnabled ? colors.primary.main : colors.text.disabled}
+                  />
+                  <View style={styles.settingTextContainer}>
+                    <Text variant="titleMedium" style={[styles.settingTitle, { color: colors.text.primary }]}>
+                      Hands-Free Mode
+                    </Text>
+                    <Text variant="bodySmall" style={{ color: colors.text.secondary }}>
+                      Say "Buzz" to interrupt questions and answer by voice
+                    </Text>
+                  </View>
+                </View>
+                <Switch
+                  value={audioActionsEnabled}
+                  onValueChange={setAudioActionsEnabled}
+                  color={colors.primary.main}
+                  testID="hands-free-toggle"
+                />
+              </View>
+            </Card.Content>
+          </Card>
+        )}
+
         {/* Live Demo Area */}
         <View style={[styles.demoContainer, { backgroundColor: colors.surface.variant }]}>
           {microphoneEnabled ? (
@@ -279,8 +288,10 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
             </View>
           )}
         </View>
+      </ScrollView>
 
-        {/* CTA Button */}
+      {/* CTA Button - Anchored at bottom */}
+      <View style={[styles.buttonContainer, { paddingBottom: insets.bottom + spacing.lg }]}>
         <Button
           mode="contained"
           onPress={handleContinue}
@@ -291,7 +302,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
         >
           Continue
         </Button>
-      </ScrollView>
+      </View>
     </View>
   );
 };
@@ -312,19 +323,6 @@ const styles = StyleSheet.create({
   subtitle: {
     textAlign: 'center',
     marginBottom: spacing.lg,
-  },
-  benefitsCard: {
-    marginBottom: spacing.lg,
-    borderRadius: radius.md,
-  },
-  benefitRow: {
-    flexDirection: 'row',
-    alignItems: 'center',
-    marginBottom: spacing.sm,
-  },
-  benefitText: {
-    marginLeft: spacing.md,
-    flex: 1,
   },
   settingCard: {
     marginBottom: spacing.lg,
@@ -386,6 +384,11 @@ const styles = StyleSheet.create({
   },
   disabledDemo: {
     alignItems: 'center',
+  },
+  buttonContainer: {
+    paddingHorizontal: spacing.xl,
+    paddingTop: spacing.md,
+    backgroundColor: 'transparent',
   },
   button: {
     width: '100%',
