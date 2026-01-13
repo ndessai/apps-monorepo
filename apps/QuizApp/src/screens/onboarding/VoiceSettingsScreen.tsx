@@ -20,8 +20,9 @@ type Props = NativeStackScreenProps<OnboardingStackParamList, 'VoiceSettings'>;
 
 export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
   const { colors } = useTheme();
-  const { settings, updateSettings } = useSettings();
-  const [microphoneEnabled, setMicrophoneEnabled] = useState(settings.microphoneEnabled);
+  const { updateSettings } = useSettings();
+  // Default to OFF - user must explicitly enable
+  const [microphoneEnabled, setMicrophoneEnabled] = useState(false);
   const [isListening, setIsListening] = useState(false);
   const [spokenText, setSpokenText] = useState('');
   const [voiceAvailable, setVoiceAvailable] = useState(false);
@@ -142,8 +143,32 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
           Voice Interaction
         </Text>
         <Text variant="bodyLarge" style={[styles.subtitle, { color: colors.text.secondary }]}>
-          Enable the microphone to speak your answers instead of typing
+          Answer questions hands-free by speaking
         </Text>
+
+        {/* Benefits Card */}
+        <Card style={[styles.benefitsCard, { backgroundColor: colors.surface.tint }]}>
+          <Card.Content>
+            <View style={styles.benefitRow}>
+              <Icon name="microphone" size={20} color={colors.primary.main} />
+              <Text variant="bodyMedium" style={[styles.benefitText, { color: colors.text.primary }]}>
+                Speak your answers naturally - no typing needed
+              </Text>
+            </View>
+            <View style={styles.benefitRow}>
+              <Icon name="clock-fast" size={20} color={colors.primary.main} />
+              <Text variant="bodyMedium" style={[styles.benefitText, { color: colors.text.primary }]}>
+                Answer faster during timed questions
+              </Text>
+            </View>
+            <View style={styles.benefitRow}>
+              <Icon name="volume-high" size={20} color={colors.primary.main} />
+              <Text variant="bodyMedium" style={[styles.benefitText, { color: colors.text.primary }]}>
+                Questions are read aloud for better focus
+              </Text>
+            </View>
+          </Card.Content>
+        </Card>
 
         {/* Toggle Card */}
         <Card style={[styles.settingCard, { backgroundColor: colors.surface.default }]}>
@@ -157,10 +182,10 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
                 />
                 <View style={styles.settingTextContainer}>
                   <Text variant="titleMedium" style={[styles.settingTitle, { color: colors.text.primary }]}>
-                    Microphone
+                    Enable Microphone
                   </Text>
                   <Text variant="bodySmall" style={{ color: colors.text.secondary }}>
-                    {microphoneEnabled ? 'Speak to answer questions' : 'Type your answers manually'}
+                    {microphoneEnabled ? 'Voice input is enabled' : 'Turn on to use voice answers'}
                   </Text>
                 </View>
               </View>
@@ -248,7 +273,20 @@ const styles = StyleSheet.create({
   },
   subtitle: {
     textAlign: 'center',
-    marginBottom: spacing.xl,
+    marginBottom: spacing.lg,
+  },
+  benefitsCard: {
+    marginBottom: spacing.lg,
+    borderRadius: radius.md,
+  },
+  benefitRow: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    marginBottom: spacing.sm,
+  },
+  benefitText: {
+    marginLeft: spacing.md,
+    flex: 1,
   },
   settingCard: {
     marginBottom: spacing.lg,

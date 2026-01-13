@@ -50,23 +50,21 @@ export const SettingsProvider: React.FC<{ children: React.ReactNode }> = ({ chil
   };
 
   const updateSettingsHandler = useCallback(async (newSettings: Partial<QuizSettingsData>) => {
-    if (!userId) {
-      console.error('[SettingsProvider] Cannot update settings: no user ID');
-      return;
-    }
-
-    // Update in-memory state immediately
+    // Update in-memory state immediately (always allowed, even without user)
     const updatedSettings = { ...settings, ...newSettings };
     setSettings(updatedSettings);
 
-    // Persist to database
-    try {
-      await updateQuizSettings(database, userId, newSettings);
-    } catch (error) {
-      console.error('[SettingsProvider] Error persisting settings:', error);
-      // Revert in-memory state on error
-      setSettings(settings);
-      throw error;
+    // Only persist to database if we have a user ID
+    // During onboarding, settings are kept in-memory only
+    if (userId) {
+      try {
+        await updateQuizSettings(database, userId, newSettings);
+      } catch (error) {
+        console.error('[SettingsProvider] Error persisting settings:', error);
+        // Revert in-memory state on error
+        setSettings(settings);
+        throw error;
+      }
     }
   }, [database, userId, settings]);
 
