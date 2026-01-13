@@ -877,13 +877,15 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         />
         <View style={styles.headerRight}>
           <ScoreDisplay currentScore={currentScore} maxScore={calculateMaxScore()} />
-          <TouchableOpacity
-            style={styles.quitButton}
-            onPress={handleQuit}
-            testID="quiz-quit-button"
-          >
-            <Icon name="close" size={24} color={colors.error.main} />
-          </TouchableOpacity>
+          {!isOnboarding && (
+            <TouchableOpacity
+              style={styles.quitButton}
+              onPress={handleQuit}
+              testID="quiz-quit-button"
+            >
+              <Icon name="close" size={24} color={colors.error.main} />
+            </TouchableOpacity>
+          )}
         </View>
       </View>
 
