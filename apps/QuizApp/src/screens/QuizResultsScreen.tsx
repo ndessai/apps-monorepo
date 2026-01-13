@@ -28,7 +28,7 @@ export const QuizResultsScreen: React.FC<Props> = ({ route, navigation }) => {
   const tossupTotal = session.tossupResults.length;
 
   const bonusPointsEarned = session.bonusResults.reduce(
-    (sum, r) => sum + r.totalPoints,
+    (sum, r) => sum + ((r as any).points ?? r.totalPoints ?? 0),
     0
   );
   const bonusMaxPoints = session.bonusResults.length * 30;

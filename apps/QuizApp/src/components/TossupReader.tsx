@@ -14,6 +14,8 @@ interface TossupReaderProps {
   text: string;
   currentCharIndex: number;
   powerMarkPosition?: number;
+  questionType?: 'tossup' | 'bonus';
+  bonusPartIndex?: number;
   testID?: string;
 }
 
@@ -21,6 +23,8 @@ export const TossupReader: React.FC<TossupReaderProps> = ({
   text,
   currentCharIndex,
   powerMarkPosition,
+  questionType = 'tossup',
+  bonusPartIndex,
   testID = 'tossup-reader',
 }) => {
   const scrollViewRef = React.useRef<ScrollView>(null);
@@ -53,7 +57,9 @@ export const TossupReader: React.FC<TossupReaderProps> = ({
         <View style={styles.header}>
           <Icon name="book-open-variant" size={20} color={colors.primary.main} />
           <Text variant="labelMedium" style={styles.headerText}>
-            Toss-up Question
+            {questionType === 'bonus'
+              ? `Bonus Part ${(bonusPartIndex ?? 0) + 1}`
+              : 'Toss-up Question'}
           </Text>
           {inPowerZone && (
             <View style={styles.powerMarkBadge}>

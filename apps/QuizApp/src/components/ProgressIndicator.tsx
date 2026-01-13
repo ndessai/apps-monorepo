@@ -14,6 +14,8 @@ interface ProgressIndicatorProps {
   currentQuestion: number;
   totalQuestions: number;
   questionType: 'tossup' | 'bonus';
+  bonusPartIndex?: number;
+  totalBonusParts?: number;
   testID?: string;
 }
 
@@ -21,13 +23,15 @@ export const ProgressIndicator: React.FC<ProgressIndicatorProps> = ({
   currentQuestion,
   totalQuestions,
   questionType,
+  bonusPartIndex,
+  totalBonusParts,
   testID = 'progress-indicator',
 }) => {
   const iconName = questionType === 'tossup' ? 'bell-ring' : 'star-three-points';
   const label =
     questionType === 'tossup'
       ? `Question ${currentQuestion} of ${totalQuestions}`
-      : `Bonus ${currentQuestion} of ${totalQuestions}`;
+      : `Q${currentQuestion} Bonus (Part ${(bonusPartIndex ?? 0) + 1}${totalBonusParts ? `/${totalBonusParts}` : ''})`;
 
   return (
     <View style={styles.container} testID={testID}>

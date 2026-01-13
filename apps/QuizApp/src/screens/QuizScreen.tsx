@@ -794,10 +794,10 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
     return undefined;
   };
 
-  // Get total questions
+  // Get total questions (tossups only - bonuses are linked to tossups)
   const getTotalQuestions = (): number => {
     if (!quizData) return 0;
-    return quizData.tossups.length + quizData.bonuses.length;
+    return quizData.tossups.length;
   };
 
   // Get question type
@@ -820,6 +820,12 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
           currentQuestion={currentQuestionIndex + 1}
           totalQuestions={getTotalQuestions()}
           questionType={getQuestionType()}
+          bonusPartIndex={currentBonusPartIndex}
+          totalBonusParts={
+            currentQuestion && 'parts' in currentQuestion
+              ? (currentQuestion as BonusQuestion).parts.length
+              : undefined
+          }
         />
         <View style={styles.headerRight}>
           <ScoreDisplay currentScore={currentScore} maxScore={calculateMaxScore()} />
@@ -839,6 +845,8 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
           text={getCurrentQuestionText()}
           currentCharIndex={currentCharIndex}
           powerMarkPosition={getPowerMarkPosition()}
+          questionType={getQuestionType()}
+          bonusPartIndex={currentBonusPartIndex}
         />
       </View>
 
