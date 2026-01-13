@@ -51,8 +51,8 @@ export async function getQuizSettings(
     autoSubmitOnSilence: s.autoSubmitOnSilence ?? DEFAULT_SETTINGS.autoSubmitOnSilence,
     autoSubmitSilenceMs: s.autoSubmitSilenceMs ?? DEFAULT_SETTINGS.autoSubmitSilenceMs,
     audioActionsEnabled: s.audioActionsEnabled ?? DEFAULT_SETTINGS.audioActionsEnabled,
-    difficulty: s.difficulty as NAQTDifficulty,
-    theme: (s.theme as ThemeMode) || 'light',
+    difficulty: (s.difficulty as NAQTDifficulty) ?? DEFAULT_SETTINGS.difficulty,
+    theme: (s.theme as ThemeMode) ?? DEFAULT_SETTINGS.theme,
   };
 }
 
@@ -149,8 +149,8 @@ export async function updateQuizSettings(
         autoSubmitOnSilence: newSettings.autoSubmitOnSilence ?? existing.autoSubmitOnSilence ?? DEFAULT_SETTINGS.autoSubmitOnSilence,
         autoSubmitSilenceMs: newSettings.autoSubmitSilenceMs ?? existing.autoSubmitSilenceMs ?? DEFAULT_SETTINGS.autoSubmitSilenceMs,
         audioActionsEnabled: newSettings.audioActionsEnabled ?? existing.audioActionsEnabled ?? DEFAULT_SETTINGS.audioActionsEnabled,
-        difficulty: (newSettings.difficulty ?? existing.difficulty) as NAQTDifficulty,
-        theme: (newSettings.theme ?? existing.theme ?? 'light') as ThemeMode,
+        difficulty: (newSettings.difficulty ?? existing.difficulty ?? DEFAULT_SETTINGS.difficulty) as NAQTDifficulty,
+        theme: (newSettings.theme ?? existing.theme ?? DEFAULT_SETTINGS.theme) as ThemeMode,
       };
     }
   });
