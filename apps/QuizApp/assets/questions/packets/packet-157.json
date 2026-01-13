@@ -1,0 +1,1143 @@
+{
+  "packetId": "packet-157",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "Geography",
+    "Fine Arts",
+    "Philosophy",
+    "History",
+    "Literature",
+    "Human Body",
+    "Social Science",
+    "Mythology"
+  ],
+  "tossups": [
+    {
+      "id": "70cacd80-cdde-4362-9719-58e6d33e0a5f",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "The coefficients kappa-sub-e-minus, kappa-sub-oh-plus, and kappa-sub-tr are measured in experiments searching for violations of this property, which includes using optical-optical double resonance to measure the doppler shift of lithium ions. Any quantum field theory with this property and a Hermitian Hamiltonian must have CPT symmetry. This property is related to the conservation of the center of mass according to Noether's theorem. The fact that the Lagrangian of the electromagnetic field has this property means that Maxwell's equations can be written in a covariant form. The proper time has this property because it doesn't change with the reference frame. For 10 points, name this property of some quantities that don't change when boosting or rotating in Minkowski space.",
+      "powerMarkPosition": 390,
+      "answer": "Lorentz invariance",
+      "acceptableAnswers": [
+        "Lorentz invariance",
+        "partial answer",
+        "The Lorentz invariance"
+      ],
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db460a3"
+    },
+    {
+      "id": "1b104660-0801-49dc-9c17-445c0b9e46dd",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "This river receives the Green River in Canyonlands National Park before flowing downstream into Lake Powell. Low water levels in Lake Mead, which this river flows through, have raised concern of a \"dead pool\" when this river will not be able to flow through Hoover Dam. This river forms the border between California and Arizona. The Grand Canyon was carved by, for 10 points, what river named for a Rocky Mountain state?",
+      "powerMarkPosition": 257,
+      "answer": "Colorado",
+      "acceptableAnswers": [
+        "Colorado",
+        "The Colorado"
+      ],
+      "source": "qbreader",
+      "sourceId": "65666dfd443a0a5dea0043a6"
+    },
+    {
+      "id": "3daf0bff-0931-4b64-b4aa-eb0bd0227f29",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "text": "In an opera by this composer, one character teases another for being sent to the military by singing the aria \"Non più andrai\" (\"known pyoo ahn-DRY\") to his page. In that opera by this composer, a \"little song on the breeze\" is sung as Susanna dictates a letter that will eventually expose the infidelity of Count Almaviva, whose valet is the opera's title character. In another of this composer's operas, the notoriously difficult aria \"Der Hölle Rache\" (\"dair HUR-luh RAH-khuh\") is sung by the Queen of the Night, whose attendants give Prince Tamino the opera's title instrument in the first act. For 10 points, name this Austrian composer of The Marriage of Figaro and The Magic Flute.",
+      "powerMarkPosition": 350,
+      "answer": "Mozart",
+      "acceptableAnswers": [
+        "Mozart",
+        "Johannes Chrysostomus Wolfgangus Theophilus Mozart",
+        "The Mozart"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f2d7847edb615d3ac9f2fa"
+    },
+    {
+      "id": "b227bd54-1483-43c1-a282-98f8b5839e59",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "This civilization's thinkers developed a belief in material monism, the idea that all objects in the world are made of a single \"first element.\" One such thinker from this civilization, Anaximenes [ah-nax-ih-men-ees], believed that that element was air; another thinker, Thales [thay-lees], believed it was water. For ten points, name this civilization whose natural philosophers from Miletus inspired its later schools, such as the Lyceum of Aristotle in Athens.",
+      "powerMarkPosition": 185,
+      "answer": "ancient Greece",
+      "acceptableAnswers": [
+        "ancient Greece",
+        "The ancient Greece"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a42cc"
+    },
+    {
+      "id": "6f922e4f-02a7-404f-8f40-8552eb4e2390",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "The Greek philosopher Democritus suggested these existed, and provided them a name that meant \"uncuttable\" in Greek. The plum-pudding model tried to explain these, but a later discovery of the positively-charged nucleus of these things disproved that model. There are three of these things in a molecule of water; two of hydrogen and one of oxygen. For 10 points, name this basic unit of every chemical element.",
+      "powerMarkPosition": 257,
+      "answer": "atom",
+      "acceptableAnswers": [
+        "atom",
+        "The atom"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c6d7"
+    },
+    {
+      "id": "ff938a65-e68b-4b59-af8e-62e1b808e369",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "These mathematical objects can be described as surjective, injective, or bijective, based on how they map between elements. To determine whether a relation is one of these objects, you can check if each element in the domain has exactly one corresponding elementin the range, using the vertical line test. \"F of x\" notation is typically used for, for ten points, what mathematical objects, often analogized as machines that give one output for a single input?",
+      "powerMarkPosition": 217,
+      "answer": "function",
+      "acceptableAnswers": [
+        "function",
+        "The function"
+      ],
+      "source": "qbreader",
+      "sourceId": "6837af63278db02eb79f1cf4"
+    },
+    {
+      "id": "0b7521f1-fcb0-4944-800b-f15f23bf8489",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "During one of these phenomena, low-level shear aligned by updrafts is penetrated by cold air from the downdraft, creating \"hook echo\" patterns on Doppler radar. In fair weather, one of these phenomena occurring over a body of water is called a waterspout. The Enhanced Fujita scale rates the damage of, for 10 points, what rotating columns of air formed when funnel clouds reach the ground?",
+      "powerMarkPosition": 243,
+      "answer": "tornado",
+      "acceptableAnswers": [
+        "tornado",
+        "The tornado"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac94d"
+    },
+    {
+      "id": "54f2faf7-c2e5-486e-8933-a986b4aa2411",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "This entity was assembled and in retaliation for English support of the Dutch Revolts. This entity was commanded by Alvaro de Bazan (all-VAR-oh de bah-ZAHN). It intended to deliver troops under the Duke of Parma across the English Channel, but it lost many vessels when attempting to sail around the British Isles in poor weather. For 10 points, identify this fleet of over 130 ships assembled by Philip II of Spain.",
+      "powerMarkPosition": 157,
+      "answer": "Armada",
+      "acceptableAnswers": [
+        "Armada",
+        "Armada after “Spain”",
+        "The Armada"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec677c"
+    },
+    {
+      "id": "b80c47ca-42a6-4535-ad4d-870147e4b74a",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "In an initiation into a \"cult\" named for these objects, Koyemsis shriek at the blood produced when children are whipped. Barton Wright classifies the production of these objects into Early Traditional, Late Traditional, Early Action, and Late Action periods. Several of them are presented to brides in the midsummer Niman ceremony. One category of these objects gets increasingly more three-dimensional in four successive stages as they are awarded to infants, toddlers, slightly older toddlers, and finally boys and girls who are two years old; those objects are typically hung from rafters of homes. The wuya and the tithu are specialized kinds of these objects. Murals in kiva rooms depicted the likenesses of these objects, which are imitated by namesake masked dancers. They represent spirits or features from the natural world. For 10 points, name these spiritually significant dolls in Hopi religion.",
+      "powerMarkPosition": 594,
+      "answer": "kachina",
+      "acceptableAnswers": [
+        "kachina",
+        "wuya and tithu before their mentions",
+        "prompt on dolls before read",
+        "The kachina"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1b78"
+    },
+    {
+      "id": "52d2ecbc-7ba4-4eab-a725-825d151f6517",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "In a novel by this author, the protagonist dedicates a meal of dark bread and meat with licorice sauce served on dark plates by nude black mistresses, in honor of his lost virility. One of this author's protagonists parts with his mistress Madame Chantelouve after she is overcome by the odor emanating from incense burners at a black mass. This first president of the Goncourt Academy countered the evil subject matter of his novel about Durtal's attempts to write a biography of the child murderer Gilles de Rais, by publishing the antidotal \"white book\" En route. After ending his affair with the American acrobat Miss Urania, the protagonist of this author's best-known novel moves into a house with aquariums behind every window, decorated with a tortoise bearing a jewel-encrusted shell. For 10 points, name this author of Là bas, who chronicled the depravity of the aristocrat Jean Des Esseintes in his novel À rebours.",
+      "powerMarkPosition": 499,
+      "answer": "Huysmans",
+      "acceptableAnswers": [
+        "Huysmans",
+        "Joris-Karl Huysmans",
+        "Charles-Marie-Georges Huysmans",
+        "The Huysmans"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa5913201930"
+    },
+    {
+      "id": "f3bcd705-9d53-4584-a682-1dcdd616d578",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "This ritual is forbidden to Zoroastrians because this action fills Atar with the impurities of a human body. In Hinduism, less than a day should elapse between death and this action, after which relatives may take their loved one's remains to the river Ganges to scatter them. For 10 points, name this action, in which a person's body is reduced to ashes.",
+      "powerMarkPosition": 159,
+      "answer": "cremation",
+      "acceptableAnswers": [
+        "cremation",
+        "The cremation"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f07cea5295951080e2cc65"
+    },
+    {
+      "id": "4b618d17-a8e9-49bb-b2a2-ac2db40dc13a",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "A woman nicknamed \"Granny,\" Melita Norwood, engaged in this action for over forty years, including while serving as a secretary for the \"Tube Alloys\" program. In 1962, a scandal erupted when John Vassall was revealed to have committed this crime after being photographed in a gay brothel. Peter Wright's memoir spread the idea that Harold Wilson engaged in this action while serving as prime minister. Anthony Blunt and Guy Burgess committed this crime as part of a group called the Eugene Ivanov was alleged to have attempted to commit this action through his relationship with model Christine Keeler during the Profumo scandal. For 10 points, identity this treasonous action which involved passing state secrets to the KGB.",
+      "powerMarkPosition": 419,
+      "answer": "spy",
+      "acceptableAnswers": [
+        "spy",
+        "equivalents like committing espionage",
+        "stealing state secrets for the USSR",
+        "Russia",
+        "equivalents of being a KGB agent until “KGB” is read",
+        "prompt with “for what country?” on answers like spying",
+        "espionage alone",
+        "The spy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f32f19679b6464bbdf74f6"
+    },
+    {
+      "id": "45299af3-2ee6-44c7-976f-f9ec7e35395d",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for cortisol functions. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this adrenal-related structure.",
+      "powerMarkPosition": 95,
+      "answer": "Adrenal",
+      "acceptableAnswers": [
+        "adrenal",
+        "Adrenal"
+      ],
+      "explanation": "The adrenal is a key component of the Endocrine system, involved in cortisol functions.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "08479ec0-2fc2-4601-bc59-49c435b3b395",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "After a crowd in this city threw snowballs at Thomas Preston's soldiers, Crispus Attucks was killed. The Intolerable Acts were passed in response to an event in this city in which members of the Sons of Liberty dressed as Mohawk Indians. British soldiers committed a 1770 massacre in this city, where rebels threw crates into the Atlantic Ocean in a namesake \"Tea Party.\" For 10 points, name this capital of Massachusetts.",
+      "powerMarkPosition": 271,
+      "answer": "Boston",
+      "acceptableAnswers": [
+        "Boston",
+        "The Boston"
+      ],
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ec2d"
+    },
+    {
+      "id": "677088db-fbdd-4eec-b73e-32faaa94a135",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "Taking the integral of a law named for this physicist with respect to position yields Bernoulli's equation. Systems named for this physicist exhibit a linear relationship between shearing stress and shearing strain. Systems that don't conform to this physicist's paradigms are classified as dilatant or pseudoplastic, and may be rheopectic or thixotropic. A law derived by this physicist assumes a constant viscosity. Flubber and oobleck are examples of fluids that don't conform to this physicist's model. For 10 points, name this scientist whose other contributions to physics include three laws of motion.",
+      "powerMarkPosition": 342,
+      "answer": "Newton",
+      "acceptableAnswers": [
+        "Newton",
+        "Newtonian fluid",
+        "non-Newtonian fluid",
+        "Newton’s law of viscosity",
+        "The Newton"
+      ],
+      "source": "qbreader",
+      "sourceId": "66cd4c3ec5459312fdcc57c8"
+    },
+    {
+      "id": "90f636ac-8508-41d6-b129-e1def8e2fdac",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "Arnold Harberger estimated this condition cost the United States $59 million annually during the 1920s. Gordon Tullock and Anne Krueger found that the social cost of \"rent seeking,\" as exemplified by agents investing towards this condition, greatly exceeds a more famous quantity associated with it. Market failure or high externalities can create a social preference for this condition, a fact suggested by its graphical representation, which depicts consumer surplus adjacent to the famous \"triangle\" of deadweight loss. Economies of scale may create the high barriers to entry in this situation, in which the producer is not a price-taker. For 10 points, identify this condition contrasted with perfect competition in which a market is dominated by a single producer.",
+      "powerMarkPosition": 451,
+      "answer": "monopoly",
+      "acceptableAnswers": [
+        "monopoly",
+        "word forms",
+        "do not accept “monopolistic competition”",
+        "The monopoly"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ada39"
+    },
+    {
+      "id": "baeca782-b2ab-4b6a-90ca-c9b542da8445",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "This man was a servant to Omphale, and he built his own funeral pyre before dying in a poisoned shirt given by Nessus to his last wife Deianira. After killing his first wife, Megara, he fled to serve King Eurystheus. This slayer of the dragon Ladon got Iolaus' help to kill a monster in the Lernean swamp before cleaning the Augean stables and slaying the Nemean Lion. For 10 points, name this hero who killed the Hydra as part of Twelve Labors showing his strength.",
+      "powerMarkPosition": 216,
+      "answer": "Hercules",
+      "acceptableAnswers": [
+        "Hercules",
+        "The Hercules"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43e9b"
+    },
+    {
+      "id": "76ce8323-6ff5-47ad-9990-08708a370118",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "text": "He notably used parabolic rather than pointed arches in designing a school for female Catholic teachers, while Domènec Sugranes completed his unfinished work on the Bellesguard. He created a crypt, Palau, and Parque for the Güell family, and he mixed the Gothic and Mudéjar styles in a building built for the factory owner Vicens. He may be better known for a building sometimes called \"The Quarry\" situated on a corner lot and featuring a sand-like wavy façade, as well as a still unfinished Roman Catholic church, both of which are in Barcelona. For 10 points, name this Spanish architect of the Casa Mila and the Sagradia Familia.",
+      "powerMarkPosition": 330,
+      "answer": "Gaudi",
+      "acceptableAnswers": [
+        "Gaudi",
+        "The Gaudi"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d44263"
+    },
+    {
+      "id": "45a00f9b-2b98-4407-8d15-c534ce82d691",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "According to Marden's theorem, a function with roots at the vertices of one of these objects has zero derivative at the foci [\"FOH-sy\"] of that object's Steiner inellipse [\"in-ellipse\"]. With their edges and vertices, these objects form a structure named for Boris Delaunay that is dual to a Voronoi diagram. Thales's theorem states that if one of these objects is inscribed in a circle with one side as a diameter, the opposite angle is a right angle. The area of one of these shapes can be calculated by Heron's formula. Euclidean distance obeys an \"inequality\" named for these shapes, which are called \"scalene\" if they have all different side lengths. For 10 points, name these polygons with three edges and three vertices.",
+      "powerMarkPosition": 405,
+      "answer": "triangle",
+      "acceptableAnswers": [
+        "triangle",
+        "The triangle"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b0f0a"
+    },
+    {
+      "id": "248bb118-c20c-4b16-b44b-f4296ff60e27",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "text": "The protagonist of this novel meets a blind masseuse who tells the time by touching the hands of her lidless watch. The protagonist of this novel feels the Milky Way flowing \"down inside him with a roar\" in its final sentence. Earlier, the protagonist of this novel contemplates an eye reflected in the window of the train in which he is travelling. That eye belongs to Yoko, who is killed in a fire in a cocoon warehouse. The protagonist of this novel has never seen a live ballet, despite claiming to be an expert in ballet. The relationship between Shimamura and the geisha Komako in the title region forms the basis for, for 10 points, what novel by Yasunari Kawabata?",
+      "powerMarkPosition": 369,
+      "answer": "Snow Country",
+      "acceptableAnswers": [
+        "Snow Country",
+        "Yukiguni",
+        "The Snow Country"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a797"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "fe8ab572-88ce-429c-925c-57869c6370b3",
+      "linkedTossupId": "70cacd80-cdde-4362-9719-58e6d33e0a5f",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this phase of the cell cycle that occurs after DNA replication. DNA damage can cause cells to be arrested in this stage.",
+          "answer": "G2",
+          "acceptableAnswers": [
+            "G2",
+            "G2 stage",
+            "prompt on \"interphase\""
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cells cannot exit the G2 phase to enter mitosis without this protein complex, a heterodimer of CDK1 and cyclin B.",
+          "answer": "maturation promoting factor",
+          "acceptableAnswers": [
+            "maturation promoting factor",
+            "MPF",
+            "The maturation promoting factor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "MPF was originally discovered in this allotetraploid organism with a large brood size known for the ease at which its embryo stage can be manipulated for research.",
+          "answer": "Xenopus",
+          "acceptableAnswers": [
+            "Xenopus",
+            "Xenopus tropicalis",
+            "prompt on \"frog\"",
+            "The Xenopus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "During this period, the cell increases its number of mitochondria and ribosomes to prepare for cell division. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63002656ea186ec68c3bd703"
+    },
+    {
+      "id": "9cf5810e-6523-4280-95fc-26ef4d1d9e9e",
+      "linkedTossupId": "1b104660-0801-49dc-9c17-445c0b9e46dd",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this color, which names a Northeast mountain range with terrible weather, which contains the Presidential Range.",
+          "answer": "white",
+          "acceptableAnswers": [
+            "white",
+            "The white"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The White Mountains are located in this state bordering Vermont, which has its capital at Concord.",
+          "answer": "New Hampshire",
+          "acceptableAnswers": [
+            "New Hampshire",
+            "NH",
+            "The New Hampshire"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Concord lies on the Merrimack River, which runs through a more populous city of this name. This is the name of a populous English city, whose \"City\" soccer team is owned by the Emirati Sheikh Mansour.",
+          "answer": "Manchester",
+          "acceptableAnswers": [
+            "Manchester",
+            "Manchester City FC",
+            "Manchester City Football Club",
+            "The Manchester"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This color names a Mayan \"royal road,\" called the sacbe. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7dee49"
+    },
+    {
+      "id": "5ab0f257-e143-4d2a-8a3e-16c29f450a65",
+      "linkedTossupId": "3daf0bff-0931-4b64-b4aa-eb0bd0227f29",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this artist of a horned depiction of Moses. This Renaissance artist painted the Sistine Chapel ceiling and sculpted a marble David.",
+          "answer": "Michelangelo",
+          "acceptableAnswers": [
+            "Michelangelo",
+            "Michelangelo di Lodovico Buonarroti Simoni",
+            "The Michelangelo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Michelangelo's Moses is part of a larger sculptural ensemble along with the Dying Slave and Rebellious Slave that was dedicated to this person. This \"Warrior Pope\" also commissioned Michelangelo to paint the Sistine Chapel.",
+          "answer": "Julius II",
+          "acceptableAnswers": [
+            "Julius II",
+            "Giuliano della Rovere",
+            "accept Tomb of Pope Julius II",
+            "prompt on Julius",
+            "The Julius II"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Sistine Chapel's altar wall is covered by this large work by Michelangelo which was later censored by Daniele da Volterra. This fresco contains a depiction of Saint Bartholomew holding his own flayed skin.",
+          "answer": "Last Judgment",
+          "acceptableAnswers": [
+            "Last Judgment",
+            "The Last Judgment"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A sculpture by this artist depicts a Biblical figure with two horns on his head which scholars interpret as antisemitic or a mistranslation of the Vulgate Bible. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "671d6e2a704068afc3e92916"
+    },
+    {
+      "id": "a97057f7-2293-4327-ba10-870589d56288",
+      "linkedTossupId": "b227bd54-1483-43c1-a282-98f8b5839e59",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Persian faith founded by Baháʼu'lláh. The belief that all religions stemmed from one God is central to this faith.",
+          "answer": "Bahá'í",
+          "acceptableAnswers": [
+            "Bahá'í",
+            "Bahá'ism",
+            "Bahá'iyyat",
+            "The Bahá'í"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Members of the Baháʼí faith engage in this practice for the 19 days leading up to their new year. During Ramadan, Muslims do this from dawn to sunset and break it with an iftar.",
+          "answer": "fast",
+          "acceptableAnswers": [
+            "fast",
+            "descriptions of abstaining from food and water",
+            "The fast"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Bahá'í faith is now based at the Universal House of Justice in this country's city of Haifa. This country's flag depicts a symbol of another religion consisting of two interlocking triangles.",
+          "answer": "Israel",
+          "acceptableAnswers": [
+            "Israel",
+            "The Israel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Lotus Temple is a place of worship for people of this faith. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ec97"
+    },
+    {
+      "id": "a7a373f8-6afb-49be-bfe5-25da35d3c937",
+      "linkedTossupId": "6f922e4f-02a7-404f-8f40-8552eb4e2390",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this 4th century BC leader who headed a large empire after succeeding his father Philip II of Macedon.",
+          "answer": "Alexander the Great",
+          "acceptableAnswers": [
+            "Alexander the Great",
+            "Alexander III of Macedon",
+            "prompt on \"Alexander\"",
+            "The Alexander the Great"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "As a child, Alexander the Great was tutored by this philosopher who had been a student of Plato.",
+          "answer": "Aristotle",
+          "acceptableAnswers": [
+            "Aristotle",
+            "The Aristotle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At the battles of Issus and Gaugamela, Alexander the Great defeated this Persian leader.",
+          "answer": "Darius III",
+          "acceptableAnswers": [
+            "Darius III",
+            "\"Darius\"",
+            "The Darius III"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Some of his biggest victories came at the battles of Issus and Gaugamela. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c45f"
+    },
+    {
+      "id": "a8315c55-fa76-425e-bcf5-1f432abbf827",
+      "linkedTossupId": "ff938a65-e68b-4b59-af8e-62e1b808e369",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "There are this many possible such numbers, equal to the value of 4 choose 2.",
+          "answer": "6",
+          "acceptableAnswers": [
+            "6"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Two of the numbers, 7887 and 8778, are this kind of number which is the same written both forwards and backwards.",
+          "answer": "palindrome",
+          "acceptableAnswers": [
+            "palindrome",
+            "The palindrome"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "All six numbers must be divisible by this smallest odd prime, because any number whose digits sum to a multiple of this number, like 12 or 39, must be divisible by this number.",
+          "answer": "3",
+          "acceptableAnswers": [
+            "3"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about 4-digit numbers which contain the digits 7 and 8 exactly twice each, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0adfbd"
+    },
+    {
+      "id": "b64864d8-f555-4470-a088-ac26543239c8",
+      "linkedTossupId": "0b7521f1-fcb0-4944-800b-f15f23bf8489",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This element has three naturally occurring isotopes, including deuterium and tritium, that have two and three neutrons respectively.",
+          "answer": "hydrogen",
+          "acceptableAnswers": [
+            "hydrogen",
+            "The hydrogen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This element's 235 isotope is used in nuclear reactors. This element's most abundant isotope can be used to create plutonium-239.",
+          "answer": "uranium",
+          "acceptableAnswers": [
+            "uranium",
+            "The uranium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This element's only natural isotope has a half-life of approximately 19 quintillion years, the longest of any isotope that undergoes alpha decay. This element is commonly used in a medication to treat indigestion.",
+          "answer": "bismuth",
+          "acceptableAnswers": [
+            "bismuth",
+            "The bismuth"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For ten points each, answer questions about elements based on some of their isotopes:",
+      "source": "qbreader",
+      "sourceId": "676f723af56e0dff73abecd8"
+    },
+    {
+      "id": "692b3658-605a-4bd3-bcbe-d850c95992db",
+      "linkedTossupId": "54f2faf7-c2e5-486e-8933-a986b4aa2411",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Sagan chaired the committee that selected music by Bach, Stravinsky, Chuck Berry, and others for inclusion on the Golden Records attached to these spacecraft. The first of these craft flew by Jupiter and Saturn and left the Solar System in 2004.",
+          "answer": "Voyager",
+          "acceptableAnswers": [
+            "Voyager",
+            "The Voyager"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 1980, Sagan hosted this thirteen-part television series on PBS that popularized many concepts in astronomy. With over 500 million viewers, this series is still the most-watched science program in TV history.",
+          "answer": "Cosmos",
+          "acceptableAnswers": [
+            "Cosmos",
+            "The Cosmos"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A sequel to Cosmos, subtitled A Spacetime Odyssey, was aired in 2014 with this scientist and friend of Carl Sagan as host. This man is a frequent talk show guest and Reddit AMA participant, and he published Astrophysics for People in a Hurry in 2017.",
+          "answer": "Tyson",
+          "acceptableAnswers": [
+            "Tyson",
+            "The Tyson"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Astronomer Carl Sagan is the namesake of both the number of stars in the observable universe and an indefinite quantity equal to \"billions and billions.\" Answer these questions about some of his other work, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc005192"
+    },
+    {
+      "id": "f5b137fa-a848-4c7a-a484-10fbfd18011c",
+      "linkedTossupId": "b80c47ca-42a6-4535-ad4d-870147e4b74a",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Literally an expression of the indescribability of the brahman, this phrase was advanced by Yajanavalkya, who states that the negation of thoughts about it will lead to a realization of the truth. It is also used to dispel thoughts that impede the goal of meditation, and is Sanskrit for \"neither this, nor this.\"",
+          "answer": "neti neti",
+          "acceptableAnswers": [
+            "neti neti",
+            "The neti neti"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The doctrine of neti neti was advanced as part of these 108 holy texts revered by the Shankara school of Vedanta, the traditional ending texts of the Vedas.",
+          "answer": "Upanishads",
+          "acceptableAnswers": [
+            "Upanishads",
+            "The Upanishads"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The doctrine of neti neti is taught in the Khila Kanda, the third and final section of this oldest and most revered text of the Upanishads. It belongs to the Shatapatha Brahmana.",
+          "answer": "Brhadaranyaka",
+          "acceptableAnswers": [
+            "Brhadaranyaka",
+            "The Brhadaranyaka"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following questions about a concept from Hinduism, For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b0cd2"
+    },
+    {
+      "id": "0bd34a1e-d4f4-43ed-893a-899eb83da88c",
+      "linkedTossupId": "52d2ecbc-7ba4-4eab-a725-825d151f6517",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this conflict. A memorial honoring an all-black infantry in this conflict is the subject of Robert Lowell's poem \"For the Union Dead.\"",
+          "answer": "Civil War",
+          "acceptableAnswers": [
+            "Civil War",
+            "The Civil War"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Elegy for the Native Guards\" appears in this Mississippi-born poet's collection Native Guard. This woman served as U.S. Poet Laureate from 2012 to 2014.",
+          "answer": "Trethewey",
+          "acceptableAnswers": [
+            "Trethewey",
+            "The Trethewey"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Trethewey contextualized \"Elegy for the Native Guards\" as a response to a poem by this author that begins, \"Row after row with strict impunity,\" titled \"Ode to the Confederate Dead.\"",
+          "answer": "Tate",
+          "acceptableAnswers": [
+            "Tate",
+            "John Orley Allen Tate",
+            "The Tate"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A cemetery for soldiers in this conflict is described as \"half-open...to God's deliberate eye\" in the poem \"Elegy for the Native Guards.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ec2f74c5548754cbcb0311"
+    },
+    {
+      "id": "fc7bec63-e03d-4f0f-b946-79932a374ef0",
+      "linkedTossupId": "f3bcd705-9d53-4584-a682-1dcdd616d578",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this work of political philosophy, dedicated to Lorenzo de Medici, that serves as advice to the title ruler. This work asserts that it is better for a ruler to be feared than to be loved.",
+          "answer": "Prince",
+          "acceptableAnswers": [
+            "Prince",
+            "The Prince"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Prince was written by this Renaissance philosopher from Florence, who also wrote Discourses on Livy.",
+          "answer": "Machiavelli",
+          "acceptableAnswers": [
+            "Machiavelli",
+            "The Machiavelli"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Machiavelli's Discourses on Livy is a work in this field, the study of past events. Herodotus, Thucydides, and Xenophon were ancient Greeks who worked in this field..",
+          "answer": "history",
+          "acceptableAnswers": [
+            "history",
+            "The history"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work distinguishes between rulers who gain power by virtue, luck, or crime, noting that those who gain power by virtue hold onto power the longest. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e6a0924256318ac83e"
+    },
+    {
+      "id": "9f7e06cd-56d9-4756-a009-feebbe41bab8",
+      "linkedTossupId": "4b618d17-a8e9-49bb-b2a2-ac2db40dc13a",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this French nobleman who instigated the Barons' War.",
+          "answer": "Montfort",
+          "acceptableAnswers": [
+            "Montfort",
+            "The Montfort"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "De Montfort's rebellion was directed against this English king, whose minority was spent under William Marshall and who in 1272 was succeeded by his son, Edward I.",
+          "answer": "Henry III",
+          "acceptableAnswers": [
+            "Henry III",
+            "The Henry III"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Simon united with other barons to force these concessions on Henry in 1258. Annulled at the Mise of Amiens and formulated by a subcommittee of the Mad Parliament, they required the king to share power with a baronial council, among other things.",
+          "answer": "Provisions of Oxford",
+          "acceptableAnswers": [
+            "Provisions of Oxford",
+            "The Provisions of Oxford"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Although this man won a victory at Lewes, he was unable to obtain legal sanction for his rule and was slain at Evesham in 1265. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d444cc"
+    },
+    {
+      "id": "5561c53a-8ad5-42e3-90df-a4ea9a182f1d",
+      "linkedTossupId": "45299af3-2ee6-44c7-976f-f9ec7e35395d",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with skin cell types.",
+          "answer": "epidermis",
+          "acceptableAnswers": [
+            "epidermis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the epidermis in the integumentary system?",
+          "answer": "Skin cell types",
+          "acceptableAnswers": [
+            "Skin cell types"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the integumentary system related to skin cell types.",
+          "answer": "dermis",
+          "acceptableAnswers": [
+            "dermis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human integumentary system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "fe800bad-5551-4410-a86a-b06352aed33b",
+      "linkedTossupId": "08479ec0-2fc2-4601-bc59-49c435b3b395",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these wheeled wagons drawn by horses during ancient times.",
+          "answer": "chariot",
+          "acceptableAnswers": [
+            "chariot",
+            "The chariot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The largest battle using chariots occurred around 1300 BC at the Battle of Kadesh, where the Egyptian troops were under the command of this ruler.",
+          "answer": "Rameses",
+          "acceptableAnswers": [
+            "Rameses",
+            "Rameses the Great",
+            "The Rameses"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chariots became practical after the invention of the \"spoked\" form of this chariot part, where rods connect the center of one of these to its outer surface.",
+          "answer": "wheel",
+          "acceptableAnswers": [
+            "wheel",
+            "The wheel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The \"quadriga\" type of these things required four horses. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b51f8e"
+    },
+    {
+      "id": "b0914eab-3201-44c6-9108-0ee65b141aa6",
+      "linkedTossupId": "677088db-fbdd-4eec-b73e-32faaa94a135",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "They can be described by this equation, which states that the force is equal to negative the product of the spring constant times the displaced length.",
+          "answer": "Hooke’s",
+          "acceptableAnswers": [
+            "Hooke’s",
+            "The Hooke’s"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In reality, harmonic oscillators experience this effect which reduces the amplitude of the system.",
+          "answer": "damping",
+          "acceptableAnswers": [
+            "damping",
+            "The damping"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At small angles, pendulums can be approximated as a simple harmonic oscillator. The approximation estimates the period as equal to the square root of length divided by the gravitational acceleration all times this constant.",
+          "answer": "two times pi",
+          "acceptableAnswers": [
+            "two times pi",
+            "The two times pi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer these questions about simple harmonic oscillators, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfef67"
+    },
+    {
+      "id": "1eb94603-d6f1-41a9-9402-1e982bd08be7",
+      "linkedTossupId": "90f636ac-8508-41d6-b129-e1def8e2fdac",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these things that were found to depend on environmental cues, causing people to misattribute and mislabel them. Alexithymia [uh-LEX-ih-THY-mee-uh] is the inability to identify these things.",
+          "answer": "emotion",
+          "acceptableAnswers": [
+            "emotion",
+            "feelings",
+            "The emotion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In one study, participants were more likely to find a woman attractive if they met her while walking across a suspension bridge because of the misattribution of this emotion. Horror movies tend to cause this emotion.",
+          "answer": "fear",
+          "acceptableAnswers": [
+            "fear",
+            "being scared",
+            "accept synonyms",
+            "The fear"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Some researchers believe that a \"normative\" type of alexithymia appears more often in these people. A \"toxic\" form of a certain trait can cause these people to be more susceptible to depression and substance abuse.",
+          "answer": "male",
+          "acceptableAnswers": [
+            "male",
+            "men",
+            "accept word forms such as being a man",
+            "prompt on toxic masculinity",
+            "The male"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one experiment, Schachter and Singer injected participants with a false drug called Suproxin to test a two-factor theory of these things. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64c4601ce6811c453d40dc8e"
+    },
+    {
+      "id": "17c7ba42-1ebe-428b-a7f2-ca23d1059bda",
+      "linkedTossupId": "baeca782-b2ab-4b6a-90ca-c9b542da8445",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this epic poem by Homer.",
+          "answer": "Iliad",
+          "acceptableAnswers": [
+            "Iliad",
+            "The Iliad"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Iliad begins with an invocation for the Muse to \"sing of the rage of\" this hero, who returns to battle in dramatic fashion after the death of his friend Patroclus. Homer does not include this man's death, which supposedly comes from an arrow to the heel.",
+          "answer": "Achilles",
+          "acceptableAnswers": [
+            "Achilles",
+            "The Achilles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Achilles fights and kills this prince of Troy, then drags his body around the city for twelve days. The epic ends with Achilles relenting and returning this man's body to his father, Priam, who then stages a funeral.",
+          "answer": "Hector",
+          "acceptableAnswers": [
+            "Hector",
+            "The Hector"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This epic opens with a scene in which Agamemnon takes the maid Briseis from the protagonist, leading that protagonist to refuse to fight. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9e0a"
+    },
+    {
+      "id": "cc6bf5db-bd9d-4efa-bd61-5bd05a1e0959",
+      "linkedTossupId": "76ce8323-6ff5-47ad-9990-08708a370118",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the Renaissance artist who created The Tribute Money and executed an Expulsion for a building that he co-painted with Masolino.",
+          "answer": "Masaccio",
+          "acceptableAnswers": [
+            "Masaccio",
+            "Tommaso di Ser Giovanni di Simone Cassai",
+            "The Masaccio"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Masaccio's Holy Trinity contains at its center this scene, which Chagall depicted in white and Gauguin showed in yellow.",
+          "answer": "Crucifixion",
+          "acceptableAnswers": [
+            "Crucifixion",
+            "Jesus on the Cross",
+            "equivalents involving the cross and Christ",
+            "The Crucifixion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Masaccio's Tribute Money hangs in the Brancacci family's structure of this type. Giotto painted many frescoes in one named for the Arena.",
+          "answer": "chapel",
+          "acceptableAnswers": [
+            "chapel",
+            "capella",
+            "The chapel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one work, this artist showed Peter inspecting a fish's mouth in the background. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6ded609"
+    },
+    {
+      "id": "b352bd62-8f75-4a4e-b507-98d39132eb1a",
+      "linkedTossupId": "45a00f9b-2b98-4407-8d15-c534ce82d691",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This Russian chemist was known as the \"Father of the Periodic Table\" for his work on its structure and development. He used his work to predict the existence of elements where there were holes, as he did with gallium.",
+          "answer": "Mendeleev",
+          "acceptableAnswers": [
+            "Mendeleev",
+            "The Mendeleev"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These two groups at the bottom of the Periodic Table are separated because they have different properties than the transition metals, as well as f orbitals in their electron configuration. Name either group.",
+          "answer": "Actinides",
+          "acceptableAnswers": [
+            "Actinides",
+            "The Actinides"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This English physicist used X-ray spectroscopy to show that Mendeleev's ordering of the elements corresponded to atomic number. A law named after this scientist concerns the X-rays emitted by atoms.",
+          "answer": "Moseley",
+          "acceptableAnswers": [
+            "Moseley",
+            "The Moseley"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some things about the history and structure of the periodic table, for ten points each:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a5865"
+    },
+    {
+      "id": "18a935fd-b240-4873-ab01-b1e1025c471f",
+      "linkedTossupId": "248bb118-c20c-4b16-b44b-f4296ff60e27",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this work in which Garcin, Estelle, and Ines are forever trapped in a room, leading Ines to declare that \"hell is other people.\"",
+          "answer": "No Exit",
+          "acceptableAnswers": [
+            "No Exit",
+            "The No Exit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "No Exit is the most famous work of this existentialist French author and lover of Simone de Beauvoir. He also wrote works like Dirty Hands and The Respectful Prostitute.",
+          "answer": "Sartre",
+          "acceptableAnswers": [
+            "Sartre",
+            "The Sartre"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Sartre adaption of the Electra myth, the title creatures chase around Orestes while Electra surrenders to the Furies.",
+          "answer": "Flies",
+          "acceptableAnswers": [
+            "Flies",
+            "The Flies"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Though the doors eventually open, none of the characters choose to leave. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474aa2a"
+    }
+  ]
+}

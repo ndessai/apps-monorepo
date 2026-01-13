@@ -1,0 +1,1126 @@
+{
+  "packetId": "packet-207",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "History",
+    "Philosophy",
+    "Human Body",
+    "Literature",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "cc08fda8-76a6-433f-9736-764124aceb2e",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "This type of reaction is the rate-determining step of the Monsanto process. This type of reaction occurs in the first step of the catalytic cycles of Wilkinson's catalyst and the Suzuki coupling in an oxidative fashion. The reaction between an enolate and an alpha-beta-unsaturated carbonyl is this type of reaction. Gilman reagents are useful for forming the 1,4 product in this type of reaction. Performing this type of reaction on a carbonyl forms a tetrahedral intermediate. In this type of reaction between an alkene and HBr, the bromine becomes bonded to the most substituted carbon according to Markovnikov's rule. The Diels-Alder reaction is a cyclic variant of this general type of reaction. For 10 points, name this type of reaction that is the opposite of an elimination, in which two molecules combine to form one molecule.",
+      "powerMarkPosition": 514,
+      "answer": "addition",
+      "acceptableAnswers": [
+        "addition",
+        "“oxidation” until “oxidative”",
+        "accept “oxidative addition”",
+        "accept cycloaddition after “Diels-Alder” is read",
+        "The addition"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34bd3"
+    },
+    {
+      "id": "32ab60f3-fc6f-43ef-9ad2-f85267beab20",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "Part of the evidence for this was uncovered when Thomas Browne discovered a bag containing £600 of gold along with ciphered letters whose key was found under a doormat at Howard House. John Hawkins infiltrated the organization of this planned event, after which the ambassador Guerau de Espes was expelled. The Flemish agent Charles Baillie was arrested at Dover and eventually testified the truth behind letters written by the Bishop of Ross, a primary planner of this event. Caused in part by the recent papal bull Regnans in Excelsis, this conspiracy took place shortly after the Northern Rebellion and saw support from Philip II and Pius V. It resulted in the death of the Duke of Norfolk, who had hoped to marry Mary Stuart following this event. For 10 points, name this event that preceded the Babington and Throckmorton Plots in seeking to assassinate Elizabeth I, organized by a Florentine banker.",
+      "powerMarkPosition": 516,
+      "answer": "Ridolfi",
+      "acceptableAnswers": [
+        "Ridolfi",
+        "The Ridolfi"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e35effc080082733afc6de"
+    },
+    {
+      "id": "2903a66d-41dd-41be-b6b5-dbe3c2b72499",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "This action was overseen by Bertram Ramsey from Dover Castle, and after it, plans were made for Operation Rutter, which eventually became the disastrous Dieppe Raid. In the wake of this action, the promise to \"outlive the menace of tyranny...if necessary alone\" was made in a speech that also promised \"we shall fight on the beaches,\" though Churchill also cautioned that \"wars are not won by\" actions similar to this one. For 10 points, name this operation, codenamed Dynamo, a mass evacuation from the namesake French port that miraculously saved a vast portion of the British army from the advancing Germans in 1940.",
+      "powerMarkPosition": 422,
+      "answer": "Dunkirk",
+      "acceptableAnswers": [
+        "Dunkirk",
+        "Operation Dynamo before mentioned",
+        "The Dunkirk"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a984192f"
+    },
+    {
+      "id": "4198ea81-d2b2-4018-ab27-ee204eb6370f",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "This designer of the Chresthomatic Day School used the penname Gamliel Smith to write a paper questioning the authority of a Biblical figure, \"Not Paul but Jesus.\" He published his first work \"A Fragment on Government\" in response to William Blackstone's love of the \"rule of law.\" This philosopher sent Adam Smith a letter arguing for free lending of money at interest, included in his Defense of Usury, and he introduced the central concept of his philosophy in Introduction to Principles of Morals. For 10 points, name this theorizer of the Panopticon and founder of utilitarianism.",
+      "powerMarkPosition": 501,
+      "answer": "Bentham",
+      "acceptableAnswers": [
+        "Bentham",
+        "The Bentham"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43509"
+    },
+    {
+      "id": "62166734-b58e-4bbb-8517-b431400241be",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "The Dogon people in what is now this country made villages in the shape of humans. The Kaabu Kingdom was at one time a province, or tinkuru, of the state that became this modern-day nation. This nation was a colony containing the city of Kayes called French Sudan until Modibo Keita became its first president in 1960. Susan and Roderick McIntosh excavated near Djenné-jeno in this nation. A ruler named Barmandana brought Islam to this country's namesake West African empire, whose rulers were notably called \"mansas.\" For 10 points, name this West African state housing Timbuktu that named an empire ruled by Sundiata and Mansa Musa.",
+      "powerMarkPosition": 318,
+      "answer": "Mali",
+      "acceptableAnswers": [
+        "Mali",
+        "The Mali"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b9da"
+    },
+    {
+      "id": "8e78f12e-cde5-445a-bd8f-7c186c1133e3",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "Joseph Corn argued that this activity was made \"Thinkable\" for ordinary Americans by people like Louise Thaden and Helen Richey. The Ninety-Nines were an organization of women who engaged in this activity. The Powder Puff Derby for this activity was organized by a woman who was accompanied by Fred Noonan during a 1937 event. The spokesperson for the America First Committee was a man who gained fame for performing this activity using the Spirit of St. Louis. This activity was first done in Kitty Hawk, North Carolina. For 10 points, what activity were Charles Lindbergh and Amelia Earhart famous for?",
+      "powerMarkPosition": 314,
+      "answer": "fly",
+      "acceptableAnswers": [
+        "fly",
+        "flying",
+        "aviation",
+        "accept any answers referring to piloting aircraft",
+        "The fly"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b19d5"
+    },
+    {
+      "id": "70adee81-fb47-4376-a0f1-08e659d5b1b9",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "One ruler of this house died after falling off his horse while torching Mantes. The third ruler of this house, known as the Lion of Justice, defeated his oldest brother at the Battle of Tinchebray after succeeding another older brother, who replaced Lanfranc with Anselm as archbishop and stopped an invasion by Malcolm III. A period known as The Anarchy followed the ascension of its last ruler, who also belong to the \"House of Blois\" and battled Matilda for the throne before agreeing that her son Henry of Anjou would succeed him, starting the Plantagenet line. For 10 points, name this English royal house including Henry I, William Rufus, and William the Conqueror.",
+      "powerMarkPosition": 324,
+      "answer": "Norman",
+      "acceptableAnswers": [
+        "Norman",
+        "House of Normandy",
+        "The Norman"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f8314c626ea977c7a3e78"
+    },
+    {
+      "id": "1263b676-a0e1-4279-a48f-6e51ed70d1b2",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for sweat glands. It plays a key role in the integumentary system and is one of the most studied parts of human anatomy. For ten points, name this hair follicle-related structure.",
+      "powerMarkPosition": 72,
+      "answer": "Hair follicle",
+      "acceptableAnswers": [
+        "hair follicle",
+        "Hair follicle"
+      ],
+      "explanation": "The hair follicle is a key component of the Integumentary system, involved in sweat glands.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9ce60c87-9759-4ad9-84bd-46c337bae5f8",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "This king began a conflict after a hawk from his royal army was thrown to the ground by a hawk owned by a religious minority. The Battle of Samugarh decided who would succeed this ruler, with Dara Shikoh losing to this man's son. He placed the Koh-i-noor diamond on a relic built for him, which was later seized by Nader Shah. This man employed prolific architect Ustad Ahmad Lahauri. The Peacock Throne was built for this ruler, who ordered the construction of the Red Fort. He spent his last days in house arrest after being locked up by his son, Aurangzeb. This man built a white mausoleum at Agra for his beloved wife Mumtaz. For 10 points, name this Mughal Emperor who erected the Taj Mahal.",
+      "powerMarkPosition": 363,
+      "answer": "Jahan",
+      "acceptableAnswers": [
+        "Jahan",
+        "A’la Azad Abul Muzaffar Shahab ud-Din Mohammad Kurram",
+        "The Jahan"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34ba8"
+    },
+    {
+      "id": "52ae15aa-0659-477e-8890-f815e2b38814",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "When the wife of a holder of this position was arrested by Patriot faction militia, English ambassador James Harris helped organize a Prussian invasion to free her. This office was then formalized within a constitutional framework by the 1788 Act of Guarantee. Reforms to pike and shot tactics made by a holder of this office directly inspired those made by Gustavus Adolphus. For 22 years, no holder of this office was appointed until a year in which a pair of brothers were lynched following a French-English joint invasion - that year was called the \"Disaster Year.\" This title's first holder served in Margaret of Parma's court, was assassinated by Balthasar Gerard, and started the Eighty Years' War against Spain. For 10 points, William of Orange was the first national-level holder of what title given to the leader of the United Provinces of the Netherlands?",
+      "powerMarkPosition": 495,
+      "answer": "stadtholder",
+      "acceptableAnswers": [
+        "stadtholder",
+        "The stadtholder"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97422a42"
+    },
+    {
+      "id": "c55f5041-30ce-424b-bd7d-2d5c4b4255e1",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "A linear polyatomic ion containing three atoms of this element has a negative four charge and is only found bonded with lithium and magnesium. In stars, three alpha particles undergo a fusion reaction to produce this element in the triple alpha process, and it is used with nitrogen and oxygen to convert hydrogen to helium. The 2010 Nobel Prize in Physics was awarded for work with one-atom thick planar sheets of this element. Sixty atoms of this element are bonded together in a buckminsterfullerene, and its other allotropes include diamonds and graphite. For 10 points, identify this element, symbolized C, which is present in all organic compounds.",
+      "powerMarkPosition": 316,
+      "answer": "Carbon",
+      "acceptableAnswers": [
+        "Carbon",
+        "C before mentioned",
+        "The Carbon"
+      ],
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e63271"
+    },
+    {
+      "id": "732e6a2b-2413-4de0-b6f9-4a1890b45b13",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "This religion was practiced by a hereditary class of artisans known for their silver work called falasha. The Lemba people claim descent from followers of this religion. After marrying a follower of this religion named Zenobis, a queen legendarily adopted it and destroyed the Axumite Empire. Its followers stored thousands of documents in a cellar called the Genizah (\"guh-NEE-zah\") in Cairo. The Saadi dynasty of Morocco welcomed thousands of followers of this religion called marranos. A 1990 airlift allowed most of this religion's Ethiopian followers to flee the country. Many Mizrahi followers of this religion lived in North Africa. For 10 points, name this religion practiced by Sephardic people who fled Spain, as well as Ethiopia's Beta Israel people and Ashkenazis.",
+      "powerMarkPosition": 386,
+      "answer": "Judaism",
+      "acceptableAnswers": [
+        "Judaism",
+        "Jewish religion",
+        "The Judaism"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f072b47434cffff7b5a1b6"
+    },
+    {
+      "id": "c0c3ac3b-fb53-4a3c-8eed-6c64023231f2",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for brainstem structures. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this cerebrum-related structure.",
+      "powerMarkPosition": 78,
+      "answer": "Cerebrum",
+      "acceptableAnswers": [
+        "cerebrum",
+        "Cerebrum"
+      ],
+      "explanation": "The cerebrum is a key component of the Nervous system, involved in brainstem structures.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c212e3bf-e66e-47d9-bb3d-ff86c1b2ffd5",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "As an engineer, this person held patents for a wastewater aerator design and designed the \"Micro Mod\" sailboat. This man performed with Benny Goodman and Stan Getz as a saxophonist, but he was criticized as a musical dilettante in a biography by Paul M. Handley whose title claims that this man \"Never Smiles.\" This man, who propounded the \"Sufficiency Economy\" theory, was caught in controversy when his son's dog was allegedly named Air Chief Marshal Foo Foo. As a political figure, he intervened in the 1992 Black May crisis and backed a military coup in his country catalyzed by the Thammasat University massacre. In April 2006, an audience with this man may have persuaded Thaksin Shinawatra to resign. Despite his recent death, insulting him remains punishable by imprisonment under lèse majesté laws. For 10 points, name this man who died in October 2016 as the longest-reigning monarch in Thai history.",
+      "powerMarkPosition": 540,
+      "answer": "Bhumibol",
+      "acceptableAnswers": [
+        "Bhumibol",
+        "Phumiphon Adunyadet",
+        "Rama IX",
+        "prompt on King of Thailand",
+        "Rama",
+        "The Bhumibol"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289cb066"
+    },
+    {
+      "id": "61ba1ab3-17fa-4641-8361-882204c293e8",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "In Osman Lins' Avalovara, Julius Heckethorn devises a complex clock designed to play part of a piece by this composer. This is the least famous of the three composers who visit Stravinsky's grave, despite having lived centuries before Stravinsky, in a novel in which those three composers are encountered as revelers at a Christmas carnival by a nobleman and his servant Filomeno. In another novel, this composer befriends the creator of the Passarola, a flying machine powered by human wills. Alejo Carpentier's Baroque Concert was inspired by a 1709 meeting of Vivaldi, Handel, and this composer. This composer is hired to teach the king's daughter in a novel about a love story set during the construction of the Convent of Mafra, José Saramago's Baltasar and Blimunda. For 10 points, name this Baroque composer of 555 keyboard sonatas, whose father was named Alessandro.",
+      "powerMarkPosition": 441,
+      "answer": "D",
+      "acceptableAnswers": [
+        "D"
+      ],
+      "source": "qbreader",
+      "sourceId": "640020a88d3cf1e72e2346ce"
+    },
+    {
+      "id": "fbb2a6d2-c35a-47e1-86be-3e2acf1fcbeb",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "In the background of this painting, a man watches as two bears dance with their backs to each other. In its right foreground, a man wearing a red tunic and a feathered cap seemingly controls a globe floating above his left hand. A woman ties the devil to a pillow in the bottom left of this painting, below a house that takes up the majority of its left half, from which a man urinates onto a sign. Sometimes called The Blue Cloak, it depicts two men holding each other by their noses, representing mutual trickery, over a stack of cards falling to the ground, representing the element of chance in man's fate. For 10 points, name this painting by Peter Bruegel the Elder, a literal depiction of idioms.",
+      "powerMarkPosition": 398,
+      "answer": "Netherlandish Proverbs",
+      "acceptableAnswers": [
+        "Netherlandish Proverbs",
+        "Flemish Proverbs",
+        "The Topsy Turvy World",
+        "accept The Blue Cloak before mention",
+        "The Netherlandish Proverbs"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df8ab610329be735a33e7c"
+    },
+    {
+      "id": "e9695489-eb32-4dd9-8a0a-2b5964f8da61",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "One work by this composer opens with a flute solo descending and ascending chromatically, followed by a prolonged pause. This composer's most famous composition is the third movement of his Suite Bergamasque (bair-gah-\"MASK\"). He also depicted \"Golliwog's Cakewalk\" in the Children's Corner suite and composed Prelude to the Afternoon of a Faun. For 10 points, name this impressionist French composer of \"Clair de Lune.\"",
+      "powerMarkPosition": 226,
+      "answer": "Debussy",
+      "acceptableAnswers": [
+        "Debussy",
+        "The Debussy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec679d"
+    },
+    {
+      "id": "5543f37c-1f5f-4582-94c3-171cb9e42468",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "In this work, the fugitive Altamira remarks on the paradoxical cruelty of the French. The protagonist meets the British philosopher Philip Vane, who tells him \"the idea most useful to tyrants is that of God.\" When Elisa is rejected, she confesses to Chelan, causing the townspeople of Verrieres to grow suspicious. Unable to put up with Besanҫon, the protagonist of this novel is introduced by Father Pirard to de la Mole and seduces Mathilde. Before they can marry, a letter from the wife of mayor de Renal reveals him as a rake, so he decides to shoot her. For 10 points, name this novel about a man who aspires to be Napoleon named Julien Sorel, a colorful work by Stendhal.",
+      "powerMarkPosition": 314,
+      "answer": "rouge et le noir",
+      "acceptableAnswers": [
+        "rouge et le noir",
+        "The Red and the Black",
+        "Scarlet and Black",
+        "The rouge et le noir"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f8313c626ea977c7a3e2c"
+    },
+    {
+      "id": "91d15478-ac5e-4a6a-a091-56bb934cd05d",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for partial pressure gradients. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this diffusion-related structure.",
+      "powerMarkPosition": 82,
+      "answer": "Diffusion",
+      "acceptableAnswers": [
+        "diffusion",
+        "Diffusion"
+      ],
+      "explanation": "The diffusion is a key component of the Respiratory system, involved in partial pressure gradients.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "217dc0f8-91fe-44d1-8362-aaa019eaa0ee",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "The use of \"spectral evidence\" during this event was discussed in Cotton Mather's The Wonders of the Invisible World. For his refusal to plead during this event, Giles Corey was pressed to death with stones. The slave Tituba was the first to be targeted by this event following accusations made by Betty Parris and Abigail Williams. For 10 points, magic practitioners were hunted in what series of trials in 17th century Massachusetts?",
+      "powerMarkPosition": 277,
+      "answer": "Salem Witch",
+      "acceptableAnswers": [
+        "Salem Witch",
+        "The Salem Witch"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b8ec"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "43c941fd-3df5-4490-a5a0-a7bd0fe5a1ca",
+      "linkedTossupId": "cc08fda8-76a6-433f-9736-764124aceb2e",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this technique, which uses a matrix such as polyacrylamide or agarose to separate bands of DNA or protein by mass.",
+          "answer": "electrophoresis",
+          "acceptableAnswers": [
+            "electrophoresis",
+            "The electrophoresis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "When performing protein gel electrophoresis, the proteins are typically denatured with this twelve-carbon detergent, which helps linearize the proteins and provides an appropriate amount of charge per unit mass.",
+          "answer": "sodium dodecyl sulfate",
+          "acceptableAnswers": [
+            "sodium dodecyl sulfate",
+            "SDS",
+            "The sodium dodecyl sulfate"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "To fully denature proteins, disulfide bonds may be broken using reducing agents such as the odorless TCEP. Name either of the two unpleasant-smelling thiols also commonly used to reduce disufide bonds for SDS-PAGE [S-D-S-\"page\"].",
+          "answer": "dithiothreitol",
+          "acceptableAnswers": [
+            "dithiothreitol",
+            "Cleland’s reagent",
+            "DTT",
+            "betamercaptoethanol",
+            "BME",
+            "The dithiothreitol"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This technique can be used to identify protein-DNA interactions through EMSA, which looks for a band shift. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531ffa61a9ba79f356a1"
+    },
+    {
+      "id": "8d5bad26-8b53-4dc9-bb58-6050b4d008a9",
+      "linkedTossupId": "32ab60f3-fc6f-43ef-9ad2-f85267beab20",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this June 1859 battle in which Franz Gyulai's Austro-Hungarian forces were defeated, leading to Bologna and other cities joining the Risorgimento.",
+          "answer": "Magenta",
+          "acceptableAnswers": [
+            "Magenta",
+            "The Magenta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man, who was elected president of France in 1848 and remained in power as emperor until his defeat at Sedan in 1871, commanded the victorious French forces at Magenta.",
+          "answer": "Napoleon III",
+          "acceptableAnswers": [
+            "Napoleon III",
+            "Louis-Napoleon",
+            "do not accept",
+            "prompt on \"Napoleon\"",
+            "The Napoleon III"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man was made \"Duke of Magenta\" for his command under Napoleon III at the battle, where he announced, \"The Legion is here. It's in the bag!\" He later became the first president of the Third Republic.",
+          "answer": "MacMahon",
+          "acceptableAnswers": [
+            "MacMahon",
+            "The MacMahon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This battle opened the way to Milan, which Victor Emmanuel entered in triumph four days later. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faa9d2"
+    },
+    {
+      "id": "aef73f8f-f201-41a9-948e-d83257a0ce58",
+      "linkedTossupId": "2903a66d-41dd-41be-b6b5-dbe3c2b72499",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this object, the ceremonial throne of Ashanti rulers in West Africa.",
+          "answer": "Golden Stool",
+          "acceptableAnswers": [
+            "Golden Stool",
+            "The Golden Stool"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Ashanti Empire was based out of this modern-day West African country. More recent leaders from this country include Kwame Nkrumah and Kofi Annan.",
+          "answer": "Ghana",
+          "acceptableAnswers": [
+            "Ghana",
+            "The Ghana"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This British field marshal razed the Ashanti capital of Kumasi in 1873. He arrived too late to relieve Charles Gordon in Khartoum, but had more success putting down Louis Riel's Red River Rebellion.",
+          "answer": "Wolseley",
+          "acceptableAnswers": [
+            "Wolseley",
+            "The Wolseley"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This object was legendarily delivered to Osei Tutu during a thunderstorm. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aeb15"
+    },
+    {
+      "id": "a9ae80dd-4324-4f09-8492-6b80ba419758",
+      "linkedTossupId": "4198ea81-d2b2-4018-ab27-ee204eb6370f",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this location at the foot of the Mount of Olives where Peter and the two sons of Zebedee fail to remain awake shortly before Jesus is arrested.",
+          "answer": "Gethsemane",
+          "acceptableAnswers": [
+            "Gethsemane",
+            "The Gethsemane"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Jesus returns from prayer just as this man arrives with many people holding swords and clubs. This betrayer's kiss is the signal for Jesus to be seized.",
+          "answer": "Judas",
+          "acceptableAnswers": [
+            "Judas",
+            "The Judas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "As Jesus is being seized, an apostle cuts one of these body parts from a member of the mob. In ancient Israel, an awl would be driven through this body part to mark its owner as a slave.",
+          "answer": "ear",
+          "acceptableAnswers": [
+            "ear",
+            "The ear"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One figure falls down with his face to the ground in this location and prays, \"Yet not as I will, but as you will.\"For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6727fb420a73c65be67f7728"
+    },
+    {
+      "id": "e4a6bd55-ea94-492a-8150-df0b45c4c0b1",
+      "linkedTossupId": "62166734-b58e-4bbb-8517-b431400241be",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this country, which was formed along with India following the partition of the British Raj in 1947. This country has since frequently warred with India over the disputed region of Kashmir.",
+          "answer": "Pakistan",
+          "acceptableAnswers": [
+            "Pakistan",
+            "Islamic Republic of Pakistan",
+            "The Pakistan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Pakistan Atomic Energy Commission was tasked with creating nuclear weapons by Zulfiqar, a prime minister with this surname. Zulfikar's daughter Benazir, who also had this surname, was Pakistan's first and only female prime minister.",
+          "answer": "Bhutto",
+          "acceptableAnswers": [
+            "Bhutto",
+            "Zulfiqar Ali Bhutto",
+            "Benazir Bhutto",
+            "The Bhutto"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Zulfikar Ali Bhutto was overthrown by this general in Operation Fair Play. This general continued Pakistan's nuclear weapons program whilst introducing policies to \"Islamize\" Pakistan, like mandating the payment of zakat.",
+          "answer": "Zia",
+          "acceptableAnswers": [
+            "Zia",
+            "The Zia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This country's first nuclear weapons test, Chagai-1, was conducted twenty-four years after its eastern neighbor conducted the Smiling Buddha nuclear tests. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a674"
+    },
+    {
+      "id": "651cf5ce-50ce-4976-bbaf-007763114df2",
+      "linkedTossupId": "8e78f12e-cde5-445a-bd8f-7c186c1133e3",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this archeological site on the island of Crete, home to one of the earliest Greek civilizations.",
+          "answer": "Knossos",
+          "acceptableAnswers": [
+            "Knossos",
+            "The Knossos"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "That civilization was this one, named by Sir Arthur Evans and which wrote in Linear A and Linear B. These people lost dominance in the 15th century B.C.E., and were replaced by the Myceneans.",
+          "answer": "Minoans",
+          "acceptableAnswers": [
+            "Minoans",
+            "The Minoans"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Minoans got their mythological name due to the large number of art works that depict this type of animal. One wall painting shows several youths leaping over one of these in a \"flying-gallop\" pose.",
+          "answer": "bull",
+          "acceptableAnswers": [
+            "bull",
+            "The bull"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The palace at this site was rebuilt after a volcanic eruption on the island of Thera. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "647044212576885f91e62421"
+    },
+    {
+      "id": "1f3ab0fc-c013-45eb-a0d8-6fcabbd02807",
+      "linkedTossupId": "70adee81-fb47-4376-a0f1-08e659d5b1b9",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this hit song of the 1860s, rivaled only by \"Dixie\" in its popularity with Southern soldiers. Its title refers to the boiled peanuts famished Southerners were forced to eat during the war.",
+          "answer": "Goober Peas",
+          "acceptableAnswers": [
+            "Goober Peas",
+            "The Goober Peas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Julia Ward Howe's \"Battle Hymn of the Republic\" borrowed its tune from a Union army marching song about this man's \"Body.\" This abolitionist led an 1859 raid on Harpers Ferry and committed the Pottawatomie massacre.",
+          "answer": "Brown",
+          "acceptableAnswers": [
+            "Brown",
+            "“John Brown’s Body”",
+            "The Brown"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Edmund Wilson's Patriotic Gore is named after a song about this state, sung to the tune of \"O Tannenbaum.\" It references the attack of Union troops moving through this state by Confederate sympathizers in the Pratt Street riot.",
+          "answer": "Maryland",
+          "acceptableAnswers": [
+            "Maryland",
+            "“Maryland",
+            "My Maryland”",
+            "The Maryland"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This song begins with the lyrics \"sitting by the roadside on a summer's day/ chatting with my messmates, passing time away.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db46002"
+    },
+    {
+      "id": "de1a6ff7-0ab8-4b69-b5e0-596742814f89",
+      "linkedTossupId": "1263b676-a0e1-4279-a48f-6e51ed70d1b2",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with blood vessel structure.",
+          "answer": "aorta",
+          "acceptableAnswers": [
+            "aorta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the aorta in the cardiovascular system?",
+          "answer": "Blood vessel structure",
+          "acceptableAnswers": [
+            "Blood vessel structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to blood vessel structure.",
+          "answer": "vena cava",
+          "acceptableAnswers": [
+            "vena cava"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "76ac7446-7c86-4268-b6ad-3ea910006ded",
+      "linkedTossupId": "9ce60c87-9759-4ad9-84bd-46c337bae5f8",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This amputee began his Marathon of Hope in St. John's, Newfoundland but was forced to stop in Thunder Bay, Ontario. He lends his name to the world's largest one day cancer research fundraiser.",
+          "answer": "Fox",
+          "acceptableAnswers": [
+            "Fox",
+            "The Fox"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tommy Douglas, the first leader of this national leftist political party, was named the greatest Canadian in a 2004 survey. He implemented North America's first universal single-payer healthcare system in Saskatchewan, a system supported by leaders of this party since then, including Jack Layton and Ed Broadbent.",
+          "answer": "New Democratic Party",
+          "acceptableAnswers": [
+            "New Democratic Party",
+            "NDP",
+            "The New Democratic Party"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Norman Bethune, a Canadian communist, treated injured soldiers and ailing civilians in this country while serving with the Eighth Route Army. Chairman Mao wrote in a notable eulogy that \"Every Communist must learn [the] true communist spirit from Comrade Bethune.\"",
+          "answer": "China",
+          "acceptableAnswers": [
+            "China",
+            "The China"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following questions about Canadians who have helped improve healthcare:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee941"
+    },
+    {
+      "id": "14b8b9f6-e559-4b27-add5-304dcf70cc4d",
+      "linkedTossupId": "52ae15aa-0659-477e-8890-f815e2b38814",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this West African empire of ethnically Akan people, located primarily in present-day Ghana, whose royal throne was a golden stool believed to contain this state's spirit, or Sansum.",
+          "answer": "Ashanti",
+          "acceptableAnswers": [
+            "Ashanti",
+            "Asante Empire",
+            "Asanteman",
+            "The Ashanti"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The golden stool was said to have floated down from heaven to this first ruler of the Ashanti Empire, who was assisted by his chief priest Okomfo Anokye. He commanded the Ashanti forces at Feyiase, but was killed fighting the Akyem.",
+          "answer": "Osei",
+          "acceptableAnswers": [
+            "Osei",
+            "Osei Kofi Tutu I",
+            "The Osei"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This queen mother of Ejisu led the Ashanti in the War of the Golden Stool against the British imperial government, after refusing to turn over the stool to Frederick Hodgson. She died in exile in the Seychelles.",
+          "answer": "Asantewaa",
+          "acceptableAnswers": [
+            "Asantewaa",
+            "The Asantewaa"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This empire established its dominance by defeating the Denkyira nation at the Battle of Feyiase. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63565e81aa22adfc26791261"
+    },
+    {
+      "id": "745777a4-1169-4edc-9fa4-86737dc522dd",
+      "linkedTossupId": "c55f5041-30ce-424b-bd7d-2d5c4b4255e1",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this type of organism, which, unlike heterotrophs, do not need to feed on other organisms.",
+          "answer": "autotroph",
+          "acceptableAnswers": [
+            "autotroph",
+            "The autotroph"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chemoautotrophs that live around deep sea vents can use this foul-smelling gas as their primary source of energy. Since those bacteria are the primary producers for their ecosystem, all deep-sea creatures rely on them.",
+          "answer": "hydrogen sulfide",
+          "acceptableAnswers": [
+            "hydrogen sulfide",
+            "H2S",
+            "The hydrogen sulfide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Plants are autotrophs that use this process to create organic compounds. It involves the use of chlorophyll to convert light energy into chemical energy.",
+          "answer": "photosynthesis",
+          "acceptableAnswers": [
+            "photosynthesis",
+            "The photosynthesis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These organisms are able to synthesize their own complex organic compounds and serve as producers in the food chain. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54adc44"
+    },
+    {
+      "id": "3952189d-7ac0-46b8-be56-3386cd7af7f8",
+      "linkedTossupId": "732e6a2b-2413-4de0-b6f9-4a1890b45b13",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this democratically elected left wing leader of Chile who was overthrown in a 1973 US backed coup by Augusto Pinochet.",
+          "answer": "Allende",
+          "acceptableAnswers": [
+            "Allende",
+            "The Allende"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After overthrowing Allende, Pinochet helped establish this project which involved the CIA helping support right wing South American governments. Argentina's Dirty War was part of this project.",
+          "answer": "Condor",
+          "acceptableAnswers": [
+            "Condor",
+            "The Condor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This country's former president Joao Goulart was assassinated as part of Operation Condor. Goulart was the last left wing president of this country before Lula da Silva, who defeated Jair Bolsonaro in a 2022 election.",
+          "answer": "Brazil",
+          "acceptableAnswers": [
+            "Brazil",
+            "The Brazil"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Caravan of Death was a death squad that carried out executions after the overthrow of this leader. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68d7483b23ecd621bd0cead8"
+    },
+    {
+      "id": "48a2702d-8571-4248-a23f-654b5554f18b",
+      "linkedTossupId": "c0c3ac3b-fb53-4a3c-8eed-6c64023231f2",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with water absorption.",
+          "answer": "colon",
+          "acceptableAnswers": [
+            "colon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the colon in the digestive system?",
+          "answer": "Water absorption",
+          "acceptableAnswers": [
+            "Water absorption"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to water absorption.",
+          "answer": "cecum",
+          "acceptableAnswers": [
+            "cecum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "83fc5474-4459-4887-a08d-3b808b311e08",
+      "linkedTossupId": "c212e3bf-e66e-47d9-bb3d-ff86c1b2ffd5",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this punishment whose use was revived by Crassus. It involved mutinous soldiers being forced to draw lots, and then to beat the unlucky winners to death.",
+          "answer": "decimation",
+          "acceptableAnswers": [
+            "decimation",
+            "The decimation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Crassus's own death at the Battle of Carrhae unraveled the Triumvirate and led to civil war between Julius Caesar and this other member, who was defeated at the Battle of Pharsalus.",
+          "answer": "Pompey",
+          "acceptableAnswers": [
+            "Pompey",
+            "Gnaeus Pompeius Magnus",
+            "The Pompey"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Julius Caesar was a leading figure of this political faction that pushed for the Cura Annonae and first rose with the Gracchi brothers. Pompey drifted toward the rival Optimates after the death of Crassus.",
+          "answer": "populares",
+          "acceptableAnswers": [
+            "populares",
+            "The populares"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Saint Maurice's Theban Legion was supposedly martyred through this practice, the survivors of which received \"the public disgrace of receiving barley rations,\" according to Polybius. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423210"
+    },
+    {
+      "id": "610a37c4-9b75-405f-83d3-95caacd61dff",
+      "linkedTossupId": "61ba1ab3-17fa-4641-8361-882204c293e8",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this hero of a chanson de geste, who mistakenly kills Charlemagne's son, Charlot, and is punished by being sent on a seemingly impossible quest. He eventually succeeds with the help of a fairy king.",
+          "answer": "Huon de Bordeaux",
+          "acceptableAnswers": [
+            "Huon de Bordeaux",
+            "The Huon de Bordeaux"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The story of Huon de Bordeaux was later adapted as the 1780 epic Oberon by this German author.",
+          "answer": "Wieland",
+          "acceptableAnswers": [
+            "Wieland",
+            "The Wieland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In A Midsummer Night's Dream, Oberon, the fairy king, is married to this fairy queen, who falls in love with Bottom after Puck places love-juice on her eyelids.",
+          "answer": "Titania",
+          "acceptableAnswers": [
+            "Titania",
+            "The Titania"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His tale, first printed in English by Wynkyn de Worde, concerns a mission to steal a kiss from the fair Esclarmonde and bring back a handful of hair and four teeth from Gaudisse, the emir of Babylon , 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df3ddba2602b93e04081c9"
+    },
+    {
+      "id": "847f3b64-3277-4cc4-b1ac-1c843c8923f3",
+      "linkedTossupId": "fbb2a6d2-c35a-47e1-86be-3e2acf1fcbeb",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Biblically-inspired cantata for chorus, solo baritone, two brass bands, and orchestra. Osbert Sitwell wrote the libretto for this piece, which was premiered at the 1931 Leeds Festival.",
+          "answer": "Belshazzar's Feast",
+          "acceptableAnswers": [
+            "Belshazzar's Feast",
+            "The Belshazzar's Feast"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This English composer drew from the Book of Daniel for his cantata Belshazzar's Feast. He set Edith Sitwell's poetry to music in his Façade.",
+          "answer": "Walton",
+          "acceptableAnswers": [
+            "Walton",
+            "The Walton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Walton also wrote pieces in this genre like Crown Imperial and Orb and Sceptre for the coronation of King George VI. Edward Elgar wrote six of these pieces for orchestra titled Pomp and Circumstance.",
+          "answer": "march",
+          "acceptableAnswers": [
+            "march",
+            "coronation marches",
+            "The march"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This piece opens with the trombones playing a call on a repeated B-flat followed by the chorus singing \"Thus spake Isaiah.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f1bf365ffd63b5f24c1dda"
+    },
+    {
+      "id": "06f1c6bc-d484-4713-9dc2-e071027a3393",
+      "linkedTossupId": "e9695489-eb32-4dd9-8a0a-2b5964f8da61",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This man wrote an opera based on Hogarth's work, The Rake's Progress, but he is better known for ballets, which include Petrushka and The Rite of Spring.",
+          "answer": "Stravinsky",
+          "acceptableAnswers": [
+            "Stravinsky",
+            "The Stravinsky"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of this composer's seven symphonies has the nickname \"Classical,\" but this composer is better known for the ballet Romeo and Juliet and Peter and the Wolf.",
+          "answer": "Prokofiev",
+          "acceptableAnswers": [
+            "Prokofiev",
+            "The Prokofiev"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer wrote such works as Vocalise and Isle of the Dead as well as two Elegiac Trios, but is perhaps best known for his Rhapsody on a Theme of Paganini.",
+          "answer": "Rachmaninoff",
+          "acceptableAnswers": [
+            "Rachmaninoff",
+            "The Rachmaninoff"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, identify these 20th century Russian composers.",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0cd0"
+    },
+    {
+      "id": "95bc50d2-f6ef-4243-a92f-26acdc62d613",
+      "linkedTossupId": "5543f37c-1f5f-4582-94c3-171cb9e42468",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this book beginning with the story \"The Goophered Grapevine.\" Its stories are recited by the old slave Uncle Julius for a new master of his plantation.",
+          "answer": "Conjure Woman",
+          "acceptableAnswers": [
+            "Conjure Woman",
+            "The Conjure Woman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Conjure Woman is praised for its accurate representation of Negro vernacular as opposed to the exaggerated dialect used by this character, a former slave created by Joel Chandler Harris who tells folktales about animals.",
+          "answer": "Uncle Remus",
+          "acceptableAnswers": [
+            "Uncle Remus",
+            "The Uncle Remus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The author of The Conjure Woman, Charles Chesnutt also wrote this novel about Rena Walden's romance with the aris-tocrat George Tryon that falls apart when he discovers she is passing for white.",
+          "answer": "House Behind the Cedars",
+          "acceptableAnswers": [
+            "House Behind the Cedars",
+            "The House Behind the Cedars"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One incarnation of the title character is Aunt Peggy, who legendarily placed a curse on the vineyard of an old plantation that would kill any black person who eats a grape. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba956de"
+    },
+    {
+      "id": "31132c2f-81d4-48ed-bf6c-69698c518a65",
+      "linkedTossupId": "91d15478-ac5e-4a6a-a091-56bb934cd05d",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with sebaceous glands.",
+          "answer": "hair follicle",
+          "acceptableAnswers": [
+            "hair follicle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hair follicle in the integumentary system?",
+          "answer": "Sebaceous glands",
+          "acceptableAnswers": [
+            "Sebaceous glands"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the integumentary system related to sebaceous glands.",
+          "answer": "nail",
+          "acceptableAnswers": [
+            "nail"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human integumentary system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e75e5fbc-8626-4196-aad0-709c91d76def",
+      "linkedTossupId": "217dc0f8-91fe-44d1-8362-aaa019eaa0ee",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "He led Russia through the Great Northern War and this tsar worked and travelled around in Europe practicing such trades as dentistry and carpentry, skills that would be helpful later for modernizing Russia and turning it into an absolutist empire.",
+          "answer": "Peter the Great",
+          "acceptableAnswers": [
+            "Peter the Great",
+            "The Peter the Great"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This tsar ruled Russia during the Napoleonic Wars and was also the first Russian king of Poland. He attempted a series of reforms, which he later revoked himself.",
+          "answer": "Alexander I",
+          "acceptableAnswers": [
+            "Alexander I",
+            "The Alexander I"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Saint, the Passion-Bearer, of the Russian Orthodox Church was nicknamed \"the Bloody\" because his reign was marked by Bloody Sunday and several Anti-Semetic pogroms. He abdicated on the Ides of March, 1917, led Russia into World War I, and was the last Russian tsar.",
+          "answer": "Nicholas II",
+          "acceptableAnswers": [
+            "Nicholas II",
+            "The Nicholas II"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these Russian tsars, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced8d6"
+    }
+  ]
+}

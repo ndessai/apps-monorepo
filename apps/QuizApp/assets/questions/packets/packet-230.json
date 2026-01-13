@@ -1,0 +1,1145 @@
+{
+  "packetId": "packet-230",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Literature",
+    "Fine Arts",
+    "Geography",
+    "Social Science",
+    "Science",
+    "Human Body"
+  ],
+  "tossups": [
+    {
+      "id": "fffc7473-732f-44b0-9578-9b96b8166108",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "One provision of this act was recently challenged by a group of 20 firefighters in Ricci v DeStefano, and it contains the Bennett Amendment. Howard W Smith and Martha Griffiths added another amendment to this bill. Its notion of \"disparate impacts\" was clarified by Griggs v Duke Power Co. Lester Maddox notably refused to obey this law, and it was ruled permissible under the Commerce Clause in Heart of Atlanta Motel v US. A group including Albert Gore Sr and Robert Byrd filibustered this bill for 83 days, and this act was followed the next year by the Voting Rights Act. For 10 points, name this act heavily pushed by Lyndon Johnson, which made racial discrimination and segregation illegal.",
+      "powerMarkPosition": 395,
+      "answer": "Civil Rights Act",
+      "acceptableAnswers": [
+        "Civil Rights Act",
+        "The Civil Rights Act"
+      ],
+      "source": "qbreader",
+      "sourceId": "646912af2e8fbb82d5768c73"
+    },
+    {
+      "id": "ea54e1db-17df-49a8-865a-c9668d0eb0e5",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "This figure received his sword, Rhindon, during his first quest, and his reputation for prowess in battle stemmed from his victory in the Ettinsmoor War, in which he defeated a group of giants. His defeat of Maugrim was a key victory in the Battle of Beruna Ford, and Glozelle killed his opponent Miraz following a duel this man fought thirteen hundred years later. He was recognized as a ruler by Tirian, who met this man after he died at the age of twenty-two in a railway accident. He had disappeared from his kingdom, along with his sisters and younger brother, while hunting the White Stag, when they inadvertently returned to England. FTP, name this eldest Pevensey sibling, the High King of Narnia.",
+      "powerMarkPosition": 365,
+      "answer": "Peter",
+      "acceptableAnswers": [
+        "Peter",
+        "The Peter"
+      ],
+      "source": "qbreader",
+      "sourceId": "64683d300d0d0e5f184a357c"
+    },
+    {
+      "id": "3226c3c8-e103-43c8-8a36-8b9feda33eaf",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "Artist and medium required. One of these works features a playwright taunting Cuban actresses to satirize Fidel Castro's life. Figures named \"Ondine\" and \"Ultra Violet\" were brought to prominence through these works, and Ronald Tavel helped produce several of these works. Several of these works were displayed at the \"Exploding Plastic Inevitable\" event. One of the first of these works shows John Giorno performing the titular action for five hours and twenty minutes. For 10 points, name this works made by a prominent pop artist that include Lonesome Cowboys and Sleep.",
+      "powerMarkPosition": 317,
+      "answer": "Warhol’s Films",
+      "acceptableAnswers": [
+        "Warhol’s Films",
+        "The Warhol’s Films"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa5913201680"
+    },
+    {
+      "id": "54455180-744a-4966-83ec-4256c1d41095",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "A 1610 eruption of the Momotombo stratovolcano in this country caused inhabitants of its city of Leon to relocate. This nation's capital was damaged in a 1972 earthquake caused by the Cocos Plate, and the Tipitapa and San Juan rivers both flow through this nation's namesake lake. The Miskito Coast, named for a local African-Native American ethnic group, makes up the majority of this country's east coast. This nation's largest lake is alternatively called Cocibolca, and would feature heavily in the construction of the Panama Canal. For ten points, name this Central American country with capital Managua.",
+      "powerMarkPosition": 284,
+      "answer": "Nicaragua",
+      "acceptableAnswers": [
+        "Nicaragua",
+        "República de Nicaragua",
+        "The Nicaragua"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a5987"
+    },
+    {
+      "id": "5c6a25c2-23cf-427f-a4a9-7c3d8b2f3aad",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "This ruler limited animal slaughter in the royal kitchen to two peacocks and a deer daily as part of his philosophy of \"conquest by the right principles.\" Five hundred ministers supported this ruler after Susima slapped a bald man's head, though this ruler later decapitated them. This ruler's father Bindusara followed the Ajivika faith, which was protected with decrees this ruler issued from Pataliputra. At Sarnath, this ruler erected a column whose capital depicts four lions. A series of pillars and rock edicts outline this ruler's conversion to Buddhism after the bloody conquest of Kalinga. For 10 points, name this \"Great\" ruler of the Mauryan Empire.",
+      "powerMarkPosition": 394,
+      "answer": "Ashoka",
+      "acceptableAnswers": [
+        "Ashoka",
+        "Ashoka Maurya",
+        "accept Asoka",
+        "The Ashoka"
+      ],
+      "source": "qbreader",
+      "sourceId": "66cd4c3dc5459312fdcc56a3"
+    },
+    {
+      "id": "6661b76a-ab00-4355-8ea2-4c7832304c41",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "One side in this battle landed at Pevensey, and its first casualty was the Bard Taillefer, who recited the Song of Roland. The losing forces in this battle attempted to use a \"shield defense\" of Housecarls, and the commander of that side had earlier defeated his brother Tostig and Harold Hardrada at the Battle of Stamford Bridge. This battle predominantly took place on Senlac Hill, and it was prompted by the succession crisis resulting from the death of Edward the Confessor. For 10 points, name this 1066 battle depicted in the Bayeux Tapestry that saw the defeat of Harold Godwinson by William the Conqueror, resulting in the Norman rule of England.",
+      "powerMarkPosition": 331,
+      "answer": "Hastings",
+      "acceptableAnswers": [
+        "Hastings",
+        "The Hastings"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d935"
+    },
+    {
+      "id": "7bd83070-8efe-4423-bf45-941d9defd065",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "A recent formulation reduces this theory to the knowledge of unbounded Merge. It was developed to answer what its formulator called \"Plato's problem\". The principles and parameters approach is an instantiation of this theoretical concept which explains variation. Daniel Everett has claimed that Piraha is a counterexample to this theory because it supposedly lacks recursion. Its proponents claim it is necessary because of the \"poverty of the stimulus\" argument, which states that children aren't exposed to enough data to learn language from scratch without some genetic predisposition. For 10 points, name this linguistic theory which proposes that certain abstract grammatical principles are innate and manifest themselves without being taught, a concept coined by Noam Chomsky.",
+      "powerMarkPosition": 263,
+      "answer": "U",
+      "acceptableAnswers": [
+        "U"
+      ],
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e7140"
+    },
+    {
+      "id": "6febabcb-dd93-4da6-af6d-4828974d669f",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "This leader once referred to Condoleezza Rice as \"Condolence.\" In 2009, this world leader promoted his Bank of the South, and he once led Operation Zamora, a failed coup against Carlos Andrés Pérez. Following the death of Muammar al-Qaddafi, he referred to Qaddafi as a \"martyr,\" and in 2011 he announced that he had cancer. He leads the United Socialist Party and pushes for a Boliviarian Revolution. This man also once claimed that George W. Bush promoted \"democracy for the elite\" and \"democracy of bombs,\" and also called him \"the devil.\" For 10 points, identify this president of Venezuela.",
+      "powerMarkPosition": 316,
+      "answer": "Chávez",
+      "acceptableAnswers": [
+        "Chávez",
+        "The Chávez"
+      ],
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e631c2"
+    },
+    {
+      "id": "96dc3981-232d-4aec-8e22-fd9c43ccf052",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "Members of this ethnic group were targeted by the Knights of Labor in the Rock Springs massacre. The Magnuson Act repealed a law targeting this group, who were granted rights in the Burlingame Treaty. This group, who were often processed at Angel Island, immigrated en masse due to the California Gold Rush and subsequently worked on the transcontinental railroad. An 1882 exclusion act targeted, for 10 points, what Asian ethnic group?",
+      "powerMarkPosition": 240,
+      "answer": "Chinese",
+      "acceptableAnswers": [
+        "Chinese",
+        "Asian-American",
+        "The Chinese"
+      ],
+      "source": "qbreader",
+      "sourceId": "68b2ff0d8940d9f7c563a144"
+    },
+    {
+      "id": "bf49a37f-c025-4467-8cf8-897bc6edf416",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "Early in this man's reign, John de la Pole revolted, trying to pass off Lambert Simnel as the Earl of Warwick. This man's son Arthur, Prince of Wales died of sweating sickness after earlier being married to Catherine of Aragon, who then married this man's other son. After arriving from France in Pembrokeshire, this man came to power after winning the Battle of Bosworth Field against the hunchbacked Richard III to end the Wars of the Roses. For 10 points, name this man who founded the Tudor dynasty and was succeeded by a man of the same name who notably had six wives.",
+      "powerMarkPosition": 255,
+      "answer": "Henry VII",
+      "acceptableAnswers": [
+        "Henry VII",
+        "The Henry VII"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc30a"
+    },
+    {
+      "id": "bc3ad1a5-e9f0-4fcc-b2f5-823c8a2c65e0",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "At this place, Elie Wiesel had \"A-7713\" tattooed on his arm. Many people in this place died from exposure to Zyklon B. International Holocaust Remembrance Day is celebrated on January 27, the day prisoners were liberated from this place. For 10 points, name this concentration camp in Poland.",
+      "powerMarkPosition": 118,
+      "answer": "Auschwitz",
+      "acceptableAnswers": [
+        "Auschwitz",
+        "concentration camp before mentioned",
+        "The Auschwitz"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c762"
+    },
+    {
+      "id": "6d302d28-eb5f-487e-b047-1bf20ffc76b6",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "A change in these linguistic sounds was described by Otto Jespersen, who wrote about \"long\" ones of these sounds \"rising\" in pronunciation between the 1400s and 1700s, during their namesake Great Shift.A neutral one of these sounds is called the schwa, and chaining together two of these sounds is called a diphthong. For ten points, name these sounds in speech that are represented by letters other than consonants, such as A, E, and U.",
+      "powerMarkPosition": 195,
+      "answer": "vowel",
+      "acceptableAnswers": [
+        "vowel",
+        "The vowel"
+      ],
+      "source": "qbreader",
+      "sourceId": "6837af66278db02eb79f1d89"
+    },
+    {
+      "id": "80aea770-6eff-4f66-9f1c-3bf2d6fe4e72",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "The sniper Vasily Zaytsev scored 225 kills during this battle where the Mamayev Kurgan heights changed hands several times due to their position above the battle. A building known as \"Pavlov's House\" held out for 60 days in this battle, part of the Case Blue offensive launched against the Caucasus. Georgy Zhukov led this battle's Operation Uranus, which encircled the German Sixth Army under Friedrich Paulus. For 10 points, name this World War II battle fought over a Russian city on the Volga River.",
+      "powerMarkPosition": 289,
+      "answer": "Stalingrad",
+      "acceptableAnswers": [
+        "Stalingrad",
+        "The Stalingrad"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7dc2"
+    },
+    {
+      "id": "b48af8f7-97cd-4189-9339-4377c1649ac7",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "The Power-Zeinau-Woolley operation is an example of this type of operation. In Dirac's derivation of magnetic monopoles as strings of dipoles, this operation is equivalent to moving between two strings. In Yang-Mills theory, this operation corresponds to a changing of the color orientation of the matter field. In QED, this operation is realized on the Dirac field as a local phase rotation, under which the QED Lagrangian is invariant. That invariance under this operation implies the conservation of charge by Noether's theorem, and in classical electrodynamics this operation equates to adding the gradient of an arbitrary function to the vector potential. For 10 points, identify this operation which modifies some field configuration while leaving observables unchanged.",
+      "powerMarkPosition": 311,
+      "answer": "gauge transform",
+      "acceptableAnswers": [
+        "gauge transform",
+        "The gauge transform"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae8c6b"
+    },
+    {
+      "id": "7776e044-4e1b-4b67-8b42-3cc429e0479a",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "NIST formerly endorsed one of these algorithms named DUAL_EC_DRBG that was backdoored by the NSA. Geiger counters, double pendulums, and a wall of lava lamps at Cloudflare's offices provide \"entropy sources\" for these algorithms. Properly created nonces, salts, and encryption keys require these algorithms to be \"cryptographically secure.\" Monte Carlo simulations use these algorithms to sample data. A class of these algorithms is prefixed \"pseudo-\" because they are completely determined by a starting seed, often the current system time. For 10 points, what algorithms have applications in shuffling playlists or imitating a dice roll?",
+      "powerMarkPosition": 340,
+      "answer": "random",
+      "acceptableAnswers": [
+        "random",
+        "RNGs",
+        "accept random algorithms",
+        "accept pseudorandom number generators",
+        "PRNGs",
+        "prompt on LavaRand",
+        "LavaRnd",
+        "The random"
+      ],
+      "source": "qbreader",
+      "sourceId": "689a0d6b2d8608f4ad8517d4"
+    },
+    {
+      "id": "ca38ce75-872f-4ebb-bc82-92faa22b18d2",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "This molecule includes eight alpha-beta barrels, which are the main domains of its L polypeptide chains, and eight S chains. A magnesium ion binds to this molecule to activate it after a lysine residue is carbamylated, a process aided by its namesake activase. In the presence of oxygen, this molecule's main function produces phosphoglycolate and 3-phosphoglycerate, also called PGA, though it usually produces two PGA molecules. For 10 points, name this enzyme central to carbon fixation in the Calvin cycle and named for the reactions it catalyzes involving ribulose-1,5-bisphosphate.",
+      "powerMarkPosition": 260,
+      "answer": "RuBisCO",
+      "acceptableAnswers": [
+        "RuBisCO",
+        "Ribulose-1",
+        "5-Bisphosphate Carboxylase/Oxygenase",
+        "The RuBisCO"
+      ],
+      "source": "qbreader",
+      "sourceId": "657fd7d6de6df0163bbe3ae8"
+    },
+    {
+      "id": "13c9e675-4012-42b7-8717-dd2a9612df56",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "A character created by this author repeatedly upsets her husband by asking about how he would sink and sit underwater as a child. In that play by this author, the concept of evolution is explained to the lizard couple Leslie and Sarah. The story of a \"Mousie\" who faked her pregnancy to trap her husband in marriage is told in the \"Walpurgisnacht\" act of a play by this author, in which characters play games such as \"Get the Guests\" and \"Hump the Hostess.\" While hosting the married couple Nick and Honey, Martha learns of her imaginary son's death from George in that play by this author. For 10 points, name this playwright of Who's Afraid of Virginia Woolf.",
+      "powerMarkPosition": 590,
+      "answer": "Albee",
+      "acceptableAnswers": [
+        "Albee",
+        "Edward Franklin Albee III",
+        "The Albee"
+      ],
+      "source": "qbreader",
+      "sourceId": "652ebb6f8051389c667bcfb9"
+    },
+    {
+      "id": "9fd81f6a-ae57-4a83-a63d-51ff37dd4488",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "A king of this name ordered all bridges to be fortified to prevent Viking raids in the Edictum Pistense. Notker the Stammerer collected anecdotes about a ruler of this name who created the Spanish March after his son captured Barcelona. A king with this name received the westernmost lands of his father in the Treaty of Verdun. A king known as \"the Bald\" had this name, as did a ruler who employed Alcuin of York and Einhard and made his court at Aachen. For 10 points, give the name of the man crowned Emperor of the Romans by Pope Leo III in 800.",
+      "powerMarkPosition": 310,
+      "answer": "Charles",
+      "acceptableAnswers": [
+        "Charles",
+        "Carolus",
+        "accept Charlemagne",
+        "Carolus Magnus",
+        "The Charles"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee7ec"
+    },
+    {
+      "id": "1ed561ef-adba-4142-a4b3-bff159083f95",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for major arteries (aorta, carotid, femoral). It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this aorta-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Aorta",
+      "acceptableAnswers": [
+        "aorta",
+        "Aorta"
+      ],
+      "explanation": "The aorta is a key component of the Cardiovascular system, involved in major arteries (aorta, carotid, femoral).",
+      "source": "ai-generated"
+    },
+    {
+      "id": "697e34d2-4d4c-4a40-b8d8-81afcf378003",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "Albert Luthuli reprimanded this man for a speech he gave at Freedom Square in Sophiatown. This man declared \"I am the First Accused,\" while defending his actions as a member of Umkhonto we Sizwe in the \"I Am Prepared to Die\" speech. This man was attacked for his founding of the Spear of the Nation during the Rivonia Trial. This member of the African National Congress was exonerated by F.W. de Klerk following twenty-seven years of imprisonment on Robben Island. For 10 points, name this opponent of apartheid who became president of South Africa in 1994.",
+      "powerMarkPosition": 232,
+      "answer": "Mandela",
+      "acceptableAnswers": [
+        "Mandela",
+        "The Mandela"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee4db"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "90732ea7-e46a-4c42-afdb-4944706499fa",
+      "linkedTossupId": "fffc7473-732f-44b0-9578-9b96b8166108",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this branch of the Kipchaks, a nomadic warrior people that harassed the Balkans.",
+          "answer": "Cuman",
+          "acceptableAnswers": [
+            "Cuman",
+            "The Cuman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Cumans allegedly allied with the Vlachs and these people in Asen and Peter of Tarnovo's rebellion against Byzantium. These people were also known for being slain by Basil II.",
+          "answer": "Bulgars",
+          "acceptableAnswers": [
+            "Bulgars",
+            "The Bulgars"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This leader may have had Cuman help when won the battle of Posada in a rebellion against Charles I of Hungary that established the principality of Wallachia. He is sometimes known as \"The Founder\" for his efforts.",
+          "answer": "Basarab I",
+          "acceptableAnswers": [
+            "Basarab I",
+            "The Basarab I"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "They defeated the princes of Kievan Rus at the Battle of the Stugna River and under Köten they sought asylum from Bela IV of Hungary when they were invaded by Mongols. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa863"
+    },
+    {
+      "id": "c920d495-4ce8-4a1c-8545-2875c7ca6e77",
+      "linkedTossupId": "ea54e1db-17df-49a8-865a-c9668d0eb0e5",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Namethis Norwegian playwright of Arne and The Fisher Maiden.",
+          "answer": "Bjørnson",
+          "acceptableAnswers": [
+            "Bjørnson",
+            "The Bjørnson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Along with Jonas Lie, Alexander Kielland, and Henrik Ibsen, Bjørnson formed this group of writers who invented the modern Norwegian drama.",
+          "answer": "Four Greats",
+          "acceptableAnswers": [
+            "Four Greats",
+            "De Fire Store",
+            "The Four Greats"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Ibsen play, the doctor Relling cynically wonders how long the sorrow of Hjalmar will last, and another character plans to marry the housekeeper Mrs. Sorby.",
+          "answer": "Wild Duck",
+          "acceptableAnswers": [
+            "Wild Duck",
+            "Vildanden",
+            "The Wild Duck"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The radical defrocked preacher Bratt convinces his union members to blow up the castle of factory owner Holger in this man's play Beyond Human Power, II. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b1523"
+    },
+    {
+      "id": "f6a8011d-c137-4512-81ea-7cc7dde9805c",
+      "linkedTossupId": "3226c3c8-e103-43c8-8a36-8b9feda33eaf",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this bandleader who collaborated with Nestico on an album titled [this artist] Straight Ahead. This musician, who recorded a signature big-band version of \"April in Paris,\" is called the Atomic in the title of a 1958 album.",
+          "answer": "Basie",
+          "acceptableAnswers": [
+            "Basie",
+            "William James Basie",
+            "accept Basie Straight Ahead",
+            "accept The Atomic Mr. Basie",
+            "The Basie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This musician established the arrangement style of the Count Basie Orchestra in the late 1950s through albums like The Atomic Mr. Basie. This musician arranged Woody Herman's \"Woodchopper's Ball\" and composed the original Batman theme.",
+          "answer": "Hefti",
+          "acceptableAnswers": [
+            "Hefti",
+            "Neal Paul Hefti",
+            "The Hefti"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 1937 song by Basie makes use of a \"head arrangement\" developed during an improvised jam session. This song, which opens with a long F major piano solo, is allegedly titled for the hour of the morning that it was first broadcast.",
+          "answer": "One O’Clock Jump",
+          "acceptableAnswers": [
+            "One O’Clock Jump",
+            "The One O’Clock Jump"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Infrequent use of passing chords and the lead trumpet being doubled an octave lower are characteristics of Sammy Nestico's arrangements for this bandleader. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64d17df3ce0dacc4ef84bae9"
+    },
+    {
+      "id": "6abc4724-4e62-423a-8e25-6b7d7b1d15e1",
+      "linkedTossupId": "54455180-744a-4966-83ec-4256c1d41095",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this family, whose members included Maria I and Manuel II, who ruled Portugal between 1640 and 1910. This family also ruled Brazil between 1822 and 1889.",
+          "answer": "Braganza",
+          "acceptableAnswers": [
+            "Braganza",
+            "Sereníssima Casa de Bragança",
+            "The Braganza"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During the Napoleonic Wars, the House of Braganza fled to this Brazilian city, from which the court ruled in exile. It is now the second-largest city in Brazil and was the capital of Brazil until the founding of Brasilia.",
+          "answer": "Rio",
+          "acceptableAnswers": [
+            "Rio",
+            "The Rio"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Following an event of this type in Lisbon, the Marquis de Pombal directed relief efforts. That event of this type also made King Joseph I paranoid of living in walled buildings, prompting him to live in a tent.",
+          "answer": "earthquake",
+          "acceptableAnswers": [
+            "earthquake",
+            "Great Lisbon Earthquake of 1755",
+            "The earthquake"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This family was established by the 8th Count of Barcelos and included Catherine, the wife of Charles II of England. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a37f"
+    },
+    {
+      "id": "ec5380ae-9760-4c71-a894-76f33ac3ec14",
+      "linkedTossupId": "5c6a25c2-23cf-427f-a4a9-7c3d8b2f3aad",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this tax levied on most dhimma, or non-Muslims, the counterpart of the zakat.",
+          "answer": "jizya",
+          "acceptableAnswers": [
+            "jizya",
+            "The jizya"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During this dynasty, Akbar ended the jizya tax in his efforts to promote religious harmony in India. This dynasty ruled India between the early 1500s and mid 1800s.",
+          "answer": "Mughal",
+          "acceptableAnswers": [
+            "Mughal",
+            "Mogul",
+            "accept reasonable alternatives for “dynasty”",
+            "The Mughal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 6th Mughal ruler reinstated the jizya tax and expanded the empire to its largest extent. He deposed his father Shah Jahan.",
+          "answer": "Aurangzeb",
+          "acceptableAnswers": [
+            "Aurangzeb",
+            "Muhi-ud-Din Muhammad",
+            "Alamgir",
+            "The Aurangzeb"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This tax was levied originally only on \"People of the Book.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144d10"
+    },
+    {
+      "id": "ef09830b-3931-4b5a-9db6-8be572e9c94a",
+      "linkedTossupId": "6661b76a-ab00-4355-8ea2-4c7832304c41",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Gore takes credit for \"inventing\" this global system through his namesake Gore Bill, which supported the early Advanced Research Projects Agency Network. The World Wide Web is a system used to navigate this global network.",
+          "answer": "Internet",
+          "acceptableAnswers": [
+            "Internet",
+            "the interconnected network",
+            "accept cyberspace",
+            "descriptions of being online",
+            "The Internet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gore and this Connecticut Senator lost the 2000 Presidential election over a controversial Florida recount. This senator spearheaded the creation of the Department of Homeland Security after 9/11.",
+          "answer": "Lieberman",
+          "acceptableAnswers": [
+            "Lieberman",
+            "Joseph Lieberman",
+            "The Lieberman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The 2007 Nobel Peace Prize was jointly won by Gore for his climate activism, which includes this 2006 documentary designed to educate people about global warming.",
+          "answer": "Inconvenient Truth",
+          "acceptableAnswers": [
+            "Inconvenient Truth",
+            "The Inconvenient Truth"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about Former Tennessee Senator and Vice President Al Gore's rich political history. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eeaca03c2fca34d39ed881"
+    },
+    {
+      "id": "7f6ef618-8277-45e9-a557-c86e67829226",
+      "linkedTossupId": "7bd83070-8efe-4423-bf45-941d9defd065",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these groups of speech sounds which are treated as equivalent in a given language, often described as minimal units of sound.",
+          "answer": "phoneme",
+          "acceptableAnswers": [
+            "phoneme",
+            "The phoneme"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Phonemes are written between these punctuation marks, whereas allophones are written between square brackets. In a phonological rewrite rule, this punctuation mark means \"in the environment of.\"",
+          "answer": "slash",
+          "acceptableAnswers": [
+            "slash",
+            "The slash"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These two rhyming terms describe the situation in which rule A creates an environment in which rule B can apply and the situation in which rule A destroys the environment in which rule B could apply, respectively.",
+          "answer": "feeding",
+          "acceptableAnswers": [
+            "feeding",
+            "The feeding"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The ways these things are realized in different environments, or allophones, can be expressed in phonological rules. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa5913201a68"
+    },
+    {
+      "id": "137c26b0-318e-4db9-81e3-b5abe33bed85",
+      "linkedTossupId": "6febabcb-dd93-4da6-af6d-4828974d669f",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this force that was commissioned by Philip II to invade England through the sea and restore the Catholic faith to prominence.",
+          "answer": "Spanish Armada",
+          "acceptableAnswers": [
+            "Spanish Armada",
+            "the Invincible Armada",
+            "the Armada Espanola",
+            "the Armada Invencible",
+            "The Spanish Armada"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Spanish Armada was defeated during this English Monarch's reign. This \"Virgin Queen\" responded to the Armada with the Tilbury Speech.",
+          "answer": "Elizabeth I",
+          "acceptableAnswers": [
+            "Elizabeth I",
+            "Elizabeth",
+            "The Elizabeth I"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Spanish Armada was commanded by this nobleman, who was endlessly mocked after the Earl of Essex and Sir Charles Howard captured Cadiz in 1596.",
+          "answer": "Medina Sidonia",
+          "acceptableAnswers": [
+            "Medina Sidonia",
+            "The Medina Sidonia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This force inspired a speech at Tilbury and was defeated by the \"Protestant wind.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6bbe8"
+    },
+    {
+      "id": "3fb97724-3f44-414e-aa20-3f07edcbc651",
+      "linkedTossupId": "96dc3981-232d-4aec-8e22-fd9c43ccf052",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this legal process by which citizens of other countries become permanent citizens of another country. In the United States, the test during this process usually involves the participant taking a test on U.S. history and laws.",
+          "answer": "naturalization",
+          "acceptableAnswers": [
+            "naturalization",
+            "The naturalization"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This amendment guarantees that anyone who is naturalized in the United States will be citizens of the country according to the Citizenship Clause. This amendment also ensures equal protection under the law.",
+          "answer": "Fourteenth",
+          "acceptableAnswers": [
+            "Fourteenth",
+            "The Fourteenth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the United States, permanent residents that are either single or married to a non-US citizen may apply for citizenship after living in America for this many years.",
+          "answer": "five",
+          "acceptableAnswers": [
+            "five",
+            "The five"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The last step of this process involves the participant swearing an oath of allegiance to the respective country. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be77ea"
+    },
+    {
+      "id": "27c769f3-6ae7-4a0e-9381-98e64167b877",
+      "linkedTossupId": "bf49a37f-c025-4467-8cf8-897bc6edf416",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Gould sparked Black Friday when he tried to corner the market for this mineral in 1869. William Jennings Bryan gave a speech about a cross of this material in 1896.",
+          "answer": "Gold",
+          "acceptableAnswers": [
+            "Gold",
+            "The Gold"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A vicious price war allowed Gould to take control of this company in 1881, two decades after it completed the first transcontinental telegraph line.",
+          "answer": "Western Union",
+          "acceptableAnswers": [
+            "Western Union",
+            "Western Union Corporation",
+            "The Western Union"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gould, Ulysses Grant, and others were attacked in this man's scathing article \"The New York Gold Conspiracy.\" This author of a nine-volume history of the United States wrote an analysis of medieval society in \"Mont Saint Michel and Chartres.\"",
+          "answer": "H",
+          "acceptableAnswers": [
+            "H",
+            "\"Adams\""
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following about Jay Gould, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ad9c7"
+    },
+    {
+      "id": "ab9cc4f6-59a5-4554-bc52-e90975a8d96f",
+      "linkedTossupId": "bc3ad1a5-e9f0-4fcc-b2f5-823c8a2c65e0",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this first Supreme Commander of NATO who was elected President in 1952.",
+          "answer": "Eisenhower",
+          "acceptableAnswers": [
+            "Eisenhower",
+            "The Eisenhower"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Citing the need for quick evacuations in the wake of the Cold War, Eisenhower signed a 1956 Act creating what transportation system?",
+          "answer": "Interstate",
+          "acceptableAnswers": [
+            "Interstate",
+            "“Highway”",
+            "The Interstate"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In both the 1952 and 1956 Presidential elections, Eisenhower defeated this man to win the election. This former Illinois Governor was the grandson of a former US Vice President under Grover Cleveland.",
+          "answer": "Stevenson",
+          "acceptableAnswers": [
+            "Stevenson",
+            "The Stevenson"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Presidential retreat Camp David was named in honor of this man's father and grandson. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0911"
+    },
+    {
+      "id": "ac71645f-ff31-4adc-a9a7-6147a7feabd6",
+      "linkedTossupId": "6d302d28-eb5f-487e-b047-1bf20ffc76b6",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This Indian Nobel Laureate was compared to Mother Theresa for his work on famine, poverty, human development, and welfare economics.",
+          "answer": "Sen",
+          "acceptableAnswers": [
+            "Sen",
+            "The Sen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The subject of the movie A Beautiful Mind, he won a Nobel Memorial Prize in Economics but is better known for his work in the field of game theory.",
+          "answer": "Nash",
+          "acceptableAnswers": [
+            "Nash",
+            "The Nash"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This winner of the 2008 Nobel Prize in Economics for his work in New Trade Theory penned the 2007 New York Times Best Seller The Conscience of a Liberal.",
+          "answer": "Krugman",
+          "acceptableAnswers": [
+            "Krugman",
+            "The Krugman"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify these modern economists who all won the Nobel Prize, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced889"
+    },
+    {
+      "id": "b917348b-0b3c-445d-8851-cfd5ec735a10",
+      "linkedTossupId": "80aea770-6eff-4f66-9f1c-3bf2d6fe4e72",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this president who somehow survived scandals like the Iran-Contra Affair during his two terms in office in the 1980s.",
+          "answer": "Reagan",
+          "acceptableAnswers": [
+            "Reagan",
+            "The Reagan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Before becoming president of the United States, Ronald Reagan was the governor of this state.",
+          "answer": "California",
+          "acceptableAnswers": [
+            "California",
+            "The California"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While governor of California, Ronald Reagan legalized the \"no-fault\" form of this process. Ronald Reagan was the first US president to have gone through this process.",
+          "answer": "divorce",
+          "acceptableAnswers": [
+            "divorce",
+            "The divorce"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Democrat Pat Schroeder described this man's presidency as \"Teflon-coated\" because \"nothing sticks to him.\"For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba972c1"
+    },
+    {
+      "id": "af28251d-a968-4c88-a02b-e3223eb167ec",
+      "linkedTossupId": "b48af8f7-97cd-4189-9339-4377c1649ac7",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this ubiquitous approach in quantum chemistry which infers chemical properties by computing functionals on the distribution of electrons per unit volume.",
+          "answer": "density functional",
+          "acceptableAnswers": [
+            "density functional",
+            "DFT",
+            "prompt on density",
+            "electron density",
+            "charge density",
+            "The density functional"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Because it uses no empirical parameters, Car-Parrinello is this type of simulation derived entirely from physical principles. In computational chemistry, this two-word Latin phrase essentially means \"lots of ugly math.\"",
+          "answer": "ab initio",
+          "acceptableAnswers": [
+            "ab initio",
+            "The ab initio"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Car-Parrinello MD assigns a fictitiously large value to this real physical constant in an extended Lagrangian that includes kinetic energy of the orbitals. But, to preserve adiabaticity, this quantity is set low enough that the orbital dynamics are much faster than ionic motion.",
+          "answer": "electron mass",
+          "acceptableAnswers": [
+            "electron mass",
+            "electronic mass",
+            "mass of the electron",
+            "prompt on mass",
+            "fictitious mass",
+            "prompt on mu",
+            "m-sub-e",
+            "The electron mass"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Car-Parrinello molecular dynamics infers all energies and forces using this theory rather than using a force field. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "689a0d632d8608f4ad8515f1"
+    },
+    {
+      "id": "29fb0a4b-0325-4aec-8d25-6beb688cbf13",
+      "linkedTossupId": "7776e044-4e1b-4b67-8b42-3cc429e0479a",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This region of the earth below the crust contains a convective cycle due to a temperature gradient between layers surrounding it. The lower portion of this thickest region of the earth is called the D double-prime layer.",
+          "answer": "mantle",
+          "acceptableAnswers": [
+            "mantle",
+            "The mantle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This mechanically defined division contains the rocky crust and upper mantle on earth that behaves elastically over long periods of time. Joseph Barrell coined the term for this layer, which lies above the asthenosphere.",
+          "answer": "lithosphere",
+          "acceptableAnswers": [
+            "lithosphere",
+            "The lithosphere"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Named for the Croatian seismologist who discovered it, this is the division between the crust and the mantle. It has been shown that seismic waves accelerate below this layer.",
+          "answer": "Moho",
+          "acceptableAnswers": [
+            "Moho",
+            "The Moho"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the structure of the earth, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a2d5"
+    },
+    {
+      "id": "325240da-4dd8-4be2-b579-3528662ef7e1",
+      "linkedTossupId": "ca38ce75-872f-4ebb-bc82-92faa22b18d2",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this dimensionless quantity symbolized eta. It necessarily must be less than one.",
+          "answer": "efficiency",
+          "acceptableAnswers": [
+            "efficiency",
+            "The efficiency"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A common way to express thermal efficiency is the net amount of this per unit of heat inputted. This quantity is the amount of energy that a system transfers through physical displacement, and is often calculated as P-delta-V.",
+          "answer": "work",
+          "acceptableAnswers": [
+            "work",
+            "The work"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This thermodynamic cycle used in internal combustion engines is slightly less efficient than the Carnot cycle. It has an isobaric second step and is named for the German engineer who invented its namesake \"engine.\"",
+          "answer": "Diesel",
+          "acceptableAnswers": [
+            "Diesel",
+            "The Diesel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For a Carnot engine, it ideally equals one minus the ratio of the temperatures of the cold and hot reservoirs. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be76f2"
+    },
+    {
+      "id": "66a56c76-af06-42a7-9f5d-71ea05c79d60",
+      "linkedTossupId": "13c9e675-4012-42b7-8717-dd2a9612df56",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this style of late 17th century English theatre, which is characterized by burlesque. It is named for the time period after which Charles II ascended to the throne.",
+          "answer": "Restoration",
+          "acceptableAnswers": [
+            "Restoration",
+            "The Restoration"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In his famed diaries, this Englishman described attending many Restoration dramas. Those diaries also provide an account of the \"wonderful\" year 1666.",
+          "answer": "Pepys",
+          "acceptableAnswers": [
+            "Pepys",
+            "The Pepys"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the more notable writers of Restoration drama was George Etheredge, who created this memorable title character in The Man of Mode. He is a fashionable man that is the subject of Bellinda's, Loveit's and Towney's incessant gossip.",
+          "answer": "Fopling Flutter",
+          "acceptableAnswers": [
+            "Fopling Flutter",
+            "partial names.",
+            "The Fopling Flutter"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This style of play includes The Country Wife by William Wycherley. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63059e1643cf020187623651"
+    },
+    {
+      "id": "5b52dc48-2cb2-4102-8df6-a3c84edc03e8",
+      "linkedTossupId": "9fd81f6a-ae57-4a83-a63d-51ff37dd4488",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this city-state that fought the Punic Wars with Rome partially due to the vague conditions over those treaties.",
+          "answer": "Carthage",
+          "acceptableAnswers": [
+            "Carthage",
+            "The Carthage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This polity's allegiance split during the Second Punic War. The eastern Massylii under king Gala were allied with Carthage, while the western Masaesyli under king Syphax went with Rome.",
+          "answer": "Numidia",
+          "acceptableAnswers": [
+            "Numidia",
+            "The Numidia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After the Battle of Thapsus, supporters of Pompey fled to this city to the northwest, which had been made the capital of Roman Africa after defying Carthage in the Third Punic War.",
+          "answer": "Utica",
+          "acceptableAnswers": [
+            "Utica",
+            "The Utica"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This city was established by colonists from Tyre under the leadership of Elissa, and one of series of treaties with Rome forbid them from staying the night in Latium if they were armed. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587597fd6"
+    },
+    {
+      "id": "32138daf-d65d-4a8e-8a5f-025ddb5495ce",
+      "linkedTossupId": "1ed561ef-adba-4142-a4b3-bff159083f95",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with muscle fatigue.",
+          "answer": "contraction",
+          "acceptableAnswers": [
+            "contraction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the contraction in the musculoskeletal system?",
+          "answer": "Muscle fatigue",
+          "acceptableAnswers": [
+            "Muscle fatigue"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to muscle fatigue.",
+          "answer": "troponin",
+          "acceptableAnswers": [
+            "troponin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "d7d90ce6-3605-4b32-8c81-54c09523ddae",
+      "linkedTossupId": "697e34d2-4d4c-4a40-b8d8-81afcf378003",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this specific four-word phrase that was displayed across the street from Juneau-Douglas High School during the 2002 Winter Olympics Torch Relay, prompting retaliation from Deborah Morse.",
+          "answer": "BONG HITZ 4 JESUS",
+          "acceptableAnswers": [
+            "BONG HITZ 4 JESUS",
+            "The BONG HITZ 4 JESUS"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Supreme Court ruled against Joseph Frederick, the student who held up that poster, denying the Ninth Circuit's assertion that this previous 1969 case involving black armbands applied in Morse v. Frederick.",
+          "answer": "Tinker",
+          "acceptableAnswers": [
+            "Tinker",
+            "The Tinker"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The plaintiffs in Tinker were protesting this conflict. This conflict was also protested by the plaintiff in Cohen v. California, who wore a shirt that said \"FUCK THE DRAFT\".",
+          "answer": "Vietnam",
+          "acceptableAnswers": [
+            "Vietnam",
+            "‘Nam",
+            "The Vietnam"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "NOTE TO MODERATOR: For the 3rd part, if you do not wish to say \"fuck\", just say \"F\" John Roberts' opinion in a 2007 case declared that although this four-word phrase was \"cryptic\", it could be interpreted as stating that a certain action was a \"good thing\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae871"
+    }
+  ]
+}

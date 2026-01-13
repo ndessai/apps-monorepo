@@ -1,0 +1,1151 @@
+{
+  "packetId": "packet-013",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "History",
+    "Philosophy",
+    "Literature",
+    "Fine Arts",
+    "Human Body",
+    "Mythology"
+  ],
+  "tossups": [
+    {
+      "id": "56478086-a689-497a-999a-874c7b7e1093",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "Materials for making these objects are classified as \"ionic\" or \"non-ionic\" and as high water content or low water content. Dk/t values quantify the permeability of these objects to oxygen. Improper usage of these objects is the most common iatrogenic cause of stromal neovascularization. Poly(methyl methacrylate) is the primary component of the rigid gas permeable, or \"hard,\" type of these objects, while silicone-based hydrogels compose their soft type. Formation of a fluid reservoir is necessary for the \"scleral\" type of these objects to function. In orthokeratology, these objects are worn overnight to adjust surface curvature, correcting conditions like myopia and astigmatism. For 10 points, name this corrective eyewear worn directly on the eye.",
+      "powerMarkPosition": 422,
+      "answer": "contact",
+      "acceptableAnswers": [
+        "contact",
+        "contacts",
+        "accept specific forms of contacts like soft contacts and rigid gas permeable contacts",
+        "prompt on lenses",
+        "The contact"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f32c8153c44a298923c2f9"
+    },
+    {
+      "id": "01f1628a-110e-4006-9eae-2779fcf0bcaa",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "In this country, a clenched red fist made up the logo of a dissident group of auto workers. In this country, labor unrest that happened in early 1970 was known as the \"Hot Autumn.\" A crime in this country was discussed by Carlos the Jackal during talks in an airport in Beirut. That crime involved a mediator of the \"Historic Compromise\" in this country being kidnapped. The \"Clean Hands\" investigation in the 1990s led to the downfall of this country's Christian Democracy party. In this country, Aldo Moro was kidnapped during a period known as the Years of Lead. Strikes at the main Fiat plants happened in this country in its city of Turin. For 10 points, name this country that recently saw the political rise of Silvio Berlusconi, owner of a soccer club in its city of Milan.",
+      "powerMarkPosition": 359,
+      "answer": "Italy",
+      "acceptableAnswers": [
+        "Italy",
+        "Italia",
+        "Italian Republic",
+        "The Italy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f072b47434cffff7b5a205"
+    },
+    {
+      "id": "b8001f64-03e7-4791-81ef-34cc037bbd5a",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "The transition monoid obtained after performing this process is the syntactic monoid. A con of Brzozowski's algorithm for this process is the potential for exponentially large intermediates. The most efficient algorithm for this process computes the coarsest congruence that saturates the set of final states, by splitting classes to refine the partition, and was developed by Hopcroft. It can be performed by first removing unreachable states and then determining the equivalence classes of the indistinguishability relation so that all the states in a class can be merged. It's guaranteed to yield a unique result due to the equivalence of deterministic finite automata and regular languages. For 10 points, name this process in which one takes a DFA and finds an equivalent DFA with the fewest number of states.",
+      "powerMarkPosition": 424,
+      "answer": "minimization",
+      "acceptableAnswers": [
+        "minimization",
+        "The minimization"
+      ],
+      "source": "qbreader",
+      "sourceId": "63002656ea186ec68c3bd7e0"
+    },
+    {
+      "id": "94300a11-8710-47e9-b4f6-7edc1d241ec0",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "Description acceptable. A modern variant of one of these situations is called Thomson's lamp. Aristotle concluded one of these thought experiments implies half of a given time equals twice that time. The third of these statements concerns the sound made by falling millet seeds, while another of them centers on \"moving rows.\" One philosopher disproved these statements by walking away from their formulator, who was from the Eleatic school of Parmenides. That formulator names a quantum effect that parallels one of these thought experiments, which proposes that an arrow is at rest at every moment. For 10 points, name these thought experiments \"proving\" the impossibility of motion, including \"Achilles and the Tortoise.\"",
+      "powerMarkPosition": 425,
+      "answer": "Zeno",
+      "acceptableAnswers": [
+        "Zeno",
+        "obvious equivalents mentioning Zeno",
+        "but do not accept “Zeno of Citium”",
+        "prompt on paradox and prompt on anything describing proofs of the impossibility of motion by asking",
+        "“Who created them?”",
+        "The Zeno"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a2ac"
+    },
+    {
+      "id": "c3227fe3-c5df-45af-bb48-3b2f9e86c000",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "Accompanied by the title character and Immortality, this work's narrator passes a school \"where Children strove at Recess,\" \"Fields of Grazing Grain,\" and the \"Setting Sun,\" or rather the \"Sun passed the Carriage.\" For 10 points-give the first line which titles this Emily Dickinson poem about a leisurely and serene eternal voyage.",
+      "powerMarkPosition": 88,
+      "answer": "Because I could not stop for death",
+      "acceptableAnswers": [
+        "Because I could not stop for death",
+        "The Because I could not stop for death"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841dfa"
+    },
+    {
+      "id": "3faba4c2-a712-4029-a7ef-7b8a57dd1548",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "high_school",
+      "text": "Aside from the Berlin Pedestal, this kingdom is first mentioned by name on a stone which claims it \"is laid waste, its seed is not,\" the Merneptah Stele. Menander attested this kingdom's use of cedars sent by its ally, Hiram of Tyre, in various construction projects. This non-Persian kingdom's Book of Kings was compiled after its people's return from captivity in Babylon. Judah split with this kingdom after the death of a king who was visited by the Queen of Sheba, and had earlier prayed for wisdom. For 10 points, name this kingdom ruled by David and Solomon, which \"Biblical minimalists\" claim never existed.",
+      "powerMarkPosition": 352,
+      "answer": "Israel",
+      "acceptableAnswers": [
+        "Israel",
+        "Judah until mentioned",
+        "The Israel"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7debcd"
+    },
+    {
+      "id": "d0a2a046-ae8a-42df-8b2b-894b4b0e272b",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "text": "It's not Suprematism, but El Lissitzky showcased many of this school's illustrations in his 1927 book Architecture at Vkhutemas (\"fuh-tee-mahs\"). This school's Vorkurs were refocused towardsNew ObjectivitybyLaszlo Moholy-Nagy (\"laz-LOW moh-HOLY NAH-gee\"). It's not Blue Rider, but Marcel Breuer (\"BROY-er\") designed a chair named for a member of this school. 4000 buildings in Tel Aviv's \"White City\" were designed in the International Style by this school's architects. This institution's final director taught at the Illinois Institute of Technology and designed the Seagram Building with Phillip Johnson. The phrase \"Building house\" in German is the name of, for 10 points, what school of design founded by Walter Gropius?",
+      "powerMarkPosition": 387,
+      "answer": "Bauhaus",
+      "acceptableAnswers": [
+        "Bauhaus",
+        "The Bauhaus"
+      ],
+      "source": "qbreader",
+      "sourceId": "68846982641a9dc975af8663"
+    },
+    {
+      "id": "1c0330db-a595-4957-a789-6b59d9f6077b",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "During this battle, Robert Evans died before he could ignite his gunpowder stores, a failure that saved the life of Susanna Dickinson. Moses Rose was labeled the \"coward\" of this battle for supposedly being the only man not to cross a line in the sand drawn by William Travis. James Bowie and Davy Crockett died during this battle while fighting forces under the command of Antonio Lopez de Santa Anna. For 10 points, name this 1836 battle in which Texian soldiers defended a mission against Mexican forces.",
+      "powerMarkPosition": 234,
+      "answer": "Alamo",
+      "acceptableAnswers": [
+        "Alamo",
+        "The Alamo"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3101eabc146a6b81891fe"
+    },
+    {
+      "id": "73f9eebc-f0d7-4b9b-8ab2-a66bdb8adc89",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "Synthetic division can be used to divide these mathematical concepts. The fundamental theorem of algebra says that non-constant examples of these have a zero, and some of their zeroes may have multiplicity. For 10 points, name these types of equations in which the exponents of the variable are natural numbers, and which are called quadratics if they have degree two.",
+      "powerMarkPosition": 192,
+      "answer": "polynomial",
+      "acceptableAnswers": [
+        "polynomial",
+        "The polynomial"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c4b4"
+    },
+    {
+      "id": "c6b3a2e2-7cb2-4157-9fad-047893c680f6",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for epiglottis function. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this pharynx-related structure.",
+      "powerMarkPosition": 96,
+      "answer": "Pharynx",
+      "acceptableAnswers": [
+        "pharynx",
+        "Pharynx"
+      ],
+      "explanation": "The pharynx is a key component of the Respiratory system, involved in epiglottis function.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "7ddf7e8f-7bb0-4601-be86-81a16bdc3e7c",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "text": "A semiquaver turn following six quiet staccato E flats in the Allegro of one of these works has been interpreted as a numerology device because of the forte on the seventh beat. The andante of one of these works evokes a title phrase also appearing in the chord structure of \"Tutti accusan le donne\", while the D minor cadence that opens another is recapitulated before the invitation \"a cenar teco\". One of these works opens with three E flat major chords interpreted as a \"Masonic knock\". That one of these works is followed by Tamino being saved by three attendants of the Queen of the Night. For 10 points, name these orchestral introductions to works like Così fan tutte and The Magic Flute.",
+      "powerMarkPosition": 384,
+      "answer": "overture",
+      "acceptableAnswers": [
+        "overture",
+        "operas by Mozart",
+        "The overture"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636eeb19"
+    },
+    {
+      "id": "b16b3360-3ba9-4439-a50e-d118feae80a6",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "Laura Sjoberg and Caron E. Gentry argue that women's rights remained unchanged following this conflict, while Natalya Vince argues that rural women gained new freedom. Women contributed to 'Diaries of a Guerrilla' during this conflict which cited Frantz Fanon who wrote a letter of resignation in response to this conflict. During the central battle of this conflict, male combatants were forced underground while women could smuggle weapons by wearing the veil or pretending to be European and concealing explosives in prams and handbags. After bombing the Milk Bar café in this conflict, Djamila Bouhired was forced to confess through sexual torture and her trial was publicised by Gisèle Halimi and Simone de Beauvoir against the methods of the French Army. At least 11,000 women fought in, for 10 points, which conflict from 1954 to 1962 between France and the National Liberation Front?",
+      "powerMarkPosition": 505,
+      "answer": "Algerian War",
+      "acceptableAnswers": [
+        "Algerian War",
+        "Algerian Revolution",
+        "Algerian Independence",
+        "War of 1 November",
+        "The Algerian War"
+      ],
+      "source": "qbreader",
+      "sourceId": "6336ab9eb8c640ece5cb9209"
+    },
+    {
+      "id": "c8dd5e97-589f-4d9c-b755-1dc8742958fd",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "Nationalists from this island planted a time bomb at the Brighton Hotel in a failed attempt to kill a prominent world leader. A \"Provisional\" terrorist group was involved in a 30-year conflict on this island known as The Troubles. In a city on this island, the IRA fought British soldiers with \"Belfast Brigades\" during a conflict in the northern part of this island, which is one of the United Kingdom's four constituent countries. For 10 points, name this island also home to the city of Dublin.",
+      "powerMarkPosition": 260,
+      "answer": "Ireland",
+      "acceptableAnswers": [
+        "Ireland",
+        "Eire",
+        "The Ireland"
+      ],
+      "source": "qbreader",
+      "sourceId": "66e1bbb7b3ec1cfe3cd4a750"
+    },
+    {
+      "id": "47caf5d9-e1c2-4ea1-a3e0-e3f086b74f34",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for pharynx divisions. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this pharynx-related structure.",
+      "powerMarkPosition": 77,
+      "answer": "Pharynx",
+      "acceptableAnswers": [
+        "pharynx",
+        "Pharynx"
+      ],
+      "explanation": "The pharynx is a key component of the Respiratory system, involved in pharynx divisions.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "f62114c9-8cd3-45cf-8cff-0ba606a3a1aa",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "The film Story of Women dramatizes the story of the last person in this country to be executed for providing abortions. Lucien Neuwirth (\"loose-YAN nur-VEERT\") sponsored a law legalizing contraception in this country in 1967. Fadela Amara's book Neither Whores, Nor Doormats shares its name with a feminist group in this country founded by Samira Bellil. Women in this country signed the \"Manifesto of the 343\" declaring that they had had an abortion. The Veil Law legalized abortion in this country. Vigilantes in this country shaved the heads of women accused of \"horizontal collaboration\" for sleeping with Nazi officers. Activists in this country lobbied for a law banning hijabs in schools to conform to the value of laïcité (\"la-ee-see-TAY\"). For 10 points, name this country where thousands protested against domestic violence against women in 2019 in Paris.",
+      "powerMarkPosition": 354,
+      "answer": "France",
+      "acceptableAnswers": [
+        "France",
+        "The France"
+      ],
+      "source": "qbreader",
+      "sourceId": "6326bf0f692d593d1d7a8e66"
+    },
+    {
+      "id": "6c0802b0-8d50-4c91-a0c7-5ce35dc5abd3",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "According to Rabbinical tradition, the central figure of this work is the widow's child that Elijah revived from the dead. This work, which alleges that residents of a certain city do not know their left from their right, is read on Yom Kippur. A worm kills a gourd that had given shelter to the central figure of this work while that figure was waiting for God to destroy that city. This work's central figure boards a ship to Tarshish in an attempt to avoid going to Nineveh. For 10 points, name this Old Testament book whose title minor prophet is swallowed by a whale.",
+      "powerMarkPosition": 259,
+      "answer": "Jonah",
+      "acceptableAnswers": [
+        "Jonah",
+        "The Jonah"
+      ],
+      "source": "qbreader",
+      "sourceId": "63167de399ac1f87e75a5487"
+    },
+    {
+      "id": "ec421cb2-9ff6-4aa6-a1cf-e1b4f135d4b0",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "The presence of a Hans Holbein painting on one of these objects led Franny Moyle to identify it as depicting Anne of Cleves. A man wearing a white bandana is surrounded by four nooses on one of a set of these objects housed by the Met Cloisters. A woman in a red-feathered cap gives a suspicious glance to a maid serving wine in a painting partly titled for one of these objects by Georges de La Tour housed in the Kimbell Art Museum. The earliest known \"master\" printmaker was an anonymous German artist known for creating these objects. Cardinal del Monte was impressed by a painting titled for one of these objects whose foreground depicts a backgammon board. In that painting, an older man signals with his glove-covered hand to a boy who pulls one of these objects from behind his back. For 10 points, a boy in a Caravaggio painting cheats using what objects?",
+      "powerMarkPosition": 453,
+      "answer": "card",
+      "acceptableAnswers": [
+        "card",
+        "ace of clubs",
+        "accept Master of the Playing Cards",
+        "The card"
+      ],
+      "source": "qbreader",
+      "sourceId": "66a566d1afb4d671f312e827"
+    },
+    {
+      "id": "6020cb97-ea7f-432a-9752-72a0d0160c79",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "This figure is nearly killed when a flaming lance shoots down at him while he is sleeping in a bed. A metal slab in a cemetery caused this son of King Ban to discover his name. Meleagant's abduction of a love interest of this figure results in his use of a cart driven by a cattle keeper. This figure, who takes control of the castle of the Joyous Guard, kills Gaheris and Gareth, the brothers of Gawain. This figure, who was raised by the Lady of the Lake, is tricked by Elaine of Corbenic into sleeping with her, resulting in the birth of Sir Galahad. For 10 points, name this Knight of the Round Table who had an affair with Queen Guinevere.",
+      "powerMarkPosition": 256,
+      "answer": "Lancelot",
+      "acceptableAnswers": [
+        "Lancelot",
+        "The Lancelot"
+      ],
+      "source": "qbreader",
+      "sourceId": "6727fb3f0a73c65be67f7641"
+    },
+    {
+      "id": "1d0c6387-f5bb-4204-a1e3-d209fd38ebf1",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "Everard Digby was assigned to kidnap a royal with this name to replace James I as part of the Gunpowder Plot. A member of the Farnese family with this name worked closely with Giulio Alberoni to pursue economic reforms in Spain and undertake the War of the Quadruple Alliance. A ruler with this name was the target of the Lopukhina Conspiracy and was advised by Aleksey Bestuzhev. The death of a ruler with this name led to the Miracle of the House of Brandenburg during the Seven Years' War. A ruler with this name began one conflict after signing the Treaty of Nonsuch to aid the Dutch Republic. The \"Protestant Wind\" helped that queen with this name defeat the Spanish Armada. For 10 points, give this name held by an English monarch referred to as the \"Virgin Queen.\"",
+      "powerMarkPosition": 276,
+      "answer": "Elizabeth",
+      "acceptableAnswers": [
+        "Elizabeth",
+        "Elisabeth of the Palatinate",
+        "Elisabeth of Bohemia",
+        "Elisabeth Farnese",
+        "Elizabeth of Russia",
+        "Elizabeth I of England",
+        "The Elizabeth"
+      ],
+      "source": "qbreader",
+      "sourceId": "6797c22b6d78eee804a3787c"
+    },
+    {
+      "id": "fcd4520c-1374-4b97-a267-14c02b7060a0",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "college",
+      "text": "The city of Singidunum along this river was the capital of the Celtic Scordisci [score-DISS-kee]. About 20 percent of burials from the 8th century found along this river and its tributaries have East Asian features, possibly indicating Avar origins. This river's mouth was located in the province of Scythia Minor. A Roman fleet patrolled this river after a campaign of conquest during which Apollodorus of Damascus built a bridge over it. People living along it were conquered in a war against Decebalus, in which Trajan conquered the Dacians. This river was the northern border of the Eastern Roman, or Byzantine empire. For 10 points, name this longest river in Europe, which flows into the Black Sea.",
+      "powerMarkPosition": 494,
+      "answer": "Danube",
+      "acceptableAnswers": [
+        "Danube",
+        "The Danube"
+      ],
+      "source": "qbreader",
+      "sourceId": "6469181702e5b084aa0181ab"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "43fe5877-ac0a-4c84-b808-d1274cb9ad07",
+      "linkedTossupId": "56478086-a689-497a-999a-874c7b7e1093",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this igneous volcanic rock, the extrusive equivalent of a rock that makes up the continental crust.",
+          "answer": "rhyolite",
+          "acceptableAnswers": [
+            "rhyolite",
+            "The rhyolite"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rhyolite is the extrusive equivalent of this intrusive rock that makes up the earth's crust along with basalt.",
+          "answer": "granite",
+          "acceptableAnswers": [
+            "granite",
+            "The granite"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Aluminosilicates of potassium, sodium, or calcium comprise this class of minerals that, along with quartzes and micas, are a primary component of granite and rhyolite.",
+          "answer": "feldspar",
+          "acceptableAnswers": [
+            "feldspar",
+            "The feldspar"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The lava that typically forms this rock yields obsidian when it cools slowly. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6ded7ca"
+    },
+    {
+      "id": "d8a22bcd-6179-42eb-bd90-bff5e0b67413",
+      "linkedTossupId": "01f1628a-110e-4006-9eae-2779fcf0bcaa",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this 1980s war between the governments of Margaret Thatcher and Leopoldo Galtieri. It was fought over a group of disputed islands in the South Atlantic.",
+          "answer": "Falklands",
+          "acceptableAnswers": [
+            "Falklands",
+            "Falkland Islands War",
+            "The Falklands"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Falklands War was fought between Thatcher's Great Britain and this country, which was led by Leopoldo Galtieri. This country's \"Dirty War\" began after the death of its president, Juan Peron.",
+          "answer": "Argentina",
+          "acceptableAnswers": [
+            "Argentina",
+            "Argentine Republic",
+            "Republica Argentina",
+            "The Argentina"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Over half of Argentina's casualties during the Falklands War came with the sinking of this ship. In the aftermath of this ship's sinking, The Sun ran a headline that proclaimed \"Gotcha.\"",
+          "answer": "General Belgrano",
+          "acceptableAnswers": [
+            "General Belgrano",
+            "The General Belgrano"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "During this war, Operation Mikado was abandoned because it was declared a suicide mission. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125d083"
+    },
+    {
+      "id": "cf0974be-6519-4920-8556-e2e9718255f5",
+      "linkedTossupId": "b8001f64-03e7-4791-81ef-34cc037bbd5a",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these optically inactive mixtures composed of equal quantities of left- and right-handed enantiomers.",
+          "answer": "racemic",
+          "acceptableAnswers": [
+            "racemic",
+            "racemates",
+            "The racemic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This drug, which was marketed for morning sickness in the 1950s, is prepared as a racemic mixture, with the R-enantiomer having a desired sedative effect but the S-enantiomer causing severe birth defects.",
+          "answer": "thalidomide",
+          "acceptableAnswers": [
+            "thalidomide",
+            "The thalidomide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This type of drug is derived from a racemic drug in which one component provides most of the desired effects. These enantiopure drugs have reduced metabolic load or side effects compared to their racemic equivalent.",
+          "answer": "chiral switch",
+          "acceptableAnswers": [
+            "chiral switch",
+            "The chiral switch"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These things may form due to in-situ reactions where a former stereocenter becomes achiral. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d6dbb47c00e8c6f8d88958"
+    },
+    {
+      "id": "ef4ff1e1-4ea3-48ae-912f-daccfc0e0514",
+      "linkedTossupId": "94300a11-8710-47e9-b4f6-7edc1d241ec0",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this philosopher and emeritus professor of African American studies who wrote the 1993 book Race Matters.",
+          "answer": "West",
+          "acceptableAnswers": [
+            "West",
+            "The West"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "West has developed a \"prophetic\" form of this school of thought, which he traced back to Emerson in a book calling it the \"American evasion of philosophy.\" West's friend Richard Rorty developed the \"neo-\" form of this school of thought.",
+          "answer": "pragmatism",
+          "acceptableAnswers": [
+            "pragmatism",
+            "The pragmatism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "West wrote a sequel to Race Matters whose title declares that this system of government \"matters.\" John Dewey's major work proposes a philosophy of education in this system of government.",
+          "answer": "democracy",
+          "acceptableAnswers": [
+            "democracy",
+            "democratic",
+            "accept Democracy Matters",
+            "The democracy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In 2001, this scholar released the hip-hop album Sketches of My Culture. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed60f71539231f571edc75"
+    },
+    {
+      "id": "0f177a26-c5aa-446e-8df4-59e6531dd996",
+      "linkedTossupId": "c3227fe3-c5df-45af-bb48-3b2f9e86c000",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This 1977 work by Toni Morrison traces Milkman Dead's odyssey to his family's native ground in Virginia.",
+          "answer": "Song of Solomon",
+          "acceptableAnswers": [
+            "Song of Solomon",
+            "The Song of Solomon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 52 part poem that ends \"I stop somewhere waiting for you.,\" might be the best known of those collected in Leaves of Grass.",
+          "answer": "“Song of Myself”",
+          "acceptableAnswers": [
+            "“Song of Myself”",
+            "The “Song of Myself”"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This woman detailed Thea Kronborg's transformation from preacher's daughter to opera star in her The Song of the Lark. She also wrote O Pioneers.",
+          "answer": "Cather",
+          "acceptableAnswers": [
+            "Cather",
+            "The Cather"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about some similarly titled works of American literature, for ten points each:",
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9840f0b"
+    },
+    {
+      "id": "b1446e49-6fad-4352-a482-68ca5612549a",
+      "linkedTossupId": "3faba4c2-a712-4029-a7ef-7b8a57dd1548",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This large humanoid beast roams the Himalayas in Nepal and Tibet. It's also known as the \"Abominable Snowman.\"",
+          "answer": "Yeti",
+          "acceptableAnswers": [
+            "Yeti",
+            "The Yeti"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This cryptid is an insectlike humanoid with wings. It has supposedly been sighted in Point Pleasant, West Virginia.",
+          "answer": "Mothman",
+          "acceptableAnswers": [
+            "Mothman",
+            "The Mothman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A number of sea monsters, such as the \"sea monk\" and the \"Alecton monster,\" were probably just these enormous mollusks, which have the largest eyes of any living being.",
+          "answer": "squid",
+          "acceptableAnswers": [
+            "squid",
+            "colossal squid",
+            "prompt on “kraken”",
+            "The squid"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Put those hours of watching History Channel to good use by naming the following cryptids, which are creatures whose existence has not yet been confirmed. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc0fd"
+    },
+    {
+      "id": "8678ed41-adcf-4de8-90d7-3ed31c3275e3",
+      "linkedTossupId": "d0a2a046-ae8a-42df-8b2b-894b4b0e272b",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this opera about a painter who falls in love with the title character, who stabs Baron Scarpia to save him from a firing squad.",
+          "answer": "Tosca",
+          "acceptableAnswers": [
+            "Tosca",
+            "The Tosca"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tosca is an opera by this Italian composer of Turandot and Gianni Schicchi.",
+          "answer": "Puccini",
+          "acceptableAnswers": [
+            "Puccini",
+            "The Puccini"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Puccini wrote an opera set in this country featuring characters like Billy Jackrabbit and Sonora. A composer from this country composed The Mighty Casey, an opera based on a poem by an author from here.",
+          "answer": "United States",
+          "acceptableAnswers": [
+            "United States",
+            "The United States"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A character in this opera compares his lover to the painting he has just completed in the aria \"Recondita amoria.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c6119349606"
+    },
+    {
+      "id": "057db480-89e6-4c09-8431-9fad4861ec21",
+      "linkedTossupId": "1c0330db-a595-4957-a789-6b59d9f6077b",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this group that took over a certain country after defeating a resistance movement in Panjshir Province. This group, which takes its name from the word \"students,\" is largely led by Pashtun militants.",
+          "answer": "Taliban",
+          "acceptableAnswers": [
+            "Taliban",
+            "Taleban",
+            "The Taliban"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Taliban took over this country, the site of the US's longest war. The second-largest airlift took place during a withdrawal of this country's Hamid Karzai airport in its capital, Kabul.",
+          "answer": "Afghanistan",
+          "acceptableAnswers": [
+            "Afghanistan",
+            "Islamic Emirate of Afghanistan",
+            "Emārat-e Eslāmi-ye Afghanistan",
+            "Də Afġānistān Islāmī Imārat",
+            "The Afghanistan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Many Afghani refugees were flown to this country's Al Udeid Air Base, the largest in the Middle East. The first commercial flight since the Taliban takeover was by this country's national airline, which arrived in its capital of Doha.",
+          "answer": "Qatar",
+          "acceptableAnswers": [
+            "Qatar",
+            "State of Qatar",
+            "Dawlat Qatar",
+            "The Qatar"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This group mocked the US, France, and UK forces during a mock funeral in Khost. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ecee"
+    },
+    {
+      "id": "9559b2e9-2e65-4183-b5cf-a5b7e8696444",
+      "linkedTossupId": "73f9eebc-f0d7-4b9b-8ab2-a66bdb8adc89",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Give this term for a gas that, in the atmosphere, absorbs and emits radiation from the Sun, helping fuel a namesake effect.",
+          "answer": "greenhouse",
+          "acceptableAnswers": [
+            "greenhouse",
+            "The greenhouse"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Greenhouse gases primarily absorb and emit this type of electromagnetic radiation, whose wavelength is just longer than that of visible light.",
+          "answer": "Infrared",
+          "acceptableAnswers": [
+            "Infrared",
+            "The Infrared"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Swedish chemist was one of the first to consider carbon dioxide's role as a greenhouse gas in warming the Earth's temperature. He also developed a notable definition for acid-base interactions.",
+          "answer": "Arrhenius",
+          "acceptableAnswers": [
+            "Arrhenius",
+            "The Arrhenius"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The four most prevalent of these compounds are water vapor, carbon dioxide, methane, and ozone. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f20ba"
+    },
+    {
+      "id": "e4f1a1cf-1273-42bb-81b1-756f44ea8a84",
+      "linkedTossupId": "c6b3a2e2-7cb2-4157-9fad-047893c680f6",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with neuron structure.",
+          "answer": "axon",
+          "acceptableAnswers": [
+            "axon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the axon in the nervous system?",
+          "answer": "Neuron structure",
+          "acceptableAnswers": [
+            "Neuron structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to neuron structure.",
+          "answer": "dendrite",
+          "acceptableAnswers": [
+            "dendrite"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "5f4b4640-8342-4a76-9ede-06485b6492ae",
+      "linkedTossupId": "7ddf7e8f-7bb0-4601-be86-81a16bdc3e7c",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Marilyn Monroe wears an iconic pink dress while singing that these objects \"are a girl's best friend\" in a scene from Gentlemen Prefer Blondes.",
+          "answer": "diamond",
+          "acceptableAnswers": [
+            "diamond",
+            "The diamond"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Henri Baurel climbs up steps that turn pink one by one in the song \"Stairway to Paradise\" from this Vincente Minnelli film starring Gene Kelly as an expat painter.",
+          "answer": "American in Paris",
+          "acceptableAnswers": [
+            "American in Paris",
+            "The American in Paris"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A fashion magazine publisher tells her employees to \"think pink\" in an exuberantly pink scene from this 1957 film in which Audrey Hepburn's character performs an impromptu bohemian-style dance in a nightclub.",
+          "answer": "Funny Face",
+          "acceptableAnswers": [
+            "Funny Face",
+            "The Funny Face"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the use of the color pink in 1950s Hollywood musicals, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a8108"
+    },
+    {
+      "id": "77211909-6d55-4284-888f-3f8d98ddb033",
+      "linkedTossupId": "b16b3360-3ba9-4439-a50e-d118feae80a6",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this country, whose democratic politics were interrupted by a 1926 coup by the \"Sanacja\" or \"healing\" movement. The general who seized power was the hero of a border war with this country's eastern neighbor at its birth.",
+          "answer": "Poland",
+          "acceptableAnswers": [
+            "Poland",
+            "“Inter-war Poland",
+            "” “Versailles Poland",
+            "”",
+            "the Second Polish Republic",
+            "The Poland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This was the general who orchestrated the 1926 coup and served as head of state until his death in 1935. He had led Polish units on Austria's behalf in the First World War.",
+          "answer": "Pilsudski",
+          "acceptableAnswers": [
+            "Pilsudski",
+            "The Pilsudski"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Inter-war Poland nominally had access to this free city under League of Nations protection, which was 95% ethnically German at the time and where the Nazi Party took power in 1933. The takeover of the Polish post office in this city kicked off World War Two, as described by Oscar Matzerath.",
+          "answer": "Danzig",
+          "acceptableAnswers": [
+            "Danzig",
+            "The Danzig"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Keynes wrote that this country was \"an economic impossibility with no industry but Jew-baiting\" in The Economic Consequences of the Peace. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b2167"
+    },
+    {
+      "id": "d4747681-55d2-4628-adec-1ae8825025b0",
+      "linkedTossupId": "c8dd5e97-589f-4d9c-b755-1dc8742958fd",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this country. The Évian (AY-vi-ahn) Accords ended this country's namesake war, which ended with its independence from a colonial power across the Mediterranean. The National Liberation Front, or FLN, is active in this country.",
+          "answer": "Algeria",
+          "acceptableAnswers": [
+            "Algeria",
+            "People's Democratic Republic of Algeria",
+            "Al Jumhuriyah al Jaza'iriyah ad Dimuqratiyah ash Sha'biyah",
+            "The Algeria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Following the Evian Accords, Algeria's OAS planned an attempted assassination against this leader, which was chronicled in The Day of the Jackal. This leader established the Fifth Republic after the Algiers crisis.",
+          "answer": "de Gaulle",
+          "acceptableAnswers": [
+            "de Gaulle",
+            "The de Gaulle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Charles de Gaulle was a president of this country, whose other former colonies in Africa include Mali and Côte d'Ivoire.",
+          "answer": "France",
+          "acceptableAnswers": [
+            "France",
+            "French Republic",
+            "Republique francaise",
+            "The France"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Civilians in this country's cafes were often affected by bombings during its Cafe War, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65666e01443a0a5dea004551"
+    },
+    {
+      "id": "a55efb45-5867-40c3-9045-bc9e9d8a36de",
+      "linkedTossupId": "47caf5d9-e1c2-4ea1-a3e0-e3f086b74f34",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with intestinal enzymes.",
+          "answer": "duodenum",
+          "acceptableAnswers": [
+            "duodenum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the duodenum in the digestive system?",
+          "answer": "Intestinal enzymes",
+          "acceptableAnswers": [
+            "Intestinal enzymes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to intestinal enzymes.",
+          "answer": "jejunum",
+          "acceptableAnswers": [
+            "jejunum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "6d0a0c0f-d9ec-400f-89f7-955034f9fd52",
+      "linkedTossupId": "f62114c9-8cd3-45cf-8cff-0ba606a3a1aa",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this leftist social organization that was founded in the Lincoln Park neighborhood of Chicago by José \"Cha-Cha\" Jiménez.",
+          "answer": "Young Lords",
+          "acceptableAnswers": [
+            "Young Lords",
+            "Young Lords Organization",
+            "Young Lords Party",
+            "The Young Lords"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In New York, the Young Lords flourished in this section of a larger neighborhood that is a hotspot for U.S. salsa music.",
+          "answer": "Spanish Harlem",
+          "acceptableAnswers": [
+            "Spanish Harlem",
+            "East Harlem",
+            "prompt on “Harlem”",
+            "“El Barrio”",
+            "“Italian Harlem”",
+            "The Spanish Harlem"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Young Lords was founded by descendants of immigrants from this island, which was devastated by Hurricane Maria in 2017.",
+          "answer": "Puerto Rico",
+          "acceptableAnswers": [
+            "Puerto Rico",
+            "Commonwealth of Puerto Rico",
+            "Estado Libre Asociado de Puerto Rico",
+            "The Puerto Rico"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Democracy Now! host Juan González was a founding member of a branch of this organization on the East Coast. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361e01fec1ecd3e795a427d"
+    },
+    {
+      "id": "5750d043-feba-4900-871d-5067b087f2f5",
+      "linkedTossupId": "6c0802b0-8d50-4c91-a0c7-5ce35dc5abd3",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This Christian denomination was founded by John Wesley, who preached the idea of Christian perfection. Open-air preaching by men like George Whitefield helped expand this sect in the First Great Awakening.",
+          "answer": "Methodism",
+          "acceptableAnswers": [
+            "Methodism",
+            "The Methodism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Methodist followers of George Whitefield were influenced by this theologian who lived in Switzerland and preached ideas like predestination and total depravity.",
+          "answer": "Calvin",
+          "acceptableAnswers": [
+            "Calvin",
+            "Jean Cauvin",
+            "The Calvin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This denomination was formed after John Knox brought Calvinist ideas back to his home country, Scotland, and it is governed by its namesake assembly of elders.",
+          "answer": "Presbyterian",
+          "acceptableAnswers": [
+            "Presbyterian",
+            "The Presbyterian"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about related Protestant sects, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1bfd"
+    },
+    {
+      "id": "8f3fa02c-1292-4619-b352-df3171b99177",
+      "linkedTossupId": "ec421cb2-9ff6-4aa6-a1cf-e1b4f135d4b0",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Monet purchased a house here in 1890. There was much painting of water lilies.",
+          "answer": "Giverny",
+          "acceptableAnswers": [
+            "Giverny",
+            "The Giverny"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Monet created 28 paintings of the front of this religious edifice at various times of day.",
+          "answer": "Rouen Cathedral",
+          "acceptableAnswers": [
+            "Rouen Cathedral",
+            "Cathédrale Notre-Dame de Rouen",
+            "The Rouen Cathedral"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Monet painting of a solar event at Le Havre gave a certain budding artistic style its name.",
+          "answer": "Impression, sunrise",
+          "acceptableAnswers": [
+            "Impression, sunrise",
+            "Impression",
+            "soleil levant",
+            "The Impression, sunrise"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify some things relating to Claude Monet, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "676f82f8c626ea977c7a34fc"
+    },
+    {
+      "id": "ccc812c9-58f4-4bfc-af69-9e2b34806683",
+      "linkedTossupId": "6020cb97-ea7f-432a-9752-72a0d0160c79",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this husband of Nanna, the Norse god of light and happiness who was killed by an arrow made of mistletoe.",
+          "answer": "Balder",
+          "acceptableAnswers": [
+            "Balder",
+            "Baldr",
+            "accept Baldur",
+            "The Balder"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This trickster god was Odin's blood brother and engineered Balder's death along with fathering Hel, and the Midgard Serpent.",
+          "answer": "Loki",
+          "acceptableAnswers": [
+            "Loki",
+            "The Loki"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This mother of Baldr forced all the objects in the world not to harm her son, mistakenly thinking that mistletoe was too young to make such an agreement.",
+          "answer": "Frigg",
+          "acceptableAnswers": [
+            "Frigg",
+            "The Frigg"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some characters from Norse mythology, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be74b7"
+    },
+    {
+      "id": "dc561f8b-1027-43b3-9ca1-07c2259f685c",
+      "linkedTossupId": "1d0c6387-f5bb-4204-a1e3-d209fd38ebf1",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this \"Lion of Africa,\" who led a small band of Askaris and German soldiers on a guerilla campaign against hundreds of thousands of Allied troops before finally surrendering, undefeated, at the end of World War I.",
+          "answer": "Lettow-Vorbeck",
+          "acceptableAnswers": [
+            "Lettow-Vorbeck",
+            "The Lettow-Vorbeck"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Among von Lettow-Vorbeck's opponents in the East Africa Campaign was this man, a South African Prime Minister whose defeat by the National Party in 1948 ushered in Apartheid.",
+          "answer": "Smuts",
+          "acceptableAnswers": [
+            "Smuts",
+            "The Smuts"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Much of von Lettow-Vorbeck's artillery \"support\" consisted of guns stripped from a German cruiser with this name that was scuttled in the Rufiji Delta. This is the name of Prussian city that is now Kaliningrad, Russia.",
+          "answer": "Königsberg",
+          "acceptableAnswers": [
+            "Königsberg",
+            "The Königsberg"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man's forces won a critical victory at the Battle of Tanga, which saw swarms of bees descend on the attackers on the slopes of Kilimanjaro. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db46dd5"
+    },
+    {
+      "id": "1f26a815-bf08-4974-b12e-edd53601e22e",
+      "linkedTossupId": "fcd4520c-1374-4b97-a267-14c02b7060a0",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this likely mythical seventh and final King of Rome, whose son's rape of Lucretia supposedly led to his overthrow.",
+          "answer": "Tarquinius",
+          "acceptableAnswers": [
+            "Tarquinius",
+            "Tarquin the Proud",
+            "prompt on partial answer",
+            "The Tarquinius"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After Lucretia's suicide, this commander of the king's guard led efforts to get Tarquin exiled. This man shares his family name with the most famous of Julius Caesar's assassins.",
+          "answer": "Brutus",
+          "acceptableAnswers": [
+            "Brutus",
+            "The Brutus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Immediately following the exile of Tarquin, the comitia centuria decided to vest the executive power in this office, which was held jointly by two men, each serving one year terms.",
+          "answer": "consul",
+          "acceptableAnswers": [
+            "consul",
+            "The consul"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The despotism of this ruler earned him a cognomen referring to his arrogance. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b88dee"
+    }
+  ]
+}

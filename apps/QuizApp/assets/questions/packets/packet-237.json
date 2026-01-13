@@ -1,0 +1,1123 @@
+{
+  "packetId": "packet-237",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Fine Arts",
+    "Philosophy",
+    "History",
+    "Human Body",
+    "Mythology",
+    "Literature",
+    "Social Science",
+    "Science"
+  ],
+  "tossups": [
+    {
+      "id": "f2063fdc-d6c9-4ee5-9eb1-7975d2c71ef8",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "text": "He composed a piece in G flat major for baritone, chorus, three yodellers, and four alpine horns called Abendzauber. He chose b flat minor as the key for his Missa solemnis, while he occasionally nicknamed his first symphony \"the saucy maid.\" His namesake rhythm is characterized by a duplet plus triplet, or vice versa, and pervades his sixth symphony. His fourth symphony features a scherzo with outer sections unconventionally in 2/4 time, and he concluded his studies under Otto Kitzler with a work numbered 00, the \"Study\" Symphony. His unfinished tenth symphony often uses his Te Deum as a finale. For 10 points, name this German composer who dedicated his third symphony to his idol Richard Wagner, and whose fourth symphony is nicknamed Romantic.",
+      "powerMarkPosition": 511,
+      "answer": "Bruckner",
+      "acceptableAnswers": [
+        "Bruckner",
+        "The Bruckner"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c05525875972bd"
+    },
+    {
+      "id": "bd69ebf5-b512-44ea-94de-f638996e38a8",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "This denomination's \"three-legged stool\" of scripture, reason, and tradition is taken from the work Of the Laws of Ecclesiastical Polity. Part of a movement within this denomination followed the ideas of Edward Pusey (\"PYOO-zee\"). Theologians and writers influential to this denomination like Richard Hooker are called \"divines.\" This denomination's idea of \"churchmanship\" labels individual congregations as \"high\" or \"low.\" The doctrines and practices of this denomination are defined in the Thirty-nine Articles. This denomination was the first to change its liturgy to use the Book of Common Prayer by Thomas Cranmer. This denomination split from Rome with the Act of Supremacy passed by Henry VIII. For 10 points, name this denomination whose head is the Archbishop of Canterbury.",
+      "powerMarkPosition": 408,
+      "answer": "Anglican",
+      "acceptableAnswers": [
+        "Anglican",
+        "Anglicanism",
+        "Anglican Communion",
+        "Church of England",
+        "accept Episcopal Church",
+        "Episcopalianism",
+        "TEC",
+        "PECUSA",
+        "The Anglican"
+      ],
+      "source": "qbreader",
+      "sourceId": "664d3b2b7fccf731960503ef"
+    },
+    {
+      "id": "cf6c78db-4d13-42a0-a6a3-d175a9c82d60",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "middle_school",
+      "text": "This type of event killed both the first man to travel into outer space and the only Secretary General of the United Nations to die in office. In 2010, the president of Poland and dozens of other high-ranking officials died in one of these events. In the 1990s, U.S. Secretary of Commerce Ron Brown and John F. Kennedy, Jr., both died in this type of event. For 10 points, identify this type of incident which killed Yuri Gagarin, Dag Hammarskjold, Ritchie Valens, Will Rogers, and presumably, Amelia Earhart.",
+      "powerMarkPosition": 247,
+      "answer": "plane crash",
+      "acceptableAnswers": [
+        "plane crash",
+        "equivalents",
+        "The plane crash"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0a34"
+    },
+    {
+      "id": "09851f1e-58c3-49a2-ac7e-332ce2a12341",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "This philosophical stance is paired with \"Sensationalism\" and \"Agnosticism\" as \"the most striking results of philosophy\" in a work which says that it may have no foundation better than the supposition that a chimera lives in the moon. Australian philosopher David Stove labels this idea \"A Victorian Horror Story\" in two parts of his 1991 work The Plato Cult. In 1800, Friedrich von Schelling formulated a system of the transcendental type of this. Maybe most famously, a philosopher used the imagery of gestures made by his right and left hand in attempting a \"Refutation\" of this, that being a 1903 work by G.E. Moore. For 10 points, name this philosophical -ism which can assert that there is no direct knowledge of external objects, and is most logically contrasted with realism.",
+      "powerMarkPosition": 359,
+      "answer": "idealism",
+      "acceptableAnswers": [
+        "idealism",
+        "The idealism"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9dbc8f282ed3d431b8"
+    },
+    {
+      "id": "625352a7-0ccb-4a78-8646-5f855edadd73",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for gallbladder and bile. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this liver-related structure.",
+      "powerMarkPosition": 78,
+      "answer": "Liver",
+      "acceptableAnswers": [
+        "liver",
+        "Liver"
+      ],
+      "explanation": "The liver is a key component of the Digestive system, involved in gallbladder and bile.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ff537853-a576-40a7-aa85-73743e7dbd69",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for neuromuscular junction. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this contraction-related structure.",
+      "powerMarkPosition": 83,
+      "answer": "Contraction",
+      "acceptableAnswers": [
+        "contraction",
+        "Contraction"
+      ],
+      "explanation": "The contraction is a key component of the Musculoskeletal system, involved in neuromuscular junction.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "5f14203d-99a5-48a9-97af-ee7f1d379392",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "Two of these figures known as \"the Denier\" and \"the Denied\" conduct an interrogation during barzakh. Figures carrying a gold pot of snow are sometimes considered the earliest documented ones. One of them was the only figure to successfully return with dust from the corner of the world, while those known as Kiraman Katibin function as bookkeepers. Some magically-inclined Babylonians ended up entirely damned after being inspired by two of them named Harut and Marut, while a group of nineteen are associated with Jahannam. Another one made a notable prediction to Maryam, and descends during the Laylat al-Qadr or Night of Power. That one was present during the Night Journey. Including the figure who transmitted the verses of the Quran to Muhammad, For 10 points, identify these beings in Islam which include Israfil, Azrael, and Jibril, and generally act as servants of heaven.",
+      "powerMarkPosition": 348,
+      "answer": "Angels",
+      "acceptableAnswers": [
+        "Angels",
+        "The Angels"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4cc6671d74a7752da5e6"
+    },
+    {
+      "id": "15cebccf-3940-4375-b43b-5125d961b9b7",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "George Dumezil argued that this entity was illustrative of Odin's domain over magic. When one figure views this entity, he thinks its destruction will cause him to gain no fame. It was intended to replace Leyding and Gromi and can be seen nearby the river Vil and Von on an island at a lake of red and black water called Amsvartnir. Retrieved after Freyr's messenger Skirnir visits Svartalheim, at the end of it is Gelgia, which is used to connect it to the rock Gioll. The sinews of a bear, the sound of a cat's fall, and the beard of a woman are used in its construction. For 10 points, name this chain that binds Fenrir.",
+      "powerMarkPosition": 348,
+      "answer": "Gleipnir",
+      "acceptableAnswers": [
+        "Gleipnir",
+        "The Gleipnir"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f82ebc626ea977c7a31a8"
+    },
+    {
+      "id": "93f70134-d3bd-4491-abcd-0ea87cdd6eee",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "This leader negotiated the handover of the accused Lockerby bombers with Muammar Qaddafi. He was succeeded in his highest post by Thabo Mbeki [TAH-bo uhm-BAY-kee]. He wrote the autobiography Long Walk to Freedom, and was held at Robben Island prison for many years. He was released by F. W. de Clerk, and in 1994 he led the African National Congress to its first victory in universal elections. For 10 points, name this first black president of South Africa.",
+      "powerMarkPosition": 228,
+      "answer": "Mandela",
+      "acceptableAnswers": [
+        "Mandela",
+        "The Mandela"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f2124"
+    },
+    {
+      "id": "1baec6c1-b887-4527-8884-613d5ddf2cad",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "One character in this play owns a cigarette case inscribed with lines by Elizabeth Barrett Browning. One character in this play declares that \"I don't want realism, I want magic\", whilst another character throws a radio out of a window following a poker game. Whilst her sister is in labour, one character in this play is raped by that sister's husband, Stanley Kowalski, and says \"I have always depended on the kindness of strangers\". For 10 points, name this play in which Blanche DuBois stays with her sister in New Orleans, by Tennessee Williams.",
+      "powerMarkPosition": 259,
+      "answer": "A Streetcar Named Desire",
+      "acceptableAnswers": [
+        "A Streetcar Named Desire"
+      ],
+      "source": "qbreader",
+      "sourceId": "6413cd9afdc648a1ed7097e3"
+    },
+    {
+      "id": "2a1b5fef-2259-44d1-80cd-7c3306d15d15",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "This thinker described the problems of experimentally testing racial superiority through intelligence in the work \"The Methodology of Racial Testing: Its Significance for Sociology.\" This author of Male and Female argued in favor of absolute cultural determinism in the book And Keep Your Powder Dry. This thinker described the relationship between gender and aggression in the Chambri, Arapesh, and Mundugumor societies in one work. This anthropologist's most famous study, which was conducted on the island of Tau, was criticized as a \"fateful hoaxing\" by Derek Freeman. Sex and Temperament in Three Primitive Societies was written by, for 10 points, what anthropologist, the author of Coming of Age in Samoa?",
+      "powerMarkPosition": 370,
+      "answer": "Mead",
+      "acceptableAnswers": [
+        "Mead",
+        "The Mead"
+      ],
+      "source": "qbreader",
+      "sourceId": "65de63eeffe1839107b6362b"
+    },
+    {
+      "id": "26d3b210-098f-44a3-8545-9c66ef13f786",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "Broteas, a person with this profession, was forced to self immolate after he refused to sculpt another goddess on a mountain after sculpting Cybele. One person with this profession, who was the center of a hero cult in Boeotia, may have been born after three gods urinated into a bull's hide. One man with this profession was blinded by Oenopion after attacking Merope. A person with this profession was transformed into a stag and torn apart by dogs after witnessing a goddess bathing. One hero was killed by a scorpion for boasting about his prowess in this profession. Another person with this profession collaborated with Meleager to kill the Calydonian Boar. For 10 points, name this profession of people like Atalanta and Orion, whose patron goddess was Artemis.",
+      "powerMarkPosition": 361,
+      "answer": "hunter",
+      "acceptableAnswers": [
+        "hunter",
+        "huntress",
+        "hunting",
+        "The hunter"
+      ],
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa5df"
+    },
+    {
+      "id": "578f4a38-f19e-4bc6-a46f-7c66ebeae6d7",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "In this type of market, a firm's demand curve is not perfectly elastic and a firm must lower price to raise marginal revenue. Thus, they are sometimes created by the government even though the firm can set the price to the maximum profit level without regard to competition. For 10 points-name this market structure with only one seller.",
+      "powerMarkPosition": 125,
+      "answer": "monopoly",
+      "acceptableAnswers": [
+        "monopoly",
+        "The monopoly"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841ccf"
+    },
+    {
+      "id": "e4fd51be-87e0-417c-837c-f741e1997265",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "The stage directions for a play with this title describe an \"Auditor\" with \"sex undeterminable\" and \"enveloped from head to foot in loose black djellaba.\" In another work, a woman who says this phrase claims her \"period has come suddenly,\" so she can't visit the Chief Tax Officer. A character written for Billie Whitelaw describes a woman who becomes mute after collapsing in a field in a play titled for this phrase that consists of a monologue delivered by an actor who only has their mouth illuminated. After a man unrolls his welcome mat, a creature with this name departs. Samuel Beckett wrote a minimalist one-act play titled for this two-word phrase. A \"fearless hunter,\" a courtesan, and the kinsman Ifayomi all say this phrase in response to an ominous \"whisper in the leaves.\" For 10 points, Elesin Oba reassures the Praise-Singer of his ability to commit suicide in Death and the King's Horseman by telling the story of a bird named for what two-word phrase?",
+      "powerMarkPosition": 487,
+      "answer": "Not I",
+      "acceptableAnswers": [
+        "Not I",
+        "the Not-I bird",
+        "The Not I"
+      ],
+      "source": "qbreader",
+      "sourceId": "644d9269c699b0373c807f55"
+    },
+    {
+      "id": "907f23bb-b517-428b-9888-13a2c0b7bb7b",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "text": "In one novel by this author, a 17-year old girl kills herself after her elderly lover dumps her around the time she fails to pass her exams and is named America. In another novel by this author, an Italian pianola instructor named Pietro Crespi kills himself after failing to court Rebeca and Amaranta. After a doctor in a novel by this author dies while trying to catch a parrot, his wife Fermina remarries her earlier love interest Florentino Ariza. A different novel by this author follows many characters of the Buendia family in Macondo. For 10 points, name this \"magical realist\" author of Love in the Time of Cholera and One Hundred Years of Solitude.",
+      "powerMarkPosition": 281,
+      "answer": "García Márquez",
+      "acceptableAnswers": [
+        "García Márquez",
+        "Gabriel José de la Concordia García Márquez",
+        "prompt on partial",
+        "The García Márquez"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0023a69364e383bef69cf"
+    },
+    {
+      "id": "08f559ce-cf6c-49b7-a6b8-f1f758e365ad",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Eggen, Lynden-Bell, and Sandage studied the velocities of 221 dwarf stars to formulate a theory about one instance of this process. The seeds for this process are the primordial overdensities reflected in the CMB fluctuations, which serve as nucleation points for this process. This process is the first step of hierarchical structure formation, and its products are cooled through a combination of Compton scattering, free-free emission, recombination, and collision-induced de-excitation. The halo masses for a given redshift for products of this process can be calculated via the Press-Schechter formalism. This process is believed to proceed via the spherical collapse model and results in the formation of the smallest objects capable of exceeding the Jeans criterion for virialization in the early universe. For 10 points, identify this process, which results in the formation of the first gravity-bound structure in the universe, objects which come in dwarf, elliptical, and spiral varieties.",
+      "powerMarkPosition": 490,
+      "answer": "galaxy formation",
+      "acceptableAnswers": [
+        "galaxy formation",
+        "“structure formation” before it is mentioned",
+        "The galaxy formation"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae8e5f"
+    },
+    {
+      "id": "819e0ecc-5e1a-4e55-85a2-2c41a82b0276",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "In this play, one character exclaims that \"Sticks and stones can break our bones, but the expression on Mr. Garfinkel's face won't harm us!\" A cracking sound in the sky is heard in this play after a character panics over the name \"Betty.\" One character in this play pays daily visits to the penguins at the zoo, while another hates his job at a shoe warehouse. A character known as \"Blue Roses\" is told to \"Blow out your candles\" at the end of this play. The \"gentleman caller\" Jim O'Connor breaks the horn of a toy unicorn belonging to Laura in this play. For 10 points, name this play centering on the Wingfield family by Tennessee Williams.",
+      "powerMarkPosition": 381,
+      "answer": "Glass Menagerie",
+      "acceptableAnswers": [
+        "Glass Menagerie",
+        "The Glass Menagerie"
+      ],
+      "source": "qbreader",
+      "sourceId": "64c4601ce6811c453d40db59"
+    },
+    {
+      "id": "76225fa3-936a-4c07-9a5a-6e99eca2e952",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for types of joints. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this synovial-related structure.",
+      "powerMarkPosition": 96,
+      "answer": "Synovial",
+      "acceptableAnswers": [
+        "synovial",
+        "Synovial"
+      ],
+      "explanation": "The synovial is a key component of the Musculoskeletal system, involved in types of joints.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "51362ad6-7c51-4aae-b636-a877d6855fb9",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "This author considered three ontological dimensions to the human body, the last being \"myself as a body known by the Other.\" The first two dimensions correspond to two general categories of being which this author named en-soi and pour-soi, the former unchanging and the latter dynamic and associated with consciousness. He illustrates one important concept in his masterwork with the example of a man whose \"eyes express an interest a little too solicitous for the order of the customer.\" That waiter illustrates this author's concept of mauvaise foi [moh-vay fwah], or bad faith. For 10 points, what French author of Being and Nothingness is the major proponent of Existentialism?",
+      "powerMarkPosition": 320,
+      "answer": "Sartre",
+      "acceptableAnswers": [
+        "Sartre",
+        "The Sartre"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0ca28"
+    },
+    {
+      "id": "0f100849-98ab-4211-9cee-1da1a2444caf",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "This man's \"Old Possum's Book of Practical Cats\" inspired the musical Cats. This poet described women who \"come and go / Talking of Michelangelo\" in \"The Love Song of J. Alfred Prufrock.\" In \"The Hollow Men,\" this man wrote, \"This is the way the world ends / Not with a bang but a whimper.\" This man ended a poem by repeating \"Shantih.\" \"April is the cruelest month\" opens, for 10 points, what poet's \"The Waste Land?\"",
+      "powerMarkPosition": 336,
+      "answer": "Eliot",
+      "acceptableAnswers": [
+        "Eliot",
+        "T. S. Eliot",
+        "do not accept",
+        "prompt on \"George Eliot\"",
+        "The Eliot"
+      ],
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6eda7"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "d5ec41df-b871-42c0-ad4e-b930664801a7",
+      "linkedTossupId": "f2063fdc-d6c9-4ee5-9eb1-7975d2c71ef8",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Polish composer of Polymorphia and the Polish Requiem. His best known work, Threnody to the Victims of Hiroshima, was written for 52 string instruments using symbolic notation.",
+          "answer": "Penderecki",
+          "acceptableAnswers": [
+            "Penderecki",
+            "The Penderecki"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Threnody was originally going to be titled 8'37'', possibly a reference to this minimalist composer's famous work of complete silence, 4'33''.",
+          "answer": "Cage",
+          "acceptableAnswers": [
+            "Cage",
+            "The Cage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Penderecki incorporated his setting of the Stabat Mater into this religious work, with which he made his name. It makes plentiful use of the B-A-C-H motif, and of extended instrumental and vocal techniques.",
+          "answer": "St. Luke Passion",
+          "acceptableAnswers": [
+            "St. Luke Passion",
+            "The St. Luke Passion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This composer's second symphony was titled \"Christmas.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e7053"
+    },
+    {
+      "id": "1eab8094-134f-42b6-bcbb-728cff0a2e06",
+      "linkedTossupId": "bd69ebf5-b512-44ea-94de-f638996e38a8",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This Spanish philosopher wrote the work The Last Puritan, but he is most famous for his often paraphrased statement, \"Those who cannot remember the past are condemned to repeat it.\"",
+          "answer": "Santayana",
+          "acceptableAnswers": [
+            "Santayana",
+            "Jorge Agustin Nicolas Ruiz De Santayana",
+            "The Santayana"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Santayana claimed \"Philosophy begins in media res\" in this most famous epistemological work, which urges humans to listen to the title instinct.",
+          "answer": "Skepticism and Animal Faith",
+          "acceptableAnswers": [
+            "Skepticism and Animal Faith",
+            "The Skepticism and Animal Faith"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a letter to Mandell Creighton, written in April 1887 regarding the papal infallibility crisis, this man made his mark on history by stating, \"All power tends to corrupt and absolute power corrupts absolutely. \"",
+          "answer": "Acton",
+          "acceptableAnswers": [
+            "Acton",
+            "The Acton"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these philosophers associated with famous phrases, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0ba20"
+    },
+    {
+      "id": "0e458468-4737-4a66-8f32-726cfe5df7c8",
+      "linkedTossupId": "cf6c78db-4d13-42a0-a6a3-d175a9c82d60",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Montgomery, Alabama was briefly the capital of the Confederacy, but in 1861, it was moved to this Virginia city.",
+          "answer": "Richmond",
+          "acceptableAnswers": [
+            "Richmond",
+            "The Richmond"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "General Sherman's March to the Sea started after the capture of Atlanta and finished at this Georgia port city five weeks later.",
+          "answer": "Savannah",
+          "acceptableAnswers": [
+            "Savannah",
+            "The Savannah"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The largest race riots in American history took place in this Northern city in July 1863, where over a hundred people died in a dispute over the draft. Gatling guns were used by workers of this city's Times newspaper to threaten away rioters.",
+          "answer": "New York",
+          "acceptableAnswers": [
+            "New York",
+            "The New York"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name the following American cities based on their Civil War history, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc0051f4"
+    },
+    {
+      "id": "f7ab9b7d-736a-4f41-9cfc-df3621406a81",
+      "linkedTossupId": "09851f1e-58c3-49a2-ac7e-332ce2a12341",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this school of Buddhism which uses tantras and is a third way to enlightenment along with Mahayana and Theravada.",
+          "answer": "Vajrayana",
+          "acceptableAnswers": [
+            "Vajrayana",
+            "The Vajrayana"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the subsets of Vajrayana Buddhism is this Buddhist tradition, which contains the Nyingma and Gelug traditions and includes the Red Hat and Yellow Hat sects.",
+          "answer": "Tibetan",
+          "acceptableAnswers": [
+            "Tibetan",
+            "The Tibetan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the term for the spiritual leader of Tibetan Buddhism. He is assisted by the Panchen Lama and its current holder is Tenzin Gyatso.",
+          "answer": "Dalai Lama",
+          "acceptableAnswers": [
+            "Dalai Lama",
+            "The Dalai Lama"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This religious sect takes its name from the Sanskrit symbol for Thunderbolt, and highlights the samaya, or vows taken by initiates. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f33042333cf2cfbd44ad91"
+    },
+    {
+      "id": "00149739-f95d-4be4-a336-4bc839d98d8b",
+      "linkedTossupId": "625352a7-0ccb-4a78-8646-5f855edadd73",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with heart valves and their functions.",
+          "answer": "atrium",
+          "acceptableAnswers": [
+            "atrium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the atrium in the cardiovascular system?",
+          "answer": "Heart valves and their functions",
+          "acceptableAnswers": [
+            "Heart valves and their functions"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to heart valves and their functions.",
+          "answer": "ventricle",
+          "acceptableAnswers": [
+            "ventricle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9c1725b9-6298-4370-9d8f-4a66c11edbb6",
+      "linkedTossupId": "ff537853-a576-40a7-aa85-73743e7dbd69",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with esophagus and swallowing.",
+          "answer": "esophagus",
+          "acceptableAnswers": [
+            "esophagus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the esophagus in the digestive system?",
+          "answer": "Esophagus and swallowing",
+          "acceptableAnswers": [
+            "Esophagus and swallowing"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to esophagus and swallowing.",
+          "answer": "peristalsis",
+          "acceptableAnswers": [
+            "peristalsis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "daa9041d-97ce-4f21-8c4f-d40ee561c94a",
+      "linkedTossupId": "5f14203d-99a5-48a9-97af-ee7f1d379392",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The Kalash preserve many of the religious beliefs found in this body of religious texts, which are defined as shruti rather than smrti (\"SMUR-tee\").",
+          "answer": "Veda",
+          "acceptableAnswers": [
+            "Veda",
+            "The Veda"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Recently, many Kalash people have converted to this religion from their traditional beliefs related to Hinduism. When Guru Nanak founded Sikhism, he said there was no Hindu and no follower of this religion.",
+          "answer": "Islam",
+          "acceptableAnswers": [
+            "Islam",
+            "Muslim",
+            "The Islam"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A major Kalash deity called Imra or similar terms is cognate with this Hindu deity. This friend of Agni is considered the lokapāla of the southern direction.",
+          "answer": "Yama",
+          "acceptableAnswers": [
+            "Yama",
+            "Kala",
+            "accept Pashi",
+            "accept Dharmaraja",
+            "prompt on Dharmadeva",
+            "do not accept",
+            "prompt on “Yami”",
+            "The Yama"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about the religious beliefs of the Kalash people of Pakistan. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67cb4e0fa4d5f0b0e22ac004"
+    },
+    {
+      "id": "371df501-bf7d-4391-992e-30cac7da3745",
+      "linkedTossupId": "15cebccf-3940-4375-b43b-5125d961b9b7",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "In Greek mythology, death comes from the jar opened by this first woman, who was formed out of clay by Hephaestus.",
+          "answer": "Pandora",
+          "acceptableAnswers": [
+            "Pandora",
+            "The Pandora"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Polynesian mythology, death results from the failure of this culture hero's quest for immortality, which is foiled by the laughter of a bird. He also creates the Hawaiian Islands using a jawbone.",
+          "answer": "Maui",
+          "acceptableAnswers": [
+            "Maui",
+            "The Maui"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The killing of Maui by the underworld goddess Hine-nui-te-po is one myth involving this dangerous body part, whose common appearance in myth may reflect a fear of castration.",
+          "answer": "vagina dentata",
+          "acceptableAnswers": [
+            "vagina dentata",
+            "partial answer",
+            "accept anything about a vagina with teeth",
+            "The vagina dentata"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about myths about the origin of death, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "630adb562eacc381ae57f773"
+    },
+    {
+      "id": "4097b97e-1201-473b-a999-677a16a0b5b3",
+      "linkedTossupId": "93f70134-d3bd-4491-abcd-0ea87cdd6eee",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this English king who would later be held for ransom by the Holy Roman Emperor Henry VI. Only spending six months of his reign in England, he would die besieging the French castle of Chalus.",
+          "answer": "Richard I",
+          "acceptableAnswers": [
+            "Richard I",
+            "Richard the Lionheart",
+            "prompt on “Richard”",
+            "The Richard I"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Richard was succeeded by this younger brother, generally considered a very weak king. Known as Lackland, he lost Anjou and Normandy to France and died during a civil war known as the First Barons' War.",
+          "answer": "John",
+          "acceptableAnswers": [
+            "John",
+            "The John"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "John was forced by English nobles to sign this document in 1215. Meaning \"Great Charter\" and signed at Runnymede, this document curbed the king's power and guaranteed rights and liberties to English landowners.",
+          "answer": "Magna",
+          "acceptableAnswers": [
+            "Magna",
+            "The Magna"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This ruler defeated Saladin at the Battles of Arsuf and Jaffa during the Third Crusade. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f07bb"
+    },
+    {
+      "id": "0ccfa083-059d-422b-b7b0-f3d36cb8c603",
+      "linkedTossupId": "1baec6c1-b887-4527-8884-613d5ddf2cad",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this poem, one section of which describes the number of years that the speaker would spend adoring the various parts of his lover. It ends by saying \"though we cannot make our sun stand still, yet we will make him run.\"",
+          "answer": "To His Coy Mistress",
+          "acceptableAnswers": [
+            "To His Coy Mistress",
+            "The To His Coy Mistress"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This British poet who questioned why men build \"unproportion'd dwellings\" in \"Upon Appleton House\" wrote \"To his Coy Mistress.\"",
+          "answer": "Marvell",
+          "acceptableAnswers": [
+            "Marvell",
+            "The Marvell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Marvell wrote four poems featuring this character. In one of them, he compares his labor to what Juliana did to his mind, while another of them refers to \"Glow-Worms\" as \"Ye living Lamps.\"",
+          "answer": "Mower",
+          "acceptableAnswers": [
+            "Mower",
+            "The Mower"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This poem states that \"The grave's a fine and private place, but none I think there do embrace.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c317f1"
+    },
+    {
+      "id": "aa9a7f19-636f-4cab-acac-d1a835cd30cc",
+      "linkedTossupId": "2a1b5fef-2259-44d1-80cd-7c3306d15d15",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this psychologist who emphasized the importance of modeling. His social learning theory is seen as a bridge between behaviorist and cognitive ideas.",
+          "answer": "Bandura",
+          "acceptableAnswers": [
+            "Bandura",
+            "The Bandura"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bandura is most known for this experiment, in which children observed and imitated adults who were aggressive towards a namesake toy.",
+          "answer": "Bobo doll",
+          "acceptableAnswers": [
+            "Bobo doll",
+            "The Bobo doll"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bandura also pioneered the study of this concept, a person's belief in their ability to complete tasks and attain a goal. It is often confused with confidence.",
+          "answer": "self-efficacy",
+          "acceptableAnswers": [
+            "self-efficacy",
+            "“efficacy”",
+            "The self-efficacy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This thinker expanded upon behaviorist ideas, arguing that people can learn by watching other people. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edc1ba974521c293e49653"
+    },
+    {
+      "id": "e51052b8-435d-49de-8daf-a9c5ff597326",
+      "linkedTossupId": "26d3b210-098f-44a3-8545-9c66ef13f786",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Hercules's 10th labor involved retrieving the red cattle guarded by this demon. This resident of Erytheia had three human heads and three sets of weapons and armor, but was ultimately defeated by a poisoned arrow.",
+          "answer": "Geryon",
+          "acceptableAnswers": [
+            "Geryon",
+            "The Geryon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After slaying Geryon, Hercules retrieved these fruits from the Hesperides nymphs. One of these fruits was guarded by Ladon, and was feuded over by Hera, Athena, and Aphrodite.",
+          "answer": "apple",
+          "acceptableAnswers": [
+            "apple",
+            "The apple"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "As his twelfth and last labor, Hercules kidnapped this three-headed guard dog of the underworld, who was supposedly so scary that Eurystheus had to hide in a large jar. Hercules wrestles and chains this creature unarmed.",
+          "answer": "Cerberus",
+          "acceptableAnswers": [
+            "Cerberus",
+            "The Cerberus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some stuff about the later labors of Hercules, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b993"
+    },
+    {
+      "id": "18cc39e8-8fa1-4dc6-87ab-915238f9aa8b",
+      "linkedTossupId": "578f4a38-f19e-4bc6-a46f-7c66ebeae6d7",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this MIT linguist also known for his political activism and for discussing the grammatical but meaningless sentence \"Colorless green ideas sleep furiously.\"",
+          "answer": "Chomsky",
+          "acceptableAnswers": [
+            "Chomsky",
+            "The Chomsky"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chomsky introduced this conception of grammar, which explains the relationship between the deep structure and surface structure of a sentence in a given language.",
+          "answer": "transformational grammar",
+          "acceptableAnswers": [
+            "transformational grammar",
+            "The transformational grammar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chomsky's work in this area falls into this subfield of linguistics, which studies the rules for constructing sentences and is a part of grammar.",
+          "answer": "syntax",
+          "acceptableAnswers": [
+            "syntax",
+            "The syntax"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His namesake hierarchy, sometimes also named for Schützenberger, organizes grammars into four types, each more specific than the last. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6451e799d4402ec440c623d6"
+    },
+    {
+      "id": "cc8f58c5-fec6-423f-b200-8caad8e81ca7",
+      "linkedTossupId": "e4fd51be-87e0-417c-837c-f741e1997265",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this meta-fiction novel about a nameless student, whose stories begin to converge as his fictional author Dermot Trellis is attacked by his own characters, a group led by his son Orlick and the 'depraved' John Furriskey.",
+          "answer": "At Swim-Two-Birds",
+          "acceptableAnswers": [
+            "At Swim-Two-Birds",
+            "The At Swim-Two-Birds"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At Swim-Two-Birds is a novel by this Irish author, whose fictional philosopher De Selby invents D.M.P. in his novel The Dalkey Archive and is referenced extensively in the footnotes of his The Third Policeman.",
+          "answer": "O’Brien",
+          "acceptableAnswers": [
+            "O’Brien",
+            "Brian O’Nolan",
+            "The O’Brien"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Flann O'Brien claimed that this man \"hated At Swim-Two-Birds so vehemently he started World War II in order to interfere with its sales.\" This man's writings include the posthumously published Zweites Buch and Mein Kampf.",
+          "answer": "Hitler",
+          "acceptableAnswers": [
+            "Hitler",
+            "The Hitler"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "At one point in this novel, the magical devil Pooka Fergus MacPhellimey and the Good Fairy have a lengthy discussion about whether the former's wife is a kangaroo. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f35046"
+    },
+    {
+      "id": "45ae9a51-ebf1-418e-bc6b-a374ea6e2dbb",
+      "linkedTossupId": "907f23bb-b517-428b-9888-13a2c0b7bb7b",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this poem in which the narrator claims that \"Sophocles long ago / heard it on the Aegean,\" before stating that \"ignorant armies clash by night.\"",
+          "answer": "Dover Beach",
+          "acceptableAnswers": [
+            "Dover Beach",
+            "The Dover Beach"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Dover Beach\" is a work by this British poet.",
+          "answer": "Arnold",
+          "acceptableAnswers": [
+            "Arnold",
+            "The Arnold"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Matthew Arnold also wrote this poem, in which the narrator states that \"near me on the grass lies Glanvil's book.\"",
+          "answer": "Scholar-Gipsy",
+          "acceptableAnswers": [
+            "Scholar-Gipsy",
+            "The Scholar-Gipsy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The narrator of this work begins by stating that \"the sea is calm tonight / The tide is full, the moon lies fair.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe74b"
+    },
+    {
+      "id": "29b1bae2-bd9f-4ab8-a359-4738b6eaf054",
+      "linkedTossupId": "08f559ce-cf6c-49b7-a6b8-f1f758e365ad",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this ubiquitous unbranched polymer of D-glucose, a major component of plant cell walls.",
+          "answer": "cellulose",
+          "acceptableAnswers": [
+            "cellulose",
+            "The cellulose"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other polysaccharide is similar to cellulose, but has a branched structure that helps it contribute to cell wall strength. Along with pectin, it is intertwined with microfibrils.",
+          "answer": "hemicellulose",
+          "acceptableAnswers": [
+            "hemicellulose",
+            "The hemicellulose"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Unlike cellulose, hemicellulose includes many different sugar monomers, including one with this many carbon atoms. Sugars with this many carbon atoms are components of RNA and DNA nucleotides.",
+          "answer": "five",
+          "acceptableAnswers": [
+            "five",
+            "5",
+            "accept pentoses",
+            "The five"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This polymer is synthesized by membrane-located rosette complexes. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbeb03c3c9bf58ab2ab624"
+    },
+    {
+      "id": "63358b34-6c53-4358-af8a-ad2de04cd4ca",
+      "linkedTossupId": "819e0ecc-5e1a-4e55-85a2-2c41a82b0276",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This poet advised: \"Accept the fluster / of lost door keys, the hour badly spent,\" in her villanelle declaring that \"The art of losing isn't hard to master,\" titled \"One Art.\"",
+          "answer": "Bishop",
+          "acceptableAnswers": [
+            "Bishop",
+            "The Bishop"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This poet boasted that \"Dying / Is an art, like everything else. / I do it exceptionally well\" in her poem \"Lady Lazarus,\" which shares the Holocaust imagery of her poem \"Daddy.\"",
+          "answer": "Plath",
+          "acceptableAnswers": [
+            "Plath",
+            "The Plath"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The protagonist of Ezra Pound's long poem \"Hugh Selwyn Mauberley\" strove, \"for three years, out of key with his time,\" to \"resuscitate\" this dead art.",
+          "answer": "poetry",
+          "acceptableAnswers": [
+            "poetry",
+            "writing poems",
+            "verse",
+            "accept equivalents",
+            "The poetry"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about broader notions of art in modern American poetry, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae5cb"
+    },
+    {
+      "id": "caf944f1-00b2-4205-a679-476721626dab",
+      "linkedTossupId": "76225fa3-936a-4c07-9a5a-6e99eca2e952",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with bone development and growth.",
+          "answer": "skull",
+          "acceptableAnswers": [
+            "skull"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the skull in the musculoskeletal system?",
+          "answer": "Bone development and growth",
+          "acceptableAnswers": [
+            "Bone development and growth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to bone development and growth.",
+          "answer": "vertebra",
+          "acceptableAnswers": [
+            "vertebra"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "cc090651-7084-49ab-a335-2b238c2ba546",
+      "linkedTossupId": "51362ad6-7c51-4aae-b636-a877d6855fb9",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "That quote describes a model of education known by this finance-related term, coined by Paulo Freire [FRAIR-ee] in his book Pedagogy of the Oppressed and contrasted with his own transmission model.",
+          "answer": "Banking",
+          "acceptableAnswers": [
+            "Banking",
+            "The Banking"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Freire is mentioned in Teaching to Transgress, a book by this American writer and critic. This writer wrote extensively on race, including the 1981 work Ain't I A Woman?",
+          "answer": "bell hooks",
+          "acceptableAnswers": [
+            "bell hooks",
+            "The bell hooks"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Freire defines this concept as \"reflection and action directed at the structures to be transformed\". In arguing that Western philosophy overfocuses on vita contemplativa, Hannah Arendt suggests that this is the most important level of active life.",
+          "answer": "Praxis",
+          "acceptableAnswers": [
+            "Praxis",
+            "The Praxis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Describing this theory, a major work of education philosophy says \"Instead of communicating, the teacher issues communiqués and makes deposits which the students patiently receive, memorise and repeat.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6504ab679ee6e14c2d0e4187"
+    },
+    {
+      "id": "a30b06f5-080a-4700-b0cc-b5b6fac25a00",
+      "linkedTossupId": "0f100849-98ab-4211-9cee-1da1a2444caf",
+      "category": "Literature",
+      "subcategory": "Other Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this cruel boy from a William Golding novel, who tortures Wilfred and kills Ralph's friend while following Jack Merridew.",
+          "answer": "Roger",
+          "acceptableAnswers": [
+            "Roger",
+            "The Roger"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Roger joins Jack Merridew's tribe of hunters in this novel by William Golding. In this novel, a group of young boys crash-land on a deserted island and start a war amongst themselves.",
+          "answer": "Lord of the Flies",
+          "acceptableAnswers": [
+            "Lord of the Flies",
+            "The Lord of the Flies"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Lord of the Flies, Roger rolls a boulder onto this asthmatic boy, killing him. This boy's glasses are used to light signal-fires, and become a trophy of power when Jack takes possession of them.",
+          "answer": "Piggy",
+          "acceptableAnswers": [
+            "Piggy",
+            "The Piggy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Sam-n-eric warn Ralph that this literary character has \"sharpened a stick at both ends\" and plans to use it to kill him. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba971f1"
+    }
+  ]
+}

@@ -1,0 +1,1148 @@
+{
+  "packetId": "packet-011",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Philosophy",
+    "Science",
+    "Fine Arts",
+    "Human Body",
+    "History",
+    "Literature",
+    "Social Science",
+    "Mythology"
+  ],
+  "tossups": [
+    {
+      "id": "8d3ed66e-c126-440e-b5a5-58e66e67692e",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "This condition requires complete markets and perfect information according to the Greenwald-Stiglitz theorem, which is a partial converse to the Arrow-Debreu theorem. Social choice functions cannot have this property if they are \"minimally liberal\" in Sen's \"liberal paradox.\" Compensation loosens this condition to one named for Kaldor and Hicks. All competitive equilibria have this condition according to the first theorem of welfare economics. No one can benefit without another person becoming worse off in, for 10 points, what condition named for an Italian economist?",
+      "powerMarkPosition": 329,
+      "answer": "Pareto optimality",
+      "acceptableAnswers": [
+        "Pareto optimality",
+        "Pareto efficiency",
+        "prompt on efficiency",
+        "optimality",
+        "The Pareto optimality"
+      ],
+      "source": "qbreader",
+      "sourceId": "68fc55d2c262e4078e907107"
+    },
+    {
+      "id": "8c5778b9-42ab-443f-a5a4-b16f5f93db66",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "This person's namesake number is low for tracers in PIV and equals the ratio between a particle's characteristic response time and an obstacle's response time. The Oseen equations build upon a flow regime named for this person that exhibits a low Reynolds number, where no creeping flow can occur around a disk in this person's namesake paradox. 6 pi times viscosity times radius times flow velocity equals a sphere's drag according to a law named for this person, who also names a 3D analog of Green's theorem. This person is the second namesake of a set of equations whose solutions' existence and smoothness are a Millennium Prize problem and describe viscous fluid flow. For 10 points, name this Irish scientist who names those equations with Claude-Louis Navier.",
+      "powerMarkPosition": 511,
+      "answer": "Stokes",
+      "acceptableAnswers": [
+        "Stokes",
+        "Stokes number",
+        "Stokes’ paradox",
+        "Stokes’ law",
+        "The Stokes"
+      ],
+      "source": "qbreader",
+      "sourceId": "673ec00f90236da031c2cf03"
+    },
+    {
+      "id": "6d63e849-6cec-4364-9ef3-8548f183b876",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "This process is can be conducted in the presence of tin octoate, and some products of this process are being used by the RepRap project. A theory that explains the products of this process is derived by considering the occupation of a contiguous set of points in a lattice. When this process yields products which contain many carbamate linkages, it proceeds via a \"step\" mechanism. One form of this process results in the formation of \"propagation centers\" and occurs via a stepped mechanism. This process, whose products are the subject of the Flory-Huggins theory, is often conducted via a radical mechanism, and Ziegler-Natta catalysts perform this process on alkenes. For 10 points, name this process which is divided into initiation, elongation and termination phases, which yields products such as PVC and polystyrene.",
+      "powerMarkPosition": 364,
+      "answer": "polymerization",
+      "acceptableAnswers": [
+        "polymerization",
+        "The polymerization"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c32336"
+    },
+    {
+      "id": "1f0a810a-b77e-4c18-a3b7-c6fe26334278",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "middle_school",
+      "text": "Frank Sinatra was nominated for six of these awards during their first year. The group Pentatonix won one of these awards in 2015 and 2016 for their a cappella arrangement work. For 10 points, name these music awards given by the National Academy of Recording Arts and Sciences.",
+      "powerMarkPosition": 76,
+      "answer": "Grammy",
+      "acceptableAnswers": [
+        "Grammy",
+        "The Grammy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b51f23"
+    },
+    {
+      "id": "0e9aa103-dd12-4fb2-8830-ad700afd2657",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for memory cells. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this T cell-related structure.",
+      "powerMarkPosition": 67,
+      "answer": "T cell",
+      "acceptableAnswers": [
+        "T cell",
+        "T cell"
+      ],
+      "explanation": "The T cell is a key component of the Immune system, involved in memory cells.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e487679a-aa9f-444b-9d91-2ecfaab4d325",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "During the Seven Weeks' War, this man acquired the Danish territory of Schleswig-Holstein. Albert Falk's May Laws were part of this man's campaign against the influence of the Catholic Church, known as Kulturkampf. This man edited the Ems Dispatch to provoke the Franco-Prussian War. In 1862, he gave the Blood and Iron Speech, which urged the unification of the German territories. For 10 points, name this Iron Chancellor of Germany.",
+      "powerMarkPosition": 201,
+      "answer": "Bismarck",
+      "acceptableAnswers": [
+        "Bismarck",
+        "The Bismarck"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e147d"
+    },
+    {
+      "id": "bb1ccb72-f105-42c8-8e5f-a3a89fa547d7",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "Sam Walker led a contingent that embarked from this location in the Powder River Expedition. Colonel Moonlight ordered a reduction in the number of people housed here, leading to the death of Captain Fouts in an ambush. One document named after this location stipulated yearly \"annuity\" payments of fifty thousand dollars, and that document's signing caused the grass around this location to die because the signatories brought so many horses. The Grattan Massacre was perpetrated on troops that were based here. Another document named after this place ignored the claims of the Ponca in creating the Great Sioux Reservation, thus ending Red Cloud's War. For 10 points, give this namesake of 1851 and 1868 treaties with Native Americans, a fort in eastern Wyoming along the Oregon Trail.",
+      "powerMarkPosition": 447,
+      "answer": "Fort Laramie",
+      "acceptableAnswers": [
+        "Fort Laramie",
+        "The Fort Laramie"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d0ba"
+    },
+    {
+      "id": "929ad238-f32f-4009-8a47-364a5f4b4b5a",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "Characters in this man's stories include a poet based on Robert Frost, Asa Bascomb, and a businessman who has an affair with Mrs. Flannagan, Charlie Pastern. Crazy people in this man's works include Paul Hammer, whose attempt to immolate Tony on a church altar is thwarted by the chainsaw-wielding Elliot Nailles, and Miss Dent, who attacks Blake on the five-forty-eight train. Johnny Hake is the titular \"Housebreaker\" of a neighborhood in which several stories like \"The Country Husband\" are set, and he wrote a novel in which the drug-abusing college professor Ezequiel Farragut is being incarcerated in the titular prison. Another novel focuses on Moses, Coverly, and their father Leander, members of the namesake family, and he wrote a story in which Neddy Merrill decides to go home through a series of pools. For 10 points, name this author of The Wapshot Chronicle and \"The Swimmer.\"",
+      "powerMarkPosition": 377,
+      "answer": "Cheever",
+      "acceptableAnswers": [
+        "Cheever",
+        "The Cheever"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b11a8"
+    },
+    {
+      "id": "6968d6e7-c58e-4469-b44d-c84023bbf8b2",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "As all its subjects were male, it was followed by studies which found that females behaved the same, although more nervously, and several other variations including one using a telephone and one using a contact plate. One of the participants, unbeknownst to the rest, was in fact an actor who would bang on the wall separating him from the participant and cite his heart condition, after which he would cease both responding and complaining. Approximately 65% of subjects, who believed they were testing learning methods, continued on, and all administered a 300-volt shock in, For 10 points, what experiment which was actually testing the subjects' willingness to follow authority?",
+      "powerMarkPosition": 441,
+      "answer": "Milgram",
+      "acceptableAnswers": [
+        "Milgram",
+        "obedience experiment",
+        "The Milgram"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fb3a"
+    },
+    {
+      "id": "af9318c8-7ca5-4051-9340-d7633db19318",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "Ancient depictions portray this figure as horse-like in appearance; however, more familiar depictions of her emerged during the fifth century, during which she was given the epithet \"fair-cheeked\". Ovid depicts her as a vain maiden who was raped by Poseidon in the temple of Athena, thereby desecrating it. As the only mortal member of her kind, her head was placed on Athena's shield, the aegis, after she was decapitated by the eventual founder of Mycenae, whereupon Chrysaor and Pegasus emerged from her neck. For 10 points, name this snake-haired deity beheaded by Perseus, the most famous of the gorgons, who turned those who gazed upon her into stone.",
+      "powerMarkPosition": 306,
+      "answer": "Medusa",
+      "acceptableAnswers": [
+        "Medusa",
+        "The Medusa"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895997a0d8ea074be7b0b"
+    },
+    {
+      "id": "9151b07c-5979-4c5b-b577-62e6d3e55881",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "The lunar month of this number includes the \"Old\" form of a festival where fires are lit at house entrances in mukae-bon (\"MOO-kah-ay-bone\"). In Japan, it is customary to eat rice porridge with this many herbs on this number's day in January. Ebisu and Daikoku are part of a group of this number of lucky gods venerated in Japan. The lunar month of this number is the traditional time for Getai performances and the Obon festival. The lunar month of this number contains the birthday of Di Guan Da Di, one of the \"Three Officials\" linked with a celebration on its fifteenth day. The Zhongyuan (\"ZHOE'ng-wahn\") or Yulanpen festival occurs in the lunar month of this number, the month of ghosts. Many cultures consider the Pleiades a group of this many sisters. For 10 points, name this luckiest number in American culture.",
+      "powerMarkPosition": 486,
+      "answer": "seven",
+      "acceptableAnswers": [
+        "seven",
+        "7",
+        "accept qī",
+        "accept shichi",
+        "nana",
+        "The seven"
+      ],
+      "source": "qbreader",
+      "sourceId": "67cb4e0fa4d5f0b0e22abf72"
+    },
+    {
+      "id": "77919bee-f9e4-40a0-84dc-ed38bfda003e",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "Dawit Wolde Giorgis's Red Tears chronicles his attempts to stop one of these events. One of these events was brought to public attention through a film shot in Korem by Mohamed Amin that was broadcast on the BBC. The disparate North/South impact of one of these events in 1945 helped precipitate the Vietnam War. President Mengistu was criticized for spending $150 million on an anniversary celebration during one of these events. A 1943 example in Bengal was blamed on poor resource allocation by Amartya Sen, while a more famous one inspired the song \"Do They Know It's Christmas?\" and the Live Aid concert. Ethiopia was ravaged in the 1980s by, for 10 points, what kind of event often triggered by drought and characterized by massive food shortages?",
+      "powerMarkPosition": 432,
+      "answer": "Famine",
+      "acceptableAnswers": [
+        "Famine",
+        "precise equivalents like \"food specific examples like Ethiopian Famine",
+        "prompt on \"drought\"",
+        "The Famine"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae91e"
+    },
+    {
+      "id": "a00a18db-24f2-42bd-bdb4-44a68ea84332",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for carbon dioxide transport. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this diffusion-related structure.",
+      "powerMarkPosition": 98,
+      "answer": "Diffusion",
+      "acceptableAnswers": [
+        "diffusion",
+        "Diffusion"
+      ],
+      "explanation": "The diffusion is a key component of the Respiratory system, involved in carbon dioxide transport.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "20ea6707-3f74-4ca4-b9a6-08456e8ccb95",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "At the inaugurations of Roman emperors, the Senate would wish for the new emperor to be luckier than this emperor and better than Trajan. This emperor's namesake forum contains the Temple of Mars the Avenger, and the Ara Pacis, an altar to Pax, was erected in this emperor's honor. This emperor reportedly shouted, \"Quintilius Varus, give me back my legions!\" after Arminius defeated Quintilius Varus at the Teutoburg Forest. This emperor's general Agrippa helped him win the Battle of Actium, where he defeated his chief rival Mark Antony. For 10 points, name this adopted son of Julius Caesar who was the first Roman emperor.",
+      "powerMarkPosition": 407,
+      "answer": "Augustus",
+      "acceptableAnswers": [
+        "Augustus",
+        "Octavian",
+        "Gaius Octavius",
+        "The Augustus"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b534ea"
+    },
+    {
+      "id": "41cc94dc-6f93-4123-8a24-61cd17bc3d26",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for blood pressure regulation. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this systole-related structure.",
+      "powerMarkPosition": 81,
+      "answer": "Systole",
+      "acceptableAnswers": [
+        "systole",
+        "Systole"
+      ],
+      "explanation": "The systole is a key component of the Cardiovascular system, involved in blood pressure regulation.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c4ac2e59-29c6-4516-beb9-4a11a7894dec",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "Bartolomé Arzáns de Orsúa (\"ar-SAHNS de or-SOO-ah\") recounts an incident in which he felt nauseous after being peer pressured into consuming this good by miners who said that not doing so would ruin their metal. A president from the Movement to Socialism developed a slogan saying \"yes to\" this crop, which he formerly farmed. Since 2000, campaigns against this good using drones to spray glyphosate (\"GLY-fuh-sate\") from the air have brualized peasants who grow it. John Stith Pemberton combined a west African nut with this good to form the name of his most famous invention. This crop was used as a stimulant by miners at Potosí in Bolivia, whose current president, Evo Morales, is an enthusiastic promoter of chewing it. For 10 points, name this crop that Pablo Escobar processed into a drug often sourced from Colombia.",
+      "powerMarkPosition": 477,
+      "answer": "coca",
+      "acceptableAnswers": [
+        "coca",
+        "cocaine",
+        "prompt on Coca-Cola",
+        "do not accept “cocoa”",
+        "“cacao”",
+        "The coca"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f072b47434cffff7b5a0c8"
+    },
+    {
+      "id": "4c09f995-7995-4723-af57-9e0a99bdcd24",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "These devices mimic interferometers in Aaronson and Arkhipov's boson-sampling problem. These devices can perform an analog of simulated annealing via slow evolution of the Hamiltonian that makes them \"adiabatic.\" Andrew Steane developed a scheme that avoids constraints imposed on these devices by the no-cloning theorem. Components of these devices are represented as points on Bloch spheres, in which a reflection over a diagonal axis is induced by a Hadamard gate. EPR pairs can enable information transfer in these devices. These devices have achieved \"supremacy\" while operating at near-zero temperatures via entanglement. For 10 points, name these computers that store information in superposition with qubits.",
+      "powerMarkPosition": 467,
+      "answer": "quantum computer",
+      "acceptableAnswers": [
+        "quantum computer",
+        "quantum after “computers” is read",
+        "accept adiabatic quantum computing",
+        "prompt on qubits by asking “what devices are composed of qubits?”",
+        "prompt on computers",
+        "The quantum computer"
+      ],
+      "source": "qbreader",
+      "sourceId": "666dc6c89f7c4cfdbd6787e2"
+    },
+    {
+      "id": "083ef7a5-69a9-45c3-b84d-c005c9ed9388",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for b cells and antibodies. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this T cell-related structure.",
+      "powerMarkPosition": 77,
+      "answer": "T cell",
+      "acceptableAnswers": [
+        "T cell",
+        "T cell"
+      ],
+      "explanation": "The T cell is a key component of the Immune system, involved in b cells and antibodies.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "cd203bd5-c3cc-4bac-b5af-4dbf63551a3b",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "This man compared himself to a midwife because he helped others \"give birth\" to good ideas. This thinker, who quipped that \"an unexamined life is not worth living\", frequently proclaimed his ignorance with statements like \"I know that I know nothing\". This thinker was forced to drink hemlock for corrupting the youth of Athens. A \"method\" of discussion is named after, for 10 points, what Greek philosopher, the teacher of Plato?",
+      "powerMarkPosition": 284,
+      "answer": "Socrates",
+      "acceptableAnswers": [
+        "Socrates",
+        "Socratic method",
+        "The Socrates"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef79cbbbb69a5263cdc4"
+    },
+    {
+      "id": "c2aa090c-0fee-48d6-b3d6-7e694f51e089",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "This author coined the phrase \"Fools rush in where angels fear to tread\" in one poem. This poet noted that \"the proper study of mankind is man\" in a poem comprised of four epistles. This author also wrote that \"a little learning is a dang'rous thing\", and \"to err is human, to forgive, divine\" in a poem which uses heroic couplets, \"An Essay on Criticism\". In another poem by this author, the sylph Ariel tries to defend Belinda's hair from the Baron and his scissors. For 10 points, name this English poet and satirist, the author of \"The Rape of the Lock\".",
+      "powerMarkPosition": 356,
+      "answer": "Pope",
+      "acceptableAnswers": [
+        "Pope",
+        "The Pope"
+      ],
+      "source": "qbreader",
+      "sourceId": "6413cd99fdc648a1ed70972b"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "494cbe4d-be30-46c2-b4f1-b13898d6b799",
+      "linkedTossupId": "8d3ed66e-c126-440e-b5a5-58e66e67692e",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this group whose \"condition\" in England was reported on in an 1845 book that preceded its author's tract The Communist Manifesto.",
+          "answer": "working class",
+          "acceptableAnswers": [
+            "working class",
+            "proletariat",
+            "the labouring class",
+            "The working class"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man published The Condition of the Working Class in England after researching there, though he is probably better known for collaborating with Karl Marx on the Communist Manifesto.",
+          "answer": "Engels",
+          "acceptableAnswers": [
+            "Engels",
+            "Frederick Engels",
+            "The Engels"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Marx and Engels claimed in The German Ideology that self-proclaimed German \"true socialists\" often attempt to \"eulogise\" this term. Socialism described by this term is most commonly contrasted with Utopian socialism.",
+          "answer": "science",
+          "acceptableAnswers": [
+            "science",
+            "“German science”",
+            "scientific",
+            "The science"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "New Left historian E.P. Thompson analyzed the Luddite movement in a book on the \"making of\" this group in England. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52d75"
+    },
+    {
+      "id": "86d43707-6002-41b4-89eb-c12fdf37791c",
+      "linkedTossupId": "8c5778b9-42ab-443f-a5a4-b16f5f93db66",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this quantity, symbolized lambda, which is equal to the distance between consecutive crests or troughs of a wave.",
+          "answer": "wavelength",
+          "acceptableAnswers": [
+            "wavelength",
+            "The wavelength"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rayleigh scattering is an example of this type of scattering. This word describes collisions in which the total kinetic energy is conserved.",
+          "answer": "elastic",
+          "acceptableAnswers": [
+            "elastic",
+            "elastic collisions",
+            "The elastic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other type of scattering is the inelastic counterpart of Rayleigh scattering. This process can lead to Stokes or anti-Stokes transitions when an absorbed photon is re-emitted.",
+          "answer": "Raman",
+          "acceptableAnswers": [
+            "Raman",
+            "The Raman"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The frequency of Rayleigh scattering is inversely proportional to the fourth power of this quantity. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631674033d364b3265eaf101"
+    },
+    {
+      "id": "4edabf58-958d-4c9c-ae1b-e29670aee472",
+      "linkedTossupId": "6d63e849-6cec-4364-9ef3-8548f183b876",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this process that occurs at mid-ocean ridges where new oceanic crust is formed as tectonic plates move apart from each other.",
+          "answer": "seafloor spreading",
+          "acceptableAnswers": [
+            "seafloor spreading",
+            "The seafloor spreading"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Patterns of magnetic striping near mid-ocean ridges provide evidence for these events. The lengths of time between these events are called \"chrons\" [\"krons\"].",
+          "answer": "geomagnetic",
+          "acceptableAnswers": [
+            "geomagnetic",
+            "descriptive answers like the Earth’s magnetic field flipping",
+            "The geomagnetic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Vine-Matthews-Morley hypothesis was an early test of plate tectonics theory which posited that the patterns of magnetic striping around a mid-ocean ridge should have this property.",
+          "answer": "symmetric",
+          "acceptableAnswers": [
+            "symmetric",
+            "The symmetric"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Hydrothermal vents are commonly found in regions where this process is occurring. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6406d0dee39f8dfd08fc25b0"
+    },
+    {
+      "id": "58462fa9-9f0c-4552-9833-b888ea3509f0",
+      "linkedTossupId": "1f0a810a-b77e-4c18-a3b7-c6fe26334278",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This wife of Alfred Stieglitz painted Ram's Head White Hollyhock and Little Hills, a large cattle skull with a white and yellow flower, and other works of the American Southwest.",
+          "answer": "O’Keeffe",
+          "acceptableAnswers": [
+            "O’Keeffe",
+            "The O’Keeffe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This artist was painted several covers for the Saturday Evening Post, including Rosie the Riveter and the Four Freedoms.",
+          "answer": "Rockwell",
+          "acceptableAnswers": [
+            "Rockwell",
+            "The Rockwell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This photographer developed the Zone System and is best known for his pictures of Yosemite National Park, including El Capitan and Moon and Half Dome.",
+          "answer": "Adams",
+          "acceptableAnswers": [
+            "Adams",
+            "The Adams"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these twentieth century American artists.",
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b76e"
+    },
+    {
+      "id": "16b956b8-c0d3-4cc2-bb7b-d4b94297f532",
+      "linkedTossupId": "0e9aa103-dd12-4fb2-8830-ad700afd2657",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with bone development and growth.",
+          "answer": "skull",
+          "acceptableAnswers": [
+            "skull"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the skull in the musculoskeletal system?",
+          "answer": "Bone development and growth",
+          "acceptableAnswers": [
+            "Bone development and growth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to bone development and growth.",
+          "answer": "vertebra",
+          "acceptableAnswers": [
+            "vertebra"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "43ea0117-a7f9-4fa2-bdf7-be4b967dfc62",
+      "linkedTossupId": "e487679a-aa9f-444b-9d91-2ecfaab4d325",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This word came from Norwegian and describes an inlet with steep cliff sides.",
+          "answer": "fjord",
+          "acceptableAnswers": [
+            "fjord",
+            "The fjord"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Shah Jahan in India had this massive building constructed as a tomb for his wife Mumtaz.",
+          "answer": "Taj Mahal",
+          "acceptableAnswers": [
+            "Taj Mahal",
+            "The Taj Mahal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A chipotle is a roasted version of this kind of pepper.",
+          "answer": "jalapeño",
+          "acceptableAnswers": [
+            "jalapeño",
+            "The jalapeño"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these words from around the world that each contain the letter J pronounced in different ways:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c7f0"
+    },
+    {
+      "id": "cade8d92-5ec9-4c5b-8968-7cafdf5a553f",
+      "linkedTossupId": "bb1ccb72-f105-42c8-8e5f-a3a89fa547d7",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The House of Wisdom was patronized by the rulers of this caliphate, which was governed from Baghdad until its 1258 sacking by Hulagu Khan. This caliphate overtook the Umayyads (OO-\"my\"-ahds) in 750 CE.",
+          "answer": "Abbasid",
+          "acceptableAnswers": [
+            "Abbasid",
+            "Khilafah al-‘Abbasiyah",
+            "accept Abbasid dynasty",
+            "Abbasids",
+            "The Abbasid"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This fifth caliph of the Abbasid Empire founded the House of Wisdom. His court sent a number of extravagant gifts to Charlemagne, including a water clock and an elephant named Abul-Abbas.",
+          "answer": "Harun",
+          "acceptableAnswers": [
+            "Harun",
+            "Harun al-Rasid",
+            "accept Harun the Just",
+            "Harun the Rightly-Guided",
+            "Aaron the Just",
+            "Aaron the Rightly Guided",
+            "prompt on “Harun”",
+            "“al-Rashid”",
+            "“Aaron”",
+            "The Harun"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The House of Wisdom employed the Banu Musa, a group of three brothers who collected their research into this publication. This work, first published in 850 CE, describes fanciful automata such as a programmable flute player.",
+          "answer": "Book of Ingenious Devices",
+          "acceptableAnswers": [
+            "Book of Ingenious Devices",
+            "Kitab al-Hiyal",
+            "The Book of Ingenious Devices"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about the House of Wisdom, the most happening library in medieval Baghdad.",
+      "source": "qbreader",
+      "sourceId": "64307e9f1357bcd3ef98b83f"
+    },
+    {
+      "id": "cb31d9fc-e31d-424e-a73e-d480d085b8a2",
+      "linkedTossupId": "929ad238-f32f-4009-8a47-364a5f4b4b5a",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this poem, whose speaker uses the unimportance of the title creature's bite as proof the addressee should sleep with him.",
+          "answer": "Flea",
+          "acceptableAnswers": [
+            "Flea",
+            "The Flea"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man wrote \"The Flea.\" Other poems of his include a farewell to his wife entitled \"A Valediction: Forbidding Mourning,\" and some Holy Sonnets.",
+          "answer": "Donne",
+          "acceptableAnswers": [
+            "Donne",
+            "The Donne"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Donne argues for the interconnectedness of all people and tells his audience to \"never send to know for whom the bell tolls\" because \"it tolls for thee\" in \"Meditation XVII\" of this collection.",
+          "answer": "Devotions Upon Emergent Occasions",
+          "acceptableAnswers": [
+            "Devotions Upon Emergent Occasions",
+            "The Devotions Upon Emergent Occasions"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The speaker calls the title creature \"our marriage bed, and marriage temple\" since in it, \"our two bloods mingled be.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271cedbad"
+    },
+    {
+      "id": "35a0a2d7-e1f4-4182-bca0-0b01c311f8eb",
+      "linkedTossupId": "6968d6e7-c58e-4469-b44d-c84023bbf8b2",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this practice whose \"foreign\" form is currently illegal within the United States at the national and state levels. The Borda count is one way of performing it.",
+          "answer": "voting",
+          "acceptableAnswers": [
+            "voting",
+            "word forms",
+            "elections",
+            "The voting"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This theorem, postulated by Anthony Downs, suggests that parties in a two-party system will attempt to appeal to the namesake voter in order to win the largest share of the population possible.",
+          "answer": "median",
+          "acceptableAnswers": [
+            "median",
+            "The median"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The median voter theorem is similar to a theorem named for this economist; it says that producers have incentives to make their products as undifferentiated as possible. Similarly, his location-based pricing model says that on a single street, it is rational for two shops to both locate at the center.",
+          "answer": "Hotelling",
+          "acceptableAnswers": [
+            "Hotelling",
+            "The Hotelling"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The \"Demeny\" form of this practice was proposed in 2007 by Warren Sanderson to allow for children to indirectly participate. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a4e27"
+    },
+    {
+      "id": "bb5dc62c-a77f-4672-be44-293cca0f154a",
+      "linkedTossupId": "af9318c8-7ca5-4051-9340-d7633db19318",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this queen of Mount Olympus, the wife of Zeus.",
+          "answer": "Hera",
+          "acceptableAnswers": [
+            "Hera",
+            "The Hera"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hera is associated with peacocks because their eye-like designs commemorate the hundred-eyes of this man, her henchman. After Hermes put all of this watchman's eyes to sleep, he slew him with a stone.",
+          "answer": "Argus",
+          "acceptableAnswers": [
+            "Argus",
+            "The Argus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hera once got in an argument with this priest about whether men or women enjoyed intercourse more, as he had previously transformed into a woman after hitting two mating snakes with a stick.",
+          "answer": "Tiresias",
+          "acceptableAnswers": [
+            "Tiresias",
+            "The Tiresias"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This goddess who sent two serpents to kill the infant Heracles was frequently associated with peacocks, and was described by Homer as being \"cow-eyed.\" For 10 points:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97424573"
+    },
+    {
+      "id": "840cea67-d0d6-4523-95b6-3ef262b49452",
+      "linkedTossupId": "9151b07c-5979-4c5b-b577-62e6d3e55881",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this philosopher who wrote a major twelfth-century defence of philosophical metaphysics in response to the book The Incoherence of the Philosophers.",
+          "answer": "Averroes",
+          "acceptableAnswers": [
+            "Averroes",
+            "Abū l-Walīd Muhammad Ibn Ahmad Ibn Rushd",
+            "The Averroes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In his political philosophy, Averroes claimed that the ideal state would be based on this religious law of Islam. Interpreters of this form of law practice fiqh.",
+          "answer": "sharia",
+          "acceptableAnswers": [
+            "sharia",
+            "The sharia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Early on, Averroes studied this school of Sunni theology, of which al-Ghazālī was a major proponent. This school is known for taking a \"middle of the road\" stance on the use of reason and debate within theology.",
+          "answer": "Ash’arī",
+          "acceptableAnswers": [
+            "Ash’arī",
+            "Ash’arite school",
+            "Ash’arism",
+            "The Ash’arī"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Siger [SEE-zhay] of Brabant attempted to defend this philosopher with the notion of a \"double\" truth, by which reason and faith can simultaneously uphold opposed doctrines. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c2fba161cf1fc5965535"
+    },
+    {
+      "id": "f5f9b018-6b31-4200-a565-2b62dafeba87",
+      "linkedTossupId": "77919bee-f9e4-40a0-84dc-ed38bfda003e",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this ancient kingdom, which occupied similar borders to present-day Algeria.",
+          "answer": "Numidia",
+          "acceptableAnswers": [
+            "Numidia",
+            "The Numidia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This grandson of Masinissa killed his rivals, Adherbal and Hiempsal, and antagonized Rome during his reunification of Numidia, leading to a war with Rome, chronicled by Sallust.",
+          "answer": "Jugurtha",
+          "acceptableAnswers": [
+            "Jugurtha",
+            "The Jugurtha"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man succeeded Quintus Metellus as commander against Jugurtha and won the war, though his quaestor Sulla accepted Jugurtha's surrender, beginning the rift between the two.",
+          "answer": "Marius",
+          "acceptableAnswers": [
+            "Marius",
+            "The Marius"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It was united by Masinissa in the wake of the Second Punic War. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a984131d"
+    },
+    {
+      "id": "0a3775cd-0f80-42c5-8716-c60894c822f3",
+      "linkedTossupId": "a00a18db-24f2-42bd-bdb4-44a68ea84332",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with joint movements.",
+          "answer": "synovial",
+          "acceptableAnswers": [
+            "synovial"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the synovial in the musculoskeletal system?",
+          "answer": "Joint movements",
+          "acceptableAnswers": [
+            "Joint movements"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to joint movements.",
+          "answer": "cartilage",
+          "acceptableAnswers": [
+            "cartilage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "74dfb8e8-b8ed-4361-9f09-650460a3e6f2",
+      "linkedTossupId": "20ea6707-3f74-4ca4-b9a6-08456e8ccb95",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this rival of future pope Julius II, who divided the New World between Spain and Portugal after his election in 1492.",
+          "answer": "Alexander VI",
+          "acceptableAnswers": [
+            "Alexander VI",
+            "Rodrigo Borgia",
+            "Rodrigo Lanzol Borgia",
+            "Roderic Llançol i de Borja",
+            "accept any previous underlined part",
+            "prompt on \"Alexander\"",
+            "The Alexander VI"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Alexander VI was part of this infamous Spanish-Italian family. Other members of this family included the rumoured poisoner Lucrezia.",
+          "answer": "Borgia",
+          "acceptableAnswers": [
+            "Borgia",
+            "Lucrezia Borgia",
+            "The Borgia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A French king of this name, nicknamed \"the Affable,\" invaded Italy during Alexander VI's papacy. Another king of this name won the Hundred Years' War against Britain.",
+          "answer": "Charles",
+          "acceptableAnswers": [
+            "Charles",
+            "Charles VIII",
+            "Charles VII",
+            "The Charles"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "[NOTE TO MODERATOR: Do NOT reveal alternate answer lines to the first bonus part unless given by the team.] This Pope made his son Cesare a cardinal, but his son later resigned that office. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f86328cdb0cbb3f4645c2b"
+    },
+    {
+      "id": "1505d746-092e-4421-a487-94599e6b3eb0",
+      "linkedTossupId": "41cc94dc-6f93-4123-8a24-61cd17bc3d26",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with sliding filament theory.",
+          "answer": "contraction",
+          "acceptableAnswers": [
+            "contraction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the contraction in the musculoskeletal system?",
+          "answer": "Sliding filament theory",
+          "acceptableAnswers": [
+            "Sliding filament theory"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to sliding filament theory.",
+          "answer": "troponin",
+          "acceptableAnswers": [
+            "troponin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "8b4ce4d7-6d36-4f80-b3b7-5f1e63add998",
+      "linkedTossupId": "c4ac2e59-29c6-4516-beb9-4a11a7894dec",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these animals. In addition to providing veterinary advice, various furūsīyah treatises instruct how to hunt or play polo while riding these animals.",
+          "answer": "horse",
+          "acceptableAnswers": [
+            "horse",
+            "The horse"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "When adapting furūsīyah horsemanship from Abbasid traditions, the Mamluks emphasized military training to counter Mongol aggression, which they halted at this 1260 battle. Baibars assassinated Qutuz, declaring himself sultan, after this battle.",
+          "answer": "Ain Jalut",
+          "acceptableAnswers": [
+            "Ain Jalut",
+            "Battle of Ayn Jalut",
+            "The Ain Jalut"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The practice of furūsīyah likely influenced the Book of Chivalry, written after Geoffroi de Charny's participation in this Europe-based conflict. Jean Froissart discussed chivalry during this conflict in the Chronicles.",
+          "answer": "Hundred Years",
+          "acceptableAnswers": [
+            "Hundred Years",
+            "The Hundred Years"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These animals provided the basis of a practice known as furūsīyah popular in the Mamluk Sultanate. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52fb4"
+    },
+    {
+      "id": "8bc93496-3065-48bf-bdd5-87630e174b67",
+      "linkedTossupId": "4c09f995-7995-4723-af57-9e0a99bdcd24",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these compounds containing both an NH2 group and a COOH group, known as the \"building blocks of proteins.\"",
+          "answer": "amino acid",
+          "acceptableAnswers": [
+            "amino acid",
+            "The amino acid"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This simplest and only non-chiral amino acid has a hydrogen atom as its side chain and is found in collagen.",
+          "answer": "glycine",
+          "acceptableAnswers": [
+            "glycine",
+            "Gly",
+            "G",
+            "The glycine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One variant of this amino acid contains selenium instead of the usual sulfur in its thiol side chain. It can be oxidized to form a dimeric amino acid containing a disulfide bond.",
+          "answer": "cysteine",
+          "acceptableAnswers": [
+            "cysteine",
+            "Cys",
+            "C",
+            "The cysteine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These molecules occur as zwitterions and are joined together via peptide bonds. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1717"
+    },
+    {
+      "id": "d1d3c416-eb98-4c8b-b163-5b7917c1f1c0",
+      "linkedTossupId": "083ef7a5-69a9-45c3-b84d-c005c9ed9388",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with skeletal muscle structure.",
+          "answer": "sarcomere",
+          "acceptableAnswers": [
+            "sarcomere"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the sarcomere in the musculoskeletal system?",
+          "answer": "Skeletal muscle structure",
+          "acceptableAnswers": [
+            "Skeletal muscle structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to skeletal muscle structure.",
+          "answer": "myofibril",
+          "acceptableAnswers": [
+            "myofibril"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "7cb33db4-2896-421b-8366-da20b963e6f4",
+      "linkedTossupId": "cd203bd5-c3cc-4bac-b5af-4dbf63551a3b",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This saint was imprisoned, beaten, and beheaded for providing marriages to Christian couples. This patron saint of love is commemorated on February 14.",
+          "answer": "Valentine",
+          "acceptableAnswers": [
+            "Valentine",
+            "The Valentine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This saint, the namesake of an order of friars, was followed by Saint Clare and died from his stigmata after a long fast. This Italian is the patron saint of animals.",
+          "answer": "Francis",
+          "acceptableAnswers": [
+            "Francis",
+            "The Francis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This \"doubting\" Apostle was legendarily martyred in India, where he was impaled on a lance.",
+          "answer": "Thomas",
+          "acceptableAnswers": [
+            "Thomas",
+            "The Thomas"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Being an early Christian was risky business. Identify these saints by their deaths, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acd77"
+    },
+    {
+      "id": "799ada30-cec7-4eb9-a331-8739e16f5528",
+      "linkedTossupId": "c2aa090c-0fee-48d6-b3d6-7e694f51e089",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Wayland the Smith falls in love with a maiden who is able to transform into one of these animals. Another fairy tale describes an ugly duckling who turns out to be a beautiful one of these great big northern birds.",
+          "answer": "swan",
+          "acceptableAnswers": [
+            "swan",
+            "cygnets",
+            "The swan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This evil nobleman with a notable facial feature marries young, beautiful women only to murder and dismember them inside his castle.",
+          "answer": "Bluebeard",
+          "acceptableAnswers": [
+            "Bluebeard",
+            "Barbe bleu",
+            "The Bluebeard"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this story collected by the Brothers Grimm, a miller's daughter discovers that her suitor is actually part of a bandit troupe that kills and eats young women. She tells this story in between assurances to her audience that it was only a dream.",
+          "answer": "Robber Bridegroom",
+          "acceptableAnswers": [
+            "Robber Bridegroom",
+            "“Mr. Fox”",
+            "The Robber Bridegroom"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about European fairy tales:",
+      "source": "qbreader",
+      "sourceId": "631674023d364b3265eaeffd"
+    }
+  ]
+}

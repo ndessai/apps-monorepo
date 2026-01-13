@@ -1,0 +1,1133 @@
+{
+  "packetId": "packet-073",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Literature",
+    "Science",
+    "Human Body",
+    "Social Science",
+    "Geography",
+    "Philosophy",
+    "History",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "c4884086-1370-44a1-ab35-f48272d262e3",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "In a poem by this poet, the speaker says that \"You are not made of metaphors, not apologies, not excuses.\" In one poem, this poet imagines telling someone, \"don't keep your nose up in the air like that, I know that trick,\" and wanting them to \"see the world through the underside of a glass bottom boat.\" A video for a poem by this poet structured around phrases like \"if you grow up the type of woman men want to love\" and \"you can let them love you\" has 3 million views on Button Poetry's YouTube channel. This poet frequently performs poems such as \"An Origin Story\" and \"When Love Arrives\" with her friend from her freshman year of college named Phil who shares a homophonic last name with this poet. A poem by this poet made famous through a TED Talk performance of it opens by saying that \"Instead of 'Mom', she's gonna call me 'Point B.'\" For 10 points, name this American poet known for her spoken word poetry, including a viral performance of her poem \"B (If I Should Have A Daughter).\"",
+      "powerMarkPosition": 551,
+      "answer": "Kay",
+      "acceptableAnswers": [
+        "Kay",
+        "The Kay"
+      ],
+      "source": "qbreader",
+      "sourceId": "62edbcdd3f92cea3563af1bd"
+    },
+    {
+      "id": "00397a83-5db5-4258-bd15-219782b9275c",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "The \"flatness problem\" was solved by this idea, which opposed the steady-state model. This event was predicted by relativity, which posits a time at which the universe had infinite temperature and density. The cosmic microwave background provides evidence for this event, which was followed by a period of rapid inflatioṇ . The universe expanded from a single point during, for 10 points, what explosive event that marks the beginning of known time?",
+      "powerMarkPosition": 226,
+      "answer": "Big Bang",
+      "acceptableAnswers": [
+        "Big Bang",
+        "descriptive answers like the birth of the universe",
+        "The Big Bang"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef79cbbbb69a5263ce88"
+    },
+    {
+      "id": "99a2c03d-48fd-40e0-91fc-26fe7f23f343",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for layers of the heart wall. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this atrium-related structure.",
+      "powerMarkPosition": 81,
+      "answer": "Atrium",
+      "acceptableAnswers": [
+        "atrium",
+        "Atrium"
+      ],
+      "explanation": "The atrium is a key component of the Cardiovascular system, involved in layers of the heart wall.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "197bc8d8-7e86-496f-b54d-83e613c46b22",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "Alan Shipman wrote about the \"myth\" of this topic, claiming that its opponents have tried to \"[defuse] the Western class war\" via the shifting of alienation. The \"race to the bottom\" is often attributed to this phenomenon, which John Gray has described as a post-Cold War \"American project.\" Paul Krugman quipped that \"If there were an Economist's Creed, it would surely contain\" two affirmations underlying this process's economic neoliberalism. George Ritzer discussed this process in terms of \"McDonaldization,\" and Joseph Stiglitz wrote about it and its \"Discontents.\" This is the topic of Thomas Friedman's The World is Flat, which argues that historical political divisions are growing increasingly meaningless. For 10 points, name this phenomenon of growing interconnectedness in the world's economy.",
+      "powerMarkPosition": 431,
+      "answer": "globalization",
+      "acceptableAnswers": [
+        "globalization",
+        "free trade",
+        "universalization",
+        "prompt on neoliberalism",
+        "prompt on McDonaldization until read",
+        "The globalization"
+      ],
+      "source": "qbreader",
+      "sourceId": "6406d0dee39f8dfd08fc2508"
+    },
+    {
+      "id": "0bbfa1f4-2efb-4eb9-ae29-9729ce51125f",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "One river in this region contains the Friedenau Dam, which provides water to the Matchless Mine, and flows from the Khomas Highlands-that is the Kuiseb River. The namesake park of this region contains species like Rüppell‟s korhaan and the Fogstand beetle, as well as the Naukluft Mountain Range, whose southern end contains the town of Sesriem. This region‟s highest point is Brandberg Mountain, located near the town of Erongo in Damaraland. The northern part of this desert is known as Kaokoveld and experiences cool temperatures because of the Benguela Current. This desert is the namesake of a golden mole and contains cities such as Luderitz and Swakopmund. It also contains an area named for collecting the remains of ships and fish, the Skeleton Coast, and the city of Walvis Bay. For 10 points, name this desert which runs along the Atlantic coast south from Angola and into the country it is named after.",
+      "powerMarkPosition": 345,
+      "answer": "Namib",
+      "acceptableAnswers": [
+        "Namib",
+        "Kuiseb River before it is mentioned",
+        "accept Namibia before park",
+        "The Namib"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df3a4b1c64d9772f73886b"
+    },
+    {
+      "id": "7a9db33c-72e1-401a-bf20-a8c32b1283d4",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "Organic molecules on this satellite suggest that life might be possible despite the surface temperature of 94 degrees Kelvin. In 2004, the Huygens probe will land on this moon, providing the first photos of its surface. For 10 points-name this only satellite in the solar system with a significant atmosphere, the largest moon of Saturn.",
+      "powerMarkPosition": 125,
+      "answer": "Titan",
+      "acceptableAnswers": [
+        "Titan",
+        "The Titan"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841e06"
+    },
+    {
+      "id": "cf46bb16-e2d5-4a1f-b998-e3152de42906",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "This technique is the subject of the former Backster School in San Diego, which moved to the PEAK center in Cape Coral. A co-inventor of this technique nicknamed \"Nard\" runs it as a cameo in the 1948 film Call Northside 777. A camera is added to this technique in a \"Silent Talker\" test. This technique was developed by August Vollmer and John Augustus Larson in Berkeley. Countermeasures to this technique include \"confidence and a friendly relationship\" according to Aldrich Ames. This technique, which is often used alongside voice stress analysis, has been criticized by Paul Ekman for missing micro·expressions and manipulation during its control questions. For 10 points, name this technique that measures blood pressure, pulse, and skin conductivity to determine if a suspect is telling the truth.",
+      "powerMarkPosition": 414,
+      "answer": "polygraph",
+      "acceptableAnswers": [
+        "polygraph",
+        "lie detector test",
+        "word forms",
+        "accept Silent Talker Lie Detector",
+        "The polygraph"
+      ],
+      "source": "qbreader",
+      "sourceId": "68846959641a9dc975af829a"
+    },
+    {
+      "id": "c29b8c2b-1898-4a53-9c1a-e89b39fef62a",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "One chapter of a book specific to this sect recounts a story about a man who gets stung by the evil eye after seeing a shooting star blaze through the sky. This sect forbade the construction of tombs in burial sites and consider many doctrines developed during the \"state of ignorance\" to be nothing more than \"reprehensible innovations.\" Some members of this school deem as \"bid'a\" the usage of prayer beads, probably because of the garish ebony prayer beads used by sultans. Soldiers of this sect formed a national guard called the Ikhwan, united against such idolatries celebrating the birthday of the Prophet. They emphasize the absolute oneness of God, or Tawhid, call themselves Unitarians, and revolted against the Ottomans after being united by their 18th century founder. For 10 points, name this Muslim movement to return to the roots of early Islam, considered to be the root of Islamic fundamentalism.",
+      "powerMarkPosition": 476,
+      "answer": "Wahhabi",
+      "acceptableAnswers": [
+        "Wahhabi",
+        "The Wahhabi"
+      ],
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e711d"
+    },
+    {
+      "id": "21073631-4b8a-477a-a6fc-e206fbc158e8",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "Specific term required. Popular opposition to this policy action was compared to Catharine Macaulay's 18th century account of the English Civil War's outbreak in a politician's memoir A Nation in Making. This policy action created a radical faction in the Surat Split. This action was called \"settled fact\" by its decision-maker, who enlisted Khwaja Salimullah to defend it. A popular self-sufficiency movement protesting this action was led by the \"Lal Bal Pal\" trio. That protest movement led to the Minto-Morley Reforms before Lord Hardinge undid this action completely. The Swadeshi Movement formed to protest Lord Curzon taking this action to cool nationalist sentiment, and pushed the British to move their capital to Delhi from Kolkata. For 10 points, name this decision taken to split, on religious lines, a namesake Presidency into \"East\" and \"West\" states.",
+      "powerMarkPosition": 577,
+      "answer": "Partition of Bengal",
+      "acceptableAnswers": [
+        "Partition of Bengal",
+        "The Partition of Bengal"
+      ],
+      "source": "qbreader",
+      "sourceId": "689a0d602d8608f4ad851520"
+    },
+    {
+      "id": "14aa8302-81c0-4450-ab63-0930f6680c20",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "Richard Lenski has studied long-term evolution in this organism. The disease hemolytic uremic syndrome occurs after an infection with this organism. In another experiment, this organism was used to prove that DNA undergoes semi-conservative replication. A strain of this organism, 0157:H7, produces Shiga-like toxins that damage the lining of blood vessels in the intestine. For 10 points, name this bacterium that can be acquired by consuming undercooked ground beef.",
+      "powerMarkPosition": 253,
+      "answer": "E. coli",
+      "acceptableAnswers": [
+        "E. coli",
+        "Escherichia coli",
+        "The E. coli"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee3f4"
+    },
+    {
+      "id": "8ea04bb4-1452-419d-8253-e9c94ee573cd",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "Fuseli and Corot both painted scenes from this play. The rivals of the title character include Menteith, Caithness, Lennox, and Siward, who march their armies to Birnam Wood and then toward Dunsinane. For 10 points, name this shortest and bloodiest of Shakespeare's tragedies, a play set in Scotland.",
+      "powerMarkPosition": 200,
+      "answer": "Macbeth",
+      "acceptableAnswers": [
+        "Macbeth",
+        "The Macbeth"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596d82"
+    },
+    {
+      "id": "f1b88fee-cd34-49a1-b222-1e8fb6cd6960",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "One form of this process is regulated by aquaporins. This process causes gas exchange in alveoli, and it distributes nutrients in flatworms. Protein channels are required for a \"facilitated\" form of this to occur. Oxygen enters the cell via this process, and osmosis is a type of this process involving water. For 10 points, name this movement of particles from regions of higher concentration to regions of lower concentration.",
+      "powerMarkPosition": 220,
+      "answer": "diffusion",
+      "acceptableAnswers": [
+        "diffusion",
+        "The diffusion"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e6a0924256318ac8a2"
+    },
+    {
+      "id": "fddd7c2f-a7ba-45e5-9a59-4385952442b2",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "This man's reign began almost immediately with an attempted revolt by the Governor of Egypt, who marched on Aleppo. This ruler executed the only son he had with his wife Mustafa, and he expelled the Knights Hospitaller from Rhodes. An admiral of this ruler named Hayreddin Barbarossa defeated Andrea Doria and the Holy League at the Battle of Preveza, and Louis II drowned while trying to escape another battle that this man had won; that conflict was the Battle of Mohacs. After revising his country's kanun, this ruler was nicknamed \"the lawgiver\". For ten points, name this 16th century sultan of the Ottoman Empire who was known as \"the magnificent\".",
+      "powerMarkPosition": 355,
+      "answer": "Suleiman",
+      "acceptableAnswers": [
+        "Suleiman",
+        "The Suleiman"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a5998"
+    },
+    {
+      "id": "b976b650-185f-40f4-9881-24785761ea9f",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "text": "Lyrics to music for this activity often draw from the Lunfardo dialect of Italian immigrants in the Americas. An annual festival held in Seinäjoki celebrates the Finnish style of this dance. In a satire of this activity, Tom Lehrer wrote a song titled for the \"Masochism\" type of it. Some figures in this activity are embraces, boleos, and salidas. The composition \"Adiós Nonino\" by bandoneón virtuoso Astor Piazzolla was influential in creating this dance's \"nuevo\" style. The Caminito in La Boca, a neighborhood of Buenos Aires, inspired a dance of this type with the same name. For 10 points, name this improvisational partner dance that originated in Uruguay and Argentina.",
+      "powerMarkPosition": 364,
+      "answer": "tango",
+      "acceptableAnswers": [
+        "tango",
+        "The tango"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab7d3"
+    },
+    {
+      "id": "9dbe524e-a31c-4def-9de3-e48f79fddcc7",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "This man quoted Lord Acton to open a work deriding the titular concept for offering resistance rather than alternatives due to its fear of new ideas. This thinker contrasted natural and artificial forms of social evolution, which he dubbed \"cosmos\" and \"taxis.\" He mused on reviving the term \"Old Whig\" in an aforementioned essay, appended to his The Constitution of Liberty, entitled \"Why I Am Not A Conservative.\" This student of von Mises was recognized along with the author of An American Dilemma three decades after publishing a work linking centrally-planned economies to the rise of totalitarianism. A co-winner of the 1974 Economics Nobel along with Gunnar Myrdal, for 10 points, identify this leader of the Austrian school who wrote The Road to Serfdom.",
+      "powerMarkPosition": 384,
+      "answer": "Hayek",
+      "acceptableAnswers": [
+        "Hayek",
+        "The Hayek"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ada9b"
+    },
+    {
+      "id": "a78eac8d-b2cf-4099-9189-d09fce3a273c",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "The quaternionic Hopf fibration describes the sphere of this many dimensions. The first constructed exotic sphere had this many dimensions. The Fano plane, which is the finite projective plane of order two, has this many points. This number is one less than the dimension of a division algebra that is noncommutative, nonassociative, but alternative. The cross product can be nontrivially defined with two arguments only in vector spaces with three or this many dimensions. This is the smallest value of n for which a regular n-gon is not constructible with a compass and a straight-edge. This is the number of edges in the first graph that was proven not to have an Eulerian path, since in the graph theory problem it is the number of bridges in Königsberg. The largest member of the only prime triplet is, for 10 points, what integer which is one less than two to the third power?",
+      "powerMarkPosition": 350,
+      "answer": "7",
+      "acceptableAnswers": [
+        "7",
+        "seven"
+      ],
+      "source": "qbreader",
+      "sourceId": "631a175712170ac0a81b9953"
+    },
+    {
+      "id": "7cf9fefc-9b0d-404b-90eb-34f9e443e2e1",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "The time average of the Poynting vector divided by the speed of light equals one form of this quantity. A solar sail, which is a form of spacecraft propulsion, is based on the radiation type of it. Another form of this quantity that is based on a property of electrons supports a white dwarf from collapsing. The transmission of this quantity in a fluid is the subject of Pascal's principle. The gauge form of this quantity equals the difference between the absolute and atmospheric types of it. For 10 points, name this quantity that generally equals force divided by area.",
+      "powerMarkPosition": 308,
+      "answer": "pressure",
+      "acceptableAnswers": [
+        "pressure",
+        "specific types",
+        "The pressure"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0ce83"
+    },
+    {
+      "id": "3d91c252-e1c0-49e8-93b0-a72970ae7d69",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "The first permanent resident of these islands was the marooned Irishman Patrick Watkins, who lived on its island of Floreana. The largest of these islands was named for Queen Isabella I [\"the first\"]. San Cristobal Island, which is part of this island group, was the landing site of the HMS Beagle. Aboard that ship was Charles Darwin, who studied the beaks of the finches of these islands. For ten points, name this Pacific archipelago controlled by Ecuador, which is known for its large tortoises.",
+      "powerMarkPosition": 290,
+      "answer": "Galápagos",
+      "acceptableAnswers": [
+        "Galápagos",
+        "The Galápagos"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f723df56e0dff73abedbb"
+    },
+    {
+      "id": "6297ab89-ad27-4873-aaac-d33ec68b3ddc",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "This air force captured and transported an enemy P-12 radar in Operation Rooster during the so-called War of Attrition that took place after the failure of the Jarring Mission. One of its early casualties was the American volunteer Bob Vickman and this air force succeeded in destroying over four hundred of its opponent's grounded craft in Operation Focus. This force bombed a nuclear reactor at Osirak during Operation Opera. It destroyed eleven Ugandan aircraft and transported Special Forces enroute to freeing over two hundred hostages in a raid on Entebbe. For 10 points, name this air force which has distinguished itself during the Six Day War and Yom Kippur War.",
+      "powerMarkPosition": 357,
+      "answer": "Israel",
+      "acceptableAnswers": [
+        "Israel",
+        "The Israel"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df83920c3a38102cd7597e"
+    },
+    {
+      "id": "de67c578-b07b-494c-9fe9-fab207ee6269",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for skeletal muscle structure. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this sarcomere-related structure.",
+      "powerMarkPosition": 82,
+      "answer": "Sarcomere",
+      "acceptableAnswers": [
+        "sarcomere",
+        "Sarcomere"
+      ],
+      "explanation": "The sarcomere is a key component of the Musculoskeletal system, involved in skeletal muscle structure.",
+      "source": "ai-generated"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "1b06fa21-f077-4cdf-aa58-f495e0c61556",
+      "linkedTossupId": "c4884086-1370-44a1-ab35-f48272d262e3",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this novel that also includes Doctor Azula and Iris the Orphan, who is pregnant. Forever.",
+          "answer": "Obscene Bird of Night",
+          "acceptableAnswers": [
+            "Obscene Bird of Night",
+            "The Obscene Bird of Night"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Chilean author of Poems of a Novelist, The Blue Woman, and Coronation wrote The Obscene Bird of Night.",
+          "answer": "Donoso",
+          "acceptableAnswers": [
+            "Donoso",
+            "The Donoso"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The central events of this novel revolve around Pancho and Manuela, the cross-dressing brothel owner. The title refers to the bizarre sexual destination of most of the characters.",
+          "answer": "Place Without Limits",
+          "acceptableAnswers": [
+            "Place Without Limits",
+            "The Place Without Limits"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It details the deconstruction of Humberto Penaloza, the narrator. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b1082"
+    },
+    {
+      "id": "1530e854-0750-42dd-99b0-dfdf30704ce6",
+      "linkedTossupId": "00397a83-5db5-4258-bd15-219782b9275c",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this physicist, who used that thought experiment to demonstrate that the cat inside would be in a state of quantum superposition between alive and dead.",
+          "answer": "Schrödinger",
+          "acceptableAnswers": [
+            "Schrödinger",
+            "Erwin Rudolf Josef Alexander Schrödinger",
+            "The Schrödinger"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In another physics thought experiment, the Second Law of Thermodynamics is hypothetically violated by this small creature, which uses a door to sort fast and cold gas molecules into separate chambers.",
+          "answer": "Maxwell’s Daemon",
+          "acceptableAnswers": [
+            "Maxwell’s Daemon",
+            "The Maxwell’s Daemon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Laplace's (la-PLOSS's) Demon thought experiment implies that knowing this property and momentum for a particle, could determine its history and future. This property defines where a particle is, relative to its surroundings.",
+          "answer": "position",
+          "acceptableAnswers": [
+            "position",
+            "location and other equivalents",
+            "The position"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This physicist proposed a thought experiment in which a radioactive substance would cause hydrocyanic acid to be released with probability one-half into a box with a cat inside. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a50441"
+    },
+    {
+      "id": "3750641f-2ffb-48b8-ae4c-bc47a36d0a08",
+      "linkedTossupId": "99a2c03d-48fd-40e0-91fc-26fe7f23f343",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with ascending and descending tracts.",
+          "answer": "spinal cord",
+          "acceptableAnswers": [
+            "spinal cord"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the spinal cord in the nervous system?",
+          "answer": "Ascending and descending tracts",
+          "acceptableAnswers": [
+            "Ascending and descending tracts"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to ascending and descending tracts.",
+          "answer": "reflex",
+          "acceptableAnswers": [
+            "reflex"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e4d23200-98aa-43cc-a1af-80b6800b3915",
+      "linkedTossupId": "197bc8d8-7e86-496f-b54d-83e613c46b22",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this economic quantity, the ratio of the change in GDP to the change in government spending inducing it. Its existence was the operating principle behind the fiscal stimulus.",
+          "answer": "multiplier",
+          "acceptableAnswers": [
+            "multiplier",
+            "the multiplier effect",
+            "the spending multiplier",
+            "The multiplier"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The fiscal multiplier is an important concept in this man's economic framework. This British economist argued that fiscal policy could regulate business cycles in his General Theory of Employment, Interest and Money.",
+          "answer": "Keynes",
+          "acceptableAnswers": [
+            "Keynes",
+            "The Keynes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Nobel Laureate and left-wing Princeton professor advocates New Keynesian policies in his popular New York Times blog, The Conscience of a Liberal.",
+          "answer": "Krugman",
+          "acceptableAnswers": [
+            "Krugman",
+            "The Krugman"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "When this quantity is less than one, it suggests that private investment has been \"crowded out.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b5d0"
+    },
+    {
+      "id": "35140d7d-5ad3-4a49-beb3-66b03af646c6",
+      "linkedTossupId": "0bbfa1f4-2efb-4eb9-ae29-9729ce51125f",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Honduran capital city, notable for being unreachable by rail.",
+          "answer": "Tegucigalpa",
+          "acceptableAnswers": [
+            "Tegucigalpa",
+            "The Tegucigalpa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Formerly an independent city and co-capital on the other side of the river, this city was officially absorbed into Tegucigalpa in 1938.",
+          "answer": "Comayagüela",
+          "acceptableAnswers": [
+            "Comayagüela",
+            "The Comayagüela"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A hundred miles southwest of Tegucigalpa is this inlet of the Pacific, which Honduras's possession of Isla del Tigre is in. It also has coasts on Nicaragua and El Salvador.",
+          "answer": "Fonseca",
+          "acceptableAnswers": [
+            "Fonseca",
+            "Golfo de Fonseca",
+            "The Fonseca"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This city is found on the Choluteca River and occupies the slopes of Mount Picacho. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b1549"
+    },
+    {
+      "id": "88777958-268c-46f4-b5df-25aa604c6613",
+      "linkedTossupId": "7a9db33c-72e1-401a-bf20-a8c32b1283d4",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this company, a competitor of Bitbucket, that provides the largest online version control platform.",
+          "answer": "GitHub",
+          "acceptableAnswers": [
+            "GitHub",
+            "GitHub.com",
+            "prompt on Microsoft Corporation",
+            "reject “Git”",
+            "The GitHub"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Organizations can control access to their GitHub repositories by requiring S·S·O with a SAML (\"SAM-ul\"), or \"security assertion [this type of language],\" identity. GitHub READ·ME files are in this type of language exemplified by XML and YAML (\"YAM-ul\").",
+          "answer": "markup",
+          "acceptableAnswers": [
+            "markup",
+            "lightweight markup languages",
+            "prompt on Markdown",
+            "md by asking “what type of language is Markdown?”",
+            "The markup"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The SAML format borrows XML's specifications for signing and this property. The RSA algorithm gives data this property, which exists \"end-to-end\" for many messaging apps.",
+          "answer": "encryp",
+          "acceptableAnswers": [
+            "encryp",
+            "word forms",
+            "like encryption",
+            "accept XML encryption",
+            "RSA encryption",
+            "end-to-end encryption",
+            "The encryp"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In 2021, this company began requiring the use of a PAT or S·S·H key instead of a password to authenticate certain user requests. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "666dc6c69f7c4cfdbd678572"
+    },
+    {
+      "id": "ff11f507-50cd-4e62-85e1-684410cdfc18",
+      "linkedTossupId": "cf46bb16-e2d5-4a1f-b998-e3152de42906",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This American psychologist used fake electric shocks to test the willingness of his subjects to obey orders from authority figures in a namesake experiment.",
+          "answer": "Milgram",
+          "acceptableAnswers": [
+            "Milgram",
+            "The Milgram"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A 2014 experiment by Kramer, Guillory and Hancock manipulated this website in order to change its users' emotional states, and showed evidence of emotional contagion through text alone.",
+          "answer": "Facebook",
+          "acceptableAnswers": [
+            "Facebook",
+            "The Facebook"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "John Watson and Rosalie Rayner used a rat and an external stimulus to condition a baby with this name to fear other furry items, including Santa Claus, in a 1920 experiment.",
+          "answer": "Albert",
+          "acceptableAnswers": [
+            "Albert",
+            "The Albert"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about ethically dubious psychological experiments, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636eea8a"
+    },
+    {
+      "id": "5f65b80b-deab-452c-a826-d710dd0fc8c8",
+      "linkedTossupId": "c29b8c2b-1898-4a53-9c1a-e89b39fef62a",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Buddhist construct that outlines the method to escape suffering in its namesake number of steps.",
+          "answer": "Eightfold Path",
+          "acceptableAnswers": [
+            "Eightfold Path",
+            "Eightfold Way",
+            "The Eightfold Path"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the Sanskrit term for the intense meditation dictated by the Eightfold Path. In this state, the mind passes through the rupa jhanas and the arupa jhanas and eventually reaches a state of non-consciousness.",
+          "answer": "samadhi",
+          "acceptableAnswers": [
+            "samadhi",
+            "The samadhi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Platform Sutra contains the parable of the lamp, which illustrates the relationship between the Three Disciplines, an important image in this sect of Buddhism.",
+          "answer": "Zen",
+          "acceptableAnswers": [
+            "Zen",
+            "Chan Buddhism",
+            "a million other things",
+            "The Zen"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This teaching can be collapsed into the Three Noble Disciplines of conduct, concentration, and wisdom. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c6119349b6d"
+    },
+    {
+      "id": "1e88b232-58f4-4ca3-a677-c76cc349ba25",
+      "linkedTossupId": "21073631-4b8a-477a-a6fc-e206fbc158e8",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This 14th-century B.C. shipwreck, discovered off the southwest coast of Turkey, contained important artifacts from seven different archaic cultures, including 10 tons of oxhide ingots and the only extant seal of Nefertiti.",
+          "answer": "Uluburun",
+          "acceptableAnswers": [
+            "Uluburun",
+            "The Uluburun"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The world's oldest known analog computer, this mysterious device was found in a shipwreck near a namesake Greek island.",
+          "answer": "Antikythera",
+          "acceptableAnswers": [
+            "Antikythera",
+            "The Antikythera"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "King Raedwald of East Anglia may be the person buried in the ship found in this Anglo-Saxon burial site in Suffolk.",
+          "answer": "Sutton",
+          "acceptableAnswers": [
+            "Sutton",
+            "The Sutton"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about ships in archaeology, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63ec11276527d83fa2b93e21"
+    },
+    {
+      "id": "ca786aa2-9256-4ac4-9b7e-5461dceeae31",
+      "linkedTossupId": "14aa8302-81c0-4450-ab63-0930f6680c20",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this process where two sex cells are united to form a diploid zygote.",
+          "answer": "fertilization",
+          "acceptableAnswers": [
+            "fertilization",
+            "The fertilization"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After cleavage the zygote becomes a Morula, and then a Blastula, and then finally enters a phase where it is called this name. When the embryo is referred to as this, it folds into itself and the three germ layers develop.",
+          "answer": "gastrula",
+          "acceptableAnswers": [
+            "gastrula",
+            "gastrulation",
+            "The gastrula"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During gastrulation, this cavity forms, which eventually becomes the digestive tract. Its opening is called the blastopore.",
+          "answer": "archenteron",
+          "acceptableAnswers": [
+            "archenteron",
+            "The archenteron"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In mammals, shortly after this process occurs, rapid cell division without growth occurs, which is called cleavage. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63059e1643cf02018762367a"
+    },
+    {
+      "id": "fae85f34-47d1-4cb4-8e23-0eef47e98fe5",
+      "linkedTossupId": "8ea04bb4-1452-419d-8253-e9c94ee573cd",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this type of work, translated from the French as \"novel with a key.\"",
+          "answer": "roman",
+          "acceptableAnswers": [
+            "roman",
+            "The roman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author represented the critic John Murray as Denis Burlap and D.H. Lawrence as Mark Rampion in his Point Counter Point. His other notable works include Crome Yellow.",
+          "answer": "Huxley",
+          "acceptableAnswers": [
+            "Huxley",
+            "The Huxley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Perhaps the most famous roman a clef is this 1939 work, in which the initials HCE and ALP reoccur frequently, and which was partly inspired by the cyclic theory of history of Giambatista Vico.",
+          "answer": "Finnegan's Wake",
+          "acceptableAnswers": [
+            "Finnegan's Wake",
+            "The Finnegan's Wake"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Examples include Swift's Tale of a Tub, and Orwell's Animal Farm, though a more famous one is probably Rememberance of Things Past. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9dbc8f282ed3d431a0"
+    },
+    {
+      "id": "fca3710d-62de-491e-9b64-db1f952ea04f",
+      "linkedTossupId": "f1b88fee-cd34-49a1-b222-1e8fb6cd6960",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Cam Newton popularized this dance move, which involves placing your head into your bent elbow. Hillary Clinton attempted to perform this dance on the Ellen show.",
+          "answer": "dab",
+          "acceptableAnswers": [
+            "dab",
+            "The dab"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A Silentó song urges the listener to \"watch me\" do these two dances, in which you raise your hand in front of you, and then place your hand in the air and sway your feet from side to side. You can name either dance.",
+          "answer": "whip",
+          "acceptableAnswers": [
+            "whip",
+            "The whip"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Although there is no structure to this \"shake\", videos of this dance usually cut from one dancer to a group of people dancing randomly. This dance's namesake song was created by the trap artist Baauer.",
+          "answer": "Harlem Shake",
+          "acceptableAnswers": [
+            "Harlem Shake",
+            "The Harlem Shake"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these dance moves introduced by pop culture:",
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e13a1"
+    },
+    {
+      "id": "e87ca3c9-6d6f-49a8-9ed7-ee49674c22af",
+      "linkedTossupId": "fddd7c2f-a7ba-45e5-9a59-4385952442b2",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The modern-day Northern version of this nation has been called the \"hermit kingdom\" for its highly isolationist policies. The ancient version of this nation lied on its namesake peninsula.",
+          "answer": "Korea",
+          "acceptableAnswers": [
+            "Korea",
+            "The Korea"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The medieval Joseon Dynasty was known as the \"hermit kingdom\" in the latter years of its regional dominance. Arguably its most famous leader was this man, who established a system of forts along its northern border to protect against the Jurchens.",
+          "answer": "Sejong",
+          "acceptableAnswers": [
+            "Sejong",
+            "The Sejong"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This class of ships were first used by the Joseon kingdom to repel the invasions of Toyotomi Hideyosi in the late 16th century. These ships were created by Yi Sun Shin to repel the Japanese navy.",
+          "answer": "Turtle",
+          "acceptableAnswers": [
+            "Turtle",
+            "The Turtle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some things about the \"hermit kingdom\" for 10 points each,",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31af7"
+    },
+    {
+      "id": "52a8d06a-293e-41dd-9f9a-7bae07b07ea8",
+      "linkedTossupId": "b976b650-185f-40f4-9881-24785761ea9f",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this film, in which various characters tell conflicting versions of the story of the murder of a samurai and the rape of his wife.",
+          "answer": "Rashomon",
+          "acceptableAnswers": [
+            "Rashomon",
+            "The Rashomon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rashomon was directed by this man, whose other films include Seven Samurai and Ran.",
+          "answer": "Kurosawa",
+          "acceptableAnswers": [
+            "Kurosawa",
+            "The Kurosawa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This actor, who played the bandit in Rashomon, appeared in many other Kurosawa films. He played the title bodyguard of Yojimbo, and portrayed Kikuchiyo in Seven Samurai.",
+          "answer": "Mifune",
+          "acceptableAnswers": [
+            "Mifune",
+            "The Mifune"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "At the end of this film, a woodcutter decides to take care of an abandoned baby. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31a27"
+    },
+    {
+      "id": "c15b36d6-e453-4725-b1a3-dd7813128975",
+      "linkedTossupId": "9dbe524e-a31c-4def-9de3-e48f79fddcc7",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this term which describes a general rise in prices in an economy, the \"hyper\" variety of which has long been problematic in Zimbabwe.",
+          "answer": "inflation",
+          "acceptableAnswers": [
+            "inflation",
+            "The inflation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Stagflation, a rise in both unemployment and inflation, contrasted with this economic curve which gave an inverse relationship between the two.",
+          "answer": "Philips",
+          "acceptableAnswers": [
+            "Philips",
+            "The Philips"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Inflation is one of the many factors used in this theory of economics proposed by John Muthin in which the outcome of a situation is partially affected by how people expect it to happen.",
+          "answer": "rational expectation",
+          "acceptableAnswers": [
+            "rational expectation",
+            "The rational expectation"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Changes in the consumer price index are often used as an indicator for this economic effect. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfef99"
+    },
+    {
+      "id": "77fceef0-0614-4853-8f12-59a1a4b6e9d0",
+      "linkedTossupId": "a78eac8d-b2cf-4099-9189-d09fce3a273c",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this process that sometimes creates relativistic jets along the axis of rotation of a namesake disk. Bodies like protostars, neutron stars, and black holes accumulate gas from the interstellar medium in this process.",
+          "answer": "accretion",
+          "acceptableAnswers": [
+            "accretion",
+            "accretion disks",
+            "The accretion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ghosh and Lamb found that accretion torque causes pulsars to spin faster until this process creates a countervailing torque. This process occurs when the accretion disk's rotation rate is coupled to that of the pulsar.",
+          "answer": "magnetic braking",
+          "acceptableAnswers": [
+            "magnetic braking",
+            "The magnetic braking"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Accreting pulsars that exceed this constraint may be the source of soft gamma repeaters. The formula for this constraint can be derived by equating radiation pressure to gravitational force.",
+          "answer": "Eddington",
+          "acceptableAnswers": [
+            "Eddington",
+            "Eddington limit",
+            "The Eddington"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A series of 1979 papers by Ghosh and Lamb developed a model of this process near magnetically active neutron stars. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67e338da63ef71fce09dfa34"
+    },
+    {
+      "id": "bcbb2eea-1800-4204-9965-e55c39efa539",
+      "linkedTossupId": "7cf9fefc-9b0d-404b-90eb-34f9e443e2e1",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Any polynomial is factorable over the complex numbers due to this theorem, which states that any polynomial with complex coefficients has at least one complex root.",
+          "answer": "fundamental theorem of algebra",
+          "acceptableAnswers": [
+            "fundamental theorem of algebra",
+            "FTA",
+            "The fundamental theorem of algebra"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man proved the fundamental theorem of algebra as well as the law of quadratic reciprocity. For polynomials with integer coefficients, a lemma named for this man states that the product of two primitive polynomials is also primitive.",
+          "answer": "Gauss",
+          "acceptableAnswers": [
+            "Gauss",
+            "The Gauss"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Yun's algorithm factors polynomials P with this property by finding the GCD of P and the derivative of P, since P and its derivative will share a factor if a polynomial has the opposite of this property.",
+          "answer": "square-free",
+          "acceptableAnswers": [
+            "square-free",
+            "separable",
+            "The square-free"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about factoring univariate polynomials, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d89ba331ac830c09a6afa0"
+    },
+    {
+      "id": "f2ff80fb-21a7-4ca8-a7ec-2e0f45b3cb06",
+      "linkedTossupId": "3d91c252-e1c0-49e8-93b0-a72970ae7d69",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "The Green Mountains run through this state. This state shares Lake Champlain with New York, on which its city of Burlington lies.",
+          "answer": "Vermont",
+          "acceptableAnswers": [
+            "Vermont",
+            "The Vermont"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The White Mountains cover much of this state's north and stretches into Maine. This state also features Lake Winnipesaukee at the foothills of its White Mountains.",
+          "answer": "New Hampshire",
+          "acceptableAnswers": [
+            "New Hampshire",
+            "The New Hampshire"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Along with the Green and White Mountains, the Blue Ridge Mountains are a part of this Eastern U.S. mountain range, whose namesake \"trail\" starts in Georgia and ends in Maine.",
+          "answer": "Appalachian",
+          "acceptableAnswers": [
+            "Appalachian",
+            "The Appalachian"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about colorfully named mountains. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ee16"
+    },
+    {
+      "id": "a2161583-af05-43bd-a27a-0041035648bb",
+      "linkedTossupId": "6297ab89-ad27-4873-aaac-d33ec68b3ddc",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this order partly founded by the English-born man Stephen Harding. This monastic order, whose monks wore white robes, included a man who had a vision of the Virgin Mary lactating into his mouth.",
+          "answer": "Cistercian",
+          "acceptableAnswers": [
+            "Cistercian",
+            "Sacer Ordo Cisterciensis",
+            "prompt on Cîteaux by asking “What order did that develop into?”",
+            "reject “Benedictine ”",
+            "The Cistercian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cistercians came to Britain in this century, during which David I supported Empress Matilda over Stephen of Blois (\"blwah\") in The Anarchy. This was the century AD after the one in which the Norman conquest occurred.",
+          "answer": "12",
+          "acceptableAnswers": [
+            "12",
+            "12th century CE",
+            "1100s"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Walter Espec patronized this Cistercian abbey founded in 1132 in the north York moors. This place's second abbot, Aelred (\"AL-red\"), wrote a biography of David I and a treatise on \"spiritual friendship\" sometimes read as condoning homosexual love.",
+          "answer": "Rievaulx",
+          "acceptableAnswers": [
+            "Rievaulx",
+            "St. Aelred of Rievaulx",
+            "The Rievaulx"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "King David I of Scotland set aside Melrose Abbey for this order's use. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6822bfca1f87396179872f4d"
+    },
+    {
+      "id": "8aa78b41-ad03-4822-b59b-8874abe7ff31",
+      "linkedTossupId": "de67c578-b07b-494c-9fe9-fab207ee6269",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with epiglottis function.",
+          "answer": "pharynx",
+          "acceptableAnswers": [
+            "pharynx"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the pharynx in the respiratory system?",
+          "answer": "Epiglottis function",
+          "acceptableAnswers": [
+            "Epiglottis function"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to epiglottis function.",
+          "answer": "larynx",
+          "acceptableAnswers": [
+            "larynx"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    }
+  ]
+}

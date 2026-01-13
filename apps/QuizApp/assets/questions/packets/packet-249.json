@@ -1,0 +1,1141 @@
+{
+  "packetId": "packet-249",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Human Body",
+    "Fine Arts",
+    "Literature",
+    "Science",
+    "History",
+    "Philosophy",
+    "Mythology"
+  ],
+  "tossups": [
+    {
+      "id": "bae46cec-4892-4271-86dd-eeb6b1df6645",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for neuromuscular junction. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this contraction-related structure.",
+      "powerMarkPosition": 100,
+      "answer": "Contraction",
+      "acceptableAnswers": [
+        "contraction",
+        "Contraction"
+      ],
+      "explanation": "The contraction is a key component of the Musculoskeletal system, involved in neuromuscular junction.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "72aa232f-d2dd-4c8f-8aac-5df0dedf74f1",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "Recent performances of this opera have been influenced by the findings of Michael Kaye and Jean-Christophe Keck, who intend their critical edition of it to supersede earlier editions by Choudens and Fritz Oeser. This opera's third act includes a spurious septet and the spurious aria \"Scintille, diamant\" (sin-TEEL, dee-uh-MAHNT) so it has frequently been flipped with the second act. Near the end of this opera, the protagonist insults his lover by singing a final verse of his song about a click-clacking dwarf. This opera was written so that four villains could be sung by the same bass-baritone and four love interests could be sung by the same soprano, though the demands of the coloratura aria \"Les oiseaux dans la charmille\" (lays wah-ZOH dahns lah shar-MEEL) often necessitates a separate singer to play Olympia. In this opera, Giulietta's act opens with the duet \"O nuit, belle nuit d'amour\" (oh NWEET, \"bell\" NWEET dah-MOOR), an iconic barcarolle. For 10 points, name this opera about a German story writer by Jacques Offenbach.",
+      "powerMarkPosition": 384,
+      "answer": "Tales of Hoffmann",
+      "acceptableAnswers": [
+        "Tales of Hoffmann",
+        "Les contes d’Hoffmann",
+        "The Tales of Hoffmann"
+      ],
+      "source": "qbreader",
+      "sourceId": "64306480335bc8c468cbb083"
+    },
+    {
+      "id": "81f1d268-6dde-4655-889b-a3302191e6ea",
+      "category": "Literature",
+      "subcategory": "Other Literature",
+      "difficulty": "college",
+      "text": "In this play's first act, a man repeatedly cuts off his wife with phrases like \"don't interrupt,\" \"will you stop that,\" and \"will you let me talk?\" A character in this play orders champagne for a woman at the next table and introduces another character as \"the quarterback for the New York Giants\" while at a restaurant. A character in this play writes \"University of Virginia\" on a pair of sneakers, but burns them after he sees his father give a pair of stockings to The Woman in a Boston hotel room. In this play's last act, the protagonist plants seeds while fantasizing about Ben, his brother who got rich in Africa. This play ends with the funeral of the title character, who crashed his car to collect life insurance money for his family. For 10 points, name this play that features Biff and Happy and is titled for the demise of Willy Loman, a work by Arthur Miller.",
+      "powerMarkPosition": 424,
+      "answer": "Death of a Salesman",
+      "acceptableAnswers": [
+        "Death of a Salesman",
+        "The Death of a Salesman"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f32f19679b6464bbdf72de"
+    },
+    {
+      "id": "f96c5cb0-94d8-432a-945f-24c310e80bbb",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "A theory about a mineral with this anion (\"AN-eye-on\") claims that it forms from a three-stage self-aggregation of bassanite, which also has this anion. It's not hydroxide, but jarosite is a common iron precipitate with this anion formed from acid mine drainage. Minerals with this anion sometimes appear in so-called \"desert rose\" formations when found in arid sandy environments. Along with carbonates, minerals with this polyatomic anion are the most common marine evaporites. Barite contains this anion that is found in the primary mineral constituent of New Mexico's white sand dunes. Plaster of paris is formed from heating a polymorph of anhydrite with this anion that defines a 2 on the Mohs mineral hardness scale. Along with calcium, gypsum contains this anion. Epsom salt comprises magnesium and-for 10 points-what anion with chemical formula SO4 2- (\"S O four two minus\")?",
+      "powerMarkPosition": 460,
+      "answer": "sulfate",
+      "acceptableAnswers": [
+        "sulfate",
+        "SO4 2- until read",
+        "The sulfate"
+      ],
+      "source": "qbreader",
+      "sourceId": "6884695f641a9dc975af8324"
+    },
+    {
+      "id": "1014a1e9-4a2f-4a4e-9ac3-6015fd404c6d",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "text": "Early on, this man wrote a biography of the politician Philopoemen, who was a friend to his father Lycortas, and whose ashes this man reportedly carried home after his death. This man, who also wrote a lost treatise on battle tactics, was taken prisoner after he led the cavalry of the Achaean League on a failed diplomatic mission, but unlike his compatriots, he was allowed to go free. After that, he became a tutor to the sons of the general Lucius Aemilius Paulus, including Scipio Africanus, whom he followed to witness the destruction of Carthage. This figure, born in Megalopolis, become famous for creating what he called a \"pragmatic history\" which describes events like the Battle of Cynoscephalae and the razing of Corinth. FTP, name this historian born around 200 BC who wrote the forty-book Histories on the rise of the Roman empire.",
+      "powerMarkPosition": 478,
+      "answer": "Polybius",
+      "acceptableAnswers": [
+        "Polybius",
+        "The Polybius"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e35effc080082733afc651"
+    },
+    {
+      "id": "02c08025-301e-4972-a4f9-6ca512470ae4",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for capillary exchange. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this aorta-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Aorta",
+      "acceptableAnswers": [
+        "aorta",
+        "Aorta"
+      ],
+      "explanation": "The aorta is a key component of the Cardiovascular system, involved in capillary exchange.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "8f434beb-1b86-4454-a6a4-ec00553f64cc",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "They're not leaf veins, but this tissue's structure can be classified into parallel or pennate types, the latter of which has larger physiological cross-sectional area. In the Cahill cycle, amino groups are transported from this tissue to the liver in the form of alanine. The largest known protein in humans, titin, is found in this tissue. Invaginations of the plasma membrane of its cells are termed T-tubules. Cells of this tissue sequester calcium ions in the sarcoplasmic reticulum. For 10 points, name this tissue that contracts and relaxes when you lift weights.",
+      "powerMarkPosition": 290,
+      "answer": "muscle",
+      "acceptableAnswers": [
+        "muscle",
+        "skeletal muscle",
+        "striated muscle",
+        "don’t accept other kinds of muscle",
+        "The muscle"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee642"
+    },
+    {
+      "id": "7e7e38f7-10c6-448b-b742-4eb504c3789c",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "One million people attended a rally at the city of Grozny to protest the activities of this company. This company was sued for wrongful termination after firing an employee who cited a rumor that a political leader's son was going to convert to Judaism before marriage. The Republican Marches happened in solidarity with this company, whose employee Sigolene Vinson was spared by men who said \"I'm not killing you because you are a woman.\" Two days after an attack on this company, Amedy Coulibaly took several hostages at a kosher supermarket. Supporters of free speech rallied behind the slogan \"Je suis\" [this company]. For 10 points, name this satirical French magazine that was targeted by a 2015 terrorist attack for its cartoons depicting Muhammad.",
+      "powerMarkPosition": 358,
+      "answer": "Charlie Hebdo",
+      "acceptableAnswers": [
+        "Charlie Hebdo",
+        "Charlie Weekly",
+        "prompt on \"Charlie\"",
+        "The Charlie Hebdo"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ade30"
+    },
+    {
+      "id": "87ad552b-8129-4a96-acb6-e9a9c6ed41bf",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "This party's platform included calls for full employment, exemptions from military service, and \"land, bread, housing, education, clothing, justice and peace\" in its Ten Point Program. This party's leader faced scrutiny over the high-profile deaths of several of its members, including Alex Rackley and Betty van Patter. One prominent member of this party was killed while sleeping during a police raid on his apartment in Chicago. That man was Fred Hampton. J. Edgar Hoover focused the efforts of the FBI's COINTELPRO [pr. \"Co intel pro\"] on disrupting this party. For 10 points, name this American black power organization, formed in Oakland by Robert Seale and Huey P. Newton.",
+      "powerMarkPosition": 320,
+      "answer": "Black Panthers",
+      "acceptableAnswers": [
+        "Black Panthers",
+        "The Black Panthers"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31b1f"
+    },
+    {
+      "id": "51ed1f10-10f0-47c2-ba35-05a1a1646763",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for layers of the heart wall. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this atrium-related structure.",
+      "powerMarkPosition": 74,
+      "answer": "Atrium",
+      "acceptableAnswers": [
+        "atrium",
+        "Atrium"
+      ],
+      "explanation": "The atrium is a key component of the Cardiovascular system, involved in layers of the heart wall.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "8626e756-0925-4e7b-8c78-8aa625572c9a",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "Cancer affecting this organ is often called painless jaundice. This organ's epsilon cells secrete ghrelin, while its delta cells secrete somatostatin. A disease of this organ that leads to its gradual destruction can cause diabetes mellitus. This gland releases enzymes through the Duct of Wirsung that exits at the duodenum, and it contains endocrine cells called the Islets of Langerhans, which release hormones including glucagon. For 10 points, name this organ that regulates blood sugar levels by releasing insulin.",
+      "powerMarkPosition": 222,
+      "answer": "Pancreas",
+      "acceptableAnswers": [
+        "Pancreas",
+        "The Pancreas"
+      ],
+      "source": "qbreader",
+      "sourceId": "639f7290036417219c961ca5"
+    },
+    {
+      "id": "0d7c7a14-0f11-4fd4-90b2-036c6eedae8a",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "An animal known as the October Horse was sacrificed as part of a horse race in this religion. The head of the household walks around barefoot and throws beans over their shoulder to ward off spirits in a celebration in this religion. Three prophetic books worshipped in this religion were acquired after their original owner burned six other books. Priests in this religion that would dance around in public were known as \"jumping\" priests. Followers of this religion sacrifice to household gods known as Lares (\"LARR-ays\"). Many soldiers converted from this religion to a cult centered around the ritual of tauroctony (\"tarr-OCK-tuh-nee\"), or bull sacrifice. Six women guarded a sacred fire of this religion that was rekindled every year on the Kalends of March. For 10 points, name this ancient religion that worshipped gods like Jupiter.",
+      "powerMarkPosition": 421,
+      "answer": "Roman",
+      "acceptableAnswers": [
+        "Roman",
+        "any answers indicating that it is the main religion of Rome",
+        "the Roman Empire",
+        "The Roman"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed60f81539231f571edf42"
+    },
+    {
+      "id": "67ce1d57-4500-4433-a4db-d6b6c40fa7ae",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "Hundreds of people visually make up a representation of this form of government in a 1651 frontispiece by Abraham Bosse. According to one book, this form of government best prevents \"the war of all against all,\" because of its strength and lack of divisiveness. This form of government is defended by Thomas Hobbes in Leviathan. The \"divine right\" of leaders of this form of government has justified its absolute type, in which a hereditary leader has ultimate power. For 10 points, name this type of government ruled by a king or queen.",
+      "powerMarkPosition": 307,
+      "answer": "monarchy",
+      "acceptableAnswers": [
+        "monarchy",
+        "word forms",
+        "such as monarchism",
+        "accept absolute monarchy",
+        "accept kingship",
+        "queenship before it is read",
+        "prompt on absolutism",
+        "The monarchy"
+      ],
+      "source": "qbreader",
+      "sourceId": "66e1bbb6b3ec1cfe3cd4a648"
+    },
+    {
+      "id": "8b0783fc-73bf-4d86-9c15-2ee7d1c16fe4",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "text": "This author claims he would kiss the skin between the lower part of a woman's shoulder and the upper part of her arm if it were exposed. This author, who exclaims, \"perhaps...my writings will not be given to the Lethe's waters,\" later invokes Phoebus and nine goddesses to grant that wish in the third book of one of his works. In that work, this author said that \"as Chiron was to Achilles, I am to Cupid\". This author of Remedia Amoris structured one work as a long poem that progressed from the creation of the world to the deification of Julius Caesar. After a supposed \"poem and an error\" caused his exile to Tomis, this author wrote Tristia. For 10 points, name this Roman author of Ars Amatoria and Metamorphoses.",
+      "powerMarkPosition": 399,
+      "answer": "Ovid",
+      "acceptableAnswers": [
+        "Ovid",
+        "Publius Ovidius Naso",
+        "The Ovid"
+      ],
+      "source": "qbreader",
+      "sourceId": "6848696fb074cbb48b99b552"
+    },
+    {
+      "id": "57b296ec-82bc-4b91-9ed6-720b6ac4610b",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "The Puning temple was built to commemorate one victory over these people. Another leader of these people was killed after losing the Battle of Jao Modo to the Kangxi Emperor after trying to conquer the Khalkha Mongols. That leader was Galdan Khan. One leader of these people, Amursana, led a rebellion against Qing forces that was crushed in the second of the Ten Great Campaigns. An extermination order by the Qianlong Emperor against these people said to \"show no mercy to these rebels and to \"save only the old and the weak\" For 10 points, name this Oirat Mongol people who were subject to a genocide that decreased the population of Xinjiang by 80%.",
+      "powerMarkPosition": 345,
+      "answer": "Dzungars",
+      "acceptableAnswers": [
+        "Dzungars",
+        "Oirats",
+        "Mongols until mentioned",
+        "The Dzungars"
+      ],
+      "source": "qbreader",
+      "sourceId": "640020a88d3cf1e72e234239"
+    },
+    {
+      "id": "a2208e9b-ae4f-40bd-bf7e-fa8bbe8b068a",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "This organ is connected to the abdominal wall by the falciform [FAL-sih-form] ligament. Kupffer cells aid in the destruction of toxins that enter this organ, which blood enters via the portal vein. This organ, which is split into four lobes, can become damaged in patients with hepatitis or cirrhosis [suh-ROH-sis]. The gallbladder stores bile secreted by this organ. For ten points, name this largest internal organ of the body that detoxifies the bloodstream.",
+      "powerMarkPosition": 234,
+      "answer": "liver",
+      "acceptableAnswers": [
+        "liver",
+        "The liver"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f723af56e0dff73abec93"
+    },
+    {
+      "id": "c0932834-07fe-47a1-919e-d16a08df6226",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "One of this author's characters saves a horse-riding woman of legendary beauty from a fire in Glastonbury that burns off her hair shortly before he enlists. That character's puppy-killing son flees to Albany after rigging a horse race so his sister Thelma's landlord Mr. Bourke loses. In another novel by this author, the protagonist meets a grocer who masturbates in public shortly after the mysterious death in a shack of his prostitute lover Nance. In that novel by him, the protagonist moves in with the crazy cat lady he depicts in Pythoness at Tripod, who happens to be his humpbacked adopted sister Rhoda Courtney. The end of that novel by him focuses on the relationship between the teenage pianist Kathy Volkov and the painter Hurtle Duffield. Laura Trevelyan accompanies the title German explorer in another novel by him. For 10 points, name this author of The Tree of Man, The Vivisector, and Voss,an Australian Nobelist.",
+      "powerMarkPosition": 513,
+      "answer": "White",
+      "acceptableAnswers": [
+        "White",
+        "The White"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b207e"
+    },
+    {
+      "id": "2c75eb28-b72f-4732-8072-7e725ef5913a",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "In the Popul Vuh, one of these creatures walks by after Camzotz strikes in the House of Bats and becomes the new head for Hunapu. In Japanese myth, Urashima is invited to the court of Ryugu and lingers for three hundred years after catching one of these in a fishing net. The Chinese patron of happiness, Gui Xian, is one, and for mocking Zeus's wedding to Hera, the nymph Chelone was turned into one. A god took the form of this creature during a plan which involved pulling on Vasuki, who was wrapped around Mount Mandura, in order to retrieve important items such as the \"cow of abundance\" Surabhi and Lakshmi herself via the \"churning of the ocean.\" Akupara is one of these full-time. For 10 points, name these creatures which, in various myth systems, support the universe on their back.",
+      "powerMarkPosition": 401,
+      "answer": "turtle",
+      "acceptableAnswers": [
+        "turtle",
+        "The turtle"
+      ],
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cf9aa5"
+    },
+    {
+      "id": "876e8e73-5188-43ef-9beb-564bb57d6ac4",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "Megalo⋅myrmexants and some termites have been seento \"grow\" this type of organism as a food source. A type of this organism,Myco⋅sarcoma maydis, is knownas \"corn smut\" and is prized in Mexican cuisine. Agaricus bisporusis the most commonly grown species in this kingdom, coming in varieties like button and portobello. The poisonous \"death cap\" is also in, for ten points, what kingdom of life that includes truffles and mushrooms?",
+      "powerMarkPosition": 161,
+      "answer": "fungi",
+      "acceptableAnswers": [
+        "fungi",
+        "The fungi"
+      ],
+      "source": "qbreader",
+      "sourceId": "6837af68278db02eb79f1e06"
+    },
+    {
+      "id": "1b2b778d-a63e-4a55-b6fc-a665e161d939",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "Theseus is greeted by Amphitrite in Poseidon's underwater castle in a work in this genre by Bacchylides (BACH-ill-ih-deez). Ion of Chios went around giving out cups of wine after winning competitions in both tragedy and this genre. Melanippides (mell-uh-nip-PEE-deez) was an early innovator in this genre and taught a man whose own work in it, Cyclops, was parodied in Aristophanes' Plutus. In his Poetics, Aristotle claims this genre gave rise to Athenian tragedy after the latter added multiple speakers. A chorus of 50 men would sing works in this genre which was pioneered by Arion. Philoxenus (fee-lock-zen-os) of Cythera added the kithara in performances of, for 10 points, what genre of poems, which celebrated Dionysus?",
+      "powerMarkPosition": 447,
+      "answer": "dithyramb",
+      "acceptableAnswers": [
+        "dithyramb",
+        "dithyrambos",
+        "dithyramboi",
+        "prompt on odes before Melanippides since Bacchylides work is also called an ode",
+        "The dithyramb"
+      ],
+      "source": "qbreader",
+      "sourceId": "6778d33e2c73527d87131df6"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "ec9ed8bb-0617-4f77-be0e-472744038628",
+      "linkedTossupId": "bae46cec-4892-4271-86dd-eeb6b1df6645",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with posterior pituitary hormones.",
+          "answer": "hypothalamus",
+          "acceptableAnswers": [
+            "hypothalamus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hypothalamus in the endocrine system?",
+          "answer": "Posterior pituitary hormones",
+          "acceptableAnswers": [
+            "Posterior pituitary hormones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to posterior pituitary hormones.",
+          "answer": "pituitary",
+          "acceptableAnswers": [
+            "pituitary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e8c2dd6a-6cf3-49e3-9676-d1b44cea09dd",
+      "linkedTossupId": "72aa232f-d2dd-4c8f-8aac-5df0dedf74f1",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this engraving in which the title character stands passively while eight creatures rend his clothes, hit him with sticks, and pull his hair.",
+          "answer": "Torment of St. Anthony",
+          "acceptableAnswers": [
+            "Torment of St. Anthony",
+            "The Torment of St. Anthony"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Torment of St. Anthony was created by this German engraver and painter. Albert Durer copied the hairy demon of his St. Anthony for Knight, Death, and the Devil, and even traveled to study with this artist, but this man had died by the time Durer got there.",
+          "answer": "Schongauer",
+          "acceptableAnswers": [
+            "Schongauer",
+            "The Schongauer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Schongauer's most famous painting is this one for the church of St. Martin in Colmar, where he lived. It shows two angels holding a crown above the title character, who holds the infant Jesus amidst the title flowers.",
+          "answer": "Madonna",
+          "acceptableAnswers": [
+            "Madonna",
+            "any partial answer",
+            "The Madonna"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A creature at the left of this work has back spines, a long proboscis, and is wielding a club with which it beats the title character. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65865e36760988da16ee60d3"
+    },
+    {
+      "id": "491bd59f-e22d-4729-a59f-2f0c92bb2966",
+      "linkedTossupId": "81f1d268-6dde-4655-889b-a3302191e6ea",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this short story in which a machine inscribes sentences on the condemned residents of the title location. The prisoners die after experiencing a religious epiphany, yet the Officer is instantly killed.",
+          "answer": "In the Penal Colony",
+          "acceptableAnswers": [
+            "In the Penal Colony",
+            "“In der Strafkolonie”",
+            "accept “In the Penal Settlement”",
+            "The In the Penal Colony"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of \"In the Penal Colony\" is better known for The Metamorphosis, in which Gregor Samsa wakes up to discover he has turned into an insect.",
+          "answer": "Kafka",
+          "acceptableAnswers": [
+            "Kafka",
+            "The Kafka"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Kafka short story's title character is a performer who sits in a cage for roughly a forty-day span. He shakes the bars if people take pity on him and is eventually forced into eating food.",
+          "answer": "Hunger Artist",
+          "acceptableAnswers": [
+            "Hunger Artist",
+            "“Ein “Hungerkunstler”",
+            "“A Fasting Artist”",
+            "“A Starvation Artist”",
+            "The Hunger Artist"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this story, the Officer attempts to have the words \"Be just\" written on him. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da89e"
+    },
+    {
+      "id": "9216a756-115b-4ab9-8531-025854b38401",
+      "linkedTossupId": "f96c5cb0-94d8-432a-945f-24c310e80bbb",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these infectious agents composed of misfolded proteins. They induce amyloid folds and are an exception to the central dogma of molecular biology.",
+          "answer": "prions",
+          "acceptableAnswers": [
+            "prions",
+            "The prions"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Prions are composed of these proteins that cannot be denatured by enzymes. The \"common\" variety of this is structurally well-defined, while the \"scrapie\" variety has extra beta-sheet content.",
+          "answer": "PrP",
+          "acceptableAnswers": [
+            "PrP",
+            "The PrP"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Related to Creutzfeld-Jakob is this neurological disorder, which prions are also a cause of. Fairly common in New Guinea until the 1960s possibly due to cannibalism, its symptoms include loss of muscle coordination and abnormal involuntary movements.",
+          "answer": "kuru",
+          "acceptableAnswers": [
+            "kuru",
+            "The kuru"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "They lack nucleic acid and cause Creutzfeldt-Jakob disease and scrapie. For 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f03f1"
+    },
+    {
+      "id": "970f5e56-fcdd-4fdf-a7b4-13a474186aa7",
+      "linkedTossupId": "1014a1e9-4a2f-4a4e-9ac3-6015fd404c6d",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this glacially-formed lake group.",
+          "answer": "Finger",
+          "acceptableAnswers": [
+            "Finger",
+            "The Finger"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Finger Lake is the longest, some 40 miles long, though it has only the second-largest surface area.",
+          "answer": "Cayuga",
+          "acceptableAnswers": [
+            "Cayuga",
+            "The Cayuga"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This lake, namesake of a utopian commune founded by John Noyes, is not a Finger Lake but is referred to as \"the thumb.\"",
+          "answer": "Oneida",
+          "acceptableAnswers": [
+            "Oneida",
+            "The Oneida"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Members of this group include Lakes Skaneateles, Owasco, Keuka, and Canandaigua. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b1a1d"
+    },
+    {
+      "id": "0843308e-921c-40dc-8a28-2e7c1f055fc5",
+      "linkedTossupId": "02c08025-301e-4972-a4f9-6ca512470ae4",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with layers of the heart wall.",
+          "answer": "atrium",
+          "acceptableAnswers": [
+            "atrium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the atrium in the cardiovascular system?",
+          "answer": "Layers of the heart wall",
+          "acceptableAnswers": [
+            "Layers of the heart wall"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to layers of the heart wall.",
+          "answer": "ventricle",
+          "acceptableAnswers": [
+            "ventricle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "94ad74a0-5a9a-443b-a932-dfc6c654e65b",
+      "linkedTossupId": "8f434beb-1b86-4454-a6a4-ec00553f64cc",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The first line of defense includes PPE such as a lab coat, safety goggles, and gloves made out of this functional group, which consists of a carbon triple-bonded to a nitrogen.",
+          "answer": "nitrile",
+          "acceptableAnswers": [
+            "nitrile",
+            "cyanides",
+            "accept cyano",
+            "prompt on CN",
+            "reject “isocyanides”",
+            "“isonitriles”",
+            "The nitrile"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The NIH and OSHA require the creation of these programs to protect employees from health hazards. These programs, which have a three-letter abbreviation, lay out waste management protocols and are used alongside Safety Data Sheets.",
+          "answer": "Chemical Hygiene Plan",
+          "acceptableAnswers": [
+            "Chemical Hygiene Plan",
+            "CHPs",
+            "The Chemical Hygiene Plan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This chemist was not wearing safety glasses while examining condensed oxygen in an NMR tube, which exploded and shredded his left cornea. This chemist names an asymmetric reaction that converts alkenes to vicinal 1,2-diols.",
+          "answer": "Sharpless",
+          "acceptableAnswers": [
+            "Sharpless",
+            "Karl Barry Sharpless",
+            "accept Sharpless asymmetric dihydroxylation",
+            "The Sharpless"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Lab safety should be every chemist's first priority! Answer the following about preventing accidents, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "66b83d75e381fe913c42f807"
+    },
+    {
+      "id": "bd0725d2-dd50-42fb-a6ef-51ee1a3417ff",
+      "linkedTossupId": "7e7e38f7-10c6-448b-b742-4eb504c3789c",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this founder of the Maurya dynasty in India, whose name evokes a later dynasty from 320 to 550 CE.",
+          "answer": "Chandragupta",
+          "acceptableAnswers": [
+            "Chandragupta",
+            "The Chandragupta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This grandson of Chandragupta left Pillar Edicts throughout India after his experience with bloody war in the Kalinga province led him to convert to Buddhism.",
+          "answer": "Ashoka",
+          "acceptableAnswers": [
+            "Ashoka",
+            "Asoka",
+            "The Ashoka"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chandragupta allied with a Diadochos, or successor of Alexander, who won the battle of Ipsus and began a dynasty east of Antigonus stretching east from modern-day Persia. Name either that man or the dynasty he founded.",
+          "answer": "Seleucus",
+          "acceptableAnswers": [
+            "Seleucus",
+            "The Seleucus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His advisor Chanakya composed a text about how to rule called the Artha-shastra, and he himself rose to power by defeating satraps left behind by Alexander the Great. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "6451e799d4402ec440c62587"
+    },
+    {
+      "id": "aff14f4e-c4fc-4481-8f97-6aeb80254466",
+      "linkedTossupId": "87ad552b-8129-4a96-acb6-e9a9c6ed41bf",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This is what historical novel in which the Shu Han, Wu, and Wei principalities fight?",
+          "answer": "Romance of the Three Kingdoms",
+          "acceptableAnswers": [
+            "Romance of the Three Kingdoms",
+            "san guo yan yi",
+            "The Romance of the Three Kingdoms"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Romance of the Three Kingdoms chronicles the Warring States Period of this country and is one of its Four Great Classics.",
+          "answer": "China",
+          "acceptableAnswers": [
+            "China",
+            "zhong guo",
+            "The China"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This revolt sets off the Warring States Period, in which Yuan Shao leads the people of the titular clothing in throwing over the Han Dynasty.",
+          "answer": "Yellow Turban",
+          "acceptableAnswers": [
+            "Yellow Turban",
+            "The Yellow Turban"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this book, Liu Bei, Guan Yu, and Zhang Fei make the Oath of the Peach Garden. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be751a"
+    },
+    {
+      "id": "5de99813-2a42-42a9-b34e-ac90b96f33fa",
+      "linkedTossupId": "51ed1f10-10f0-47c2-ba35-05a1a1646763",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with thyroid hormones t3 and t4.",
+          "answer": "thyroid",
+          "acceptableAnswers": [
+            "thyroid"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the thyroid in the endocrine system?",
+          "answer": "Thyroid hormones T3 and T4",
+          "acceptableAnswers": [
+            "Thyroid hormones T3 and T4"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to thyroid hormones t3 and t4.",
+          "answer": "thyroxine",
+          "acceptableAnswers": [
+            "thyroxine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "dd70fcf0-210d-4bef-bb07-3dfce8ebe577",
+      "linkedTossupId": "8626e756-0925-4e7b-8c78-8aa625572c9a",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this principle that comes in both \"weak\" and \"strong\" forms which states that gravitational mass and inertial mass are indistinguishable.",
+          "answer": "equivalence",
+          "acceptableAnswers": [
+            "equivalence",
+            "The equivalence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Eötvös performed his experiment with one of these devices that can measure weak forces, which Henry Cavendish similarly used in a namesake experiment.",
+          "answer": "torsion balance",
+          "acceptableAnswers": [
+            "torsion balance",
+            "torsion pendulum",
+            "prompt on balance",
+            "prompt on pendulum",
+            "The torsion balance"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Eötvös effect acts as a component of this broader effect which causes objects in rotating reference frames to be deflected explaining why hurricanes do not form at the equator.",
+          "answer": "Coriolis",
+          "acceptableAnswers": [
+            "Coriolis",
+            "Coriolis force",
+            "The Coriolis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Loránd Eötvös (\"ert-versh\") performed an 1885 experiment to demonstrate this principle, which John Philoponous first investigated by dropping two balls of different weights. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65d8486b56d3474dcdac2420"
+    },
+    {
+      "id": "146d3379-51ff-44fe-b13a-694a90e9500f",
+      "linkedTossupId": "0d7c7a14-0f11-4fd4-90b2-036c6eedae8a",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Lao Tzu and Chuang Tzu are great thinkers of this philosophy that emphasizes living in harmony with nature.",
+          "answer": "Taoism or Daoism",
+          "acceptableAnswers": [
+            "Taoism or Daoism",
+            "The Taoism or Daoism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lao Tzu established the foundations of Taoism in this brief poetic work consisting of 81 paragraphs.",
+          "answer": "Tao te ching",
+          "acceptableAnswers": [
+            "Tao te ching",
+            "The Tao te ching"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the tenets presented by Lao Tzu emphasizes the value of this attitude of passivity and non-action designed to bring one closer to the \"Way\".",
+          "answer": "wu-wei",
+          "acceptableAnswers": [
+            "wu-wei",
+            "The wu-wei"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about a Chinese philosophical system.",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596e65"
+    },
+    {
+      "id": "dd191969-d0e7-46d8-bd7e-0a9faf10954f",
+      "linkedTossupId": "67ce1d57-4500-4433-a4db-d6b6c40fa7ae",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this 20th century French philosopher and companion of Simone de Beauvoir, the author of Being and Nothingness.",
+          "answer": "Sartre",
+          "acceptableAnswers": [
+            "Sartre",
+            "The Sartre"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sartre developed this school of philosophy whose other devotees included Martin Heidegger. It postulates that humans are responsible for their unlimited freedom of choice.",
+          "answer": "existential",
+          "acceptableAnswers": [
+            "existential",
+            "The existential"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 19th century Danish Christian author of Either/Or who influenced existentialism described Abraham's sacrifice of Isaac in Fear and Trembling.",
+          "answer": "Kierkegaard",
+          "acceptableAnswers": [
+            "Kierkegaard",
+            "The Kierkegaard"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He often wove his philosophical ideas into works of fiction like his novel Nausea. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43979"
+    },
+    {
+      "id": "17c996a5-23cd-4987-957f-6148c5ff0750",
+      "linkedTossupId": "8b0783fc-73bf-4d86-9c15-2ee7d1c16fe4",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this title character who asks Sam and Willie for help in writing his essay on \"A World Without Collisions.\" He later insults them by saying \"you can't fly kites on rainy days\".",
+          "answer": "Hally",
+          "acceptableAnswers": [
+            "Hally",
+            "Master Harold",
+            "The Hally"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hally is the first title character of this author's play Master Harold... and the Boys. He formed a group called the Serpent Players, which staged his later plays like The Island.",
+          "answer": "Fugard",
+          "acceptableAnswers": [
+            "Fugard",
+            "Harold Athol Lanigan Fugard",
+            "The Fugard"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Serpent Players also put on this play by Fugard, in which its title character adopts the identity of Robert Zwelinzima's identity after finding his dead body in an alleyway.",
+          "answer": "Sizwe Bansi Is Dead",
+          "acceptableAnswers": [
+            "Sizwe Bansi Is Dead",
+            "Sizwe Banzi is Dead",
+            "The Sizwe Bansi Is Dead"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character describes how policemen beat criminals while speaking softly in between each hit. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f2c8e7e2ddc83d7b7536f2"
+    },
+    {
+      "id": "fca52dfb-536b-484f-b1c6-f86cd05c9755",
+      "linkedTossupId": "57b296ec-82bc-4b91-9ed6-720b6ac4610b",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This term refers to a location which is maximally difficult to reach, given its remoteness from coastlines and other features. The oceanic one is also called Point Nemo.",
+          "answer": "pole of inaccessibility",
+          "acceptableAnswers": [
+            "pole of inaccessibility",
+            "The pole of inaccessibility"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The world's most remote island is Bouvet Island, which belongs to this country, which also possesses Jan Mayen and Svalbard and borders Sweden to the west.",
+          "answer": "Norway",
+          "acceptableAnswers": [
+            "Norway",
+            "Norge",
+            "The Norway"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The African pole of inaccessibility is near the town of Obo in this country, whose capital, Bangui, is an anagram of the river on which it lies, the Ubangi.",
+          "answer": "Central African Republic",
+          "acceptableAnswers": [
+            "Central African Republic",
+            "CAR",
+            "The Central African Republic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about extreme geographical locations, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "630adb562eacc381ae57f758"
+    },
+    {
+      "id": "d8e15438-e1a6-43c9-ab7f-5991ab1288d6",
+      "linkedTossupId": "a2208e9b-ae4f-40bd-bf7e-fa8bbe8b068a",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "That occurs because of this physical concept, colloquially described as \"an object in motion stays in motion.\"",
+          "answer": "inertia",
+          "acceptableAnswers": [
+            "inertia",
+            "The inertia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The greater this quantity for an object, the less it accelerates under a given force. The SI unit for this quantity is the kilogram.",
+          "answer": "mass",
+          "acceptableAnswers": [
+            "mass",
+            "The mass"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the SI unit for force. One of these units is described as the amount of force needed to move one kilogram at the speed of one meter per second squared.",
+          "answer": "newton",
+          "acceptableAnswers": [
+            "newton",
+            "The newton"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "When you stop suddenly in a car, you jerk forward, and your coffee may fly out of your hand. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9e8b"
+    },
+    {
+      "id": "f31a2601-6df3-4e57-a014-06035899b25c",
+      "linkedTossupId": "c0932834-07fe-47a1-919e-d16a08df6226",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this author whose son Hallam was his official biographer. This poet wrote In Memoriam A.H.H. for a different Hallam.",
+          "answer": "Tennyson",
+          "acceptableAnswers": [
+            "Tennyson",
+            "Alfred Tennyson",
+            "1st Baron Tennyson",
+            "The Tennyson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tennyson remarked, \"Unlike John the Baptist, I cannot live on locusts and wild honey\" in response to this periodical's school of \"bush poetry.\" Banjo Patterson and Henry Lawson argued over bush life in a debate named for this magazine.",
+          "answer": "Bulletin",
+          "acceptableAnswers": [
+            "Bulletin",
+            "the “Bulletin debate”",
+            "The Bulletin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Arthur Hallam asks \"Forgive me, friend, if I find fault...\" in a reply to In Memoriam from this poet's Book of Answers, which also contains the \"Coy Mistress's\" reply to Andrew Marvell. This Australian was dubbed \"the twentieth century's greatest eighteenth-century poet.\"",
+          "answer": "Hope",
+          "acceptableAnswers": [
+            "Hope",
+            "Alec Derwent Hope",
+            "The Hope"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A poem opening \"Welcome, son of thy great father\" was written to commemorate this author's elder son upon his arrival in South Australia to be its Governor. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67e338db63ef71fce09dfb75"
+    },
+    {
+      "id": "d2c465f0-2c12-45e9-8fdb-36e3a52f205e",
+      "linkedTossupId": "2c75eb28-b72f-4732-8072-7e725ef5913a",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this brother of Regin, who was killed while in the form of an animal by one of the Aesir. His father, Hreidmar, demanded a ransom from the Aesir.",
+          "answer": "Otter",
+          "acceptableAnswers": [
+            "Otter",
+            "The Otter"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This trickster god was responsible for the murder of Otter, and he also acquired the ransom by holding up a dwarf named Andvari.",
+          "answer": "Loki",
+          "acceptableAnswers": [
+            "Loki",
+            "The Loki"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "For his various misdeeds, Loki was eventually chained up below a poison-dripping snake, and this wife of Loki attends him and catches the poison in a bowl.",
+          "answer": "Sigyn",
+          "acceptableAnswers": [
+            "Sigyn",
+            "The Sigyn"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His name now makes up part of a kenning for \"gold.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "676f8310c626ea977c7a3d13"
+    },
+    {
+      "id": "54f90de6-8ead-44c5-90e1-654c5b765492",
+      "linkedTossupId": "876e8e73-5188-43ef-9beb-564bb57d6ac4",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Earthworms are a member of class Oligochaeta (\"OH-lig-oh-KAY-tuh\") in this phylum, which contains all segmented worms.",
+          "answer": "Annelida",
+          "acceptableAnswers": [
+            "Annelida",
+            "annelids",
+            "The Annelida"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Earthworms grind up their food using this muscular part of their digestive system, which is located behind the crop.",
+          "answer": "gizzard",
+          "acceptableAnswers": [
+            "gizzard",
+            "The gizzard"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Almost every segment of an earthworm's body has eight of these bristles. These hair-like structures anchor the worm in the ground and help sense the environment.",
+          "answer": "seta",
+          "acceptableAnswers": [
+            "seta",
+            "The seta"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about earthworms:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec655a"
+    },
+    {
+      "id": "ff81974d-e5a3-40b5-89bc-51661057594f",
+      "linkedTossupId": "1b2b778d-a63e-4a55-b6fc-a665e161d939",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this poem in which a soldier passing by the title edifice, his childhood home, angrily reminisces about losing the love of his cousin Amy.",
+          "answer": "Locksley Hall",
+          "acceptableAnswers": [
+            "Locksley Hall",
+            "The Locksley Hall"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Locksley Hall\" was written by this Victorian poet of \"Ulysses\" and \"Tithonus\", who described a ride \"into the Valley of Death\" in his \"Charge of the Light Brigade\".",
+          "answer": "Tennyson",
+          "acceptableAnswers": [
+            "Tennyson",
+            "Alfred Tennyson",
+            "1st Baron Tennyson",
+            "The Tennyson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The title figure of this short romantic poem by Tennyson \"clasps the crag with crooked hands\" and \"watches from his mountain walls\", the latter from which \"like a thunderbolt he falls\".",
+          "answer": "Eagle",
+          "acceptableAnswers": [
+            "Eagle",
+            "The Eagle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The protagonist of this poem has a vision of the future, according to which\"the kindly earth shall slumber, lapt in universal law\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974225d0"
+    }
+  ]
+}

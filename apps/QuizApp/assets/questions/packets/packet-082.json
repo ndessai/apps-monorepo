@@ -1,0 +1,1145 @@
+{
+  "packetId": "packet-082",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "Philosophy",
+    "Fine Arts",
+    "History",
+    "Literature",
+    "Social Science",
+    "Human Body",
+    "Mythology"
+  ],
+  "tossups": [
+    {
+      "id": "70167ccb-b4b4-4722-8834-af2d93b3de7b",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "This state was mathematically modeled by Peter Waage and Cato Maximilian Guldberg in the law of mass action. The constant representing it is related to temperature change and enthalpy change by the van' t Hoff equation. This state is achieved when a system minimizes its Gibbs free energy. This state shifts when temperature, pressure, volume, or concentration changes according to Le Chatelier's principle. For 10 points, name this chemical state in which the forward and reverse reaction rates are the same, which results in a stable chemical process.",
+      "powerMarkPosition": 219,
+      "answer": "equilibrium",
+      "acceptableAnswers": [
+        "equilibrium",
+        "The equilibrium"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6ded652"
+    },
+    {
+      "id": "54dc7440-f114-4cfc-8134-179094f1a325",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "text": "In a 2015 paper, Delia Graff Fara argued that bare occurrences of these things are accompanied by an unpronounced determiner, defending the view that they are predicates. Gareth Evans presented an example involving Madagascar as an objection to theories in which these things are evaluated relative to causal (\"CAUSE-al\") chains. John Searle (\"surl\") developed a \"cluster theory\" of these things building on Bertrand Russell's account in which they are \"disguised definite descriptions.\" To solve a puzzle involving Venus, Gottlob Frege (\"FRAY-guh\") posited that they have \"senses.\" Like natural kind terms, Saul Kripke argued that these terms are rigid designators. Millians hold that these terms refer directly to their bearers. For 10 points, identify these proper nouns, exemplified by \"Jack,\" \"Caleb,\" and \"Justin.\"",
+      "powerMarkPosition": 452,
+      "answer": "name",
+      "acceptableAnswers": [
+        "name",
+        "The name"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbeb02c3c9bf58ab2ab545"
+    },
+    {
+      "id": "79518adc-5541-4404-bcbf-bdc9889c5484",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "This structure's evolutionary origins may lie in the relatively recent horizontal gene transfer of a pair of retroviral env proteins, known as syncytin-1 and syncytin-2 in humans. The Tenney-Parker change is a pathological finding in this structure of unusually high numbers of syncytial knots. Taxa are classified as eutherian based on whether or not they possess, or are extinct ancestors of species that possess this structure. Hofbauer cells are a type of macrophage that participates in vertical transmission in it. In this structure, the septa formed by incursions of the decidua basalis approach, but do not fully connect to, the chorionic plate. Inadequate perfusion of this organ is thought to be a cause of pre-eclampsia, a condition that can only be cured by removing this villous organ. For 10 points, name this organ which secretes human chorionic gonadotropin and is derived from maternal and fetal tissue.",
+      "powerMarkPosition": 430,
+      "answer": "placenta",
+      "acceptableAnswers": [
+        "placenta",
+        "The placenta"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae81cb"
+    },
+    {
+      "id": "ff30ff1c-e75b-4a63-ae07-75661f6ad2fa",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "An essay by this writer profiles the life and suicide of Pepi Lederer, with whom this writer often stayed at the Hearst estate. While patronized by the George Eastman House, this author wrote that biographers confused the quiet star of The Petrified Forest for a persona in the essay \"Humphrey and Bogey.\" This writer recalled that she was working as a call girl when her films were repopularized by 50s critics like Henri Langlois. The projected woman Faustine in The Invention of Morel was inspired by Adolfo Bioy Casares's obsession with this actor-turned-writer. This actor absconded to Berlin in 1929 with George Preston Marshall, where she starred in Diary of a Lost Girl and Pandora's Box. For 10 points, what bobbed flapper icon wrote Lulu in Hollywood?",
+      "powerMarkPosition": 468,
+      "answer": "Brooks",
+      "acceptableAnswers": [
+        "Brooks",
+        "Mary Louise Brooks",
+        "The Brooks"
+      ],
+      "source": "qbreader",
+      "sourceId": "67aece6996eae2aa19c6fcfb"
+    },
+    {
+      "id": "900b8789-43f8-4c6f-99d0-d7b6c7346033",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "Former Secretary for Education and Manpower Fanny Law managed the campaign of a candidate during an election held in this year. Two opposing candidates of an election in this year were criticized for illegal modifications to their houses. In this year, restrictions on birth tourism were enacted by a newly-elected Chief Executive who was the first to give his inaugural speech in Mandarin rather than Cantonese. Protests erupted in this year after a Beijing professor called Hong Kongers \"dogs\" in response to perceived impolite behavior by tourists. A law enacted in Guangdong took effect in this year by restricting the use of Cantonese in public media. For 10 points, identify this year in which CY Leung defeated Sir Donald Tsang to become Chief Executive of Hong Kong.",
+      "powerMarkPosition": 380,
+      "answer": "2012",
+      "acceptableAnswers": [
+        "2012",
+        "The 2012"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0da28"
+    },
+    {
+      "id": "b7b3c989-1a05-4824-9c33-1f496625759f",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "text": "This poet described a speaker's love as more \"obscure\" than \"an arrow of carnations, propagating fire\" in one of his one hundred love sonnets. This poet wrote that \"the night is starry/ and the stars are blue and shiver in the distance\" in the poem \"Tonight I can write.\" Another of this man's poems repeatedly intones \"In you everything sank!\" This poet included the sections \"The Sand Betrayed\" and \"The Heights of Macchu Picchu\" in his collection Canto General. For 10 points, name this poet of the collection Twenty Love Poems and a Song of Despair.",
+      "powerMarkPosition": 405,
+      "answer": "Neruda",
+      "acceptableAnswers": [
+        "Neruda",
+        "Neftalí Ricardo Reyes Basoalto",
+        "The Neruda"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f745d63ec41269ea99124e"
+    },
+    {
+      "id": "fac929fe-c1fa-4e0a-b858-a9d8d6ecff38",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "The man who formulated this concept later published \"The Effect of Attention on Brightness Contrast and Assimilation,\" and speculated about prehistoric social evolution in The Human Legacy. This concept was put forth in a book about the followers of Mrs. Marion Keech, who believed that the world would be ended in a flood caused by aliens. The theory was used to analyze the group's reaction when the aliens failed to arrive, and was experimentally investigated with J.C. Carlsmith. For 10 points, name this concept from When Prophecy Fails by Leon Festinger, which describes the results of subscribing to contradictory ideas.",
+      "powerMarkPosition": 254,
+      "answer": "cognitive dissonance",
+      "acceptableAnswers": [
+        "cognitive dissonance",
+        "The cognitive dissonance"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f830fc626ea977c7a3cd4"
+    },
+    {
+      "id": "16156f94-9ffc-4e20-a730-2063447fd167",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "One of these people is depicted as a red-skinned, pot-bellied man uprooting a tree in an image illustrating the \"rough business\" style he pioneered. These people could be met with shouts of their yagō guild name while adopting a pose called a mie (\"MEE-eh\"). Vincent van Gogh owned about ninety prints of these people produced as part of the yakusha-e (\"YAHK-sha-eh\") subgenre, which portrayed these people with contorted, realistic faces in contrast to Utamaro's contemporaneous portraits of beautiful women. These people walked down a runway platform called the hanamichi to the accompaniment of shamisen music. For 10 points, what sort of male entertainers wore thick white makeup to participate in the kabuki form?",
+      "powerMarkPosition": 453,
+      "answer": "actor",
+      "acceptableAnswers": [
+        "actor",
+        "kabuki performers",
+        "The actor"
+      ],
+      "source": "qbreader",
+      "sourceId": "691d18eedd1d63a6adb6361b"
+    },
+    {
+      "id": "000eef97-0a9f-44be-aa24-23195ae731a5",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "It's not glass, but these objects are paired with \"fruit dish\" in the name of a Georges Braque painting. A painting by Pieter de Hooch shows two soldiers using these objects. Two men sitting on a bench, one of them wearing blue jeans, use these objects while two men in green hats watch in a painting by George Caleb Bingham. One Caravaggio painting that features a boy with a large plume in his hat has two of these objects stuck in his belt behind him. Paul Cezanne painted a series of paintings named after people who use these objects, featuring two men in competition, one smoking a pipe. For 10 points, name these objects of which there are 52 of in a deck.",
+      "powerMarkPosition": 382,
+      "answer": "cards",
+      "acceptableAnswers": [
+        "cards",
+        "The cards"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6ded99f"
+    },
+    {
+      "id": "55bb6aa1-3aa3-4f43-b9f6-48a81323e57c",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for colon sections. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this colon-related structure.",
+      "powerMarkPosition": 75,
+      "answer": "Colon",
+      "acceptableAnswers": [
+        "colon",
+        "Colon"
+      ],
+      "explanation": "The colon is a key component of the Digestive system, involved in colon sections.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "d1f62a06-323f-4e67-9f39-02a790289f4a",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "text": "One event in this play is foreshadowed by a character's green pajamas. In another scene, a housewife leads several cafe patrons in a funeral procession for her dead cat. A character in this play claims that all cats are dogs because both have four paws, and that Socrates is a cat because he is dead, while attempting to explain syllogisms. In one scene in this play, a staircase's destruction prompts Mrs. Boeuf to leap out a window, after which Mr. Papillon orders Botard and the others to return to work. At this play's end, its protagonist is abandoned first by Dudard, then by his love interest Daisy, before screaming \"I'm not capitulating!\" For 10 points, identify this Eugene Ionesco play in which Berenger refuses to become one of the title animals.",
+      "powerMarkPosition": 450,
+      "answer": "Rhinoceros",
+      "acceptableAnswers": [
+        "Rhinoceros",
+        "Rhinocéros",
+        "The Rhinoceros"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aea2a"
+    },
+    {
+      "id": "014c466d-c305-42d1-91c4-7f297ba05f70",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "A German mercenary named Rolf Steiner claimed that the first coup against this man was orchestrated by Beverly Barnard of MI6, in conjunction with Anyanya rebels from Sudan. After this man was accused of smuggling ivory and gold by members of the KY party, he burned down the palace of their leader in what was known as the Battle of Mengo Hill. This man announced a plan to nationalize various industries at a soccer stadium in his Navikubo Pronouncement, part of his political philosophy known as the \"Move to the Left\" Although this man was of the Lango ethnic group, he relied on Acholi allies to purge his opponents, as they did during Operation Bonanza, part of the larger Bush War of the 1980s. This man first became prime minister in a power-sharing arrangement with Mutesa II, the King of Buganda, which ended when he abolished that state in 1966. For 10 points, name this man who served two stints as president of Uganda before and after Idi Amin.",
+      "powerMarkPosition": 797,
+      "answer": "Obote",
+      "acceptableAnswers": [
+        "Obote",
+        "The Obote"
+      ],
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa486"
+    },
+    {
+      "id": "7f0b5df0-0137-4beb-80ec-4434bf29fb43",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "This figure is granted three wishes, but only takes two while stating that \"greed devours all beings\". It's not Hamlet, but this figure states that \"the times are out of joint\" after they ask an unresolvable question to a sage and receive the reply \"the ways of dharma are subtle\". When a messenger is sent to fetch this character, they ask \"Did you first lose yourself, or me?\" A later interpolation states that this character refused to tie their hair until it could be washed with blood. This character is dragged by their hair into the court and is invited to sit on an exposed thigh. Vikarna was the only one of 100 brothers to object to the humiliation of this figure, which is prevented when Krishna magically lengthens her garment after Yudhistira loses her in a dice game. For 10 points, name this wife of the five Pandava brothers in the Mahabharata.",
+      "powerMarkPosition": 525,
+      "answer": "Draupadi",
+      "acceptableAnswers": [
+        "Draupadi",
+        "Pāṃcālī",
+        "Yajñasenī",
+        "prompt on Krishna",
+        "The Draupadi"
+      ],
+      "source": "qbreader",
+      "sourceId": "68aa6f80eb7f936a9a15e524"
+    },
+    {
+      "id": "07c62129-4cad-43b2-b37d-d49a3cb8bf23",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "middle_school",
+      "text": "In March 2020, this organization launched the Solidarity Trial, which discontinued its studies on hydroxy-chloro-quine in June. Bruce Aylward, a representative of this group, dodged a 2020 interview question about Taiwan's participation in this organization's pandemic research. Ethiopian biologist Tedros Adhanom leads, for 10 points, what group that eradicated smallpox and polio as part of its efforts to improve global public health?",
+      "powerMarkPosition": 213,
+      "answer": "World Health Organization",
+      "acceptableAnswers": [
+        "World Health Organization",
+        "The World Health Organization"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3114afad1e88c874a2dd1"
+    },
+    {
+      "id": "a24878c5-64cf-4ee6-bd62-7d4c8b25dfb2",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "A man from this city followed the nymph Hesperia into the ocean and was changed into a diving bird. His sister from this city raised her younger brother as her son so that she would have an extra if one were killed. This city, whose inhabitants included Aesacus and Ilione, was home to a ruler who gave Heracles a golden veil to appease his anger after he saved Hesione from a sea monster; that father of Polydorus was originally named Podarces and was later killed by Neoptolemus after the theft of the Palladium from this city. Poseidon and Apollo were forced into manual labor here to serve Laomedon, whose son had a hundred children. The dead body of a prince of this city was dragged around its walls three times. That man was the \"breaker of horses,\" Hector. For 10 points, name this city that was ruled by Priam and invaded by a wooden horse during a namesake war with Greece.",
+      "powerMarkPosition": 468,
+      "answer": "Troy",
+      "acceptableAnswers": [
+        "Troy",
+        "Ilium",
+        "The Troy"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423023"
+    },
+    {
+      "id": "0f3b24ab-7526-4c05-b217-73399acd2b5e",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "Late in this novel, ten military commandants decree the building of 100 paddleboats, which are sunk by people who swim under and puncture them. A group known as the \"original seven\" target a convoy of birthday presents early in this novel, which begins when several spirits are released from underneath a tortoise with a stele on its back. An episode from this novel in which a \"tiger slayer\" avenges the murder of his brother by murdering his brother's wife is the basis of an erotic spinoff translated into English as The Plum in the Golden Vase. This novel, which is attributed to Shi Nai'an, focuses on \"stars of destiny\" who gather near Mount Liang, and was translated into English by Pearl S. Buck under the title All Men Are Brothers. For 10 points, name this member of China's Four Great Classical Novels that centers on 108 bandits who congregate in a swamp.",
+      "powerMarkPosition": 523,
+      "answer": "Water Margin",
+      "acceptableAnswers": [
+        "Water Margin",
+        "Shui Hu Zhuan",
+        "Outlaws of the Marsh",
+        "Tale of the Marshes",
+        "Men of the Marshes",
+        "accept The Marshes of Mount Liang before “Liang”",
+        "accept All Men Are Brother before “All Men” is read",
+        "The Water Margin"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531ffa61a9ba79f359af"
+    },
+    {
+      "id": "f44249f9-e1df-4697-bab0-c63699d5c97b",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "One side in this conflict set up a base at Ascension Island, and Alexander Haig attempted to mediate a resolution to this conflict. That side regained Southern Thule shortly after this conflict's end, and previously had captured Goose Green. After General Leopold Galtieri began this war, a British Tabloid ran the headline \"Gotcha\" after the sinking of the General Belgrano, although the British lost the Atlantic Conveyor and H.M.S. Sheffield. For 10 points, name this conflict which boosted Margaret Thatcher's popularity after Stanley was recaptured from the Argentinians in its namesake Atlantic archipelago.",
+      "powerMarkPosition": 241,
+      "answer": "Falkland",
+      "acceptableAnswers": [
+        "Falkland",
+        "The Falkland"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f06af"
+    },
+    {
+      "id": "4351e725-d248-45cc-b279-2fc10241a72f",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for physical barriers. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this phagocyte-related structure.",
+      "powerMarkPosition": 77,
+      "answer": "Phagocyte",
+      "acceptableAnswers": [
+        "phagocyte",
+        "Phagocyte"
+      ],
+      "explanation": "The phagocyte is a key component of the Immune system, involved in physical barriers.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ffb2d4a1-0aed-43bf-89bb-23f11074f260",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "Ilya Mechnikov first studied this body system by inserting thorns in starfish, and its longevity depends on memory cells. An inflammatory response attracts macrophages from this system, while another of its cells is targeted by HIV. T cells and B cells are the major white blood cells of this system, which produces antibodies. For 10 points, name this body system that defends an organism against bacterial and viral infections.",
+      "powerMarkPosition": 232,
+      "answer": "immune",
+      "acceptableAnswers": [
+        "immune",
+        "The immune"
+      ],
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b738"
+    },
+    {
+      "id": "7a53fc18-ceb6-4c70-a68d-09e1384891db",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "One event that took place on this day was that a child-eating ogress was chased out of a village by taking advantage of her only weakness, the taunts and pranks of boys. Another story of this day tells of the restoration of the god of love after he was incinerated by the god of destruction. The defeat of Dhundhi, the restoration of Kama, and the death of a demoness instead of her nephew Prahlad are all celebrated during this festival. For 10 points, name this Hindu festival that frequently leaves participants inundated in colored powder.",
+      "powerMarkPosition": 291,
+      "answer": "Holi",
+      "acceptableAnswers": [
+        "Holi",
+        "The Holi"
+      ],
+      "source": "qbreader",
+      "sourceId": "630adb572eacc381ae57fdc2"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "0be29e7f-4d68-4680-9107-746c2a22771a",
+      "linkedTossupId": "70167ccb-b4b4-4722-8834-af2d93b3de7b",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The proper factors of these numbers add up the number itself. No odd one of these has been found yet, and the smallest ones are 6, 28, and 496.",
+          "answer": "perfect",
+          "acceptableAnswers": [
+            "perfect",
+            "The perfect"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "220 and 284 is the smallest pair of these numbers, whose divisors (excluding the number itself) add up to half of the number.",
+          "answer": "amicable",
+          "acceptableAnswers": [
+            "amicable",
+            "The amicable"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This sequence of numbers follows a similar recursion rule to the Fibonacci sequence. It begins 2, 1, 3, 4, 7, etc.",
+          "answer": "Lucas",
+          "acceptableAnswers": [
+            "Lucas",
+            "The Lucas"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the types of numbers from a description For 10 points each",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4341e"
+    },
+    {
+      "id": "340b8f72-3bbf-40dd-a100-ed77fea334bd",
+      "linkedTossupId": "54dc7440-f114-4cfc-8134-179094f1a325",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this group of figures that include the supposed woman Mallinath and the first, Rishabh Dev, who lived several sextillion years ago.",
+          "answer": "tirthankar",
+          "acceptableAnswers": [
+            "tirthankar",
+            "jina",
+            "fordmakers",
+            "The tirthankar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The twenty-fourth and most famous tirthankar was this figure formerly known as Vardhamana, who established the precepts of asteya and bramacharya.",
+          "answer": "Mahavira",
+          "acceptableAnswers": [
+            "Mahavira",
+            "The Mahavira"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mahavira attained enlightenment on this festival day which commemorates the defeat of Ravana and the return of a Guru to Amritsar, and sees the lighting of a lot of lights.",
+          "answer": "Diwali",
+          "acceptableAnswers": [
+            "Diwali",
+            "Dipavali",
+            "The Diwali"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The younger brother of one of these figures once grew angry at a painter who included a lifesized portrait of that figure in the middle of an erotic gallery. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df83920c3a38102cd75971"
+    },
+    {
+      "id": "9e23432f-ed4b-44f6-97b3-955286e477b2",
+      "linkedTossupId": "79518adc-5541-4404-bcbf-bdc9889c5484",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this ocean current system that transports up to one quarter of the Earth's heat flux. The Gulf Stream forms part of this larger system, in which colder and denser water sinks as it nears Greenland.",
+          "answer": "Atlantic Meridional Overturning Circulation",
+          "acceptableAnswers": [
+            "Atlantic Meridional Overturning Circulation",
+            "AMOC",
+            "prompt on partial answer",
+            "generously prompt on “thermohaline circulation”",
+            "The Atlantic Meridional Overturning Circulation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The North Atlantic current and the Norwegian current combine to form a \"subpolar\" type of this current pattern, whose subtropical counterparts cause surface water to sink.",
+          "answer": "gyre",
+          "acceptableAnswers": [
+            "gyre",
+            "The gyre"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The oceans are also suffering from climate change due to acidification, which reduces the available concentration of this chemical compound, which forms the skeleton of coral reefs and other marine animals.",
+          "answer": "calcium carbonate",
+          "acceptableAnswers": [
+            "calcium carbonate",
+            "CaCO3",
+            "accept aragonite",
+            "calcite",
+            "The calcium carbonate"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Current models predict that the melting of Greenland will contribute to a weakening of this system in the current decades, though a complete shutdown is unlikely. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64d9124079c2b495d9b421cb"
+    },
+    {
+      "id": "0e263816-bb59-40d6-ab21-f9f2852b9211",
+      "linkedTossupId": "ff30ff1c-e75b-4a63-ae07-75661f6ad2fa",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this French painter who painted First Disc as well as a series of studies of Paris, all of which prominently feature the Eiffel Tower.",
+          "answer": "Delaunay",
+          "acceptableAnswers": [
+            "Delaunay",
+            "The Delaunay"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Delaunay was considered a leader of the 'salon' branch of this movement in art. Other members of the 'salon' branch were Delaunay's wife Sonia, Jean Metzinger, Henri Le Fauconnier, and Albert Gleizes.",
+          "answer": "Cubism",
+          "acceptableAnswers": [
+            "Cubism",
+            "The Cubism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cubism took its cues from this earlier painter who broke the surface of his paintings into geometric shapes such as in The Basket of Apples. He spent much of his time painting Mont Saint-Victoire in Provence.",
+          "answer": "Cezanne",
+          "acceptableAnswers": [
+            "Cezanne",
+            "The Cezanne"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man's painting Political Drama combined concentric, quartered circles of bright color with a front cover of Le Petit Journal depicting the shooting of Le Figaro editor Gaston Calmette. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271cedbb2"
+    },
+    {
+      "id": "164ca018-426f-473a-b6c7-7cdb916e4db1",
+      "linkedTossupId": "900b8789-43f8-4c6f-99d0-d7b6c7346033",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this reform movement heralded by Philipp Jakob Spener and August Hermann Francke, which broke from the Lutheran emphasis on doctrine and theology and instead stressed personal faith.",
+          "answer": "Pietism",
+          "acceptableAnswers": [
+            "Pietism",
+            "word forms",
+            "The Pietism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Francke and Spener co-founded the University at this German city in southern Saxony, and made it a center of Pietism. The Marktkirche in this city contains the original death-mask of Martin Luther, who posted his 95 Theses at Wittenberg an hour away.",
+          "answer": "Halle",
+          "acceptableAnswers": [
+            "Halle",
+            "Saale",
+            "The Halle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Halle brand of Pietism was a profound influence on John Wesley, who found this other movement that became a full-blown sect in its own right.",
+          "answer": "Methodism",
+          "acceptableAnswers": [
+            "Methodism",
+            "word forms",
+            "The Methodism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A community of \"radical\" members of this movement known as the Skevikare toured Northern Europe in exile for eleven years before settling on an island off the coast of Stockholm. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed6a483fe041d20f4a48f8"
+    },
+    {
+      "id": "edb635a6-33d3-4e2f-a336-77fa73f55b8b",
+      "linkedTossupId": "b7b3c989-1a05-4824-9c33-1f496625759f",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this fictional city based upon Tangiers where Naked Lunch is largely set.",
+          "answer": "Interzone",
+          "acceptableAnswers": [
+            "Interzone",
+            "The Interzone"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author who also popularized the cut-up technique with Brion Gysin wrote about his alter-ego William Lee in Naked Lunch.",
+          "answer": "Burroughs",
+          "acceptableAnswers": [
+            "Burroughs",
+            "William Seward Burroughs",
+            "The Burroughs"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Along with his collaborator Jack Kerouac, Burroughs was part of this American literary movement. Allen Ginsberg, the poet of \"Howl,\" was also part of this movement.",
+          "answer": "beat",
+          "acceptableAnswers": [
+            "beat",
+            "beatniks",
+            "accept equivalent answers mentioning beat",
+            "The beat"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this city, AJ crashes a party that Hassan is throwing, while a university professor teaches about \"The Rime of the Ancient Mariner\" while also talking about sexual behavior. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "651a2dce5c3919082740d100"
+    },
+    {
+      "id": "cb225841-798d-4c60-b5f5-e2bbe6c3002d",
+      "linkedTossupId": "fac929fe-c1fa-4e0a-b858-a9d8d6ecff38",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this psychologist who developed a projective sentence completion test with Janet Rafferty. This psychologist distinguished between internal and external loci of control in his landmark Social Learning and Clinical Psychology.",
+          "answer": "Rotter",
+          "acceptableAnswers": [
+            "Rotter",
+            "The Rotter"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Locus of control is one of the four core self-evaluations along with this concept, the belief in one's capacity to execute behaviors necessary to produce specific performance attainments. Albert Bandura worked on increasing this measure in snake-phobics.",
+          "answer": "efficacy",
+          "acceptableAnswers": [
+            "efficacy",
+            "The efficacy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bandura studied observational learning of aggressive behavior in an experiment in which many subjects smashed this kind of inflatable toy with a mallet after seeing an adult do the same.",
+          "answer": "doll",
+          "acceptableAnswers": [
+            "doll",
+            "The doll"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This psychologist modeled behavior potential as a function of the probability and desirability of a given outcome. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289caf42"
+    },
+    {
+      "id": "f66a2976-8c00-4910-a4ec-003a0ed94e07",
+      "linkedTossupId": "16156f94-9ffc-4e20-a730-2063447fd167",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Three movements of Dvořák's \"American\" String Quartet have themes that use this scale common in folk music. The major version of this scale omits the fourth and seventh scale degrees, and so can be played using only the black keys of a piano.",
+          "answer": "pentatonic",
+          "acceptableAnswers": [
+            "pentatonic",
+            "The pentatonic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The furiant, a Bohemian folk dance that alternates between 2/4 (\"two-four\") and 3/4 (\"three-four\") time, is used in Dvořák's A major piece for this chamber ensemble, his second. Shostakovich's piece for this ensemble in G minor opens with a \"Prelude\" and \"Fugue.\"",
+          "answer": "piano quintet",
+          "acceptableAnswers": [
+            "piano quintet",
+            "quintet",
+            "The piano quintet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This form inspired by Ukrainian folk ballads is used in all six movements of Dvořák's fourth piano trio, lending it its nickname. In classical music, this Slavic form is typically pensive, interspersed with cheerful episodes.",
+          "answer": "dumka",
+          "acceptableAnswers": [
+            "dumka",
+            "“Dumky” Trio",
+            "Op. 90",
+            "The dumka"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about folk influences in the works of Antonín Dvořák, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "65ba8789ca6edbbc92a5d326"
+    },
+    {
+      "id": "8ed14384-6549-4d37-bd5e-3d7cb5ebc899",
+      "linkedTossupId": "000eef97-0a9f-44be-aa24-23195ae731a5",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this painting that depicts a man with a plumed feather in his hand cheating at a game by holding some implements behind his back.",
+          "answer": "Cardsharps",
+          "acceptableAnswers": [
+            "Cardsharps",
+            "The Cardsharps"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cardsharps was painted by this pioneer of tenebrism whose religious scenes include his Calling of St. Matthew and his Conversion of St. Paul.",
+          "answer": "Caravaggio",
+          "acceptableAnswers": [
+            "Caravaggio",
+            "The Caravaggio"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Caravaggio painted both \"young\" and \"sick\" depictions of this figure, who, in both cases, wears a crown made of various plant life and is surrounded by edibles.",
+          "answer": "Bacchus",
+          "acceptableAnswers": [
+            "Bacchus",
+            "The Bacchus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The backmost figure in this painting peeks with a look of bewilderment on his face at the objects that another character is clasping. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d154"
+    },
+    {
+      "id": "47b52eaa-b97d-4bad-976b-fc642a7d855a",
+      "linkedTossupId": "55bb6aa1-3aa3-4f43-b9f6-48a81323e57c",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with cranial nerves.",
+          "answer": "cranial nerve",
+          "acceptableAnswers": [
+            "cranial nerve"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cranial nerve in the nervous system?",
+          "answer": "Cranial nerves",
+          "acceptableAnswers": [
+            "Cranial nerves"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to cranial nerves.",
+          "answer": "vagus nerve",
+          "acceptableAnswers": [
+            "vagus nerve"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "7c65c99e-a1d3-45f6-80f8-3a82276f642f",
+      "linkedTossupId": "d1f62a06-323f-4e67-9f39-02a790289f4a",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this character who shoots Clare Quilty, the author of The Nymph and the kidnapper of the novel's title figure.",
+          "answer": "Humbert",
+          "acceptableAnswers": [
+            "Humbert",
+            "The Humbert"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Humbert Humbert is the protagonist of Lolita, a novel by this author of The Defense and the memoir Speak, Memory.",
+          "answer": "Nabokov",
+          "acceptableAnswers": [
+            "Nabokov",
+            "The Nabokov"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Nabokov wrote this novel which is presented as a 999-line poem split into four cantos, as well as a foreword, commentary, and index by the professor Charles Kinbote, who believes himself to be the exiled king of Zembla.",
+          "answer": "Pale Fire",
+          "acceptableAnswers": [
+            "Pale Fire",
+            "The Pale Fire"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character meets his childhood sweetheart, Annabel Leigh when she visits his family's hotel, and is later traumatized when she dies of typhus. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974244d7"
+    },
+    {
+      "id": "f39f3fd9-d1c0-461a-b654-d6c734b0fa83",
+      "linkedTossupId": "014c466d-c305-42d1-91c4-7f297ba05f70",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this country of Southeast Asia which is divided in half by the South China Sea.",
+          "answer": "Malaysia",
+          "acceptableAnswers": [
+            "Malaysia",
+            "The Malaysia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This city, the largest and the capital of Malaysia, is home to the Menara Telekom Building and Sultan Abdul Samad Building.",
+          "answer": "Kuala Lumpur",
+          "acceptableAnswers": [
+            "Kuala Lumpur",
+            "The Kuala Lumpur"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A namesake strait separates this Malaysian state from Singapore. The southernmost state of the peninsular portion of Malaysia, it corresponds to a former sultanate of the same name.",
+          "answer": "Johor",
+          "acceptableAnswers": [
+            "Johor",
+            "The Johor"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This country is home to Mount Kinabalu. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df7ca243aee49db2f769d3"
+    },
+    {
+      "id": "d21c122e-1598-42d8-9765-7af1afac7be1",
+      "linkedTossupId": "7f0b5df0-0137-4beb-80ec-4434bf29fb43",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Plutarch relates that Cimon of Athens dug up what figure's bones after he witnessed an eagle scratching at the ground? Lycomedes of Skyros is said to have thrown this figure off a cliff, though others say he just slipped.",
+          "answer": "Theseus",
+          "acceptableAnswers": [
+            "Theseus",
+            "Theseum",
+            "The Theseus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In another tale, Plutarch relates how the Athenians saw Theseus's apparition rush ahead of them into Persian lines at this battle. The runner Pheidippides died after he announced the Athenian victory at this battle.",
+          "answer": "Marathon",
+          "acceptableAnswers": [
+            "Marathon",
+            "The Marathon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Before his implied intervention at Marathon, this deity had asked Pheidippides why the Athenians had failed to honor him despite his friendship. In gratitude, the Athenians built a sanctuary dubbed this god's \"Cave\" beneath the Acropolis.",
+          "answer": "Pan",
+          "acceptableAnswers": [
+            "Pan",
+            "The Pan"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Temple of Hephaestus was once named for this figure due to the mistaken belief that he was buried within it. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "689a0d612d8608f4ad851555"
+    },
+    {
+      "id": "f4449d70-ef2e-4f9b-bcf2-797448e0da30",
+      "linkedTossupId": "07c62129-4cad-43b2-b37d-d49a3cb8bf23",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this lake on the border of New York and Vermont.",
+          "answer": "Champlain",
+          "acceptableAnswers": [
+            "Champlain",
+            "The Champlain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lake Champlain is often called the sixth of these bodies of water; so is Georgian Bay, northeast of Lake Huron, which is the third largest of these. The shallowest one of these is Lake Erie.",
+          "answer": "Great Lake",
+          "acceptableAnswers": [
+            "Great Lake",
+            "The Great Lake"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Benedict Arnold and Ethan Allen led the Green Mountain Boys in a 1775 attack on this fort at the southern end of Lake Champlain.",
+          "answer": "Ticonderoga",
+          "acceptableAnswers": [
+            "Ticonderoga",
+            "The Ticonderoga"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Revolutionary War Battle of Valcour Island took place in Valcour Bay in this body of water, as did the Battle of Plattsburg during the War of 1812. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac9f4"
+    },
+    {
+      "id": "b301c398-0a17-4886-ad20-5c33927bd860",
+      "linkedTossupId": "a24878c5-64cf-4ee6-bd62-7d4c8b25dfb2",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this weird dude who advises a child to build a series of runoff ditches before that kid's fight with a fat reptile. Early in that poem, this guy crashes a party by walking into a hall and plunging his sword into a tremendous tree.",
+          "answer": "Odin",
+          "acceptableAnswers": [
+            "Odin",
+            "Wotan",
+            "accept Wodan",
+            "The Odin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Odin stabs Barnstokkr after waltzing into a feast hosted by this man. After receiving a golden apple sent by Odin, Rerir's wife gives birth to this man, whose namesake Icelandic saga includes characters like Fafnir and Brynhildr.",
+          "answer": "Völsung",
+          "acceptableAnswers": [
+            "Völsung",
+            "Völsunga saga",
+            "Saga of the Volsungs",
+            "The Völsung"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the Völsunga saga, Odin's numerous interventions into the lives of mortals include his sudden appearance and performance of this action. Hjordis remarries Alf as a result of this action, whose victim interprets it as his luck forsaking him, thus refusing offers to be healed.",
+          "answer": "breaks Sigmund’s sword",
+          "acceptableAnswers": [
+            "breaks Sigmund’s sword",
+            "synonyms for break such as shatter",
+            "smash",
+            "fracture",
+            "prompt on answers that describe causing Sigmund to lose a battle",
+            "abandoning Sigmund",
+            "causing Sigmund to die by asking “what physical action does Odin perform that results in Sigmund’s defeat?”",
+            "prompt on breaking Sigmund’s weapon by asking “what type of weapon?”",
+            "prompt on breaking a sword by asking “whose sword?”",
+            "prompt on breaking a weapon by asking “whose weapon",
+            "and what type of weapon was it?”",
+            "reject “killing Sigmund”",
+            "reject answers mentioning “Sigurd”",
+            "“Siegfried”",
+            "The breaks Sigmund’s sword"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Following a son's death after being encouraged to drink poisoned mead by his dad, this man creepily disappears with his body after claiming that there isn't enough room in a boat for all three of them. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db46765"
+    },
+    {
+      "id": "690bd57c-5c35-4903-8857-21a39b2edc1e",
+      "linkedTossupId": "0f3b24ab-7526-4c05-b217-73399acd2b5e",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this character, who disguises herself as judge Balthasar in The Merchant of Venice, and is forced to marry the suitor who chooses correctly from three caskets.",
+          "answer": "Portia",
+          "acceptableAnswers": [
+            "Portia",
+            "The Portia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Portia addresses \"The Quality of Mercy\" speech to this Jewish character, who demands a \"pound of flesh\" from the merchant Antonio.",
+          "answer": "Shylock",
+          "acceptableAnswers": [
+            "Shylock",
+            "The Shylock"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Earlier in the play, Portia marries this character after the princes from Morocco and Aragon fail to choose the right casket. In Act I, he borrows money from Shylock to finance his venture to Belmont.",
+          "answer": "Bassanio",
+          "acceptableAnswers": [
+            "Bassanio",
+            "The Bassanio"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one speech she asserts, \"The Quality of Mercy is not strain'd / It droppeth as the gentle rain from heaven / Upon the place beneath.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fe01"
+    },
+    {
+      "id": "94f54758-fcbc-455b-97ee-dcdd082fbae7",
+      "linkedTossupId": "f44249f9-e1df-4697-bab0-c63699d5c97b",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This current President defeated Marine le Pen in the 2017 elections.",
+          "answer": "Macron",
+          "acceptableAnswers": [
+            "Macron",
+            "The Macron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This general led Free France during World War II and rose to power as President in 1958 as the Fourth Republic fell.",
+          "answer": "de Gaulle",
+          "acceptableAnswers": [
+            "de Gaulle",
+            "The de Gaulle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Prime Minister of France, known as \"the Tiger,\" led the French delegation at the Paris Peace Conference. His insistence on harsh German reparations made it into the Treaty of Versailles.",
+          "answer": "Clemenceau",
+          "acceptableAnswers": [
+            "Clemenceau",
+            "The Clemenceau"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name the following leaders of France.",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004d42"
+    },
+    {
+      "id": "2dc8e9c4-d02a-4d2f-ab66-9c7bd1dccfbf",
+      "linkedTossupId": "4351e725-d248-45cc-b279-2fc10241a72f",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with posterior pituitary hormones.",
+          "answer": "hypothalamus",
+          "acceptableAnswers": [
+            "hypothalamus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hypothalamus in the endocrine system?",
+          "answer": "Posterior pituitary hormones",
+          "acceptableAnswers": [
+            "Posterior pituitary hormones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to posterior pituitary hormones.",
+          "answer": "pituitary",
+          "acceptableAnswers": [
+            "pituitary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9d4d7722-47a8-42b5-9efe-24882164a7dc",
+      "linkedTossupId": "ffb2d4a1-0aed-43bf-89bb-23f11074f260",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "In part because the exponent on x is a positive integer, the expression is this type of mathematical object.This term comes from the Greek root for \"many\" and the Latin root for \"name,\" but you can also give an answerthat uses the Greek root for \"three,\" since this example has three terms.",
+          "answer": "polynomial",
+          "acceptableAnswers": [
+            "polynomial",
+            "The polynomial"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One million is the value of this property of the polynomial, equal to its highest exponent.",
+          "answer": "degree",
+          "acceptableAnswers": [
+            "degree",
+            "The degree"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The polynomial has this property, which is visible by noticing that the graph is reflective over the y-axis.",
+          "answer": "even",
+          "acceptableAnswers": [
+            "even",
+            "The even"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Give the following about the mathematical expression \"x to the one millionth power, plus three xsquared, plus four,\" for ten points each.",
+      "source": "qbreader",
+      "sourceId": "6837af6a278db02eb79f1e91"
+    },
+    {
+      "id": "0cbffcb3-13ad-4afc-9fb3-0748400798ca",
+      "linkedTossupId": "7a53fc18-ceb6-4c70-a68d-09e1384891db",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this chief Olympian deity, who freed the Hecatonchires to help him fight against the Titans.",
+          "answer": "Zeus",
+          "acceptableAnswers": [
+            "Zeus",
+            "The Zeus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In his early life, Zeus was fed by Amalthea, a female animal of this kind. A god with the hindquarters, legs, and horns of this animal was the son of Hermes and Dryope.",
+          "answer": "goat",
+          "acceptableAnswers": [
+            "goat",
+            "Capra aegagrus hircus",
+            "The goat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During Zeus' infancy, Rhea enlisted the help of this group of dancers to make noise from their armor and weapons in order to drown out Zeus' cries.",
+          "answer": "Korybantes",
+          "acceptableAnswers": [
+            "Korybantes",
+            "Kurbantes",
+            "Curetes",
+            "The Korybantes"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This god punished the Telchines for their malevolent use of magic, and also punished Salmoneus for mimicking him. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31eab"
+    }
+  ]
+}

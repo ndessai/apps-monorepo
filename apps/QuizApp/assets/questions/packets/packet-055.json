@@ -1,0 +1,1139 @@
+{
+  "packetId": "packet-055",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Philosophy",
+    "Science",
+    "Human Body",
+    "Literature",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "507825de-f3c4-4484-bbdd-4fcba8ec2521",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "Deities in this religion, which include conjoined twins known as the Marassa, are divided into 21 nations, including Rada and Petwo. Among its clergy are magicians-for-hire called bokors, priests called houngans, and priestesses called mambos. Members of this religion pray to saint-like spirits such as Papa Legba who are known as loa, intermediaries between humans and the supreme god Bondye. For 10 points, name this syncretic Haitian religion whose actual religious practices typically don't involve raising zombies or sticking pins into dolls.",
+      "powerMarkPosition": 243,
+      "answer": "Voodoo",
+      "acceptableAnswers": [
+        "Voodoo",
+        "Haitian Vodoun",
+        "The Voodoo"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6ded917"
+    },
+    {
+      "id": "a781d052-12ef-412b-8c32-78d9412c51c0",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "These materials are separated from impurities via dissolution in the VinyLoop (\"VIN-uh-LOOP\") process. Extrusion and injection molding are the most common methods of fabrication using these materials, classes of which include thermosets. Bakelite was the first synthetic example of these materials. These materials are designated numbers from 1 to 7 in the resin identification code for recycling. Polyvinyl chloride and nylon are common examples of, for 10 points, what moldable polymers used to mass produce slow-degrading objects like milk jugs and water bottles?",
+      "powerMarkPosition": 237,
+      "answer": "plastic",
+      "acceptableAnswers": [
+        "plastic",
+        "polymers until read",
+        "The plastic"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff999"
+    },
+    {
+      "id": "c968a317-7ea1-4131-95c2-aec8bfd0f695",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for hair follicle structure. It plays a key role in the integumentary system and is one of the most studied parts of human anatomy. For ten points, name this hair follicle-related structure.",
+      "powerMarkPosition": 76,
+      "answer": "Hair follicle",
+      "acceptableAnswers": [
+        "hair follicle",
+        "Hair follicle"
+      ],
+      "explanation": "The hair follicle is a key component of the Integumentary system, involved in hair follicle structure.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "6c5d6048-52b3-40ce-93ce-b264e67d87d5",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for insulin and glucagon. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this insulin-related structure.",
+      "powerMarkPosition": 78,
+      "answer": "Insulin",
+      "acceptableAnswers": [
+        "insulin",
+        "Insulin"
+      ],
+      "explanation": "The insulin is a key component of the Endocrine system, involved in insulin and glucagon.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "d29fb997-1060-4d6f-a9c8-672dc7fed061",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "Only one of these texts includes the notion that its central figure's relatives doubted his sanity, and another describes that figure's parents searching for him when he stayed with teachers rather than join a caravan. The documentary theory explaining the similarities of these texts includes the possibility of a Q source. Instances recorded by all of these texts include the calling of Levi and the healing of a leper. Only of these texts describe the marriage at Cana, one omits the Sermon on the Mount, and two of these texts include a genealogy of Christ. For 10 points, identify this grouping of the books of Matthew, Mark, Luke, and John, which describe the life of Christ.",
+      "powerMarkPosition": 314,
+      "answer": "Gospels",
+      "acceptableAnswers": [
+        "Gospels",
+        "books of the Bible",
+        "New Testament before “documentary theory” is read",
+        "The Gospels"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a557"
+    },
+    {
+      "id": "0ec08721-1e03-4c46-beaa-2ac24fb4638f",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for reflex arcs. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this spinal cord-related structure.",
+      "powerMarkPosition": 76,
+      "answer": "Spinal cord",
+      "acceptableAnswers": [
+        "spinal cord",
+        "Spinal cord"
+      ],
+      "explanation": "The spinal cord is a key component of the Nervous system, involved in reflex arcs.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "1528a6b3-7a54-4dcd-a35e-7558e57c1cc0",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "An early commentator on this work had a pseudonym meaning \"Inkstone Studio.\" John Minford helped complete the seminal English translation of this work by David Hawkes. A significant dispute in this work's namesake \"-ology\" centers on whether its last forty chapters were a later addition to its first eighty chapters. Feminist criticism of this work often contrasts the female-dominated space of the Grand View Garden with the patriarchal outside world and discusses the 12 Beauties of Jīnlíng. In this novel, the Disenchantment Fairy is visited by a priest and a monk carrying the protagonist, who is reincarnated as a boy with a piece of jade in his mouth. For 10 points, the tragic love story of Jiǎ Bǎoyù and Lín Dàiyù is detailed in what classic Chinese novel?",
+      "powerMarkPosition": 317,
+      "answer": "Dream of the Red Chamber",
+      "acceptableAnswers": [
+        "Dream of the Red Chamber",
+        "The Story of the Stone",
+        "A Dream of Red Mansions",
+        "Hóng lóu mèng",
+        "prompt on Redology",
+        "The Dream of the Red Chamber"
+      ],
+      "source": "qbreader",
+      "sourceId": "692330edf1f28d19289b808e"
+    },
+    {
+      "id": "0c93d07f-0a13-4a70-8328-444c4d260bfd",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "One character created by this author keeps the secret of Thomas Ashby's engagement. Another of this non-Goldsmith author's novels details the romance between Annabella Wilmot and Arthur Huntingdon. The title character of one of this author's novels is a governess for the Bloomfields and the Murrays, and ends up marrying Edward Weston. This author wrote about Helen Graham, who marries Gilbert Markham after meeting him at the title estate. For 10 points, name this author of Agnes Grey and The Tenant of Wildfell Hall, who had sisters called Emily and Charlotte.",
+      "powerMarkPosition": 197,
+      "answer": "A",
+      "acceptableAnswers": [
+        "A",
+        "Bronte alone"
+      ],
+      "source": "qbreader",
+      "sourceId": "6413cd9afdc648a1ed7097dc"
+    },
+    {
+      "id": "fcefff23-6668-41d6-8388-cb50fdd0bdbf",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "In the music industry, this phenomenon is employed to store information by tape recorders and floppy disks. MRI scans image the body using the \"para\" and \"dia\" forms of this phenomenon. A modern technology for bullet trains uses this phenomenon to levitate and propel the train. Cobalt and iron are used to make hard drives because they have the \"ferro\" form of this phenomenon. Compasses always point north due to the Earth's \"field\" of this phenomenon. For 10 points, in what phenomenon do objects' north and south poles attract or repel each other?",
+      "powerMarkPosition": 247,
+      "answer": "magnet",
+      "acceptableAnswers": [
+        "magnet",
+        "word forms",
+        "like magnetic",
+        "paramagnetism",
+        "diamagnetism",
+        "accept ferromagnetism",
+        "accept magnetic resonance imaging",
+        "accept MagLev",
+        "magnetic levitation",
+        "magnetic field",
+        "The magnet"
+      ],
+      "source": "qbreader",
+      "sourceId": "66e1bbb7b3ec1cfe3cd4a71c"
+    },
+    {
+      "id": "1283247f-7fae-4d1a-8567-5d90d7985ecb",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "A thinker from this country outlined the \"focal point approach\" to law and economics in The Republic of Beliefs. A sufficient statistics approach is used to determine the economic effects of this country's rail network in a 2018 paper by Dave Donaldson. An economist originally from this country directs Harvard's Opportunity Insights, which identifies policies that improve upward mobility. Esther Duflo, Michael Kremer, and an economist from this country co-won the 2019 Economics Nobel Prize. An economist from this country created the capabilities approach with Martha Nussbaum and wrote Development as Freedom. For 10 points, name this country home to the highest number of people living in extreme poverty worldwide, and which is therefore often studied by development economists like Amartya Sen.",
+      "powerMarkPosition": 253,
+      "answer": "India",
+      "acceptableAnswers": [
+        "India",
+        "Republic of India",
+        "Bhārat Gaṇarājya",
+        "The India"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423def"
+    },
+    {
+      "id": "16558da2-106e-4318-b77a-ea6a28729bda",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "A coupling between phase noise and periodic feedback in these devices causes the Dick effect. The Allan variance is used to compare the stability of one of these devices to a reference, whose accuracy can be improved using optical frequency combs. JILA created one of these devices consisting of a three-dimensional optical lattice of strontium atoms. In the Hafele-Keating experiment, a pair of these devices were placed on airplanes flying in opposite directions in a precision test of relativity. UTC and TAI are set using a weighted average of these devices. One of these devices in Boulder, Colorado, called NIST-F2, is based on a cesium-133 fountain. For 10 points, name these very precise instruments that use cyclic electronic transitions to tell time.",
+      "powerMarkPosition": 424,
+      "answer": "clock",
+      "acceptableAnswers": [
+        "clock",
+        "lattice clocks",
+        "optical clocks",
+        "prompt on oscillators with “what kind of device is the oscillator being used as?”",
+        "The clock"
+      ],
+      "source": "qbreader",
+      "sourceId": "68846998641a9dc975af887d"
+    },
+    {
+      "id": "0d809b2b-d72b-496a-8b76-fab31f664dbc",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "text": "A novel from this country fictionalized the disappearance of the author Ambrose Bierce and is titled The Old Gringo. A poet from this country described one of its cultures' 584-day calendar in his poem \"Sunstone\". Immigrants from this country live in Chicago in the novel The House on Mango Street. For 10 points, name this home country of the authors Carlos Fuentes and Sandra Cisneros, which is the southern neighbor of the United States.",
+      "powerMarkPosition": 250,
+      "answer": "Mexico",
+      "acceptableAnswers": [
+        "Mexico",
+        "United Mexican States",
+        "The Mexico"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef79cbbbb69a5263ce16"
+    },
+    {
+      "id": "f6472a06-86e1-4996-baf1-caaf6cd9d128",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "Required for synthesis of dopamine, epinephrine, and norepinephrine, it generally acts as an antioxidant, but it can be pro-oxidant in some circumstances. However, its most important function is hydroxylating proline and lysine in the production of collagen by the body. Discovered by Charles King and Albert Szent-Gyorgyi in 1932, James Lind conducted an experiment in 1747 that showed its importance, in the form of certain foods fed to sailors at sea to prevent scurvy. For 10 points, Linus Pauling advocated megadoses of what popular vitamin found in citrus fruits?",
+      "powerMarkPosition": 270,
+      "answer": "C",
+      "acceptableAnswers": [
+        "C"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a4560337"
+    },
+    {
+      "id": "76780214-03a9-4777-b83c-c89b45c9c084",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "He repeatedly fought Ben-Hadad of Damascus and allied himself with Jehoshaphat of Judah against the Arameans to free Ramoth Gilead. Four hundred and fifty of his prophets of Baal were defeated by Elijah and killed on Mount Caramel, after they could not call down fire for a sacrifice. He was warned by Micah he would die in battle, and Elijah prophesized dogs would lick his blood after his wife had Naboth stoned to obtain a vineyard. For 10 points, identify this king of Israel married to the notorious Jezebel.",
+      "powerMarkPosition": 284,
+      "answer": "Ahab",
+      "acceptableAnswers": [
+        "Ahab",
+        "The Ahab"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9840fe0"
+    },
+    {
+      "id": "b478b936-0557-4600-85cc-fbffdb7661da",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "In one poem, this man asked \"Why has not man a microscopic eye?\" and answered \"For this plain reason, - man is not a fly\". In another of his poems, a bag of \"sighs, sobs, and passions\" and a vial of \"soft sorrows, melting griefs, and flowing tears\" are poured on Thalestris and another woman. This author asked \"Who breaks a butterfly upon the wheel?\" in his \"Epistle to Dr. Arbuthnot\". One of his poems describes how \"Hope springs eternal from the human breast\" and claims that \"the proper study of Mankind is Man\". The gnome Umbriel visits the Cave of Spleen in a mock-heroic poem by this author in which the Baron steals the title object from Belinda. For 10 points, name this English satirist who wrote An Essay on Man and \"The Rape of the Lock\"",
+      "powerMarkPosition": 370,
+      "answer": "Pope",
+      "acceptableAnswers": [
+        "Pope",
+        "The Pope"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aeb8c"
+    },
+    {
+      "id": "c2f28255-248e-4a2d-be1c-b924f0a9ab33",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "Based on her work on languages spoken in this country, Eloise Jelinek developed the pronominal argument hypothesis for polysynthetic languages. Several language families spoken in the west of this country, including Siuslaw and Yokuts, are part of the proposed Penutian macrofamily. Chimakuan languages made up part of an indigenous creole language originating in this country's northwest that spread to its northern neighbor and is called Chinook Jargon. The unusual properties and lack of a published dictionary for this country's most-spoken indigenous language led this country to use that language for wartime communication. \"Code talkers\" were used by the military of, for 10 points, what country home to the Muscogee and Navajo languages?",
+      "powerMarkPosition": 439,
+      "answer": "United States",
+      "acceptableAnswers": [
+        "United States",
+        "USA",
+        "accept either underlined part",
+        "The United States"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0aed0f"
+    },
+    {
+      "id": "19da8e07-e6b3-4c36-9d46-ee24c1ea62bf",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for stomach anatomy. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this esophagus-related structure.",
+      "powerMarkPosition": 94,
+      "answer": "Esophagus",
+      "acceptableAnswers": [
+        "esophagus",
+        "Esophagus"
+      ],
+      "explanation": "The esophagus is a key component of the Digestive system, involved in stomach anatomy.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "882a4563-1aa0-4f40-929b-9eadf755cd6c",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "In one story by this author, the protagonist visits a restaurant called The Hot Spot and calls upon the Lord to \"Wash the slime from this earth\" after a youth calls his mother \"a stinking pole cat\" before jumping out of a moving car. In another story by this author, a woman journeys to the YMCA for her reducing class, but is knocked down after trying to give a black child a penny. This author created the pretentious child Julian and carpenter Thomas T. Shiftlet in \"Everything That Rises Must Converge\" and \"The Life You Save May Be Your Own.\" Her best known story features a family traveling to Florida running into in an escaped murderer called the Misfit with tragic results. For 10 points, name this female Southern Gothic author of \"A Good Man is Hard to Find.\"",
+      "powerMarkPosition": 383,
+      "answer": "O’Connor",
+      "acceptableAnswers": [
+        "O’Connor",
+        "The O’Connor"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da7fd"
+    },
+    {
+      "id": "9541f34e-a4dd-4c5f-b2e3-9ac3d3868ca8",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "This poem was first published in Botteghe Oscure alongside the author's other poem \"Lament,\" which the author remarked formed \"a contrast\" with it. This poem was published in the author's collection In Country Sleep, and Other Poems, and it variously describes \"wild men who caught and sang the sun in flight,\" old men whose words \"had forked no lightning,\" and \"grave men\" near death. This villanelle was potentially addressed to the author's dying father, and it urges the addressee to \"burn and rave at close of day\" and to \"rage, rage against the dying of the light.\" For 10 points, name this most famous poem by Dylan Thomas.",
+      "powerMarkPosition": 310,
+      "answer": "Do not go gentle into that good night",
+      "acceptableAnswers": [
+        "Do not go gentle into that good night",
+        "The Do not go gentle into that good night"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc3e2"
+    },
+    {
+      "id": "37f76ae6-7c7a-4d8d-948b-b1bf08ba3f5c",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "text": "In 2015, Harvard professor Stephen Owen published a translation of the complete works of a poet from this country, which include a poem about the complaints of a conscripted soldier entitled \"Song of the Wagons.\" Another poet from this country wrote at the end of \"Quiet Night Thought\" of seeing a moon at the window and how \"I lower my head and think of my hometown.\" Ezra Pound translated poetry from this country to write \"The River Merchant's Wife,\" and its most famous poet allegedly drowned after drunkenly trying to embrace the moon. For 10 points, name this home country of poets like Du Fu [\"doo foo\"] and Li Bai [\"lee bye\"].",
+      "powerMarkPosition": 297,
+      "answer": "China",
+      "acceptableAnswers": [
+        "China",
+        "The China"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a399e"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "abcff384-0d89-4f5c-8425-b7d1dcff4660",
+      "linkedTossupId": "507825de-f3c4-4484-bbdd-4fcba8ec2521",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this philosopher who attacked \"the myth of the given\" in \"Empiricism and the Philosophy of Mind\".",
+          "answer": "Sellars",
+          "acceptableAnswers": [
+            "Sellars",
+            "The Sellars"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One contemporary devotee of Wilfrid Sellars is big-bearded Pittsburgh denizen Robert Brandom. Brandom is notable for his development of an analytic approach to this philosophy developed by John Dewey and William James.",
+          "answer": "pragmatism",
+          "acceptableAnswers": [
+            "pragmatism",
+            "The pragmatism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In \"Empiricism and the Philosophy of Mind\" Sellars imagines a community of ur-humans who have a complex language despite lacking inner states. Sellars named the members of that community after this author of The Concept of Mind, who introduced the notion of a category error.",
+          "answer": "Ryle",
+          "acceptableAnswers": [
+            "Ryle",
+            "The Ryle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This philosopher's most major paper rejected the notion that any of our concepts get their meaning from direct experience. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636eecae"
+    },
+    {
+      "id": "95035b18-ceff-43f0-852b-95f37532dd8e",
+      "linkedTossupId": "a781d052-12ef-412b-8c32-78d9412c51c0",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this mitochondrial protein, activated by free fatty acids and deactivated by nucleosides, which allows protons to leak through the inner mitochondrial membrane.",
+          "answer": "thermogenin",
+          "acceptableAnswers": [
+            "thermogenin",
+            "UCP-1",
+            "The thermogenin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Thermogenin is present in the mitochondria of this tissue, which contain smaller droplets of fat and more mitochondria than their \"white fat\" counterparts.",
+          "answer": "brown",
+          "acceptableAnswers": [
+            "brown",
+            "brown adipose tissue",
+            "The brown"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The transcription of the gene encoding thermogenin is stimulated by this thyroid hormone, which is produced by the outer ring deiodination by type I and II deiodinases on thyroxine.",
+          "answer": "triiodothyronine",
+          "acceptableAnswers": [
+            "triiodothyronine",
+            "T3",
+            "The triiodothyronine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This protein plays a role in countering heat loss in neonates, which is necessary due to their high surface area-to-volume ratio. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0dd27"
+    },
+    {
+      "id": "b332dd2f-2d56-4fb5-ab2f-044208e54619",
+      "linkedTossupId": "c968a317-7ea1-4131-95c2-aec8bfd0f695",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with islets of langerhans.",
+          "answer": "insulin",
+          "acceptableAnswers": [
+            "insulin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the insulin in the endocrine system?",
+          "answer": "Islets of Langerhans",
+          "acceptableAnswers": [
+            "Islets of Langerhans"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to islets of langerhans.",
+          "answer": "glucagon",
+          "acceptableAnswers": [
+            "glucagon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "5fc4be9a-c122-48c3-a90c-58e4a7941424",
+      "linkedTossupId": "6c5d6048-52b3-40ce-93ce-b264e67d87d5",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with esophagus and swallowing.",
+          "answer": "esophagus",
+          "acceptableAnswers": [
+            "esophagus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the esophagus in the digestive system?",
+          "answer": "Esophagus and swallowing",
+          "acceptableAnswers": [
+            "Esophagus and swallowing"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to esophagus and swallowing.",
+          "answer": "peristalsis",
+          "acceptableAnswers": [
+            "peristalsis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "19c93f5c-fff7-4fb4-8fde-e34a72ef556e",
+      "linkedTossupId": "d29fb997-1060-4d6f-a9c8-672dc7fed061",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this concept. In a 1990 essay titled for its \"trouble,\" a philosopher argued that this concept is performative. That essay focuses on the harms caused by this concept's binary.",
+          "answer": "gender",
+          "acceptableAnswers": [
+            "gender",
+            "The gender"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This UC Berkeley professor and philosopher established their theory of gender performativity in Gender Trouble which aims to break the connection between \"gender\" and \"sex,\" and against reinforcing a binary.",
+          "answer": "Butler",
+          "acceptableAnswers": [
+            "Butler",
+            "The Butler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Butler criticizes this movement's disregard for intersectionality in Gender Trouble. Butler's work in queer theory have been considered a major influence on this movement's third wave.",
+          "answer": "feminism",
+          "acceptableAnswers": [
+            "feminism",
+            "The feminism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This concept is described as \"a practice of improvisation within a scene of constraint\" in the introduction of an essay titled \"undoing\" it. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3133409fdd1c1242385fa"
+    },
+    {
+      "id": "de600730-e10e-4e1b-acf8-58371dc53968",
+      "linkedTossupId": "0ec08721-1e03-4c46-beaa-2ac24fb4638f",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with muscle fiber types.",
+          "answer": "sarcomere",
+          "acceptableAnswers": [
+            "sarcomere"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the sarcomere in the musculoskeletal system?",
+          "answer": "Muscle fiber types",
+          "acceptableAnswers": [
+            "Muscle fiber types"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to muscle fiber types.",
+          "answer": "myofibril",
+          "acceptableAnswers": [
+            "myofibril"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "2e65f651-79b5-4132-ba7b-947de27e9005",
+      "linkedTossupId": "1528a6b3-7a54-4dcd-a35e-7558e57c1cc0",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this family whose other members include an aspiring poet who works at a shoe warehouse and his sister, a woman with a limp whose high school nickname was \"Blue Roses\". The matriarch of this family is obsessed with the possibility of her daughter receiving \"gentlemen callers\", including Jim O'Connor.",
+          "answer": "Wingfield",
+          "acceptableAnswers": [
+            "Wingfield",
+            "the Wingfields",
+            "The Wingfield"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tom, Laura, and Amanda Wingfield appear in this Tennessee Williams \"memory play\", which is titled for Laura's prized collection of decorative animal figurines.",
+          "answer": "Glass Menagerie",
+          "acceptableAnswers": [
+            "Glass Menagerie",
+            "The Glass Menagerie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The play ends with Tom Wingfield noting that \"nowadays the world is lit by lightning!\" and asking Laura to perform this specific action, before he says goodbye.",
+          "answer": "blow out",
+          "acceptableAnswers": [
+            "blow out",
+            "“blow out your candles",
+            "Laura”",
+            "accept word forms like “blowing out the candles”",
+            "The blow out"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An unseen member of this family is described as \"a telephone man who--fell in love with long-distance!\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531ffa61a9ba79f35993"
+    },
+    {
+      "id": "ca047b24-9b1e-4d3f-af4a-e9879526b984",
+      "linkedTossupId": "0c93d07f-0a13-4a70-8328-444c4d260bfd",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this city where Walter Moody hears about many events orchestrated by Francis Carver.",
+          "answer": "Hokitika",
+          "acceptableAnswers": [
+            "Hokitika",
+            "The Hokitika"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Walter Moody appears in The Luminaries, a novel by this author. This author is the youngest winner of the Man Booker Prize.",
+          "answer": "Catton",
+          "acceptableAnswers": [
+            "Catton",
+            "The Catton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Walter Moody travels to Hokitika in search of this precious metal. In Silas Marner, Dunsey Cass steals this precious metal from Silas.",
+          "answer": "gold",
+          "acceptableAnswers": [
+            "gold",
+            "The gold"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this city, twelve men based on the astrological signs discuss the murder of Crosbie Wells, which coincided with the prostitute Anna Wetherell being found unconscious on the side of the road. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64828e4aba41c3cf37693516"
+    },
+    {
+      "id": "639be466-05a3-420b-9501-d50cc178310c",
+      "linkedTossupId": "fcefff23-6668-41d6-8388-cb50fdd0bdbf",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "What principle states that for electrons in a single atom, no two electrons can have the same four quantum numbers?",
+          "answer": "Pauli Exclusion",
+          "acceptableAnswers": [
+            "Pauli Exclusion",
+            "The Pauli Exclusion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The orbitals of the subshell are each occupied singly with electrons of parallel spin before double occupation occurs is a statement of what rule?",
+          "answer": "Hund’s",
+          "acceptableAnswers": [
+            "Hund’s",
+            "The Hund’s"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This principle states that electrons fill orbitals starting at the lowest available energy states before filling higher states.",
+          "answer": "Aufbau",
+          "acceptableAnswers": [
+            "Aufbau",
+            "building-up Principle",
+            "clear-knowledge equivalents",
+            "The Aufbau"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify some chemical rules and principles, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced95b"
+    },
+    {
+      "id": "1bd98078-5fd1-4cb2-ac70-82d16c4b793f",
+      "linkedTossupId": "1283247f-7fae-4d1a-8567-5d90d7985ecb",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this concept, whose overabundance can lead to a namesake \"overload\". Richard Thaler and Cass Sunstein's book Nudge describes how the presentation of this concept creates its namesake \"architecture.\"",
+          "answer": "choice",
+          "acceptableAnswers": [
+            "choice",
+            "word forms",
+            "accept choice architecture",
+            "accept choice overload",
+            "overchoice",
+            "accept The Art of Choosing",
+            "accept synonyms such as decision-making",
+            "The choice"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This American psychologist discussed choice overload and distinguished between maximizers and satisficers in their decision-making approaches in his book The Paradox of Choice.",
+          "answer": "Schwartz",
+          "acceptableAnswers": [
+            "Schwartz",
+            "The Schwartz"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Choice overload has been analyzed as a potential reason why these applications can lead to greater anxiety and lower self-esteem. In 2016, Danish researchers accidentally released personal information of over 70,000 users of one of these applications called OkCupid.",
+          "answer": "dating",
+          "acceptableAnswers": [
+            "dating",
+            "swiping-based dating applications",
+            "The dating"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In The Art of [this concept], Sheena Iyengar discussed Joan Didion's The White Album to claim that the \"story of America\" is the \"story\" of this concept. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "644dff39de0b658d0841ae5b"
+    },
+    {
+      "id": "a5ca4404-2da7-45da-9d32-e21287eefe5d",
+      "linkedTossupId": "16558da2-106e-4318-b77a-ea6a28729bda",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this quantity, the ratio of torque to angular acceleration. It is the angular analogue of mass.",
+          "answer": "moment of inertia",
+          "acceptableAnswers": [
+            "moment of inertia",
+            "rotational inertia",
+            "prompt on I",
+            "The moment of inertia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rigid bodies have three principal moments of inertia, each corresponding to one of these things. A theorem relates the moment of inertia at an object's center of gravity to its value about a parallel one of these things.",
+          "answer": "axis",
+          "acceptableAnswers": [
+            "axis",
+            "principal axes",
+            "parallel axis theorem",
+            "The axis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The parallel axis theorem is sometimes named for this scientist, whose invention of the pendulum clock built on his studies of moment of inertia. He discovered that a traveling wave can be thought of as a spherical wavelet at every point on the wavefront.",
+          "answer": "Huygens",
+          "acceptableAnswers": [
+            "Huygens",
+            "Huygens’s principle",
+            "The Huygens"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The stretch rule states that this quantity is not changed in certain deformations. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff818"
+    },
+    {
+      "id": "4eeb9a47-5513-475d-a1f7-17769209a09d",
+      "linkedTossupId": "0d809b2b-d72b-496a-8b76-fab31f664dbc",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this American author of 1997's Mason & Dixon.",
+          "answer": "Pynchon",
+          "acceptableAnswers": [
+            "Pynchon",
+            "The Pynchon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Pynchon novel centers on the protagonist, Oedipa Maas, unearthing the centuries-old conflict between Thurnd und Taxis and Trystero.",
+          "answer": "Crying of Lot 49",
+          "acceptableAnswers": [
+            "Crying of Lot 49",
+            "The Crying of Lot 49"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Pynchon novel centers on the design, production, and dispatch of V-2 rockets by the German military.",
+          "answer": "Gravity's Rainbow",
+          "acceptableAnswers": [
+            "Gravity's Rainbow",
+            "The Gravity's Rainbow"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Some of this author's lesser known works include Inherent Vice, Against the Day, and Vineland. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced8b3"
+    },
+    {
+      "id": "6413fa0b-0399-4859-a064-720e6af81a9c",
+      "linkedTossupId": "f6472a06-86e1-4996-baf1-caaf6cd9d128",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this molecular geometry represented as AX3E1 in VSEPR (\"VESP-er\") theory. This geometry is possessed by both the chlorate and sulfite ions.",
+          "answer": "trigonal pyramid",
+          "acceptableAnswers": [
+            "trigonal pyramid",
+            "pyramidal",
+            "pyramidal inversion",
+            "reject “trigonal bipyramidal”",
+            "“square pyramidal”",
+            "“trigonal planar”",
+            "The trigonal pyramid"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pyramidal inversion can occur in this trigonal pyramidal molecule, causing its three hydrogen atoms to move above and below its central nitrogen atom. This molecule is widely used in fertilizers and is symbolized NH3.",
+          "answer": "ammonia",
+          "acceptableAnswers": [
+            "ammonia",
+            "The ammonia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tertiary amines that have this property due to a nitrogen stereocenter are racemized by pyramidal inversion. Enantiomers have this property because they cannot be superimposed on their mirror images.",
+          "answer": "chiral",
+          "acceptableAnswers": [
+            "chiral",
+            "chirality",
+            "The chiral"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Molecules with this geometry may experience a rapidly oscillating \"inversion\" in which they are turned inside out like an umbrella. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68fc54d95b5d7bee38aa4056"
+    },
+    {
+      "id": "b26777dd-7fa5-437d-9758-69f3cfccd058",
+      "linkedTossupId": "76780214-03a9-4777-b83c-c89b45c9c084",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these texts read to achieve satori. One by Linji advises, \"If you meet the Buddha on the road, kill him,\" while another asks \"What is the sound of one hand clapping?\"",
+          "answer": "koan",
+          "acceptableAnswers": [
+            "koan",
+            "gong an",
+            "kong an",
+            "The koan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Koans are studied in this school of Buddhism popular in Japan. Its name was paired with The Art of Motorcycle Maintenance in a Robert Pirsig book.",
+          "answer": "Zen",
+          "acceptableAnswers": [
+            "Zen",
+            "Chan Buddhism",
+            "The Zen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This \"blue-eyed barbarian\" brought Zen Buddhism to China, from which it spread to Japan. He allegedly ripped off his eyelids to stare at a wall for nine years before he went on to invent shaolin kungfu.",
+          "answer": "Bodhidharma",
+          "acceptableAnswers": [
+            "Bodhidharma",
+            "Dharmatrata",
+            "Daruma",
+            "The Bodhidharma"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Hua Tou is the practice of meditation on single words or phrases in these texts, some of which can be found in the Book of Serenity. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a297"
+    },
+    {
+      "id": "fa770976-cb1d-40be-8366-4f1bef53fc96",
+      "linkedTossupId": "b478b936-0557-4600-85cc-fbffdb7661da",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these \"enormous\" features of an elderly character who is briefly locked up in a chicken coop by Pelisayo and Elisenda because he is thought to be a religious figure in one short story.",
+          "answer": "wings",
+          "acceptableAnswers": [
+            "wings",
+            "“A Very Old Man With Enormous Wings”",
+            "The wings"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"A Very Old Man with Enormous Wings\" is a short story in Leaf Storm, which is by this Colombian author of One Hundred Years of Solitude.",
+          "answer": "Garcia Marquez",
+          "acceptableAnswers": [
+            "Garcia Marquez",
+            "The Garcia Marquez"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Leaf Storm and One Hundred Years of Solitude both take place in this fictional Colombian town founded by the Buendia family.",
+          "answer": "Macondo",
+          "acceptableAnswers": [
+            "Macondo",
+            "The Macondo"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A character with these features is found lying face down in mud at a courtyard. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0af195"
+    },
+    {
+      "id": "6c4781d0-87a6-4954-9204-11c240f30731",
+      "linkedTossupId": "c2f28255-248e-4a2d-be1c-b924f0a9ab33",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "In his article \"Non-Cooperative Games\", John Nash demonstrated that at least one of these specific constructs will exist in any game with a finite set of players.",
+          "answer": "mixed-strategy Nash equilibrium",
+          "acceptableAnswers": [
+            "mixed-strategy Nash equilibrium",
+            "The mixed-strategy Nash equilibrium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Games of this type have a pure strategy Nash equilibrium. The actions available to the two players in this game are typically described as \"stay silent\" and \"betray\".",
+          "answer": "prisoner’s dilemma",
+          "acceptableAnswers": [
+            "prisoner’s dilemma",
+            "The prisoner’s dilemma"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This game, whose name was coined by Rousseau, has two pure strategy Nash equilibria of which only one is Pareto optimal.",
+          "answer": "stag hunt",
+          "acceptableAnswers": [
+            "stag hunt",
+            "The stag hunt"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Finding these constructs in a two-player game involves making the other player indifferent between the relevant non-dominated actions. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "640020a88d3cf1e72e23487a"
+    },
+    {
+      "id": "c9058a23-4b05-4b6c-95dc-0863fb683f6e",
+      "linkedTossupId": "19da8e07-e6b3-4c36-9d46-ee24c1ea62bf",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with four chambers of the heart.",
+          "answer": "atrium",
+          "acceptableAnswers": [
+            "atrium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the atrium in the cardiovascular system?",
+          "answer": "Four chambers of the heart",
+          "acceptableAnswers": [
+            "Four chambers of the heart"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to four chambers of the heart.",
+          "answer": "ventricle",
+          "acceptableAnswers": [
+            "ventricle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "7d5f0626-506d-494a-b158-40bd4e144ea8",
+      "linkedTossupId": "882a4563-1aa0-4f40-929b-9eadf755cd6c",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Given the name Judith, what sibling of a pretty famous writer was hypothesized to explain discrimination against female writers?",
+          "answer": "Shakespeare’s sister",
+          "acceptableAnswers": [
+            "Shakespeare’s sister",
+            "obvious equivalents",
+            "The Shakespeare’s sister"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The idea of Shakespeare's sister appears in the third chapter of this long essay by Virginia Woolf, titled for a space a woman needs to write.",
+          "answer": "Room of One’s Own",
+          "acceptableAnswers": [
+            "Room of One’s Own",
+            "The Room of One’s Own"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Woolf's book Flush is a fictional biography of the cocker spaniel owned by this earlier poet, who wrote Aurora Leigh and the collection Sonnets from the Portuguese.",
+          "answer": "Browning",
+          "acceptableAnswers": [
+            "Browning",
+            "The Browning"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character kills herself after being impregnated by the actor-director Nick Greene. FTPE:",
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b88dff"
+    },
+    {
+      "id": "3acec3dc-4479-462f-89b8-e36a9758a302",
+      "linkedTossupId": "9541f34e-a4dd-4c5f-b2e3-9ac3d3868ca8",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this 1918 novel narrated by Jim Burden about his love for a Bohemian woman who later marries Cuzak in Blackhawk, Nebraska.",
+          "answer": "My Ántonia",
+          "acceptableAnswers": [
+            "My Ántonia",
+            "The My Ántonia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "My Antonia is a novel by this American author, who also wrote about an immigrant named Alexandra Bergson in O Pioneers!",
+          "answer": "Cather",
+          "acceptableAnswers": [
+            "Cather",
+            "The Cather"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Willa Cather character is charged with fixing the Catholic inconsistencies brought about by the Santa Fe priests in the New Mexico territory. This archbishop eventually meets the elusive Padre Martinez.",
+          "answer": "Jean",
+          "acceptableAnswers": [
+            "Jean",
+            "The Jean"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The narrator of this book meets a woman named Lena Lingard at a university. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be781b"
+    },
+    {
+      "id": "ae4b8cc9-58d7-491a-92ec-76dade8f7cba",
+      "linkedTossupId": "37f76ae6-7c7a-4d8d-948b-b1bf08ba3f5c",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this book that features Norman Bowker, a soldier who muses on his time in uniform before killing himself, Kiowa, a Native American soldier who is killed when he drowns in a mudfield, and Rat Kiley, a mendacious young medic.",
+          "answer": "The Things They Carried",
+          "acceptableAnswers": [
+            "The Things They Carried",
+            "Things They Carried"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Things They Carried was written by Tim O'Brien, a veteran of this war. Events in this war include the Tet Offensive and the Saigon evacuation.",
+          "answer": "Vietnam",
+          "acceptableAnswers": [
+            "Vietnam",
+            "The Vietnam"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "O'Brien also wrote this book about the Vietnam War, in which Paul Berlin metaphorically chases the namesake soldier to Paris.",
+          "answer": "Going After Cacciato",
+          "acceptableAnswers": [
+            "Going After Cacciato",
+            "The Going After Cacciato"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this work, Curt Lemon fakes a toothache to have a tooth pulled in order to prove his bravery. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144ea1"
+    }
+  ]
+}

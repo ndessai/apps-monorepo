@@ -1,0 +1,1140 @@
+{
+  "packetId": "packet-051",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Literature",
+    "Social Science",
+    "History",
+    "Human Body",
+    "Science",
+    "Mythology",
+    "Geography",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "27263de0-2684-4830-9bbc-d7e7dbacb5e0",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "One character in this work jokingly dates her love to the day she saw Pemberley estate, and Charlotte Lucas marries Mr. Collins after her friend rejects him. This novel begins when Netherfield is rented by a \"single man in possession of a good fortune,\" and in it, Lydia marries Mr. Wickham and Jane weds Mr. Bingley. Elizabeth Bennet and Mr. Darcy overcome poor first impressions in, for 10 points, what novel by Jane Austen?",
+      "powerMarkPosition": 222,
+      "answer": "Pride",
+      "acceptableAnswers": [
+        "Pride",
+        "The Pride"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e9a0924256318acc05"
+    },
+    {
+      "id": "465d9a8a-1d74-4efa-bf80-f691d6156fe4",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "In one work, this anthropologist remarked how men decorated themselves and the women worked in the Tchambuli tribe, who are different from the Arapesh and the Mundugumor peoples. That work became a major cornerstone in the feminist movement. A more famous work is based on the study of adolescent girls on the island of Ta'u in the Samoa Islands and its foreword is written by Franz Boas. For 10 points, identify this author of Sex and Temperament in Three Primitive Societies and Coming of Age in Samoa.",
+      "powerMarkPosition": 178,
+      "answer": "Mead",
+      "acceptableAnswers": [
+        "Mead",
+        "The Mead"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f06b5"
+    },
+    {
+      "id": "7d6ff169-d35f-4ca0-b6d8-1fba49b37972",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "A series of photographs of a revolutionary in this country show him receiving last rites in a pink shirt and then dead in front of an erupting volcano. In this nation, The Civic Guard crushed a peasant rebellion led by Agustin Farabundo Marti called La Matanza. During another conflict in this country, The White Warriors Union death squad, founded by a man known as \"Blowtorch Bob,\" killed Jesuit Rutilio Grande. During that civil war in this country, the ARENA Party led by Roberto D'Aubuisson faced off against the FMLN, and Archbishop Oscar Romero was assassinated. For 10 points, name this Central American nation that also fought the Soccer War against neighbor Honduras.",
+      "powerMarkPosition": 366,
+      "answer": "El Salvador",
+      "acceptableAnswers": [
+        "El Salvador",
+        "The El Salvador"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d50d"
+    },
+    {
+      "id": "8f88f219-0e6f-4e26-be8c-54635313332b",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "This man referenced the irrelevance of the \"civilization of the twentieth century\" in his conviction under the 1351 Treason Act that equated heretics with traitors. He had the Libau outfitted as a Norwegian merchant ship under the command of Captain Karl Spindler, whose interception made him go ashore to McKenna's Fort, where he was captured. This man heard of Walter Hardenburg's exposé of Julio Cesar Arana's system for sernambi gathering, inspiring him to spend time with the Putumayo Indians in Peru. Scholarship holds that the \"Black Diaries\" describing the homosexual relations of his man were forgeries. He was executed after trying to involve Germany in the Irish Home Rule movement years after his work for the British Foreign Office. For 10 points, identify this Irish martyr who had highlighted the exploitation of rubber workers in King Leopold's Congo Free State.",
+      "powerMarkPosition": 344,
+      "answer": "Casement",
+      "acceptableAnswers": [
+        "Casement",
+        "The Casement"
+      ],
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cf9e2a"
+    },
+    {
+      "id": "561bfe46-1e56-45a1-9fd3-ca3328c41a24",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for partial pressure gradients. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this diffusion-related structure.",
+      "powerMarkPosition": 81,
+      "answer": "Diffusion",
+      "acceptableAnswers": [
+        "diffusion",
+        "Diffusion"
+      ],
+      "explanation": "The diffusion is a key component of the Respiratory system, involved in partial pressure gradients.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "22658687-bb98-45fa-92c3-aac13a0a3d99",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "Though it's not the capital asset pricing model, Lintner's model for the policy governing these entities invokes a target ratio for these and the time rate of change for these. It is not debt, but one ramification of the Modigliani Miller theorem states that under certain tax law, it is invariant for a corporation to issue these entities as opposed to repurchasing stock. One must hold an equity investment on the \"record date\" to receive this cash flow. Many firms continued to issue it despite declining earnings during the great depression, and it has been declining as a proportion of earnings per share. For 10 points, identify this payout issued by corporations to its shareholders.",
+      "powerMarkPosition": 373,
+      "answer": "dividend",
+      "acceptableAnswers": [
+        "dividend",
+        "The dividend"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da863"
+    },
+    {
+      "id": "6e01d417-4943-4994-b090-34a28ebf6149",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "A bomb calorimeter measures the result of this process, which is highly exothermic. The incomplete form of this process produces harmful substances such as acetaldehyde or carbon monoxide. The spontaneous type of this event does not require an ignition source, while hydrocarbons undergoing this process form water and carbon dioxide as products. Oxygen is a necessary reactant in, for 10 points, what process that may result in a fire?",
+      "powerMarkPosition": 243,
+      "answer": "combust",
+      "acceptableAnswers": [
+        "combust",
+        "The combust"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acde7"
+    },
+    {
+      "id": "dd504975-20b1-4b47-a7aa-611cad68cce2",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "One work by this author tells an \"unlucky one\" to \"let the lightning ignite the light in you\" and repeats the refrain \"if no one heeds your call, walk alone.\" This author's novel The Broken Nest helped bring about an artistic Renaissance named for the Asian region where he and his brothers worked. This author wrote another poem where \"children meet with shouts and dances\" on \"the seashore of endless worlds.\" Reading one line of this author \"is to forget all the troubles of the world\" according to W. B. Yeats, who championed him. He won the Nobel Prize for a collection that begins \"Thou hast made me endless, such is thy pleasure.\" Two national anthems including one called Jana Gana Mana were written by, for 10 points, what Bengali author of Gitanjali?",
+      "powerMarkPosition": 501,
+      "answer": "Tagore",
+      "acceptableAnswers": [
+        "Tagore",
+        "Robindronath Thakur",
+        "The Tagore"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f2c8e7e2ddc83d7b7537e4"
+    },
+    {
+      "id": "b4d8e984-3168-4b9a-9450-f0315c0db80f",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "This deity was the father of Harmonia. This god was captured by the giants Otus and Ephialtes when they stormed Olympus; they trapped this god in a bronze jar for a year until he was released by his half-brother Hermes. In Hesiod's Theogony, this god is given the epithet \"shield-piercing,\" while in the Iliad he is injured by the mortal Diomedes. This god was captured during infidelity with a net created by the god he cuckolded, Hephaestus. For 10 points, an affair with Aphrodite was carried on by what Greek god of war?",
+      "powerMarkPosition": 337,
+      "answer": "Ares",
+      "acceptableAnswers": [
+        "Ares",
+        "The Ares"
+      ],
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b88f27"
+    },
+    {
+      "id": "e702b37c-dfa8-4150-8057-af5d1d6cd581",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "Upon meeting with three couples of different social classes who served them with good hospitality, this deity fathered Karl, Jarl, and Thrall, who eventually became the progenitors of farmers, nobles, and serfs respectively. He's not Loki, but one battle fought by this deity occurred at Singasteinn, where they retrieved Brisingamen, a necklace, in the form of a seal. In the Thrymskvida, this deity offers up a plan which consists of cosplay to steal back Mjolnir. Known by the epithet Gullintanni, which means \"golden-teethed,\" this god will blow the Gjallarhorn to signal the start of Ragnarok. For 10 points, name this guardian of the Bifrost.",
+      "powerMarkPosition": 363,
+      "answer": "Heimdall",
+      "acceptableAnswers": [
+        "Heimdall",
+        "Rigr",
+        "accept Gullintanni until mentioned",
+        "The Heimdall"
+      ],
+      "source": "qbreader",
+      "sourceId": "63506cec1b4438a94f2a2acf"
+    },
+    {
+      "id": "2e25bef1-20e9-4813-9497-4134c4294e25",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "Harvard and Yale traveled to this state's Lake Winnipesaukee for the first American intercollegiate sporting event in 1852. The Brooklyn Dodgers' minor league team in this state's city of Nashua was the first American team to integrate. The largest Manchester in the US is this state's largest city and its only city over 100,000 people. The New England state with the smallest Atlantic coastline is, for 10 points, what only US state that borders Maine, a state whose capital is Concord?",
+      "powerMarkPosition": 248,
+      "answer": "New Hampshire",
+      "acceptableAnswers": [
+        "New Hampshire",
+        "The New Hampshire"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc0051d2"
+    },
+    {
+      "id": "a1f37582-9c79-4610-871e-bfcc4bb95d2c",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "This nation controls Mawson Peak, an active volcano on Heard Island near Antarctica. One feature off its coast stretches from Lady Elliot Island to the Torres Strait. This continent's Snowy Mountains contain its highest point, Mount Kosciuszko [koh-SHOO-skoh], and its east is split by the Great Dividing Range. This continent contains Ayers Rock, a massive rock formation called Uluru by the Aborigines. The Great Barrier Reef surrounds, for 10 points, what island continent?",
+      "powerMarkPosition": 295,
+      "answer": "Australia",
+      "acceptableAnswers": [
+        "Australia",
+        "The Australia"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acd6b"
+    },
+    {
+      "id": "a9fe726d-e5d5-450f-8989-b6bde819ce6f",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "One of this microorganism's lesser-known traits is the ability to produce small amounts of vitamins K and B12. In genetic engineering it is the preferred microorganism for hosting gene-splicing for cloning. The most toxic known strain of this bacterium is 0157:H7, which can cause a potentially deadly hemolytic-uremic syndrome like the one seen in a 1993 outbreak in Washington state. A normal inhabitant of the intestinal tract of animals and humans, For 10 points, what is this bacterium, the most famous member of genus Escherichia?",
+      "powerMarkPosition": 206,
+      "answer": "E. coli",
+      "acceptableAnswers": [
+        "E. coli",
+        "The E. coli"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596e54"
+    },
+    {
+      "id": "c47ea89e-05d9-4d04-b6b8-724dcc206d19",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "In this novel, it is foreshadowed that a character named Old Joe buys the valuables and belongings of the protagonist from three thieves. This novel's protagonist was once engaged to Belle, and served as an apprentice to Fezziwig. On the day before the title holiday of this novel, Jacob Marley's ghost appears to the protagonist and warns him of selfishness and greed. The protagonist of this novel is visited by the ghosts of the past, present, and yet to come. For 10 points, in what Charles Dickens novel is Ebeneezer Scrooge haunted around the time of the title winter holiday?",
+      "powerMarkPosition": 296,
+      "answer": "Christmas Carol",
+      "acceptableAnswers": [
+        "Christmas Carol",
+        "The Christmas Carol"
+      ],
+      "source": "qbreader",
+      "sourceId": "66e1bbb7b3ec1cfe3cd4a74c"
+    },
+    {
+      "id": "507189e2-a828-4ed5-9cbd-cbbf6f719de9",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "It is in flashbacks that this novel's central character reveals his strict upbringing at the hands of the cruel McEachern and his separation from his first love, the prostitute Bobbie Allen. That character's problems include refusing good advice to join a black law firm and working at a mill to cover up his moonshine business. Perhaps more despicable are Lucas Burch, who betrays that character and Percy Grimm, who castrates and kills him. For 10 points, identify this novel about the tragic half-black Joe Christmas, a work by William Faulkner.",
+      "powerMarkPosition": 190,
+      "answer": "Light in August",
+      "acceptableAnswers": [
+        "Light in August",
+        "The Light in August"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bca72e7fe60f397fb4a946"
+    },
+    {
+      "id": "68c558df-c49b-497a-98ca-d3c5c3f7050d",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "One author exposed himself as having done this action for his entire adult life in his memoir Kafka was the Rage. That New York Times literary critic was Anatole Broyard. In a novel titled for this activity, a woman suppresses her husband's dreams of going to Brazil and later pushes her childhood friend out a window and successfully claims it as an accident. In that novel named for this activity, Clare Kendry attends a dance given by the Negro Welfare League unbeknownst to her husband. Another novel's protagonist begins doing this after witnessing a lynching, thus abandoning his career as a composer. This activity titles the most famous novel of Nella Larsen. For 10 points, name this activity done by the protagonist of James Weldon Johnson's Autobiography of an Ex-Colored Man.",
+      "powerMarkPosition": 441,
+      "answer": "passing",
+      "acceptableAnswers": [
+        "passing",
+        "The passing"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eea92bec6a16249648952c"
+    },
+    {
+      "id": "4bee7982-b671-453f-8f67-d2e1014a691e",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "This type of interaction is responsible for the high crystallinity of nylon, and it explains why hydrofluoric acid has a higher boiling point than hydrochloric acid. These interactions occur between base pairs in DNA. Ice has lower density than water due to the behavior of, for 10 points, what type of bonding, a strong dipole-dipole interaction named for element 1 on the Periodic Table?",
+      "powerMarkPosition": 231,
+      "answer": "hydrogen",
+      "acceptableAnswers": [
+        "hydrogen",
+        "The hydrogen"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eaa0924256318acc2f"
+    },
+    {
+      "id": "fa8712cb-4b13-429d-af46-0e058284747d",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "This author's review of a work of technological utopianism by John Adolphus Etzler served as the basis for his essay \"Paradise (to be) Regained\". He described Mount Wachusett as \"the observatory of the state\" in one work, and he claimed that \"the preservation of the world\" lies in \"wildness\" in another. In one of his works, the section \"Higher Laws\" is preceded by an episode involving a visit to John Farmer's hut. That work by this man opens with the chapters \"Economy\" and \"Where I Lived, and What I Lived For\". He asserted \"that government is best which governs least\" in a work that was partly inspired by his refusal to pay a poll tax that indirectly supported slavery. For 10 points, name this American author of \"Civil Disobedience\" and Walden.",
+      "powerMarkPosition": 477,
+      "answer": "Thoreau",
+      "acceptableAnswers": [
+        "Thoreau",
+        "David Henry Thoreau",
+        "The Thoreau"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ad92d"
+    },
+    {
+      "id": "16b7e974-b941-4a32-916f-3f82b0ecfd66",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "The annual Bayreuth (by-ROYT) Festival celebrates the works of this composer. This composer's opera Lohengrin contains the \"Bridal Chorus\", and another of his works ends with Brunnhilde riding into a funeral pyre that burns Valhalla. That work, Gotterdamerung, ends this composer's Ring Cycle. For 10 points, name this German composer of the \"Ride of the Valkyries.\"",
+      "powerMarkPosition": 223,
+      "answer": "Wagner",
+      "acceptableAnswers": [
+        "Wagner",
+        "The Wagner"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a50397"
+    },
+    {
+      "id": "d0c37b16-f86c-4d73-a042-6ad969566397",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "One of this man's novels is set in a town that provides a mixed reception to the passionate artist Max Sattler, condemns the protagonist's mediocre rival Christoff, and supports the drunk conductor Brodsky. James Wood claimed that a novel by this man had \"invented its own category of badness\"; in that novel, the amnesiac pianist Ryder continually fails to get to a concert. The protagonist of another of his novels fires two Jewish maids while his employer is associating with the fascist Mrs. Barnet. In his most famous novel, the protagonist takes a motoring trip at the behest of Mr. Farraday after receiving a letter from Miss Kenton, during which he practices his banter and reflects on his time working for Lord Darlington. For 10 points, name this author of The Unconsoled who wrote about the butler Stevens in The Remains of the Day.",
+      "powerMarkPosition": 433,
+      "answer": "Ishiguro",
+      "acceptableAnswers": [
+        "Ishiguro",
+        "names in either order",
+        "The Ishiguro"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34ebe"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "0e1530be-7fb8-4cc2-ada8-f19198bf6a5c",
+      "linkedTossupId": "27263de0-2684-4830-9bbc-d7e7dbacb5e0",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this fictional storyteller, who is often depicted as a kindly grandmother or as a wise, maternal bird.",
+          "answer": "Mother Goose",
+          "acceptableAnswers": [
+            "Mother Goose",
+            "The Mother Goose"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This French fabulist collected and updated European folktales like \"Sleeping Beauty\" in The Tales of Mother Goose.",
+          "answer": "Perrault",
+          "acceptableAnswers": [
+            "Perrault",
+            "The Perrault"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this story from The Tales of Mother Goose, the title girl learns not to talk to strangers after she and her grandmother are eaten by a wolf.",
+          "answer": "Red Riding Hood",
+          "acceptableAnswers": [
+            "Red Riding Hood",
+            "The Red Riding Hood"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A collection of fables named for this storyteller includes the French versions of \"Puss in Boots\" and \"Sleeping Beauty.\" For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba972b3"
+    },
+    {
+      "id": "aeea65b4-5012-4cba-9912-3009044914ff",
+      "linkedTossupId": "465d9a8a-1d74-4efa-bf80-f691d6156fe4",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this father of pyschoanalysis who formulated the concepts of Id, Ego and Superego.",
+          "answer": "Freud",
+          "acceptableAnswers": [
+            "Freud",
+            "The Freud"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This student of Freud created such ideas as the animus/anima and collective unconscious.",
+          "answer": "Jung",
+          "acceptableAnswers": [
+            "Jung",
+            "The Jung"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Jungian concept describes two unrelated events that observed together in a meaningful manner.",
+          "answer": "Synchronicity",
+          "acceptableAnswers": [
+            "Synchronicity",
+            "The Synchronicity"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He wrote works such as Moses and Monotheism and Society and Its Discontents. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0620"
+    },
+    {
+      "id": "b72a9503-8f9b-498e-8d2f-9e42c14c4b8b",
+      "linkedTossupId": "7d6ff169-d35f-4ca0-b6d8-1fba49b37972",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this politician. The possibility that he was seeing gila monsters, rather than human beings, as a result of his Ibogaine addiction was invented by Hunter S. Thompson and erroneously taken seriously.",
+          "answer": "Muskie",
+          "acceptableAnswers": [
+            "Muskie",
+            "The Muskie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the Ibogaine article, Thompson also claimed that this candidate was on a rare kind of speed known as Wallot. Muskie served as this man's Vice Presidential candidate in an unsuccessful bid for the Presidency.",
+          "answer": "Humphrey",
+          "acceptableAnswers": [
+            "Humphrey",
+            "The Humphrey"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this election, Humphrey and Muskie lost the Democratic nomination to George McGovern, who lost the general election to incumbent Richard Nixon.",
+          "answer": "1972",
+          "acceptableAnswers": [
+            "1972",
+            "\"72\"",
+            "The 1972"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "To explain why this candidate was refusing to participate in a televised debate, one of his campaign officials reportedly said \"My instructions are that the Senator should never again be put in a situation where he has to think quickly.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0aebb3"
+    },
+    {
+      "id": "0de4cdb1-3ef0-4ffe-b002-d4768a1f3f4d",
+      "linkedTossupId": "8f88f219-0e6f-4e26-be8c-54635313332b",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this man who is often conflated with a warrior from Dorestad who served Louis the German, since the only other account of him is Nestor's Primary Chronicle. He names a line of rulers that included Yaroslav the Wise.",
+          "answer": "Rurik",
+          "acceptableAnswers": [
+            "Rurik",
+            "Riurik",
+            "Rorik",
+            "accept Rurikid dynasty",
+            "The Rurik"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Rurikid dynasty established a federation of Slavic states centered on this city until an invasion by Batu Khan caused its collapse. This city is now the capital of Ukraine.",
+          "answer": "Kiev",
+          "acceptableAnswers": [
+            "Kiev",
+            "Kyiv",
+            "accept Kievan Rus",
+            "The Kiev"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The \"Codex\" named for this Southern Ukrainian monastery is the most valuable source on the history of the Southern Rus, as it contains the Primary, Kiev, and Galician-Volhynian chronicles. Mikhail Romanov was hiding in this monastery when he was proclaimed tsar by the Zemsky Sobor.",
+          "answer": "Hypatian Monastery",
+          "acceptableAnswers": [
+            "Hypatian Monastery",
+            "Ipatievsky Monastery",
+            "Ipatievsky Monasteri",
+            "accept Hypatian Codex",
+            "The Hypatian Monastery"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This leader established order among various warring tribes including the Chuds, Slavs, and Krivichi and established his base of power at Holmgard. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6326bf0e692d593d1d7a8701"
+    },
+    {
+      "id": "ca2828de-8195-44c5-8140-77cf036394c3",
+      "linkedTossupId": "561bfe46-1e56-45a1-9fd3-ca3328c41a24",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with lymph nodes and vessels.",
+          "answer": "lymph",
+          "acceptableAnswers": [
+            "lymph"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the lymph in the immune system?",
+          "answer": "Lymph nodes and vessels",
+          "acceptableAnswers": [
+            "Lymph nodes and vessels"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to lymph nodes and vessels.",
+          "answer": "lymph node",
+          "acceptableAnswers": [
+            "lymph node"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "969834b3-9bc9-48c7-b0ac-2c18963ce6d2",
+      "linkedTossupId": "22658687-bb98-45fa-92c3-aac13a0a3d99",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Undoubtedly the largest repository of organized information in human history is this collaborative encyclopedia, which maintains strict notability and neutral point-of-view guidelines for its articles.",
+          "answer": "Wikipedia",
+          "acceptableAnswers": [
+            "Wikipedia",
+            "The Wikipedia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This university names a certain site that is a specialized online encyclopedia for an academic field. All articles on that site named for this university are written and edited by experts in the field, like the site's articles on hedonism and David Hume.",
+          "answer": "Stanford",
+          "acceptableAnswers": [
+            "Stanford",
+            "Stanford Encyclopedia of Philosophy",
+            "prompt on SEP",
+            "The Stanford"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Appalled by the usurious prices charged for scientific journal articles by publishers like Elsevier (\"ell-seh-veer\"), this Kazakhstani programmer and \"pirate queen\" founded Sci-hub, an open-access site where anyone can download cutting-edge scientific research.",
+          "answer": "Elbakyan",
+          "acceptableAnswers": [
+            "Elbakyan",
+            "The Elbakyan"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about places to learn things on the Internet.",
+      "source": "qbreader",
+      "sourceId": "65d14216270be3aedf05a233"
+    },
+    {
+      "id": "39919087-22f8-464e-88ec-d6c76448e8f0",
+      "linkedTossupId": "6e01d417-4943-4994-b090-34a28ebf6149",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this ruler of Egypt's eighteenth dynasty, who died at age 19.",
+          "answer": "Tutankhamen",
+          "acceptableAnswers": [
+            "Tutankhamen",
+            "King Tut",
+            "Tutankhaten",
+            "The Tutankhamen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tutankhamen, like other rules of the eighteenth dynasty, used this title meaning \"great house.\" More generally, this term refers to any ruler of ancient Egypt.",
+          "answer": "pharaoh",
+          "acceptableAnswers": [
+            "pharaoh",
+            "The pharaoh"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A 2010 study attributed Tutankhamen's death to this disease, spread by the Anopheles mosquito.",
+          "answer": "malaria",
+          "acceptableAnswers": [
+            "malaria",
+            "The malaria"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Howard Carter discovered the treasures of this man's tomb in 1922. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec668b"
+    },
+    {
+      "id": "c6efd46f-cb66-4224-9800-a7ee6d7c1a00",
+      "linkedTossupId": "dd504975-20b1-4b47-a7aa-611cad68cce2",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this poem, in which \"smiles that win\" \"tell of days in goodness spent.\" The title action of this poem is likened to \"the night of cloudless climes and starry skies.\"",
+          "answer": "She Walks in Beauty",
+          "acceptableAnswers": [
+            "She Walks in Beauty",
+            "The She Walks in Beauty"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Romantic poet of \"She Walks in Beauty\" died in the war for Greek independence. In Childe Harold's Pilgrimage, the title character is an example of this poet's namesake type of hero, who are often arrogant and manipulative.",
+          "answer": "Byron",
+          "acceptableAnswers": [
+            "Byron",
+            "George Gordon",
+            "accept Byronic hero",
+            "The Byron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Childe Harold's Pilgrimage uses a verse form named for this author, which contains eight lines of iambic pentameter and an alexandrine line in iambic hexameter. This author first used that verse form in an epic poem that includes the Redcrosse Knight.",
+          "answer": "Spenser",
+          "acceptableAnswers": [
+            "Spenser",
+            "The Spenser"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The title woman in this poem is described as having \"a mind at peace with all below, a heart whose love is innocent!\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52a10"
+    },
+    {
+      "id": "1546d1b2-5b4f-4648-95f1-ed9701ab2516",
+      "linkedTossupId": "b4d8e984-3168-4b9a-9450-f0315c0db80f",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this son of Parvati and Shiva, an elephant-headed god of wisdom.",
+          "answer": "Ganesh",
+          "acceptableAnswers": [
+            "Ganesh",
+            "Ganapati",
+            "Vinayaka",
+            "Pillaiyar",
+            "Vighnesha",
+            "Vighneshvara",
+            "The Ganesh"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ganesha typically has between two and sixteen of these body parts, of which Vishnu typically has four.",
+          "answer": "arm",
+          "acceptableAnswers": [
+            "arm",
+            "The arm"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the Benne Alankara ritual, Hindus smear statues of Ganesha with this food item, which is called ghee in its clarified form.",
+          "answer": "butter",
+          "acceptableAnswers": [
+            "butter",
+            "The butter"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This god was beheaded by his father after Parvati told him not to let anyone inside the house. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dede4a"
+    },
+    {
+      "id": "9fa75d08-8ceb-482e-8e9f-1fe9bc5c7fdc",
+      "linkedTossupId": "e702b37c-dfa8-4150-8057-af5d1d6cd581",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Aphrodite turned this athlete into a lion after she desecrated this goddess's temple. Earlier, this woman had killed two centaurs who assaulted her and was also the first to wound the Calydonian boar.",
+          "answer": "Atalanta",
+          "acceptableAnswers": [
+            "Atalanta",
+            "The Atalanta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This mortal weaver's hubris led Athena to challenge her weaving skills in a contest. Upon losing that contest, Athena turned this woman into a spider so that she could weave forever.",
+          "answer": "Arachne",
+          "acceptableAnswers": [
+            "Arachne",
+            "The Arachne"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After this woman's husband, Cadmus, killed a sacred dragon, they were both transformed into serpents. This woman's cursed necklace, given to her by Athena and Hephaestus, may have been the cause of that misfortune.",
+          "answer": "Harmonia",
+          "acceptableAnswers": [
+            "Harmonia",
+            "The Harmonia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name some Greeks that got turned into various animals.",
+      "source": "qbreader",
+      "sourceId": "68bb81d4c87a3eecfecf5289"
+    },
+    {
+      "id": "a4aed220-d3a4-4ee9-a402-048efb1bcc1c",
+      "linkedTossupId": "2e25bef1-20e9-4813-9497-4134c4294e25",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this general, who made use of scorched earth tactics in his \"March to the Sea\".",
+          "answer": "Sherman",
+          "acceptableAnswers": [
+            "Sherman",
+            "The Sherman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The \"March to the Sea\" ended in this city. During the Revolutionary War, Casimir Pulaski died while leading a cavalry charge during a siege of this large port city.",
+          "answer": "Savannah",
+          "acceptableAnswers": [
+            "Savannah",
+            "The Savannah"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sherman's \"March to the Sea\" took place primarily in this Confederate state, whose capital of Atlanta was burned down during the campaign.",
+          "answer": "Georgia",
+          "acceptableAnswers": [
+            "Georgia",
+            "The Georgia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This general's \"neckties\" were formed using railroad rails he destroyed in one campaign. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a635c8c514d1929f57ba1a"
+    },
+    {
+      "id": "5cc7c399-89c8-4bfa-8a6d-87a2bce1b7f0",
+      "linkedTossupId": "a1f37582-9c79-4610-871e-bfcc4bb95d2c",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this city, whose Tribeca neighborhood is the location of that building. Other skyscrapers in this city include the extremely narrow Steinway Tower.",
+          "answer": "New York",
+          "acceptableAnswers": [
+            "New York",
+            "NYC",
+            "The New York"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Independent, another residential skyscraper nicknamed the \"Jenga Tower\", is located in this city, which also contains the Texas State Capitol.",
+          "answer": "Austin",
+          "acceptableAnswers": [
+            "Austin",
+            "The Austin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 2022, a 19-story tower nicknamed the \"Jenga Building\" was built for one of these institutions in Boston. The Cathedral of Learning is a 42-story skyscraper found in one of these institutions in Pittsburgh.",
+          "answer": "university",
+          "acceptableAnswers": [
+            "university",
+            "college",
+            "prompt on schools",
+            "The university"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One building in this city nicknamed the \"Jenga Tower\" became infamous when Bed Bath & Beyond CFO Gustavo Arnal jumped to his death from its 18th story. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "673aef78cbbbb69a5263ccde"
+    },
+    {
+      "id": "b1b495b6-d96a-40bb-8a8d-239586b5cd49",
+      "linkedTossupId": "a9fe726d-e5d5-450f-8989-b6bde819ce6f",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this equation created by a former Bell Laboratories employee to describe the I-V characteristic of a certain device when it is experiencing either forward or reverse bias.",
+          "answer": "Shockley",
+          "acceptableAnswers": [
+            "Shockley",
+            "on",
+            "but otherwise DO NOT MENTION",
+            "“diode law”",
+            "The Shockley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Shockley equation is used to describe the ideal variety of these devices. The 2014 Nobel Prize in physics was given for research into creating a blue variety of these devices, which also exist in \"light-emitting\" varieties.",
+          "answer": "diode",
+          "acceptableAnswers": [
+            "diode",
+            "light-emitting diodes",
+            "The diode"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "For a standard p-n diode, the maximum reverse bias voltage that can be applied is limited by the amount of this process. This process is characterized by a rapid increase in current under reverse bias.",
+          "answer": "breakdown",
+          "acceptableAnswers": [
+            "breakdown",
+            "breakdown voltage",
+            "The breakdown"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This equation includes terms for the saturation current, the thermal voltage, and the ideality factor. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125d16b"
+    },
+    {
+      "id": "c930a90e-9954-463f-8620-f30f1020f224",
+      "linkedTossupId": "c47ea89e-05d9-4d04-b6b8-724dcc206d19",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this novel about the firebombing of Dresden, in which an optometrist named Billy Pilgrim becomes unstuck in time and is abducted to the planet Tralfamadore.",
+          "answer": "Slaughterhouse Five",
+          "acceptableAnswers": [
+            "Slaughterhouse Five",
+            "The Slaughterhouse Five"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Slaughterhouse Five is a novel by this American author of God Bless You, Mr. Rosewater, who wrote about the fictional author Kilgore Trout in Timequake and Breakfast of Champions.",
+          "answer": "Vonnegut",
+          "acceptableAnswers": [
+            "Vonnegut",
+            "The Vonnegut"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Vonnegut novel, John and the children of Felix Hoenikker accidentally destroy the world with ice-nine when Papa Monzano's frozen body falls into the sea near San Lorenzo.",
+          "answer": "Cat’s Cradle",
+          "acceptableAnswers": [
+            "Cat’s Cradle",
+            "The Cat’s Cradle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The most common three-word phrase in this novel is \"so it goes,\" which often appears after characters die. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e9a0924256318acb2f"
+    },
+    {
+      "id": "a0b636fa-a44b-4f06-8349-6aaff7dc6ce5",
+      "linkedTossupId": "507189e2-a828-4ed5-9cbd-cbbf6f719de9",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this anonymously-published novel whose title character grows to be an experienced thief and rogue. It is often credited as the first picaresque novel.",
+          "answer": "Lazarillo de Tormes",
+          "acceptableAnswers": [
+            "Lazarillo de Tormes",
+            "The Life of Lazarillo de Tormes and of His Fortunes and Adversities",
+            "La vida de Lazarillo de Tormes y de sus fortunas y adversidades",
+            "The Lazarillo de Tormes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Among the many other Spanish picaresque novels is this man's only novel El Buscon. This poet wrote Los Sueños and was a major advocate of conceptismo, in contrast to his rival's culteranismo.",
+          "answer": "Quevedo",
+          "acceptableAnswers": [
+            "Quevedo",
+            "Francisco Gómez de Quevedo y Santibáñez Villegas",
+            "The Quevedo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Quevedo's rival Luis de Gongora died in 1627; 300 years later, the Spanish Generation of '27 met to commemorate his death. This prominent member of that group wrote the plays Blood Wedding and The House of Bernarda Alba.",
+          "answer": "Lorca",
+          "acceptableAnswers": [
+            "Lorca",
+            "Federico del Sagrado Corazón de Jesús García Lorca",
+            "The Lorca"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "During one section of this novel, the protagonist gets revenge for the abuses of his blind master by tricking the man into banging his head on a stone pillar while trying to jump a river. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34efc"
+    },
+    {
+      "id": "7f3b6915-3088-4e5e-acd1-ff7751835bbb",
+      "linkedTossupId": "68c558df-c49b-497a-98ca-d3c5c3f7050d",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Martín Fierro consists of multiple payadas, rural examples of these types of poems which are typically set to music. Banjo Paterson's \"Waltzing Matilda\" is a \"bush\" type of one of these poems.",
+          "answer": "ballad",
+          "acceptableAnswers": [
+            "ballad",
+            "Bush ballad",
+            "accept folk songs",
+            "prompt on songs",
+            "The ballad"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Unlike the \"gauchesque\" poetry of before, Hernández structured Martín Fierro with this many rhyming lines per stanza. An Italian sonnet consists of an octet succeeded by this many lines that comprises a sestet.",
+          "answer": "six",
+          "acceptableAnswers": [
+            "six",
+            "The six"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This writer praised José Hernández's storytelling of Martín Fierro in the essay \"Derivas de la pesada.\" This Chilean author also wrote the novels The Savage Detectives and 2666.",
+          "answer": "Bolaño",
+          "acceptableAnswers": [
+            "Bolaño",
+            "Roberto Bolaño Ávalos",
+            "The Bolaño"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about José Hernández's Argentine epic poem Martín Fierro, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "671d6e2c704068afc3e92ad7"
+    },
+    {
+      "id": "e33df105-f6d9-4efc-bfab-72b49c6f9d53",
+      "linkedTossupId": "4bee7982-b671-453f-8f67-d2e1014a691e",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "The normal distribution is often described as being shaped like one of these objects that might ring from a churchtower.",
+          "answer": "bell",
+          "acceptableAnswers": [
+            "bell",
+            "The bell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The normal distribution has an empirical rule stating that 99.7% of the area will be within 3 of this measure of the distribution. This measure of spread for a distribution is the average distance from the mean a point is expected to be.",
+          "answer": "standard deviation",
+          "acceptableAnswers": [
+            "standard deviation",
+            "SD",
+            "accept sigma",
+            "The standard deviation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This theorem states that for many independent and random samples, the summed distribution of those samples will tend to be normal, even if those samples are not individually distributed normally.",
+          "answer": "central limit theorem",
+          "acceptableAnswers": [
+            "central limit theorem",
+            "the CLT",
+            "The central limit theorem"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the normal distribution:",
+      "source": "qbreader",
+      "sourceId": "65666e02443a0a5dea00457a"
+    },
+    {
+      "id": "a85b5201-4457-47a3-9021-d5b1245f5d2d",
+      "linkedTossupId": "fa8712cb-4b13-429d-af46-0e058284747d",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this novel, in which the Bundren family goes on a journey to bury their mother, Addie.",
+          "answer": "As I Lay Dying",
+          "acceptableAnswers": [
+            "As I Lay Dying",
+            "The As I Lay Dying"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One chapter in As I Lay Dying consists entirely of only this phrase. This phrase is claimed by Vardaman after Darl calls Jewel's mother a horse.",
+          "answer": "My mother is a fish",
+          "acceptableAnswers": [
+            "My mother is a fish",
+            "The My mother is a fish"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "As I Lay Dying is by this author, who also wrote about the Compson family in his novel The Sound and the Fury.",
+          "answer": "Faulkner",
+          "acceptableAnswers": [
+            "Faulkner",
+            "The Faulkner"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One character in this novel is raped after attempting to buy abortion pills from MacGowan. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a7b2"
+    },
+    {
+      "id": "eb73b020-712e-452e-a083-ee27955a65f6",
+      "linkedTossupId": "16b7e974-b941-4a32-916f-3f82b0ecfd66",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this oratorio popularly played around Easter and Christmas that contains the \"Hallelujah\" chorus.",
+          "answer": "Messiah",
+          "acceptableAnswers": [
+            "Messiah",
+            "The Messiah"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer of Messiah also composed a piece written for George I's concert on the Thames called Water Music.",
+          "answer": "Handel",
+          "acceptableAnswers": [
+            "Handel",
+            "The Handel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Handel was a practitioner of this style, along with Johann Pachelbel and Henry Purcell. It was prevalent in Europe from the late 16th century to early 18th century, and used the fugue.",
+          "answer": "baroque",
+          "acceptableAnswers": [
+            "baroque",
+            "The baroque"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the first part of this piece, an alto soloist leads the chorus into \"O thou that tellest good tidings to Zion.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43ed5"
+    },
+    {
+      "id": "a3eabbf1-82dc-4931-b06c-e92b8ff170a1",
+      "linkedTossupId": "d0c37b16-f86c-4d73-a042-6ad969566397",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this narrative in which the title character must leave his love Julia behind to travel the world on the ship Trinidada.",
+          "answer": "Don Juan",
+          "acceptableAnswers": [
+            "Don Juan",
+            "The Don Juan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of Don Juan also penned such poems as When We Two Parted and Childe Harold's Pilgrimage.",
+          "answer": "Byron",
+          "acceptableAnswers": [
+            "Byron",
+            "The Byron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this other poem by Lord Byron, the titular action is performed \"like the night of cloudless climes and starry skies\" and the title character has \"a mind at peace with all below\" and \"a heart whose love is innocent.\"",
+          "answer": "She Walks in Beauty",
+          "acceptableAnswers": [
+            "She Walks in Beauty",
+            "The She Walks in Beauty"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It is composed of sixteen cantos and unlike in other works, the title character is portrayed not as a womanizer, but rather as someone who women fall for and want to seduce. For 10 points each",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee2bd"
+    }
+  ]
+}

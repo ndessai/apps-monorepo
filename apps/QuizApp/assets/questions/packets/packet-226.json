@@ -1,0 +1,1122 @@
+{
+  "packetId": "packet-226",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Literature",
+    "Science",
+    "Human Body",
+    "Fine Arts",
+    "Mythology",
+    "Social Science",
+    "Geography"
+  ],
+  "tossups": [
+    {
+      "id": "5430c9d6-dc4f-47f2-abcf-afb7b08b659c",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "This battle was preceded by the defeat at the Garonne River of Odo the Great. One side in this battle retreated following a rumor that the other side was taking the treasure they had looted from Bordeaux. This battle took place at the same area in which John II would later be captured by Edward the Black Prince. One side's cavalry was rendered useless by a long uphill charge, and was repeatedly ordered to charge against the enemy infantry square by the governor of Al-Andalus, Abd ar-Rahman, after whose death his forces retreated to Spain. For 10 points, name this battle in which Charles Martel ended the expansion of the Umayyad Caliphate.",
+      "powerMarkPosition": 313,
+      "answer": "Tours",
+      "acceptableAnswers": [
+        "Tours",
+        "The Tours"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1dc0"
+    },
+    {
+      "id": "98aee45f-41ac-4cb5-b65c-db91984d9b2e",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "In this conflict, the Taylor-Rostow report provided the basis for increased aid to one side. The Peers Commission investigated one incident during it. The term \"shake 'n bake sergeants\" referred to one side's forces in this war. One book about it focused on John Paul Vann, was written by Neil Sheehan, and was titled A Bright Shining Lie. A key bombing campaign in this war was code-named Operation Rolling Thunder. One country started fighting after a questionable attack on the Maddox and C. Turner Joy. During this conflict, American forces used a defoliating chemical known as Agent Orange. For 10 points, name this Asian war which featured such events as the My Lai Massacre and the Tet Offensive.",
+      "powerMarkPosition": 339,
+      "answer": "Vietnam",
+      "acceptableAnswers": [
+        "Vietnam",
+        "The Vietnam"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da6e1"
+    },
+    {
+      "id": "e1d796eb-3a50-41a2-94f6-1fea6db14c80",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "This novel's protagonist declares that \"I'm afraid I'll accidentally eat [all the chocolate] before I get there\" because she feels obligated to follow \"the rule that you had to pretend to have this problem where you couldn't resist chocolate.\" The protagonist of this novel takes a class where a professor repeatedly starts by examining a sentence about snow being white as an exercise to explain language to Martians. In another scene, this novel's narrator feels guilty using the (+) \"finger\" command to determine if another student is logged into the computer system. The protagonist confesses her love for a person who's visiting CalTech via e-mail, a technology that's new to her when she matriculates at Harvard. The protagonist spends a summer teaching English to kids in a Hungarian village in part to be close to her potential love interest Ivan and ends the summer with her mom and four aunts in Turkey. This novel was followed by a sequel titled Either/Or. For 10 points, name this 2017 campus novel by Elif Batuman that shares a title with one by Fyodor Dostoevsky.",
+      "powerMarkPosition": 780,
+      "answer": "Idiot",
+      "acceptableAnswers": [
+        "Idiot",
+        "The Idiot"
+      ],
+      "source": "qbreader",
+      "sourceId": "6504ad7621f976c0af07f55e"
+    },
+    {
+      "id": "68875bf1-d7a0-4a70-89a4-57c37407349c",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "In a recent paper, Robert Griffiths of CMU has argued that this property is identical to the factorization condition used in deriving the CHSH theorem, and has claimed that it is always present so long as the probabilities are evaluated on the proper sample spaces. In the formalism of Ghirardi, Rimini, and Weber, the absence of this property is equivalent to the occurrence of outcome-dependence. The absence of this property is explicitly assumed in the velocity guiding equation that is central to the Bohm formalism. No theory can contain hidden variables, reproduce the statistical predictions of quantum mechanics, and possess this property as a consequence of Bell's theorem. This phenomenon is violated by entanglement, and its presence was assumed by the EPR thought experiment. For 10 points, identify this property absent in quantum mechanics according to which no influence can propagate faster than the speed of light.",
+      "powerMarkPosition": 398,
+      "answer": "locality",
+      "acceptableAnswers": [
+        "locality",
+        "The locality"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae7fd8"
+    },
+    {
+      "id": "04c95bdc-ff39-41a7-b18b-a13f7f947381",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "He led a massacre at Chitor during a conflict in Mewar, and a challenge to his throne was led by Hemu. He established a system of autonomy for the imperial provinces, putting mansabars in charge of each. During his reign, he instituted the principles of Dharmashastra and sulahkul, which allowed non-Muslims to retain their own courts, and he repealed the jizya and the pilgrimage taxes. He founded the city of Fatehpur Sikri in 1569. Abu'l Fazl saw him as the embodiment of the perfect philosopher king, which may have led to his development of the Din-i Ilahi, or \"divine faith.\" For 10 points, name this son of Humayun and father of Jahangir, the third and greatest of the Mughal emperors.",
+      "powerMarkPosition": 387,
+      "answer": "Akbar",
+      "acceptableAnswers": [
+        "Akbar",
+        "Jalaluddin Muhammad Akbar",
+        "The Akbar"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f02e1"
+    },
+    {
+      "id": "740a0e8b-4e58-4e3c-a239-bf9a681ec352",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for defecation reflex. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this colon-related structure.",
+      "powerMarkPosition": 70,
+      "answer": "Colon",
+      "acceptableAnswers": [
+        "colon",
+        "Colon"
+      ],
+      "explanation": "The colon is a key component of the Digestive system, involved in defecation reflex.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a017215f-abeb-4ea9-a872-43590a0bb42d",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Numerical computations of this function often make use of the Lanczos approximation. Holder's theorem states that this function does not satisfy any algebraic differential equation with rational function coefficients. Its characterization as the unique meromorphic function which is log-convex and obeys certain functional equations is due to Bohr and Mollerup. It's not sine, but this function appears in the functional equation for the Riemann zeta function. For real arguments, it can be defined using the Euler integral of the second kind. This function has poles at all nonpositive integers, but is analytic everywhere else. This function, which for some numbers is equal to the integral from 0 to infinity of x to the t minus 1 times e to the x dx. In the right half-plane, Stirling's formula provides a quick approximation to this function. For 10 points, name this function which extends the factorial function to the complex plane.",
+      "powerMarkPosition": 574,
+      "answer": "gamma",
+      "acceptableAnswers": [
+        "gamma",
+        "The gamma"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e07665f7a23ab4441dfd00"
+    },
+    {
+      "id": "ce24b958-dbb3-4f67-8191-9b75c201cce2",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for mouth and salivary glands. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this esophagus-related structure.",
+      "powerMarkPosition": 74,
+      "answer": "Esophagus",
+      "acceptableAnswers": [
+        "esophagus",
+        "Esophagus"
+      ],
+      "explanation": "The esophagus is a key component of the Digestive system, involved in mouth and salivary glands.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "822a989b-6261-4dd3-8b01-fb21e29c5ea2",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This artist painted Joana Heffernan standing on a bearskin rug in Symphony in White, and he painted a pair of gold and green birds fighting in his Peacock Room. He also painted a man below a shower of gold sparks in a work attacked by John Ruskin and subtitled The Falling Rocket, Nocturne in Black and Gold. His Arrangement in Grey and Black, No. 2 portrays a seated woman. For 10 points, name this American artist famous for a portrait of his mother.",
+      "powerMarkPosition": 160,
+      "answer": "Whistler",
+      "acceptableAnswers": [
+        "Whistler",
+        "The Whistler"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d438b3"
+    },
+    {
+      "id": "99ce02b5-d4cd-4eff-91a6-06e437819320",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "Temples dedicated to this god include the Trimbakeshwar and Ramanaswathamy. Five is a sacred number to this god, which is reflected in his namesake \"Five Mantras\". His sons are Kartikeya and Ganesha. Although he's not Vishnu, this god has a number of avatars, and his wife is Parvati. For 10 points, name this Hindu god which, along with Brahma and Vishnu, makes up the Hindu trimurti, a \"destroyer\" god.",
+      "powerMarkPosition": 275,
+      "answer": "Shiva",
+      "acceptableAnswers": [
+        "Shiva",
+        "Shiva the Destroyer",
+        "Shiva the Transformer",
+        "The Shiva"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c3d7"
+    },
+    {
+      "id": "9eb70a1b-a055-4568-a8cc-9990840e18e9",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "text": "In a 2002 monograph on women in this city, Sarah Pomeroy discusses how its women wore the peplos for hundreds of years after it was abandoned elsewhere. This city named its peasant skiritai class after the mountainous region in which many of them lived. This city dispatched military governors called harmosts to newly conquered territories. Much of this city's trade passed through the port of Gytheio. This city's only colony was located in the boot of Italy at Tarentum. This city was defeated using oblique battle order at the Battle of Leuctra. This city's Great Rhetra established rule by the gerousia and the ephors and was supposedly given by Lycurgus. Boys being schooled in the agoge system terrorized helots in-for 10 points-what militaristic Greek city-state?",
+      "powerMarkPosition": 463,
+      "answer": "Sparta",
+      "acceptableAnswers": [
+        "Sparta",
+        "Lacedaemonia",
+        "The Sparta"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382c2fba161cf1fc596568f"
+    },
+    {
+      "id": "2c360a33-2d24-485f-adc7-886feb21fbca",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "In a film from this decade, Liudmila is impregnated by either Nikolai or Vladimir, who both pressure her to have an abortion, but after seeing a baby carriage outside the clinic, she decides to raise the baby alone. That film from this decade is Abram Room's Bed and Sofa. A film from late in this decade, in which a soldier laughs maniacally after being driven mad by laughing gas, is Alexander Dovzhenko's Arsenal. Mikhail Kaufman is the title character of a film from the end of this decade that uses the director's \"Kino-Eye\" technique, employing a dizzying range of avant-garde techniques to capture everyday urban events like working and giving birth. For 10 points, name this decade in which Dziga Vertov released Man with a Movie Camera.",
+      "powerMarkPosition": 424,
+      "answer": "20",
+      "acceptableAnswers": [
+        "20"
+      ],
+      "source": "qbreader",
+      "sourceId": "651a2dd45c3919082740d27e"
+    },
+    {
+      "id": "c3919b99-481d-43c7-9cb7-948e01254262",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "One of these substances called TE additionally chelates magnesium ions, making it ideal for storing DNA. Britton and Robinson name a \"universal\" one of these substances. Citrate and phosphate are found in one of these substances named for McIlvaine, which is mixed with glycerol to create mounting medium. CAPS, MOPS, and HEPES are three in a series of twenty of these agents used in biology named for Norman Good, most of which are zwitterionic compounds. The bicarbonate system in blood acts as one of these agents. The capacity of these agents is highest when their pH equals their pKa, which is a consequence of the Henderson-Hasselbalch equation. For 10 points, name these solutions that usually consist of an acid and its conjugate base to keep pH constant.",
+      "powerMarkPosition": 408,
+      "answer": "buffer",
+      "acceptableAnswers": [
+        "buffer",
+        "solutions before mention",
+        "The buffer"
+      ],
+      "source": "qbreader",
+      "sourceId": "6676341afe8264b343f1124c"
+    },
+    {
+      "id": "5e6fccfe-125b-471a-bc4b-bf617403f027",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "In one novel set during this war, Paul Berlin narrates the dreamlike effort to track down the title character, who walks from the battle field over a thousand miles to France. The author of Going After Cacciato also wrote a collection of linked short stories about this war which includes the protagonist of the title story, Jimmy Cross, who is unable to save the chronic marijuana smoker Ted Lavender from being shot while returning from a latrine, as well as other stories like \"The Sweetheart of Song Tra Bong.\" For 10 points what war is described in the collection The Things They Carried by Tim O'Brien?",
+      "powerMarkPosition": 210,
+      "answer": "Vietnam",
+      "acceptableAnswers": [
+        "Vietnam",
+        "The Vietnam"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee2f9"
+    },
+    {
+      "id": "0d5c6293-9cef-400d-8c09-a5055df11baf",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "This composer's Rondo a Capriccio was subtitled \"The Rage over a Lost Penny.\" A theme from his earlier work Gegenliebe was incorporated into an Op. 80 work entitled Choral Fantasy. Another of his works, the Violin Sonata No. 9, is known as the Kreutzer Sonata, while one sonata by this man is subtitled \"Quasi una fantasia,\" his \"Moonlight\" Sonata. For 10 points, name this composer who sought to portray fate knocking at the door in his Fifth Symphony and incorporated \"Ode to Joy\" in his Ninth Symphony.",
+      "powerMarkPosition": 180,
+      "answer": "Beethoven",
+      "acceptableAnswers": [
+        "Beethoven",
+        "The Beethoven"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b172a"
+    },
+    {
+      "id": "26ccceec-ff86-497d-8874-83d47fd1cca0",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "Holders claim dividends that accrue even in periods where a company declares no cash dividend. For ten points, name this holding that is \"better\" than common stock.",
+      "powerMarkPosition": 94,
+      "answer": "Preferred",
+      "acceptableAnswers": [
+        "Preferred",
+        "The Preferred"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9840143"
+    },
+    {
+      "id": "73227ca9-2d3b-4ab5-997e-38771e40070e",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "One character in this story tells the tale of a man with a blue beard named Doffue Martling. Another character in this story passes a tulip tree in which Major André is rumored to live. In this story, Brom Bones may pose as a Hessian soldier hurt in \"some nameless battle,\" and this story was originally published in The Sketch Book of Geoffrey Crayon. The protagonist of this story, a schoolmaster, hopes to marry Katrina van Tassel, but vanishes from town after encountering a headless horseman. For 10 points, identify this short story about Ichabod Crane, a work of Washington Irving.",
+      "powerMarkPosition": 225,
+      "answer": "Legend of Sleepy Hollow",
+      "acceptableAnswers": [
+        "Legend of Sleepy Hollow",
+        "The Legend of Sleepy Hollow"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144ba6"
+    },
+    {
+      "id": "2aa02582-9855-4134-b543-a48a43255b98",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "This peninsula's city of Mérida is located near a geohydrological reserve that preserves many of this peninsula's sinkholes, called \"cenotes\" (say-NO-tays), which were historically used for fresh water. This peninsula is the site of the Chicxulub (CHEEK-shoo-loob) impact crater, which was caused by a meteor which caused the K-T extinction. The Mayan civilization was based in, for 10 points, what peninsula home to Cancún (can-COON), Mexico?",
+      "powerMarkPosition": 236,
+      "answer": "Yucatán",
+      "acceptableAnswers": [
+        "Yucatán",
+        "The Yucatán"
+      ],
+      "source": "qbreader",
+      "sourceId": "65666e00443a0a5dea0044c2"
+    },
+    {
+      "id": "01f605ba-88c6-4b09-8b85-be08b445145c",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "This organization filed for bankruptcy in 2020 over payouts to sexual abuse victims. Members of this organization gather for large meetings called Jamborees, and must complete a board of review to attain its highest rank. Members of this organization can earn merit badges for various accomplishments. A special project is required to attain the Eagle rank in, for 10 points, what American youth scouting organization?",
+      "powerMarkPosition": 215,
+      "answer": "Boy Scouts",
+      "acceptableAnswers": [
+        "Boy Scouts",
+        "ScoutsBSA",
+        "prompt on Scouts",
+        "The Boy Scouts"
+      ],
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6edfa"
+    },
+    {
+      "id": "a6e55a98-3697-485d-8706-0784b46235a1",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "This country was home to a politician who sawed through a bar in a dormitory room to escape the Plymouth County Correctional Facility. That man ran for president on the crazy slogan \"He killed my ma, he killed my pa, but I will vote for him,\" having earlier split from Prince Johnson. In this country, William R. Tolbert Jr. was killed in a 1980 coup by Samuel Doe. Another leader of this country was jointly awarded the 2011 Nobel Peace Prize with Tawakkol Karman and Leymah Gbowee. An October 2017 BBC article revealed that former warlord Charles Taylor may have influenced this country's elections from his prison cell. For 10 points, name this African country recently led by Ellen Johnson Sirleaf that was settled by former American slaves.",
+      "powerMarkPosition": 360,
+      "answer": "Liberia",
+      "acceptableAnswers": [
+        "Liberia",
+        "The Liberia"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a89e7"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "ea4c38ba-48f6-4cf0-80d5-7c7233aa8498",
+      "linkedTossupId": "5430c9d6-dc4f-47f2-abcf-afb7b08b659c",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this city, the site of the 2009 United Nations Climate Change Conference.",
+          "answer": "Copenhagen",
+          "acceptableAnswers": [
+            "Copenhagen",
+            "The Copenhagen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "According to organizers of a Copenhagen-related protest in this city, forty thousand people attended it, though police placed the number at twenty thousand. The protesters, dressed in blue, created a human wave outside of this city's Houses of Parliament.",
+          "answer": "London",
+          "acceptableAnswers": [
+            "London",
+            "The London"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This British Secretary of State for Energy and Climate Change wrote in the Guardian newspaper that he blamed China for the lack of progress at the Copenhagen conference.",
+          "answer": "Miliband",
+          "acceptableAnswers": [
+            "Miliband",
+            "Ed Miliband",
+            "The Miliband"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "President Obama stated that he was disappointed after events in this city. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895997a0d8ea074be7af7"
+    },
+    {
+      "id": "2b33caa8-1ae9-40cf-85f1-d3e860057c4d",
+      "linkedTossupId": "98aee45f-41ac-4cb5-b65c-db91984d9b2e",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this text preserved in the Laurentian library. It was composed by the missionary Bernardino de Sahagun in conjunction with his students in Tlatelolco.",
+          "answer": "Florentine Codex",
+          "acceptableAnswers": [
+            "Florentine Codex",
+            "partial answer",
+            "The Florentine Codex"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Florentine Codex is one of the major sources on this empire's practices, which included human sacrifices under rulers like Montezuma II.",
+          "answer": "Aztec",
+          "acceptableAnswers": [
+            "Aztec",
+            "The Aztec"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This interpreter to the conquistador Hernán Cortés appears in many of the Florentine Codex' illustrations. Her child by Cortés, Martín, is considered one of Mexico's first mestizos.",
+          "answer": "La Malinche",
+          "acceptableAnswers": [
+            "La Malinche",
+            "Doña Marina",
+            "The La Malinche"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Arthur Anderson and Charles Dibble made the first full English translation of this 12-book work after it was rediscovered by the scholar Angelo Bandini. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff3f7"
+    },
+    {
+      "id": "3cd43f92-2d5c-4385-a253-bea30b519652",
+      "linkedTossupId": "e1d796eb-3a50-41a2-94f6-1fea6db14c80",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Appointed poet laureate in 2001, his books include The Art of Drowning and Sailing Along Around the Room.",
+          "answer": "Collins",
+          "acceptableAnswers": [
+            "Collins",
+            "The Collins"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Often describing his poetry as \"subversive,\" this one-time professor at Washington University in St. Louis wrote such poems as \"Gyroscope,\" \"Wolves in the Zoo,\" and \"Reading Pornography in Old Age.\"",
+          "answer": "Nemerov",
+          "acceptableAnswers": [
+            "Nemerov",
+            "The Nemerov"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Kentuckian won a Pulitzer for the 1958 collection Promises, after earlier winning one for a novel, and in 1985 he was named the first U.S. Poet Laureate.",
+          "answer": "Penn Warren",
+          "acceptableAnswers": [
+            "Penn Warren",
+            "The Penn Warren"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "16. Name these American poets laureate FTPE.",
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e62c74"
+    },
+    {
+      "id": "d5094afc-ad01-44a7-96bd-25fb8b565ef7",
+      "linkedTossupId": "68875bf1-d7a0-4a70-89a4-57c37407349c",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this most abundant organic compound on Earth, which makes up most of a plant's cell wall.",
+          "answer": "cellulose",
+          "acceptableAnswers": [
+            "cellulose",
+            "The cellulose"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other compound makes up most of bacterial cell walls. Penicillin inhibits the formation of this compound, thereby acting as an antibiotic.",
+          "answer": "peptidoglycan",
+          "acceptableAnswers": [
+            "peptidoglycan",
+            "The peptidoglycan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This antimicrobial enzyme, which is naturally found in human tears and sweat, catalyzes the cleavage of bonds within peptidoglycan in bacterial cell walls, thus weakening them.",
+          "answer": "lysozyme",
+          "acceptableAnswers": [
+            "lysozyme",
+            "The lysozyme"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Viscose can be created from this compound, which can then be later turned into rayon. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a8a4e"
+    },
+    {
+      "id": "61ad5603-ebd2-4030-98c0-7f2708ff25a9",
+      "linkedTossupId": "04c95bdc-ff39-41a7-b18b-a13f7f947381",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Republican presidential candidate, nicknamed \"Mr. Conservative,\" whose landslide loss in the general election is often blamed on the \"Daisy\" ad run against him.",
+          "answer": "Goldwater",
+          "acceptableAnswers": [
+            "Goldwater",
+            "The Goldwater"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Goldwater was defeated in 1964 by this incumbent who succeeded to the office after the death of John F. Kennedy, but who refused to run for re-election after failing to end the war in Vietnam.",
+          "answer": "L",
+          "acceptableAnswers": [
+            "L",
+            "LBJ",
+            "prompt on “Johnson”"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ronald Reagan delivered this nationally televised speech endorsing Goldwater on October 27, 1964. It raised the more than a million dollars in donations for the Goldwater campaign.",
+          "answer": "Time for Choosing",
+          "acceptableAnswers": [
+            "Time for Choosing",
+            "The Speech",
+            "The Time for Choosing"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He claimed, \"Extremism in the defense of liberty is no vice\" in his acceptance speech. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b4c8"
+    },
+    {
+      "id": "12e9491f-011e-4dca-9265-3b97a91e15b0",
+      "linkedTossupId": "740a0e8b-4e58-4e3c-a239-bf9a681ec352",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with oxygen diffusion.",
+          "answer": "diffusion",
+          "acceptableAnswers": [
+            "diffusion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the diffusion in the respiratory system?",
+          "answer": "Oxygen diffusion",
+          "acceptableAnswers": [
+            "Oxygen diffusion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to oxygen diffusion.",
+          "answer": "partial pressure",
+          "acceptableAnswers": [
+            "partial pressure"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "0672c217-2d4f-48b9-b274-06300838f664",
+      "linkedTossupId": "a017215f-abeb-4ea9-a872-43590a0bb42d",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this property of a population that can be clumped, random, or uniform.",
+          "answer": "dispersion",
+          "acceptableAnswers": [
+            "dispersion",
+            "spatial distribution",
+            "The dispersion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Simpson and Shannon both name indices of this other quantity for a population. Roughly speaking, this quantity is the variety of fauna in an ecosystem and is particularly high for rainforests.",
+          "answer": "diversity",
+          "acceptableAnswers": [
+            "diversity",
+            "biodiversity",
+            "accept diversity index",
+            "The diversity"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Simpson and Shannon indices can be generalized into a series of numbers specified by an order parameter q, named for this scientist. The diversity profile is found by plotting his numbers against q.",
+          "answer": "Hill",
+          "acceptableAnswers": [
+            "Hill",
+            "Hill numbers",
+            "The Hill"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Morisita (\"MOH-ree-SHEE-tuh\") index for this property calculates the probability that two points in a population are from the same sample. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ede294c53e50a0513635bf"
+    },
+    {
+      "id": "297933db-014f-4277-a5eb-c239ba1df1dc",
+      "linkedTossupId": "ce24b958-dbb3-4f67-8191-9b75c201cce2",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with phagocytes and macrophages.",
+          "answer": "phagocyte",
+          "acceptableAnswers": [
+            "phagocyte"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the phagocyte in the immune system?",
+          "answer": "Phagocytes and macrophages",
+          "acceptableAnswers": [
+            "Phagocytes and macrophages"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to phagocytes and macrophages.",
+          "answer": "macrophage",
+          "acceptableAnswers": [
+            "macrophage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e502c55c-5eb7-4a21-8bb1-0ac443017b13",
+      "linkedTossupId": "822a989b-6261-4dd3-8b01-fb21e29c5ea2",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This man's photo of Lincoln is used on the five-dollar bill. The exhibition \"The Dead of Antietam\" showed some of the many photographs he and his employees took of the civil war.",
+          "answer": "Brady",
+          "acceptableAnswers": [
+            "Brady",
+            "The Brady"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Depression-era photographer took such shots as Towards Los Angeles and Migrant Mother.",
+          "answer": "Lange",
+          "acceptableAnswers": [
+            "Lange",
+            "The Lange"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This developer of the zone system and co-founder of the f/64 group created Yosemite Valley, Clearing Winter Storm and Moonrise, Hernandez, New Mexico.",
+          "answer": "Adams",
+          "acceptableAnswers": [
+            "Adams",
+            "The Adams"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these American photographers for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d439a0"
+    },
+    {
+      "id": "5965bf38-71c3-424a-bad0-988e4f54dd9c",
+      "linkedTossupId": "99ce02b5-d4cd-4eff-91a6-06e437819320",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this sun god, who defeated Apep every day while sailing the \"sun boat\" across the sky.",
+          "answer": "Ra",
+          "acceptableAnswers": [
+            "Ra"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This god was syncretized with Ra as Ra-Horakhty. This son of Isis and Osiris had eyes representing the sun and moon, and defeated Set in a boat race by using a boat made of wood painted to look like stone.",
+          "answer": "Horus",
+          "acceptableAnswers": [
+            "Horus",
+            "The Horus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Like Horus, Khepri, and Atum, this patron of Thebes was also syncretized with Ra after the rule of Ahmose I. When this wind god was combined with Ra, he was depicted as a red-eyed, lion-headed man.",
+          "answer": "Amun",
+          "acceptableAnswers": [
+            "Amun",
+            "The Amun"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Ancient Egyptians called themselves the \"cattle of\" this leader of the Egyptian pantheon, who was often depicted with a falcon head. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004d61"
+    },
+    {
+      "id": "d607a176-060f-4825-b4a3-e579e6accd6e",
+      "linkedTossupId": "9eb70a1b-a055-4568-a8cc-9990840e18e9",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this kingdom which was located on the southwestern tip of the Korean peninsula to the west of the Gaya confeder-acy. It was one of the Three Kingdoms which, just like Goguryeo, had its land taken over by the Unifed Silla Dynasty around 668 CE.",
+          "answer": "Baekje",
+          "acceptableAnswers": [
+            "Baekje",
+            "Paekche",
+            "The Baekje"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Unifed Silla employed this caste system to divide up the aristocracy using a measure of closeness to the throne. This system determined everything from the color of clothing worn to the maximum allowed size of the home.",
+          "answer": "bone rank",
+          "acceptableAnswers": [
+            "bone rank",
+            "kolp’um",
+            "The bone rank"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Silla achieved victory over Goguryeo and Baekje by allying with this Chinese dynasty, which about 100 years later had to deal with the An Lushan Rebellion.",
+          "answer": "Tang",
+          "acceptableAnswers": [
+            "Tang",
+            "Tang Chao",
+            "The Tang"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The archaeological traces of this kingdom include the tomb of its king Muryeong, who moved its capital away from the Han River basin. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba95868"
+    },
+    {
+      "id": "53813fed-9049-4c8d-82c8-43cfc619eee3",
+      "linkedTossupId": "2c360a33-2d24-485f-adc7-886feb21fbca",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this minor key that Mozart used for his only two minor-key symphonies.",
+          "answer": "G",
+          "acceptableAnswers": [
+            "G",
+            "sol minor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Mozart symphony is nicknamed the \"Great G minor.\" Leonard Bernstein (BURN-styne) analyzed its musical syntax in his second Norton Lecture before performing an arrangement of it with extra repeats.",
+          "answer": "40",
+          "acceptableAnswers": [
+            "40"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This \"Little G minor\" symphony by Mozart opens with the violins playing G in a syncopated rhythm over the celli playing G on every beat. It accompanies Salieri's attempted suicide in an Amadeus scene.",
+          "answer": "25",
+          "acceptableAnswers": [
+            "25"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A symphony written in this key includes a passage where every tone in the chromatic scale except for the tonic is played, and is the symphony its composer wrote before the Jupiter Symphony. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490be20"
+    },
+    {
+      "id": "24a993dc-c925-45a9-8614-1041e268f48b",
+      "linkedTossupId": "c3919b99-481d-43c7-9cb7-948e01254262",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this controversial drug that can be used to reduce nausea in chemotherapy patients.",
+          "answer": "cannabis",
+          "acceptableAnswers": [
+            "cannabis",
+            "marijuana",
+            "accept synonyms",
+            "consult Chris Borglum for synonyms",
+            "The cannabis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The drug marinol, which can be used to increase the appetite of people with AIDS, is a synthetic form of this chemical that is marijuana's main mind-altering ingredient.",
+          "answer": "THC",
+          "acceptableAnswers": [
+            "THC",
+            "tetrahydrocannabinol",
+            "trans-delta-9-tetrahydrocannabinol",
+            "The THC"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While some people associate THC with marijuana, oceanographers associate THC with this process, AKA the global conveyor belt. This motion is driven by temperature and salinity gradients.",
+          "answer": "thermohaline circulation",
+          "acceptableAnswers": [
+            "thermohaline circulation",
+            "The thermohaline circulation"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "California was the first state to legalize this drug for medical purposes. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b5207e"
+    },
+    {
+      "id": "afd14753-c040-42c7-8e13-0c0ba53246ee",
+      "linkedTossupId": "5e6fccfe-125b-471a-bc4b-bf617403f027",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this country home to the author of a historical novel in which Marcus Vicinius falls in love with Ligia, titled Quo Vadis.",
+          "answer": "Poland",
+          "acceptableAnswers": [
+            "Poland",
+            "Polska",
+            "The Poland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The authors of The Peasants and Quo Vadis, Władysław (\"vwah-diss-waff) Reymont and Henryk Sienkiewicz (\"hen-rick shink-hay-vitch\"), both won this literary award given by the Swedish Academy. This award was most recently won by Jon Fosse.",
+          "answer": "Nobel",
+          "acceptableAnswers": [
+            "Nobel",
+            "The Nobel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author, who won the 2018 Nobel Prize in Literature, wrote about Chopin's sister in Flights, which is made up of 116 unconnected vignettes.",
+          "answer": "Tokarczuk",
+          "acceptableAnswers": [
+            "Tokarczuk",
+            "The Tokarczuk"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An author from this country used the four seasons to title parts of his novel The Peasants. For 10 points each;",
+      "source": "qbreader",
+      "sourceId": "6727fb460a73c65be67f77f0"
+    },
+    {
+      "id": "f1729adf-fd84-4ae1-ba84-5cba1f3f4629",
+      "linkedTossupId": "0d5c6293-9cef-400d-8c09-a5055df11baf",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this piano piece named after a Massachusetts town that also contains the movements \"Emerson\" and \"Hawthorne\".",
+          "answer": "Concord Sonata",
+          "acceptableAnswers": [
+            "Concord Sonata",
+            "The Concord Sonata"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This early American modernist composer of the Concord Sonata paid tribute to an African American regiment during the Civil War in one movement of his piece Three Places in New England.",
+          "answer": "Ives",
+          "acceptableAnswers": [
+            "Ives",
+            "The Ives"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Charles Ives' works in this genre include the Holiday, as well as a piece that includes the movements \"Past\", \"Present\", and \"Future\", the Universe. A Haydn work in this genre is called the Farewell one.",
+          "answer": "symphony",
+          "acceptableAnswers": [
+            "symphony",
+            "The symphony"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "NOTE TO MODERATOR: DO NOT REVEAL ALTERNATE ANSWERS TO PART ONE. The fourth movement of this work is dedicated to Henry David Thoreau, who its composer claimed was \"a great musician ... because he did not have to go to Boston to hear 'the Symphony'\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "647044212576885f91e621a3"
+    },
+    {
+      "id": "68b42709-bea7-4355-9df8-d1b8ed4a3808",
+      "linkedTossupId": "26ccceec-ff86-497d-8874-83d47fd1cca0",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these policies that Alan Krueger and David Card analyzed with a difference-in-differences approach comparing New Jersey and Pennsylvania unemployment rates.",
+          "answer": "minimum wage",
+          "acceptableAnswers": [
+            "minimum wage",
+            "wage laws",
+            "prompt on living wage",
+            "The minimum wage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Difference-in-differences estimation compares a treatment group with one of these groups. These groups may still experience a placebo effect.",
+          "answer": "control",
+          "acceptableAnswers": [
+            "control",
+            "The control"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These variables, which satisfy the exclusion restriction, are often used in natural experiments. Krueger and Joshua Angrist used one of these exogenous variables to study the draft.",
+          "answer": "instrument",
+          "acceptableAnswers": [
+            "instrument",
+            "IVs",
+            "accept instruments",
+            "The instrument"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "David Neumark and William Wascher have criticized a 1994 study of these policies, whose results they have failed to replicate. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68486970b074cbb48b99b59a"
+    },
+    {
+      "id": "2db4bc22-4ca2-4492-89f7-cc635b5dabb5",
+      "linkedTossupId": "73227ca9-2d3b-4ab5-997e-38771e40070e",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this author of Oscar and Lucinda and True History of the Kelly Gang.",
+          "answer": "Carey",
+          "acceptableAnswers": [
+            "Carey",
+            "The Carey"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Carey's True History of the Kelly Gang is based on the life of Ned Kelly, a bushranger and outlaw from this country, Carey's home. Other authors from this country down under include Patrick White, who detailed Ludwig Leichardt disappearing while in this country's outback.",
+          "answer": "Australia",
+          "acceptableAnswers": [
+            "Australia",
+            "The Australia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Carey is among only five writers to have won this literary award twice. Unlike the Pulitzer Prize, this award is given to the best original novel written in English and published in the United Kingdom.",
+          "answer": "Booker",
+          "acceptableAnswers": [
+            "Booker",
+            "Booker-McConnell Prize",
+            "Man Booker Prize",
+            "The Booker"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One novel by this man centers around the two title characters who make a bet around if a glass church can be delivered by Easter Sunday across their home country. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eeaca03c2fca34d39ed9fa"
+    },
+    {
+      "id": "e448834e-7d0a-4fea-bdc6-976148c312c0",
+      "linkedTossupId": "2aa02582-9855-4134-b543-a48a43255b98",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this country that names a legendary \"death worm\" that supposedly inhabits the Gobi Desert, which this country shares with China.",
+          "answer": "Mongolia",
+          "acceptableAnswers": [
+            "Mongolia",
+            "The Mongolia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Naadam festival includes contests in wrestling, archery, and racing using these animals. The undomesticated Przewalski type of this animal is endemic to Mongolia, where this animal is important in the daily life of nomads.",
+          "answer": "horse",
+          "acceptableAnswers": [
+            "horse",
+            "The horse"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Most Mongolian nomads live in yurts, a type of this form of housing. Most campers in America sleep in this type of housing at night.",
+          "answer": "tent",
+          "acceptableAnswers": [
+            "tent",
+            "The tent"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The luxury cashmere brand NAADAM is named after an annual sports festival in this country. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b8f8"
+    },
+    {
+      "id": "da974bd9-1c8f-4a78-9455-b839992e0867",
+      "linkedTossupId": "01f605ba-88c6-4b09-8b85-be08b445145c",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this large sea, which was studied through a longue durée approach by Fernand Braudel. Historical polities in northern Africa and southern Europe had a coastline on this sea.",
+          "answer": "Mediterranean",
+          "acceptableAnswers": [
+            "Mediterranean",
+            "The Mediterranean"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Fernand Braudel's Mediterranean is primarily focused during the reign of this Spanish monarch, who sent the Spanish Armada to invade England.",
+          "answer": "Philip II",
+          "acceptableAnswers": [
+            "Philip II",
+            "Philip the Prudent",
+            "prompt on Philip",
+            "The Philip II"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Mediterranean, Braudel attacks the belief that this naval battle shifted the dynamics of maritime power in the region. The Catholic-supported Holy League won this 1571 battle against the Ottoman Empire.",
+          "answer": "Lepanto",
+          "acceptableAnswers": [
+            "Lepanto",
+            "The Lepanto"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A work named after this body of water analyzes it through three levels of time. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7dedae"
+    },
+    {
+      "id": "5d674122-c0e1-4068-af4a-934e3cf8f58a",
+      "linkedTossupId": "a6e55a98-3697-485d-8706-0784b46235a1",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this 1071 battle at which Byzantine forces under Romanos IV were defeated by Seljuks under Alp Arslan, paving the way for the Seljuk conquest of much of Anatolia. Romanos was captured at this battle.",
+          "answer": "Manzikert",
+          "acceptableAnswers": [
+            "Manzikert",
+            "The Manzikert"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man's rise to power was arguably helped by the political chaos that ensued following Romanos' overthrow in the aftermath of Manzikert. This man brought the Komnenos Dynasty to power in 1081 and began their namesake restoration.",
+          "answer": "Alexios I",
+          "acceptableAnswers": [
+            "Alexios I",
+            "The Alexios I"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Alexios helped instigate this conflict by requesting help against the Seljuks. This conflict, the first of its type, was ultimately successful in its goal, capturing Jerusalem in 1099.",
+          "answer": "First Crusade",
+          "acceptableAnswers": [
+            "First Crusade",
+            "partial answer",
+            "The First Crusade"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Prior to this battle, a significant portion of one side's army under Joseph Tarchaniotes (\"tar-CAY-nee-ots\") mysteriously disappeared. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144c14"
+    }
+  ]
+}

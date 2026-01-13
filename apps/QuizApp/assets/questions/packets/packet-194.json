@@ -1,0 +1,1125 @@
+{
+  "packetId": "packet-194",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Mythology",
+    "Literature",
+    "Fine Arts",
+    "History",
+    "Human Body",
+    "Science",
+    "Philosophy",
+    "Geography"
+  ],
+  "tossups": [
+    {
+      "id": "50ff956a-b071-48a0-961e-41e64a5c7753",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "In order to obtain charms to make a boat, this character pries open the mouth of a giant and descends into its belly, where he begins smithing and refuses to leave until he gets the charms. After his axe slips and injures him, he bleeds profusely until he finds an expert blood stauncher. This character recommends that the child of the virgin Marjatta be put to death, for which the child chastises him. Later, he sails away forever on a copper boat and leave his harp behind as a source of joy. This character uses an oar to fight the shapeshifting Louhi to protect a magic mill called the Sampo. Earlier, he had convinced Ilmarinen to forge the Sampo so that he could marry the maid of North Farm. For 10 points, name this Finnish hero, the protagonist of the Kalevala.",
+      "powerMarkPosition": 343,
+      "answer": "Väinämöinen",
+      "acceptableAnswers": [
+        "Väinämöinen",
+        "The Väinämöinen"
+      ],
+      "source": "qbreader",
+      "sourceId": "63059e1543cf0201876234b6"
+    },
+    {
+      "id": "904c509a-579d-44cb-b0b8-312438871897",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "This writer penned the line \"Ah, but a man's reach should exceed his grasp / Or what's a heaven for?\" in one of his poems. Another of this writer's poems is narrated by a character who says \"I choose / never to stoop,\" and describes someone delighted by the gift of \"a bough of cherries\" from an \"officious fool.\" This poet of \"Andrea del Sarto\" wrote a poem whose speaker strangles a woman with her blonde hair, \"Porphyria's Lover.\" He is better known for a poem about a portrait painted by Fra Pandolf of a woman with \"a heart too soon made glad.\" For 10 points, identify this British poet of dramatic soliloquies such as \"My Last Duchess,\" the husband of Elizabeth Barrett.",
+      "powerMarkPosition": 218,
+      "answer": "R",
+      "acceptableAnswers": [
+        "R",
+        "“Browning”"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b3db"
+    },
+    {
+      "id": "5cce0756-e0e4-4d57-ab1a-d3970c6d82a9",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "At the end of a story titled after a nickname for this place, the \"tall convict\" resigns himself to ten more years in prison by just saying \"women, shit.\" In a book titled for this place, the author's fight with Brown saves him from a boiler explosion on the \"Pennsylvania.\" Chapters of a novella centered on this place are interlaced with \"The Wild Palms\" in If I Forget Thee Jerusalem. This place titles a non-fiction book in which the author recounts stealing his pen name from Isaiah Sellers and working as Horace Bixby's cub-pilot. Two men traveling on this feature who rehearse the balcony scene from Romeo and Juliet are tarred and feathered for performing the Royal Nonesuch. For 10 points, the Duke and Dauphin travel with Huck and Jim down what river?",
+      "powerMarkPosition": 466,
+      "answer": "Mississippi",
+      "acceptableAnswers": [
+        "Mississippi",
+        "“Old Man”",
+        "Old Man River",
+        "accept Life on the Mississippi",
+        "The Mississippi"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7def60"
+    },
+    {
+      "id": "c6c4615b-df19-43bd-ace2-73b14f958ced",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This artist worked on the film Destino with Walt Disney and painted a dodecahedron in the background of The Sacrament of the Last Supper. This creator of Swans Reflecting Elephants painted his wife Gala as The Madonna of Port Lligat, and painted a bare tree and a deflated face in another work. Ants crawl across one of the soft-textured clocks in this man's painting The Persistence of Memory. For 10 points, name this Spanish surrealist.",
+      "powerMarkPosition": 263,
+      "answer": "Dalí",
+      "acceptableAnswers": [
+        "Dalí",
+        "The Dalí"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acd87"
+    },
+    {
+      "id": "84d693f0-b6aa-4a0d-b3bb-f936403b7a3a",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "Riots against this nation's government in the mid-80s culminated in the uprising of workers at the Red Star tractor works outside of Braşov in 1987, though its regime was finally toppled when protests over the arrest of Pastor Lázló Tökés crystallized into outright revolt, led primarily by the National Salvation Front. Earlier, it had been led by the Sigmaringen kings and the fascist Iron Guard. Ethnic violence broke out during the fall of communism in Tirgu Mureş and was centered on its Hungarian minority. Its Ploesti oil fields were a Nazi objective in WWII, and on December 25, 1989, Ion Iliescu led a coup which saw the murder of its longtime Communist dictator, Nicolae Ceauşescu. For 10 points, name this Eastern European country with capital Bucharest.",
+      "powerMarkPosition": 320,
+      "answer": "Romania",
+      "acceptableAnswers": [
+        "Romania",
+        "The Romania"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a456078c"
+    },
+    {
+      "id": "449842ec-7bfb-478b-94c9-d14ffdd5f946",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for muscle fatigue. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this contraction-related structure.",
+      "powerMarkPosition": 80,
+      "answer": "Contraction",
+      "acceptableAnswers": [
+        "contraction",
+        "Contraction"
+      ],
+      "explanation": "The contraction is a key component of the Musculoskeletal system, involved in muscle fatigue.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "f75ba0a1-a94a-479d-a7b4-85c0f6f45dac",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "The speaker of this poem describes men who are \"deaf even to the hoots/Of tired, outstripped Five Nines.\" Those shells lead to an \"ecstasy of fumbling,\" after which the speaker sees \"as [if] under a green sea\" a man \"drowning\" with blood \"gargling from the froth-corrupted lungs.\" This scene makes the speaker admonish the reader to not \"tell with such high zest\" the title phrase. For 10 points what poem by Wilfred Owen describes as \"that old lie\" a Latin phrase that means \"It is sweet and fitting to die for one's country.\"",
+      "powerMarkPosition": 381,
+      "answer": "Dulce et Decorum Est",
+      "acceptableAnswers": [
+        "Dulce et Decorum Est",
+        "The Dulce et Decorum Est"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0cea1"
+    },
+    {
+      "id": "acaef9d1-618f-4de7-93c1-49ebd45012fa",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "The role of one of these devices is filled by an open-circuit stub shorter than a quarter wavelength on a transmission line. In transmission line theory, these devices are added to move towards the lower half of a Z Smith chart, and the output branch of a bias tee contains one of them. Banks of these devices act as reactive \"suppliers\" in power factor correction, since they produce a reactance that varies inversely with AC frequency. One curved line appears in the symbol for the polarized electrolytic type of these devices, whose thin oxide layer acts as a permittivity-boosting dielectric. Their standard type is denoted with two parallel lines and has a strength rated in farads. For 10 points, name these circuit components that store charge on a pair of separated conducting surfaces.",
+      "powerMarkPosition": 286,
+      "answer": "capacitor",
+      "acceptableAnswers": [
+        "capacitor",
+        "condensers",
+        "The capacitor"
+      ],
+      "source": "qbreader",
+      "sourceId": "6326bf0e692d593d1d7a892a"
+    },
+    {
+      "id": "076887aa-6b5a-434f-ae46-05f0fa9a4f42",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "This artist's identification of the landscape around his home in East Hampton with the Garden of Eden led him to paint a panorama featuring two small nudes, Adam and Eve Walking Out on Montauk in Early Spring. A pale-skinned woman standing next to a gold-painted room divider holds a Greek figurine in a painting by this artist, in which men working on a skyscraper are visible through one of his characteristic windows. This artist of Tanagra depicted a street intersection in a painting with similar composition to Caillebotte's Paris Street, Rainy Day, his Rainy Day, Columbus Avenue. Babb's Rock appears in the background of many of this artist's depictions of the poppies in Celia Thaxter's garden on the Isles of Shoal. This artist's Avenue in the Rain depicts a mass of red, white, and blue objects in its upper right. For 10 points, name this American Impressionist artist known for his paintings of flags and for having a pseudo-Arabic lastname.",
+      "powerMarkPosition": 709,
+      "answer": "Hassam",
+      "acceptableAnswers": [
+        "Hassam",
+        "The Hassam"
+      ],
+      "source": "qbreader",
+      "sourceId": "64ab6873f814f28d9b5a77a4"
+    },
+    {
+      "id": "dfac8167-1e1b-43f8-9294-aad452bace04",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "text": "This number of movements comprises a chamber piece whose scherzo sandwiches a Trio estatico between its outer Allegro misterioso sections. Anton Webern's Opus 9 comprises this many bagatelles (bag-uh-TELLS) for string quartet. A string quartet with this many movements ends with a Largo desolato, uses an \"A, B-flat, B-natural, F\" motif to depict the composer's lover Hanna Fuchs-Robettin (FEWKS ROH-buh-tin), and is the Lyric Suite of Alban Berg. This many instruments play a one-movement chamber piece whose five sections correspond to the five stanzas of a poem about a woman who tells her lover that she is pregnant with another man's child. That setting of a Richard Dehmel (DEM-ell) poem is Arnold Schoenberg's (SHERN-berg's) Transfigured Night. For 10 points, give this number which is half of the number of notes in a dodecaphonic tone row.",
+      "powerMarkPosition": 420,
+      "answer": "six",
+      "acceptableAnswers": [
+        "six",
+        "The six"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af9742415e"
+    },
+    {
+      "id": "e9419109-5717-41ab-addb-6d8f46cbc7fe",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for thyroid hormones t3 and t4. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this thyroid-related structure.",
+      "powerMarkPosition": 81,
+      "answer": "Thyroid",
+      "acceptableAnswers": [
+        "thyroid",
+        "Thyroid"
+      ],
+      "explanation": "The thyroid is a key component of the Endocrine system, involved in thyroid hormones t3 and t4.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "fdc441d7-5545-41c1-a277-5eb364c9e8d1",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "One of this author's characters skims a newspaper, reading lines like \"Dr. Carolus Hunter dead in a tub,\" ignoring a woman who watches a parasol burst into flames. The set for one of this author's plays is lit only by a spotlight shining on a woman's mouth; that play is collected in the book Ends and Odds. A character created by this author replies \"Hmm. It'd give us an erection\" when asked \"What about hanging ourselves?\" A woman named Winnie is buried waist-deep in dirt in this author's play Happy Days. A man fails to take off his boot at the beginning of a play by him, whose set includes a leafless tree. For 10 points, Vladimir and Estragon appear in what Irish playwright's Waiting for Godot?",
+      "powerMarkPosition": 405,
+      "answer": "Beckett",
+      "acceptableAnswers": [
+        "Beckett",
+        "The Beckett"
+      ],
+      "source": "qbreader",
+      "sourceId": "64691807edc97097871b7077"
+    },
+    {
+      "id": "ce36319d-3716-42c6-afb7-b8a02a98e0a3",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "The Miller effect is an increase in this quantity in an amplifier by a factor of one minus amplifier gain. This quantity's inverse is known as elastance, and for the device associated with this quantity, energy is equal to one-half this quantity times voltage squared. The magnitude of this quantity is affected by the area of plates, distance between them, and the dielectric constant of the material between those plates. This quantity is associated with namesake devices capable of storing charge, such as the Leyden Jar. For 10 points, name this quantity measured in Farads and defined as the magnitude of charge over applied voltage.",
+      "powerMarkPosition": 268,
+      "answer": "capacitance",
+      "acceptableAnswers": [
+        "capacitance",
+        "C",
+        "The capacitance"
+      ],
+      "source": "qbreader",
+      "sourceId": "6632d7064c1a8347da197b9d"
+    },
+    {
+      "id": "ee89ca3f-05db-4e19-8f4c-caeeb277149a",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "text": "Causa 23 of Gratian's Decretum defends this concept. A Francisco de Vittoria work on the laws of this concept sets out four key problems and cites Innocent IV's view that it must be \"immediate\" and \"proportionate.\" St. Augustine's Against Faustus argued that the obedience of Moses shows its divine lawfulness. Thomas Aquinas argued that legitimate authority, rightful cause and good intention were the three conditions for a justified form of this concept. For 10 points, name this concept, whose practice is opposed by pacifists.",
+      "powerMarkPosition": 298,
+      "answer": "war",
+      "acceptableAnswers": [
+        "war",
+        "violence",
+        "The war"
+      ],
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db46907"
+    },
+    {
+      "id": "4aeecd9a-b342-4fac-b146-e1fa2e6fa51a",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "At Whitehall, this person and a priest named Tomocomo met King James I[first]in 1617, two months before this dignitary's death. Alexander Whitaker taught and baptized this person with the name \"Rebecca.\" This woman's father, Powhatan, allegedly threatenedto murder a colonist from Jamestown until she intervened. John Smith was legendarily saved by, for ten points, what Native American woman who visited England with her colonist husband, John Rolfe?",
+      "powerMarkPosition": 224,
+      "answer": "Pocahontas",
+      "acceptableAnswers": [
+        "Pocahontas",
+        "The Pocahontas"
+      ],
+      "source": "qbreader",
+      "sourceId": "6837af65278db02eb79f1d6f"
+    },
+    {
+      "id": "72fc1c7d-6231-49e2-a4f7-b108293972c2",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "-22. In this country, the Jansz-Io is part of the Greater Gorgon field, a resource tapped on Barrow Island. The temperature difference between the ocean and land gives rise to a wind called the Fremantle Doctor, named for a coastal city in this country. Its only active volcanoes are found on McDonald and Heard Islands, whose Mawson Peak is higher than the highest peak on the mainland, Mount Kosciuszko. Its lowest point is Lake Eyre, located in a state with capital Adelaide. For 10 points, name this country with capital Canberra that contains Sydney.",
+      "powerMarkPosition": 253,
+      "answer": "Australia",
+      "acceptableAnswers": [
+        "Australia",
+        "The Australia"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dede9f"
+    },
+    {
+      "id": "92bc4d97-1666-4ec1-971a-cf4672875861",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "Covering almost five hundred thousand square miles but no more than three hundred feet deep, its arms include Laizhou Bay, the Bo Gulf, the Liaodong Gulf, and Korea Bay, while it is connected to the Sea of Japan by the Korea Strait. Its name comes from deposits received from the Han and Huang He. For 10 points-name this Pacific sea.",
+      "powerMarkPosition": 232,
+      "answer": "Yellow",
+      "acceptableAnswers": [
+        "Yellow",
+        "The Yellow"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841c9d"
+    },
+    {
+      "id": "b2057397-09ea-494b-b02c-6409fa1ed9cd",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "This force is the weakest fundamental force. This force arises from the curvature of spacetime according to Einstein's theory of general relativity. All objects that have mass exert this force on each other. For 10 points, what force causes thrown objects to fall to the ground?",
+      "powerMarkPosition": 148,
+      "answer": "gravity",
+      "acceptableAnswers": [
+        "gravity",
+        "gravitational force",
+        "The gravity"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c859"
+    },
+    {
+      "id": "2e60f20f-8494-4854-9320-d4e5b5f21919",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "This scholar attacked \"pure\" Ciceronian Latin in his Ciceronianus . Late in his life, this thinker defended free will in De libero arbitrio . He attempted to get a job as the tutor of Charles V by writing the Education of a Christian Prince . He produced a Greek New Testament called the Textus Receptus. In another book by this post-Classical author of the Enchiridion: Handbook of a Christian Knight , the title character describes being raised by Inebriation and Ignorance, and ironically praises the corruption and abuses of the Catholic Church. For 10 points, name this Dutch humanist friend of Thomas More and author of The Praise of Folly .",
+      "powerMarkPosition": 357,
+      "answer": "Erasmus",
+      "acceptableAnswers": [
+        "Erasmus",
+        "Desiderius Erasmus Roterodamus",
+        "The Erasmus"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbe8af60ace717b0883003"
+    },
+    {
+      "id": "49901754-76d4-484c-9e4d-6b7ce7a7609a",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for physical barriers. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this phagocyte-related structure.",
+      "powerMarkPosition": 70,
+      "answer": "Phagocyte",
+      "acceptableAnswers": [
+        "phagocyte",
+        "Phagocyte"
+      ],
+      "explanation": "The phagocyte is a key component of the Immune system, involved in physical barriers.",
+      "source": "ai-generated"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "a7fdd5ab-2b1e-4672-acee-004f9224f640",
+      "linkedTossupId": "50ff956a-b071-48a0-961e-41e64a5c7753",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this type of journey whose process leads to or destination is something of spiritual or religious significance.",
+          "answer": "pilgrimage",
+          "acceptableAnswers": [
+            "pilgrimage",
+            "The pilgrimage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hindus on the Kumbh Mela pilgrimage journey to holy examples of these geographical features. Christians often travel to the feature of this type where Namaan was cured of leprosy and where the Holy Spirit proclaimed Jesus to be the only son of God.",
+          "answer": "river",
+          "acceptableAnswers": [
+            "river",
+            "The river"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pilgrimage to this Spanish church was super popular in the Middle Ages. Travelers from France look for shells that mark the most popular routes towards this cathedral, which holds the bones of its namesake saint.",
+          "answer": "Santiago de Compostela",
+          "acceptableAnswers": [
+            "Santiago de Compostela",
+            "The Santiago de Compostela"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Popular examples of these trips include the one to Lourdes and the hajj. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c322fc"
+    },
+    {
+      "id": "fe66a42c-c040-4727-80ad-0219ac8165e8",
+      "linkedTossupId": "904c509a-579d-44cb-b0b8-312438871897",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this work that centers on General Tomas Arroyo's desire for the Miranda estate, which leads him into conflict with the title American Journalist.",
+          "answer": "Old Gringo",
+          "acceptableAnswers": [
+            "Old Gringo",
+            "Gringo Viejo",
+            "The Old Gringo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Mexican author wrote The Old Gringo as well as The Death of Artemio Cruz.",
+          "answer": "Fuentes",
+          "acceptableAnswers": [
+            "Fuentes",
+            "The Fuentes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The title character of The Old Gringo was based on this author of The Devil's Dictionary. This man disappeared in Mexico at the end of his life.",
+          "answer": "Bierce",
+          "acceptableAnswers": [
+            "Bierce",
+            "The Bierce"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "At one point, the main character of this work proves his rifle skills by shooting a peso thrown in the air. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0702bb8d2514c62130b58"
+    },
+    {
+      "id": "099d6da1-4add-45de-833e-c6cb7ccc4de4",
+      "linkedTossupId": "5cce0756-e0e4-4d57-ab1a-d3970c6d82a9",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this feminist American poet who wrote \"Valediction Forbidding Mourning\" and collections such as Snapshots of a Daughter-in-Law and Diving into the Wreck.",
+          "answer": "Rich",
+          "acceptableAnswers": [
+            "Rich",
+            "The Rich"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rich's essay \"When We Dead Awaken: Writing as Re-Vision\" takes its title from this man's work. The play What Happened after Nora Left Her Husband by Elfriede Jelinek (\"el-FREE-duh YELL-in-ek\") follows up on this Norwegian's play A Doll's House.",
+          "answer": "Ibsen",
+          "acceptableAnswers": [
+            "Ibsen",
+            "The Ibsen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of Rich's ghazals tells this poet that \"we are ghosts condemned to haunt the cities where you want to be at home.\" This one-time poet laureate of New Jersey wrote \"Preface to a Twenty-Volume Suicide Note\" and \"In Memory of Radio.\"",
+          "answer": "Baraka",
+          "acceptableAnswers": [
+            "Baraka",
+            "Leroi Jones",
+            "prompt on Leroi",
+            "The Baraka"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This poet addressed a \"fierce half-brother, staring down from that simplified west\" in \"Orion.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32f19679b6464bbdf72f0"
+    },
+    {
+      "id": "af17b971-2b49-4603-b07e-9dda05db1b56",
+      "linkedTossupId": "c6c4615b-df19-43bd-ace2-73b14f958ced",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Located in Lower Manhattan, this building was rebuilt on the site of the September 11th attacks. It reopened in 2014 after a complete reconstruction.",
+          "answer": "One World Trade Center",
+          "acceptableAnswers": [
+            "One World Trade Center",
+            "The One World Trade Center"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The One World Trade Center surpassed this building as the tallest building of New York. This Art Deco skyscraper was designed by Shreve.",
+          "answer": "Empire State",
+          "acceptableAnswers": [
+            "Empire State",
+            "The Empire State"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other skyscraper, located on the intersection between 42nd and Lexington, fought with the Empire State building to be the tallest building in New York.",
+          "answer": "Chrysler",
+          "acceptableAnswers": [
+            "Chrysler",
+            "The Chrysler"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these New York skyscrapers:",
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e14fa"
+    },
+    {
+      "id": "00bb3192-e742-4603-886c-3e666017c283",
+      "linkedTossupId": "84d693f0-b6aa-4a0d-b3bb-f936403b7a3a",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this modern-day country where Moorosi and his sons were beheaded and skinned after he led a failed uprising of Basuto tribespeople against annexation by the Cape Colony.",
+          "answer": "Lesotho",
+          "acceptableAnswers": [
+            "Lesotho",
+            "Basutoland",
+            "The Lesotho"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While known as Basutoland, Lesotho joined other tribes during the mfecane (\"um-feh-KAH-nay\"), a forced dispersal imposed by this Zulu leader who pioneered the \"buffalo horn\" formation.",
+          "answer": "Shaka",
+          "acceptableAnswers": [
+            "Shaka",
+            "Shaka kaSenzangakhona",
+            "The Shaka"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lesotho was unified by this Basuto monarch who named himself the \"Razor\" and fortified Thaba Bosiu Hill. He later defeated the Boers in Senekal's War and Seqiti's War.",
+          "answer": "Moshoeshoe",
+          "acceptableAnswers": [
+            "Moshoeshoe",
+            "Letlama",
+            "The Moshoeshoe"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Gordon Sprigg's implementation of the 1878 Peace Preservation Act resulted in the natives of this country rebelling in the 1880 Gun War. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32f19679b6464bbdf74e5"
+    },
+    {
+      "id": "ce94b11f-6124-42c3-a8e2-39af64f1fdd9",
+      "linkedTossupId": "449842ec-7bfb-478b-94c9-d14ffdd5f946",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with autonomic nervous system.",
+          "answer": "cranial nerve",
+          "acceptableAnswers": [
+            "cranial nerve"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cranial nerve in the nervous system?",
+          "answer": "Autonomic nervous system",
+          "acceptableAnswers": [
+            "Autonomic nervous system"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to autonomic nervous system.",
+          "answer": "vagus nerve",
+          "acceptableAnswers": [
+            "vagus nerve"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "431cf68e-8cc0-495d-bcfb-5eca0ed2a6e8",
+      "linkedTossupId": "f75ba0a1-a94a-479d-a7b4-85c0f6f45dac",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "What Langston Hughes poem describes music \"coming from a black man's soul\" before the singer goes home and sleeps \"like a rock or a man that's dead\"?",
+          "answer": "Weary Blues",
+          "acceptableAnswers": [
+            "Weary Blues",
+            "The Weary Blues"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hughes is probably the most important figure from this African-American literary movement of the 1920s, centered in New York City.",
+          "answer": "Harlem Renaissance",
+          "acceptableAnswers": [
+            "Harlem Renaissance",
+            "The Harlem Renaissance"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Sonny's Blues\" is a short story set in Harlem by this author of the novel If Beale Street Could Talk.",
+          "answer": "Baldwin",
+          "acceptableAnswers": [
+            "Baldwin",
+            "The Baldwin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This poem's title music is played by a man on Lenox Avenue. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b88e3f"
+    },
+    {
+      "id": "cbb59e53-d349-4ed7-b4de-235adb164c23",
+      "linkedTossupId": "acaef9d1-618f-4de7-93c1-49ebd45012fa",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this product. Additives like FutureFeed and 3-nitro·oxy·propanol reduce levels of this product by inhibiting the Coenzyme M pathway, blocking enteric fermentation in target animals.",
+          "answer": "cow methane",
+          "acceptableAnswers": [
+            "cow methane",
+            "cattle",
+            "dairy",
+            "livestock in place of “cow”",
+            "accept CH4 in place of “methane”",
+            "prompt on methane emissions",
+            "enteric methane emissions by asking “from what animals?”",
+            "prompt on reducing carbon",
+            "greenhouse gas",
+            "GHG emissions",
+            "The cow methane"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cargill's SilvAir instead siphons enteric hydrogen with this salt, generating ammonia rather than methane. In some fertilizers, a double salt of ammonium and this nitrogenous salt immobilizes phosphorus to mitigate eutrophication.",
+          "answer": "calcium nitrate",
+          "acceptableAnswers": [
+            "calcium nitrate",
+            "Ca2",
+            "accept calcium ammonium nitrate",
+            "prompt on calcium",
+            "Ca2+",
+            "prompt on nitrate",
+            "NO3-",
+            "prompt on CAN by asking “what component of CAN?”",
+            "The calcium nitrate"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Berkeley's Innovative Genomics Institute is co-creating a pill that uses this tool to edit the cow microbiome and disfavor methanogens. IGI was founded by a pioneer of this technology, Jennifer Doudna.",
+          "answer": "CRISPR",
+          "acceptableAnswers": [
+            "CRISPR",
+            "Clustered Regularly Interspaced Short Palindromic Repeat editing",
+            "The CRISPR"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "FutureFeed has patented red Asparagopsis algae to target this product since its high bromoform content inhibits this product's biogenesis with at least 80% efficacy. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "689a0d632d8608f4ad8515ff"
+    },
+    {
+      "id": "2eab270d-7698-4c8f-8cfd-c1185ca545ec",
+      "linkedTossupId": "076887aa-6b5a-434f-ae46-05f0fa9a4f42",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this painting which was exhibited at the 1812 Salon, named for a Napoleonic cavalryman preparing an attack.",
+          "answer": "Charging Chasseur",
+          "acceptableAnswers": [
+            "Charging Chasseur",
+            "The Charging Chasseur"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Charging Chasseur is a painting by this master of military paintings who is better known for The Raft of the Medusa.",
+          "answer": "Géricault",
+          "acceptableAnswers": [
+            "Géricault",
+            "The Géricault"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Etienne-Jean Georget commissioned Géricault to create ten paintings of this kind of person, including a woman with red-rimmed eyes and a white bonnet.",
+          "answer": "insane",
+          "acceptableAnswers": [
+            "insane",
+            "equivalents",
+            "The insane"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work depicts an officer holding a sword in his right hand astride a horse on a smoky battlefield. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b782"
+    },
+    {
+      "id": "42a7d42c-c301-4f4e-aa00-3392ee76f1f2",
+      "linkedTossupId": "dfac8167-1e1b-43f8-9294-aad452bace04",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This French landscapist of the Barbizon depicted \"Hagar in the Wilderness\" in addition to The Nymph of the Seine and his well-known depiction of the Bridge at Narni.",
+          "answer": "Corot",
+          "acceptableAnswers": [
+            "Corot",
+            "The Corot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This artist showed St. Jerome in the Desert kneeling next to a large brown stick, while he showed a sleeping lion in depicting Jerome in his study. He also did portraits of Philip Melanchthon and Martin Luther.",
+          "answer": "Cranach",
+          "acceptableAnswers": [
+            "Cranach",
+            "The Cranach"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Along with Nikolai Ge and Grigory Myasoyedov, this Russian was a founder of the Peredvizhniki, or the Wanderers, after he'd earlier founded the democratic art group called the \"Artel of Artists\" in 1863. He painted The Unknown Woman and a depiction of Christ in the Desert.",
+          "answer": "Kramskoi",
+          "acceptableAnswers": [
+            "Kramskoi",
+            "The Kramskoi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these artists who painted religious figures wandering around in a desert, For 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62ec4cc6671d74a7752da558"
+    },
+    {
+      "id": "3f9669f7-afd1-4116-b2d5-45a48e0b0318",
+      "linkedTossupId": "e9419109-5717-41ab-addb-6d8f46cbc7fe",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with ventricles and csf.",
+          "answer": "cerebrum",
+          "acceptableAnswers": [
+            "cerebrum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cerebrum in the nervous system?",
+          "answer": "Ventricles and CSF",
+          "acceptableAnswers": [
+            "Ventricles and CSF"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to ventricles and csf.",
+          "answer": "cerebellum",
+          "acceptableAnswers": [
+            "cerebellum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "bc772693-c2c0-4dea-88a4-84b20cb409b0",
+      "linkedTossupId": "fdc441d7-5545-41c1-a277-5eb364c9e8d1",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this \"Northamptonshire Peasant Poet,\" who spent his final years in an insane asylum. This author wrote,\"My friends forsake me like a memory lost\" in his poem \"I Am!\"",
+          "answer": "Clare",
+          "acceptableAnswers": [
+            "Clare",
+            "The Clare"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A collection by Clare titled for this profession is split into poems titled for months like \"April\" and \"January.\"Clare was inspired by a bucolic work by Edmund Spenser titled for a \"calendar\" of people in this profession.",
+          "answer": "shepherd",
+          "acceptableAnswers": [
+            "shepherd",
+            "The Shepherd’s Calendar",
+            "the Shepheardes Calendar",
+            "The shepherd"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While in the asylum, Clare began to believe that he was this British poet, and rewrote his poem about a Spanish womanizer titled Don Juan (\"JOO-in\").",
+          "answer": "Byron",
+          "acceptableAnswers": [
+            "Byron",
+            "George Gordon Byron",
+            "6th Baron Byron",
+            "The Byron"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A poem dedicated to this author begins, \"Kind of empty in the way it sees everything, the earth gets to its feet and salutes the sky.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "673ec01190236da031c2d154"
+    },
+    {
+      "id": "72b78dbe-52b4-4b58-870e-aa967c8e2038",
+      "linkedTossupId": "ce36319d-3716-42c6-afb7-b8a02a98e0a3",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this force that opposes motion. Objects acted upon by this non-conservative force will lose energy in the form of heat, and its static form is usually greater than its kinetic form due to the formation of chemical bonds.",
+          "answer": "friction",
+          "acceptableAnswers": [
+            "friction",
+            "The friction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This term describes the steepest angle at which a granular material can be piled without the pile slumping. The tangent of this angle approximately equals the coefficient of static friction.",
+          "answer": "angle of repose",
+          "acceptableAnswers": [
+            "angle of repose",
+            "The angle of repose"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Amontons' First Law states that increases in this quantity won't actually cause two objects to have more friction, contrary to popular misconception. This is because larger values of this quantity will decrease pressure.",
+          "answer": "area",
+          "acceptableAnswers": [
+            "area",
+            "The area"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The ratio of this force to the normal force equals its namesake coefficient, which is frequently denoted as mu. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b8f0"
+    },
+    {
+      "id": "0c1e9584-033f-4fb1-a110-601d1836bcad",
+      "linkedTossupId": "ee89ca3f-05db-4e19-8f4c-caeeb277149a",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "According to its original conception, in what thought experiment must a driver choose whether to steer away from a collision with five men on one track,or in the direction of a single man on another track?",
+          "answer": "trolley",
+          "acceptableAnswers": [
+            "trolley",
+            "The trolley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This British philosopher first formulated the trolley problem.",
+          "answer": "Foot",
+          "acceptableAnswers": [
+            "Foot",
+            "Philippa Bosanquet",
+            "The Foot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Foot's work on virtue ethics was inspired by Aristotle's Nicomachean Ethics. This other contemporary philosopher wrote about Aristotelian ethics and Greek tragedy in The Fragility of Goodness.",
+          "answer": "Nussbaum",
+          "acceptableAnswers": [
+            "Nussbaum",
+            "The Nussbaum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A famous thought experiment in ethics was introduced in 1967. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba967db"
+    },
+    {
+      "id": "0991b3b6-9a13-487d-acde-3dc41155e863",
+      "linkedTossupId": "4aeecd9a-b342-4fac-b146-e1fa2e6fa51a",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Middle Eastern nation, which took possession of the Gaza Strip, the West Bank, and the Sinai during the Six Day War.",
+          "answer": "Israel",
+          "acceptableAnswers": [
+            "Israel",
+            "The Israel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During the Six Day War, Israel also captured this hilly region from Syria. The taking of this region, north of the Sea of Galilee, was not in Israel's original plans for defense.",
+          "answer": "Golan",
+          "acceptableAnswers": [
+            "Golan",
+            "The Golan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Egypt and Syria launched a sneak attack against the Israelis in 1973 on this Jewish high holiday to try and win back lost territory. Jews would have heard the Kol Nidre prayer at synagogue on this day.",
+          "answer": "Yom Kippur",
+          "acceptableAnswers": [
+            "Yom Kippur",
+            "The Yom Kippur"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This nation's independence was secured after defeating a seven nation coalition in 1948. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b805"
+    },
+    {
+      "id": "6187473a-4171-4634-99f2-35f10a4290d2",
+      "linkedTossupId": "72fc1c7d-6231-49e2-a4f7-b108293972c2",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "East of the nearby Namib Desert, this big desert sits between the Okavango basin and the Orange River in the north of South Africa.",
+          "answer": "Kalahari",
+          "acceptableAnswers": [
+            "Kalahari",
+            "The Kalahari"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Giant's Castle and Champagne Castle are peaks of this mountain range that runs mostly in South Africa along the southeastern coast of the continent.",
+          "answer": "Drakensberg",
+          "acceptableAnswers": [
+            "Drakensberg",
+            "The Drakensberg"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These extremely high waterfalls plunge down in the province of KwaZulu-Natal off of their namesake river which has its source in the Drakensbergs and flows east to the Indian Ocean.",
+          "answer": "Tugela",
+          "acceptableAnswers": [
+            "Tugela",
+            "The Tugela"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Geography of South Africa, For 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43271"
+    },
+    {
+      "id": "f06fe205-0cb5-4507-8d10-b08940cb9e95",
+      "linkedTossupId": "92bc4d97-1666-4ec1-971a-cf4672875861",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Rising in southeast-central Brazil, this second longest river of South America joins with the Uruguay River to form the Río de la Plata.",
+          "answer": "Parana",
+          "acceptableAnswers": [
+            "Parana",
+            "The Parana"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Brazil is a partner in this dam, one of the largest hydroelectric plants in the world, on the Parana River which has submerged the Guaíra Falls.",
+          "answer": "Itaipu",
+          "acceptableAnswers": [
+            "Itaipu",
+            "The Itaipu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Brazil shares the Itaipu dam with this country, on whose border the dam lies.",
+          "answer": "Paraguay",
+          "acceptableAnswers": [
+            "Paraguay",
+            "The Paraguay"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, identify some stuff about the flow of water in South America.",
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9841445"
+    },
+    {
+      "id": "7b379d2b-0344-4975-a821-1275f211cc82",
+      "linkedTossupId": "b2057397-09ea-494b-b02c-6409fa1ed9cd",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this highly reactive group of elements found just left of the noble gases on the periodic table.",
+          "answer": "halogen",
+          "acceptableAnswers": [
+            "halogen",
+            "The halogen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This lightest halogen is the most electronegative element on the Pauling scale. This element is used in toothpaste and drinking water to prevent cavities.",
+          "answer": "fluorin",
+          "acceptableAnswers": [
+            "fluorin",
+            "The fluorin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This seventeenth element on the periodic table is commonly used to disinfect swimming pools.",
+          "answer": "chlorine",
+          "acceptableAnswers": [
+            "chlorine",
+            "The chlorine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This group of elements is the only one that has members in solid, liquid, and gaseous forms at room temperature. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004e83"
+    },
+    {
+      "id": "cb65fa20-b134-4009-be94-a1b98fd717c5",
+      "linkedTossupId": "2e60f20f-8494-4854-9320-d4e5b5f21919",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this falcon deity who vanquished Set, the great enemy of his father Osiris.",
+          "answer": "Horus",
+          "acceptableAnswers": [
+            "Horus",
+            "The Horus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One form of Horus, Horus-Behdety, fathered a child with this cow-headed goddess, who once performed an erotic dance to cheer up Ra.",
+          "answer": "Hathor",
+          "acceptableAnswers": [
+            "Hathor",
+            "The Hathor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another view of the Horus-Set conflict is that it symbolized this region's conquest by its counterpart. Rulers of this region wore a red crown known as the Deshret.",
+          "answer": "Lower Egypt",
+          "acceptableAnswers": [
+            "Lower Egypt",
+            "The Lower Egypt"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In life, pharoahs were regarded as incarnations of this deity. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ad7b1"
+    },
+    {
+      "id": "5a84b5e8-c4e3-4553-b515-97ec025792a1",
+      "linkedTossupId": "49901754-76d4-484c-9e4d-6b7ce7a7609a",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with metabolism regulation.",
+          "answer": "thyroid",
+          "acceptableAnswers": [
+            "thyroid"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the thyroid in the endocrine system?",
+          "answer": "Metabolism regulation",
+          "acceptableAnswers": [
+            "Metabolism regulation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to metabolism regulation.",
+          "answer": "thyroxine",
+          "acceptableAnswers": [
+            "thyroxine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    }
+  ]
+}

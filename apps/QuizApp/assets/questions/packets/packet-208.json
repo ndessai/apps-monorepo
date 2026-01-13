@@ -1,0 +1,1171 @@
+{
+  "packetId": "packet-208",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Literature",
+    "Human Body",
+    "Mythology",
+    "History",
+    "Science",
+    "Philosophy",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "b3388323-2384-4827-b280-c750ffe97725",
+      "category": "Literature",
+      "subcategory": "Other Literature",
+      "difficulty": "middle_school",
+      "text": "This character is stabbed by a \"career\" named Cato. He allies with Johanna Mason and Finnick Odair after volunteering as tribute in place of Haymitch. This character lies about marrying Katniss. For 10 points, name this baker that represented District 12 in the 74th Hunger Games.",
+      "powerMarkPosition": 150,
+      "answer": "Peeta",
+      "acceptableAnswers": [
+        "Peeta",
+        "either underlined portion",
+        "The Peeta"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c758"
+    },
+    {
+      "id": "612faab9-3125-4125-b818-aaf57ef38737",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for lung lobes and segments. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this bronchus-related structure.",
+      "powerMarkPosition": 81,
+      "answer": "Bronchus",
+      "acceptableAnswers": [
+        "bronchus",
+        "Bronchus"
+      ],
+      "explanation": "The bronchus is a key component of the Respiratory system, involved in lung lobes and segments.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "8c358546-1dab-4df7-86de-5dd057132b45",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "A Chinese god of this domain was nursed by a fairy after hatching from an egg that was discovered in the forest by a nine-eared dog. That god of this domain rewarded Fuxi and Nüwa for freeing him from a cage by gifting them one of his teeth, which grew into a gourd that protected them during a flood. A winged, blue-skinned god of this domain married a mortal woman who became the mirror-wielding goddess Dianmu. In the Kojiki, eight kami of this domain appear on the rotting corpse of Izanami and pursue Izanagi as he flees the underworld. The primary kami of this domain had a weasel or badger-like companion that left scratch marks on trees. In addition to Lei Gong, gods of this kind included a deity who traveled with a bag-carrying god of a related domain, with whom he saved Japan from the Mongol invasions. For 10 points, what weather phenomena were produced by the kami Raijin?",
+      "powerMarkPosition": 413,
+      "answer": "thunder",
+      "acceptableAnswers": [
+        "thunder",
+        "léi before “Lei Gong” is read",
+        "accept kaminari",
+        "accept lightning",
+        "storms",
+        "prompt on weather",
+        "The thunder"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ede294c53e50a0513635d4"
+    },
+    {
+      "id": "277659df-aba9-48b1-adc4-289085413632",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "In a collection in this language, subtitled for \"Prince Galehaut,\" a man courts a widow by cooking his prized bird for her, and a nobleman pretends to kill his children to test his wife's faithfulness. In a collection of tales in this language, the characters Fiametta and Dioneo contribute \"Federigo's Falcon\" and \"The Patient Griselda\" to the hundred stories told by themselves and their friends. For 10 points, name this language of the Decameron by Boccaccio, in which ten young nobles flee from the Black Death in Florence.",
+      "powerMarkPosition": 259,
+      "answer": "Italian",
+      "acceptableAnswers": [
+        "Italian",
+        "The Italian"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004eb6"
+    },
+    {
+      "id": "302429bb-976f-4185-b306-673d39c4356a",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "Dununtary [\"doo-nun-tar-ee\"] of Champanagar [\"champ-ah-nah-gar\"] claimed to have learned the secret of treating this disease in a dream in 1580. Thomas Sydenham noticed that this disease had higher mortality rates amongst the wealthy, suggesting treatment was making it worse. An epidemic of this disease decimated tribes in Pontiac's Rebellion after receiving blankets supposedly infected with the variola [\"vair-ee-oh-lah\"] virus. Edward Jenner tested a treatment for this disease in 1796, and the term \"inoculation\" first referred to vaccinations against this disease. For 10 points, name this all but eradicated disease that devastated Native American populations after the arrival of Europeans.",
+      "powerMarkPosition": 360,
+      "answer": "Smallpox",
+      "acceptableAnswers": [
+        "Smallpox",
+        "The Smallpox"
+      ],
+      "source": "qbreader",
+      "sourceId": "63167de399ac1f87e75a5333"
+    },
+    {
+      "id": "e6d92b05-1177-4521-8d3a-638ff4a8f4ab",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "This man wrote a dramatic poem about a character tormented by the death of Astarte who summons seven spirits. This author of Manfred wrote that the \"widows of Ashur are loud in their wail\" as \"the Assyrian came down like the wolf on the fold\" in \"The Destruction of Sennacherib.\" This poet notes \"every raven tress\" of a woman in whom \"all that's best of dark and bright / Meet in her aspect and eyes\" and who is \"like the night.\" He reverted a trope by writing about a Spaniard who is easily seduced by women. An archetypal jaded hero is named after, for 10 points, what English Romantic poet of \"Don Juan\" and \"She Walks in Beauty?\"",
+      "powerMarkPosition": 250,
+      "answer": "Gordon",
+      "acceptableAnswers": [
+        "Gordon",
+        "The Gordon"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43aaa6"
+    },
+    {
+      "id": "f4388716-e7d6-498b-8979-6aee0df0ab5d",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "Men from this country founded Japan's Ministry of Public Works and the Imperial College of Engineering in Tokyo. The Choshu Five studied in this country, which was the home of two sailors who were murdered by a samurai in the Icarus affair. This country bombarded Kagoshima during its brief war with the Satsuma domain in 1863. A 1903 treaty with Japan marked the end of this country's \"Splendid Isolation\" policy. In 1942, this country surrendered its Straits Settlement to Japanese troops. Japan, South Korea, and two former colonies of this European country are called the \"Asian Tigers\" due to their rapid growth rate. For 10 points, name this country that colonized Singapore and Hong Kong.",
+      "powerMarkPosition": 428,
+      "answer": "United Kingdom",
+      "acceptableAnswers": [
+        "United Kingdom",
+        "UK",
+        "Great Britain",
+        "England",
+        "The United Kingdom"
+      ],
+      "source": "qbreader",
+      "sourceId": "648938e130bd7ab56b095b22"
+    },
+    {
+      "id": "c073790a-13af-4a13-a222-7e42bed82e08",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "One leader of this dynasty imprisoned a pioneer of fiqh named Abu Hanifa. That same leader sent support to China in order to bring down the bloody An Lushan revolt. This dynasty ushered in advances in medicine due to the contributions of Avicenna, and the construction of the House of Wisdom by Harun al-Rashid. Its first leader brought it into power after defeating Marwan II near the Zab River, although its capital would be sacked by Hulagu Khan in 1258. For 10 points, name this Islamic caliphate which ruled from Baghdad after displacing the Umayyad.",
+      "powerMarkPosition": 294,
+      "answer": "Abbasid",
+      "acceptableAnswers": [
+        "Abbasid",
+        "The Abbasid"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be77b6"
+    },
+    {
+      "id": "f5db80d3-f403-459f-8a79-13fa878b6632",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "-21. This value relates the width and perimeter of a Reuleaux triangle according to Barbier's Theorem. A spigot algorithm like Rabinowitz and Wagon's can be used to verify the accuracy for estimates of this value. Buffon's needle gives an estimate for this value, which is twice the inverse cosine of zero. The fact that this number is transcendental guarantees there is no solution to the classical problem of squaring a circle. For 10 points, name this mathematical constant, the ratio of a circle's perimeter to its diameter, which approximately equals 3.14.",
+      "powerMarkPosition": 213,
+      "answer": "pi",
+      "acceptableAnswers": [
+        "pi"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6deddc2"
+    },
+    {
+      "id": "820cab3c-7601-45d2-9c1e-56f848b00958",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "It's not Yom Kippur, but in one prayer recited on this holiday, the name of a more common occurrence is replaced with this holiday's name following the words \"li-had-leek ner shel\". The central object of this holiday is supposed to be set up in a window, to draw the attention of passers-by, and that object contains the special shamash. This holiday celebrates the victory of the Maccabees over Antiochus and commemorates the time a single day's worth of oil burned for eight days. This event includes the consumption of fried latkes and the lighting of a special nine-branched menorah. For 10 points, name this Jewish holiday, the wintertime Festival of Lights.",
+      "powerMarkPosition": 328,
+      "answer": "hanukah",
+      "acceptableAnswers": [
+        "hanukah",
+        "The hanukah"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a558"
+    },
+    {
+      "id": "91b531c7-c8a5-4d25-be61-07256d1534df",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "Chan and Kim at Penn State discovered that crystals can display this phenomenon. One instance of this phenomenon is distinguished by either an A or B phase, and is anisotropic. Some materials that exhibit this phenomenon display a 30 nm Rollin film, and their movement sometimes displays the Onnes Effect. Landau theorized that quantum sound waves are responsible for this effect, which he posited occurs below the lambda point. For 10 points, name this property notably displayed by helium, when a liquid or gas displays no resistance to flow.",
+      "powerMarkPosition": 176,
+      "answer": "superfluid",
+      "acceptableAnswers": [
+        "superfluid",
+        "The superfluid"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43366"
+    },
+    {
+      "id": "a8b185cb-5c7e-4099-a056-92b1be1b696c",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "The inhabitants of one of these places enjoyed tricking visitors into greeting dressed-up wooden mannequins and sitting on extremely hot rocks. A deity filled a conch shell with bees in order to trick an inhabitant of one of these places into providing him with the materials to make the humanity of the fifth-sun. Hun-Came (hoon kah-may) and Vucub-Came (voo-koob kah-may) ruled one of these locations that was home to trials such as the Cold House, the Dark House, and the Bat House. The lords of one of these places were defeated by the Hero Twins in order to avenge the sacrifice of their father. Psychopomps such as Xolotl (shoh-LOH-tul) provided access to these locations, which included the Aztec Mictlan and the Mayan Xibalba (shee-BAL-bah). For 10 points, name these locations that are often called \"realms of the dead.\"",
+      "powerMarkPosition": 437,
+      "answer": "underworld",
+      "acceptableAnswers": [
+        "underworld",
+        "hells",
+        "accept answers like \"realms of the dead\" until \"realms\" is read",
+        "prompt on afterlife",
+        "The underworld"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae2a4"
+    },
+    {
+      "id": "d464cbb3-6c20-4a56-b544-560acaa4203e",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "A treatise from this present-day country describes a trial by combat whereby a club-wielding man stands in a pit fighting a woman armed with a stone in a sling. This was the country of origin for a medieval treatise which depicts a woman teaching her student to use a sword and buckler. That early fencing treatise, once kept in the Tower of London, is known as I.33. The \"plough,\" \"ox,\" and \"from the day\" guard positions were taught by a man from this country, Paulus Kal. In the 16th century, some of this country's mercenaries were paid double for wielding large two-handed swords. Some of those mercenary pikemen fought in the Black Band, a group of renegade soldiers from this country who fought in both the Battle of Marignano and the Battle of Pavia in the service of the French king. For 10 points, name this country which used combat manuals known as fechtbuch, and where Georg von Frundsberg led the landsknechts.",
+      "powerMarkPosition": 367,
+      "answer": "Germany",
+      "acceptableAnswers": [
+        "Germany",
+        "Bundesrepublik Deutschland",
+        "The Germany"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df3a4b1c64d9772f738a52"
+    },
+    {
+      "id": "28733766-f7b6-4214-9f4b-0043d0287011",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "In this film, a shot of people looking upwards while sheltering under a roof in the rain fades to a shot of a spinning record. This film's crew built 100 feet of rail tracks, which sank into the mud, to support an 85-foot crane for overhead shots of a procession wading into a lake. After being asked \"say, what line of work are you in,\" a man in this film leans out of a car to fire a submachine gun at livestock and pursuing cops, then later yells \"Jesus saves!\" but that character \"withdraws!\" The greens from this film's set were carefully replaced with shades of gold, yellow, and sepia, making it the first feature film with fully digital color correction. In this film, the one-eyed Big Dan is burned to death by a cross knocked over at a KKK rally, paralleling the fate of Polyphemus. A trio of prisoners escape a chain gang in, for 10 points, what film inspired by the Odyssey and set in the Deep South by the Coen Brothers?",
+      "powerMarkPosition": 543,
+      "answer": "O Brother, Where Art Thou?",
+      "acceptableAnswers": [
+        "O Brother, Where Art Thou?",
+        "The O Brother, Where Art Thou?"
+      ],
+      "source": "qbreader",
+      "sourceId": "68aa6f7eeb7f936a9a15e3db"
+    },
+    {
+      "id": "c2d43539-f64d-4421-b700-2fafbb1c3682",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "This monarch's court was influenced by the theologian and bishop Jacques-Benigne Bossuet. This monarch spent huge sums to repurchase Dunkirk and declare it a free port. He had the Canal du Midi completed to link the Atlantic with the Mediterranean in Languedoc. The trial of the Marquise de Brinvilliers was part of the Affair of the Poisons during his reign. After a huge feast at the Chateau of Vaux-le-Vicomte, this king's minister Nicolas Fouquet was arrested, allowing the rise of finance minister Jean-Baptiste Colbert. This king's enemies formed the League of Augsburg and lost the War of the Devolution. His Edict of Fontainebleau revoked the Edict of Nantes. For 10 points, name this French monarch who had Versailles constructed, the so-called Sun King.",
+      "powerMarkPosition": 442,
+      "answer": "Louis XIV",
+      "acceptableAnswers": [
+        "Louis XIV",
+        "Louis the Sun King",
+        "Louis le Roi-Soleil before mentioned",
+        "prompt on \"Louis the Great\"",
+        "\"Louis le Grand\"",
+        "The Louis XIV"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aee91"
+    },
+    {
+      "id": "e59eb6c3-c44c-4a2c-a3ec-3aee70b6f544",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "A festival in this religion includes the giving of \"thousand year candy,\" and a construction site sacred to this religion has its ground broken using a sickle, hoe, and spade. A practice in this religion involves writing prayers or wishes on small wooden plaques. This religion's emphasis on purification is why its places of worship all have a basin for washing the mouth and hands. A festival in this religion is a rite of passage called \"Seven-Five-Three,\" and this religion can be classified into types including \"Folk\" and \"Sect.\" This religion's shrines feature gates called torii. For 10 points, name this religion which worships kami such as Amaterasu, the native religion of Japan.",
+      "powerMarkPosition": 263,
+      "answer": "Shinto",
+      "acceptableAnswers": [
+        "Shinto",
+        "The Shinto"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125cf41"
+    },
+    {
+      "id": "1cda9edb-c709-48d6-9744-392174d3af61",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "In recent years, numerous teens taking doxycycline for acne were terrified into thinking they had developed cancer of this organ from actually benign ulcerations. Alcoholism-associated damage to this organ occurs in Mallory-Weiss syndrome, while Hammond's Crunch is a creepy sign indicating that it may have experienced a Boerhaave rupture. The Sellick procedure compresses this organ by putting pressure on the cricoid cartilage, while muscular difficulties associated with it occur in achalasia. This organ does not normally contain goblet cells, though in a disorder named for Barrett they can replace some of its squamous epitheal cells. This organ is ciliated in amphibians, while in humans its lower portion meets the cardia to form the angle of His, which prevents it from being damaged by stray acid. A bolus passes through this organ, which pierces the diaphragm, thanks to peristalsis. For 10 points, identify this organ often damage in gastric reflux disease, a long tube between the mouth and stomach.",
+      "powerMarkPosition": 497,
+      "answer": "esophagus",
+      "acceptableAnswers": [
+        "esophagus",
+        "The esophagus"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f33042333cf2cfbd44abed"
+    },
+    {
+      "id": "c1537db1-8032-436f-b142-0a8761db656e",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "One complication of this condition can be treated with an external cephalic version to correct a transverse lie. People with this condition should not lie flat on their backs to avoid compressing the inferior vena cava. It's not cancer or transplant rejection, but people with this condition take a blood test that scans for cell-free DNA. Magnesium sulfate is administered to prevent seizures in hypertensive patients with this condition who are undergoing end organ dysfunction. Hemolysis, elevated liver enzymes, and low platelets characterize HELLP syndrome in this condition. To avoid allo·immunization, RhoGAM is administered to Rh- (\"r-h-minus\") people with this condition. Elevated levels of beta-HCG in serum or urine suggest this condition, which can be complicated by pre·eclampsia or breech presentation. For 10 points, full-term examples of what condition last a little over nine months while a fetus develops?",
+      "powerMarkPosition": 589,
+      "answer": "pregnancy",
+      "acceptableAnswers": [
+        "pregnancy",
+        "equivalents like being pregnant",
+        "accept preeclampsia until read",
+        "The pregnancy"
+      ],
+      "source": "qbreader",
+      "sourceId": "65dfe1431274f833e5a3c787"
+    },
+    {
+      "id": "d4a8231c-a8f2-494b-be1e-a0d13e87693a",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Note to moderator: Read answerline carefully. A library partially named for these programs includes frameworks often used for these programs like HBAO and VXGI. The delta times of these programs roughly correspond to the time between each iteration of their namesake central loop. In these programs, synchronization may be achieved through strategies such as deterministic lockstep and prediction-facilitated rollback. Software frameworks used to assist in building these programs include Defold, Bevy, and Godot. A logical right shift is performed on a 32-bit magic number to efficiently compute the inverse square root in an algorithm originally created for one of these programs. Physics engines for these programs may implement real-time collision detection through bounding boxes called hitboxes. For 10 points, name these programs, examples of which include Quake and Doom.",
+      "powerMarkPosition": 418,
+      "answer": "game",
+      "acceptableAnswers": [
+        "game",
+        "VGs",
+        "accept Nvidia GameWorks",
+        "game loop",
+        "game engines",
+        "accept Quake until read",
+        "accept specific types of games such as first-person shooters",
+        "FPSs",
+        "MMOs",
+        "MMORPGs",
+        "CRPGs",
+        "RTSs",
+        "TBSs",
+        "TBTs",
+        "MOBAs",
+        "The game"
+      ],
+      "source": "qbreader",
+      "sourceId": "6822bfc91f87396179872f1f"
+    },
+    {
+      "id": "7345acf0-2fdb-4229-95c4-c067e7e9a6ad",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "In humans, the receptor for this molecule is also the main receptor for vesicular stomatitis (\"STOH-muh-TYE-tiss\") virus. This molecule can be electro·phoretically separated into \"large and fluffy\" and \"small dense\" fractions. Complexing this molecule to another protein creates Lp(a) (\"L-P-A\"). LOX-1 (\"locks-one\") is a receptor for a derivative of this molecule. Its acetylated and oxidized forms are taken up by scavenger receptors by macrophages to form foam cells. This molecule contains Apo·B·100, and has more protein than chylomicrons (\"KYE-loh-MYE-krons\"). Levels of this molecule are lowered by ezetimibe (\"eh-ZET-uh-mib\"), which is given with HMG-Co·A reductase inhibitors called statins (\"STAT-ins\"). This molecule is deposited on blood vessel walls in athero·sclerosis. For 10 points, name this molecule that transports lipids from the liver, informally called \"bad cholesterol.\"",
+      "powerMarkPosition": 492,
+      "answer": "LDL",
+      "acceptableAnswers": [
+        "LDL",
+        "low-density lipoprotein",
+        "prompt on cholesterol",
+        "bad cholesterol",
+        "The LDL"
+      ],
+      "source": "qbreader",
+      "sourceId": "6504a58256efcb4952c4e962"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "a1908f26-3742-43c7-8cce-39e3573c334d",
+      "linkedTossupId": "b3388323-2384-4827-b280-c750ffe97725",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this author, who wrote about Lennie accidentally killing Curley's wife in the appropriately-named novel Of Mice and Men.",
+          "answer": "Steinbeck",
+          "acceptableAnswers": [
+            "Steinbeck",
+            "The Steinbeck"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Female characters who do get names in Steinbeck's work include Rose of Sharon and Ma Joad, characters in this Steinbeck novel. In this novel, three generations of the Joad family try to drive to California during the Dust Bowl.",
+          "answer": "Grapes of Wrath",
+          "acceptableAnswers": [
+            "Grapes of Wrath",
+            "The Grapes of Wrath"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Most women in Steinbeck's novels are either stay-at-home wives and mothers or have this profession. In East of Eden, Cathy Ames leaves her husband and sons to get this job. She eventually manages to kill her boss and takes over as the Madame of the brothel where she works.",
+          "answer": "prostitute",
+          "acceptableAnswers": [
+            "prostitute",
+            "The prostitute"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author told his last wife that one of his characters, Curley's wife, doesn't have a name because \"she's not a person, she's a symbol. She has no function, except to be a foil - and a danger to Lennie.\" For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004f91"
+    },
+    {
+      "id": "d6f574b1-9762-49f2-a54e-d6cee9802cd2",
+      "linkedTossupId": "612faab9-3125-4125-b818-aaf57ef38737",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with types of joints.",
+          "answer": "synovial",
+          "acceptableAnswers": [
+            "synovial"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the synovial in the musculoskeletal system?",
+          "answer": "Types of joints",
+          "acceptableAnswers": [
+            "Types of joints"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to types of joints.",
+          "answer": "cartilage",
+          "acceptableAnswers": [
+            "cartilage"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "2a87c483-7b12-4a6d-b18a-9fc33d705d2b",
+      "linkedTossupId": "8c358546-1dab-4df7-86de-5dd057132b45",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this choice cut of meat offered to the best warrior present at Irish feasts. At Mac Da Thó's feast, this object is ultimately given to Conall Cernach (\"con\"-ull kair-nahk), who throws the severed head of Cet's brother at Cet's chest.",
+          "answer": "champion",
+          "acceptableAnswers": [
+            "champion",
+            "curadmír",
+            "The champion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During another feast, this hero killed a guard hound owned by the host and offered to repay him by serving as the hound's replacement. This hero of the Ulster cycle fought the armies of Medb (MAYV) during the Cattle Raid of Cooley.",
+          "answer": "Cúchulainn",
+          "acceptableAnswers": [
+            "Cúchulainn",
+            "Cú Chulaind",
+            "Cuhullin",
+            "Setanta",
+            "prompt on “Culann’s Hound”",
+            "The Cúchulainn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While competing for a champion's portion offered by Bricriu (BRIH-\"crew\"), Cúchulainn, Conall, and Lóegaire Búadach (LOY-gare BOO-ah-dahk) are all challenged by a giant to perform this action, on the condition that they permit the giant to perform it in return.",
+          "answer": "behead",
+          "acceptableAnswers": [
+            "behead",
+            "equivalents such as chopping off his head",
+            "prompt on answers mentioning an “axe” that do not mention something to do with head chopping",
+            "The behead"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In The Tale of Mac Da Thó's Pig, Cet mac Mágach (ket \"mac\" MAH-gahk) fends off claims to this object by reminding foes that he put out Eogan's (ay-oh-gahn's) eye, made Celtchair (kelt-kair) impotent, and gave Cúscraid (KOO-skrayd) a permanent stammer. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64307e9f1357bcd3ef98b6be"
+    },
+    {
+      "id": "cbfbd56f-d250-4c0d-876d-0ab037042250",
+      "linkedTossupId": "277659df-aba9-48b1-adc4-289085413632",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel set on the island of Pianosa. This novel's title refers to the inescapable situation that the only way for one to escape dangerous missions is to plead insanity, which in itself proves one's sanity.",
+          "answer": "Catch-22",
+          "acceptableAnswers": [
+            "Catch-22",
+            "The Catch-22"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This B-25 bombardier in the 256th Squadron of the Air Force in Catch-22 is unable to get out of doing military service during World War II. He serves as the novel's protagonist.",
+          "answer": "John",
+          "acceptableAnswers": [
+            "John",
+            "The John"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This comically-named character in Catch-22 bears a striking resemblance to the actor Henry Fonda. This squadron commander is accidentally promoted by an \"IBM machine with a sense of humor.\"",
+          "answer": "Major",
+          "acceptableAnswers": [
+            "Major",
+            "The Major"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This novel's first line \"It was love at first sight\" refers to the protagonist's immediate affection for Chaplain Tappman. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "676f723cf56e0dff73abed77"
+    },
+    {
+      "id": "e143fa4e-3dcd-4566-bb83-544f1905e534",
+      "linkedTossupId": "302429bb-976f-4185-b306-673d39c4356a",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this Spanish kingdom which won the Battle of Las Navas de Tolosa against the Almohads. A female queen of this kingdom ordered the Alhambra Decree to expel all the Jews from the land.",
+          "answer": "Castile",
+          "acceptableAnswers": [
+            "Castile",
+            "The Castile"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This monarch issued the Alhambra decree as the queen of Castile during the end of the Reconquista. She and her husband Ferdinand of Aragon are known as \"The Catholic Monarchs.\"",
+          "answer": "Isabella",
+          "acceptableAnswers": [
+            "Isabella",
+            "The Isabella"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A revolt of these people of Castile began after Isabella's grandson, Holy Roman Emperor Charles V, left Spain in 1520. They wished to replace Charles with his mother, Joanna the Mad.",
+          "answer": "comunero",
+          "acceptableAnswers": [
+            "comunero",
+            "The comunero"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This kingdom was ruled by the House of Trastámara after Peter I won the Battle of Najera. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be773b"
+    },
+    {
+      "id": "740501c8-fc0a-474a-bbfc-c21c2dd4fae8",
+      "linkedTossupId": "e6d92b05-1177-4521-8d3a-638ff4a8f4ab",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The 1919 edition of the work claimed that there were \"great novels\" but \"no great novelist\" before this author. This French author's best-known work was the collection TheHuman Comedy.",
+          "answer": "Balzac",
+          "acceptableAnswers": [
+            "Balzac",
+            "The Balzac"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Belgian writer was considered \"as a mystic\" in the final section of Symons's book. This symbolist won the 1911 Nobel Prize for works such as The Blue Bird and Pelleas and Melisande.",
+          "answer": "Maeterlinck",
+          "acceptableAnswers": [
+            "Maeterlinck",
+            "Maurice Polydore Marie Bernard Maeterlinck",
+            "The Maeterlinck"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While discussing Gustav Flaubert in his work, Symons calls this novel's title character \"half vulgar and half hysterical\" because she swallows arsenic to escape her overwhelming debt.",
+          "answer": "Madame Bovary",
+          "acceptableAnswers": [
+            "Madame Bovary",
+            "The Madame Bovary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about authors that are discussed in Arthur Symons's work The Symbolist Movement in Literature, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "68360526bd73b39bd4bb34af"
+    },
+    {
+      "id": "276f8101-5731-4238-b4cb-250d817e8c99",
+      "linkedTossupId": "f4388716-e7d6-498b-8979-6aee0df0ab5d",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this UNESCO World Heritage Site in Agra, India, whose famous white dome is visited by millions of tourists each year.",
+          "answer": "Taj Mahal",
+          "acceptableAnswers": [
+            "Taj Mahal",
+            "The Taj Mahal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Shah Jahan was a descendant of this first Mughal emperor. His ancestors included Tamerlane and Genghis Khan.",
+          "answer": "Babur",
+          "acceptableAnswers": [
+            "Babur",
+            "The Babur"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This grandson of Babur became deeply involved in Sufi mysticism in his 30's and was succeeded by Jahangir.",
+          "answer": "Akbar",
+          "acceptableAnswers": [
+            "Akbar",
+            "The Akbar"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It was built for the wife of Mughal emperor Shah Jahan. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "647044212576885f91e62226"
+    },
+    {
+      "id": "3236346a-0ce3-42c8-830b-ef1e7e4a72fb",
+      "linkedTossupId": "c073790a-13af-4a13-a222-7e42bed82e08",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this year which saw liberal revolutions sweep Germany, Italy, France, and Austria.",
+          "answer": "1848",
+          "acceptableAnswers": [
+            "1848",
+            "The 1848"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Italy, the Papal States were replaced with the Roman Republic, where this man, the founder of the Young Italy movement, was elected triumvir.",
+          "answer": "Mazzini",
+          "acceptableAnswers": [
+            "Mazzini",
+            "The Mazzini"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Roman Republic was put down and the Pope was restored due to French troops sent by this newly elected President of the Second Republic.",
+          "answer": "Louis-Napoleon",
+          "acceptableAnswers": [
+            "Louis-Napoleon",
+            "Napoleon III",
+            "prompt on Napoleon",
+            "prompt on Bonaparte",
+            "The Louis-Napoleon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This year saw the French king Louis-Philippe overthrown. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "657fd7d3de6df0163bbe39c4"
+    },
+    {
+      "id": "9e38745b-8ce3-491d-9dc6-d6af6632a8ce",
+      "linkedTossupId": "f5db80d3-f403-459f-8a79-13fa878b6632",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this nitrogenous compound that is excreted in urine.",
+          "answer": "urea",
+          "acceptableAnswers": [
+            "urea",
+            "carbamide",
+            "The urea"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The urea breath test is used to detect this bacterium. Barry Marshall once swallowed a culture of this bacterium in an attempt to fulfill Koch's postulates.",
+          "answer": "H. pylori",
+          "acceptableAnswers": [
+            "H. pylori",
+            "Helicobacter pylori",
+            "C. pylori",
+            "Campylobacter pylori",
+            "The H. pylori"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "H. pylori, which plays a role in gastritis and peptic ulcers, is usually found in this organ that is located between the esophagus and the small intestine.",
+          "answer": "stomach",
+          "acceptableAnswers": [
+            "stomach",
+            "The stomach"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Wohler used the inorganic compounds silver cyanate and ammonium chloride to synthesize this organic compound, which is produced along with ornithine in its namesake cycle. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b531e2"
+    },
+    {
+      "id": "d77df470-990f-4fc5-8d52-b326013f8286",
+      "linkedTossupId": "820cab3c-7601-45d2-9c1e-56f848b00958",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this ancient Chinese philosophy. Its major text was written by Laozi.",
+          "answer": "Tao",
+          "acceptableAnswers": [
+            "Tao",
+            "Daoism",
+            "The Tao"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Description acceptable. In an oft-quoted section of the Tao Te Ching, Laozi notes that windows and doors are useful because they're the parts of the wall that have this property. Similarly, a bowl is usable so long as it is this.",
+          "answer": "empty",
+          "acceptableAnswers": [
+            "empty",
+            "kong",
+            "accept any reasonable equivalent emphasizing that there’s nothing there",
+            "The empty"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Taoism emphasizes this principle, which is roughly equivalent to \"non-action.\" That is, one should try to live in a natural, easygoing manner.",
+          "answer": "wu wei",
+          "acceptableAnswers": [
+            "wu wei",
+            "The wu wei"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This philosophy emphasizes the \"Three Treasures,\" which are compassion, humility, and moderation. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f86328cdb0cbb3f4645dae"
+    },
+    {
+      "id": "03f9937b-343f-4626-806a-4e90003d3e71",
+      "linkedTossupId": "91b531c7-c8a5-4d25-be61-07256d1534df",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this process by which rocks are physically or chemically broken down. It is followed by erosion.",
+          "answer": "weather",
+          "acceptableAnswers": [
+            "weather",
+            "being weathered",
+            "The weather"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This mineral is the most resistant to weathering in the Goldich dissolution series. This is the most abundant silicate mineral in Earth's crust.",
+          "answer": "quartz",
+          "acceptableAnswers": [
+            "quartz",
+            "The quartz"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Along with plagioclase feldspar, this is the most easily weathered mineral in the Goldich dissolution series. This mineral is the primary component of the upper mantle.",
+          "answer": "olivine",
+          "acceptableAnswers": [
+            "olivine",
+            "The olivine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Goldich dissolution series orders minerals by how easily they undergo this process. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63506cec1b4438a94f2a2a4f"
+    },
+    {
+      "id": "77748c1d-49ac-4174-9b51-815cbd32e2ef",
+      "linkedTossupId": "a8b185cb-5c7e-4099-a056-92b1be1b696c",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this group of adventurers that Jason took on his quest for the Golden Fleece.",
+          "answer": "Argonauts",
+          "acceptableAnswers": [
+            "Argonauts",
+            "The Argonauts"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This former king of Thrace helped the Argonauts by revealing the secret to pass through the Sympleglades. His abuse of his foresight led to his blindness.",
+          "answer": "Phineas",
+          "acceptableAnswers": [
+            "Phineas",
+            "Phineus",
+            "The Phineas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Zetes and Calais defeated these iron-winged creatures that would steal and trash Phineas's food when he attempted to eat.",
+          "answer": "Harpies",
+          "acceptableAnswers": [
+            "Harpies",
+            "The Harpies"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Members of this group included Hercules, the twins Castor and Pollux, and the only female, Atalanta. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe8ab"
+    },
+    {
+      "id": "8b4fb572-81ef-4475-90c1-cdc5add9f38f",
+      "linkedTossupId": "d464cbb3-6c20-4a56-b544-560acaa4203e",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this dynasty that succeeded the Goryeo, whose kings included Sejong the Great. This was the last dynastic kingdom of Korea.",
+          "answer": "Joseon",
+          "acceptableAnswers": [
+            "Joseon",
+            "Choson dynasty",
+            "The Joseon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Joseon empress, who was assassinated in 1895, was married to Gojong. This empress went on a special mission to the US and helped launch a project called the \"American Farm.\"",
+          "answer": "Myeongseong",
+          "acceptableAnswers": [
+            "Myeongseong",
+            "Queen Min",
+            "The Myeongseong"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Myeongseong was assassinated before she could settle the Donghak peasants' rebellion, which led to this other conflict. The Beiyang Fleet was defeated during this war's Battle of Yalu River.",
+          "answer": "First Sino-Japanese",
+          "acceptableAnswers": [
+            "First Sino-Japanese",
+            "Japan-Qing War",
+            "Jiawu War",
+            "prompt on Sino-Japanese War",
+            "The First Sino-Japanese"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An empress from this dynasty was assassinated on the orders of Miura Gorō, after which men were ordered to cut off the top knot of their hair. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "692330f2f1f28d19289b83f5"
+    },
+    {
+      "id": "74e251c3-e192-4f69-9882-80f2f11c716c",
+      "linkedTossupId": "28733766-f7b6-4214-9f4b-0043d0287011",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this movement championed by Grant Wood and Thomas Hart Benton that advocated realistic painting and a focus on rural subject matter. It was closely associated with WPA mural painting.",
+          "answer": "Regionalism",
+          "acceptableAnswers": [
+            "Regionalism",
+            "American scene painting",
+            "The Regionalism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Regionalist painter is best-known for his mural for the Kansas State Capitol of John Brown looking especially wild-eyed and holding a rifle; that work by him is Tragic Prelude.",
+          "answer": "Curry",
+          "acceptableAnswers": [
+            "Curry",
+            "The Curry"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the foreground of this Curry painting, a woman in a yellow floral print dress stands in the crowd gathered in front of a red barn around a round tank of water, in which a man in a suit holds up a woman wearing white.",
+          "answer": "Baptism in Kansas",
+          "acceptableAnswers": [
+            "Baptism in Kansas",
+            "The Baptism in Kansas"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One document supporting this movement was the manifesto \"Revolt Against the City\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b21e0"
+    },
+    {
+      "id": "e640c4a3-42cb-4dc3-80ef-b35b600a013a",
+      "linkedTossupId": "c2d43539-f64d-4421-b700-2fafbb1c3682",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This Democrat served as President immediately after the end of the Civil War. He previously served as Abraham Lincoln's Vice President.",
+          "answer": "A",
+          "acceptableAnswers": [
+            "A",
+            "Johnson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After he fired Secretary of War Edwin Stanton, Johnson was impeached on the grounds that the dismissal of Stanton violated this law.",
+          "answer": "Tenure of Office",
+          "acceptableAnswers": [
+            "Tenure of Office",
+            "The Tenure of Office"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This longtime Pennsylvania Congressman, nicknamed \"The Old Commoner\" and leader of the Radical Republicans helped push Johnson's Articles of Impeachment through the House of Representatives.",
+          "answer": "Stevens",
+          "acceptableAnswers": [
+            "Stevens",
+            "The Stevens"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "During the Reconstruction era, Radical Republicans in Congress clashed fiercely with the President over Southern policy. For 10 points each, answer the following:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b16a9"
+    },
+    {
+      "id": "e8fa335f-c13d-47d5-98ea-c5d990377297",
+      "linkedTossupId": "e59eb6c3-c44c-4a2c-a3ec-3aee70b6f544",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "By far the largest denomination in American Judaism is this one predominantly founded by Isaac Mayer Wise, which takes a liberal approach to theology and customs, though perhaps not as liberal as the similar Reconstructionist movement.",
+          "answer": "Reform",
+          "acceptableAnswers": [
+            "Reform",
+            "The Reform"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At the other end of the spectrum is this ultra-orthodox denomination which emphasizes mysticism and spirituality through joy. Men of this denomination often wear black and maintain curled sideburns called payot.",
+          "answer": "Hasidic",
+          "acceptableAnswers": [
+            "Hasidic",
+            "The Hasidic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hasidism traces its roots back to this Eastern European rabbi who argued that all things are forms in which God reveals himself.",
+          "answer": "Baal Shem Tov",
+          "acceptableAnswers": [
+            "Baal Shem Tov",
+            "The Baal Shem Tov"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following about modern Judaism, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43cc6"
+    },
+    {
+      "id": "8956687c-0d6e-4020-a868-bebd99c99a18",
+      "linkedTossupId": "1cda9edb-c709-48d6-9744-392174d3af61",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this rough type of landscape formed by the dissolution of stones such as dolomite by carbonic acid.",
+          "answer": "karst",
+          "acceptableAnswers": [
+            "karst",
+            "The karst"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Along with dolomite, this stone is often dissolved to create karst topography. It is composed mostly of calcite, and can form from old shells.",
+          "answer": "limestone",
+          "acceptableAnswers": [
+            "limestone",
+            "The limestone"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Limestone is this type of rock, which is formed from the accumulation and compaction of layers of mineral or organic substances.",
+          "answer": "sedimentary",
+          "acceptableAnswers": [
+            "sedimentary",
+            "The sedimentary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These regions contain aquifers and sinkholes, as well as nice caverns. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d436f1"
+    },
+    {
+      "id": "ed4a5333-73ab-490e-bdac-019d407ad506",
+      "linkedTossupId": "c1537db1-8032-436f-b142-0a8761db656e",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this programming language common in scientific computing. An online notebook platform with a name reminiscent of a planet provides core support for this language, Python, and R.",
+          "answer": "Julia",
+          "acceptableAnswers": [
+            "Julia",
+            "The Julia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "LISP's legacy on Julia is seen in its support for this practice of treating code as a data structure. This practice can enable a program to manipulate itself, even while running.",
+          "answer": "meta·programming",
+          "acceptableAnswers": [
+            "meta·programming",
+            "metaprograms",
+            "metalanguages",
+            "accept homoiconicity",
+            "The meta·programming"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Julia supports the Vega-Lite and Gadfly packages for this task, which is done in R with ggplot2 (\"G-G-plot-two\"). Edward Tufte's (\"TUFF-tee's\") 1983 book on principles of this task advocates maximizing the data-to-ink ratio.",
+          "answer": "visualization",
+          "acceptableAnswers": [
+            "visualization",
+            "specific tasks like making graphs",
+            "charts",
+            "figures",
+            "accept The Visual Display of Quantitative Information",
+            "prompt on plotting",
+            "The visualization"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This language's developers describe it as a solution to the \"two-language problem\" of prototyping code in a high-level language, and then rewriting it in a low-level one for performance. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ede294c53e50a0513635f4"
+    },
+    {
+      "id": "3d64dd26-9633-49bf-9a86-6c3545165b55",
+      "linkedTossupId": "d4a8231c-a8f2-494b-be1e-a0d13e87693a",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The Clarendon Dry Pile bell has been ringing since the 1840s at this institution. The Radcliffe Camera building houses the science library at this institution, and Richard Dawkins taught here until 2008.",
+          "answer": "Oxford",
+          "acceptableAnswers": [
+            "Oxford",
+            "The Oxford"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Thomas Parnell started this experiment at the University of Queensland in 1927 to demonstrate that some \"solids\" are just highly viscous liquids. The video system that was supposed to record its eighth drop in 2000 ironically failed.",
+          "answer": "pitch",
+          "acceptableAnswers": [
+            "pitch",
+            "The pitch"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Richard Lenski has grown more than 50,000 generations of these prokaryotes that have a notorious O157:H7 strain. These bacteria once evolved the ability to metabolize citrate, which caused Conservapedia founder Andrew Schlafly to throw a hissy fit.",
+          "answer": "E. coli",
+          "acceptableAnswers": [
+            "E. coli",
+            "Escherichia coli",
+            "The E. coli"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following about experiments that have been running for a very long time, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1997"
+    },
+    {
+      "id": "eab6c185-311e-4ccb-810d-59c51bf89ce0",
+      "linkedTossupId": "7345acf0-2fdb-4229-95c4-c067e7e9a6ad",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this property of vector fields for which the line integral over any closed curve is zero. These vector fields can be written as the gradient of a potential function.",
+          "answer": "conservative",
+          "acceptableAnswers": [
+            "conservative",
+            "gradient fields",
+            "The conservative"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This theorem, also known as the fundamental theorem of vector calculus, states that any smooth and rapidly decaying vector field can be written as the sum of a conservative vector field and a solenoidal vector field.",
+          "answer": "Helmholtz",
+          "acceptableAnswers": [
+            "Helmholtz",
+            "Helmholtz decomposition",
+            "Helmholtz representation",
+            "The Helmholtz"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Each component of a conservative vector field can be found by applying a \"partial\" version of this operation to the aforementioned potential. An indefinite integral is also known as the \"anti-\" form of this basic calculus operation.",
+          "answer": "differentiation",
+          "acceptableAnswers": [
+            "differentiation",
+            "derivative",
+            "partial differentiation",
+            "antiderivative",
+            "The differentiation"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Vector fields with this property have zero curl. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6334baae3df8739d684bab11"
+    }
+  ]
+}

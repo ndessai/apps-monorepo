@@ -1,0 +1,1146 @@
+{
+  "packetId": "packet-133",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Social Science",
+    "Literature",
+    "Science",
+    "Philosophy",
+    "Human Body",
+    "Fine Arts",
+    "Mythology",
+    "History"
+  ],
+  "tossups": [
+    {
+      "id": "d3d1df55-37c2-437a-8fbb-3eb9e46741b4",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "The first one of these institutions in New York State was designed by Joseph-François Mangin and was later replaced by a facility in Ossining. Institutions of this type across Europe, such as Bridewell, were studied in the late 1700s by John Howard, and a book titled American [this institution] chronicled the history of these institutions, along with Mother Jones reporter Shane Bauer's experience working in one of them. David Skarbek's The Social Order of the Underworld studies how these places derive structure and order through groups like the Nuestra Familia. In late August and early September 2018, a nationwide strike was organized in these places to protest exploitative labor practices, and these institutions are said to have created a racial caste system in Michelle Alexander's The New Jim Crow. For 10 points, name these places that hold inmates.",
+      "powerMarkPosition": 380,
+      "answer": "prison",
+      "acceptableAnswers": [
+        "prison",
+        "jails",
+        "penitentiaries",
+        "The prison"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af9742311c"
+    },
+    {
+      "id": "614e0deb-12d5-4b96-8f03-ae27c4a5a3b3",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "In this work, the protagonist receives advice about a mushroom before entering a kitchen where the overuse of pepper has everyone sneezing except the Duchess and her grinning cat. Time stays fixed at six o'clock in this story, so it's always tea-time. The Knave of Hearts is accused of stealing the Queen's tarts in this novel. For ten points, Alice falls down the rabbit hole in what book by Lewis Carroll that was initially rejected for its imaginative but absurd storyline?",
+      "powerMarkPosition": 241,
+      "answer": "Alice’s Adventures in Wonderland",
+      "acceptableAnswers": [
+        "Alice’s Adventures in Wonderland",
+        "The Alice’s Adventures in Wonderland"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f723ef56e0dff73abee4a"
+    },
+    {
+      "id": "072665cb-4d1d-4560-860e-1f0450ffde3e",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "In a Karnaugh table, these laws are used to calculate the product of sums. These are also used in digital logic gates to show that only half of the 2*2n possibilities are unique, where n is the number of logic gates. These laws are used to express conjunctions in terms of disjunctions and vice-versa via negation. Proved through truth tables, this set of laws was named after a Madurai-born British mathematician. Name these laws from Boolean algebra and propositional logic that state that not parenthesis p and q close parenthesis equals not p or not q.",
+      "powerMarkPosition": 216,
+      "answer": "De Morgan’s Laws",
+      "acceptableAnswers": [
+        "De Morgan’s Laws",
+        "The De Morgan’s Laws"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43ab30"
+    },
+    {
+      "id": "26df0e00-1f7e-4943-9421-fecd047de16c",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "The three-spined stickleback exemplifies the role of reinforcement in driving this process. Punctuated equilibrium requires one form of this process to occur less frequently than another. Ernst Mayr's classification of pre- and post-zygotic barriers predicts [*] the allopatric and sympatric forms of this process due to reproductive isolation. Goldfinches were studied by Darwin, who first wrote about, for ten points, this process in which a population splits into non-interbreeding taxa.",
+      "powerMarkPosition": 187,
+      "answer": "speciation",
+      "acceptableAnswers": [
+        "speciation",
+        "The speciation"
+      ],
+      "source": "qbreader",
+      "sourceId": "66f0f7225f18a88258296c6b"
+    },
+    {
+      "id": "3ce996a1-f800-4025-b3db-9d86a5cefdb5",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "The journalist Barbara Ehrenreich explored this condition in America in Nickel and Dimed. Mohammed Yunus (YOU-nuss) won the 2006 Nobel Prize in Economics for his work in preventing this condition. Thomas Malthus proposed that this condition exists in part because population grows faster than the food supply. According to an economic law primarily attributed to David Ricardo, wages are kept at the bare minimum necessary for workers to have children, ensuring this condition persists. In the United States, it is defined for households as less income than three times a minimum food budget. For 10 points, name this economic condition defined by a lack of money.",
+      "powerMarkPosition": 309,
+      "answer": "poverty",
+      "acceptableAnswers": [
+        "poverty",
+        "word forms",
+        "obvious equivalents like being poor",
+        "prompt on descriptive answers such as not having enough money",
+        "prompt on inequality",
+        "The poverty"
+      ],
+      "source": "qbreader",
+      "sourceId": "631674033d364b3265eaf08b"
+    },
+    {
+      "id": "6cf542cb-a2e2-4750-b9db-86a4cd84d434",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "A phrase in this language titles a document that critiques biological \"revelations\" with the phrase \"false coins of this sort do not deserve Christian currency.\" A work in this language derides one concept \"sold on the market like cheapjacks' wares\" when instead Christians should be seeking that concept's \"costly\" version. This language was used by two founders of the Confessing Church to write The Cost of Discipleship and the 1919 commentary Epistle to the Romans. This language was used to write the text to a hymn beginning \"A mighty fortress is our God,\" and it provides the common non-English name of the song \"O Christmas Tree.\" For 10 points, Philip Melanchthon (\"muh-LANK-thun\") helped translate the Bible into what vernacular language under the leadership of Martin Luther?",
+      "powerMarkPosition": 324,
+      "answer": "German",
+      "acceptableAnswers": [
+        "German",
+        "Deutsch",
+        "accept Low German",
+        "High German",
+        "Swiss German",
+        "accept Swiss Standard German",
+        "Swiss High German",
+        "accept Basel German",
+        "Baseldeutsch",
+        "Baseldytsch",
+        "The German"
+      ],
+      "source": "qbreader",
+      "sourceId": "6551b0902c809f9dfdac1e44"
+    },
+    {
+      "id": "4ede344e-3b0e-48d6-a391-36187a63cdb8",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for complement system. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this phagocyte-related structure.",
+      "powerMarkPosition": 77,
+      "answer": "Phagocyte",
+      "acceptableAnswers": [
+        "phagocyte",
+        "Phagocyte"
+      ],
+      "explanation": "The phagocyte is a key component of the Immune system, involved in complement system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a4abdee5-c867-4d3f-b9e2-491ebd06de15",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "text": "In this opera, a princess sings of \"wilderness sad and wild\" in the aria \"Dark Forest,\" performed on the Rütli meadow. The son of this opera's protagonist sets fire to his home at the start of a revolt. A character in this opera is told to stay still in the aria \"Sois immobile\" (swahz am-oh-beel). This opera's overture begins with a ranz des vaches(RON day vahsh) before concluding with a March of the Swiss Soldiers. Gessler is killed in this opera, whose title character shoots an apple off Jemmy's head. For 10 points, name this Gioacchino Rossini (jah-KEE-noh roh-SEE-nee) opera about a folk hero.",
+      "powerMarkPosition": 334,
+      "answer": "William Tell",
+      "acceptableAnswers": [
+        "William Tell",
+        "Guillaume Tell",
+        "The William Tell"
+      ],
+      "source": "qbreader",
+      "sourceId": "68d80884f2b1f8e7f3913294"
+    },
+    {
+      "id": "5831c793-c4aa-4db7-92da-c9aca03a2a7b",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "This man argued that society should tolerate multiple Christian denominations along with Jews, Muslims, and pagans, but not those who deny the existence of God, in his Letter Concerning Toleration. One of this author's more famous works claimed knowledge is derived only from sensation and reflection and that the human mind starts with a tabula rasa. In another work, he discussed society's need to protect lives, liberties, and estates. For 10 points, name this enlightenment philosopher who wrote An Essay Concerning Human Understanding and Two Treatises on Government.",
+      "powerMarkPosition": 197,
+      "answer": "Locke",
+      "acceptableAnswers": [
+        "Locke",
+        "The Locke"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0738"
+    },
+    {
+      "id": "83468ac0-b8c2-4f99-a926-964fb884b82d",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "A poem by this author declares, \"The willowy hills and fields among / They heard her singing her last song\" as the protagonist dies after looking toward Camelot. This poet of \"The Lady of Shalott\" wrote about a group of soldiers at the Battle of Balaclava, who charge with \"cannon to the right of them / cannon to the left of them\" as they go \"half a league, half a league / half a league onward.\" For 10 points, name this Victorian poet who wrote \"The Charge of the Light Brigade.\"",
+      "powerMarkPosition": 245,
+      "answer": "Tennyson",
+      "acceptableAnswers": [
+        "Tennyson",
+        "The Tennyson"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc005184"
+    },
+    {
+      "id": "cd121ae2-ad8c-4930-8dcd-2cbfd693e524",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "This deity's distinctive Atef crown consists of the Hedjet along with two plumes on either side. Another defining symbol of this deity is the Djed pillar, which represents stability. This deity was the firstborn of Geb and Nut. In one story, this deity's body was chopped up after death and distributed all over Egypt. After this deity is murdered by his brother, Set, his sister-wife, Isis, manages to revive him long enough for him to impregnate her, resulting in the birth of his son Horus. For 10 points, name this god who is the lord of the Duat, the Egyptian underworld.",
+      "powerMarkPosition": 311,
+      "answer": "Osiris",
+      "acceptableAnswers": [
+        "Osiris",
+        "The Osiris"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f2d7847edb615d3ac9f455"
+    },
+    {
+      "id": "35aa171d-d086-4bb2-95cc-fb7835857a97",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "Composer and work required. Count von Walsegg commissioned this work, whose \"Lux aeterna\" [ee-turn-ah] ending and all but eight bars of the Lacrimosa section were completed by Franz Sussmayr as he edited this work. This piece's composer simultaneously worked on The Magic Flute and this piece, and remarked to his wife Constanze that this piece may be played at his own funeral. For 10 points, name this mass for the dead, left unfinished at the death of its Austrian composer in 1791.",
+      "powerMarkPosition": 261,
+      "answer": "Mozart",
+      "acceptableAnswers": [
+        "Mozart",
+        "The Mozart"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318accf8"
+    },
+    {
+      "id": "bf4d9936-a5af-4130-938c-487b077b841d",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "The title event of this short story is organized by Mr. Summers, who continuously delays replacing a black wooden box. In this story, Clyde Dunbar misses the title event due to a broken leg, which Old Man Warner has attended for 77 years. A character cries out \"it's not fair\" after \"winning\" the title event of this story. For 10 points, name this Shirley Jackson story which ends with Tessie Hutchinson being stoned to death.",
+      "powerMarkPosition": 260,
+      "answer": "Lottery",
+      "acceptableAnswers": [
+        "Lottery",
+        "The Lottery"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef79cbbbb69a5263ce0c"
+    },
+    {
+      "id": "1133c317-63a3-4953-be02-20ddca6d08fd",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "A mixture of this molecule and hydrogen is turned into liquid hydrocarbons in the Fischer-Tropsch process, and it mixes with water vapor to form carbon dioxide and hydrogen in the water-gas shift reaction. This molecule binds two hundred times as well than oxygen does to red blood cells, causing its high toxicity. Burning objects such as propane, kerosene, and coal can release this gas. For 10 point name this silent killer gas abbreviated CO.",
+      "powerMarkPosition": 300,
+      "answer": "carbon monoxide",
+      "acceptableAnswers": [
+        "carbon monoxide",
+        "The carbon monoxide"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e14c8"
+    },
+    {
+      "id": "40072151-22b7-47d0-95a3-0ac7ea6d6750",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "The Poisson (\"pwa-SAWN\") distribution is the limit of this distribution as n goes to infinity but the expected value remains the same. A Poisson distribution with a Gamma-distributed parameter is the \"negative\" form of this distribution. This [emphasize] discrete distribution is modeled by a Galton Board. For large values of n, this distribution can be approximated with a normal distribution. The values of the nth row of Pascal's triangle divided by 2 to the n create PMFs of this distribution. For 10 points, name this probability distribution that gives the probability of k successes given n trials with two possible outcomes, whose PMF contains namesake coefficients of the form \"n choose k.\"",
+      "powerMarkPosition": 237,
+      "answer": "binomial",
+      "acceptableAnswers": [
+        "binomial",
+        "negative binomial distribution until “Galton” is read",
+        "The binomial"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ffaf1"
+    },
+    {
+      "id": "b381cbaf-7a7b-4387-b4d7-1e3c19628b19",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "One character created by this author believes that \"all the booksellers in the universe\" are conspiring against him because a store in Paris won't send him books he needs to understand what has happened on Jupiter. A servant in a play by this author listens to orders coming from a speaking tube, anticipating to hear about stolen money, only to be told that he is to deliver boots and coffee. In that play by this author, one character uses a story from the newspaper to make up a tale about (+) attempting suicide by laying in a bed of elderberries. In a play by this author, a woman reveals to have sent a letter proving her husband's insanity, causing him to throw a lamp at her. That play by this author ends after a Captain dies from a stroke after being put in a straitjacket because he grabbed a revolver to use on his daughter Bertha. This author wrote a play that ends after the valet Jean gives the title character a razor to commit suicide. For 10 points, name this author of The Father and Miss Julie.",
+      "powerMarkPosition": 721,
+      "answer": "Strindberg",
+      "acceptableAnswers": [
+        "Strindberg",
+        "The Strindberg"
+      ],
+      "source": "qbreader",
+      "sourceId": "6308f08b477954b5e7f5b8a6"
+    },
+    {
+      "id": "65557080-c226-4995-9cbc-009e13c7e9f2",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for portal systems. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this systole-related structure.",
+      "powerMarkPosition": 78,
+      "answer": "Systole",
+      "acceptableAnswers": [
+        "systole",
+        "Systole"
+      ],
+      "explanation": "The systole is a key component of the Cardiovascular system, involved in portal systems.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "1f31ca9d-6593-42b0-93f6-2876a1f48b4f",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "This man, who defeated incumbent Culbert Olson in a gubernatorial election, was himself the only incumbent California governor to be nominated by both parties. This man, who was defeated by Alben Barkley in his bid for the vice presidency, headed a group including Gerald Ford and Hale Boggs that analyzed injuries to John Connally. He wrote that the psychological effects of racism meant that separate but equal had no place in education. For 10 points, name this man who, as Chief Justice from 1953 to '69, presided over Brown vs. Board of Education.",
+      "powerMarkPosition": 332,
+      "answer": "Warren",
+      "acceptableAnswers": [
+        "Warren",
+        "The Warren"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6ded8b3"
+    },
+    {
+      "id": "d0b95730-3e70-4bdf-8526-98603fbc03fd",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "The Raimondi Stele [\"stel-uh\"] depicts a fanged deity holding what is generally interpreted to be these objects, as does the central carving of Tiwanaku's Gate of the Sun. After it glows for several days, a figure obtains one of these objects from the underwater court of Ao Guang. Viracocha usually appears holding two of these objects, which give the conventional name of a central pre-Incan Andean deity. Manco Capac was told by Inti to found a capital city where a golden one of these objects sank into the ground. Ruyi Jingu Bang is the name of a size-changing one of these objects that belongs to Sun Wukong. One of these objects called the caduceus is carried by messengers like Iris and Hermes. For 10 points, Asclepius holds what sort of walking aid entwined with a snake?",
+      "powerMarkPosition": 468,
+      "answer": "staff",
+      "acceptableAnswers": [
+        "staff",
+        "staves",
+        "wands",
+        "rods",
+        "batons",
+        "walking sticks",
+        "accept staff god",
+        "accept an iron pillar",
+        "accept Ruyi Jingu Bang before mentioned",
+        "The staff"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed60f81539231f571ee307"
+    },
+    {
+      "id": "5f29d6da-5fa5-4021-addb-588fbc170066",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "Outcomes after this process are measured by the \"lens\" between two indifference curves of an Edgeworth box. The Heckscher-Ohlin model of this process was challenged by Paul Krugman. Relatively different opportunity costs lead to mutual gains from this process according to David Ricardo's principle of comparative advantage. Tariffs and other protectionist policies hinder the \"free\" type of this process implemented by treaties such as NAFTA. For 10 points, name this practice in which countries exchange goods.",
+      "powerMarkPosition": 301,
+      "answer": "trade",
+      "acceptableAnswers": [
+        "trade",
+        "international trade",
+        "exchange before it is read",
+        "The trade"
+      ],
+      "source": "qbreader",
+      "sourceId": "68d80887f2b1f8e7f3913447"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "341503a6-0cda-40d7-8065-e425e08b9e53",
+      "linkedTossupId": "d3d1df55-37c2-437a-8fbb-3eb9e46741b4",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this process, which inspired Reeta Wolfsohn to create the Financial Social Work model. This process was first posited in a 1978 study by Diane Pearce studying emerging economic patterns in the U.S. in the 1950s.",
+          "answer": "feminization of poverty",
+          "acceptableAnswers": [
+            "feminization of poverty",
+            "any answer indicating women",
+            "girls",
+            "females are increasingly central to poverty/welfare",
+            "The feminization of poverty"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A primary cause of the feminization of poverty is this phenomenon, which has been calculated to be 82¢ per dollar earned.",
+          "answer": "pay gap",
+          "acceptableAnswers": [
+            "pay gap",
+            "wage gap",
+            "accept any answer indicating women being paid less than men",
+            "The pay gap"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The feminization of poverty and the gender wage gap are two issues addressed by proponents of this practice, which was popularized by Muhammad Yunus and Grameen Bank's no collateral policy.",
+          "answer": "microcredit",
+          "acceptableAnswers": [
+            "microcredit",
+            "microlending",
+            "microfinance",
+            "microloans",
+            "The microcredit"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a 2008 article, Sylvia Chant argued that welfare programs intended to reverse this process did not relieve it but instead made the recipients responsible for more tasks. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630edc029db771144f1e5855"
+    },
+    {
+      "id": "bff4188f-4ffe-4a99-a49f-301f92f569b3",
+      "linkedTossupId": "614e0deb-12d5-4b96-8f03-ae27c4a5a3b3",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel, in which members of the Bennett family marry George Wickham and Charles Bingley.",
+          "answer": "Pride and Prejudice",
+          "acceptableAnswers": [
+            "Pride and Prejudice",
+            "The Pride and Prejudice"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pride and Prejudice is by this author, who also wrote Emma.",
+          "answer": "Austen",
+          "acceptableAnswers": [
+            "Austen",
+            "The Austen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This character, who owns Pemberley, marries Elizabeth Bennett at the end of Pride and Prejudice.",
+          "answer": "Fitzwilliam",
+          "acceptableAnswers": [
+            "Fitzwilliam",
+            "either underlined part",
+            "The Fitzwilliam"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This novel begins by declaring \"a single man in possession of a good fortune must be in want of a wife.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b94e"
+    },
+    {
+      "id": "468405c6-81ed-486b-92c8-330a5d073ae3",
+      "linkedTossupId": "072665cb-4d1d-4560-860e-1f0450ffde3e",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this property of groups that contain no non-trivial normal subgroups. The smallest non-Abelian group with this property is A5.",
+          "answer": "simple",
+          "acceptableAnswers": [
+            "simple",
+            "The simple"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "McKay observed monstrous moonshine by connecting the monster group to this mathematician's j-invariant. This namesake of a \"four-group\" also names a non-orientable surface that is self-intersecting when embedded in 3D space.",
+          "answer": "Klei",
+          "acceptableAnswers": [
+            "Klei",
+            "Klein bottle",
+            "The Klei"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The fundamental polygon of the Klein bottle is this shape, whose symmetries compose the group D2. Matrices with equal numbers of rows and columns have this shape.",
+          "answer": "square",
+          "acceptableAnswers": [
+            "square",
+            "The square"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Finite groups with this property compose the 26 sporadic groups, the largest of which is the monster group. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68486970b074cbb48b99b593"
+    },
+    {
+      "id": "b460b514-880d-4c7d-a3a6-97383a0802e3",
+      "linkedTossupId": "26df0e00-1f7e-4943-9421-fecd047de16c",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this device used to store electrical charge, the unit for whose namesake measure is the farad.",
+          "answer": "Capacitor",
+          "acceptableAnswers": [
+            "Capacitor",
+            "The Capacitor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This first capacitor stores energy in the walls of a water-filled glass, and credit for its discovery goes to Pieter van Musschenbrook.",
+          "answer": "Leyden",
+          "acceptableAnswers": [
+            "Leyden",
+            "The Leyden"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The breakdown voltage changes depending on this, the material inserted between the two plates of a capacitor.",
+          "answer": "Dielectric",
+          "acceptableAnswers": [
+            "Dielectric",
+            "The Dielectric"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "They often stop working properly at the breakdown voltage. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fdc23fc764815614749f74"
+    },
+    {
+      "id": "d511d89a-593a-4a63-b444-da89ccb2ae27",
+      "linkedTossupId": "3ce996a1-f800-4025-b3db-9d86a5cefdb5",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Give this name for the persistent and relatively large increase in the general price level of good and services. In the United States, it is measured by the Consumer Price Index.",
+          "answer": "inflation",
+          "acceptableAnswers": [
+            "inflation",
+            "The inflation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This curve, named after its New Zealand-born formulator, describes an inverse relationship between inflation and unemployment.",
+          "answer": "Phillips",
+          "acceptableAnswers": [
+            "Phillips",
+            "The Phillips"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the 1970s, the United States experienced both high unemployment and high inflation, a phenomenon referred to by this term. This term is a portmanteau of inflation and another word.",
+          "answer": "stagflation",
+          "acceptableAnswers": [
+            "stagflation",
+            "The stagflation"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The \"hyper\" form of this phenomenon has been experienced in places like Weimar Germany and Zimbabwe. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee402"
+    },
+    {
+      "id": "a7a99125-968a-48c5-ae1b-99ec66865581",
+      "linkedTossupId": "6cf542cb-a2e2-4750-b9db-86a4cd84d434",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this work that claims that the movement towards the absurd makes the knight of faith harder to understand the knight of infinite resignation. This work is an analysis of Abraham's sacrifice of Isaac.",
+          "answer": "Fear and Trembling",
+          "acceptableAnswers": [
+            "Fear and Trembling",
+            "Frygt og Bæven",
+            "The Fear and Trembling"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Danish philosopher wrote Fear and Trembling. He also wrote a work that contrasts aesthetics with ethics, Either/Or.",
+          "answer": "Kierkegaard",
+          "acceptableAnswers": [
+            "Kierkegaard",
+            "The Kierkegaard"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Kierkegaard, in addition to being one of the first existentialists, wrote extensively on the subject of this religion. This monotheistic religion is based on the life of Jesus Christ as portrayed in the Holy Bible.",
+          "answer": "Christian",
+          "acceptableAnswers": [
+            "Christian",
+            "any denominations",
+            "types",
+            "e.g. Catholicism",
+            "Eastern Orthodoxy",
+            "Methodism",
+            "etc.",
+            "The Christian"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work, written under the pseudonym Simplicio, was written in response to Regine breaking off an engagement with this work's author. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289cad46"
+    },
+    {
+      "id": "f46975f8-28fe-479c-884b-9bd9306c797d",
+      "linkedTossupId": "4ede344e-3b0e-48d6-a391-36187a63cdb8",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with reflex arcs.",
+          "answer": "spinal cord",
+          "acceptableAnswers": [
+            "spinal cord"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the spinal cord in the nervous system?",
+          "answer": "Reflex arcs",
+          "acceptableAnswers": [
+            "Reflex arcs"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to reflex arcs.",
+          "answer": "reflex",
+          "acceptableAnswers": [
+            "reflex"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "0c45365d-b434-42e8-83af-f8e6e16f51ee",
+      "linkedTossupId": "a4abdee5-c867-4d3f-b9e2-491ebd06de15",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this technique whose name comes from the French word for \"pasting\", and often uses newspaper clippings glued together. Hannah Hoch's Cut with the Kitchen Knife is an example of the photomontage type.",
+          "answer": "collage",
+          "acceptableAnswers": [
+            "collage",
+            "The collage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Richard Hamilton's seminal pop art collage Just what is it that makes today's homes so different, so appealing? contains a man holding an oversized Tootsie pop and a woman wearing one of these things on her head.",
+          "answer": "lampshade",
+          "acceptableAnswers": [
+            "lampshade",
+            "The lampshade"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This French artist used a variant of collage called decoupage to create cut-outs such as The Swimming Pool and a second version of his Blue Nude. He also painted The Joy of Life.",
+          "answer": "Matisse",
+          "acceptableAnswers": [
+            "Matisse",
+            "Henri-Émile-Benoît Matisse",
+            "The Matisse"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Kurt Schwitters called this type of artwork \"Merz.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54adea3"
+    },
+    {
+      "id": "6d9dd5ed-1a2d-4c76-a3b9-f5cd13485df8",
+      "linkedTossupId": "5831c793-c4aa-4db7-92da-c9aca03a2a7b",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this rice-based alcoholic beverage. Three sips are taken from three cups of this drink during one Japanese religious ceremony.",
+          "answer": "sake",
+          "acceptableAnswers": [
+            "sake",
+            "rice wine",
+            "do not accept",
+            "prompt on “wine” alone",
+            "The sake"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sake is consumed by the participants in this ceremony. These ceremonies often involve the exchange of vows.",
+          "answer": "wedding",
+          "acceptableAnswers": [
+            "wedding",
+            "marriage ceremony",
+            "The wedding"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sake was traditionally made in shrines of this religion. Gods in this religion are called Kami.",
+          "answer": "Shinto",
+          "acceptableAnswers": [
+            "Shinto",
+            "The Shinto"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One ingredient in this substance is meant to be chewed by virgins called bijinshu. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7ded7f"
+    },
+    {
+      "id": "71fe6604-48c4-467d-b1bb-63112aed137d",
+      "linkedTossupId": "83468ac0-b8c2-4f99-a926-964fb884b82d",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel about Hans Castorp, who is committed to a sanatorium in the Alps.",
+          "answer": "Magic",
+          "acceptableAnswers": [
+            "Magic",
+            "The Magic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this novella by the author of The Magic Mountain, Gustav von Aschenbach travels to the title city and becomes inspired by the beauty of the pre-teen Tadzio before a cholera epidemic breaks out.",
+          "answer": "Death in",
+          "acceptableAnswers": [
+            "Death in",
+            "The Death in"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Both The Magic Mountain and Death in Venice were written by this German author.",
+          "answer": "Mann",
+          "acceptableAnswers": [
+            "Mann",
+            "The Mann"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this work, the protagonist sees a vision of two hags in a temple dismembering a child. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f08ae"
+    },
+    {
+      "id": "f82f9e76-4d31-4873-8547-b7f16182fd56",
+      "linkedTossupId": "cd121ae2-ad8c-4930-8dcd-2cbfd693e524",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Norse god, who was apparently really handsome, but also useless, because at councils he would just say \"Let others decide\" if his fellow hostage Mimir were not present.",
+          "answer": "Hoenir",
+          "acceptableAnswers": [
+            "Hoenir",
+            "The Hoenir"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Because Hoenir was useless and annoying, Mimir was killed. This body part of his was sent back to the Aesir, and was eventually kept by Odin.",
+          "answer": "head",
+          "acceptableAnswers": [
+            "head",
+            "The head"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hoenir survives this apocalyptic battle of Norse mythology, and gains the gift of prophecy. Odin and Thor, along with many other gods, die during it.",
+          "answer": "Ragnarok",
+          "acceptableAnswers": [
+            "Ragnarok",
+            "The Ragnarok"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Along with Odin and Lodurr, this deity helped create the first humans Ask and Embla by giving them reason. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32e2883e2636cb3c96358"
+    },
+    {
+      "id": "3de3c313-488c-408e-adac-bda7a1afa088",
+      "linkedTossupId": "35aa171d-d086-4bb2-95cc-fb7835857a97",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this type of painting that depicts a likeness of a person. A \"self\" kind of these paintings is the artist's depiction of himself or herself.",
+          "answer": "portrait",
+          "acceptableAnswers": [
+            "portrait",
+            "The portrait"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man painted portraits of many American leaders including George Washington. His portrait of Washington appears on the American one-dollar bill.",
+          "answer": "Stuart",
+          "acceptableAnswers": [
+            "Stuart",
+            "The Stuart"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man created many paintings featuring Napoleon, including The Coronation of Napoleon, Napoleon Crossing the Alps, and Napoleon in His Study. This man also painted an idealized Death of Marat.",
+          "answer": "David",
+          "acceptableAnswers": [
+            "David",
+            "The David"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This kind of artwork includes the Mona Lisa, Blue Boy, and one \"of Madame X.\" For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806eaa0924256318acc75"
+    },
+    {
+      "id": "2df93267-c799-4396-8e29-201dadc3da32",
+      "linkedTossupId": "bf4d9936-a5af-4130-938c-487b077b841d",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this member of the Sturm und Drang (\"STOORM und DRAHNG\") movement who wrote The Sorrows of Young Werther (\"VAIR-tuhr\").",
+          "answer": "Goethe",
+          "acceptableAnswers": [
+            "Goethe",
+            "The Goethe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this most famous play by Goethe, the demon Mephistopheles (\"MEFF-iss-TOFF-uh-leez\") tries to turn the title knowledge-seeker away from God by showing him worldly pleasures.",
+          "answer": "Faust",
+          "acceptableAnswers": [
+            "Faust",
+            "The Faust"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Johann Wolfgang von Goethe wrote in this language. Other writers in this language include the Nobel Laureates Thomas Mann (\"MONN\"), Hermann Hesse (\"HESS-uh\"), and Herta Muller.",
+          "answer": "German",
+          "acceptableAnswers": [
+            "German",
+            "Deutsch",
+            "The German"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A serpent eats a pile of gold and sacrifices himself to become a bridge across a river in this man's fairy tale, The Green Snake and the Beautiful Lily. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec65bc"
+    },
+    {
+      "id": "072ebc78-a1b5-4ed8-a39b-75981d272546",
+      "linkedTossupId": "1133c317-63a3-4953-be02-20ddca6d08fd",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this class of undifferentiated cells that have the ability to become all the specialized cell types of the body.",
+          "answer": "stem",
+          "acceptableAnswers": [
+            "stem",
+            "The stem"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Controversy arises when stem cells are harvested from this earliest developmental stage that precedes the fetus.",
+          "answer": "embryo",
+          "acceptableAnswers": [
+            "embryo",
+            "The embryo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pluripotent embryonic stem cells are unable to become this organ, which is essential for gas exchange and waste removal between the fetus and its mother.",
+          "answer": "placenta",
+          "acceptableAnswers": [
+            "placenta",
+            "The placenta"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The potency of these cells describes their ability to differentiate; the totipotent type has the largest ability. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acd50"
+    },
+    {
+      "id": "3aa062eb-bd02-431a-a333-306feebfe69f",
+      "linkedTossupId": "40072151-22b7-47d0-95a3-0ac7ea6d6750",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this quantity, equal to a fluid's energy per unit weight. It is often reported as the height of an equivalent static column of fluid, and it has components due to pressure, elevation, and velocity.",
+          "answer": "head",
+          "acceptableAnswers": [
+            "head",
+            "piezometric head",
+            "The head"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This important principle of fluid dynamics can be written in terms of head by dividing by the acceleration due to gravity. It states that faster-moving fluids exert less pressure than slower-moving ones.",
+          "answer": "Bernoulli",
+          "acceptableAnswers": [
+            "Bernoulli",
+            "The Bernoulli"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bernoulli's principle only applies when this quantity is zero. This quantity is independent of applied stress in Newtonian fluids, and the ratio of its dynamic and kinetic forms equals the fluid's density.",
+          "answer": "viscosity",
+          "acceptableAnswers": [
+            "viscosity",
+            "The viscosity"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The loss of this quantity due to friction can be calculated using the Darcy-Weisbach equation. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edb4fedff988263841bb1a"
+    },
+    {
+      "id": "c8c367ee-1245-4372-abaa-097b5fae220e",
+      "linkedTossupId": "b381cbaf-7a7b-4387-b4d7-1e3c19628b19",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Phrygian king who exposed the gods' secrets and/or tried to feed the gods his son. For his offenses, he must eternally stand in a pool from which he cannot drink below fruit that he cannot eat.",
+          "answer": "Tantalus",
+          "acceptableAnswers": [
+            "Tantalus",
+            "The Tantalus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pandareus stole a golden animal of this type and gave it to Tantalus. Another animal of this type was a gift from Zeus to Europa, and was turned to stone along with the Teumessian Fox to avert a paradox.",
+          "answer": "dog",
+          "acceptableAnswers": [
+            "dog",
+            "The dog"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This ugly son of Tantalus carved a statue of Cybele at Coddinus and died when he threw himself into a fire. Either he or Thyestes had a son also named Tantalus who was Clytemnestra's first husband before Agamemnon.",
+          "answer": "Broteas",
+          "acceptableAnswers": [
+            "Broteas",
+            "The Broteas"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one story, Zeus buried this man under Mt. Sipylus after he incited Pandareus to thievery and gave a false oath. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba96117"
+    },
+    {
+      "id": "0e12d69a-6c7e-4b94-8c5c-af3f8fa68530",
+      "linkedTossupId": "65557080-c226-4995-9cbc-009e13c7e9f2",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with respiratory rate control.",
+          "answer": "diaphragm",
+          "acceptableAnswers": [
+            "diaphragm"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the diaphragm in the respiratory system?",
+          "answer": "Respiratory rate control",
+          "acceptableAnswers": [
+            "Respiratory rate control"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to respiratory rate control.",
+          "answer": "tidal volume",
+          "acceptableAnswers": [
+            "tidal volume"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "232e4312-30f1-4f9a-8f26-f0e65089ee6e",
+      "linkedTossupId": "1f31ca9d-6593-42b0-93f6-2876a1f48b4f",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this British spy who himself defected to the Soviet Union in 1963, where he eventually became a colonel in the KGB.",
+          "answer": "Philby",
+          "acceptableAnswers": [
+            "Philby",
+            "The Philby"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Philby was an agent in this British intelligence agency.",
+          "answer": "MI6",
+          "acceptableAnswers": [
+            "MI6",
+            "The MI6"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Among the secrets passed along by Philby to the Soviets was a plan to send armed anti-Communist bands into this nation, whose previous rulers have included King Zog and Enver Hoxha.",
+          "answer": "Albania",
+          "acceptableAnswers": [
+            "Albania",
+            "The Albania"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man told of his exploits in the 1968 memoir, My Silent War, and suspicion fell on him after he abetted the defections of Guy Burgess and Donald MacLean. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4449f"
+    },
+    {
+      "id": "a72993c1-a360-47b6-a4f0-1313f0b9d32f",
+      "linkedTossupId": "d0b95730-3e70-4bdf-8526-98603fbc03fd",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "According to one story, this Biblical woman approached Tiberius Caesar and claimed that Jesus had risen. While making her plea her lunch turned red, resulting in the first Easter Egg.",
+          "answer": "Mary Magdalene",
+          "acceptableAnswers": [
+            "Mary Magdalene",
+            "Mary",
+            "do not accept",
+            "prompt on “the Virgin Mary”",
+            "The Mary Magdalene"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This \"doubting\" apostle is believed to have sailed to India and established an early church there; thus Catholics venerate this Apostle as the Patron Saint of India.",
+          "answer": "Thomas",
+          "acceptableAnswers": [
+            "Thomas",
+            "The Thomas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Apostle is thought to have been crucified on a namesake X-shaped cross. Another story tells that instead of being crucified he was spirited away to Scotland, where he is the patron saint.",
+          "answer": "Andrew",
+          "acceptableAnswers": [
+            "Andrew",
+            "The Andrew"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify some New Testament figures from stories that almost certainly never happened. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c06e578a78206cf207fe"
+    },
+    {
+      "id": "d6dd822a-231f-4906-9a46-3bf45c33a7b2",
+      "linkedTossupId": "5f29d6da-5fa5-4021-addb-588fbc170066",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Jean Piaget researched this concept, the ability to remember that a thing does not disappear when it leaves one's field of vision. It is absent in infants.",
+          "answer": "object permanence",
+          "acceptableAnswers": [
+            "object permanence",
+            "The object permanence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This psychologist outlined the laws of recency, exercise, and effect as his three principles of learning, which led him to compile The Teacher's Wordbook. He also conducted some of the first research supporting the existence of the \"Halo Effect.\" A",
+          "answer": "Thorndike",
+          "acceptableAnswers": [
+            "Thorndike",
+            "The Thorndike"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Russian psychologist described the difference between what a learner can do without help and what he or she can do with help, or scaffolding, as the Zone of Proximal Development.",
+          "answer": "Vygotsky",
+          "acceptableAnswers": [
+            "Vygotsky",
+            "The Vygotsky"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the psychology of learning, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed6e71216c5c9ba5675511"
+    }
+  ]
+}

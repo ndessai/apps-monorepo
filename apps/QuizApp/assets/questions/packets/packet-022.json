@@ -1,0 +1,1147 @@
+{
+  "packetId": "packet-022",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Geography",
+    "Literature",
+    "History",
+    "Human Body",
+    "Science",
+    "Mythology",
+    "Philosophy",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "c2793fe2-6ecf-477c-93a0-ac7ed36b4e20",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "This mountain range includes the Vilcabamba (\"VEEL-cuh-BOM-buh\") sub-range and contains a plateau called the altiplano (\"ALL-tee-PLAN-oh\"). It is home to the tallest volcano on Earth, Ojos (\"OH-hoess\") del Salado, and the highest peak in the Western Hemisphere, Aconcagua (\"AH-con-CAH-gwa\"). Llamas were domesticated in, for 10 points, what longest mountain range on Earth, located in western South America?",
+      "powerMarkPosition": 139,
+      "answer": "Andes",
+      "acceptableAnswers": [
+        "Andes",
+        "The Andes"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec6579"
+    },
+    {
+      "id": "d2f5bf8e-162b-4be4-b8cb-f0c33b5d02ec",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "The title characters in one work by this author include Urthona, Urizen, Luvah and Tharmas, and another work opens with a roar by Rintrah, the son of Los, as he shakes the fires of the underworld. This author of The Four Zoas wrote about children sold off as chimney sweepers in one poem, and this author of The Marriage of Heaven and Hell asks if God smiled \"when the stars threw down their spears\" in another poem. That poem by this author asks \"what immortal hand or eye could frame thy fearful symmetry.\" For 10 points, name this British writer whose Songs of Innocence and Experience contains poems such as \"The Lamb\" and \"The Tyger\".",
+      "powerMarkPosition": 416,
+      "answer": "Blake",
+      "acceptableAnswers": [
+        "Blake",
+        "The Blake"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b275"
+    },
+    {
+      "id": "346f7b15-e3c0-4b66-a3ee-76c924c5acfa",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "This playwright created the character of Foka, who gets a year reduced from his sentence for every criminal he hangs. This playwright called for moving walls in order to reduce the sizes of locations for his dramatic adaptation of The Possessed. This author's first play depicts Caligula orchestrating his own death. At the end of a play by this author, the Old Man refuses help to Maria, who prays that she will be turned into stone. The protagonist of a play by this author refuses to admit to murder in order to save his own life after a proposition by the Grand Duchess. In a play by this author, Martha and her mother accidentally murder their family member Jan, causing them both to commit suicide. A play by this author focuses on the revolutionary Ivan Kaliayev's assassination of Sergei Alexandrovich. For 10 points, name this French playwright of The Just Assassins and The Misunderstanding, which was referenced in a newspaper clipping that the protagonist reads in this author's novel The Stranger.",
+      "powerMarkPosition": 755,
+      "answer": "Camus",
+      "acceptableAnswers": [
+        "Camus",
+        "The Camus"
+      ],
+      "source": "qbreader",
+      "sourceId": "64ab6873f814f28d9b5a7848"
+    },
+    {
+      "id": "bac18026-29fd-4639-ad25-ed35aaa72a17",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "This leader led a Grand Embassy through Western Europe, which inspired him to Westernize his country by means such as introducing a formalized Table of Ranks for the military. This man's country fought the Great Northern War against Sweden from 1700 to 1721. For 10 points, what Russian tsar built a capital on the Neva River named for a saint with the same name?",
+      "powerMarkPosition": 244,
+      "answer": "Peter I",
+      "acceptableAnswers": [
+        "Peter I",
+        "Peter the Great",
+        "prompt on Peter",
+        "The Peter I"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0adfb4"
+    },
+    {
+      "id": "c39daba5-dc53-4eda-b948-166535accac9",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for brainstem structures. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this cerebrum-related structure.",
+      "powerMarkPosition": 77,
+      "answer": "Cerebrum",
+      "acceptableAnswers": [
+        "cerebrum",
+        "Cerebrum"
+      ],
+      "explanation": "The cerebrum is a key component of the Nervous system, involved in brainstem structures.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a3a9c23f-42a0-48cf-a752-720c996b4d83",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "In a novel set during this decade, the pregnant Neni studies pharmacy and her husband Jende Jonga works for the stressed executive Clark after they leave Cameroon. Early in this decade, Binyavanga Wainaina founded the literary magazine Kwani? after his story \"Discovering Home\" won the third annual Caine Prize. This decade is the setting of Imbolo Mbue's novel Behold the Dreamers. In this decade, a novel's female protagonist delays her move for a Princeton fellowship until the election of a politician who she writes will \"do it better\" in texts that use the alias \"Professor Hunk\" for her boyfriend Blaine. \"Raceteenth\" is written in this decade in Chimamanda Ngozi Adichie's Americanah. For 10 points, name this decade when Ifemelu blogs about the first election of the US president who wrote Dreams from My Father.",
+      "powerMarkPosition": 311,
+      "answer": "2000s",
+      "acceptableAnswers": [
+        "2000s",
+        "‘00s",
+        "aughts",
+        "noughties",
+        "first decade of the 21st century",
+        "equivalents",
+        "The 2000s"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6dbb47c00e8c6f8d88798"
+    },
+    {
+      "id": "bf92a30e-768d-42e4-a0da-dbfaa1022953",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "2. The speaker of this work is described as \"stout as a horse, affectionate, haughty\" and \"of the foolish as much as the wise.\" This work describes taking \"the exact the dimensions of Jehovah\" and \"buying drafts of Osiris.\" The speaker answers, \"The beautiful uncut hair of graves\" to a child asking \"What is the grass?\" in this poem, whose speaker claims that \"every atom belonging to\" him belongs to the reader as well, because he is large and contains multitudes. For 10 points, name this 52-section poem found in Leaves of Grass, in which Walt Whitman celebrates and sings himself.",
+      "powerMarkPosition": 466,
+      "answer": "Song of Myself",
+      "acceptableAnswers": [
+        "Song of Myself",
+        "The Song of Myself"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6ded920"
+    },
+    {
+      "id": "97a880bc-ce05-442c-b318-76f96b38f40a",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "The indistinguishability of particles was used to reconcile this statement with the Gibbs paradox. Josef Loschmidt criticized this statement for contradicting T-symmetry. Loschmidt's paradox was resolved by the fluctuation theorem, which gives the probability that this statement is violated. A cold body that spontaneously heats a warmer body would violate Clausius's formulation of this statement, which also forbids heat transfer mechanisms more efficient than the Carnot (\"car-NO\") cycle. This statement could be violated by a being that sorts hot and cold particles, known as Maxwell's demon. For 10 points, name this law which states that the entropy of a closed system never decreases.",
+      "powerMarkPosition": 292,
+      "answer": "second law of thermodynamics",
+      "acceptableAnswers": [
+        "second law of thermodynamics",
+        "second law",
+        "The second law of thermodynamics"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ffb19"
+    },
+    {
+      "id": "0dde65dd-6962-41c8-9b59-58d8f55890c8",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "During the chariot race at the funeral games of Patroclus, this god tried to sabotage Diomedes (\"dye-oh-MEE-dees\"). After stopping Patroclus' three attempts to scale the walls of Troy, this god dislodged Patroclus' armor, allowing Hector to kill him. In the first book of the Iliad, Chryses (\"CRY-sees\") prays to this god, who has the epithet \"Phoebus\" (\"FEE-bus\"), to send a plague to the Greeks. After she rejected his advances, Cassandra was cursed by this god to never be believed. In a temple to this Olympian god of medicine, Aeneas (\"uh-NEE-iss\") was healed by this god's mother Leto. For 10 points, what Greek god of prophecy and music is the twin brother of Artemis?",
+      "powerMarkPosition": 250,
+      "answer": "Apollo",
+      "acceptableAnswers": [
+        "Apollo",
+        "Apollon",
+        "The Apollo"
+      ],
+      "source": "qbreader",
+      "sourceId": "68fc54d85b5d7bee38aa3fd2"
+    },
+    {
+      "id": "66812c04-9035-4d5d-bb0a-99b8df37505c",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "In this country, church land-ownership was opposed by Nilus of Sora, the leader of the non-possessors. A scholar named Zachariah founded the Judaizer sect in this country. This country's clergy was mocked by the All-Drunken Synod of Fools and Jesters, which was founded by a king who created a Most Holy Synod to run its church. A sect in this country practiced the \"fiery baptism\" of self-castration. Another sect from this country split into the \"Large Party\" and \"Small Party\" before migrating to Canada. A controversy over the proper way of making the sign of the cross led Avvakum's followers to oppose Nikon's reforms of this country's church. For 10 points, name this country home to the Doukhobors and the Old Believers, whose branch of the Orthodox Church is led by the Patriarch of Moscow.",
+      "powerMarkPosition": 384,
+      "answer": "Russia",
+      "acceptableAnswers": [
+        "Russia",
+        "The Russia"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d69f"
+    },
+    {
+      "id": "62f0dcc9-a2e5-49da-a124-6127ee5cfcc6",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "text": "A character in this film reads a letter saying \"See you soon, idiots\" and quips to his companion, \"It's for you.\" The protagonist of this film is represented by a flute version of the main theme, in contrast to the ocarina version representing another character. A character in this film says \"When you have to shoot, shoot, don't talk\" after killing a man who had ambushed him while he was in the bathtub. This film's soundtrack includes the song \"The Ecstasy of Gold.\" A circular open space in the middle of a cemetery is the setting of this film's climactic Mexican standoff between Tuco, Angel Eyes and Blondie, the title characters. For 10 points, name this third film in a Sergio Leone trilogy starring Clint Eastwood, following A Fistful of Dollars and For a Few Dollars More.",
+      "powerMarkPosition": 452,
+      "answer": "Good, the Bad and the Ugly",
+      "acceptableAnswers": [
+        "Good, the Bad and the Ugly",
+        "Il buono",
+        "il bruto",
+        "il cattivo",
+        "The Good, the Bad and the Ugly"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f32e2883e2636cb3c9641d"
+    },
+    {
+      "id": "12b11ad1-eb55-4c89-bbc7-a0dcf15c89dd",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "This person would send out stylistic memos like \"use more long takes\" after screening favorite \"internal reference films\" like The Red Shoes. This person denigrated appealing villains in favor of perfect heroes in the theory of the \"Three Prominences.\" Artworks like \"Owl\" were attacked by supporters of this person's aesthetic theories, which criticized nature subjects as \"Black Paintings\". This person was the main target of a protest that flouted a ban on mourning called the \"Five Nos\". This person had roles in B-movies like Blood on Wolf Mountain and Scenes from City Life under the pseudonym \"Blue Apple\" before starring in an acclaimed 1935 production of A Doll's House. This politician had Yáo Wényuán publish an attack on Wú Hán's play The Dismissal of Hai Rui from Office in a period in which she sponsored \"model operas\" like The Legend of the Red Lantern. For 10 points, what member of the Gang of Four was the last wife of Máo Zédōng?",
+      "powerMarkPosition": 507,
+      "answer": "Jiāng",
+      "acceptableAnswers": [
+        "Jiāng",
+        "Madame Mao",
+        "Lǐ Jìnhái",
+        "Lǐ Shūmēng",
+        "Lǐ Yúnhè",
+        "Lǐ Hè",
+        "Lǐ Jìn",
+        "Lǐ Rùnqīng",
+        "accept Lán Píng before “Blue Apple”",
+        "prompt on Lǐ",
+        "Lán",
+        "reject “Mao”",
+        "The Jiāng"
+      ],
+      "source": "qbreader",
+      "sourceId": "673b8e846a9f877eb58c9bce"
+    },
+    {
+      "id": "c5b54dd2-9951-4369-b70a-27cd4599cc07",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for liver functions. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this liver-related structure.",
+      "powerMarkPosition": 76,
+      "answer": "Liver",
+      "acceptableAnswers": [
+        "liver",
+        "Liver"
+      ],
+      "explanation": "The liver is a key component of the Digestive system, involved in liver functions.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "01359477-0f4c-469b-bae6-4b58b1e02105",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "It is divided into three distinct parts by a causeway supporting the Lucin Cutoff: the northwestern arm, the northeastern arm, and the southern arm. The northwestern arm, also known as Gunnison Bay, is not directly fed by any rivers, and is therefore much saltier than the rest of the lake. Two of its major tributaries, the Bear and Weber Rivers, flow from the Uinta Mountains into the eastern shores of this lake. A remnant of Bonneville Lake, this lake was home to the Church of the Latter-day Saints then led by Brigham Young. For ten points, name this lake in the western United States, a salty Utah lake.",
+      "powerMarkPosition": 324,
+      "answer": "Great Salt",
+      "acceptableAnswers": [
+        "Great Salt",
+        "The Great Salt"
+      ],
+      "source": "qbreader",
+      "sourceId": "6531aa9ecde02a8be25ff375"
+    },
+    {
+      "id": "400467df-cb4e-4975-8ca0-2db4b6f0bba4",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "Money needed for this event was raised through the sale of 25-cent buttons depicting white and black hands in a handshake. James Farmer of CORE argued at this event that he would fight until \"dogs stop biting us in the south and rats stop biting us in the north.\" First called for by A. Philip Randolph and organized by Bayard Rustin, its full title includes the words \"for Jobs and Freedom.\" This event culminated in an oration in which the speaker hopes for a \"nation where [his children] will not be judged by the color of their skin, but by the content of their character.\" For 10 points, name this protest that included Martin Luther King's \"I Have a Dream\" speech.",
+      "powerMarkPosition": 286,
+      "answer": "March on Washington",
+      "acceptableAnswers": [
+        "March on Washington",
+        "The March on Washington"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636eee3c"
+    },
+    {
+      "id": "2ebfdea0-ac72-4b52-90bf-8182ddc602e8",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "Hilt's law describes how depth affects the quality of this substance, and iron sulfide catalysts were originally used in the Bergius process of hydrogenating this substance. Another form of this substance used in Wootten fireboxes is produced under metamorphic conditions, and a large quantity of substance is found in the Powder River Basin. Sub-bituminous and anthracite are varieties of this substance, much of which originated from the Carboniferous period. It can be mined from namesake seams and beds. For 10 points, identify this group of black, carbon-based sedimentary rocks commonly burned to produce energy.",
+      "powerMarkPosition": 342,
+      "answer": "coal",
+      "acceptableAnswers": [
+        "coal",
+        "The coal"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fdc23fc764815614749fed"
+    },
+    {
+      "id": "72ea56fa-d53b-4d4c-b99a-5f09fde9abd2",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "This celestial body is believed to be the parent body of 1999 TA10. The snowman craters are located here. It's chemical makeup is similar to Magnya and this body has exposed pyroxenite. HED meteorites are believed to originate from this object. This object has a large south pole basin named Rheasilvia. It has a basaltic crust and since it has a differentiated structure some have argued that geologically it is a small terrestrial planet. This object was visited in 2011 by the Dawn mission. For 10 points, name this member of the asteroid belt whose mass is only eclipsed by Ceres.",
+      "powerMarkPosition": 244,
+      "answer": "Vesta",
+      "acceptableAnswers": [
+        "Vesta",
+        "The Vesta"
+      ],
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e7113"
+    },
+    {
+      "id": "e7c2f919-090b-4e5c-a569-6141a8f8d3de",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "One work by this author pleads, \"Stay, stay, Until the hasting day Has run But to the evensong;\" that poem later says, \"We die, As your hours do, and dry Away, Like to the summer's rain\" and is about flowers \"we weep to see\" and that \"haste away so soon.\" This author of \"To Daffodils\" wrote of a state that \"Do more bewitch me than when art Is too precise in every part.\" This author created a speaker who sees \"how sweetly flows That liquefaction of her clothes\" in one poem also wrote of \"The glorious lamp of heaven, the sun\" and how \"The higher he's a-getting, The sooner will his race be run.\" This poet wrote Noble Numbers and the poem \"Delight in Disorder\" as well as a collection including many poems addressed to Julia. For 10 points, name this author of Hesperides who wrote \"Gather ye rosebuds while ye may\" in his \"To the Virgins, to Make Much of Time.\"",
+      "powerMarkPosition": 348,
+      "answer": "Herrick",
+      "acceptableAnswers": [
+        "Herrick",
+        "The Herrick"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a1b64"
+    },
+    {
+      "id": "1d23ce54-4480-4842-819f-cbd7201d8f7f",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "All 120 of this country's tribes trade in its \"River of Mosquitos\" market. Residents of this country's capital can ride crowded dala dala buses through the streets where \"Bongo Flava\" hip hop originated. This country has the world's largest population of albino people, centered in its cities of Shinyanga and Mwanza. An island owned by this country is where the House of Wonders was built in Stone Town and where Freddie Mercury was born. This country's Gombe Stream National Park is home to chimpanzees studied by Jane Goodall. The Ngorongoro Crater in this country was the site of archaeological digs at the Olduvai Gorge. Mount Meru and Mount Kilimanjaro are located in, for 10 points, what East African country whose cities include Dodoma and Dar es Salaam?",
+      "powerMarkPosition": 317,
+      "answer": "Tanzania",
+      "acceptableAnswers": [
+        "Tanzania",
+        "the United Republic of Tanzania",
+        "The Tanzania"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423ab4"
+    },
+    {
+      "id": "003104c4-660c-4b7d-a28f-29d7cf1fee03",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "This poet admitted that \"it was the first ride\" and that he \"was happy to see how nice she acted\" before describing how he turned \"the corner of Divinity avenue\" in a \"Brand-new\" car. In one poem, he swears \"by all flowers\" that \"kisses are a better fate than wisdom\" before concluding \"life's not a paragraph and death i think is no parenthesis\". This poet of \"since feeling is first\" claimed that \"only the snow can begin to explain how children are apt to forget to remember\" in a poem about \"noone\" and her husband, set in a place with \"up so floating many bells down.\" He also fictionalized his experiences in World War I in The Enormous Room. For 10 points, name this poet of \"anyone lived in a pretty how town\", known for his unusual orthography.",
+      "powerMarkPosition": 367,
+      "answer": "Cummings",
+      "acceptableAnswers": [
+        "Cummings",
+        "The Cummings"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aecaa"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "b56fd1ba-8b7c-41fd-9654-49360c4b3d66",
+      "linkedTossupId": "c2793fe2-6ecf-477c-93a0-ac7ed36b4e20",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this largest of the Japanese islands. It contains the Kanto and Kansai regions, as well as the cities of Kyoto and Osaka.",
+          "answer": "Honshu",
+          "acceptableAnswers": [
+            "Honshu",
+            "The Honshu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Ainu people are indigenous to this island north of Honshu. This snowy island forms Japan's largest prefecture and is governed from Sapporo.",
+          "answer": "Hokkaido",
+          "acceptableAnswers": [
+            "Hokkaido",
+            "The Hokkaido"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hokkaido and Honshu are connected by one of these structures named Seikan. In Europe, one of these structures connects England and France by crossing under the English Channel.",
+          "answer": "tunnel",
+          "acceptableAnswers": [
+            "tunnel",
+            "The tunnel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Japanese Alps run the length of this island. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004d65"
+    },
+    {
+      "id": "0e121b2f-1dbc-4248-9f1a-e63dd05c2200",
+      "linkedTossupId": "d2f5bf8e-162b-4be4-b8cb-f0c33b5d02ec",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this phenomenon. Greta Thunberg's book No One is Too Small to Make a Difference collects her speeches about this phenomenon.",
+          "answer": "climate",
+          "acceptableAnswers": [
+            "climate",
+            "global warming",
+            "The climate"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ghosh uses this author of The Ministry of Utmost Happiness as an example of a writer whose climate activism is limited to non-fiction. The twins Rahel and Estha commit incest at the end of a novel by this author.",
+          "answer": "Roy",
+          "acceptableAnswers": [
+            "Roy",
+            "The Roy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of Ghosh's recommended climate novels is Barbara Kingsolver's Flight Behavior, which follows the discovery of these animals in Appalachia. These animals title a Julia Alvarez novel set during the Trujillo dictatorship.",
+          "answer": "butterflies",
+          "acceptableAnswers": [
+            "butterflies",
+            "In the Time of the Butterflies",
+            "The butterflies"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Amitav Ghosh argues that the modern novel has failed to grapple with this phenomenon in his book The Great Derangement. For 10 points:",
+      "source": "qbreader",
+      "sourceId": "62ed60f81539231f571ee3ba"
+    },
+    {
+      "id": "503de41f-63e2-4bc2-b4e8-97184eb1dd4d",
+      "linkedTossupId": "346f7b15-e3c0-4b66-a3ee-76c924c5acfa",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this action. After being fired from his job for stripping naked and dancing in a fountain at a wedding, the protagonist of another novel befriends a gang of monkeys and becomes a holy man after performing this action.",
+          "answer": "climb",
+          "acceptableAnswers": [
+            "climb",
+            "descriptions like living",
+            "staying in a guava tree",
+            "accept The Woman Who Climbed Trees",
+            "The climb"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Apart from Hullabaloo in the Guava Orchard, this other Kiran Desai novel contains a scene in which the orphaned Sai climbs a tree to see her math tutor Gyan approaching, foreshadowing their relationship.",
+          "answer": "Inheritance of Loss",
+          "acceptableAnswers": [
+            "Inheritance of Loss",
+            "The Inheritance of Loss"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An author with this surname discussed Tagore's habit of naming the plants in his garden in a book titled How I Became a Tree. An author with this surname wrote about the twins Estha and Rahel in The God of Small Things.",
+          "answer": "Roy",
+          "acceptableAnswers": [
+            "Roy",
+            "Arundhati Roy",
+            "accept Sumana Roy",
+            "The Roy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a 2023 novel by Smriti Ravindra, Meena is accused of being a witch by the residents of a Nepalese village after performing this title action in the dead of night. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67e338db63ef71fce09dfafc"
+    },
+    {
+      "id": "3910a589-66c2-41ac-a000-1b536f9ec62a",
+      "linkedTossupId": "bac18026-29fd-4639-ad25-ed35aaa72a17",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this imprisonment of members of a specific ethnic group during World War II.",
+          "answer": "internment",
+          "acceptableAnswers": [
+            "internment",
+            "equivalents that describe the forced imprisonment of Japanese-Americans during World War II",
+            "The internment"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Executive Order 9066, authorizing internment, was issued by this president in 1942.",
+          "answer": "F",
+          "acceptableAnswers": [
+            "F",
+            "FDR",
+            "prompt on Roosevelt"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At the time, J. Edgar Hoover was the leader of this U.S. agency, focused on domestic intelligence gathering and law enforcement, that helped to spy on Japanese-Americans.",
+          "answer": "Federal Bureau of Investigation",
+          "acceptableAnswers": [
+            "Federal Bureau of Investigation",
+            "FBI",
+            "The Federal Bureau of Investigation"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Supreme Court declared this legal in the case Korematsu v. U.S. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c770"
+    },
+    {
+      "id": "6367efc5-d1d1-439d-90b0-1a07682c2363",
+      "linkedTossupId": "c39daba5-dc53-4eda-b948-166535accac9",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with bone structure and types.",
+          "answer": "skull",
+          "acceptableAnswers": [
+            "skull"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the skull in the musculoskeletal system?",
+          "answer": "Bone structure and types",
+          "acceptableAnswers": [
+            "Bone structure and types"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to bone structure and types.",
+          "answer": "vertebra",
+          "acceptableAnswers": [
+            "vertebra"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "248c0eb7-cb99-4bcf-8ce2-b337ffebb1c6",
+      "linkedTossupId": "a3a9c23f-42a0-48cf-a752-720c996b4d83",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Kent Lansing struggles with architect Howard Roark over the building of the Aquitania Hotel in this novel by Ayn Rand.",
+          "answer": "Fountainhead",
+          "acceptableAnswers": [
+            "Fountainhead",
+            "The Fountainhead"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man gets in trouble during his time as a Kansas City bellhop in Theodore Dreiser's novel An American Tragedy. He later murders Roberta Alden on a lake.",
+          "answer": "Clyde",
+          "acceptableAnswers": [
+            "Clyde",
+            "Clyde Griffiths",
+            "The Clyde"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This card game is played in the town of Fort Romper, Nebraska by the characters in Stephen Crane's story \"The Blue Hotel.\" A cowboy often whacks the board when he gets a good hand in this game.",
+          "answer": "High-Five",
+          "acceptableAnswers": [
+            "High-Five",
+            "The High-Five"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about hotels in American literature.",
+      "source": "qbreader",
+      "sourceId": "62df8ab610329be735a33f3e"
+    },
+    {
+      "id": "637d2d69-f3d3-4775-bc26-cbbc7108c844",
+      "linkedTossupId": "bf92a30e-768d-42e4-a0da-dbfaa1022953",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this American author whose visit to Native American cliff dwellings at Mesa Verde inspired their appearance in several of her works. She also wrote O Pioneers! and My Ántonia.",
+          "answer": "Cather",
+          "acceptableAnswers": [
+            "Cather",
+            "The Cather"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cliff-dwellings in a Panther Canyon are described in Part Four of this Cather novel, which follows Thea Kronborg's rise to fame as an opera singer.",
+          "answer": "Song of the Lark",
+          "acceptableAnswers": [
+            "Song of the Lark",
+            "The Song of the Lark"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Cather novel includes a diary detailing the discovery of an abandoned cliff settlement by Tom Outland, a deceased student of the nostalgic title character, Godfrey St. Peter.",
+          "answer": "Professor’s House",
+          "acceptableAnswers": [
+            "Professor’s House",
+            "The Professor’s House"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Tip Smith tells a story about a destroyed Indian settlement on the title place in this author's \"The Enchanted Bluff.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0dd60"
+    },
+    {
+      "id": "60a27f97-2823-438c-be8e-1031b3ac25d8",
+      "linkedTossupId": "97a880bc-ce05-442c-b318-76f96b38f40a",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The ABCD matrices are only applicable when this assumption holds. This form of the small-angle approximation only holds when a ray's deviation from an axis is much less than 1 radian.",
+          "answer": "paraxial",
+          "acceptableAnswers": [
+            "paraxial",
+            "The paraxial"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "For a thin lens, the C element of the ABCD matrix equals negative one over this value. One over this value gives a quantity usually measured in diopters, called the optical power.",
+          "answer": "focal length",
+          "acceptableAnswers": [
+            "focal length",
+            "f",
+            "The focal length"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "When ray tracing an interface, the beam vector matrix is modified by multiplying theta by a quantity describing this phenomenon. This phenomenon occurs when light bends moving between media, like air and water.",
+          "answer": "refraction",
+          "acceptableAnswers": [
+            "refraction",
+            "The refraction"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about the ABCD matrices used in ray tracing calculations:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7df08e"
+    },
+    {
+      "id": "213df83f-5356-4341-be12-9ef2c6e95733",
+      "linkedTossupId": "0dde65dd-6962-41c8-9b59-58d8f55890c8",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these four objects personified by the four sons of Horus, each of one was meant for a different organ.",
+          "answer": "canopic jar",
+          "acceptableAnswers": [
+            "canopic jar",
+            "just “jars”",
+            "The canopic jar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Duamutef, the personification of the canopic jar for the stomach, was protected by this goddess of hunting and weaving. In some traditions, she was considered the mother of Sobek.",
+          "answer": "Neith",
+          "acceptableAnswers": [
+            "Neith",
+            "Neit",
+            "Nit",
+            "Net",
+            "The Neith"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Duamutef had the head of this animal, as did the underworld deity Anubis.",
+          "answer": "jackal",
+          "acceptableAnswers": [
+            "jackal",
+            "“dog”",
+            "“canine”",
+            "The jackal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These objects were personified by the four deities Imsety, Duamutef, Hapi, and Qebehsenuef, who each also had a companion goddess to protect them. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32e2883e2636cb3c9626f"
+    },
+    {
+      "id": "e060ded6-c1f0-4687-a44a-8bb112eb4c92",
+      "linkedTossupId": "66812c04-9035-4d5d-bb0a-99b8df37505c",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this belief system, many of whose ideas are collected in the Analects.",
+          "answer": "Confucianism",
+          "acceptableAnswers": [
+            "Confucianism",
+            "word forms",
+            "The Confucianism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Confucius' grandson Zisi supposedly taught this man, the most famous interpreter of Confucius' ideas. His namesake book is one of the Four Books of Confucianism.",
+          "answer": "Mencius",
+          "acceptableAnswers": [
+            "Mencius",
+            "Meng Zi",
+            "The Mencius"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the so-called Chinese Rites controversy, members of this Christian order argued that Confucianism was not actually a religion. Leaders of this order included Claudio Acquaviva and Peter Faber.",
+          "answer": "Jesuit",
+          "acceptableAnswers": [
+            "Jesuit",
+            "Society of Jesus",
+            "The Jesuit"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This belief system promotes five virtues, including ren and li. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31944"
+    },
+    {
+      "id": "c6b18c9b-2e3b-4c8c-836f-7c9f60d4cedc",
+      "linkedTossupId": "62f0dcc9-a2e5-49da-a124-6127ee5cfcc6",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this style, characterized by blues chord progressions above a repeated bass figure, that is featured in Movement I from the piano piece Excursions.",
+          "answer": "boogie-woogie",
+          "acceptableAnswers": [
+            "boogie-woogie",
+            "The boogie-woogie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The piano piece Excursions was written by this American composer, who wrote the extremely unsuccessful opera Antony and Cleopatra and the substantially more successful opera Vanessa.",
+          "answer": "Barber",
+          "acceptableAnswers": [
+            "Barber",
+            "The Barber"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Barber's most famous work is an adagio for this group of instruments, which is the largest section in a standard symphony orchestra.",
+          "answer": "strings",
+          "acceptableAnswers": [
+            "strings",
+            "The strings"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Mitsuko Uchida once claimed that a section of the Arietta from Beethoven's 32nd piano sonata resembled music in this style. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "640020a88d3cf1e72e2347a7"
+    },
+    {
+      "id": "e2d349cd-9f49-407d-8fd9-cfce3ce7a848",
+      "linkedTossupId": "12b11ad1-eb55-4c89-bbc7-a0dcf15c89dd",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This man acceded to the position of foreign secretary that year after Castlereagh's suicide. He took affirmative steps to prevent Spanish interference in Latin American independence movements.",
+          "answer": "Canning",
+          "acceptableAnswers": [
+            "Canning",
+            "The Canning"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Canning also retreated from his predecessor's policy of opposing Russian-backed Greek independence. That reversal culminated with this battle in 1827, in which the British, French, and Russian fleets crushed a joint Ottoman-Egyptian fleet.",
+          "answer": "Navarino",
+          "acceptableAnswers": [
+            "Navarino",
+            "The Navarino"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "British policy returned to its anti-Russian stance during the period of this man's influence between 1830 and his death in 1865. This man intervened on behalf of the Ottoman dynasty to put down the Egyptian revolt of Mohammed Ali Pasha.",
+          "answer": "Palmerston",
+          "acceptableAnswers": [
+            "Palmerston",
+            "The Palmerston"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The aim of British foreign policy after the Congress of Vienna was preservation of the ancien regime in every European state. All of that changed in 1822. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ceda0f"
+    },
+    {
+      "id": "d67dbeb3-6bc6-4080-b37b-f669a11553c0",
+      "linkedTossupId": "c5b54dd2-9951-4369-b70a-27cd4599cc07",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with spleen functions.",
+          "answer": "lymph",
+          "acceptableAnswers": [
+            "lymph"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the lymph in the immune system?",
+          "answer": "Spleen functions",
+          "acceptableAnswers": [
+            "Spleen functions"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to spleen functions.",
+          "answer": "lymph node",
+          "acceptableAnswers": [
+            "lymph node"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "8f23bc64-1ffa-46f0-8ad0-46162d7e9d68",
+      "linkedTossupId": "01359477-0f4c-469b-bae6-4b58b1e02105",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this often maligned art form commonly found on street walls. Other artists who used this medium include Sever and the Haitian-born Jean-Michel Basquiat [BAS-KEE-OUGHT].",
+          "answer": "graffiti",
+          "acceptableAnswers": [
+            "graffiti",
+            "The graffiti"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This English-born graffiti artist, who is only known by his pseudonym, directed the street art film Exit Through the Gift Shop. His work in Bristol includes an image of a naked man hanging from a window.",
+          "answer": "Banksy",
+          "acceptableAnswers": [
+            "Banksy",
+            "The Banksy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Banksy used graffiti to decorate portable toilets in order to create a copy of this landmark. This landmark, largely comprised of menhirs, is located on Salisbury Plain.",
+          "answer": "Stonehenge",
+          "acceptableAnswers": [
+            "Stonehenge",
+            "The Stonehenge"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Practitioners of this art form include the creator of the \"Death of Street Art\" mural. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63059e1543cf0201876232fb"
+    },
+    {
+      "id": "ee22a18c-4798-419d-8df1-69fc5eae8639",
+      "linkedTossupId": "400467df-cb4e-4975-8ca0-2db4b6f0bba4",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this London borough, where Henry VIII, Mary I, and Elizabeth I were born in the Tudor Palace of Placentia, which was demolished after the civil war for buildings used as part of a Royal Hospital for Seamen.",
+          "answer": "Greenwich",
+          "acceptableAnswers": [
+            "Greenwich",
+            "The Greenwich"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The early Palace of Placentia in Greenwich was built for this man under the name Bella Court. This duke also names the oldest reading room in the Bodleian library and had a dubious marriage to Jacqueline of Hainault.",
+          "answer": "Humphrey",
+          "acceptableAnswers": [
+            "Humphrey",
+            "either underlined portion",
+            "The Humphrey"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "For his service in the Agincourt campaign, Humphrey was appointed warden of this group of towns in Kent and Sussex that provided naval forces for Anglo-Saxon and early medieval monarchs in return for tax privileges.",
+          "answer": "Cinque Ports",
+          "acceptableAnswers": [
+            "Cinque Ports",
+            "The Cinque Ports"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A building designed by Inigo Jones for Queen Anne of Denmark in this borough is often thought of as the first Palladian building in the UK. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636eeb10"
+    },
+    {
+      "id": "d21ba3d5-c042-4427-8ae9-be7cc900f799",
+      "linkedTossupId": "2ebfdea0-ac72-4b52-90bf-8182ddc602e8",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these clusters of genes that regulate transcriptional activity, and can include regions like the promoter and operator. An oft-studied one controls the expression of enzymes that break down lactose.",
+          "answer": "operon",
+          "acceptableAnswers": [
+            "operon",
+            "The operon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another well-studied operon regulates the production of this amino acid, which is coded for by the UGG codon. It is claimed that its eventual conversion into melatonin is responsible for post-turkey drowsiness.",
+          "answer": "tryptophan",
+          "acceptableAnswers": [
+            "tryptophan",
+            "trp operon",
+            "prompt on “W”",
+            "The tryptophan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Unlike the repressible trp operon, the lac operon is described by this term because while it is normally \"off\", it can be turned \"on\" again via the presence of certain molecules.",
+          "answer": "inducible",
+          "acceptableAnswers": [
+            "inducible",
+            "inducer",
+            "The inducible"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "They regulate gene expression for prokaryotes, and are absent in eukaryotes. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fdc23fc76481561474a136"
+    },
+    {
+      "id": "556cc53c-9a0a-4e94-8d49-5ddfe57250ed",
+      "linkedTossupId": "72ea56fa-d53b-4d4c-b99a-5f09fde9abd2",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "In practical applications, these constructs are used to achieve parallelism. Many can exist within one process, and data races and deadlocks in them tend to lead to really frustrating bugs.",
+          "answer": "Thread",
+          "acceptableAnswers": [
+            "Thread",
+            "The Thread"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the main building blocks of parallel algorithms is this operation, usually denoted \"star\". Its applications include being able to do array compaction in Big O of n work and Big O of log n time, and it works by going up and down a tree in parallel doing the namesake operation.",
+          "answer": "Prefix-Sums",
+          "acceptableAnswers": [
+            "Prefix-Sums",
+            "The Prefix-Sums"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another technique that comes up all the time in parallel algorithms is list ranking, like when you want to root one of these graphs where there exists one and only one path between any two nodes in the graph.",
+          "answer": "Tree",
+          "acceptableAnswers": [
+            "Tree",
+            "The Tree"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Mike Bentley was roped into writing this bonus rather than studying for a parallel algorithms test, so you all get to answer some shit about parallelism, For 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b108b"
+    },
+    {
+      "id": "360cc110-09d8-4b92-93d9-9d9981d08c10",
+      "linkedTossupId": "e7c2f919-090b-4e5c-a569-6141a8f8d3de",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this character who leads a gang of droogs that include Pete, Georgie, and Dim.",
+          "answer": "Alex",
+          "acceptableAnswers": [
+            "Alex",
+            "either",
+            "The Alex"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Alex receives the Ludovico technique in this dystopian novel by Anthony Burgess.",
+          "answer": "Clockwork Orange",
+          "acceptableAnswers": [
+            "Clockwork Orange",
+            "The Clockwork Orange"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Later in the novel, Dim becomes a police officer along with this man, who earlier in the novel lead a rival gang that clashes with Alex and his droogs.",
+          "answer": "Billyboy",
+          "acceptableAnswers": [
+            "Billyboy",
+            "The Billyboy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This 908`character is tortured by a man named F. Alexander whom he had previously assaulted. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67b3c0226aa8a3da38aa7f33"
+    },
+    {
+      "id": "25e6ab43-e0df-4326-8b5b-8667aabaa293",
+      "linkedTossupId": "1d23ce54-4480-4842-819f-cbd7201d8f7f",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Give the name of that peninsula which is home to the city of Dakar. This is also the name of a Portuguese-speaking archipelagic country in the Atlantic whose capital is Praia.",
+          "answer": "Cape Verde",
+          "acceptableAnswers": [
+            "Cape Verde",
+            "Cap-Vert peninsula",
+            "Cabo Verde",
+            "The Cape Verde"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Dakar is located on this African country's Cape Verde peninsula, which is the westernmost point of the continent. This country's major languages include French and Wolof and it entirely surrounds the Gambia.",
+          "answer": "Senegal",
+          "acceptableAnswers": [
+            "Senegal",
+            "The Senegal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The country of Cape Verde is a part of the broader Macaronesia region, which also includes this country's Canary Islands. This European country's capital and largest city is Madrid.",
+          "answer": "Spain",
+          "acceptableAnswers": [
+            "Spain",
+            "The Spain"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A peninsula with this name is home to a pair of hills called the \"Two Teats\" and Léopold Sédar Senghor International Airport. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f2d45f2ad3e45a654f2c3e"
+    },
+    {
+      "id": "e14f8f71-ff07-4585-8f59-5e6a06cc6d01",
+      "linkedTossupId": "003104c4-660c-4b7d-a28f-29d7cf1fee03",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This Borges short story features a world with seemingly infinite hexagonal rooms, each containing books with every single permutation of 25 basic characters. In it, the \"Purifiers\" search for the special \"Crimson Hexagon.\"",
+          "answer": "The Library of Babel",
+          "acceptableAnswers": [
+            "The Library of Babel",
+            "“La Biblioteca de Babel”",
+            "Library of Babel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this story, Ts'ui Pen renounces his job as governor of Yunnan to write a vast and intricate novel and to construct an equally magnificent labyrinth, one \"in which all men would lose their way.\"",
+          "answer": "The Garden of Forking Paths”",
+          "acceptableAnswers": [
+            "The Garden of Forking Paths”",
+            "“El Jardín de senderos que se bifurcan”",
+            "Garden of Forking Paths”"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Both \"The Library of Babel\" and \"The Garden of Forking Paths\" are featured in this collection by Borges. Many of the works in this collection were translated into English by James E. Irby in the book Labyrinths.",
+          "answer": "Ficciones",
+          "acceptableAnswers": [
+            "Ficciones",
+            "Fictions",
+            "The Ficciones"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Jose Luis Borges frequently wrote about sprawling labyrinths. For 10 points each, name some things about some of his works that feature them:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974243fa"
+    }
+  ]
+}

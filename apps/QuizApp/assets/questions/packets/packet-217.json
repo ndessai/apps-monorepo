@@ -1,0 +1,1161 @@
+{
+  "packetId": "packet-217",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Literature",
+    "Science",
+    "Geography",
+    "Human Body",
+    "Mythology",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "6266c0ba-737b-407f-a03b-e7381b47d844",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "This group celebrates its survival on the National Holiday at Tahlequah. A member of this group, Stand Watie, led the last Confederate forces to surrender during the Civil War. A faction of this group, the Ridge Party, went against the wishes of John Ross and signed the Treaty of New Echota. Sequoyah created the written language for this tribe. Despite the decision in Worcester v. Georgia, this tribe's sovereignty was denied by Andrew Jackson. For 10 points, name this Native American tribe, the largest forcibly removed during the Trail of Tears.",
+      "powerMarkPosition": 284,
+      "answer": "Cherokee",
+      "acceptableAnswers": [
+        "Cherokee",
+        "The Cherokee"
+      ],
+      "source": "qbreader",
+      "sourceId": "63080c092e43e86a5be1aa6f"
+    },
+    {
+      "id": "079fd857-cbae-4f54-abf2-2825d0902a1f",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "In one novel by this author, Angelo writes with ink made of ground up bones after Niccolo's death in the play The Courier's Tragedy. Benny Profane and Stencil investigate the title entity of this author's novel V. The protagonist of a novel by this author visits John Nefastis and investigates an organization whose symbol is a muted posthorn, the Trystero. The line \"a screaming comes across the sky\" opens this author's novel about Tyrone Slothrop, who can predict V-2 rocket strikes. For 10 points, name this author of The Crying of Lot 49 and Gravity's Rainbow.",
+      "powerMarkPosition": 327,
+      "answer": "Pynchon",
+      "acceptableAnswers": [
+        "Pynchon",
+        "The Pynchon"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7e59"
+    },
+    {
+      "id": "38ebd51e-9467-4cee-ab22-edc90d506ae2",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "Garrett Lisi defined a \"universal reservoir\" for a quantum mechanical analogue of this quantity, which can be produced by Wick rotations on a Feynman path integral. One principle describing this quantity can be unified with the maximum entropy principle since path uncertainty can be measured by the Shannon information. General relativity uses the Einstein-Hilbert type of this quantity which yields the Einstein field equations, and the shape of the trajectory of this quantity over two specific endpoints is determined through Maupertuis' principle. The Euler-Lagrange equation for this quantity of a system yields the evolution of a classical system, and the functional derivative of this quantity with respect to generalized coordinates goes to zero in accordance with Hamilton's principle. For 10 points, identify this quantity which is defined as the time integral over a given path of the Lagrangian of a system, and is symbolizes S.",
+      "powerMarkPosition": 320,
+      "answer": "action",
+      "acceptableAnswers": [
+        "action",
+        "The action"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e43e30eb21ef1b791018a4"
+    },
+    {
+      "id": "5f5d18a1-0822-4f1a-bab3-dd9112fb2474",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "During the Revolutionary War, this state was the site of a failed attempt by John Sullivan to recapture Aquidneck Island. This state was the site of the Great Swamp Fight, and later saw the death of the Wampanoag leader Metacomet in King Philip's War. It also saw an incident where the Sons of Liberty raided and burned the grounded HMS Gaspée. Samuel Ward King opposed electoral reform in this state, leading to the Dorr Rebellion, and it was home to the Narragansetts. For 10 points, name this state founded by an exile from Massachusetts, Roger Williams, who named it after a Greek island.",
+      "powerMarkPosition": 251,
+      "answer": "Rhode Island",
+      "acceptableAnswers": [
+        "Rhode Island",
+        "The Rhode Island"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1c0b"
+    },
+    {
+      "id": "b5b7ff8f-a2c9-455a-8a7a-67658c4bc12f",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "William Widgery Thomas encouraged Protestant Swedes to settle in the north of this state. After an 1854 anti-Catholic riot in this state's town of Bath, the Know-Nothing party became prominent here due to its large numbers of French and Irish Catholics. A politician who represented this state names a proposed amendment to public funding for parochial schools. This state's holding of elections for Governor, Senators, and congressmen in September gave rise to the saying \"As [this state] goes, so goes the nation\" though some say it was because in 1851, Protestants in this state got it to become the first to ban alcohol. A politician from this state had his presidential hopes crushed when a supporter called the Democrats the party of \"Rum, Romanism, and Rebellion\" in 1884. For 10 points, identify this state represented by \"Plumed Knight\" James G. Blaine.",
+      "powerMarkPosition": 472,
+      "answer": "Maine",
+      "acceptableAnswers": [
+        "Maine",
+        "The Maine"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d484"
+    },
+    {
+      "id": "a7fd38f7-ac91-4ea1-908f-539cf020dc65",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "This body of water is known to the Chorotega people as Cocibolca and the Solentiname Islands are located in its south. A city whose name means \"place of mosquitos,\" Moyogalpa, is the main port on this lake's largest island, Ometepe; that island is home to two volcanoes, Maderas and Concepción. Located twelve miles from the Pacific Ocean, this lake also contains a population of bull sharks, which were once thought to be its own species. It drains into the Caribbean Sea via the San Juan River, which Cornelius Vanderbilt used along with this lake to create an ocean-to-ocean route before the Panama Canal was built. For 10 points, identify this lake, the largest in Central America, which is named after a country with its capital at Managua.",
+      "powerMarkPosition": 324,
+      "answer": "Lake Nicaragua",
+      "acceptableAnswers": [
+        "Lake Nicaragua",
+        "Lake Colcibolca before it is read",
+        "The Lake Nicaragua"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6ee2cbd63208bfe3ee"
+    },
+    {
+      "id": "d024089e-2417-431c-857f-afe8aad79af3",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for cardiac muscle features. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this sarcomere-related structure.",
+      "powerMarkPosition": 75,
+      "answer": "Sarcomere",
+      "acceptableAnswers": [
+        "sarcomere",
+        "Sarcomere"
+      ],
+      "explanation": "The sarcomere is a key component of the Musculoskeletal system, involved in cardiac muscle features.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "fa734fe0-68f4-41bc-8d77-ac53d876b516",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "They're not PCBs, but Frits Zernike invented one type of these devices that incorporates an annular ring. These devices take a z-stack and perform a nearest neighbor deconvolution in a technique that may use FITC. A Nomarski prism consisting of two birefringent crystal wedges is used in one type of these devices to generate differential interference. To maximize the quantity \"n sine theta\", certain components of these devices can be immersed in oil. A pinhole with a diameter of 1 Airy unit is commonly used in the \"confocal\" type of these devices. These devices can have \"phase contrast\" and traditional \"brightfield\" modes. For 10 points, the objective lens collects light passing through the sample in what devices that are used to view very small objects?",
+      "powerMarkPosition": 448,
+      "answer": "microscope",
+      "acceptableAnswers": [
+        "microscope",
+        "differential interference contrast microscopes",
+        "DIC microscopes",
+        "accept confocal microscopes",
+        "accept phase contrast microscopes",
+        "accept brightfield microscopes",
+        "The microscope"
+      ],
+      "source": "qbreader",
+      "sourceId": "6884698e641a9dc975af879a"
+    },
+    {
+      "id": "a054fc6e-331b-475e-9f40-83687e813923",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "Journalists covering this conflict were asked \"artillery side or car bomb side?\" when checking into the Commodore. Faction leaders on multiple sides of this conflict recruited using their connections as zu'ama, or patronage kingpins. A peacekeeping \"deterrent force\" allied with the Marada Movement was repulsed from the capital during part of this conflict called the Hundred Days' War. Fighters contested a Holiday Inn venue along the Corniche (\"core-NEESH\") promenade during this conflict's \"Battle of the Hotels.\" The Tigers Militia clashed with the Kataeb movement during this fifteen-year-long war, which concluded via the Taif Agreement. It began with clashes between Bachir Gemayel and Camille Chamoun's faction against the PLO. For 10 points, name this conflict between Maronite Christians and Muslims in a country north of Israel.",
+      "powerMarkPosition": 493,
+      "answer": "Lebanese Civil War",
+      "acceptableAnswers": [
+        "Lebanese Civil War",
+        "answers indicating a civil war in Lebanon",
+        "The Lebanese Civil War"
+      ],
+      "source": "qbreader",
+      "sourceId": "68aa6f7deb7f936a9a15e395"
+    },
+    {
+      "id": "939f0a5a-be20-4e15-8e75-7b6a03820d04",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "One group of these creatures were controlled by a copper staff belonging to Phaethusa, whose sister Lampetia described a slaughter of them carried out by Eurylokhos. Eight of these animals were dragged by their tails to throw their owner off the trail by a fire-breathing monster named Cacus. Another set of them was protected by a two-headed offspring of Typhon and Echidna named Orthrus. The infant Hermes stole a group of these animals belonging to Apollo. Odysseus sacrificed a group of them belonging to Helios, dooming his crew. A group of red ones originally belonging to a three-headed giant were sacrificed by Eurystheus after being stolen as part of Heracles' Tenth Labor. For 10 points, name these animals herded by Geryon.",
+      "powerMarkPosition": 380,
+      "answer": "cattle",
+      "acceptableAnswers": [
+        "cattle",
+        "oxen",
+        "accept equivalent like cows",
+        "bulls",
+        "etc",
+        "accept more specific answers like cattle of Geryon",
+        "cattle of Helios",
+        "The cattle"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54adc25"
+    },
+    {
+      "id": "0a4aac17-325e-4dee-b6bf-f87b12054b4f",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "Alexis Carrel headed a \"Foundation for the Study of Human Problems\" during this regime, which sought to create a selective reproduction program. This government operated internment camps in Gurs and Drancy for Jews living under it. It adopted a new motto of \"Work, Family, Fatherland\" to replace that of the Third Republic, which it succeeded. This regime, whose name derives from its capital located in a spa town, was headed by Pierre Laval and a hero of the Battle of Verdun named Philippe Petain. For 10 points, name this French government which collaborated with Nazi Germany during World War II.",
+      "powerMarkPosition": 307,
+      "answer": "Vichy",
+      "acceptableAnswers": [
+        "Vichy",
+        "French State",
+        "l’État français",
+        "The Vichy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fdc23fc76481561474a1d4"
+    },
+    {
+      "id": "8201d167-9d7c-4b98-b202-5f3278e3f5f5",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "These animals are sold on a road in front of the Salpêtriѐre asylum in a painting by Rosa Bonheur. In another painting, four of these animals are depicted with their legs stretched outward in a way that Eadward Muybridge's photographs deemed anatomically impossible. In a different painting, the names \"Hannibal\" and \"Karolus Magnus\" are carved into rocks below one of these animals. A white one of these animals appears in The Charging Chasseur by Théodore Géricault, who painted them racing in The Derby at Epsom. For 10 points, name this animal, which Napoleon rides in Napoleon Crossing the Alps.",
+      "powerMarkPosition": 301,
+      "answer": "horse",
+      "acceptableAnswers": [
+        "horse",
+        "The horse"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7debd9"
+    },
+    {
+      "id": "ac348134-bb57-4a74-b02b-27f947d69aa8",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "In a short story by this author, the narrator believes he sees an elephant and its keeper shift in their size disparity on the day the elephant disappears from its cage. In another of his stories, the title creature asks the narrator for help fighting a worm that will cause an earthquake in the title city in three days. This author of \"The Elephant Vanishes\" and \"Super-Frog Saves Tokyo\" created the character \"The Rat\" in a trilogy that ended with the novel A Wild Sheep Chase. For 10 points, what Japanese author is known for his inclusion of cats and dry wells in novels like The Wind-Up Bird Chronicle and Kafka on the Shore.",
+      "powerMarkPosition": 321,
+      "answer": "Murakami",
+      "acceptableAnswers": [
+        "Murakami",
+        "The Murakami"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b5318d"
+    },
+    {
+      "id": "5802ade1-db67-457e-be74-f99fe3cd66ed",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "Some stories credit them with introducing the cult of the Muses and founding the city of Ascra. They were buried in Anthedon, but would eventually end up bound against a column by writhing snakes in Tartarus. Conceived by waves that washed over the lap of Triops' daughter, Eriboea sabotaged one of their schemes, which was performed to avenge Adonis, by telling Hermes where he could find the great bronze jar in which they had captured Ares. These sons of Iphimedia, who were sometimes known as the \"Aloadae,\" were killed when a deer ran between them and each of the twins hit his brother trying to kill it. FTP identify these sons of Poseidon who tried to pile up the mountains so that they could reach the land of the Gods to capture Artemis and Hera.",
+      "powerMarkPosition": 291,
+      "answer": "Otus and Ephialtes",
+      "acceptableAnswers": [
+        "Otus and Ephialtes",
+        "The Otus and Ephialtes"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d9443bcb996cf5df5a8227"
+    },
+    {
+      "id": "5c333c1f-4a17-4b31-8e4d-282c025b2fc9",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "This author wrote about an ape behaving like a human, Red Peter, in \"A Report to an Academy.\" In another work by this man, the Officer is killed by a torture machine as he attempts to carve \"Be Just\" into his back. This author of \"In the Penal Colony\" described the bank employee Joseph K.'s reasonless arrest in The Trial, and wrote a novel that begins with Gregor Samsa waking up as vermin. For 10 points, name this author of The Metamorphosis.",
+      "powerMarkPosition": 279,
+      "answer": "Kafka",
+      "acceptableAnswers": [
+        "Kafka",
+        "The Kafka"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318aca9e"
+    },
+    {
+      "id": "1ec2ff56-ee04-4e87-a25b-5551803f014d",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "In one of this composer's works, a soprano begs for relief from the \"balmy breezes\" and the \"crystal streams.\" An instrumental interlude for string orchestra and two oboes in B-flat major features in another piece by this composer, in which the chorus pleads with zephyrs to extend the sleep brought on by nightingales. Edmond Budry set the lyrics of his Easter hymn \"Thine Be The Glory\" to the tune of a chorus by this composer, whose original lyrics were written by Thomas Morell and proclaim \"Sound the trumpets! Beat the drums!\" The sinfonia known as \"Arrival of the Queen of Sheba\" opens Act 3 of another piece by this composer, who also wrote the chorus \"See, the conqu'ring hero comes.\" For 10 points, name this composer of the oratorios Susannah, Solomon and Judas Maccabaeus.",
+      "powerMarkPosition": 319,
+      "answer": "Handel",
+      "acceptableAnswers": [
+        "Handel",
+        "The Handel"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df3a4b1c64d9772f738b09"
+    },
+    {
+      "id": "cc86f082-a526-4060-be8a-623227d6d608",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "Floods of this body of water devastated crops in 1927 and 1993. A bridge across this body of water at St. Anthony Falls collapsed in 2007, killing thirteen. During the New Madrid Earthquake, this river flowed in reverse. Two bridges across this river are named for Huey P. Long in the state that houses this river's delta. For 10 points, what North American River drains much of the United States and travels from Minnesota to the Gulf of Mexico in Louisiana?",
+      "powerMarkPosition": 220,
+      "answer": "Mississippi",
+      "acceptableAnswers": [
+        "Mississippi",
+        "Missouri River until “St. Anthony Falls”",
+        "The Mississippi"
+      ],
+      "source": "qbreader",
+      "sourceId": "639f7290036417219c961c6f"
+    },
+    {
+      "id": "6b149083-4978-402c-8da9-d303d848f6f5",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "After returning from exile in New Orleans, he began to travel in his trademark black carriage. He oversaw the writing of the Plan of Ayutla which outlined the principles of the rebellion against Santa Anna. As minister of justice under Igancio Comonfort, he issued a namesake law which restricted the roles of the church and army in government. He fled Mexico City in 1858 to establish a rival government at Veracruz. For 10 points-name this man who was president of Mexico before and after the empire of Maximillian.",
+      "powerMarkPosition": 206,
+      "answer": "Juárez",
+      "acceptableAnswers": [
+        "Juárez",
+        "The Juárez"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a984207d"
+    },
+    {
+      "id": "50b4396f-df42-4fee-8dac-21cc16df34a5",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "The respective applicability of sets of two and four of these equations is a fundamental difference between the anomalous and regular Zeeman effects. A relation that is in some sense a generalization of these entities gives the probability rate as two pi over Dirac's constant times the state density times the square modulus of a perturbation matrix element. The aforementioned Fermi Golden Rule gives quantitative information about the processes about which these laws give qualitative information because these relations are derived in general by considering the inner products of wave functions for different quantum numbers such that transitions between states with those numbers follow one of these when that inner product is non-zero. For 10 points, name these strictures from quantum perturbation theory that often correspond to conservation of quantities like angular momentum and that dictate which quantum transitions are allowed.",
+      "powerMarkPosition": 359,
+      "answer": "selection rule",
+      "acceptableAnswers": [
+        "selection rule",
+        "transition rules before “transitions” and prompt on it afterwards",
+        "prompt on convervation relations",
+        "similar",
+        "The selection rule"
+      ],
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e62e61"
+    },
+    {
+      "id": "a6cfa7db-7b9a-424e-952b-61d6ec4f1e32",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "The speaker of a poem by this author dreams of a chamber where scenes from The Romance of the Roseare painted on the walls;that poem concludes with the speaker deciding \"That I will, in process of time / Strive to put this dream in rhyme.\" The narrator of another poem by this author witnesses Nature denying requests for an eagle's hand; that poem includes an early reference to Valentine's Day as being a romantic occasion. The two title characters of another poem by this author are separated when one is offered as a prisoner of war by her father Calchas. This author inserts himself into a work where he recounts the Aeneid and is guided by the Eagle to the title structure. For 10 points, name this poet of Troilus and Criseyde, The House of Fame,and The Parlement of Foules, who wrote about pilgrims traveling to Thomas Becket's shrine in The Canterbury Tales.",
+      "powerMarkPosition": 379,
+      "answer": "Chaucer",
+      "acceptableAnswers": [
+        "Chaucer",
+        "The Chaucer"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0af349"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "54531cd2-cd33-4fd2-be16-54b33e9eb91d",
+      "linkedTossupId": "6266c0ba-737b-407f-a03b-e7381b47d844",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This petroleum-based company was founded in Ohio in 1870, and quickly established a near-monopoly on the business; it was broken up in 1911 under the Sherman Antitrust Act.",
+          "answer": "Standard Oil",
+          "acceptableAnswers": [
+            "Standard Oil",
+            "The Standard Oil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This industrialist founded Standard Oil and he invested heavily in philanthropic projects. One massive donation from him helped to fund the University of Chicago.",
+          "answer": "Rockefeller",
+          "acceptableAnswers": [
+            "Rockefeller",
+            "The Rockefeller"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This muckraking journalist investigated the practices of Standard Oil and published her famous exposé on the company in McClure's Magazine.",
+          "answer": "Tarbell",
+          "acceptableAnswers": [
+            "Tarbell",
+            "The Tarbell"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "America during the aftermath of the Civil War saw the rise of a number of massive corporations. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe723"
+    },
+    {
+      "id": "4e612adc-f372-4fa0-8534-68246d8294eb",
+      "linkedTossupId": "079fd857-cbae-4f54-abf2-2825d0902a1f",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Richard Adams novel in which Hazel and Bigwig succeed in rescuing a group of females from Efrafa and begin a new life in the title warren.",
+          "answer": "Watership Down",
+          "acceptableAnswers": [
+            "Watership Down",
+            "The Watership Down"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The characters in Watership Down are this kind of animal. Another of these animals has three sisters named Flopsy, Mopsy, and Cottontail, and unwisely enters Mr. McGregor's garden.",
+          "answer": "rabbit",
+          "acceptableAnswers": [
+            "rabbit",
+            "The rabbit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author wrote stories about the Puddle-Ducks and Tom Kitten, as well as stories about Flopsy, Mopsy, Cottontail, and Peter Rabbit.",
+          "answer": "Potter",
+          "acceptableAnswers": [
+            "Potter",
+            "The Potter"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A collection of \"Tales\" published as a sequel to this novel contains stories of the trickster hero El-ahrairah. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318acb0a"
+    },
+    {
+      "id": "eec29a9d-696e-4003-920c-1395636f1063",
+      "linkedTossupId": "38ebd51e-9467-4cee-ab22-edc90d506ae2",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this technique that typically uses blue light to activate transgenic channelrhodopsin-2 under a cell-specific promoter, allowing temporally-precise neuromodulation.",
+          "answer": "optogenetics",
+          "acceptableAnswers": [
+            "optogenetics",
+            "The optogenetics"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "ChR2 was first isolated from the Chlamydomonas (kluh-MID-uh-MOH-nuss) genus of this colorful paraphyletic (pair-uh-fuh-LEH-tic) clade that includes Charophytes and Chlorophytes like sea lettuce and Volvox.",
+          "answer": "green alga",
+          "acceptableAnswers": [
+            "green alga",
+            "algae",
+            "do not accept \"blue-green algae\"",
+            "The green alga"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "NpHR, or halorhodopsin, is found in a class of salt-loving extremophiles from these prokaryotes that comprise a third domain distinct from eukaryotes and bacteria.",
+          "answer": "archaea",
+          "acceptableAnswers": [
+            "archaea",
+            "The archaea"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "NpHR is used in a form of this technique that hyperpolarizes excitable cells with yellow light pulses. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490c15c"
+    },
+    {
+      "id": "bb879139-3685-42b0-b0ba-1e4f2f2c4f63",
+      "linkedTossupId": "5f5d18a1-0822-4f1a-bab3-dd9112fb2474",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this city, which would be abandoned by the plebeian class as acts of protests against the ruling patricians. The Tribunes Tiberius and Gaius Gracchus weakened the power of this city's Senate.",
+          "answer": "Rome",
+          "acceptableAnswers": [
+            "Rome",
+            "Roma",
+            "The Rome"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This formulator of the \"concordia ordium\" was a legendary orator and authored a book on rhetoric. Mark Antony's wife Fulvia stabbed this man's tongue with pins as revenge for this man's Philippics targeting Antony and the Second Triumvirate.",
+          "answer": "Cicero",
+          "acceptableAnswers": [
+            "Cicero",
+            "The Cicero"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While consul, Cicero gave a series of speeches questioning the Senate's patience and thus exposing a 63 BC conspiracy led by this senator and dissidents of Sulla to overthrow the consulship.",
+          "answer": "Catilina",
+          "acceptableAnswers": [
+            "Catilina",
+            "Catiline",
+            "the Catiline Conspiracy",
+            "The Catilina"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A politician in this city pursued \"concordia ordinum,\" or \"harmony between the classes.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eeaca03c2fca34d39ed829"
+    },
+    {
+      "id": "4a6cc138-769b-47cd-93aa-0ca7859e999e",
+      "linkedTossupId": "b5b7ff8f-a2c9-455a-8a7a-67658c4bc12f",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these people. In 15th century Spain, Tomas de Torquemada hunted for marranos, those among these people who retained their old faith in secret.",
+          "answer": "Jews",
+          "acceptableAnswers": [
+            "Jews",
+            "conversos",
+            "Judaizers",
+            "The Jews"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Conversos in Toledo were scapegoated for this 1520 rebellion, in which Castilian cities rebelled against the regent Adrian of Utrecht before being crushed at the Battle of Villalar [vee-yah-lar].",
+          "answer": "Comuneros",
+          "acceptableAnswers": [
+            "Comuneros",
+            "The Comuneros"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Many Portuguese Jews reached the Ottoman Empire thanks to the network of this wealthy Sephardic woman, who convinced Suleiman the Magnificent to offer protection to Jews in Ancona. Her nephew received the title Duke of Naxos from Selim II, whom he persuaded to take Cyprus from Venice.",
+          "answer": "Mendes",
+          "acceptableAnswers": [
+            "Mendes",
+            "either underlined portion",
+            "The Mendes"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Statutes enacted in Toledo barred these people from holding office under the doctrine of limpieza de sangre. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c08d5b3dc7dc712c77f0"
+    },
+    {
+      "id": "3ff9649b-008d-4544-be8e-1d89f8631490",
+      "linkedTossupId": "a7fd38f7-ac91-4ea1-908f-539cf020dc65",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this action. A common legend states that the King of Siam did this action to punish people because they could not handle the upkeep costs.",
+          "answer": "elephants",
+          "acceptableAnswers": [
+            "elephants",
+            "any description about giving a white elephant to somebody",
+            "sending elephants",
+            "The elephants"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An earlier threat from Botswana involved putting 10,000 elephants in this specific location. Horse riding is popular on Rotten Row in this location, which also contains the Serpentine Lido.",
+          "answer": "Hyde Park",
+          "acceptableAnswers": [
+            "Hyde Park",
+            "London",
+            "The Hyde Park"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Botswana was much more successful in giving some elephants to this neighboring country. Tourists to this country often fly into its capital of Luanda.",
+          "answer": "Angola",
+          "acceptableAnswers": [
+            "Angola",
+            "Republic of Angola",
+            "República de Angola",
+            "The Angola"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Description acceptable. Mokgweetsi (\"MOEK-wayt-see\") Masisi, the president of Botswana, threatened to do this action after Germany tried to prevent hunting trophies from being exported there. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67cb4e0fa4d5f0b0e22abf33"
+    },
+    {
+      "id": "aa61d446-e18c-4c37-9d15-44d42a37deac",
+      "linkedTossupId": "d024089e-2417-431c-857f-afe8aad79af3",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with t cells and cell-mediated immunity.",
+          "answer": "T cell",
+          "acceptableAnswers": [
+            "T cell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the T cell in the immune system?",
+          "answer": "T cells and cell-mediated immunity",
+          "acceptableAnswers": [
+            "T cells and cell-mediated immunity"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to t cells and cell-mediated immunity.",
+          "answer": "B cell",
+          "acceptableAnswers": [
+            "B cell"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "4880c7c2-0343-4a84-a6c9-a1c5d7d2efbc",
+      "linkedTossupId": "fa734fe0-68f4-41bc-8d77-ac53d876b516",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this set of objects, which includes four terrestrial planets, two gas giants, and two ice giants, as well as the star they orbit.",
+          "answer": "solar system",
+          "acceptableAnswers": [
+            "solar system",
+            "planets",
+            "The solar system"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The initial Nice model accurately described this period of time in which a disproportionately large number of asteroids are thought to have collided with the inner planets.",
+          "answer": "Late Heavy Bombardment",
+          "acceptableAnswers": [
+            "Late Heavy Bombardment",
+            "LHB",
+            "The Late Heavy Bombardment"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Nice model also explains the asteroid belt's capture of many D-type asteroids, such as this dwarf planet and largest object in the asteroid belt. NASA's Dawn spacecraft entered its atmosphere in early 2015.",
+          "answer": "Ceres",
+          "acceptableAnswers": [
+            "Ceres",
+            "The Ceres"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the Nice model, this set of objects migrates away from their initial conformations after the dissipation of their protoplanetary disks. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531ffa61a9ba79f357c2"
+    },
+    {
+      "id": "c4477cd2-d51e-4579-8710-cd229b65fc16",
+      "linkedTossupId": "a054fc6e-331b-475e-9f40-83687e813923",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This showman displayed \"Zip the Pinhead,\" the Siamese twins Chang and Eng, and a bearded lady named Josephine in his museum. This co-owner of a circus with James Bailey said, \"There's a sucker born every minute.\"",
+          "answer": "Barnum",
+          "acceptableAnswers": [
+            "Barnum",
+            "Phineas Taylor Barnum",
+            "The Barnum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of P. T. Barnum's best-known \"freaks\" was the dwarf Charles Stratton, who famously had this alliterative two-word nickname. This was also the name of a locomotive Peter Cooper designed for the B & O Railroad.",
+          "answer": "Tom Thumb",
+          "acceptableAnswers": [
+            "Tom Thumb",
+            "partial answers",
+            "The Tom Thumb"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ota Benga, a Congolese pygmy held in the Bronx Zoo, was displayed with Geronimo in a human zoo at this event. This event included a reenactment of the Second Boer War and the talking horse Beautiful Jim Key.",
+          "answer": "St. Louis World’s Fair",
+          "acceptableAnswers": [
+            "St. Louis World’s Fair",
+            "the 1904 World’s Fair",
+            "the Louisiana Purchase Exhibition",
+            "prompt on “1904 Summer Olympics”",
+            "“St. Louis Summer Olympics”",
+            "The St. Louis World’s Fair"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about the history of human zoos in the United States:",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db45ee9"
+    },
+    {
+      "id": "7667a542-dacf-4c24-bddf-c482f49eca54",
+      "linkedTossupId": "939f0a5a-be20-4e15-8e75-7b6a03820d04",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this kami who fled Yomi, the Japanese underworld, after seeing the now hideous appearance of his wife Izanami.",
+          "answer": "Izanagi",
+          "acceptableAnswers": [
+            "Izanagi",
+            "Izanaki",
+            "The Izanagi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Izanami was not allowed to leave Yomi because she had done this specific action. A description is acceptable.",
+          "answer": "eat",
+          "acceptableAnswers": [
+            "eat",
+            "equivalents indicating the consumption of food that is cooked in the underworld",
+            "accept Yomi-no-kuni in place of “underworld”",
+            "prompt on answers that mention eating",
+            "The eat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After returning from Yomi, Izanagi washed himself, which resulted in the birth of offspring including Amaterasu. Through her grandson Ninigi, she is an ancestor of the holders of this ceremonial office, such as the current holder Naruhito.",
+          "answer": "Emperor",
+          "acceptableAnswers": [
+            "Emperor",
+            "Tenno",
+            "The Emperor"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This deity slayed his son Kagutsuchi, the kami of fire, because his wife died in pain while giving birth to him. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b19b7"
+    },
+    {
+      "id": "5257f510-1682-4e93-ad61-8ec933f0e31a",
+      "linkedTossupId": "0a4aac17-325e-4dee-b6bf-f87b12054b4f",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This war scare at a namesake town on the White Nile River was the last serious dispute between Britain and France.",
+          "answer": "Fashoda Incident",
+          "acceptableAnswers": [
+            "Fashoda Incident",
+            "The Fashoda Incident"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Anglo-Egyptian Treaty of 1936 gave Britain permission to place troops in Egypt in order to protect this important artificial waterway.",
+          "answer": "Suez Canal",
+          "acceptableAnswers": [
+            "Suez Canal",
+            "The Suez Canal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Suez Canal was nationalized by this 2nd President of Egypt in July 1956, precipitating its namesake Crisis.",
+          "answer": "Nasser",
+          "acceptableAnswers": [
+            "Nasser",
+            "The Nasser"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Shortly after this faceoff between Britain and France in 1898, the two countries agreed on what their areas of influence in Egypt and the Sudan would be. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edc1ba974521c293e4962f"
+    },
+    {
+      "id": "4bb60f25-3610-4572-8a86-9bf739aae812",
+      "linkedTossupId": "8201d167-9d7c-4b98-b202-5f3278e3f5f5",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this woman, whose limestone bust, excavated in 1912, is on display at the New Museum in Berlin.",
+          "answer": "Nefertiti",
+          "acceptableAnswers": [
+            "Nefertiti",
+            "The Nefertiti"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Nefertiti was a queen of this ancient kingdom, whose other artistic achievements included the Great Pyramid of Giza and the Sphinx.",
+          "answer": "Egypt",
+          "acceptableAnswers": [
+            "Egypt",
+            "Upper Egypt",
+            "Lower Egypt",
+            "The Egypt"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The bust of Nefertiti was excavated from this Egyptian city. This city's artistic style depicts the pharaoh with feminine hips and breasts, possibly explained by an illness suffered by Akhenaten.",
+          "answer": "Amarna",
+          "acceptableAnswers": [
+            "Amarna",
+            "The Amarna"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a sculpture, this woman is wearing a blue crown with a golden diadem wrapped around it. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aeb45"
+    },
+    {
+      "id": "9602ad99-cde1-4075-9ed7-46a13d52f34d",
+      "linkedTossupId": "ac348134-bb57-4a74-b02b-27f947d69aa8",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this tetralogy that includes Spring Snow and The Decay of the Angel, in which Shigekuni Honda encounters his friend Kiyoaki Matsugae's reincarnations as an accomplished young man, a princess, and an orphan.",
+          "answer": "Sea of Fertility",
+          "acceptableAnswers": [
+            "Sea of Fertility",
+            "The Sea of Fertility"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Japanese author wrote The Sea of Fertility. This author of Confessions of a Mask also described the former acolyte Mizoguchi's choice to burn down the title structure in The Temple of the Golden Pavilion.",
+          "answer": "Mishima",
+          "acceptableAnswers": [
+            "Mishima",
+            "Kimitake Hiraoka",
+            "The Mishima"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After failing to inspire a military coup, Mishima performed this action. In a Sophocles play, Ajax performs this action with a blade that had been given to him by Hector.",
+          "answer": "suicide",
+          "acceptableAnswers": [
+            "suicide",
+            "seppuku",
+            "any answer making it clear that he kills himself",
+            "The suicide"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the first part of this work, Satoko joins a convent to avoid marrying a prince. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0ba5c"
+    },
+    {
+      "id": "53de8dc3-e9ff-4ecf-836b-47a5a31e835f",
+      "linkedTossupId": "5802ade1-db67-457e-be74-f99fe3cd66ed",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this object whose burning led to the death of Meleager, who could only live as long as it remained intact.",
+          "answer": "wood",
+          "acceptableAnswers": [
+            "wood",
+            "brand",
+            "log",
+            "equivalents",
+            "The wood"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This mother of Meleager and wife of Oeneus originally overheard the Fates at Meleager's birth and rescued the brand from the fire, but burned it to avenge Meleager's killing of her brother and nephew.",
+          "answer": "Althaea",
+          "acceptableAnswers": [
+            "Althaea",
+            "The Althaea"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Meleager killed his relatives during the hunt for the Calydonian type of this animal, which was sent out by Artemis to avenge a snub in worship.",
+          "answer": "boar",
+          "acceptableAnswers": [
+            "boar",
+            "The boar"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This object was destroyed in retaliation for the killing of Toxeus and Plexippus, who insulted Atalanta. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423188"
+    },
+    {
+      "id": "838a1bba-b802-4ec2-993a-fa58280e12ac",
+      "linkedTossupId": "5c333c1f-4a17-4b31-8e4d-282c025b2fc9",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this poem, which asks \"what rough beast\" \"slouches towards Bethlehem to be born?\" after stating that the title event \"is at hand\".",
+          "answer": "Second Coming",
+          "acceptableAnswers": [
+            "Second Coming",
+            "The Second Coming"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This poet of \"The Lake Isle of Innisfree\" and \"The Second Coming\" stated that \"An aged man is but a paltry thing\", and that \"this is no country for old men\" in his poem Sailing to Byzantium.",
+          "answer": "Yeats",
+          "acceptableAnswers": [
+            "Yeats",
+            "The Yeats"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After an Irish rebellion in 1916, Yeats stated that \"a terrible beauty is born\" in a poem titled after this holiday, which celebrates Jesus's resurrection and is preceded by Lent.",
+          "answer": "Easter",
+          "acceptableAnswers": [
+            "Easter",
+            "The Easter"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this poem, the writer declares that \"the centre cannot hold\" and that \"the falcon cannot hear the falconer\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e1420"
+    },
+    {
+      "id": "f435d0fe-29f7-4bcb-881c-663d71f0d418",
+      "linkedTossupId": "1ec2ff56-ee04-4e87-a25b-5551803f014d",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the Baroque painter of masterful landscapes like The Embarkation of the Queen of Sheba.",
+          "answer": "Lorrain",
+          "acceptableAnswers": [
+            "Lorrain",
+            "Claude Gellee",
+            "The Lorrain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other landscape artist greatly admired Claude Lorrain. He painted Salisbury Cathedral \"from the Meadows\" and \"from the Bishop's Grounds\" as well as \"The Hay Wain.\"",
+          "answer": "Constable",
+          "acceptableAnswers": [
+            "Constable",
+            "The Constable"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Constable made paintings titled for this place in 1802 and in 1828. This place on the Essex-Suffolk border was the location of many of Constables landscapes involving the Stour river.",
+          "answer": "Dedham Vale",
+          "acceptableAnswers": [
+            "Dedham Vale",
+            "The Dedham Vale"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This artist is the namesake of \"black mirrors\" that were used to smooth changes in tone in landscape paintings, and he painted works like Coast View with the Abduction of Europa in the 1640s. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587597c49"
+    },
+    {
+      "id": "86b76d89-74b1-4df5-963d-c10fdb893660",
+      "linkedTossupId": "cc86f082-a526-4060-be8a-623227d6d608",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this large rock unit in the northern United States, whose oil productivity has expanded rapidly in the past few years due to directional drilling and hydraulic fracturing.",
+          "answer": "Bakken",
+          "acceptableAnswers": [
+            "Bakken",
+            "The Bakken"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The increased productivity of the Bakken formation has aided in the population growth of Williston in this state. The oil boom helped produce this state's lowest-in-the-U.S. unemployment rate.",
+          "answer": "North Dakota",
+          "acceptableAnswers": [
+            "North Dakota",
+            "The North Dakota"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The large Elm Coulee Oil Field is likewise in the Williston basin, but is located across the border from the city of Williston, in this neighboring state.",
+          "answer": "Montana",
+          "acceptableAnswers": [
+            "Montana",
+            "The Montana"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This geological formation is home to the Parshall Oil Field. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54af13c"
+    },
+    {
+      "id": "b4483533-b956-47d7-93dc-0c95f65f5e50",
+      "linkedTossupId": "6b149083-4978-402c-8da9-d303d848f6f5",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this biggest public works project in U.S. history, which was started in 1956 under Dwight D. Eisenhower. This federal project built thousands of miles of roads, whose numbers end with zero if they go east-west.",
+          "answer": "Interstate",
+          "acceptableAnswers": [
+            "Interstate",
+            "The Interstate"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This First Lady led the effort to pass the Highway Beautification Act. This native of Austin bought radio and TV stations with her inheritance to help fund the political career of her husband, who was also a Texas Democrat.",
+          "answer": "Johnson",
+          "acceptableAnswers": [
+            "Johnson",
+            "Claudia Alta Taylor",
+            "The Johnson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The \"generic\" appearance of interstates has often been unfavorably contrasted with older federal roads like this U.S. highway. Many victims of the Dust Bowl went west along this road, which runs from Chicago to Santa Monica.",
+          "answer": "Route 66",
+          "acceptableAnswers": [
+            "Route 66",
+            "The Route 66"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This project was almost entirely paid for by a federal gas tax. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a4961"
+    },
+    {
+      "id": "ef124a88-2206-4fce-9e77-95ccd01f604a",
+      "linkedTossupId": "50b4396f-df42-4fee-8dac-21cc16df34a5",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Intracellular synthesis of nanoparticles of this metal from fungi can be visually detected when hyphae (\"HAI-fee\") turn a purple-red color. Samples for electron microscopy are commonly coated with nanoparticles of this precious metal.",
+          "answer": "gold",
+          "acceptableAnswers": [
+            "gold",
+            "Au",
+            "The gold"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The properties of the nanoparticles synthesized using this process depend on competing processes like Ostwald ripening and aggregation. Iron oxide nanoparticles are often synthesized with this process, which induces normally soluble particles to react and simultaneously undergo nucleation, growth, and aggregation.",
+          "answer": "coprecipitation",
+          "acceptableAnswers": [
+            "coprecipitation",
+            "precipitation",
+            "The coprecipitation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "When synthesizing nanoparticles in suspensions, this phenomenon is applied to make sure they are evenly dispersed. Cavitation induced by this phenomenon breaks up agglomerates of nanoparticles.",
+          "answer": "sound",
+          "acceptableAnswers": [
+            "sound",
+            "sound waves",
+            "accept ultrasound",
+            "accept sonication",
+            "accept ultrasonication",
+            "accept acoustic vibrations",
+            "prompt on vibrations",
+            "The sound"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about ways to synthesize nanoparticles, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db467f8"
+    },
+    {
+      "id": "b917e295-b349-45e0-ae28-b277193b1524",
+      "linkedTossupId": "a6cfa7db-7b9a-424e-952b-61d6ec4f1e32",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this short story in which Pahom needs to walk around as large an area as he can, so long as he returns to the starting point by sundown. In the end, he runs so hard that he drops dead.",
+          "answer": "How Much Land Does a Man Need",
+          "acceptableAnswers": [
+            "How Much Land Does a Man Need",
+            "“How Much Land Does a Man Require?”",
+            "“Mnoga li cheloveku zemli nuzhna?”",
+            "The How Much Land Does a Man Need"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"How Much Land Does a Man Need?\" was a story by this man, the author of novellas such as Hadji Murad and The Death of Ivan Ilyich.",
+          "answer": "Tolstoy",
+          "acceptableAnswers": [
+            "Tolstoy",
+            "The Tolstoy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Death of Ivan Ilyich, Ilyich is a judge with a terminal illness who dies when performing this activity. Description acceptable.",
+          "answer": "falling while hanging up his curtains",
+          "acceptableAnswers": [
+            "falling while hanging up his curtains",
+            "gratuitously and be lenient",
+            "The falling while hanging up his curtains"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The main character of this story proclaims that \"if I had plenty of land, I shouldn't fear the Devil himself,\" upon which Satan accepts his challenge. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a8448"
+    }
+  ]
+}

@@ -1,0 +1,1161 @@
+{
+  "packetId": "packet-167",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Philosophy",
+    "Fine Arts",
+    "Human Body",
+    "Mythology",
+    "Literature",
+    "Science"
+  ],
+  "tossups": [
+    {
+      "id": "acab76b5-694d-4f92-ad2e-097ba9ba1457",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "This ruler was forced to return the Maastricht to the Netherlands in the Treaties of Nijmegen [nigh-MAY-guhn]. This ruler's so-called \"daughters\" were women recruited to populate a New World colony. Jean-Baptiste Colbert was a minister of this ruler. In addition to starting the War of Devolution, this ruler faced a rebellion of noblemen and Parliament, called the Fronde, who opposed Cardinal Mazarin. Many Huguenots were displaced after this ruler issued the 1685 Edict of Fontainebleau, which revoked the Edict of Nantes. The Palace of Versailles [vair-SIGH] was ordered to be constructed by, for 10 points, what longest-ruling \"Sun King\" of France?",
+      "powerMarkPosition": 394,
+      "answer": "Louis XIV",
+      "acceptableAnswers": [
+        "Louis XIV",
+        "Louis the Great",
+        "Louis le Grand",
+        "prompt on the Sun King before mention",
+        "prompt on Louis",
+        "The Louis XIV"
+      ],
+      "source": "qbreader",
+      "sourceId": "64c4601ce6811c453d40dcac"
+    },
+    {
+      "id": "351718a3-2e14-44d6-b18d-cf7d661b1efb",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "This justice may have been nominated to the Supreme Court after the president watched him give a speech at Harvard titled \"The Soldier's Faith.\" An article by Zechariah Chafee criticizing an opinion by this justice may have influenced his dissent in Abrams v. US. In his dissent on a case concerning the constitutionality of the Bakeshop Act, this justice declared, \"the Fourteenth Amendment does not enact Mr. Herbert Spencer's Social Statics.\" This dissenter in Lochner v. New York introduced the \"clear and present danger\" test in Schenck v. US, where he wrote that free speech would not protect someone \"shouting fire in a crowded theater.\" For 10 points, name this associate justice of the Supreme Court and son of a famous poet.",
+      "powerMarkPosition": 259,
+      "answer": "Holmes",
+      "acceptableAnswers": [
+        "Holmes",
+        "The Holmes"
+      ],
+      "source": "qbreader",
+      "sourceId": "6797c22b6d78eee804a3778e"
+    },
+    {
+      "id": "7d828348-82f7-4e64-a099-8d696554fd77",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "This man stated in one work that God exists with the second highest degree of certainty. After this man was appointed Censor of Moral Philosophy at Christ Church, he drafted a series of lectures known as Essays on the Laws of Nature. This man argued against atheism but believed in the separation of church and state, and he also drafted the Fundamental Constitutions of Carolina. This author of A Letter Concerning Toleration described the mind at birth as a blank slate, or \"tabula rasa,\" in his Essay Concerning Human Understanding. For 10 points, name this English philosopher who claimed that men have the right to \"life, liberty, and property.\"",
+      "powerMarkPosition": 233,
+      "answer": "Locke",
+      "acceptableAnswers": [
+        "Locke",
+        "The Locke"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe596"
+    },
+    {
+      "id": "c3c97606-941b-4c9d-a600-8730add80855",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "This painting appears to the left of a trio of women, one of whom pulls on a pair of green stockings, in its artist's later painting The Models. The artist of this painting re-stretched its canvas to add a red, orange, and blue border that sets it off from its white frame. Two soldiers face away from the viewer in the background of this painting, while a blonde girl in an orange dress runs off towards a wooded area on its right side. A woman in the center of this painting sits in the shade and looks at a bouquet in her hands, while on its left side, a man in a red shirt reclines while smoking a pipe and a black dog sniffs the ground behind him. In the foreground of this painting, a woman with a black parasol has a monkey on a leash. For 10 points, name this pointillist masterpiece of Georges Seurat.",
+      "powerMarkPosition": 406,
+      "answer": "Sunday Afternoon",
+      "acceptableAnswers": [
+        "Sunday Afternoon",
+        "either underlined portion",
+        "accept either underlined portion of Un dimanche après-midi à l'Île de la Grande Jatte--1884",
+        "accept A Sunday on La Grande Jatte",
+        "accept “Isle” for “Island” in all cases",
+        "The Sunday Afternoon"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34bb3"
+    },
+    {
+      "id": "9fdad052-bfc3-41b4-a78a-019470bfc8f4",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for limbic system. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this cerebrum-related structure.",
+      "powerMarkPosition": 76,
+      "answer": "Cerebrum",
+      "acceptableAnswers": [
+        "cerebrum",
+        "Cerebrum"
+      ],
+      "explanation": "The cerebrum is a key component of the Nervous system, involved in limbic system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "95420f4d-fc5f-470a-8747-55969b0a3d5b",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "A shot in this film depicts the blood of a murdered businessman sizzling beside vegetables on a griddle. In this film, a man takes revenge for being headbutted at his job by hitting his assailant with a rod while he's taking a shower. After learning that the man that paid him for a hit is his mark's half-brother, an assassin in this film leaves the two tied up with a gun between them. A man in this film tears up his floor looking for Ritchie. In this film, a woman in a wheelchair cries after seeing the word \"available\" written on a billboard that used to display her advertising Enchant perfume. A montage in this film cuts between a man having sex with his pregnant sister-in-law and a gang beating up his brother Ramiro, a bank robber. This film's interwoven three acts are each titled for two of its characters, including Maru and \"El Chivo.\" For 10 points, name this film about three Mexico City stories linked by a car accident and dogs, the debut of Alejandro González Iñárritu (\"een-YAH-ree-too\").",
+      "powerMarkPosition": 720,
+      "answer": "Amores",
+      "acceptableAnswers": [
+        "Amores",
+        "Love’s a Bitch",
+        "The Amores"
+      ],
+      "source": "qbreader",
+      "sourceId": "67aecd57e40fc2c0d167613e"
+    },
+    {
+      "id": "d1f6f6a6-2274-4183-9b75-592150a92b4e",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "With Merleau-Ponty, this thinker founded the journal Les Temps Modernes, which he edited. Three years after the publication of his main philosophical work, he produced the essay Existentialism is a Humanism, in which he continued his analysis of man's attempts to deal with reality through what he called \"bad faith\". He held that man is nothing at birth and condemned to be free, and distinguished two types of being, \"being-in-itself\" and \"being-for-itself\", in 1943's Being and Nothingness. For 10 points, who was this French thinker who also expressed his existentialist views in the novel Nausea and the play No Exit?",
+      "powerMarkPosition": 317,
+      "answer": "Jean-Paul Sartre",
+      "acceptableAnswers": [
+        "Jean-Paul Sartre",
+        "The Jean-Paul Sartre"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596f00"
+    },
+    {
+      "id": "123742bd-e564-4332-a01a-9bfffed9d9f9",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "One animal of this type was slaughtered in the same town as Cteatus and Eurytus, a pair of Siamese twins who attacked the slayer of that animal near Cleonae. The slayer of that creature of this type was received by Molorchus and had 30 days to kill it. That creature of this kind was thought to have fallen from the moon after being born from Selene or alternately the offspring of Typhon and Echidna. Impervious to arrows, one of these animals was stunned by a club and had his pelt worn by its slayer after Eurystheus acknowledged the deed. For 10 points, name this kind of animal, whose Nemean variety was killed by Hercules on his first labor.",
+      "powerMarkPosition": 252,
+      "answer": "lion",
+      "acceptableAnswers": [
+        "lion",
+        "The lion"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a45602b9"
+    },
+    {
+      "id": "6693fc25-ee76-40e8-b85d-93abb0d18793",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "In this story, a princess complains when her grandmother decorates her with eight oysters. This story's protagonist transforms into sea foam because she is unable to gain a human soul. After rescuing a handsome prince, this story's title character sells her voice to a sea-witch for a pair of legs, but fails to get a prince to fall in love with her. For 10 points, name this classic Hans Christian Anderson fable about a title ocean-dwelling girl.",
+      "powerMarkPosition": 172,
+      "answer": "Little Mermaid",
+      "acceptableAnswers": [
+        "Little Mermaid",
+        "The Little Mermaid"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2cd14"
+    },
+    {
+      "id": "231e7541-4c07-45dd-8866-4ba07f13585e",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "This artist recorded the most successful version of \"Wang Wang Blues.\" This bandleader popularized Mabel Wayne's song \"In a Little Spanish Town.\" With Fred Rose, this artist co-wrote \"Flamin' Mamie,\" and his orchestra also backed Billie Holiday's cover of \"Trav'lin Light.\" Despite declining in popularity, this artist's orchestra added members like Bunny Berigan and Jack Teagarden in the 1930s. This bandleader, who briefly rivaled Art Hickman, was catapulted to fame after a successful recording of the song \"Whispering.\" Critics accused this man of \"mak[ing] a lady out of jazz\" after he commissioned an orchestral piece by George Gershwin. For 10 points, name this bandleader nicknamed \"Pops\" who commissioned Rhapsody in Blue.",
+      "powerMarkPosition": 437,
+      "answer": "Whiteman",
+      "acceptableAnswers": [
+        "Whiteman",
+        "The Whiteman"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004e0b"
+    },
+    {
+      "id": "cf51dab9-37c2-4c8b-97e2-065809a813a1",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "All bound orbits are closed under the inverse square law and in this system, which are the only two central force systems with that property, per Bertrand's theorem. An infinite number of equally spaced energy levels and eigenstate wavefunctions that are proportional to normalized Hermite functions occur in this system's quantum analogue. The Q value, or quality factor, in these systems is determined by the ratio of stored energy to the energy dissipated per cycle, and varies inversely with the damping constant. The equation of motion for the \"simple\" type of these systems can be derived from Hooke's law. For 10 points, name these systems that exhibit sinusoidal motion, exemplified by a mass on a spring.",
+      "powerMarkPosition": 322,
+      "answer": "harmonic oscillator",
+      "acceptableAnswers": [
+        "harmonic oscillator",
+        "answers with prefixes",
+        "such as “quantum”",
+        "“damped”",
+        "“simple”",
+        "linear force",
+        "Hooke’s law until “energy levels” is read",
+        "The harmonic oscillator"
+      ],
+      "source": "qbreader",
+      "sourceId": "63052605c887e5458fc33034"
+    },
+    {
+      "id": "c0fc4865-f479-4f50-8181-55adc3b8ade2",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for pacemaker cells and sa node. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this atrium-related structure.",
+      "powerMarkPosition": 75,
+      "answer": "Atrium",
+      "acceptableAnswers": [
+        "atrium",
+        "Atrium"
+      ],
+      "explanation": "The atrium is a key component of the Cardiovascular system, involved in pacemaker cells and sa node.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "983b581f-51bc-46b6-a6f4-2e38e0a058f9",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "They wore belts that were sewn collectively by a thousand women to show support. Although there were supposed to be special okha or \"cherry blossoms\" built for them, the exigencies of the engagement pressed regular craft into service. The first recorded one struck off the coast of New Guinea and they were more effective than their underwater counterparts called \"heaven shifter\" or kaiten. Primarily deployed during the encounters at Leyte Gulf and Okinawa, these forces had a name meaning \"divine wind\" and emulated the Banzai charges of the Japanese infantry. For 10 points, give this term that names the Japanese suicide air force during World War II.",
+      "powerMarkPosition": 234,
+      "answer": "kamikaze",
+      "acceptableAnswers": [
+        "kamikaze",
+        "The kamikaze"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a98409d9"
+    },
+    {
+      "id": "41931da7-04bc-43fa-ba93-a1849873b1de",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "The expectation value of the derivative of this parameter appears on one side of the Hellman-Feynman theorem. In a periodic system, this operator commutes with the translation operator, leading to Bloch's theorem. The exponential of negative I times t times this parameter over h-bar gives the time evolution operator. Eigenstates of this operator do not change under a slow perturbation according to the adiabatic theorem. This operator of the wavefunction is equal to i h-bar times the time derivative of the wavefunction according to the time-independent Schrodinger equation. For 10 points, name this operator that returns the total energy of the system.",
+      "powerMarkPosition": 293,
+      "answer": "Hamiltonian",
+      "acceptableAnswers": [
+        "Hamiltonian",
+        "The Hamiltonian"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974228cc"
+    },
+    {
+      "id": "70aa89ba-c349-45d5-8371-b9845cd338e1",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "text": "Three bearded boarders threaten lawsuits after being scared off by the main character of this work. That protagonist has a sister named Greta who wants to study violin at the conservatory, and he dies after his father throws an apple at him that becomes stuck in his back. For 10 points, name this work in which Gregor Samsa wakes up one day to find that he has been changed into a bug, a work by Franz Kafka.",
+      "powerMarkPosition": 272,
+      "answer": "Metamorphosis",
+      "acceptableAnswers": [
+        "Metamorphosis",
+        "The Metamorphosis"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c405"
+    },
+    {
+      "id": "51d4abc0-1d87-41f7-80b9-221906746dfe",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "John Burgon won the 1845 Newdigate Prize for a poem about this site which calls it \"Not virgin-white like that old Doric shrine\". A large amphitheater at the base of the en-Nejr mountain is located here, as is an entrance to it the Siq. Crusaders recovered a castle (+) named al-Wu'ayra here after destroying some olive trees at a site where water sprang from a rock that Moses struck. The Roman province of Arabia had its capital at this location, and those Romans built a namesake road here in the late 1st century. This site, possibly home to the Tomb of Aaron, was lost until Johann Burckhardt rediscovered it in 1812. Also known as \"Rose City\" for the color of rock surrounding it, it was declared a UNESCO World Heritage site in 1985. For 10 points, name this ancient Nabatean city in present-day Jordan.",
+      "powerMarkPosition": 586,
+      "answer": "Petra",
+      "acceptableAnswers": [
+        "Petra",
+        "“Raqmu”",
+        "The Petra"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa59132015a1"
+    },
+    {
+      "id": "896377da-0f3f-4490-882e-7ef730758139",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "Uncouplers of this process include 2,4-dinitrophenol and cyanide. Resulting from the conversion of succinate to fumarate and the hydrogen ions delivered by NADH, intermediates in it include the cytochromes and coenzyme Q, also known as ubiquinone. Several iron ions along it are repeatedly oxidized and reduced, and it provides the gradient for ATP synthase, which then completes the process of chemiosmosis. Oxygen serves as the final acceptor of, For 10 points, what energy-producing pathway in the inner mitochondrial membrane involving negatively-charged particles?",
+      "powerMarkPosition": 247,
+      "answer": "electron transport",
+      "acceptableAnswers": [
+        "electron transport",
+        "The electron transport"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bca72e7fe60f397fb4a856"
+    },
+    {
+      "id": "5b392204-090e-415d-bf8c-24d55650a3e2",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "One disease of this organ causes the formation of Ghon's complex and ACE primarily converts angiotensin I to angiotensin II in this organ. Dome shaped club cells or Clara cells can secrete glycosaminoglycan in this organ, which has a feature known as the lingula. Cancer of this organ can result in Pancoast tumors and are divided into small-cell and non-small-cell types. Spirometers measure the capacity of this organ and the Pores of Kohn can separate alveoli in this organ. Attached to the bronchi, for ten points, name these organs in which oxygen and carbon dioxide are exchanged during respiration.",
+      "powerMarkPosition": 263,
+      "answer": "lung",
+      "acceptableAnswers": [
+        "lung",
+        "The lung"
+      ],
+      "source": "qbreader",
+      "sourceId": "646fffa69d2ba7804333faa7"
+    },
+    {
+      "id": "abf37673-dec7-4392-a3bd-c572970c67cd",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "Wax replicas of mangos were made in a loyalty frenzy after some were gifted to this leader by Pakistani Foreign Minister Pirzada. This person noted that \"the people alone, are the motive force of history\" at the beginning of an influential book. After the Lushan Conference, this leader purged Peng Dehuai from his government after Peng criticized one of this leader's five-year plan that created people's communes. This leader of the Red Army led his troops to Loushan Pass to escape Kuomintang forces in the Long March. For 10 points, name this first Chairman of the People's Republic of China who began the Cultural Revolution.",
+      "powerMarkPosition": 255,
+      "answer": "Mao",
+      "acceptableAnswers": [
+        "Mao",
+        "Runzhi",
+        "accept Cultural Revolution before “leader”",
+        "The Mao"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a54ec"
+    },
+    {
+      "id": "47f7de4e-5e00-4b5b-99d6-38eec157f490",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "The size of this set for the upper field over the lower field determines the degree of any field extension, whether it is Galois or not. The construction of this set is crucial for the Lagrange interpolation formula. These sets can be interchanged step-by-step with others of the same size, according to the most famous Replacement Theorem. In a common procedure, an element of this set is subtracted from its projection onto the previously-constructed elements, and then divided by the norm. A matrix M is transformed to a similar matrix, its conjugate p-M-p-inverse, under a change in this set. One of these sets can be orthonormalized with the Gram-Schmidt process. The coordinates of a vector are multiples of these vectors. The size of one of these sets is the dimension of its vector space. In R-3, the standard one consists of the vectors 1-0-0, 0-1-0, and 0-0-1. For 10 points, name these sets of linearly independent vectors that span a vector space.",
+      "powerMarkPosition": 576,
+      "answer": "basis",
+      "acceptableAnswers": [
+        "basis",
+        "bases",
+        "basis vectors",
+        "The basis"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0dbb2"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "5818f8aa-9358-4749-b7d9-0e78ce2b6043",
+      "linkedTossupId": "acab76b5-694d-4f92-ad2e-097ba9ba1457",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this massive iron and glass building constructed in London's Hyde Park that was designed by Joseph Paxton.",
+          "answer": "Crystal Palace",
+          "acceptableAnswers": [
+            "Crystal Palace",
+            "The Crystal Palace"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Crystal Palace housed the Great Exhibition of 1851, during which inventor Samuel Colt demonstrated several of these devices that improved upon earlier pepperbox designs. These devices famously \"won the west\".",
+          "answer": "revolver",
+          "acceptableAnswers": [
+            "revolver",
+            "“guns”",
+            "“firearms”",
+            "The revolver"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The construction of the Crystal Palace was overseen by a building committee that included this British engineer, who famously built the SS Great Britain and the Great Western Railway.",
+          "answer": "Brunel",
+          "acceptableAnswers": [
+            "Brunel",
+            "The Brunel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Benjamin Hawkins designed a set of dinosaur sculptures that were displayed in this structure, whose exterior extensively used the newly-introduced method of sheet glass production. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a409"
+    },
+    {
+      "id": "6da7f3ab-3fa0-484e-81ae-9b9cfabc0ea9",
+      "linkedTossupId": "351718a3-2e14-44d6-b18d-cf7d661b1efb",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This rebellion against the Qing dynasty was led by Hong Xiuquan (pronounced \"shoe chuan\"), who believed himself to be the brother of Jesus and declared himself \"king of heaven.\"",
+          "answer": "Taiping",
+          "acceptableAnswers": [
+            "Taiping",
+            "The Taiping"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this 1637 to 1638 uprising, a group of mostly Christian peasants led by teenager Masuda Shiro rebelled against the local daimyo; the failure of this rebellion caused the Tokugawa shogunate to strictly enforce its ban on Christianity.",
+          "answer": "Shimabara",
+          "acceptableAnswers": [
+            "Shimabara",
+            "The Shimabara"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Korean uprising shares its name with a religious movement that contained Christian elements despite its founder Choe Che-u's distaste of Western influence. Simultaneous Japanese and Chinese attempts to quell the rebellion led to the First Sino-Japanese War.",
+          "answer": "Tonghak",
+          "acceptableAnswers": [
+            "Tonghak",
+            "The Tonghak"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name the following Christianity-inspired rebellions in Asia, FTPE.",
+      "source": "qbreader",
+      "sourceId": "64683d300d0d0e5f184a3624"
+    },
+    {
+      "id": "b8de73e4-6ac9-4672-b61f-956a90f564e4",
+      "linkedTossupId": "7d828348-82f7-4e64-a099-8d696554fd77",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "You go through this Jewish coming-of-age ceremony in which children take responsibility for their actions. This ceremony is typically celebrated on the first Shabbat after the 13th birthday for boys or 12th for girls. The name for either is acceptable.",
+          "answer": "bar mitzvah",
+          "acceptableAnswers": [
+            "bar mitzvah",
+            "b’nei mitzvah",
+            "The bar mitzvah"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "To prepare for a Bar Mitzvah, you must study a central text to Judaism, and then do this action during the Bar Mitzvah. During an aliyah, a person is called up to the bimah to perform this action.",
+          "answer": "reciting",
+          "acceptableAnswers": [
+            "reciting",
+            "reading the Torah",
+            "leyning",
+            "accepting chanting",
+            "singing in place of “reciting”",
+            "prompt on “reading” by asking “reading what text”",
+            "The reciting"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Two months before a Bar Mitzvah, Jewish boys begin binding their arms with leather straps that are part of these black leather boxes. Inside these boxes, scrolls of parchment contain verses from the Torah.",
+          "answer": "tefillin",
+          "acceptableAnswers": [
+            "tefillin",
+            "phylactery",
+            "phylacteries",
+            "The tefillin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Mazel Tov, you're an adult now! Answer the following about your coming-of-age ceremony, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67e338d963ef71fce09df95c"
+    },
+    {
+      "id": "cfb120ea-ccc5-4a1a-aba5-a5ad16fc0bb6",
+      "linkedTossupId": "c3c97606-941b-4c9d-a600-8730add80855",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this painting that depicts Jacob wrestling an angel.",
+          "answer": "Vision After the Sermon",
+          "acceptableAnswers": [
+            "Vision After the Sermon",
+            "The Vision After the Sermon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Vision After the Sermon was painted by this artist, who also created Where Do We Come From? What Are We? Where Are We Going?",
+          "answer": "Gauguin",
+          "acceptableAnswers": [
+            "Gauguin",
+            "The Gauguin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Gauguin painting depicts three women praying to the title figure, who is on a crucifix. This painting is paired with a companion piece depicting the same figure in green.",
+          "answer": "Yellow Christ",
+          "acceptableAnswers": [
+            "Yellow Christ",
+            "Le Christ jaune",
+            "The Yellow Christ"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This painting's striking red background is divided in two by either a road or a tree. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a4560071"
+    },
+    {
+      "id": "5a194cc1-a018-4ab6-8c88-0fda2d2b2386",
+      "linkedTossupId": "9fdad052-bfc3-41b4-a78a-019470bfc8f4",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with gallbladder and bile.",
+          "answer": "liver",
+          "acceptableAnswers": [
+            "liver"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the liver in the digestive system?",
+          "answer": "Gallbladder and bile",
+          "acceptableAnswers": [
+            "Gallbladder and bile"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to gallbladder and bile.",
+          "answer": "bile",
+          "acceptableAnswers": [
+            "bile"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9e8e211e-78da-446b-8ed3-b06f2a1e80cb",
+      "linkedTossupId": "95420f4d-fc5f-470a-8747-55969b0a3d5b",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this manipulable recording medium used in John Cage's piece Williams Mix. Pauline Oliveros founded a center in the Bay Area dedicated to making music by manipulating recordings made in this medium.",
+          "answer": "tape",
+          "acceptableAnswers": [
+            "tape",
+            "tape music",
+            "tape loops",
+            "accept tape recorders",
+            "prompt on samplers",
+            "loopers",
+            "The tape"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This series of four albums by William Basinski was created by playing deteriorating tapes of found sound sources, allowing for cracks and pauses to appear as the tape moves past the tapehead. It is dedicated to the victims of 9/11, the day on which the project was completed.",
+          "answer": "Disintegration Loops",
+          "acceptableAnswers": [
+            "Disintegration Loops",
+            "The Disintegration Loops"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pierre Schaeffer, a composer from this country, used magnetic tape to pioneer musique concrète (\"myoo-ZEEK con-KRET\"). Other avant-garde electronic composers from this country include Edgard Varèse (\"vah-REZ\") and Pierre Boulez (\"boo-LEZ\").",
+          "answer": "France",
+          "acceptableAnswers": [
+            "France",
+            "The France"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Egyptian composer Halim El-Dabh created early electronic music by using several of these objects in his piece The Expression of Zaar. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6326bf0f692d593d1d7a8f59"
+    },
+    {
+      "id": "6fedafe3-833f-444c-a060-288311545b0a",
+      "linkedTossupId": "d1f6f6a6-2274-4183-9b75-592150a92b4e",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this ethnic group whose primary god is uNkulunkulu (\"oon-KOO-loon-KOO-loo\"). The Nazareth Baptist Church claims that its founder, a man of this ethnicity named Isaiah Shembe, invented a type of horn instrument that made global headlines in 2010.",
+          "answer": "Zulu",
+          "acceptableAnswers": [
+            "Zulu",
+            "amaZulu",
+            "The Zulu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Elders in the Nazareth Baptist Church wear the pelts of these animals, leading to concerns about poaching. African folktales provide various explanations as to how these big cats got their spots.",
+          "answer": "leopard",
+          "acceptableAnswers": [
+            "leopard",
+            "Panthera pardus",
+            "The leopard"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A Zulu proverb inspired this concept, a word roughly translating to \"I am because we are.\" Archbishop Desmond Tutu popularized a theology based on this concept that emphasizes our shared humanity.",
+          "answer": "ubuntu",
+          "acceptableAnswers": [
+            "ubuntu",
+            "humanity",
+            "The ubuntu"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Although most members of this ethnic group now practice Christianity, many still venerate their ancestors' spirits, or amadlozi. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6551b0912c809f9dfdac1ed3"
+    },
+    {
+      "id": "cf3f3ded-3c3e-45df-8037-146aa11db942",
+      "linkedTossupId": "123742bd-e564-4332-a01a-9bfffed9d9f9",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Freya slept with a number of these figures in exchange for the necklace Brisingamen, while a group of them known as the Sons of Ivaldi forged the spear Gungnir. These diminutive figures are often conflated with dark elves.",
+          "answer": "dwarves",
+          "acceptableAnswers": [
+            "dwarves",
+            "dvergar",
+            "prompt on Svartalfr",
+            "The dwarves"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Female figures called the Norns hang out under the roots of Yggdrasil near the Well of Urdr, and are roughly analogous to these Greek figures, three women known as Clotho, Lachesis, and Atropos.",
+          "answer": "Fate",
+          "acceptableAnswers": [
+            "Fate",
+            "Moirae",
+            "The Fate"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These deceased warriors are brought by valkyries to Valhalla, where they drink mead produced by the goat Heidrun and eat from the regenerating beast Saehrimnir in between bouts of fighting each other.",
+          "answer": "einherjar",
+          "acceptableAnswers": [
+            "einherjar",
+            "einheriar",
+            "The einherjar"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify some groups from Norse myth which are neither the Aesir nor the Vanir, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63bcab6bc6fadbe6166da3be"
+    },
+    {
+      "id": "07ba124d-e421-4536-b68f-16a344375963",
+      "linkedTossupId": "6693fc25-ee76-40e8-b85d-93abb0d18793",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel by Anthony Burgess, in which Alex and his \"droogs\" hang out at the Korova Milk Bar.",
+          "answer": "Clockwork Orange",
+          "acceptableAnswers": [
+            "Clockwork Orange",
+            "The Clockwork Orange"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The term \"droog\" means close friend in this language, which is spoken in A Clockwork Orange. This fictional language is a combination of mainly English and Russian.",
+          "answer": "Nadsat",
+          "acceptableAnswers": [
+            "Nadsat",
+            "The Nadsat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A woman named after one of these animals threatens to shoot Alex and set these animals on him. The \"Cheshire\" variety of one of these animals appears in Alice's Adventures in Wonderland.",
+          "answer": "cat",
+          "acceptableAnswers": [
+            "cat",
+            "the Cheshire Cat",
+            "The cat"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One character in this novel attempts suicide after hearing a symphony composed by Otto Skadelig. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7dee56"
+    },
+    {
+      "id": "0148ef18-3c51-4d91-bcaf-18db79ef4f68",
+      "linkedTossupId": "231e7541-4c07-45dd-8866-4ba07f13585e",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this French author who directed the 1946 film version of Beauty and the Beast and wrote about the destructive one-upmanship between siblings Elisabeth and Paul in his novel Les Enfants Terribles.",
+          "answer": "Cocteau",
+          "acceptableAnswers": [
+            "Cocteau",
+            "The Cocteau"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cocteau added Freudian themes to his Beauty and the Beast story by making this unusual choice, which only becomes obvious to the audience in the final scenes of the film after the Beast dies and is resurrected as a normal human.",
+          "answer": "played by the same actor as the antagonist",
+          "acceptableAnswers": [
+            "played by the same actor as the antagonist",
+            "reasonable equivalents",
+            "The played by the same actor as the antagonist"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cocteau wrote the libretto for Stravinsky's opera adaptation of this play, which had previously been analyzed by Freud. Cocteau's own adaptation of this play, The Infernal Machine, begins with the appearance of the ghost of the protagonist's father Laius.",
+          "answer": "Oedipus Rex",
+          "acceptableAnswers": [
+            "Oedipus Rex",
+            "Oedipus the King",
+            "The Oedipus Rex"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author frequently wore a black veil with two eye holes in it to cover up his horrific case of eczema. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "660a2cf638190d8ac17b43ac"
+    },
+    {
+      "id": "8b59ebb7-d685-4ed6-82f2-20963ef41095",
+      "linkedTossupId": "cf51dab9-37c2-4c8b-97e2-065809a813a1",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this alloy of iron and carbon which is often used in buildings and vehicles.",
+          "answer": "steel",
+          "acceptableAnswers": [
+            "steel",
+            "stainless steel",
+            "The steel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Unlike cast iron, steel's phase diagram does not have this point. For a mixture of two or more materials, this point is the composition where the entire mixture melts together at the lowest possible temperature.",
+          "answer": "eutectic",
+          "acceptableAnswers": [
+            "eutectic",
+            "The eutectic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Steel is stronger than pure iron but has a lower value for this property, a material's ability to be drawn into wires. This property is often contrasted with malleability.",
+          "answer": "ductility",
+          "acceptableAnswers": [
+            "ductility",
+            "word forms like ductile",
+            "The ductility"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The \"stainless\" variety of this alloy contains at least 11% chromium by weight. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f2d45f2ad3e45a654f2d3a"
+    },
+    {
+      "id": "7ae87e57-70a8-4508-b6df-0fe807962ee4",
+      "linkedTossupId": "c0fc4865-f479-4f50-8181-55adc3b8ade2",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with ventricles and csf.",
+          "answer": "cerebrum",
+          "acceptableAnswers": [
+            "cerebrum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cerebrum in the nervous system?",
+          "answer": "Ventricles and CSF",
+          "acceptableAnswers": [
+            "Ventricles and CSF"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to ventricles and csf.",
+          "answer": "cerebellum",
+          "acceptableAnswers": [
+            "cerebellum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "2a3ddd55-ad4d-4dc9-8691-a82550619bd6",
+      "linkedTossupId": "983b581f-51bc-46b6-a6f4-2e38e0a058f9",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Punjab city where that massacre occurred in the Jallianwala Bagh. A later raid of the Golden Temple in this city, Operation Blue Star, led to the assassination of Indira Gandhi by her Sikh bodyguards.",
+          "answer": "Amritsar",
+          "acceptableAnswers": [
+            "Amritsar",
+            "Ramdaspur",
+            "accept Ambarsar",
+            "The Amritsar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This British colonel was originally praised for perpetrating the Amritsar massacre to brutally punish disobedience of an order of curfew. He was eventually relieved of command as details of the massacre came to light.",
+          "answer": "Dyer",
+          "acceptableAnswers": [
+            "Dyer",
+            "The Dyer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Martial law was imposed in Amritsar due to protests in connection with this man's satyagraha movement. He led the Indian independence movement as a proponent of nonviolence, and famously conducted a salt march.",
+          "answer": "M",
+          "acceptableAnswers": [
+            "M",
+            "Mahatma Gandhi",
+            "prompt on Gandhi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A massacre in which shots were intentionally fired at the five exits took place at a location in this city with high walls on all sides. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af9742338a"
+    },
+    {
+      "id": "2d5999c2-cef2-4a74-adc2-da676f664ee5",
+      "linkedTossupId": "41931da7-04bc-43fa-ba93-a1849873b1de",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this property possessed by all Cauchy (\"ko-SHEE\") sequences in complete metric spaces.",
+          "answer": "convergence",
+          "acceptableAnswers": [
+            "convergence",
+            "sequential convergence",
+            "accept word forms",
+            "The convergence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One common proof to the Bolzano-Weierstrass theorem constructs a subsequence with this property, which must converge according to a namesake convergence theorem. Sequences with this property are strictly increasing or decreasing.",
+          "answer": "monotonic",
+          "acceptableAnswers": [
+            "monotonic",
+            "monotone convergence theorem",
+            "The monotonic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A related version of the Bolzano-Weierstrass theorem states that bounded sets of real numbers have one of these points, which is a point that can be approximated by other points in the set in the sense of neighborhoods.",
+          "answer": "limit",
+          "acceptableAnswers": [
+            "limit",
+            "accumulation point",
+            "The limit"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Bolzano-Weierstrass theorem guarantees that bounded sequences of real numbers have subsequences with this property.",
+      "source": "qbreader",
+      "sourceId": "62fbeb03c3c9bf58ab2ab9ce"
+    },
+    {
+      "id": "2f63e48b-4a39-44b2-911c-c8a9cd3de768",
+      "linkedTossupId": "70aa89ba-c349-45d5-8371-b9845cd338e1",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel in which the peasant boy Tom Canty and the Prince of Wales Edward Tudor switch roles in society. Edward vows to reign with mercy and kindness in this novel after experiencing the peasant lifestyle.",
+          "answer": "Prince and the Pauper",
+          "acceptableAnswers": [
+            "Prince and the Pauper",
+            "The Prince and the Pauper"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The author of The Prince and the Pauper also created this character. This character falls in love with Becky Thatcher and tricks other kids into whitewashing a fence for him.",
+          "answer": "Tom",
+          "acceptableAnswers": [
+            "Tom",
+            "either underlined part",
+            "The Tom"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This American author who invented Tom Sawyer also described a trip down the Mississippi River in The Adventures of Huckleberry Finn.",
+          "answer": "Twain",
+          "acceptableAnswers": [
+            "Twain",
+            "Samuel Langhorne Clemens",
+            "The Twain"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of the title characters of this novel uses the Great Seal of England as a nutcracker. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a50500"
+    },
+    {
+      "id": "2cb51921-fb33-497d-a29f-b0faead98062",
+      "linkedTossupId": "51d4abc0-1d87-41f7-80b9-221906746dfe",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this sustained aerial bombardment campaign that ran from 1965 to 1968 against Communist North Vietnam. While unsuccessful, it was the most sustained aerial campaign for the U.S. Air Force since World War II.",
+          "answer": "Rolling Thunder",
+          "acceptableAnswers": [
+            "Rolling Thunder",
+            "The Rolling Thunder"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The United States entered the Vietnam War after a 1964 incident in which the USS Maddox and Turner Joy were attacked in what body of water?",
+          "answer": "Tonkin",
+          "acceptableAnswers": [
+            "Tonkin",
+            "The Tonkin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Pulitzer winning work of history by Neil Sheehan profiled retired Lieutenant Colonel John Paul Vann and criticized American policies during the Vietnam War.",
+          "answer": "Bright Shining Lie",
+          "acceptableAnswers": [
+            "Bright Shining Lie",
+            "The Bright Shining Lie"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "During this campaign, American forces frequently used \"Wild Weasel\" hunter/killer teams. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382b35c9cc87abdd9a5a627"
+    },
+    {
+      "id": "2da5a07d-fcd5-492e-ab77-6b3999c0b5f2",
+      "linkedTossupId": "896377da-0f3f-4490-882e-7ef730758139",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this quantity that is said to be \"anomalous\" for the electron because its value deviates from a g-factor of 2. This quantity is equal to the ratio between potential energy and magnetic field strength.",
+          "answer": "magnetic moment",
+          "acceptableAnswers": [
+            "magnetic moment",
+            "magnetic dipole moment",
+            "accept anomalous magnetic moment",
+            "prompt on dipole moment",
+            "reject “electric dipole moment”",
+            "The magnetic moment"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The interaction between the magnetic moments of nuclei and quadrupole moments of electrons contributes to this feature. The 21-centimeter line in hydrogen occurs due to this feature.",
+          "answer": "hyperfine",
+          "acceptableAnswers": [
+            "hyperfine",
+            "The hyperfine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Electron magnetic moments are written in terms of this physicist's magneton constant. This physicist proposed a primitive model of the atom with electrons circularly orbiting a nucleus.",
+          "answer": "Bohr",
+          "acceptableAnswers": [
+            "Bohr",
+            "Niels Henrik David Bohr",
+            "accept Bohr model",
+            "Bohr magneton",
+            "The Bohr"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In an atomic nucleus, this quantity is proportional to the g-factor times the nuclear spin. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6551b0902c809f9dfdac1e5e"
+    },
+    {
+      "id": "d7acad3b-f86f-471a-926c-f37cde291f0e",
+      "linkedTossupId": "5b392204-090e-415d-bf8c-24d55650a3e2",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this process in which certain molecules adopt their 3-dimensional structure through the formation of structures like disulfide bridges. The hydrophobic effect is a major driver of this process.",
+          "answer": "protein folding",
+          "acceptableAnswers": [
+            "protein folding",
+            "The protein folding"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Protein folding is mediated by these other proteins that isolate the protein from the rest of the cytoplasm and include heat shock proteins such as Hsp60.",
+          "answer": "chaperone",
+          "acceptableAnswers": [
+            "chaperone",
+            "chaperonin s",
+            "The chaperone"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Errors in protein folding can lead to the creation of these infectious misfolded proteins, which cause fun diseases like Creutzfeldt-Jakob and mad cow.",
+          "answer": "prion",
+          "acceptableAnswers": [
+            "prion",
+            "The prion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The angles phi and psi govern outcomes of this process and can be visualized on a Ramachandran plot. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68bb81d5c87a3eecfecf52e1"
+    },
+    {
+      "id": "836dc263-6f35-4b41-a1c6-58115756444e",
+      "linkedTossupId": "abf37673-dec7-4392-a3bd-c572970c67cd",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Give this surname also held by another man who wrote the book Wonders of the Invisible World.",
+          "answer": "Mather",
+          "acceptableAnswers": [
+            "Mather",
+            "Increase Mather",
+            "Cotton Mather",
+            "The Mather"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After Robert Calef denounced him in the book More Wonders of the Invisible World, Increase Mather is said to have burned it in this institution's \"yard.\" Mather served as president of this university located in Cambridge, Massachusetts.",
+          "answer": "Harvard",
+          "acceptableAnswers": [
+            "Harvard",
+            "The Harvard"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Increase Mather was persecuted by this man for questioning his policies. A colony charter was hidden in a tree to prevent this Governor of the Dominion of New England from finding it.",
+          "answer": "Andros",
+          "acceptableAnswers": [
+            "Andros",
+            "The Andros"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One man with this surname published an account of King Phillip's War before citing the Malleus Maleficarum in his book Remarkable Providences. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68846989641a9dc975af872f"
+    },
+    {
+      "id": "3c664201-d412-47dc-90ba-e8579a6316a5",
+      "linkedTossupId": "47f7de4e-5e00-4b5b-99d6-38eec157f490",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this French physicist who demonstrated the rotation of the Earth using his namesake pendulum, many copies of which are found in museums and on college campuses.",
+          "answer": "Foucault",
+          "acceptableAnswers": [
+            "Foucault",
+            "The Foucault"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "When at thirty degrees north or south latitude, Foucault's pendulum takes this amount of time to return to its original position. It may help to remember that the sine of thirty degrees is one-half.",
+          "answer": "two day",
+          "acceptableAnswers": [
+            "two day",
+            "forty-eight hours",
+            "two sidereal days",
+            "accept equivalents",
+            "The two day"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Foucault also invented these devices, whose name comes from the Greek for \"circle watcher.\" Autopilot systems and Segways use these spinning instruments to maintain equilibrium.",
+          "answer": "gyroscope",
+          "acceptableAnswers": [
+            "gyroscope",
+            "The gyroscope"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man discovered eddy currents, and in the 1860s, he used a rotating mirror to measure the speed of light within one percent of the currently accepted value. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52196"
+    }
+  ]
+}

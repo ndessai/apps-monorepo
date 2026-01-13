@@ -1,0 +1,1131 @@
+{
+  "packetId": "packet-035",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Literature",
+    "Fine Arts",
+    "Human Body",
+    "Science",
+    "History",
+    "Philosophy",
+    "Geography"
+  ],
+  "tossups": [
+    {
+      "id": "8591ee28-d8f9-4e21-a44b-cc891efb2034",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "In a play by this author, the experience of seeing a unicorn is \"thinned\" into seeing a horse with an arrow stuck in its head. In a play by this author, Bernard Nightingale owns a tortoise whose name changes from Lightning to Plautus. In that play by this author, the \"hermit of Sidley Park,\" Septimus Hodge, tutors Thomasina Coverly. In another play, this author depicted the Player and the Tragedians hiding in barrels after performing The Murder of Gonzago. A flipped coin lands on heads 92 times in a play by this author about two minor characters from Hamlet. For 10 points, name this British playwright of Arcadia and Rosencrantz and Guildenstern Are Dead.",
+      "powerMarkPosition": 234,
+      "answer": "Stoppard",
+      "acceptableAnswers": [
+        "Stoppard",
+        "Tomas Straussler",
+        "The Stoppard"
+      ],
+      "source": "qbreader",
+      "sourceId": "671d6e2b704068afc3e929d3"
+    },
+    {
+      "id": "25be30d8-8285-47af-89ea-d05e8856e4a1",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "text": "One jazz standard written by a performer of this instrument opens with an ascending E flat minor - D chord played in eighth notes. That intro for a song for this instrument was originally written by Dizzy Gillepsie for \"I Can't Get Started.\" Another performer of this instrument used nine-eight time for \"Blue Rondo a la Turk,\" which appeared on the album Time Out. \"Round Midnight\" was written by Thelonius Monk, a performer of this instrument, while Billy Strayhorn wrote \"Take the A Train\" for a bandleader who played this instrument. Dave Brubeck and Duke Ellington primarily played, for 10 points, what keyboard instrument?",
+      "powerMarkPosition": 355,
+      "answer": "piano",
+      "acceptableAnswers": [
+        "piano",
+        "The piano"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6bd28e96d73a0dccd6027"
+    },
+    {
+      "id": "124bc2ba-1cac-4f72-94ad-8ce59b1d0b49",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for inflammatory response. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this phagocyte-related structure.",
+      "powerMarkPosition": 78,
+      "answer": "Phagocyte",
+      "acceptableAnswers": [
+        "phagocyte",
+        "Phagocyte"
+      ],
+      "explanation": "The phagocyte is a key component of the Immune system, involved in inflammatory response.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "2d38f92a-b13a-4e1d-a345-454d8c8b0edf",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "In an erotic novel by this author, the genie Cucufa gives Sultan Mangogul a silver ring that causes women's vulvas to describe their sexual experiences. This author illustrated his belief that theatre should teach virtue with a play about Saint-Albin, who convinces M. d'Orbesson to allow him to marry the lower-class girl Sophie,The Family Father. This author wrote a novel set in Longchamp where Suzanne is initiated into lesbian debauchery by her Mother Superior. Inspired byTristram Shandy, this author wrote a novel narrated by a character who describes how being shot in the knee caused him to fall in love with Denise. This author ofThe Indiscreet JewelsandThe Nunalso wrote a satiric dialogue named for the composer ofHippolyte and Aricie. For 10 points, name this eighteenth century French author ofJacques the FatalistandRameau's Nephew, the chief editor of the Encyclopedie.",
+      "powerMarkPosition": 348,
+      "answer": "Diderot",
+      "acceptableAnswers": [
+        "Diderot",
+        "The Diderot"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b14cb"
+    },
+    {
+      "id": "61947b03-f52c-4c64-ba28-2b216d0b3493",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "This quantity can be estimated using Bennett's overlapping distribution method. This quantity is calculated in the second step of COSMO-RS after COSMO calculates the screening charge density. The difference between 2 values of this quantity is found in the numerator of the osmotic coefficient. The modern derivation of Maxwell's equal area construction for Van der Waals' equation begins by constraining this value. This quantity is zero for a photon gas, which is why black bodies can be described with two state functions. The grand canonical ensemble is dependent on temperature, volume, and this quantity, which is equal for all components of a system at the binodal curve. A form of this quantity applied to electrons in a solid is the Fermi level. The Gibbs-Duhem equation relates pressure and temperature to this conjugate of particle number. For 10 points, name this intensive quantity which is the change in energy of a system when a particle is added.",
+      "powerMarkPosition": 444,
+      "answer": "chemical potential",
+      "acceptableAnswers": [
+        "chemical potential",
+        "partial molar free energy",
+        "prompt on free energy difference",
+        "The chemical potential"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0de2a"
+    },
+    {
+      "id": "eaa3282d-9d7f-4f12-b653-1b89bc670c6e",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for tonsils and malt. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this lymph-related structure.",
+      "powerMarkPosition": 75,
+      "answer": "Lymph",
+      "acceptableAnswers": [
+        "lymph",
+        "Lymph"
+      ],
+      "explanation": "The lymph is a key component of the Immune system, involved in tonsils and malt.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "4a021336-af4f-406e-a339-4a9ff8ac7e4d",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "This mineral dissolves below the lysocline (LAI-soak-line), and does not occur below its \"compensation depth\" in the ocean. This mineral or its polymorph, aragonite (uh-RAG-un-ite), constitute cave formations such as stalactites. This mineral can be identified by its birefringence (BY-rif-RIN-jenss), or by using dilute hydrochloric acid in the \"fizz test.\" This mineral defines a hardness of 3 on the Mohs scale and is the primary mineral found in limestone. Marine animals often build their skeletons out of this mineral. For 10 points, name this mineral made of calcium carbonate.",
+      "powerMarkPosition": 216,
+      "answer": "calcite",
+      "acceptableAnswers": [
+        "calcite",
+        "carbonate",
+        "calcium carbonate until “calcium” is read",
+        "The calcite"
+      ],
+      "source": "qbreader",
+      "sourceId": "68d80886f2b1f8e7f39133a1"
+    },
+    {
+      "id": "13d7c3f6-ee84-4f8f-a34e-20bd398ee310",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for tonsils and malt. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this lymph-related structure.",
+      "powerMarkPosition": 92,
+      "answer": "Lymph",
+      "acceptableAnswers": [
+        "lymph",
+        "Lymph"
+      ],
+      "explanation": "The lymph is a key component of the Immune system, involved in tonsils and malt.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "2342d37e-a98e-432f-b569-a46551e7d262",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "A 1988 photo op featuring a presidential candidate inside one of these vehicles massively backfired. That photograph showed Michael Dukakis sitting in one of these vehicles, some of which were called MBTs and included ones named for Patton and Sherman. IEDs frequently targeted these vehicles, which include the M1 Abrams. For 10 points, name these heavily armored military vehicles.",
+      "powerMarkPosition": 243,
+      "answer": "tank",
+      "acceptableAnswers": [
+        "tank",
+        "main battle tank",
+        "accept Patton tank",
+        "specific types",
+        "accept Sherman tank",
+        "accept M1 Abrams tank",
+        "The tank"
+      ],
+      "source": "qbreader",
+      "sourceId": "65666e01443a0a5dea004541"
+    },
+    {
+      "id": "2b9ec3f8-8677-4063-8437-f432838ca508",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "The maximum voltage in these devices are limited by a phenomenon known as punch-through as a result of extreme channel length modulation. A hybrid model for one of these devices uses four H-parameters dependent on quantities such as input impedance and admittance. Two of these devices can be connected in a Sziklai pair or a Darlington pair to output a greater current than they could individually. These devices can come in NPN and PNP varieties, the latter of which will only conduct if its base and collection regions are negative relative to the emitter. Moore's law states that the number of these devices that fit on a circuit board doubles approximately every 18 months. For 10 points, name these devices that can act as switches or amplifiers.",
+      "powerMarkPosition": 307,
+      "answer": "transistor",
+      "acceptableAnswers": [
+        "transistor",
+        "MOSFETs",
+        "metal-oxide-semiconductor field-effect transistors",
+        "accept FETs",
+        "field-effect transistors",
+        "The transistor"
+      ],
+      "source": "qbreader",
+      "sourceId": "6406d0dee39f8dfd08fc24c0"
+    },
+    {
+      "id": "7425c386-591c-42c3-9d99-7592638d0bc9",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "A low level of compounds produced in this organelle can cause rhizomelic chondrodysplasia punctata. That disease is typically due to a mutation in the genes coding for AGPS or GNPAT. The D members of the ATP-binding cassette family localize compounds to this organelle. The SKL motif, or serine-lysine-leucine, that directs proteins to this organelle is coded for by the PEX5 gene. This organelle degrades cerotic acid and is the site of plasmalogen synthesis. Problems with this organelle can cause adrenoleukodystrophy or Zellweger syndrome, in which long-chain fatty acids that are normally broken down within it accumulate. For 10 points, what organelles contain catalase to break down reactive molecules like hydrogen peroxide?",
+      "powerMarkPosition": 269,
+      "answer": "peroxisome",
+      "acceptableAnswers": [
+        "peroxisome",
+        "The peroxisome"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba963ea"
+    },
+    {
+      "id": "2b57fd92-8061-4028-a8a4-405d5a3ce66e",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for phagocytes and macrophages. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this phagocyte-related structure.",
+      "powerMarkPosition": 73,
+      "answer": "Phagocyte",
+      "acceptableAnswers": [
+        "phagocyte",
+        "Phagocyte"
+      ],
+      "explanation": "The phagocyte is a key component of the Immune system, involved in phagocytes and macrophages.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "56444473-aee2-4cf7-b2c3-24de56c4d1ec",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "Stoletov's law applies to this phenomenon, and h over e apparatuses make use of it to experimentally determine Planck's constant. Offsetting the maximum kinetic energy of particles undergoing this phenomenon can be used to determine the stopping potential, and intensity has no impact on the kinetic energy of particles emitted via this effect. For this effect to occur the product of threshold frequency and Planck's constant has to be greater than the work function. For 10 points, name this effect, in which photons hit a metal plate causing the emission of electrons, that earned Albert Einstein his Nobel prize in 1905.",
+      "powerMarkPosition": 344,
+      "answer": "photoelectric",
+      "acceptableAnswers": [
+        "photoelectric",
+        "The photoelectric"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfec4c"
+    },
+    {
+      "id": "92bf1849-af69-4983-a190-4f0fdd6abae9",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "After this novel's protagonist watches the \"feelie\" Three Weeks in a Helicopter, he is reminded of his mother's relationship with the mescal-loving Pop´e. This novel opens with a description of the Bokanovsky process, which creates a caste society that includes alphas and deltas. The recreational drug soma is used by the citizens of this novel. For 10 points, name this dystopian novel about Bernard Marx and John the Savage, written by Aldous Huxley.",
+      "powerMarkPosition": 233,
+      "answer": "Brave New World",
+      "acceptableAnswers": [
+        "Brave New World",
+        "The Brave New World"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004c16"
+    },
+    {
+      "id": "f7d24384-2188-484e-8690-db39495b7071",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "Frank Jackson posited the idea of a super-scientist who knows everything about these entities without ever perceiving them in his \"Mary's Room\" experiment. Goodman's New Riddle of Induction posits a group of objects that change this property at a set time, blending their names together. The perception of these secondary qualities is a commonly-used example of qualia. A textbook example of falsifiablity involves asking whether all swans have the same value for this property. In Enquiry Concerning Human Understanding, Hume uses one to show that ideas arise independent of experience by imagining a missing one. For 10 points, name these qualities, which physicalists would say are simply expressions of the wavelength of light bouncing off an object.",
+      "powerMarkPosition": 601,
+      "answer": "color",
+      "acceptableAnswers": [
+        "color",
+        "more specific answers like blue",
+        "green",
+        "The color"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54adb28"
+    },
+    {
+      "id": "703c1c5a-15c9-4ba7-9649-c1a35389f2e8",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "In the Netherlands, an 1874 law prohibiting this activity was passed at the instigation of Samuel van Houten, and a law further restricting it was instituted in 1889 following a government investigation into the Eel Revolt, in which police cracked down on the popular practice of pulling eels apart. The first law to restrict this activity in France was drawn up in 1841 by Louis Villerme, and the effect of that law against this activity was later strengthened in 1874 by a law introduced by Ambroise Joubert-Bonnaire. In England, a step towards regulating this activity was the Health and Morals of Apprentices Act of 1801, though more effective were the Factory Act of 1833, which instituted an inspection regime, and the Mining Act of 1842, which prohibited all women from working underground in addition to outlawing this kind of activity in the mines. For 10 points, identify this activity, prohibited by the aforementioned legislation, which involves employing those below a certain age, usually in dangerous occupations.",
+      "powerMarkPosition": 519,
+      "answer": "child labor",
+      "acceptableAnswers": [
+        "child labor",
+        "logical equivalents like “underage labor”",
+        "The child labor"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae7ec8"
+    },
+    {
+      "id": "fa5c0414-4fab-4444-b8bd-a2f4d28728c3",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "This poem first appeared in The American Review, attributed to the author's pseudonym \"Quarles.\" This poem's speaker is a scholar of \"forgotten lore\" who calls this poem's subject a \"thing of evil\" and asks it to return to \"Night's Plutonian shore.\" The arrival of this poem's subject mirrors the speaker's lost love, Lenore, and it is set \"once upon a midnight dreary.\" For 10 points, name this poem by Edgar Allen Poe poem about a \"Nevermore\"-quoting bird.",
+      "powerMarkPosition": 149,
+      "answer": "Raven",
+      "acceptableAnswers": [
+        "Raven",
+        "The Raven"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0879"
+    },
+    {
+      "id": "aa687134-db42-484e-8049-a14cf3d42efc",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "A character in this short story receives an invitation from the Minister of Public Instruction, and gives his wife money he had been saving for a hunting rifle to buy a party dress. When this story's protagonist meets Madame Forestier [foh-ress-tee-AY] in a park, she is shocked to learn that ten years of work to repay a forty-thousand-franc debt have been unnecessary. For 10 points, name this Guy de Maupassant [ghee duh moh-pah-SAWN] short story in which Mathilde Loisel [luh-wah-ZELL] spends a fortune to replace the title lost piece of jewelry, only to find that the original was fake.",
+      "powerMarkPosition": 224,
+      "answer": "Necklace",
+      "acceptableAnswers": [
+        "Necklace",
+        "The Necklace"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3114afad1e88c874a2e17"
+    },
+    {
+      "id": "358f780e-842e-4d60-b826-44a70d83325f",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "This mountain range is home to the threatened spectacled bear, and large silver mines were found near this range's city of Potosí. The farthest point on the surface from Earth's center is this range's Chimborazo. Its highest peak is Aconcagua, and it is home to Lake Titicaca. Cities in this mountain range include Sucre, La Paz, and Quito. For 10 points, name this mountain range along the Western coast of South America.",
+      "powerMarkPosition": 232,
+      "answer": "Andes",
+      "acceptableAnswers": [
+        "Andes",
+        "The Andes"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c420"
+    },
+    {
+      "id": "a641af10-bd38-4f31-b64d-c1aeca7b7795",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for water absorption. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this colon-related structure.",
+      "powerMarkPosition": 69,
+      "answer": "Colon",
+      "acceptableAnswers": [
+        "colon",
+        "Colon"
+      ],
+      "explanation": "The colon is a key component of the Digestive system, involved in water absorption.",
+      "source": "ai-generated"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "d859aaeb-e6ad-4f93-8d6d-0b528f50d225",
+      "linkedTossupId": "8591ee28-d8f9-4e21-a44b-cc891efb2034",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "What profession is referred to as \"an ass\" by Mr. Bumble in a novel when he is told by a judge that the assumption is that his wife is under his direction?",
+          "answer": "law",
+          "acceptableAnswers": [
+            "law",
+            "The law"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mr. Bumble appears in this novel in which the title character shocks everyone at his workhouse by asking for more gruel. Later, the title character falls in with Fagin's gang.",
+          "answer": "Oliver Twist",
+          "acceptableAnswers": [
+            "Oliver Twist",
+            "The Oliver Twist"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The interminable lawsuit Jarndyce v. Jarndyce is a central plot point in this other Dickens novel.",
+          "answer": "Bleak House",
+          "acceptableAnswers": [
+            "Bleak House",
+            "The Bleak House"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Mr. Jaggers and Mr. Tulkinghorn work in this profession in Charles Dickens novels. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b88d85"
+    },
+    {
+      "id": "46929c12-b2f0-4de3-a1c2-b6dca349c717",
+      "linkedTossupId": "25be30d8-8285-47af-89ea-d05e8856e4a1",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this composer whose piano concerto begins with a timpani roll followed by a fortissimo tonic chord. This composer's Peer Gynt suite contains a short section depicting trolls, \"In the Hall of the Mountain King.\"",
+          "answer": "Grieg",
+          "acceptableAnswers": [
+            "Grieg",
+            "The Grieg"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Grieg's piano concerto is in this note's minor key, which has no sharps or flats and is the relative minor of C major. The concerto was inspired by Robert Schumann's piano concerto which is also in this minor key.",
+          "answer": "A",
+          "acceptableAnswers": [
+            "A"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Grieg first heard Robert Schumann's piano concerto being performed by this pianist and composer of three Romances for Violin and Piano. Along with Robert Schumann, this composer advised and premiered many of Johannes Brahms's piano works.",
+          "answer": "Wieck",
+          "acceptableAnswers": [
+            "Wieck",
+            "Clara Josephine Schumann",
+            "prompt on Schumann",
+            "The Wieck"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The third movement of this composer's piano concerto includes a folk fiddle and alludes to the Halling dance as a nod to his native Norway. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0af2a2"
+    },
+    {
+      "id": "454e3eea-a03e-4f18-95d2-bfa2cecb99bb",
+      "linkedTossupId": "124bc2ba-1cac-4f72-94ad-8ce59b1d0b49",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with bronchi and bronchioles.",
+          "answer": "bronchus",
+          "acceptableAnswers": [
+            "bronchus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the bronchus in the respiratory system?",
+          "answer": "Bronchi and bronchioles",
+          "acceptableAnswers": [
+            "Bronchi and bronchioles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to bronchi and bronchioles.",
+          "answer": "bronchiole",
+          "acceptableAnswers": [
+            "bronchiole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "52316ba1-5e59-4516-a43c-4c087656df49",
+      "linkedTossupId": "2d38f92a-b13a-4e1d-a345-454d8c8b0edf",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this play in which the servant Gurusha is awarded a baby when she lets Natella pull him out of the title location to avoid harming him.",
+          "answer": "Caucasian Chalk Circle",
+          "acceptableAnswers": [
+            "Caucasian Chalk Circle",
+            "Der Kaukasische Kreidekreis",
+            "The Caucasian Chalk Circle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The German author of A Man's a Man and Mother Courage and her Children wrote The Caucasian Chalk Circle.",
+          "answer": "Brecht",
+          "acceptableAnswers": [
+            "Brecht",
+            "The Brecht"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The title character of this first major Brecht play is a poet who insults Mech and Dr. Piller and seduces Johannes' fiancé Johanna before wandering off with the composer Ekhart and eventually stabbing him.",
+          "answer": "Baal",
+          "acceptableAnswers": [
+            "Baal",
+            "The Baal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Natella Abashwili forgets her baby while evacuating her dresses and Azdak is elevated to the position of judge for sheltering the Grand Duke in the guise of a peasant. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa7f1"
+    },
+    {
+      "id": "d60c9518-3645-4381-9a9c-7a755fffed60",
+      "linkedTossupId": "61947b03-f52c-4c64-ba28-2b216d0b3493",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Nanoparticle mass spectroscopy is used to study reactions that occur on these objects, such as the formation of H2 in molecular clouds. Star light becomes polarized when scattering off of these objects because they at least partially align with external magnetic fields.",
+          "answer": "grain",
+          "acceptableAnswers": [
+            "grain",
+            "dust",
+            "The grain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Studies of the rare protonated form of this hydrocarbon by researchers of superacids provide insight into its role in the synthesis of large molecules in the ISM. This hydrocarbon's cycle on Titan is akin to the water cycle.",
+          "answer": "methane",
+          "acceptableAnswers": [
+            "methane",
+            "The methane"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Setups with 22-pole ion traps replicate conditions for interstellar reactions like this type of reaction where an energized complex forms and then stabilizes by emitting a photon. Carbon chemistry is initiated in the ISM by this type of reaction between H2 and either C+ or CH3+.",
+          "answer": "radiative association",
+          "acceptableAnswers": [
+            "radiative association",
+            "association",
+            "The radiative association"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following related to experimental astrochemistry, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423ff2"
+    },
+    {
+      "id": "16f0cc74-abbb-49e2-a600-10999e0c1b33",
+      "linkedTossupId": "eaa3282d-9d7f-4f12-b653-1b89bc670c6e",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with pancreas digestive enzymes.",
+          "answer": "liver",
+          "acceptableAnswers": [
+            "liver"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the liver in the digestive system?",
+          "answer": "Pancreas digestive enzymes",
+          "acceptableAnswers": [
+            "Pancreas digestive enzymes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to pancreas digestive enzymes.",
+          "answer": "bile",
+          "acceptableAnswers": [
+            "bile"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "be2327da-ea95-4387-a488-0ae82f84c77e",
+      "linkedTossupId": "4a021336-af4f-406e-a339-4a9ff8ac7e4d",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these devices that measure the specific heat of a substance. Their namesake process comes in isothermal titration and differential scanning forms.",
+          "answer": "calorimeter",
+          "acceptableAnswers": [
+            "calorimeter",
+            "isothermal titration calorimetry",
+            "accept differential scanning calorimetry",
+            "The calorimeter"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Calorimeters described by this adjective keep heat in the calorimeter throughout the process. Isothermal processes alternate with processes described by this adjective in the Carnot cycle.",
+          "answer": "adiabatic",
+          "acceptableAnswers": [
+            "adiabatic",
+            "The adiabatic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A constant volume calorimeter named for this weapon is named as such due to it having to withstand high pressures. Uranium-235 was used in one of these weapons.",
+          "answer": "bomb",
+          "acceptableAnswers": [
+            "bomb",
+            "bomb calorimeter",
+            "accept atomic bomb",
+            "nuclear bomb",
+            "equivalents",
+            "The bomb"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An equation used to describe the heat absorbed by these devices is commonly stated as \"q equals m c delta T.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "676f7236f56e0dff73abeb60"
+    },
+    {
+      "id": "fba16c0e-835f-487c-a2e9-e07855fd5558",
+      "linkedTossupId": "13d7c3f6-ee84-4f8f-a34e-20bd398ee310",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with oxygen diffusion.",
+          "answer": "diffusion",
+          "acceptableAnswers": [
+            "diffusion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the diffusion in the respiratory system?",
+          "answer": "Oxygen diffusion",
+          "acceptableAnswers": [
+            "Oxygen diffusion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to oxygen diffusion.",
+          "answer": "partial pressure",
+          "acceptableAnswers": [
+            "partial pressure"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "f04a442e-9405-4b00-bcd0-6dd990035f37",
+      "linkedTossupId": "2342d37e-a98e-432f-b569-a46551e7d262",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "A series of 21 of these religious buildings were constructed by Junípero Serra in what is now California and connected by the Camino Real. Native Americans were forced to live in reductions surrounding these buildings, threatening their traditional way of life.",
+          "answer": "missions",
+          "acceptableAnswers": [
+            "missions",
+            "The missions"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An earlier Spanish presence in what is now the Southwest was in this city, which was abandoned for a dozen years after a successful revolt by the Pueblo peoples. This capital of New Mexico is the oldest state capital in the U.S.",
+          "answer": "Sante Fe",
+          "acceptableAnswers": [
+            "Sante Fe",
+            "The Sante Fe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The first Spanish presence in what is now the United States was in this state's city of St. Augustine. The Adams-Onís Treaty ceded this state to the U.S in 1819 after Andrew Jackson illegally invaded it.",
+          "answer": "Florida",
+          "acceptableAnswers": [
+            "Florida",
+            "The Florida"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about Spanish colonization in what is now the United States, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eeadce1032cda62a6773f5"
+    },
+    {
+      "id": "0495e144-3497-4cfc-b4a3-1de1f62f8d17",
+      "linkedTossupId": "2b9ec3f8-8677-4063-8437-f432838ca508",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this 1914 experiment, which determined that mercury atoms occupy a limited variety of excited states.",
+          "answer": "Franck-Hertz",
+          "acceptableAnswers": [
+            "Franck-Hertz",
+            "The Franck-Hertz"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The results of the experiment were interpreted to support this man's prediction of quantized atomic states, which he applied to his model of the hydrogen atom.",
+          "answer": "Bohr",
+          "acceptableAnswers": [
+            "Bohr",
+            "Niels Henrik David Bohr",
+            "The Bohr"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One crucial component of the experiment was attempting to create a monoenergetic beam of electrons, which is impossible to do perfectly because the velocities of a beam of electrons shoulds obey this distribution.",
+          "answer": "Maxwell",
+          "acceptableAnswers": [
+            "Maxwell",
+            "The Maxwell"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Every 4.9 volts produced a sharp dip in the current passing through a mercury vapor, probably because every 4.9 volts allowed free electrons to participate in one inelastic collision with mercury atoms. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f036b"
+    },
+    {
+      "id": "2c24bd85-3351-4e88-9b20-a25703992a8c",
+      "linkedTossupId": "7425c386-591c-42c3-9d99-7592638d0bc9",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this element that is proposed to sink beneath a star's atmosphere over time, thus increasing the rate of turbulent mixing. This element is the heaviest whose distribution is depicted on the Schramm plot.",
+          "answer": "lithium",
+          "acceptableAnswers": [
+            "lithium",
+            "Li",
+            "accept lithium-7",
+            "Li-7",
+            "The lithium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The brown type of these stars can be identified via the relative abundance of lithium. The white type of these low-mass stars forms after sun-like stars run out of fuel.",
+          "answer": "dwarf",
+          "acceptableAnswers": [
+            "dwarf",
+            "brown dwarfs",
+            "white dwarfs",
+            "The dwarf"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A major source of lithium is the \"classical\" type of these phenomena, which are about 1,000 times brighter than their \"recurrent\" type. The \"dwarf\" type of these phenomena necessarily occurs [emphasize] below the Chandrasekhar limit.",
+          "answer": "nova",
+          "acceptableAnswers": [
+            "nova",
+            "novas",
+            "accept classical novae",
+            "recurrent novae",
+            "dwarf novae",
+            "reject “supernova”",
+            "“kilonova”",
+            "The nova"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The B2FH paper supported Fred Hoyle's hypothesis that all elements heavier than this element were not formed through BBN. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67aec9f66f064eb7c48bbe7a"
+    },
+    {
+      "id": "7c4af8bd-ac07-44ed-a7ca-c207c0980cf0",
+      "linkedTossupId": "2b57fd92-8061-4028-a8a4-405d5a3ce66e",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with four chambers of the heart.",
+          "answer": "atrium",
+          "acceptableAnswers": [
+            "atrium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the atrium in the cardiovascular system?",
+          "answer": "Four chambers of the heart",
+          "acceptableAnswers": [
+            "Four chambers of the heart"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to four chambers of the heart.",
+          "answer": "ventricle",
+          "acceptableAnswers": [
+            "ventricle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "3ffcd83d-0f4c-4bb3-88de-5d6bdb502f07",
+      "linkedTossupId": "56444473-aee2-4cf7-b2c3-24de56c4d1ec",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this substance, more common examples of which include loess and loam. It is studied by pedologists.",
+          "answer": "soil",
+          "acceptableAnswers": [
+            "soil",
+            "The soil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In contrast to traditional farming, this approach to agriculture involves the growth of vegetables without soil. Nutrients are typically supplied to the plant through water.",
+          "answer": "hydroponics",
+          "acceptableAnswers": [
+            "hydroponics",
+            "The hydroponics"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One source of nutrients for plants that are grown through hydroponics is this typically white bio-mineralized substance, which is composed of ground-up species that belong to a namesake phylum of algae.",
+          "answer": "diatomaceous earth",
+          "acceptableAnswers": [
+            "diatomaceous earth",
+            "kieselguhr",
+            "The diatomaceous earth"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Examples of this kind of substance include chernozem and brunozem. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae9ea"
+    },
+    {
+      "id": "52bbc0c2-f14f-4ba3-a989-b202d34d0f72",
+      "linkedTossupId": "92bf1849-af69-4983-a190-4f0fdd6abae9",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this American Author. He wrote about the death of Addie Bundren and her family's transportation of her coffin to Jefferson in As I Lay Dying.",
+          "answer": "Faulkner",
+          "acceptableAnswers": [
+            "Faulkner",
+            "The Faulkner"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Faulkner wrote this novel about Benjy, Quentin, and Jason, three members of the Compson family. This novel's last section focuses on Dilsey, one of the Compson family's Black servants.",
+          "answer": "Sound and the Fury",
+          "acceptableAnswers": [
+            "Sound and the Fury",
+            "The Sound and the Fury"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Faulkner wrote his first novel Soldier's Pay in this city after getting inspiration from Sherwood Anderson. This home to the Faulkner House is the most populous city in Louisiana.",
+          "answer": "New Orleans",
+          "acceptableAnswers": [
+            "New Orleans",
+            "NOLA",
+            "The New Orleans"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author set many of his novels in Yoknapatawpha (YAWK-naw-puh-TAW-fa) County, Mississippi. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a504e9"
+    },
+    {
+      "id": "8529c934-51b3-40f8-9524-3f6038ed0c56",
+      "linkedTossupId": "f7d24384-2188-484e-8690-db39495b7071",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this ritual in which Christians reaffirm their link to the church established by baptism. Catholics typically receive this sacrament around the age of 14 and choose a second name and patron saint as part of it.",
+          "answer": "confirmation",
+          "acceptableAnswers": [
+            "confirmation",
+            "chrismation",
+            "prompt on First Communion",
+            "The confirmation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Confirmation increases the \"gifts\" bestowed by this member of the Trinity, which descended on the Apostles on Pentecost as \"tongues of fire.\" This member of the Trinity is also sometimes represented as a dove.",
+          "answer": "Holy",
+          "acceptableAnswers": [
+            "Holy",
+            "Holy Ghost",
+            "prompt on spirit",
+            "spiritus",
+            "The Holy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An alternate name for confirmation, \"chrismation,\" derives from the use of a consecrated type of this substance called chrism during the sacrament. This \"holy\" substance is blessed every year on Maundy Thursday.",
+          "answer": "oil",
+          "acceptableAnswers": [
+            "oil",
+            "more specific answers like olive oil",
+            "sacramental oil",
+            "accept myrrh",
+            "myron",
+            "The oil"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This is the second of three sacraments that impresses its recipient with an indelible sign called a \"sacramental character.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b0f81"
+    },
+    {
+      "id": "a338fbb9-fab6-4fb7-aa32-482393288cbf",
+      "linkedTossupId": "703c1c5a-15c9-4ba7-9649-c1a35389f2e8",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The World War I agency called the Committee on Public Information was also named for this chairman, a journalist who wrote the book How We Advertised America. His agency tried to persuade Americans as to the righteousness of the war's cause.",
+          "answer": "Creel",
+          "acceptableAnswers": [
+            "Creel",
+            "The Creel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other American propagandist was the nephew of Freud. Called the \"father of public relations,\" he literally wrote the book on propaganda, which was called Propaganda. He worked for American Tobacco, Procter and Gamble, and United Fruit.",
+          "answer": "Bernays",
+          "acceptableAnswers": [
+            "Bernays",
+            "The Bernays"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This was the name given to Iva D'Aquino, an American citizen who participated in English-language propaganda broadcasts by the Japanese during World War II. Also known as \"Orphan Ann,\" D'Aquino appeared on radio programs that tried to lower soldiers' morale.",
+          "answer": "Tokyo Rose",
+          "acceptableAnswers": [
+            "Tokyo Rose",
+            "The Tokyo Rose"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about American propaganda for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba673874e0ef7dd7b2938"
+    },
+    {
+      "id": "45844e06-1d6c-4c51-b0a3-06e7fc2ba00c",
+      "linkedTossupId": "fa5c0414-4fab-4444-b8bd-a2f4d28728c3",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this British author of King Lear, Othello and Macbeth.",
+          "answer": "Shakespeare",
+          "acceptableAnswers": [
+            "Shakespeare",
+            "The Shakespeare"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Shakespeare created this character, a Montague who falls in love with a Capulet named Juliet.",
+          "answer": "Romeo",
+          "acceptableAnswers": [
+            "Romeo",
+            "The Romeo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Shakespeare apparently liked this season, the setting for a particular \"night's dream\" and a kind of day he asks about being compared to.",
+          "answer": "summer",
+          "acceptableAnswers": [
+            "summer",
+            "A Midsummer Night’s Dream",
+            "“Shall I compare thee to a summer’s day?”",
+            "The summer"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Many of this author's works were published in the First Folio. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c748"
+    },
+    {
+      "id": "09ce9764-3b82-4abe-90e0-e6cc787a3586",
+      "linkedTossupId": "aa687134-db42-484e-8049-a14cf3d42efc",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Gothic novel, considered by some to be the first science fiction novel, in which the title scientist's life is destroyed by his monstrous creation.",
+          "answer": "Frankenstein",
+          "acceptableAnswers": [
+            "Frankenstein",
+            "The Frankenstein"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Frankenstein is by this English author of Valperga.",
+          "answer": "Shelley",
+          "acceptableAnswers": [
+            "Shelley",
+            "The Shelley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The frame story of Frankenstein consists of letters written by this man to his sister, Margaret. On a journey to the North Pole, this man finds Victor Frankenstein, who recounts his story to this captain.",
+          "answer": "Robert",
+          "acceptableAnswers": [
+            "Robert",
+            "The Robert"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this novel, Justine Moritz is framed for the murder of William, and the title character's wife, Elizabeth, is murdered on her wedding night. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2ccf3"
+    },
+    {
+      "id": "a4883bb5-7a6d-4bbd-854e-4f7da6bc7ab8",
+      "linkedTossupId": "358f780e-842e-4d60-b826-44a70d83325f",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these cool, dark areas on the surface of the sun, whose activity is governed by an eleven-year cycle.",
+          "answer": "sunspot",
+          "acceptableAnswers": [
+            "sunspot",
+            "The sunspot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This outermost layer of the sun can be seen during a solar eclipse. Solar wind escapes through holes in this layer.",
+          "answer": "corona",
+          "acceptableAnswers": [
+            "corona",
+            "The corona"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This innermost layer of the sun's atmosphere is what is typically referred to as its surface, and sunspots are formed here. It is the deepest layer of the sun that can actually be seen, and is what gives the sun its yellow color.",
+          "answer": "photosphere",
+          "acceptableAnswers": [
+            "photosphere",
+            "The photosphere"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Maunder minimum was a period during which there were abnormally few of these objects. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec6604"
+    },
+    {
+      "id": "9f9eab96-9cac-4357-94f5-8beefdf621c6",
+      "linkedTossupId": "a641af10-bd38-4f31-b64d-c1aeca7b7795",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with layers of the heart wall.",
+          "answer": "atrium",
+          "acceptableAnswers": [
+            "atrium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the atrium in the cardiovascular system?",
+          "answer": "Layers of the heart wall",
+          "acceptableAnswers": [
+            "Layers of the heart wall"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to layers of the heart wall.",
+          "answer": "ventricle",
+          "acceptableAnswers": [
+            "ventricle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    }
+  ]
+}

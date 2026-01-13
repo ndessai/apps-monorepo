@@ -1,0 +1,1168 @@
+{
+  "packetId": "packet-025",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "Mythology",
+    "Literature",
+    "Fine Arts",
+    "History"
+  ],
+  "tossups": [
+    {
+      "id": "0901e6ed-dab4-40a9-9f53-4bce7786f4e9",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "This element is bound to a halogen to form substances that convert carbonyl groups to alcohols, called Grignard [GRIN-yard] reagents [ree-\"agents\"]. Its sulfate is used as bath salts, and it is also found in many laxatives. An atom of this element is found at the center of chlorophyll's ring. In a common lab demonstration, a \"ribbon\" of this metal is ignited, producing an extremely intense white flame. For 10 points, name this silvery metal whose symbol is Mg.",
+      "powerMarkPosition": 212,
+      "answer": "magnesium",
+      "acceptableAnswers": [
+        "magnesium",
+        "The magnesium"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318aca35"
+    },
+    {
+      "id": "e7613414-6a28-44a1-a8b0-b64cd5c98594",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "This figure was weakened before his last battle with Lugaid after he broke an oath not to eat dog meat in order not to refuse the hospitality of an old woman. After being invited to a feast by Conchobar, this figure killed a blacksmith's guard dog and took a new name when he agreed to guard the smith's house himself. This figure answered to Sétanta in his youth. For 10 points, name this wielder of the spear Gae Bolg, an Irish hero from The Cattle Raid of Cooley who is also known as the \"Hound of Ulster.\"",
+      "powerMarkPosition": 158,
+      "answer": "Cú",
+      "acceptableAnswers": [
+        "Cú"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0cfa4"
+    },
+    {
+      "id": "baef6c80-73ce-439a-854d-64ccd5c6cec2",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "This element is found in economically important quantities in minerals like spodumene, lepidolite, and petalite, in which it was first discovered in 1817 by Johan Arfwedson. It has the highest specific heat of the metallic elements and produces a crimson color in a flame, providing an important test for its presence. Its compounds alter sodium transport and interfere with ion exchange and nerve conduction, but despite being a poison at moderately high levels, it is often used to treat manic-depressive disorders. For 10 points, what is this lightest of the metallic elements, with atomic number 3?",
+      "powerMarkPosition": 318,
+      "answer": "lithium",
+      "acceptableAnswers": [
+        "lithium",
+        "The lithium"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596d46"
+    },
+    {
+      "id": "eb450a56-c2da-45b8-affb-721a800d60df",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "In a novella by this author, Moses claims that it is Sunday seven days a week at Sugar Candy Mountain, and a revolutionary song called \"Beasts of England'' inspires the pigs Snowball and Napoleon. In another novel by this author, the Ministry of Love employs the Thought Police and tortures Julia and Winston in Room 101 in a dystopian society overseen by Big Brother. For 10 points, name this English author of Animal Farm and 1984.",
+      "powerMarkPosition": 233,
+      "answer": "Orwell",
+      "acceptableAnswers": [
+        "Orwell",
+        "Eric Arthur Blair",
+        "The Orwell"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a50459"
+    },
+    {
+      "id": "20e1fa52-6b94-498f-b938-e4004d85af59",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "One of his paintings shows several men in the nude preparing for battle as the titular Spartan king stares calmly at the viewer, and he depicted several people holding staffs with the title symbols in another work. This artist of Leonidas at Thermopylae and The Distribution of the Eagles also painted The Portrait of Madame Recamier. In one of his paintings the title character points upward while holding a cup as several people turn away in grief, while another shows some sorrowful women in the background as three young men raise their arms to make a pledge. For 10 points, identify this dude who painted The Death of Socrates and The Oath of the Horatii.",
+      "powerMarkPosition": 334,
+      "answer": "David",
+      "acceptableAnswers": [
+        "David",
+        "The David"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43b5a"
+    },
+    {
+      "id": "3ec9c158-3791-4533-bc71-6b8e16e17e30",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "The three-month average of the concentration of this molecule is proxy-measured via the hemoglobin A1c test. The beta cells in the Islets of Langerhans become more active when levels of this molecule increase. An increase in the levels of this molecule stimulates the production of insulin. This substance is deficient in hypoglycemia. This molecule has formula C6H12O6, and is more abundant in individuals with diabetes. For 10 points, name this sweet molecule.",
+      "powerMarkPosition": 281,
+      "answer": "glucose",
+      "acceptableAnswers": [
+        "glucose",
+        "sugar",
+        "accept blood glucose level",
+        "accept blood sugar level",
+        "The glucose"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7dedf2"
+    },
+    {
+      "id": "814b8eb0-2bc8-4d5f-aed1-34915f1e46a7",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "Cristofano Allori is best known for a painting of this figure in orange in which he inserted himself in a self-portrait at the bottom. This figure was depicted in contemporary garb with a smug, sly smile and a red hat with large feather by Lucas Cranach the Elder. This figure is depicted androgynously in a blue toga, standing contrapposto outside of a pink tent in a painting by Andrea Mantegna. In one painting, this figure casts a dark shadow over the right side of her face by holding her hand out in front of herself towards a candle. Gustav Klimt painted this figure wearing a thick gold necklace with bared breasts and half-closed eyes. This figure is almost always depicted accompanied by a maidswervant who is sometimes shown holding a general down. For 10 points, name this woman who creates Tarantino-esque spurts of blood as she saws off the head of Holofernes in a painting by Gentileschi.",
+      "powerMarkPosition": 473,
+      "answer": "Judith",
+      "acceptableAnswers": [
+        "Judith",
+        "The Judith"
+      ],
+      "source": "qbreader",
+      "sourceId": "630adffd9c5af29a3c8c062b"
+    },
+    {
+      "id": "b8836dd3-be64-43e1-b2d7-2d0e73e2b849",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "Reactions designed to produce these molecules can exhibit a dangerous thermal runaway in autoacceleration. Titanium or aluminum-based catalysts for making these molecules can control whether they are isotactic (\"eye-so-tactic\"), syndiotactic (\"sin-dee-oh-tactic\"), or atactic (\"ay-tactic\"). These molecules have their dispersity index measured with dynamic light scattering. These molecules are the targeted product of reactions that contain initiation, propagation, and termination steps, and proceed in a \"chain-growth\" manner. Common examples of these molecules used in clothing include Teflon and nylon. For 10 points, name these macromolecules that consist of many repeating monomers.",
+      "powerMarkPosition": 290,
+      "answer": "polymer",
+      "acceptableAnswers": [
+        "polymer",
+        "chain-growth polymerization",
+        "The polymer"
+      ],
+      "source": "qbreader",
+      "sourceId": "671d6e2a704068afc3e92937"
+    },
+    {
+      "id": "eff2b849-9375-4c4b-8a4c-90d59310e85e",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "high_school",
+      "text": "This ruler negotiated the end of the Third Sacred War. This ruler reformed his army by replacing the dory with the sarissa and organizing 16-by-16-man square formations. While being held hostage as a child, this ruler studied military tactics under the general Epaminondas (\"eh-pah-meen-nohn-dahs\"). Demosthenes (\"dem-oss-thuh-knees\") gave many speeches opposing this ruler. This king established the League of Corinth after winning the Battle of Chaeronea (\"kay-ron-ay-ah\"), where he crushed the Sacred Band of Thebes. This ruler conquered the Greek city-states using phalanx tactics, but died before he could invade the Persian Empire. For 10 points, name this king of Macedon, the father of Alexander the Great.",
+      "powerMarkPosition": 400,
+      "answer": "Philip II",
+      "acceptableAnswers": [
+        "Philip II",
+        "Philippos II of Macedon",
+        "prompt on Philip",
+        "Philippos",
+        "The Philip II"
+      ],
+      "source": "qbreader",
+      "sourceId": "66cd4c3dc5459312fdcc5606"
+    },
+    {
+      "id": "b92fff8a-9165-43b5-927e-7ab21a02ed7c",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "In this novel, a gun's recoil sends a knife flying back into the wrist of its owner, after which he is beaten against some flagstones. A backstabbing lawyer in this novel named Mr. Green hails from the nearby village of Gimmerton. In this novel, which was published under the pseudonym \"Ellis Bell\", a character arranges a marriage to ensure that his family inherits Thrushcross Grange. That man from this novel was adopted into a household mismanaged by Nelly Dean, during which he was abused by Hindley in the titular estate. For 10 points, name this novel by Emily Bronte about the doomed love of Catherine Earnshaw and Heathcliff.",
+      "powerMarkPosition": 366,
+      "answer": "Wuthering Heights",
+      "acceptableAnswers": [
+        "Wuthering Heights",
+        "The Wuthering Heights"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52345"
+    },
+    {
+      "id": "8b342015-a45c-46e0-a2e5-3eb2b5f7b991",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "This inventor was nicknamed \"The Wizard of Menlo Park.\" This man invented the movie camera and the phonograph. It is said that he didn't fail, he just \"found 10,000 ways that won't work\" when creating his most famous invention. For 10 points, what man invented the lightbulb?",
+      "powerMarkPosition": 110,
+      "answer": "Edison",
+      "acceptableAnswers": [
+        "Edison",
+        "The Edison"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c789"
+    },
+    {
+      "id": "f11a933a-146d-40f5-9e83-06910969f03d",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "This part of human anatomy is home to the Crypts of Fuch and the structural folds of Schwalbe, which cover its length. It is affected directly by Cogan-Reese Syndrome and indirectly by Chandler's Syndrome, and Brushfield Spots can be seen on its outer edge in Down Syndrome. The collarette separates its interior area from its ciliary zone, and sees the overlap of sphincter and dilator muscles. Its outer periphery or root connects to the sclera. Named for the Greek god who represents the rainbow, For 10 points, name this part of the eye responsible for eye color which is also a type of flower.",
+      "powerMarkPosition": 274,
+      "answer": "iris",
+      "acceptableAnswers": [
+        "iris",
+        "The iris"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4320f"
+    },
+    {
+      "id": "91d19e27-ca46-4eb9-aa7f-ff44dea01456",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "Naro Bon-Chung once competed against another magician using this landmark as a racecourse to determine whose religion was superior. This area is known as Tise, since the Lion, Horse, Peacock, and Elephant rivers all begin here. According to the Vishnu Purana, it is surrounded by six mountain ranges forming a lotus. Pilgrims to this location walk around it but never set foot on it, because everyone who has set foot on this mountain has died in the process. Ravana tried to pick up this mountain, which angered Nandi but prompted Shiva to bless him. For 10 points, name this mountain abode of Shiva and Parvati, the source of the Indus river.",
+      "powerMarkPosition": 227,
+      "answer": "Kailash",
+      "acceptableAnswers": [
+        "Kailash",
+        "The Kailash"
+      ],
+      "source": "qbreader",
+      "sourceId": "630adb572eacc381ae57fe2b"
+    },
+    {
+      "id": "e12dee13-126c-404a-8153-c0a47a83c329",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "One story by this author describes a man cutting the head and paws off of a trapped creature in a pit, which turns into a human corpse. The protagonist of that story by this author is a girl who encounters a hunter in a green coat, who bets her a kiss that he can use a compass to beat her to her destination. She created a character who loses her virginity to her husband in a bed surrounded by a dozen mirrors while she wears a ruby choker. This author of \"The Company of Wolves\" gave a fictionalized account of Jeanne Duval, the black mistress of Baudelaire, in the title story of her collection Black Venus. She wrote a novel in which Jack Walser becomes enamored of Sophie Fevvers, an aerialist who grew wings after hatching from an egg. For 10 points, name this author who wrote the novel Nights at the Circus and who gave feminist reinterpretations of fairy tales in The Bloody Chamber and Other Stories.",
+      "powerMarkPosition": 513,
+      "answer": "Carter",
+      "acceptableAnswers": [
+        "Carter",
+        "The Carter"
+      ],
+      "source": "qbreader",
+      "sourceId": "64655a09023d25e2f6e20797"
+    },
+    {
+      "id": "72f214e8-e074-4de5-b26d-7e0454ef93fa",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "There is debate as to whether or not Forbush decreases affect these entities, and although it is not radiation, these entities are studied by NASA's CERES project. Optical thickness and liquid water path can both help characterize these objects, which were first classified by Jean Lamarc in 1802 and later by Luke Howard in 1803. These entities can both upwell and downwell IR radiation, and their diurnal cycles can significantly impact albedo and climate predictions. Atmospheric aerosols provide the condensation nuclei for these meteorological entities. For 10 points, name these entities composed of suspended moisture, of which cumulonimbus and cirrus are types.",
+      "powerMarkPosition": 314,
+      "answer": "clouds",
+      "acceptableAnswers": [
+        "clouds",
+        "The clouds"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eea92bec6a16249648948d"
+    },
+    {
+      "id": "1a75e7d1-a7e3-4033-aae9-3842e9c175f9",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "This man structured his empire's military into ten thousand man groups known as tumen. This man's father Yesugei was a chieftain of the Borjigin clan. Jochi [JOH-chee] and Ogedei [OH-guh-dye] were two sons of this leader and his wife, Borte [BUR-tuh]. The Golden Horde was a successor state to the empire this man founded. The Yuan Dynasty was founded by this man's grandson, Kublai Khan. For ten points, name this fearsome Mongol khan originally known as Temujin.",
+      "powerMarkPosition": 234,
+      "answer": "Genghis",
+      "acceptableAnswers": [
+        "Genghis",
+        "The Genghis"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f723af56e0dff73abecbe"
+    },
+    {
+      "id": "cc1a6181-fce7-48a2-88d7-b4ec90831137",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "The second invariant of this quantity's deviatoric form defines the von Mises criterion. This quantity is minimized in areas of a material that have undergone \"necking.\" Mohr's circle may be constructed to represent this quantity's 2 by 2 tensor matrix named for Cauchy. A value for this quantity called the yield point defines a threshold after which plastic deformation occurs. This quantity appears in the numerator of the ratio that defines Young's modulus. This quantity, which measures interparticle forces within a material, is measured with the same units as pressure. For 10 points, a namesake engineering curve plots what quantity against strain?",
+      "powerMarkPosition": 351,
+      "answer": "stress",
+      "acceptableAnswers": [
+        "stress",
+        "second invariant deviatoric stress",
+        "The stress"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a67f"
+    },
+    {
+      "id": "557a4112-6034-42a0-876f-053098db94b5",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "text": "Composer and genre required. The slow introduction of the first of these pieces opens with a cadence into the subdominant and only reaches the tonic in bar 4. A 3/4 fast movement in one of these pieces uses an oboe theme of [read slowly] seven B-flat quarter notes followed by an eighth-note descent from C to F. The recapitulation in one of these pieces is anticipated by a horn call that creates dissonance with the strings. A flute, oboe, and two clarinets imitate bird calls in a movement of one of these pieces titled \"Scene by the brook.\" The composer had to be turned to face the audience's applause at the performance of the last of these pieces, which includes a setting of \"Ode to Joy.\" For 10 points, name these orchestral works that include ones nicknamed \"Eroica\" and \"Choral.\"",
+      "powerMarkPosition": 312,
+      "answer": "symphonies",
+      "acceptableAnswers": [
+        "symphonies",
+        "symphonies by asking “by who?”",
+        "prompt on works by Ludwig van Beethoven by asking “in what genre?”",
+        "The symphonies"
+      ],
+      "source": "qbreader",
+      "sourceId": "692330edf1f28d19289b80b1"
+    },
+    {
+      "id": "8dcb7bf3-830a-4f22-b5ff-d571aa252099",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "John Hampden named this event while part of the ensuing Convention Parliament. This event was sparked by an \"invitation\" from the \"Immortal Seven.\" This event's victor was soon embroiled in the broader Nine Years' War. The birth of the so-called \"warming-pan baby\" of Mary of Modena, James Francis Edward, sparked this event due to fears of a Catholic king. This event saw its victor land an army at Brixham after issuing the Declaration of the Hague. This event resulted in the passage of a Bill of Rights and the reading of the Declaration of Right to the new monarchs, Mary II and William III. For 10 points, name this 1688 event that deposed King James II of England.",
+      "powerMarkPosition": 342,
+      "answer": "Glorious Revolution",
+      "acceptableAnswers": [
+        "Glorious Revolution",
+        "The Glorious Revolution"
+      ],
+      "source": "qbreader",
+      "sourceId": "6765cbd76221936d63885359"
+    },
+    {
+      "id": "590e4f44-548f-436a-bffa-b406f8459dc7",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "The title character of a novel set during this event escapes capture by tricking his pursuer into sniffing pepper. \"One to command, and nineteen to obey\" is the slogan of a secret society that attempts to rescue people from this event. Jacques Three serves on a tribunal during this event, during which Charles Darnay is saved from execution by Sydney Carton. \"It was the best of times, it was the worst of times,\" opens a novel set during this period. For 10 points, name this historical event that provides the setting of A Tale of Two Cities.",
+      "powerMarkPosition": 310,
+      "answer": "French Revolution",
+      "acceptableAnswers": [
+        "French Revolution",
+        "the Reign of Terror",
+        "The French Revolution"
+      ],
+      "source": "qbreader",
+      "sourceId": "68d80885f2b1f8e7f3913324"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "7f70208c-8f1a-4baf-9ef8-f1e0d18de156",
+      "linkedTossupId": "0901e6ed-dab4-40a9-9f53-4bce7786f4e9",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this American geneticist whose discoveries came from studies done on Drosophilia melanogaster.",
+          "answer": "Morgan",
+          "acceptableAnswers": [
+            "Morgan",
+            "The Morgan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Drosophilia melanogaster is the scientific name given to this animal belonging to the order Diptera.",
+          "answer": "fruit fly",
+          "acceptableAnswers": [
+            "fruit fly",
+            "vinegar fly",
+            "prompt on “fly”",
+            "The fruit fly"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In his 1916 book A Critique of the Theory of Evolution, Morgan theoretically described this process, the exchange of genetic material between two chromosomes during meiosis.",
+          "answer": "crossing over",
+          "acceptableAnswers": [
+            "crossing over",
+            "chromosomal crossover",
+            "The crossing over"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This scientist won the 1933 Nobel Prize in Physiology or Medicine for \"his discoveries concerning the role played by the chromosome in heredity.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0f02"
+    },
+    {
+      "id": "fb54f1a9-4c54-4ece-b1ce-d7288a902e04",
+      "linkedTossupId": "e7613414-6a28-44a1-a8b0-b64cd5c98594",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these objects that provide the epithet of a knight who is forced to use one after riding two horses to death in pursuit of the villain Maleagant (\"MALL-ay-ah-gahnt\").",
+          "answer": "cart",
+          "acceptableAnswers": [
+            "cart",
+            "charrettes",
+            "accept wagons",
+            "accept chariots",
+            "accept",
+            "but DO NOT OTHERWISE REVEAL",
+            "Lancelot",
+            "the Knight of the Cart",
+            "le Chevalier de la Charrette",
+            "The cart"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This \"Knight of the Cart\" rescues Guinevere from Maleagant and has an affair with her in Chrétien's poem. This Knight of the Round Table was the father of Galahad.",
+          "answer": "Lancelot",
+          "acceptableAnswers": [
+            "Lancelot",
+            "Launcelot",
+            "Lancelot du Lac",
+            "Lancelot of the Lake",
+            "Knight of the Cart",
+            "le Chevalier de la Charrette",
+            "The Lancelot"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Maleagant was eventually replaced as the main villain in the Matter of Britain by this illegitimate son of Arthur. This man exposed Guinevere and Lancelot's affair and was killed at the Battle of Camlann.",
+          "answer": "Mordred",
+          "acceptableAnswers": [
+            "Mordred",
+            "Modred",
+            "Modredus",
+            "accept Medraut",
+            "Medrawt",
+            "The Mordred"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a Chrétien de Troyes (\"CRAY-tee-yen duh TWAH\") poem, a man with an epithet referring to one of the objects crosses a bridge made of swords to rescue a maiden kept in an impenetrable crystal tower. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63682fe4906588de78556573"
+    },
+    {
+      "id": "0ecd1494-5756-481d-a298-0058ab4fd107",
+      "linkedTossupId": "baef6c80-73ce-439a-854d-64ccd5c6cec2",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this class of machine learning methods which average the outputs from multiple classifiers to build a final model. They share their name with a similar method used in weather forecasting.",
+          "answer": "ensemble",
+          "acceptableAnswers": [
+            "ensemble",
+            "ensemble methods",
+            "ensemble forecasting",
+            "The ensemble"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ensemble classifiers reduce both bias and this other quantity, avoiding a common tradeoff. Standard deviation is the square root of this quantity.",
+          "answer": "variance",
+          "acceptableAnswers": [
+            "variance",
+            "The variance"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Many ensemble classifiers use this lazy learning method, which takes a user input of k, then classifies each data point based on the classification of a majority of the k closest training data points in feature space.",
+          "answer": "nearest neighbor",
+          "acceptableAnswers": [
+            "nearest neighbor",
+            "kNN",
+            "The nearest neighbor"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Bootstrap aggregation, or \"bagging,\" is an example of these methods. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae5c7"
+    },
+    {
+      "id": "29b0c20f-1175-4cf0-be55-2d0552e17624",
+      "linkedTossupId": "eb450a56-c2da-45b8-affb-721a800d60df",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Surname acceptable. This British pair gained fame for their poetry during the 19th century. Wife Elizabeth wrote Sonnets from the Portuguese, while husband Robert is known for his dramatic monologue \"My Last Duchess.\"",
+          "answer": "Browning",
+          "acceptableAnswers": [
+            "Browning",
+            "Robert and Elizabeth Barrett Browning in either order",
+            "Robert Browning and Elizabeth Barrett in either order",
+            "The Browning"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This woman's husband Ted Hughes was Poet Laureate of the United Kingdom, but she surpassed him in fame with poetry such as \"Daddy\" and the novel The Bell Jar.",
+          "answer": "Plath",
+          "acceptableAnswers": [
+            "Plath",
+            "The Plath"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gertrude Stein wrote one of these books for her longtime partner, Alice B. Toklas. Alex Haley wrote one of these books for Malcolm X, although typically one of these books is written by a person about their own life.",
+          "answer": "autobiography",
+          "acceptableAnswers": [
+            "autobiography",
+            "The Autobiography of Alice B. Toklas",
+            "The Autobiography of Malcolm X",
+            "do not accept",
+            "prompt on “biography”",
+            "The autobiography"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about literary power couples for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9d87"
+    },
+    {
+      "id": "360e2b48-607e-4ecb-823a-1ca7f5e6006e",
+      "linkedTossupId": "20e1fa52-6b94-498f-b938-e4004d85af59",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this four-sided geometric figure, two of which are superimposed in the painting White on White.",
+          "answer": "square",
+          "acceptableAnswers": [
+            "square",
+            "“quadrilaterals",
+            "” “rectangles",
+            "” “polygons",
+            "”",
+            "other less-specific answers",
+            "The square"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "White on White is one of the best known works of this Suprematist artist, who also created Black Square. He also designed the set for the Futurist opera Victory over the Sun.",
+          "answer": "Malevich",
+          "acceptableAnswers": [
+            "Malevich",
+            "The Malevich"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "El Lissitzky added three-dimensionality to classical Suprematism in a series of works that he gave this name. One of these works features a cube resting between two curved red and blue lines that rise up out of a grid.",
+          "answer": "Proun",
+          "acceptableAnswers": [
+            "Proun",
+            "The Proun"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A large blue one of these figures appears next to the number 8 in the painting Reservist of the First Division. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d53a"
+    },
+    {
+      "id": "61e376da-6c7e-4d88-aacd-a6edc33e9513",
+      "linkedTossupId": "3ec9c158-3791-4533-bc71-6b8e16e17e30",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this man who names a thought experiment involving a hypothetical cat which may be simultaneously considered dead and alive.",
+          "answer": "Schrödinger",
+          "acceptableAnswers": [
+            "Schrödinger",
+            "The Schrödinger"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Schrödinger proposed his thought experiment to illustrate his problems with this interpretation of quantum mechanics. It is named after a European city.",
+          "answer": "Copenhagen",
+          "acceptableAnswers": [
+            "Copenhagen",
+            "The Copenhagen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 1927, a proponent of the Copenhagen interpretation introduced this principle, which limits the accuracy at which complementary variables can be measured, such as position and momentum.",
+          "answer": "uncertainty",
+          "acceptableAnswers": [
+            "uncertainty",
+            "The uncertainty"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This scientist's namesake thought experiment demonstrates the idea of superposition. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b8a9"
+    },
+    {
+      "id": "d7f0bae8-759d-42f9-b8d7-4e999ac116c6",
+      "linkedTossupId": "814b8eb0-2bc8-4d5f-aed1-34915f1e46a7",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these decorative objects. The \"Ultrafragola\" one of these objects was designed by Ettore Sottsass, and experienced a resurgence of popularity because its curvy, pink-lighted frame looks good in outfit selfies.",
+          "answer": "mirror",
+          "acceptableAnswers": [
+            "mirror",
+            "mirror frame",
+            "The mirror"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sottsass founded this design group in Milan in 1980, known for its bright colors, terrazzo textures, and postmodern aesthetic. A style called \"Corporate\" this became popular in big-tech graphics in the mid-2010s.",
+          "answer": "Memphis",
+          "acceptableAnswers": [
+            "Memphis",
+            "Memphis Milano",
+            "accept Corporate Memphis",
+            "The Memphis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Michael Graves was part of the Memphis Group, but he's better known for designing the Swan and Dolphin hotels for this company, which also created a New Urbanist community called Celebration.",
+          "answer": "Disney",
+          "acceptableAnswers": [
+            "Disney",
+            "Walt Disney World",
+            "The Disney"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This design element folds entirely away to become a tabletop in Luigi Massoni's \"Dilly Dally\" vanity design. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6822bfc91f87396179872ece"
+    },
+    {
+      "id": "95ebdc51-8625-4e51-ba14-3396f0f5a912",
+      "linkedTossupId": "b8836dd3-be64-43e1-b2d7-2d0e73e2b849",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Since the internal angles of a hexagon add up to 720 degrees, a regular hexagon has an internal angle equal to this number of degrees.",
+          "answer": "120",
+          "acceptableAnswers": [
+            "120",
+            "The 120"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A formula for calculating the area of a regular hexagon is one-half times the perimeter times this value, which is the distance from the center of the hexagon to the midpoint of one of its sides.",
+          "answer": "apothem",
+          "acceptableAnswers": [
+            "apothem",
+            "apo",
+            "The apothem"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "You have ten seconds for the following bonus part. A hexagon has this number of diagonals.",
+          "answer": "nine",
+          "acceptableAnswers": [
+            "nine",
+            "The nine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about hexagons, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0cb80"
+    },
+    {
+      "id": "a89b9296-092c-4142-a685-cd564c1a829f",
+      "linkedTossupId": "eff2b849-9375-4c4b-8a4c-90d59310e85e",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this pioneering suffragist who refused to pay a fine for voting in the 1872 presidential election. This close collaborator with Elizabeth Cady Stanton has since appeared on a dollar coin.",
+          "answer": "Anthony",
+          "acceptableAnswers": [
+            "Anthony",
+            "The Anthony"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Anthony and Stanton campaigned unsuccessfully for women's suffrage in this state in 1867, a few years after the sack of Lawrence and the Lecompton constitution affected its prospects for statehood.",
+          "answer": "Kansas",
+          "acceptableAnswers": [
+            "Kansas",
+            "The Kansas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Two abolitionist sisters of this surname also cast illegal votes in the late 19th century. These South Carolina Quakers gave speeches about witnessing slavery firsthand on their father's plantation.",
+          "answer": "Grimke",
+          "acceptableAnswers": [
+            "Grimke",
+            "Sarah Moore Grimke and Angelica Grimke Weld",
+            "The Grimke"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This woman published a periodical called The Revolution and Lynn Sherr collected her writings in Failure is Impossible. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54af029"
+    },
+    {
+      "id": "f6faa0ba-b78a-4a25-b4ac-958c6f9d66e2",
+      "linkedTossupId": "b92fff8a-9165-43b5-927e-7ab21a02ed7c",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this collection, which includes a story in which the servant girl Morgiana kills robbers by pouring hot oil onto them and which was famously translated into French by Antoine Galland.",
+          "answer": "Thousand and One Nights",
+          "acceptableAnswers": [
+            "Thousand and One Nights",
+            "Alf layla wa-layla",
+            "accept One Thousand and One Nights",
+            "The Book of the Thousand Nights and a Night",
+            "The Thousand and One Arabian Nights",
+            "The Thousand and One Nights"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This brother of Ali Baba forgets the command to get out of a gold-filled cave. This character is killed by robbers when they find him.",
+          "answer": "Cassim",
+          "acceptableAnswers": [
+            "Cassim",
+            "The Cassim"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After being abandoned on an island, Sinbad the Sailor finds an egg laid by one of these giant mythical birds. He uses his turban to attach himself to the leg of one of these birds, making his escape.",
+          "answer": "roc",
+          "acceptableAnswers": [
+            "roc",
+            "The roc"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This collection is framed as a series of stories told to Shahryar, who hangs one of his brides every morning. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52a57"
+    },
+    {
+      "id": "6ff70d1a-4ac2-4887-8517-f75f5b145da8",
+      "linkedTossupId": "8b342015-a45c-46e0-a2e5-3eb2b5f7b991",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This sea in eastern Europe names the region containing Latvia, Lithuania and Estonia. Stockholm, Sweden, lies on the shores of this sea.",
+          "answer": "Baltic",
+          "acceptableAnswers": [
+            "Baltic",
+            "The Baltic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This politically-important sea contains coastal cities include Sochi in Russia and Sevastopol and Odessa in Ukraine. The peninsula of Crimea juts out into this sea.",
+          "answer": "Black",
+          "acceptableAnswers": [
+            "Black",
+            "The Black"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Aegean Sea, Adriatic Sea and Tyrrhenian Sea are all arms of this larger sea that separates Europe from Africa.",
+          "answer": "Mediterranean",
+          "acceptableAnswers": [
+            "Mediterranean",
+            "The Mediterranean"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The continent of Europe is home to many notable seas of the world. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c6e6"
+    },
+    {
+      "id": "a5d4c1b4-1445-46a7-8c35-a2bb3c4dcb57",
+      "linkedTossupId": "f11a933a-146d-40f5-9e83-06910969f03d",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these devices characterized by a weight suspended on a rod, which exhibit periodic motion with a period proportional to the square root of the length of the rod.",
+          "answer": "pendulum",
+          "acceptableAnswers": [
+            "pendulum",
+            "The pendulum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While an ideal pendulum would continue forever, true pendulums experience this effect that changes their motion over time due to friction and other forces",
+          "answer": "damp",
+          "acceptableAnswers": [
+            "damp",
+            "word forms",
+            "The damp"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Any system for which the relation F equals negative k x holds true can be called one of these. Ideal pendulum and spring systems can be modeled as the simple variety of them.",
+          "answer": "harmonic oscillator",
+          "acceptableAnswers": [
+            "harmonic oscillator",
+            "The harmonic oscillator"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The double version of this device exemplifies chaotic motion. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dee10e"
+    },
+    {
+      "id": "e5aaa837-e077-4e07-b573-3cc07104492d",
+      "linkedTossupId": "91d19e27-ca46-4eb9-aa7f-ff44dea01456",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this type of structure, another of which is constructed using stones carried by both Zethus's brute strength and Amphion's enchanting music.",
+          "answer": "wall",
+          "acceptableAnswers": [
+            "wall",
+            "obvious equivalents",
+            "prompt on fortifications",
+            "prompt on defenses",
+            "The wall"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Zethus and Amphion build the walls of this city founded by Cadmus at the site where a cow lays down. Seven warriors attack this city when Eteocles refuses to give up its kingship.",
+          "answer": "Thebes",
+          "acceptableAnswers": [
+            "Thebes",
+            "The Thebes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This leader of the Seven against Thebes escapes the war with Arion. Later, it is prophesied that the Epigoni cannot take Thebes until the death of this man.",
+          "answer": "Adrastus",
+          "acceptableAnswers": [
+            "Adrastus",
+            "The Adrastus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Poseidon and Apollo build one of these structures when Zeus orders them to spend a year working for a human. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382b35c9cc87abdd9a5a625"
+    },
+    {
+      "id": "9b85bdca-8cca-4caa-80dc-c2f2152dea2d",
+      "linkedTossupId": "e12dee13-126c-404a-8153-c0a47a83c329",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this satirical epic poem whose dedication opens \"Bob Southey! You're a poet, poet laureate, / and representative of all the race.\"",
+          "answer": "Don Juan",
+          "acceptableAnswers": [
+            "Don Juan",
+            "The Don Juan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Romantic English poet of Manfred wrote Don Juan, both of which contain examples of his namesake style of hero.",
+          "answer": "Byron",
+          "acceptableAnswers": [
+            "Byron",
+            "The Byron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the preface to cantos VI to VIII of Don Juan, Byron criticised the later Marquis of Londonderry saying that he \"could not speak English\" and comparing him to this dramatic character who delivered lines like \"she's as headstrong as an allegory on the banks of the Nile.\"",
+          "answer": "Malaprop",
+          "acceptableAnswers": [
+            "Malaprop",
+            "The Malaprop"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The preface to the first two cantos of this poem mocks a Wordsworth poem for beginning \"There is a Thorn - it looks so old.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490bdcd"
+    },
+    {
+      "id": "390d79c3-aed8-4dd0-add5-8123f9ec7141",
+      "linkedTossupId": "72f214e8-e074-4de5-b26d-7e0454ef93fa",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this organelle consisting of numerous proteins and its namesake type of RNA, the site of protein synthesis in the cell.",
+          "answer": "ribosome",
+          "acceptableAnswers": [
+            "ribosome",
+            "The ribosome"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Composed mostly of DNA regions coding for ribosomal RNA and proteins, this sub-organelle is responsible for ribosome synthesis.",
+          "answer": "Nucleolus",
+          "acceptableAnswers": [
+            "Nucleolus",
+            "The Nucleolus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This sequence of mRNA in prokaryotes, usually AGGAGG, sits just upstream of the start codon and signals the ribosome to attach there and begin translation.",
+          "answer": "Shine-Dalgarno",
+          "acceptableAnswers": [
+            "Shine-Dalgarno",
+            "The Shine-Dalgarno"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In prokaryotes, it consists of a 30S small and a 50S large subunit. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a4560473"
+    },
+    {
+      "id": "332a3c82-ec52-4f00-ac6f-ca6338e62070",
+      "linkedTossupId": "1a75e7d1-a7e3-4033-aae9-3842e9c175f9",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these two countries that signed the 1569 Union of Lublin, unifying into a commonwealth that would last until it lost its land in a series of 18th century partitions.",
+          "answer": "Poland",
+          "acceptableAnswers": [
+            "Poland",
+            "the Kingdom of Poland and the Grand Duchy of Lithuania",
+            "Korona Królestwa Polskiego and Didi Kunigystė Lietuvos",
+            "the Polish–Lithuanian Commonwealth",
+            "The Poland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A famous part of the army of the Polish-Lithuanian Commonwealth were the Winged Hussars, an elite cavalry unit that lifted the Ottoman siege of this present-day European country's capital city of Vienna.",
+          "answer": "Austria",
+          "acceptableAnswers": [
+            "Austria",
+            "The Austria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Polish-Lithuanian parliament was famously ineffective due to its law enabling any member to unilaterally perform this action to block any legislation. The President of the US has this power, although they can be overridden with a two-thirds vote in both chambers of Congress.",
+          "answer": "veto",
+          "acceptableAnswers": [
+            "veto",
+            "liberum veto",
+            "The veto"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The term \"Deluge\" refers to a period in which Sweden occupied a union of these two countries, which was governed by a parliament called the sejm (same). For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ed8b"
+    },
+    {
+      "id": "2901ac25-70aa-41d6-84f9-feb5348111fb",
+      "linkedTossupId": "cc1a6181-fce7-48a2-88d7-b4ec90831137",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this trigonometric law named after a function which relates the adjacent side of a right triangle to the hypotenuse.",
+          "answer": "Law of Cosines",
+          "acceptableAnswers": [
+            "Law of Cosines",
+            "The Law of Cosines"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "For right triangles, the Law of Cosines will simplify to this theorem. This is because the cosine of 90 degrees equals zero.",
+          "answer": "Pythagorean Theorem",
+          "acceptableAnswers": [
+            "Pythagorean Theorem",
+            "The Pythagorean Theorem"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One can also use the Law of Cosines and a bit of algebra to prove this formula named for an Alexandrian mathematician. It relates a triangle's semiperimeter and side lengths to its area.",
+          "answer": "Heron’s",
+          "acceptableAnswers": [
+            "Heron’s",
+            "The Heron’s"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "If one knows the lengths of two sides of a triangle and the angle between those legs, they can use this formula to calculate the length of the remaining side. For 10 points:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b8c1"
+    },
+    {
+      "id": "d2a27380-6975-4b37-968c-917e228dd074",
+      "linkedTossupId": "557a4112-6034-42a0-876f-053098db94b5",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this work, whose fourth movement also includes a quote from Franz Lehár's The Merry Widow as a parody of Shostakovich's earlier quote of the work in his Leningrad Symphony.",
+          "answer": "Concerto for Orchestra",
+          "acceptableAnswers": [
+            "Concerto for Orchestra",
+            "Sz. 116",
+            "accept BUT DO NOT REVEAL Bela Bartok’s Concerto for Orchestra",
+            "accept BUT DO NOT REVEAL BB 123",
+            "The Concerto for Orchestra"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer drew inspiration from his country's folk music for his Concerto for Orchestra. This Hungarian composer and ethnomusicologist composed The Miraculous Mandarin and is known for his style of \"night music.\"",
+          "answer": "Bartók",
+          "acceptableAnswers": [
+            "Bartók",
+            "Béla Viktor János Bartók",
+            "The Bartók"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In works like Concerto for Orchestra and The Miraculous Mandarin, Bartok frequently called for this technique in his brass parts, denoted by the instruction con sordino.",
+          "answer": "mute",
+          "acceptableAnswers": [
+            "mute",
+            "word forms like muted",
+            "The mute"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This piece's \"Intermezzo interrotto\" fourth movement features a trombone glissando that is not possible on modern instruments since it was originally written for a bass trombone pitched in F. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68846990641a9dc975af87d7"
+    },
+    {
+      "id": "16569f25-5693-415d-ac73-25e94b60dec0",
+      "linkedTossupId": "8dcb7bf3-830a-4f22-b5ff-d571aa252099",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this disfiguring disease, now called Hansen's disease, which made those it afflicted ritually impure and shunned.",
+          "answer": "leprosy",
+          "acceptableAnswers": [
+            "leprosy",
+            "tzara'ath",
+            "The leprosy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of Canticle of the Sun spent much time tending to lepers shortly after declaring that he would marry \"Lady Poverty.\" Like Catherine of Siena, he is a patron saint of Italy.",
+          "answer": "Francis",
+          "acceptableAnswers": [
+            "Francis",
+            "The Francis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pope John Paul II beatified this 19th century father, who traveled to Molokai and tended to people in a leper colony in Hawaii before being struck with the disease himself.",
+          "answer": "Damien",
+          "acceptableAnswers": [
+            "Damien",
+            "Saint Damien",
+            "accept Jozef De Veuster",
+            "The Damien"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of the miracles of Jesus, recounted in the opening of Matthew Chapter 8, is the curing of a man with this condition. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae4bf"
+    },
+    {
+      "id": "9fa8cf5f-fe7d-4c25-90ac-28b631dc99e6",
+      "linkedTossupId": "590e4f44-548f-436a-bffa-b406f8459dc7",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This first novel in \"A Song of Ice and Fire\" details the reign and death of King Robert I Baratheon.",
+          "answer": "Game of Thrones",
+          "acceptableAnswers": [
+            "Game of Thrones",
+            "The Game of Thrones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lord Eddard Stark is stabbed non-fatally by this Lord Commander of the Kingsguard, the eldest son of Tywin and incestuous lover of Cersei.",
+          "answer": "Jaime",
+          "acceptableAnswers": [
+            "Jaime",
+            "The Jaime"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Jaime Lannister is often called \"Kingslayer\" for his brutal murder and betrayal of this \"Mad King\".",
+          "answer": "Aerys",
+          "acceptableAnswers": [
+            "Aerys",
+            "The Aerys"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about a popular series of books made into an HBO television series, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a753"
+    }
+  ]
+}

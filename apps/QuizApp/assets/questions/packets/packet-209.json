@@ -1,0 +1,1165 @@
+{
+  "packetId": "packet-209",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "Mythology",
+    "Geography",
+    "History",
+    "Fine Arts",
+    "Literature"
+  ],
+  "tossups": [
+    {
+      "id": "a0ab9b4d-a8f3-4625-bc89-d5ca85d6f61e",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "Description acceptable. This process begins when exceeding a limit proportional to the fourth power of the speed of sound over alpha times big-G to the three-halves. Edwin Salpeter's IMF models the results of this process. Recent estimates suggest that the rate of this process scales with the 1.4th power of the surface gas density by the empirical Kennicutt-Schmidt law. Exceeding the Bonnor-Ebert and Jeans masses will begin this process, which produces T Tauri objects that then evolve to follow the Hayashi track downwards. This process begins when a molecular cloud in the ISM loses hydrostatic equilibrium and undergoes gravitational collapse so that fusion occurs. For 10 points, identify this process that creates the objects found on Hertzsprung-Russell diagrams, such as Alpha Centauri.",
+      "powerMarkPosition": 372,
+      "answer": "star formation",
+      "acceptableAnswers": [
+        "star formation",
+        "stellar formation",
+        "equivalents mentioning the idea of stars being created",
+        "accept star formation rate",
+        "prompt on SFR",
+        "prompt on gravitational collapse until read by asking “what other process does that lead to?”",
+        "The star formation"
+      ],
+      "source": "qbreader",
+      "sourceId": "673ec01090236da031c2cfc1"
+    },
+    {
+      "id": "8e48dfef-f5bc-45bc-ad01-1fb36b1c1a84",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "One deity of this domain is depicted with a bronze bull's head and an iron forehead, and was originally a Hmong king. One deity of this domain had a name meaning 'opener of the ways', and was depicted with the head of a wolf, while another deity of this domain's name translates as 'Eight Banners', and his symbol is the dove. A Hindu god of this domain was born when Shiva's semen spilled into the Ganges, and he is depicted with up to six heads and riding a peacock. It's not the Sun, but one god of this domain wielded the spear-thrower Xiuhcoatl and was born fully grown after Coatlicue was impregnated by a ball of feathers. In Greek tradition, one deity of this domain is the father of Phobos and Deimos. For 10 points, name this domain, governed by gods like Kartikeya, Huitzilopochtli, and Ares.",
+      "powerMarkPosition": 459,
+      "answer": "war",
+      "acceptableAnswers": [
+        "war",
+        "clear-knowledge equivalents",
+        "accept martial gods",
+        "prompt on ‘Chi You’",
+        "‘Wepwawet’",
+        "‘Hachiman’",
+        "‘Kartikeya’",
+        "‘Huitzilopochtli’",
+        "‘Ares’ before said",
+        "The war"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636eec52"
+    },
+    {
+      "id": "4f3c4c89-7e68-455c-9d6f-ff2a526ecd28",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "The Annam Mountains run through the middle of this nation and they contain the cities of Le Thuy and Ba Don. Two colorfully named rivers run through this country's northern half, one of them running through the country's capital. That river, the Red River, emptes into a body of water in which the Maddox and C. Turner Joy were allegedly attacked. Larger cities here are Da Nang and Can Tho, which lies on the Mekong River delta. For ten points, name this Southeast Asian nation, where massive US bombing during this country's namesake war targeted its Northern capital, Hanoi.",
+      "powerMarkPosition": 245,
+      "answer": "Vietnam",
+      "acceptableAnswers": [
+        "Vietnam",
+        "The Vietnam"
+      ],
+      "source": "qbreader",
+      "sourceId": "6531aa9ecde02a8be25ff322"
+    },
+    {
+      "id": "c463d11a-c164-496e-958a-ddda38296c87",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "A man meets one of these figures with seventy heads that is watched over by another who never smiles. These figures make up the forceful Nazi'ats and the gentle Nashitats. Two of these figures carry hammers too large for mankind to lift and question the dead in their graves. Munkar and Nakir are these kind of beings, as are Raqib and Atid who record the deeds of humanity. A prophet encounters many of these beings on the Night Journey and is told to \"Recite!\" by one of these figures during the Night of Power. For 10 points, name these Islamic beings of light encountered by Muhammad, examples of which include Israfil and Jibreel.",
+      "powerMarkPosition": 351,
+      "answer": "angels",
+      "acceptableAnswers": [
+        "angels",
+        "malak",
+        "mala’ikah",
+        "accept archangels",
+        "The angels"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab84b"
+    },
+    {
+      "id": "4ace490b-1297-4388-89f5-706760a3baa1",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "One of these events in 1952 resulted from the decision of the Supreme Court case Youngstown Sheet & Tube Co. v. Sawyer. Anarchists Emma Goldman and Alexander Berkman conspired to assassinate Henry Clay Frick during one of these events that saw fights between AA members and Pinkertons. People hired to \"break\" these events were derisively known as \"scabs,\" and ones targeting the Pullman railroad company and Homestead plant failed due to government intervention. For 10 points, name these events that occur when members of a labor union temporarily refuse to work.",
+      "powerMarkPosition": 273,
+      "answer": "strike",
+      "acceptableAnswers": [
+        "strike",
+        "The strike"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fdc23fc76481561474a06d"
+    },
+    {
+      "id": "d66fd45a-9481-4263-9c20-5dc7f7d2c6da",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "A cathedral with two towers appears on the right side of this painting, while the rest of the background is obscured by smoke. Prominent figures in this painting include a man in a top hat brandishing a gun and a young boy waving two pistols, both of whom stand atop a pile of corpses. This painting's title figure wears a Phrygian cap and a yellow dress that has fallen down. For 10 points, an allegorical figure waves the French tricolor in which painting of the 1830 French Revolution by Eugene Delacroix?",
+      "powerMarkPosition": 322,
+      "answer": "Liberty Leading the People",
+      "acceptableAnswers": [
+        "Liberty Leading the People",
+        "The Liberty Leading the People"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b6f9"
+    },
+    {
+      "id": "46d72705-9143-4499-854e-81ed6b75014b",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "One member of this family gets a strong fever after her mother encourages her to ride on horseback to her love interest's house, despite heavy rain. When discussing that member of this family, one man tells another he is \"dancing with the only handsome girl in the room.\" That man then claims another member of this family is \"tolerable, but not handsome enough to tempt me.\" While one member of this family vacations with her aunt and uncle, the Gardiners, her sister Lydia elopes with Wickham. This family's friend, Charlotte Lucas, marries Mr. Collins. At the end of one novel, Bingley proposes to this family's eldest sister, Jane. For 10 points, Fitzwilliam Darcy marries Elizabeth, a member of what family in Jane Austen's Pride and Prejudice?",
+      "powerMarkPosition": 446,
+      "answer": "Bennet",
+      "acceptableAnswers": [
+        "Bennet",
+        "specific members like Jane Bennet",
+        "Elizabeth Bennet",
+        "Lydia Bennet",
+        "prompt on the family from Pride and Prejudice before mention",
+        "The Bennet"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f30f3a499e50c9ee5d90be"
+    },
+    {
+      "id": "11caa6c4-e91d-4f82-944e-16ef2954d90a",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "Samples of acetic acid without this compound are termed \"glacial.\" According to the Arrhenius definition, acids and bases are distinguished by their interactions with this compound. This compound's phase diagram has a negatively sloped solid-liquid boundary. One cubic centimeter of this compound at room temperature is equal to one gram, and the Celsius temperature scale was defined using this compound's melting point and boiling point.",
+      "powerMarkPosition": 217,
+      "answer": "water",
+      "acceptableAnswers": [
+        "water",
+        "The water"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b7f8"
+    },
+    {
+      "id": "1c301597-db41-4f30-9550-9108516b5a9d",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "This geologic period included the first appearance of the Glomerula tube worms of the Sabellidae family, as well as the first appearance of reef-building heterodont bivalves called rudists. The extinction event preceding this period completely wiped out the conodonts, and this period also included a smaller extinction event called the Toarcian turnover. Fossils in the Solnhofen Limestone and the Morrison Formation date from this period. During this period, the supercontinent of Pangaea began to break up into Laurasia and Gondwana, and one could witness the Allosaurus engage in thrilling battles with the Stegosaurus. For 10 points, name this period of the Mesozoic era that was followed by the Cretaceous and preceded by the Triassic.",
+      "powerMarkPosition": 398,
+      "answer": "Jurassic",
+      "acceptableAnswers": [
+        "Jurassic",
+        "The Jurassic"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d645"
+    },
+    {
+      "id": "6c98f541-a0e3-4a60-a56c-684926444dfe",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "Jan [\"YAHN\"] Palach self-immolated in this city to protest the presence of Soviet tanks in this city following a Warsaw Pact invasion. The death of Jan Masaryk under suspicious circumstances following a 1948 communist coup [\"koo\"] led it to be called this city's \"Third Defenestration.\" Alexander Dubcek tried to implement \"socialism with a human face\" through liberalizing reforms in a period known as this city's \"Spring.\" For 10 points, name this European city, the capital of Czechia.",
+      "powerMarkPosition": 340,
+      "answer": "Prague",
+      "acceptableAnswers": [
+        "Prague",
+        "Praha",
+        "Praga",
+        "the Prague Spring until “Spring” is read",
+        "The Prague"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eeadce1032cda62a6774d4"
+    },
+    {
+      "id": "4e9db7bc-d24c-42ce-8046-af5c3047d8ad",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "An inhabitant of this place once threw himself into a fire in order to feed a starving beggar. A woodcutter is banished to this place to forever chop down a self-healing osmanthus tree. Guǎnghán Palace is located in this place, a goddess of which causes Zhū Bājiè (\"JOO BAH-jyeh\") to be banished from heaven for flirting with her. A goddess of this place is accompanied by a jade rabbit and is given the elixir of immortality by her husband, Hòu Yì (\"hoe yee\"). Cháng'é (\"chang-uh\") is a goddess of this place, which names \"cakes\" often consumed during the Mid-Autumn Festival. For 10 points, the months of the Chinese calendar are based on the phases of what celestial object?",
+      "powerMarkPosition": 374,
+      "answer": "moon",
+      "acceptableAnswers": [
+        "moon",
+        "mooncakes",
+        "The moon"
+      ],
+      "source": "qbreader",
+      "sourceId": "6727fb4a0a73c65be67f78d1"
+    },
+    {
+      "id": "2225d9f0-6cdc-469f-8242-4cd2c1403139",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "Six \"rude mechanicals\" in this play act out Pyramus and Thisbe. The male lead in that play within this play is Nick Bottom, whose head is turned into a donkey's head by a character called Robin Goodfellow. This play centers around romantic conflict between Helena, Lysander, Demetrius, and Hermia, as well as the trickster sprite Puck. For 10 points, name this Shakespeare comedy about the marriage of Theseus and Hippolyta.",
+      "powerMarkPosition": 256,
+      "answer": "Midsummer Night’s Dream",
+      "acceptableAnswers": [
+        "Midsummer Night’s Dream",
+        "The Midsummer Night’s Dream"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a504ad"
+    },
+    {
+      "id": "0a768e85-7241-4990-b9c2-24390d3535d7",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "According to Ovid's Metamorphoses, the gum of the myrrh tree was formed from this substance. According to the Prose Edda, Freya produced a \"red gold\" version of this substance. A rock on Mount Sipylus was perpetually coated with this substance. After their transformation into poplar trees, Phaethon's sisters produced amber instead of this substance. While disguised as a giantess, Loki was the sole being who refused to produce this substance for Baldr. After Artemis and Apollo slew her children, Niobe unceasingly produced-for 10 points-what salty liquid as she mourned atop a mountain?",
+      "powerMarkPosition": 290,
+      "answer": "tear",
+      "acceptableAnswers": [
+        "tear",
+        "The tear"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0adca6"
+    },
+    {
+      "id": "ed9e278f-4eef-49f2-a4d6-3ea6a7a1c2ea",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "One result of this meeting was the formation of a Counsel of Foreign Ministers that would reevaluate an agreement involving terms of Turkish naval control, the Montreux Convention. Also created here was an agreement that included a demand to enforce the Cairo Declaration under threat of \"prompt and utter destruction.\" This conference resulted in millions of German nationals being forcibly relocated due to its declaration of the Oder-Neisse line as the western border of Poland. For 10 points, name this meeting of Winston Churchill, Joseph Stalin and Harry Truman that laid out terms of surrender for the Axis and plans for the future of formerly occupied Europe.",
+      "powerMarkPosition": 481,
+      "answer": "Potsdam",
+      "acceptableAnswers": [
+        "Potsdam",
+        "The Potsdam"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a4560050"
+    },
+    {
+      "id": "b33021ec-83de-4746-8e79-26ef73b406d1",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "In SVT theory, the background vacuum of the universe is modeled as a BEC exhibiting this phenomenon. A loss of heat in one molecule's melting named for Pomeranchuk enables the creation of one substance that experience this effect. Quasiparticle excitations called rotons were invented in Lev Landau's Nobel-winning study of this phenomenon. Heat transfers in some substances experiencing this effect via the \"second sound,\" and a Rollin film of one of them can display the Onnes effect. Below the lambda point, Helium-4 exhibits this phenomenon, enabling it to creep up walls. For 10 points, identify this phenomenon in which fluids at sufficiently low temperatures have no viscosity.",
+      "powerMarkPosition": 230,
+      "answer": "superfluid",
+      "acceptableAnswers": [
+        "superfluid",
+        "The superfluid"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0702bb8d2514c62130b77"
+    },
+    {
+      "id": "43a3f05f-ee9c-4f97-85a0-16026963fb3c",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "One technique for performing this chemical process was developed when it was discovered that alanine undergoes this process more readily in the presence of tryptophan. Sinapinic [\"SIN-uh-PIN-ick\"] acid is often used in that technique that performs this process, where it serves as a matrix. This process's \"ambient\" forms include one where this process is applied to a liquid, which in turn applies this process to a gas. Forms of this process are described as \"hard\" if they cause a molecule to fragment; \"soft\" types of this process include its electrospray type, which molecules often undergo before being analyzed in mass spectrometry. Atoms with one valence electron have a low value for the energy named for this process. For 10 points, name this process in which a molecule becomes electrically charged.",
+      "powerMarkPosition": 546,
+      "answer": "ionization",
+      "acceptableAnswers": [
+        "ionization",
+        "matrix-assisted laser deposition ionization",
+        "MALDI",
+        "secondary electrospray ionization",
+        "SESI",
+        "electrospray ionization",
+        "ESI",
+        "first ionization energy",
+        "prompt on mass spec",
+        "mass spectrometry",
+        "mass spectroscopy before mentioned",
+        "The ionization"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed60f81539231f571ee258"
+    },
+    {
+      "id": "01a0a32d-7676-4166-b691-b9dac51b99b2",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "text": "In one opera by this composer, Valzacchi and Annina are enlisted as spies for another character whose romantic defeat is negotiated by the Marschallin. In another, the title character performs the Dance of the Seven Veils before making love to the decapitated head of Jochanaan. In the previous opera, Baron Ochs flees in the final act and Sophie von Faninal is presented with a silver flower by Octavian, the title character. For 10 points, name this German composer of the operas Salome and Der Rosenkavalier, as well as the tone poem Thus Spoke Zarathustra.",
+      "powerMarkPosition": 278,
+      "answer": "Strauss",
+      "acceptableAnswers": [
+        "Strauss",
+        "The Strauss"
+      ],
+      "source": "qbreader",
+      "sourceId": "6632d7074c1a8347da197c9a"
+    },
+    {
+      "id": "0794408e-975d-4c1e-b855-b31e6c493de8",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "This word describes a method of proof that attempts to write every number in binary, then constructs a number that cannot have been represented in that list; that argument shows that the real numbers are uncountable and was advanced by Cantor. This word also refers to square matrices whose only nonzero elements have a row number equal to their column number. For a cube of side length s, the structure by this name has a length of s root 3. Give this word that refers to line segments that connect non-adjacent vertices of a polygon.",
+      "powerMarkPosition": 330,
+      "answer": "diagonal",
+      "acceptableAnswers": [
+        "diagonal",
+        "Cantor's diagonal argument",
+        "accept diagonal matrix",
+        "accept main diagonal",
+        "do not accept \"face diagonal\"",
+        "The diagonal"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d0867240107e0f1ebc"
+    },
+    {
+      "id": "4920b1db-97cd-4974-beb0-17c4a8078323",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "Oxygen production was dependent on this molecule in an experiment performed by Theodor Wilhelm Engelmann that used freshwater algae. Min Chen recently identified the \"f\" type of this molecule in stromatolites. Located in an organelle that is mainly in mesophyll cells, this molecule has a porphyrin ring coordinated to a central magnesium ion. A common experiment involves separation using paper chromatography of carotene, pheophytin, xanthophyll, and the \"a\" and \"b\" types of this molecule. Photosystem I contains a dimer of this molecule whose peak absorption is at 700 nanometers. For 10 points, name this green pigment located in the chloroplasts of plants.",
+      "powerMarkPosition": 343,
+      "answer": "chlorophyll",
+      "acceptableAnswers": [
+        "chlorophyll",
+        "The chlorophyll"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee5a7"
+    },
+    {
+      "id": "49fd7608-e298-4e79-b16b-8763eaec1579",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "Ornstein and Fürth independently derived a general solution that can accurately predict this phenomenon over very short time periods. By considering hard spheres with a constant instantaneous velocity, Smoluchowski was able to derive a law for this process. Jean Perrin used this phenomenon to calculate Avogadro's number. Feynman concluded that the second law of thermodynamics could not be violated by this process' namesake ratchet. This phenomenon was first noted by a Scottish botanist looking at pollen grains floating on water. For 10 points, identify this random motion of particles in suspension.",
+      "powerMarkPosition": 303,
+      "answer": "Brownian motion",
+      "acceptableAnswers": [
+        "Brownian motion",
+        "The Brownian motion"
+      ],
+      "source": "qbreader",
+      "sourceId": "62edba2365d377e2cebbd160"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "ad63b51a-41e8-462e-9c76-8d0139c09954",
+      "linkedTossupId": "a0ab9b4d-a8f3-4625-bc89-d5ca85d6f61e",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this theorem which states that every matrix satisfies its own characteristic equation.",
+          "answer": "Cayley-Hamilton",
+          "acceptableAnswers": [
+            "Cayley-Hamilton",
+            "The Cayley-Hamilton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The characteristic equation is found by applying this operator to the resultant of lambda times the identity matrix minus the original matrix A. For a two-by-two matrix abcd, this operation equals ad minus bc.",
+          "answer": "determinant",
+          "acceptableAnswers": [
+            "determinant",
+            "The determinant"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other theorem states that the dimension of the range of a matrix plus the dimension of the kernel of the matrix will equal the number of columns in the matrix.",
+          "answer": "rank-nullity",
+          "acceptableAnswers": [
+            "rank-nullity",
+            "The rank-nullity"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One important conclusion to this theorem is that a matrix taken to a certain power can be expressed in terms of sums of lower powers of the matrix. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0be10"
+    },
+    {
+      "id": "9c959ea1-a026-468a-b421-7cd09405473f",
+      "linkedTossupId": "8e48dfef-f5bc-45bc-ad01-1fb36b1c1a84",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this characteristic. A deity who was responsible for conferring this attribute on others served as the cupbearer to the gods prior to Ganymede.",
+          "answer": "eternal youth",
+          "acceptableAnswers": [
+            "eternal youth",
+            "youth",
+            "do not accept",
+            "prompt on \"immortality\"",
+            "The eternal youth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This hero gains eternal youth by marrying Hebe after he gains immortality. While a mortal, this hero completed twelve labors as penance for killing his first wife and children.",
+          "answer": "Heracles",
+          "acceptableAnswers": [
+            "Heracles",
+            "Hercules",
+            "The Heracles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This object granted its user eternal youth. This cursed object was created by Haephestus to get revenge on Aphrodite by bringing misfortune on her descendants through this object's namesake.",
+          "answer": "Necklace of Harmonia",
+          "acceptableAnswers": [
+            "Necklace of Harmonia",
+            "Necklace of Eriphyle",
+            "The Necklace of Harmonia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After Eos forgets to ask Zeus to give this characteristic to her lover Tithonus, he is turned into a cricket. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d89b901b9f4c4f11ae1b6f"
+    },
+    {
+      "id": "92259de6-f473-44b2-93af-a5c88b4fcf82",
+      "linkedTossupId": "4f3c4c89-7e68-455c-9d6f-ff2a526ecd28",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Dunaliella salina algae causes the pink color of this country's Lake Retba, or Lac Rose. That lake is located just north of this country's Cap Vert Peninsula.",
+          "answer": "Senegal",
+          "acceptableAnswers": [
+            "Senegal",
+            "The Senegal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this nation, Lake Spencer, the Hutt Lagoon and Lake Hillier are all sometimes colored purple due to their high salinity. Other saline lakes in this nation include its largest, Lake Eyre.",
+          "answer": "Australia",
+          "acceptableAnswers": [
+            "Australia",
+            "The Australia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Although not pink, there does exist a lake in Gatineau Park which is named Pink Lake. That lake is found in this nation's large French speaking province of Quebec.",
+          "answer": "Canada",
+          "acceptableAnswers": [
+            "Canada",
+            "The Canada"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about some pink bodies of water:",
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa59132016d8"
+    },
+    {
+      "id": "8007446c-652d-4dfc-b654-00b3197385bd",
+      "linkedTossupId": "c463d11a-c164-496e-958a-ddda38296c87",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these people who celebrated the four-month-long Makahiki festival said to be founded by Lono himself. That festival involed carrying Lono's statue clockwise around this people's' central island.",
+          "answer": "Hawaiian",
+          "acceptableAnswers": [
+            "Hawaiian",
+            "Polynesian",
+            "The Hawaiian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Hawaiian trickster hero created the Hawaiian islands when he hauled them up from the deep with his fishing line. This figure also slowed down the sun by beating it with his grandmother's jawbone to give humans more time in the day to cook food.",
+          "answer": "Maui",
+          "acceptableAnswers": [
+            "Maui",
+            "The Maui"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Maui gave fire to mankind when he tricked the ancestor-heroine Mahui-ike into relinquishing part of these body parts. In Inuit myth, these digits belonging to Sedna became the world's whales and seals.",
+          "answer": "fingers",
+          "acceptableAnswers": [
+            "fingers",
+            "fingernails",
+            "The fingers"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The year of these people was divided into the time controlled by Ku, god of earth and warfare, and Lono, god of peace and cultivation. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289caebe"
+    },
+    {
+      "id": "fd2da662-0945-4eeb-ae14-415bba09ea85",
+      "linkedTossupId": "4ace490b-1297-4388-89f5-706760a3baa1",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this tax instituted by Peter the Great in 1698 in order to modernize Russian society.",
+          "answer": "beard",
+          "acceptableAnswers": [
+            "beard",
+            "facial hair tax",
+            "The beard"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Though clean-shaven nobles were obviously important too, Russia got a lot more international respect after it led a successful coalition against Sweden in this early 18th century war.",
+          "answer": "Great Northern",
+          "acceptableAnswers": [
+            "Great Northern",
+            "The Great Northern"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 1725, Peter was succeeded as tsar by his second wife, who had this name. The second queen of this name was the enlightened despot who ruled for 34 years at the end of the 18th century.",
+          "answer": "Catherine",
+          "acceptableAnswers": [
+            "Catherine",
+            "Catherine II",
+            "Catherine the Great",
+            "The Catherine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "People who obeyed this law were given a copper token and a medal claiming that the item in question was a \"useless burden.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0e0e5"
+    },
+    {
+      "id": "679f4247-d579-47b4-ad9b-a289f3aa3edc",
+      "linkedTossupId": "d66fd45a-9481-4263-9c20-5dc7f7d2c6da",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this artist who depicted a woman picking fruit, and a blue idol in the background, in Where Do We Come From? What Are We? Where Are We Going?",
+          "answer": "Gauguin",
+          "acceptableAnswers": [
+            "Gauguin",
+            "The Gauguin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gauguin depicted \"green\" and \"yellow\" versions of this figure, who is held by Mary in Michelangelo's Pieta.",
+          "answer": "Jesus",
+          "acceptableAnswers": [
+            "Jesus",
+            "The Jesus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gauguin spent nine weeks with this artist of Bedroom in Arles before moving to Tahiti. During those nine weeks, this artist of The Potato Eaters cut off his ear.",
+          "answer": "van Gogh",
+          "acceptableAnswers": [
+            "van Gogh",
+            "The van Gogh"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This artist depicted a young indigenous woman with a white flower over her ear in When Will You Marry?, an emulation of \"Primitive\" art. For 10 points each-",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7c4b"
+    },
+    {
+      "id": "a79cb334-82e1-4bb7-9b9d-bb24c408923b",
+      "linkedTossupId": "46d72705-9143-4499-854e-81ed6b75014b",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This former high-school basketball star is married to Janice, from whose father he inherits a Toyota dealership in the third of four novels about him by John Updike.",
+          "answer": "Rabbit",
+          "acceptableAnswers": [
+            "Rabbit",
+            "The Rabbit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lennie loves to stroke soft things and plans to own a rabbit farm with George and Crooks in this novella about two migrant farm workers by John Steinbeck.",
+          "answer": "Of Mice and Men",
+          "acceptableAnswers": [
+            "Of Mice and Men",
+            "The Of Mice and Men"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The narrator of one story by this man vomits up rabbits in the title character's apartment. In addition to \"Letter to a Young Lady in Paris\", he wrote about Horatio Oliveira's search for La Maga in Hopscotch.",
+          "answer": "Cortazar",
+          "acceptableAnswers": [
+            "Cortazar",
+            "The Cortazar"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these literary things that have in common a soft and furry animal.",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c61193497fb"
+    },
+    {
+      "id": "1192f300-1f56-4b50-924d-4b7b296f8229",
+      "linkedTossupId": "11caa6c4-e91d-4f82-944e-16ef2954d90a",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this landmass that existed before the seven continents began to split.",
+          "answer": "Pangaea",
+          "acceptableAnswers": [
+            "Pangaea",
+            "The Pangaea"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "When Pangaea broke apart in the Mesozoic Era, Laurasia and this other supercontinent to the south were formed.",
+          "answer": "Gondwana",
+          "acceptableAnswers": [
+            "Gondwana",
+            "The Gondwana"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The breaking apart of Pangaea can be explained by this theory. Developed by Alfred Wegener in 1912, it gained traction in academic circles after the development of plate tectonic theory.",
+          "answer": "continental drift",
+          "acceptableAnswers": [
+            "continental drift",
+            "The continental drift"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Surrounded by Panthalassa, the existence of this supercontinent is supported by the distribution of fossils like Lystrosaurus. For 10 points each.",
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f210f"
+    },
+    {
+      "id": "d797cef8-9381-41d7-9358-e3a929f5cb44",
+      "linkedTossupId": "1c301597-db41-4f30-9550-9108516b5a9d",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this gaseous molecule that forms the second largest component of flue gas, after inert nitrogen. It can be removed from gas streams using amine scrubbing agents like MEA.",
+          "answer": "carbon dioxide",
+          "acceptableAnswers": [
+            "carbon dioxide",
+            "CO2",
+            "The carbon dioxide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A common way to scrub carbon dioxide is by absorbing it with a dilute solution of base, which includes this ion. This ion reacts with hydronium to form water.",
+          "answer": "hydroxide",
+          "acceptableAnswers": [
+            "hydroxide",
+            "OH-",
+            "The hydroxide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Carbon dioxide can also be forced out of gas mixtures using this specific isothermal adsorption process. This process uses cyclic steady states with two columns and can be used for hydrogen purification.",
+          "answer": "pressure swing",
+          "acceptableAnswers": [
+            "pressure swing",
+            "PSA",
+            "The pressure swing"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This molecule is commonly separated out of industrial exhaust alongside hydrogen sulfide. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68846995641a9dc975af8843"
+    },
+    {
+      "id": "f963b962-98a2-4fb8-a4ec-49dc70438d6b",
+      "linkedTossupId": "6c98f541-a0e3-4a60-a56c-684926444dfe",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this 1807 act that prohibited American trade to all foreign countries. It was repealed two years later due to its unpopularity and economic damage.",
+          "answer": "Embargo Act",
+          "acceptableAnswers": [
+            "Embargo Act",
+            "The Embargo Act"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Embargo Act of 1807 was passed by this third president of the United States. This author of the Declaration of Independence served as president when the US negotiated the Louisiana Purchase in 1803.",
+          "answer": "Jefferson",
+          "acceptableAnswers": [
+            "Jefferson",
+            "The Jefferson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Embargo Act worsened America's international standing in the lead-up to this conflict. This war, named for the year in which it began, included the burning of Washington D.C. by the British and the Battle of New Orleans.",
+          "answer": "1812",
+          "acceptableAnswers": [
+            "1812",
+            "The 1812"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One famous cartoon referencing this legislation shows a snapping turtle symbolizing this legislation biting a merchant. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ecba"
+    },
+    {
+      "id": "26483648-3612-4b17-8f5e-55278f1b048f",
+      "linkedTossupId": "4e9db7bc-d24c-42ce-8046-af5c3047d8ad",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this producer of grain, salt, and gold that was smashed and lost at sea, turning the waters salty.",
+          "answer": "Sampo",
+          "acceptableAnswers": [
+            "Sampo",
+            "Sammas",
+            "The Sampo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Sampo was forged by Ilmarinen, a figure with this profession. In Greek myth, Hephaestus was sacred to workers who had this job.",
+          "answer": "smith",
+          "acceptableAnswers": [
+            "smith",
+            "user of the forge",
+            "accept any kind of metalworker",
+            "The smith"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ilmarinen forged the Sampo as part of the 50 songs of this Finnish epic written by Elias Lonnrot.",
+          "answer": "Kalevala",
+          "acceptableAnswers": [
+            "Kalevala",
+            "The Kalevala"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Louhi turned herself into an eagle in order to retrieve this item stolen from her. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c06e578a78206cf207d7"
+    },
+    {
+      "id": "197d5247-8f39-487b-82c8-9acaa7bbf258",
+      "linkedTossupId": "2225d9f0-6cdc-469f-8242-4cd2c1403139",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel detailing Celie's struggle against abusive men such as her father Alphonso and her husband Mister. Its title refers to the observation that the title concept, although simple, can be thought of as a gift from God.",
+          "answer": "Col",
+          "acceptableAnswers": [
+            "Col",
+            "The Col"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of The Third Life of Grange Copeland is best known for writing The Color Purple. Recently, she has attracted controversy for defending antisemitic conspiracy theorist David Icke.",
+          "answer": "Walker",
+          "acceptableAnswers": [
+            "Walker",
+            "The Walker"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Walker coined the term \"womanism\" as a black-focused version of this philosophy, which advocates the equality of the sexes. Other proponents of this movement include Betty Freidan and Gloria Steinem.",
+          "answer": "feminism",
+          "acceptableAnswers": [
+            "feminism",
+            "The feminism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "At the end of this novel, Celie reunites with her sister Nettie, who had been doing missionary work in Africa with her adoptive parents Samuel and Corrine. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eeadce1032cda62a677516"
+    },
+    {
+      "id": "1d681877-ac67-469e-a15f-265e576631ae",
+      "linkedTossupId": "0a768e85-7241-4990-b9c2-24390d3535d7",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The Chimera had the head of a lion, as well as a tail that some sources say had a snake's head at its end. Its third head was one of this animal, coming from the middle of its back.",
+          "answer": "goat",
+          "acceptableAnswers": [
+            "goat",
+            "The goat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The nine-headed bird was an early form of the phoenix in this nation's mythology. This country's mythology also includes characters like Pangu and Sun Wukong.",
+          "answer": "China",
+          "acceptableAnswers": [
+            "China",
+            "The China"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This white elephant belonging to Indra had three heads and was the king of all elephants. It is able to suck up the waters of the underworld and spray them into the clouds.",
+          "answer": "Airavata",
+          "acceptableAnswers": [
+            "Airavata",
+            "The Airavata"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The more heads, the better! For 10 points each, name these things about mythological creatures with more than one head.",
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144b96"
+    },
+    {
+      "id": "845ecbc1-9830-45eb-9739-0efe1d54cf6a",
+      "linkedTossupId": "ed9e278f-4eef-49f2-a4d6-3ea6a7a1c2ea",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this crop which, alongside coffee, allowed Sao Tome and Principe to generate wealth under the Servicaes [SAIR-vi-SIGHsh] system. Henri Nestlé invented a product that mixes this crop with sugar and condensed milk.",
+          "answer": "cocoa",
+          "acceptableAnswers": [
+            "cocoa",
+            "chocolate",
+            "cacao",
+            "The cocoa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tettah Quarshie is considered the father of chocolate in this West African country where he introduced it in 1876 and which is its main agricultural export. Ashanti lands in this country were exploited and organised under the pre-independence British Gold Coast administration.",
+          "answer": "Ghana",
+          "acceptableAnswers": [
+            "Ghana",
+            "The Ghana"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Quarshie brought chocolate beans to Ghana from this island in the Bight of Biafra. The Bubi people are indigenous to this island, which was formerly named after the Portuguese explorer who spotted it in 1494.",
+          "answer": "Bioko",
+          "acceptableAnswers": [
+            "Bioko",
+            "Fernando Po",
+            "The Bioko"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Spanish began growing the Amelonado variety of this crop in the 19th century in hopes of restarting the craze it enjoyed in the Iberian Peninsula in earlier times. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6504ab689ee6e14c2d0e41af"
+    },
+    {
+      "id": "56fae357-3086-4ecb-9eff-f45c7d9389ea",
+      "linkedTossupId": "b33021ec-83de-4746-8e79-26ef73b406d1",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this gas law that is a combination of Boyle's Law, Charles' Law, and Avogadro's Law.",
+          "answer": "Ideal Gas Law",
+          "acceptableAnswers": [
+            "Ideal Gas Law",
+            "The Ideal Gas Law"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This equation of state was invented by its eponymous Dutchman. It uses two constants, a and b, to take into account intermolecular forces and the space taken up by molecules.",
+          "answer": "van der Waals",
+          "acceptableAnswers": [
+            "van der Waals",
+            "The van der Waals"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Kinetic-molecular theory states that the root mean squared velocity of a gas is equal to the square root of the ratio of the product of this number and RT to the molar mass.",
+          "answer": "3",
+          "acceptableAnswers": [
+            "3"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This law is stated as PV equals nRT. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b15b"
+    },
+    {
+      "id": "b79d5fa9-90c7-43ac-bbe3-e06685f7eb3d",
+      "linkedTossupId": "43a3f05f-ee9c-4f97-85a0-16026963fb3c",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this property of certain anisotropic crystals, which involves having different indeces of refraction depending on the direction of light propagation in the crystal.",
+          "answer": "birefringence",
+          "acceptableAnswers": [
+            "birefringence",
+            "The birefringence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "To exhibit birefringence, a crystal must be of this type. These types of crystals have two equal axes and one that is different from the other two and gives rise to the extraordinary index.",
+          "answer": "uniaxial",
+          "acceptableAnswers": [
+            "uniaxial",
+            "The uniaxial"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Birefringence may be induced via the Kerr effect, in which case the change in the index of refraction is proportional to the square of the magnitude of this quantity.",
+          "answer": "electric field",
+          "acceptableAnswers": [
+            "electric field",
+            "The electric field"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It can be quantified by the difference between the ordinary and extraordinary index of refraction. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fbdc"
+    },
+    {
+      "id": "161b8ebc-6a42-4964-a429-ac6730066ba3",
+      "linkedTossupId": "01a0a32d-7676-4166-b691-b9dac51b99b2",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Austrian composer of the Surprise Symphony.",
+          "answer": "Haydn",
+          "acceptableAnswers": [
+            "Haydn",
+            "The Haydn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Surprise Symphony is the second of this set of twelve symphonies named after a European capital.",
+          "answer": "London",
+          "acceptableAnswers": [
+            "London",
+            "The London"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Haydn's Symphony No. 101 in D Major is often known by this name in reference to the \"ticking\" rhythm used during its Andante section.",
+          "answer": "Clock",
+          "acceptableAnswers": [
+            "Clock",
+            "The Clock"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of his compositions features a sudden fortissimo chord at the end of its second movement. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe5d6"
+    },
+    {
+      "id": "15ad3383-ef8b-4f5a-858d-4a37fdd7fb48",
+      "linkedTossupId": "0794408e-975d-4c1e-b855-b31e6c493de8",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this law of classical mechanics.",
+          "answer": "Hooke",
+          "acceptableAnswers": [
+            "Hooke",
+            "The Hooke"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This quantity is defined as the ratio of stress over strain in the stress range in which Hooke's law holds. It is often determined during tensile-testing.",
+          "answer": "Young’s modulus",
+          "acceptableAnswers": [
+            "Young’s modulus",
+            "elsastic modulus",
+            "tensile modulus and any word forms thereof",
+            "prompt on “E”",
+            "The Young’s modulus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the point on a stress-strain curve beyond which Hooke's law no longer holds. Beyond this point, materials start to behave plastically.",
+          "answer": "yield",
+          "acceptableAnswers": [
+            "yield",
+            "The yield"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It states that the extension of a spring is in direct proportion with the load added to it. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0ed5"
+    },
+    {
+      "id": "98a92b68-267e-4aa4-a38b-5eecb9a15818",
+      "linkedTossupId": "4920b1db-97cd-4974-beb0-17c4a8078323",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this physical quantity equal to 1 over c times the energy flux. In proposed solar sail designs, this phenomenon from the sun will propel the sail through space.",
+          "answer": "radiation pressure",
+          "acceptableAnswers": [
+            "radiation pressure",
+            "partial answer",
+            "The radiation pressure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This effect competes with radiation pressure for non-spherical bodies with albedo variations. This effect explains how a body moving through space is affected by the heating on one side and the cooling of the other.",
+          "answer": "Yarkovsky",
+          "acceptableAnswers": [
+            "Yarkovsky",
+            "The Yarkovsky"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The tails of these astronomical bodies are affected by both solar wind and radiation pressure as the dust flies away from the sun. Eponymous examples of these icy bodies that can be seen from Earth include ones named for Halley and Hale and Bopp.",
+          "answer": "comets",
+          "acceptableAnswers": [
+            "comets",
+            "specific examples such as Halley's Comet",
+            "Comet Hale-Bopp",
+            "The comets"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A factor corresponding to this phenomenon is equal to [read slowly] pi times big R squared times F divided by the mass times the speed of light, and is used to quantify an effect often contrasted with the YORP effect. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0aebd0"
+    },
+    {
+      "id": "885364df-5fe3-4365-b86e-e7ee5030b8dc",
+      "linkedTossupId": "49fd7608-e298-4e79-b16b-8763eaec1579",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these strong covalent bond that form between the thiol groups of cysteine residues.",
+          "answer": "disulfide",
+          "acceptableAnswers": [
+            "disulfide",
+            "S-S",
+            "sulfur-sulfur bonds",
+            "accept disulfide bridges",
+            "The disulfide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Di·sulfide bonds form cross-links between cure sites on alkenes (\"al-keens\") and allyl groups in this process that hardens and stabilizes rubber. Systems for this process usually use zinc oxide, a fatty acid, and organic accelerators.",
+          "answer": "vulcanization",
+          "acceptableAnswers": [
+            "vulcanization",
+            "vulcanization of rubber",
+            "The vulcanization"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In addition to nitrogen, phosphorus, and potassium, sulfur is the fourth most important plant nutrient used in these materials. These materials are added to the soil to improve plant growth.",
+          "answer": "fertilizer",
+          "acceptableAnswers": [
+            "fertilizer",
+            "plant foods",
+            "The fertilizer"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "During a perm, straight hair is made curly by the reduction of this type of bond present in alpha-keratin. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c06e578a78206cf20926"
+    }
+  ]
+}

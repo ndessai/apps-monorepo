@@ -1,0 +1,1137 @@
+{
+  "packetId": "packet-151",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Science",
+    "Fine Arts",
+    "Social Science",
+    "Human Body",
+    "Literature",
+    "Philosophy"
+  ],
+  "tossups": [
+    {
+      "id": "64a730a7-5466-4666-b2c9-010963f38030",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "This country's police fired on a crowd protesting \"pass-book laws\" in the Sharpeville massacre. This country's Rivonia trial accused a man who later won a Nobel Prize with F.W. De Klerk; that leader wrote the book Long Walk to Freedom and was imprisoned on Robben Island. An Afrikaans-speaking white minority created the policy of apartheid that Nelson Mandela opposed in, for 10 points, what country on the tip of Africa?",
+      "powerMarkPosition": 274,
+      "answer": "South Africa",
+      "acceptableAnswers": [
+        "South Africa",
+        "RSA",
+        "The South Africa"
+      ],
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ecd4"
+    },
+    {
+      "id": "85c0a446-c757-488f-ab32-a4721a49c744",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "Lord Kelvin patented Kelvin's Spheres or Kelvin's Balls to improve the function of this device. Flavio Gioja [FLAH-vee-oh JOY-uh] introduced a fleur-de-lis design for this device adopted in medieval Europe. Early versions of this device were used for geomancy and, along with paper, gunpowder, and printing, comprise the Four Great Inventions of China. In the medieval Muslim world, the \"dry\" variety of this device was used to find the qibla. Lodestone was used in, for 10 points, what device that uses magnetization to identify directions?",
+      "powerMarkPosition": 275,
+      "answer": "compass",
+      "acceptableAnswers": [
+        "compass",
+        "The compass"
+      ],
+      "source": "qbreader",
+      "sourceId": "644052b286e2a9ad33a47170"
+    },
+    {
+      "id": "5f56e690-b132-46f8-a7cf-2985aa686156",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "In mammals, these entities may be influenced by light-sensitive melanopsin ganglion cells. They are entrained by a periodic environmental signal called the zeitgeber and are called \"free running\" in the absence of such a signal. Their occurrence is coordinated by an area within the anterior hypothalamus, the suprachiasmatic nucleus, and disorders related to these in humans include advanced sleep phase syndrome. In diurnal animals these are controlled by levels of melatonin. For 10 points, identify these cycles providing the body with an internal clock lasting approximately 24.3 hours in humans.",
+      "powerMarkPosition": 228,
+      "answer": "circadian rhythm",
+      "acceptableAnswers": [
+        "circadian rhythm",
+        "The circadian rhythm"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a456023e"
+    },
+    {
+      "id": "060ff2e8-1876-4330-a045-b8935f106713",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "A blue pear against a background of this color, reminiscent of a Matisse cutout, appears on Na Kim's design for the cover of Gabriela Wiener's Sexographies. Rays of this color emanate from a point in the middle of the spine, covering a photograph of a woman's face, on Paul Sahre's cover design for the New Directions volume of the complete stories of Clarice Lispector, whose novel The Chandelier was recently published with a cover mostly of this color. The author and title are written in this color on top of Jacques-Louis David's Portrait of a Young Woman in White on Darren Hagger's cover for Ottessa Moshfegh's My Year of Rest and Relaxation. A number of articles published in 2017 noted that the design of book covers was following the general trend of using the so-called \"millennial\" variety of this color, which is often compared to rose gold. For 10 points, name this color often used to market books written by women.",
+      "powerMarkPosition": 386,
+      "answer": "pink",
+      "acceptableAnswers": [
+        "pink",
+        "The pink"
+      ],
+      "source": "qbreader",
+      "sourceId": "640020a88d3cf1e72e2344eb"
+    },
+    {
+      "id": "8c88dbd6-43bb-447d-b5ac-02f0a18a943e",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "A book by this social scientist discusses the Packers coach Dan Devine, whose dog was shot in front of his home after a losing season, to claim that human aggression is no longer a \"valuable survival\" behavior. In one of this psychologist's experiments, confederates who were pretending to audition to represent the University of Minnesota on the show College Bowl were evaluated by intelligence after they pretended to make a blunder, such as spilling coffee. In one of his textbooks, this psychologist put forth his so-called \"first law,\" stating that people who do crazy things are not necessarily crazy. This psychologist discovered the \"pratfall effect\" and designed assignments that could only be completed if groups of students in a classroom cooperated with one another. For 10 points, name this psychologist who wrote the textbook The Social Animal and created the \"jigsaw\" technique of education.",
+      "powerMarkPosition": 460,
+      "answer": "Aronson",
+      "acceptableAnswers": [
+        "Aronson",
+        "The Aronson"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382c08d5b3dc7dc712c7995"
+    },
+    {
+      "id": "54136d7d-2d7d-4ee3-a0a1-c99a3d3fc60a",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for gut microbiome. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this colon-related structure.",
+      "powerMarkPosition": 76,
+      "answer": "Colon",
+      "acceptableAnswers": [
+        "colon",
+        "Colon"
+      ],
+      "explanation": "The colon is a key component of the Digestive system, involved in gut microbiome.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a042a5b3-0484-424a-b6b1-febec28946b9",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "An ebulliometer determines the alcohol content of wine by accurately measuring this quantity. Azeotropic mixtures have a constant value for it, making separation by distillation impossible. The energy needed to reach this value is called the heat of vaporization. Vapor pressure equals atmospheric pressure at, for 10 points, what temperature at which a liquid changes into a gas, equal to 100 degrees for water?",
+      "powerMarkPosition": 241,
+      "answer": "boiling point",
+      "acceptableAnswers": [
+        "boiling point",
+        "The boiling point"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004cae"
+    },
+    {
+      "id": "a77ec490-7e79-4825-aae0-17a4d9437430",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "college",
+      "text": "Exceptionally large and well-preserved examples of these objects were created during the reign of Eucratides the Great. A discovery at Laurium during the 480s BC resulted in a great increase of production of these objects in Athens. Lycurgus ordered these objects to be banned in Sparta, which used heavy iron bars quenched in vinegar in place of them. One of these objects called an obol was placed in the mouth of deceased persons before they were buried. The usage of these objects most likely originated in Lydia, where they were made with electrum, an alloy of gold and silver. For 10 points, name these disks, often made from precious metal, that were used as money in Ancient Greece.",
+      "powerMarkPosition": 352,
+      "answer": "coin",
+      "acceptableAnswers": [
+        "coin",
+        "coinage",
+        "accept specific types of coin such as the obol before they’re read",
+        "prompt on currency",
+        "prompt on money",
+        "The coin"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125d2cf"
+    },
+    {
+      "id": "92cacd8d-94ba-4335-8c6e-32e7360470df",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "This literary character is found dead in his laboratory by his servant, Poole, and his friend, J.G. Utterson, to whom this man shows a letter of apology supposedly written by the murderer of Sir Danvers Carrew. Another of this man's friends, Dr Lanyon, dies of shock after seeing this man reveal the \"evil side\" of his nature by consuming a potion. For 10 points, name this fictional doctor who transforms himself into Edward Hyde.",
+      "powerMarkPosition": 194,
+      "answer": "Jekyll",
+      "acceptableAnswers": [
+        "Jekyll",
+        "The Jekyll"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004f5d"
+    },
+    {
+      "id": "c21dc802-fbeb-4414-af97-891da0d3ad92",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "text": "This work's fourth section cites Scotus Erigena as having misattributed Socrates's death as having come from a lost debate with Helleborus and notes that successively refined determinations of the speed of light ought to converge. This work's third section in turn considers the denotations of \"weight,\" \"force,\" and \"path,\" leading to an explanation of a method for considering acceleration through vector addition the author calls the \"parallelogram of forces,\" which is followed by a comparison of a French phrase and its English equivalent. By considering a tune that consists of a series of notes, only one of which may be perceived at once, this essay distinguishes between what we are immediately and mediately conscious of. The author claims that an old twofold doctrine, which he calls an \"ornament of logic,\" ought to be relegated to a \"cabinet of curiosities,\" and, using the example of communion wine, proposes that the conception of an object's practical effects being the whole conception of the object constitutes the rule for conveying the \"third grade of clearness of apprehension.\" For 10 points, identify this essay by the author of \"The Fixation of Belief,\" Charles Sanders Pierce.",
+      "powerMarkPosition": 544,
+      "answer": "How to Make Our Ideas Clear",
+      "acceptableAnswers": [
+        "How to Make Our Ideas Clear",
+        "The How to Make Our Ideas Clear"
+      ],
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e62f54"
+    },
+    {
+      "id": "1fcbf575-8fe8-453f-af96-4a8901fb6ac8",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "Media Access Control addresses for devices consist of twelve digits of this type. In C and related languages, the prefix 0x [zero-x]is appended to numbers represented using this system. The most current version of the Internet Protocol addresses consists of eight sets of numbers represented using this system. A single digit in this system is equivalent to one nibble, or four bits, making conversion between this system and binary relatively simple. Colors can be encoded using a series of six digits in this system, which uses the letters A through F to denote 10 through 15. For 10 points, name this numbering system in base 16.",
+      "powerMarkPosition": 372,
+      "answer": "hexadecimal",
+      "acceptableAnswers": [
+        "hexadecimal",
+        "base 16 before “base 16”",
+        "The hexadecimal"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0adb75"
+    },
+    {
+      "id": "62030c3e-8122-4c62-aa9d-7979c958cd87",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "The first book of Theodore White's series The Making of the Presidency chronicles this election. This election's winning candidate was accused of appeasement by Edward Morgan for his calls to abandon the Quemoy and Matsu islands. A candidate during this election fulfilled his pledge to visit all fifty states despite a knee injury, and ran alongside Henry Cabot Lodge Jr. One of this election's candidates was harmed by his decision to refuse makeup during the first televised presidential debates. For ten points, name this election in which John F. Kennedy narrowly defeated Richard Nixon.",
+      "powerMarkPosition": 350,
+      "answer": "1960",
+      "acceptableAnswers": [
+        "1960",
+        "The 1960"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0af258"
+    },
+    {
+      "id": "11cd461d-0e66-4e1a-acdc-e7cee1a50be0",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "The narrator of one poem by this man states \"My mother bore me in the southern wild\", and another relates \"How the youthful Harlot's curse...blights with plagues the Marriage hearse\". He included five sections titled \"A Memorable Fancy\" in a work developing Urthona and Los as two forms of creativity, one of the four zoas. This poet of \"The Little Black Boy\" states how \"I wander thro' each charter'd street\" in \"London\" and also wrote a poem describing an animal \"burning bright in the forests of the night\". For 10 points, name this English poet of The Marriage of Heaven and Hell and \"The Tyger\".",
+      "powerMarkPosition": 323,
+      "answer": "Blake",
+      "acceptableAnswers": [
+        "Blake",
+        "The Blake"
+      ],
+      "source": "qbreader",
+      "sourceId": "657fd7d6de6df0163bbe3aba"
+    },
+    {
+      "id": "92936ad0-e6e0-4713-ae2b-6332dba511c2",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "Solutions of Laplace's Equation are functions described by this adjective. The Quicksort algorithm employs this type of number to sort a collection of objects. The Euler-Mascheroni constant can be used to find the [*] sum of this type of series. Oscillators described by this adjective have a restoring force proportional to displacement. For ten points, name this adjective whose namesake mean is the reciprocal of the arithmetic mean of the reciprocals of the elements.",
+      "powerMarkPosition": 159,
+      "answer": "harmonic",
+      "acceptableAnswers": [
+        "harmonic",
+        "The harmonic"
+      ],
+      "source": "qbreader",
+      "sourceId": "66f0f7235f18a88258296d99"
+    },
+    {
+      "id": "ee54dbc9-5680-4657-9cc0-475e45f7f8cd",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "Two sinister widows named Mrs. Jolley and Mrs. Flack appear in this work, in which one character miraculously survives the Holocaust, but has no idea how because he lost his glasses. Another character is dubbed the \"rock of love,\" while another character's house is bulldozed so that brick bungalows can be built at this work's end. Blue leads a mock crucifixion in this work, after which Mr. Rosetree commits suicide when he learns that the crucified man has died and was given a Christian funeral. Another character owns the grandiosely named mansion Xanadu and coins the title phrase, which becomes the title of a painting by aborigine artist Alf Dubbo, who dies just after Good Friday, when Miss Hare and Himmelfarb succumb. For 10 points, name this novel set in Sarsaparilla and featuring Mrs. Godbold, which follows the lives of three elderly people right before they die, written by Patrick White.",
+      "powerMarkPosition": 332,
+      "answer": "Riders in the Chariot",
+      "acceptableAnswers": [
+        "Riders in the Chariot",
+        "The Riders in the Chariot"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f82f3c626ea977c7a335c"
+    },
+    {
+      "id": "0fb9d639-72bc-413b-84e6-096f9a1d80d9",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "In one of his paintings, a bunch of nude people are being handed robes as St. John sways. This painter of The Opening of the Fifth Seal may be better known for a painting depicting a dark stream and green hills in the title Spanish town. Another work by this painter shows a man's soul as a infant; that work shows that man's body being held by Sts. Stephen and Agustine. For 10 points, name this painter of View of Toledo and The Burial of the Count Orgaz who was originally from the Greek island of Crete.",
+      "powerMarkPosition": 237,
+      "answer": "El Greco",
+      "acceptableAnswers": [
+        "El Greco",
+        "Doménikos Theotokópoulos",
+        "The El Greco"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43907"
+    },
+    {
+      "id": "d1613f12-9a60-4c98-8928-811e585ca745",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "It was adopted by the London Conference and was accepted in the nation in question largely due to the efforts of Wilhelm Marx. Among its stipulations was the introduction of new excise, transportation, and custom taxes. Named for the chair of the committee which proposed it, who would become the 30th U.S. Vice President, it also called for the evacuation of Belgian and French troops from the Ruhr, provided for massive U.S. loans, and arranged that payments would begin at one billion marks per year and increase over four years to 2.5 billion marks per annum. For 10 points, identify this 1924 plan for German war-reparations eventually replaced by the Young Plan.",
+      "powerMarkPosition": 306,
+      "answer": "Dawes",
+      "acceptableAnswers": [
+        "Dawes",
+        "The Dawes"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bca72e7fe60f397fb4a82b"
+    },
+    {
+      "id": "f4341e5b-c9bc-40c3-867e-81a417ddb07b",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "A book by University of Illinois linguist Jerome Packard argues against the idea that the use of this system results in a certain language being \"morphologically impoverished.\" Victor Mair has argued that this system has been inaccurately referred to as monosyllabic and Joel Bellassen created a color coded method for learning this system. Otto Rosenberg's \"Four Corner Method\" is used to digitally transcribe this system. Dictionaries for this script distinguish words by radicals and the number of strokes needed to produce words written in this script. When used to write modern Japanese, this script is known as Kanji. For 10 points, name this logographic script used to write the language of a certain highly populous East Asian country.",
+      "powerMarkPosition": 399,
+      "answer": "Chinese",
+      "acceptableAnswers": [
+        "Chinese",
+        "Hanzi",
+        "Chinese Japanese Korean Vietnamese characters",
+        "accept Kanji before read",
+        "prompt on answers about answers about Chinese writing system",
+        "written Chinese that do not mention characters by saying \"what is the script?\"",
+        "do NOT accept",
+        "prompt on \"Pinyin\"",
+        "\"Wade-Giles\"",
+        "prompt on answers mentioning an \"alphabet\"",
+        "The Chinese"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae905"
+    },
+    {
+      "id": "98a19182-bf7b-4be5-82b9-e597cf5dd90f",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "Two rival hunters in this work agree to duel each other from opposite ends of a bear's hide, but a Vergil-savvy Tribune cuts the pelt so thin that they end up on opposite sides of a river, unable to harm one another. In this work, a notary and an assessor repeatedly try to prove which of their dogs, Bobtail and Hawk, is better at catching hares. The title character of this work receives a declaration of love from his aunt Telimena on a hill called the Temple of Musing, but upsets her by marrying Telimena's ward Zosia. This poem features a notable positive portrayal of its Jewish character Jankiel, and its protagonist turns out to be the son of the repentant monk Father Robak. This poem celebrates Napoleon's invasion of Russia, a cause which ends the feud between the Soplicas and the Horezskos. For 10 points, name this poem about \"the last foray into Lithuania,\" a Polish national epic by Adam Mickiewicz.",
+      "powerMarkPosition": 528,
+      "answer": "Pan",
+      "acceptableAnswers": [
+        "Pan",
+        "Master Thaddeus",
+        "The Pan"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e35effc080082733afc7fc"
+    },
+    {
+      "id": "c6ceb34c-ed00-46d0-ae8c-eab740353c44",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "The narrator of this work is forced to memorize the 330 sermons of the preacher Mr. H, and admires his classmate G- for defending Grotius' adaptation of a legend about Muhammad's dove. Its first section ends with Lord Desert satisfying the conditions of Jewish moneylenders while the narrator desperately searches the streets of London for the child prostitute Ann. Later appended with the short essay \"The Daughter of Lebanon,\" this work recounts a recurring dream of being chased by a hideous crocodile through Chinese houses in a section titled \"the pains of\" the title substance. Published in 1822, it describes the author's experiences with the title substance, which he takes as an anodyne for his terrible stomach pains. For 10 points, name this book by Thomas De Quincey about his addiction to the title drug.",
+      "powerMarkPosition": 365,
+      "answer": "C",
+      "acceptableAnswers": [
+        "C"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b1062"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "2f6a7222-3b4c-43f2-be60-5581d91636e8",
+      "linkedTossupId": "64a730a7-5466-4666-b2c9-010963f38030",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This petroleum trust was broken up in 1911 by the Supreme Court, thanks in part to muckraker Ida Tarbell's History of [It].",
+          "answer": "Standard Oil",
+          "acceptableAnswers": [
+            "Standard Oil",
+            "The Standard Oil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Despite muckraker activity, this longtime owner of Standard Oil became the first American billionaire. His son has a namesake plaza in New York City.",
+          "answer": "J",
+          "acceptableAnswers": [
+            "J"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another muckraker, Jacob Riis, used this method with John Nagle and two others to bring horrid slum conditions to light in his book How the Other Half Lives.",
+          "answer": "photograph",
+          "acceptableAnswers": [
+            "photograph",
+            "photojournalism",
+            "prompt on “taking pictures”",
+            "The photograph"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer some questions about muckraker journalism:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43f0f"
+    },
+    {
+      "id": "4ae440b9-47b7-4ca2-91d7-c99279b3cf5f",
+      "linkedTossupId": "85c0a446-c757-488f-ab32-a4721a49c744",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this binary operation. It gives 1 when applied to the harmonic oscillator lowering and raising operators, and i-hbar when applied to position and momentum.",
+          "answer": "commutator",
+          "acceptableAnswers": [
+            "commutator",
+            "The commutator"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "If a set of operators commute, then they also possess this property. This term from linear algebra conceptually means that one can choose a basis in which all states are eigenstates of all operators.",
+          "answer": "simultaneous diagonalizability",
+          "acceptableAnswers": [
+            "simultaneous diagonalizability",
+            "partial answer",
+            "accept word forms such as simultaneously diagonalizable",
+            "The simultaneous diagonalizability"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "If one of the operators has this property, then picking states with different eigenvalues will only get you to block-diagonal form. This term describes multiple states that have the same energy.",
+          "answer": "degenerate",
+          "acceptableAnswers": [
+            "degenerate",
+            "degeneracy",
+            "The degenerate"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "If this operation is zero for all pairs of a set of operators, then those operators can be used to uniquely identify a particle quantum state. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed6a483fe041d20f4a489f"
+    },
+    {
+      "id": "d5707e2e-62a5-4b7f-b1c6-c8ed385a7e04",
+      "linkedTossupId": "5f56e690-b132-46f8-a7cf-2985aa686156",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this quantity, symbolized capital C, which is defined as the amount of energy needed to the temperature of a gram of an object by one degree, typically measured in Joules per gram-Kelvin.",
+          "answer": "specific heat",
+          "acceptableAnswers": [
+            "specific heat",
+            "heat capacity",
+            "The specific heat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This unit, equivalent to 4.184 J, is the amount of heat required to raise the temperature of one gram of water by one degree Celsius.",
+          "answer": "calorie",
+          "acceptableAnswers": [
+            "calorie",
+            "The calorie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Like Einstein, this Dutch scientist's work on heat capacity gave rise to a model based on phonons, which worked well at low temperatures. He is also the namesake of the unit of the dipole moment.",
+          "answer": "Debye",
+          "acceptableAnswers": [
+            "Debye",
+            "Pieter Josephus Wilhelmus Debye",
+            "The Debye"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Dulong Petit law states that for solids at room temperature, the molar form of quantity is approximately equal to 3 times the universal gas constant times temperature. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455ffa9"
+    },
+    {
+      "id": "dcc8e2ec-96e0-4c0c-9788-e8df8cd8f58e",
+      "linkedTossupId": "060ff2e8-1876-4330-a045-b8935f106713",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The theremin's earliest prominent Hollywood appearances were in 1945, when this composer used it to depict amnesiac dreams in his score for Spellbound and alcoholism in his score for The Lost Weekend.",
+          "answer": "Rósza",
+          "acceptableAnswers": [
+            "Rósza",
+            "The Rósza"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The theremin's association with extraterrestrial life was popularized by the score for The Day the Earth Stood Still, by this composer of the scores for Vertigo and Psycho.",
+          "answer": "Herrmann",
+          "acceptableAnswers": [
+            "Herrmann",
+            "Maximillian Herman",
+            "The Herrmann"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The theremin-like sounds in Maurice Jarre's (\"ZHAR's\") score for Lawrence of Arabia actually come from this electronic instrument, beloved by Messiaen (\"mess-YANN\"), whose wavering pitch is controlled by a keyboard or a metal ring, rather than by the player's bare hands.",
+          "answer": "ondes martenot",
+          "acceptableAnswers": [
+            "ondes martenot",
+            "ondes musicales",
+            "The ondes martenot"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Although the theremin (\"THAIR-uh-min\") started out as a concert instrument, it gained greater fame for its use in film scores. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ede294c53e50a0513634d8"
+    },
+    {
+      "id": "c3290d24-debf-4124-92a8-b5b555ba6a3a",
+      "linkedTossupId": "8c88dbd6-43bb-447d-b5ac-02f0a18a943e",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this subfield of psychology that analyzes the namesake systems, which can be divided into \"individualistic\" and \"collectivistic\" types.",
+          "answer": "cultural",
+          "acceptableAnswers": [
+            "cultural",
+            "word forms",
+            "The cultural"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This pioneering figure in cultural psychology developed the aforementioned 4 I's culture cycle. She was the wife of Robert Zajonc and discovered that biracial people had lower self-esteem when they were not allowed to identify with more than one race on surveys.",
+          "answer": "Markus",
+          "acceptableAnswers": [
+            "Markus",
+            "The Markus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cultural psychologists also study these phenomena, judgments resulting from misuse of the representativeness heuristic. Their namesake threat was studied in an experiment by Steele and Aronson that demonstrated how these phenomena could undermine performance on tests.",
+          "answer": "stereotype",
+          "acceptableAnswers": [
+            "stereotype",
+            "stereotype threat",
+            "The stereotype"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One text from this field, which is titled for eight conflicts that \"make us who we are,\" introduces a cyclical model that consists of the 4 I's: ideas, individuals, institutions, and ideas. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f3514b"
+    },
+    {
+      "id": "8d6fc843-3b93-4e68-9d14-876caff1267c",
+      "linkedTossupId": "54136d7d-2d7d-4ee3-a0a1-c99a3d3fc60a",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with sympathetic vs parasympathetic.",
+          "answer": "cranial nerve",
+          "acceptableAnswers": [
+            "cranial nerve"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cranial nerve in the nervous system?",
+          "answer": "Sympathetic vs parasympathetic",
+          "acceptableAnswers": [
+            "Sympathetic vs parasympathetic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to sympathetic vs parasympathetic.",
+          "answer": "vagus nerve",
+          "acceptableAnswers": [
+            "vagus nerve"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "dbdf2b5b-5aff-4b0b-8f8b-d5c4037ec89b",
+      "linkedTossupId": "a042a5b3-0484-424a-b6b1-febec28946b9",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this property of objects that are not changed when they are flipped over a line.",
+          "answer": "symmetry",
+          "acceptableAnswers": [
+            "symmetry",
+            "symmetric",
+            "The symmetry"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "On the graph of a function, if f of x equals f of the opposite of x, then the graph is symmetric about this line. If the point (x,y) is on the graph, then the point (-x,y) is also on the graph.",
+          "answer": "y-axis",
+          "acceptableAnswers": [
+            "y-axis",
+            "x=0",
+            "The y-axis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Functions symmetric about the y-axis are given this name because polynomial functions which have that type of symmetry must have all of their exponents be this type of number.",
+          "answer": "even",
+          "acceptableAnswers": [
+            "even",
+            "The even"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Types of this property include glide, translational, rotational, and reflection. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b719"
+    },
+    {
+      "id": "82507fca-857c-4127-81fa-82c527b0b71f",
+      "linkedTossupId": "a77ec490-7e79-4825-aae0-17a4d9437430",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this meeting, which aimed to create a balance of power in Europe in Napoleon's absence. It was hosted in the capital of Austria.",
+          "answer": "Vienna",
+          "acceptableAnswers": [
+            "Vienna",
+            "Wiener Kongress",
+            "The Vienna"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This prime minister of Austria organized the Congress of Vienna. He was deposed in the 1848 Revolutions.",
+          "answer": "Metternich",
+          "acceptableAnswers": [
+            "Metternich",
+            "Klemens Wenzel Nepomuk Lothar",
+            "The Metternich"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Metternich issued these reactionary decrees in response to the assassination of August von Kozebue. They were named for the Bohemian town in which they were passed.",
+          "answer": "Carlsbad",
+          "acceptableAnswers": [
+            "Carlsbad",
+            "Karlsbad Decrees",
+            "The Carlsbad"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The French monarchy was represented by Maurice de Talleyrand at this conference. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6deddfc"
+    },
+    {
+      "id": "5a7dfc29-c2f5-4b43-8bbe-b2d38c546c57",
+      "linkedTossupId": "92cacd8d-94ba-4335-8c6e-32e7360470df",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify these anthropomorphic amphibians, the central characters of a series of children's books by Arnold Lobel.",
+          "answer": "Frog",
+          "acceptableAnswers": [
+            "Frog",
+            "answers in either order",
+            "The Frog"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mr. Toad is imprisoned for reckless driving in this children's novel by Kenneth Grahame, which describes the adventures of creatures like Rat and Mole.",
+          "answer": "Wind in the Willows",
+          "acceptableAnswers": [
+            "Wind in the Willows",
+            "The Wind in the Willows"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The play Toad of Toad Hall, inspired by The Wind in the Willows, was written by A. A. Milne, who is better known for his stories about this teddy bear, who lives in the Hundred Acre Wood and has adventures with Piglet and Eeyore.",
+          "answer": "Pooh",
+          "acceptableAnswers": [
+            "Pooh",
+            "Pooh Bear",
+            "Edward Bear",
+            "The Pooh"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of these characters puts some cookies in a box to prevent them from eating any more, to which the other character responds \"But we can open the box\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "673aef79cbbbb69a5263ce6c"
+    },
+    {
+      "id": "70f71cef-11ab-4220-8157-b91a1cd9804a",
+      "linkedTossupId": "c21dc802-fbeb-4414-af97-891da0d3ad92",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The miraculous Zamzam well is one stop on this yearly pilgrimage to Mecca which every able-bodied Muslim must make at least once in life, according to a Pillar of Islam.",
+          "answer": "hajj",
+          "acceptableAnswers": [
+            "hajj",
+            "“umrah”",
+            "The hajj"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Arabic word literally refers to the path to a well or water hole. In its metaphorical usage, it is a code whose experts are called ulema. The Hanbali and Maliki schools interpret it differently using fiqh.",
+          "answer": "Shari’a",
+          "acceptableAnswers": [
+            "Shari’a",
+            "The Shari’a"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name either form of Islamic ablution with water. The more common type washes the hands, arms, feet, and face before daily prayers, while the fuller, less frequent type occurs before special occasions or after intercourse.",
+          "answer": "wudu",
+          "acceptableAnswers": [
+            "wudu",
+            "The wudu"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer these questions about the importance of water in Islam, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596fe9"
+    },
+    {
+      "id": "dfe40671-c902-4007-9d84-531bc0288bc6",
+      "linkedTossupId": "1fcbf575-8fe8-453f-af96-4a8901fb6ac8",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This phenomenon, predicted by the general theory of relativity, occurs when a large distribution of matter between an observer and a light source bends the light as it travels.",
+          "answer": "gravitational lensing",
+          "acceptableAnswers": [
+            "gravitational lensing",
+            "lensing",
+            "The gravitational lensing"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other phenomenon, also called a length contraction, causes a decrease in length of an object as measured by an observer and occurs in a direction parallel to the observer's velocity.",
+          "answer": "Lorentz contraction",
+          "acceptableAnswers": [
+            "Lorentz contraction",
+            "The Lorentz contraction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The nontrivial solution of the Einstein field equations were published by this man, who also names a radius that acts as the event horizon of a black hole.",
+          "answer": "Schwarzschild",
+          "acceptableAnswers": [
+            "Schwarzschild",
+            "The Schwarzschild"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The two theories of relativity sure have a lot of applications in physics. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144c61"
+    },
+    {
+      "id": "4b2a0be0-4c53-42a6-982a-b253fe8259be",
+      "linkedTossupId": "62030c3e-8122-4c62-aa9d-7979c958cd87",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This supposedly unsinkable passenger ship met its end in April of 1912 after colliding with an iceberg. Many of the survivors were rescued by the RMS Carpathia.",
+          "answer": "Titanic",
+          "acceptableAnswers": [
+            "Titanic",
+            "The Titanic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This massive Italian ship collided in 1956 with the MS Stockholm just off the coast of Massachusetts, and sank eleven hours later. Almost all of the deaths came from the initial collision.",
+          "answer": "Andrea Doria",
+          "acceptableAnswers": [
+            "Andrea Doria",
+            "The Andrea Doria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The 1915 sinking of this ship by a German U-boat was one of the reasons the United States joined World War I. A second explosion that occured after the torpedo struck may have been caused by munitions exploding on board.",
+          "answer": "Lusitania",
+          "acceptableAnswers": [
+            "Lusitania",
+            "The Lusitania"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these sunken passenger ships, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a4ba"
+    },
+    {
+      "id": "20b9b256-25b3-4c8b-90de-85237150d7ea",
+      "linkedTossupId": "11cd461d-0e66-4e1a-acdc-e7cee1a50be0",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this English allegory written by the preacher John Bunyan that centers on Christian's journey to the Celestial City.",
+          "answer": "Pilgrim's Progress",
+          "acceptableAnswers": [
+            "Pilgrim's Progress",
+            "The Pilgrim's Progress"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other British author wrote about Christianity in novels such as A Handful of Dust, and the novel in which Sebastian carries a teddy bear: Brideshead Revisited.",
+          "answer": "Waugh",
+          "acceptableAnswers": [
+            "Waugh",
+            "The Waugh"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This protagonist of Brideshead Revisited who visits the estate of the Marchmain family met Sebastian while studying at Oxford.",
+          "answer": "Charles Ryder",
+          "acceptableAnswers": [
+            "Charles Ryder",
+            "The Charles Ryder"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This two-part allegory is presented as a continuous narrative and some scholars maintain this piece was written while its author was in prison. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31cdf"
+    },
+    {
+      "id": "b155e23b-9795-4009-b1a1-a6327baaa90c",
+      "linkedTossupId": "92936ad0-e6e0-4713-ae2b-6332dba511c2",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this fatty insulating substance that surrounds the axons of nerve cells.",
+          "answer": "myelin",
+          "acceptableAnswers": [
+            "myelin",
+            "The myelin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Myelin is produced by this type of cell, which includes Schwann cells in the peripheral nervous system, and oligodendrocytes (OH-lig-oh-DEN-drus-aits) in the central nervous system.",
+          "answer": "glial",
+          "acceptableAnswers": [
+            "glial",
+            "glia",
+            "neuroglia",
+            "The glial"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this autoimmune disease, the destruction of myelin in the brain and central nervous system impairs nerve conduction. Diagnosing this disease requires lesions separated in space and time.",
+          "answer": "multiple sclerosis",
+          "acceptableAnswers": [
+            "multiple sclerosis",
+            "MS",
+            "The multiple sclerosis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Diseases that cause the loss of this substance include Canavan disease and Guillain-Barré (ghee-AHN-bah-RAY) syndrome. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6605c17d7891dce02ea7cfc4"
+    },
+    {
+      "id": "6f0267f8-8d6f-49d6-ae7b-aeedef3ffbc2",
+      "linkedTossupId": "ee54dbc9-5680-4657-9cc0-475e45f7f8cd",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This name is shared by a gaucho who was accompanied by Sergeant Cruz in a namesake two-book Jose Hernandez poem and a literary magazine published by Evar Mendez during the 1920s.",
+          "answer": "Martin Fierro",
+          "acceptableAnswers": [
+            "Martin Fierro",
+            "The Martin Fierro"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of the poetry collections Montanas de oro and Lunario sentimental dubbed Martin Fierro the epic of Argentina in the lecture series El Payador. He also wrote the collection The Strange Forces and the novel The Gaucho War.",
+          "answer": "Lugones",
+          "acceptableAnswers": [
+            "Lugones",
+            "The Lugones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The essay Derives de la pesada contains Roberto Bolaño's opinons on Martin Fierro. In a different arena, Bolaño averred that this historical novel about Antonio Conselheiro and the War of Canudos was the greatest accomplishment of its author, Mario Vargas Llosa.",
+          "answer": "War",
+          "acceptableAnswers": [
+            "War",
+            "The War"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify some things both about and extremely tangentially related to Argentine literature, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63bba673874e0ef7dd7b27cb"
+    },
+    {
+      "id": "d04f7eef-e7a9-4422-8b5f-55ff3901dcad",
+      "linkedTossupId": "0fb9d639-72bc-413b-84e6-096f9a1d80d9",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this musical concept defined as the perceived distance between two notes, such as the major third between C and E.",
+          "answer": "interval",
+          "acceptableAnswers": [
+            "interval",
+            "The interval"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This interval is widely considered to be the least dissonant, and is named for its width of eight scale degrees. C up to the next C is an example of this interval.",
+          "answer": "octave",
+          "acceptableAnswers": [
+            "octave",
+            "The octave"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Like chords, intervals can have this process applied to them. When chords undergo this process, the order their notes appear in changes. Changing a \"C-E-G\" chord to \"E-G-C\" is an example of this process.",
+          "answer": "inversion",
+          "acceptableAnswers": [
+            "inversion",
+            "inverting",
+            "The inversion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The tritone and the minor second are the most dissonant of these things. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b883"
+    },
+    {
+      "id": "b2cd8ce2-bad0-4110-b045-43de7cb71383",
+      "linkedTossupId": "d1613f12-9a60-4c98-8928-811e585ca745",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "George Washington crossed the Delaware River to surprise the allegedly drunk Hessian forces at this December 26, 1776 battle, which preceded another American victory at Princeton a week later.",
+          "answer": "Trenton",
+          "acceptableAnswers": [
+            "Trenton",
+            "The Trenton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Following Horatio Gates's defeat at the Battle of Camden two months earlier, Loyalist forces led by Patrick Ferguson were quickly crushed by the Patriots, who had the help of the Over Mountain Men, at this 1780 battle.",
+          "answer": "Kings Mountain",
+          "acceptableAnswers": [
+            "Kings Mountain",
+            "The Kings Mountain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The American Revolution ended when George Washington, joined by General Comte de Rochambeau and Admiral de Grasse, forced General Cornwallis to surrender at this Virginia battle in 1781.",
+          "answer": "Yorktown",
+          "acceptableAnswers": [
+            "Yorktown",
+            "The Yorktown"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following battles of the American Revolution, For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4417d"
+    },
+    {
+      "id": "c4e40e15-61e4-4e7d-ad61-5b45dd6249e7",
+      "linkedTossupId": "f4341e5b-c9bc-40c3-867e-81a417ddb07b",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this university where Phillip Zimbardo conducted a social experiment studying the effects of perceived power in a mock prison in the basement of Jordan Hall.",
+          "answer": "Stanford",
+          "acceptableAnswers": [
+            "Stanford",
+            "Stanford prison experiment",
+            "The Stanford"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this other experiment conducted at Stanford, Walter Mischel studied delayed gratification by offering children a small treat immediately, or two treats if they were willing to wait a further fifteen minutes.",
+          "answer": "marshmallow",
+          "acceptableAnswers": [
+            "marshmallow",
+            "Stanford marshmallow test",
+            "The marshmallow"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The longest-running longitudinal study in psychology was started at Stanford by Lewis Terman to study people with high values of this trait. Terman also created the modern form of an assessment of this trait.",
+          "answer": "intelligence",
+          "acceptableAnswers": [
+            "intelligence",
+            "The intelligence"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A student at this university was nicknamed \"John Wayne\" for imitating a character from Cool Hand Luke during an experiment. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f2d7847edb615d3ac9f467"
+    },
+    {
+      "id": "d05b8fae-66a6-44f8-ba12-e60e9d6fe58e",
+      "linkedTossupId": "98a19182-bf7b-4be5-82b9-e597cf5dd90f",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this family that also included the author of The Traveller and One of His Shadows and the essay collection Testimonios. Another person with this surname was the wife of Adolfo Bioy Casares.",
+          "answer": "Ocampo",
+          "acceptableAnswers": [
+            "Ocampo",
+            "The Ocampo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A suggestion by Waldo Frank lead Victoria Ocampo to start this magazine. It was edited from 1938 to 1961 by Jose Bianco and Pierre Menard, Author of Don Quixote was first published in this magazine.",
+          "answer": "Sur",
+          "acceptableAnswers": [
+            "Sur",
+            "The Sur"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author wrote Pierre Menard, Author of Don Quixote. Of the 19 packets written for this tournament, I swear 20 packets mentioned him.",
+          "answer": "Borges",
+          "acceptableAnswers": [
+            "Borges",
+            "The Borges"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One member of this family was one of three collaborators that worked on Antología de la literatura fantástica, better known in English know as the The Book of Fantasy. FTPE:",
+      "source": "qbreader",
+      "sourceId": "62e35effc080082733afc422"
+    },
+    {
+      "id": "20f7c44e-6068-4b83-908c-8465210f59ef",
+      "linkedTossupId": "c6ceb34c-ed00-46d0-ae8c-eab740353c44",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Her story forms the basis of The Clerk's Tale in the Canterbury Tales, where a husband named Walther decides to test her loyalty with a series of bizarre machinations. Needless to say she remains steadfast.",
+          "answer": "Griselda",
+          "acceptableAnswers": [
+            "Griselda",
+            "The Griselda"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The story of Patient Griselda is the tenth tale, told on the tenth day of this author's The Decameron.",
+          "answer": "Boccaccio",
+          "acceptableAnswers": [
+            "Boccaccio",
+            "The Boccaccio"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of such novels as The Absentee and Castle Rackrent published an updated version of the story, The Modern Griselda, in 1804.",
+          "answer": "Edgeworth",
+          "acceptableAnswers": [
+            "Edgeworth",
+            "The Edgeworth"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about a recurring literary character, for ten points each:",
+      "source": "qbreader",
+      "sourceId": "6643bbf701cbf053963ddae4"
+    }
+  ]
+}

@@ -1,0 +1,1143 @@
+{
+  "packetId": "packet-153",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Geography",
+    "Science",
+    "Literature",
+    "History",
+    "Fine Arts",
+    "Human Body"
+  ],
+  "tossups": [
+    {
+      "id": "0e67c202-2f59-4f48-93d6-85b2e6a80f6a",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "This city is building the Koye Feche housing project to alleviate its dangerous overpopulation, its continent's second largest housing project. An ethnographic museum in this city is organized by life stages rather than its country's geography. The spring Filwoha is the nucleus of this city which is nourished by a reservoir at Gefarsa and a hydroelectric power station at Akaki, and lake Gargori to this city's west gives rise to its nation's second longest internal river. A museum in this city contains a replica of a skeleton known as Dinkinesh taken from that river, the Awash. A ridge above this city is home to its nation's former capital of Entoto. Afewerk Tekle painted many murals for this city's churches, including its St. George's Cathedral and the Holy Trinity Cathedral, the seat of its nation's autocephalous Orthodox Tewahedo (te-wa-HEE-do) Church. For 10 points, name this city, the headquarters of the African Union and capital of Ethiopia.",
+      "powerMarkPosition": 475,
+      "answer": "Addis Ababa",
+      "acceptableAnswers": [
+        "Addis Ababa",
+        "The Addis Ababa"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff4f7"
+    },
+    {
+      "id": "77374a1a-dcb4-412e-aa27-35acfa7d54f6",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "The frequency of an atom's characteristic X-ray is proportional to the square of this quantity according to Moseley's law. The Rydberg formula is generalized by multiplying the Rydberg constant by the square of this quantity. Antonius van den Broek discovered that this quantity corresponds to the nuclear charge of an element, which is equal to this quantity times the elementary charge. The number of neutrons in an isotope can be found by subtracting this quantity from the atom's mass number. For 10 points, name this quantity, symbolized Z, which is equal to the number of protons in an atom.",
+      "powerMarkPosition": 369,
+      "answer": "atomic number",
+      "acceptableAnswers": [
+        "atomic number",
+        "Z before mention",
+        "accept number of protons",
+        "proton number before “number of protons”",
+        "do not accept",
+        "prompt on “atomic mass number”",
+        "“atomic weight”",
+        "The atomic number"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f2d7847edb615d3ac9f459"
+    },
+    {
+      "id": "12901f00-d1f0-4fbb-9794-097b9dd479f4",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "This physicist names a function that gives the dependence of paramagnetic magnetization as a function of the ratio of Zeeman energy to thermal energy. He also names an analogue of Raman scattering in which electrons scatter off of low-energy acoustic phonons. Constant-energy surfaces are always perpendicular to the boundary of another construct named for this man, which has a volume of 2-pi-cubed over V-sub-c. That object named for him can be constructed as the locus of all points that are accessible from the origin without crossing any Bragg planes, according to the Wigner-Seitz method. Every possible wave vector can be transformed into an equivalent vector within that construct, which is body-centered cubic for a face-centered cubic crystal. For 10 points, name this French physicist, whose namesake \"zone\" is the primitive cell of a crystal in reciprocal space.",
+      "powerMarkPosition": 378,
+      "answer": "Brillouin",
+      "acceptableAnswers": [
+        "Brillouin",
+        "The Brillouin"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed6a483fe041d20f4a4a3d"
+    },
+    {
+      "id": "d6425c43-4f72-4e49-9317-a0d47cd4a582",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "In a story by this author, Johnny Dorset terrorizes Bill and Sam until they pay his father to take him back. This author of \"The Ransom of Red Chief\" wrote a short story in which Jim buys his wife combs and Della buys Jim a watch-chain, only to discover that they have sold their watch and hair. For 10 points, name this American writer of short stories with twist endings, like \"The Gift of the Magi.\"",
+      "powerMarkPosition": 178,
+      "answer": "Henry",
+      "acceptableAnswers": [
+        "Henry",
+        "The Henry"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2cd61"
+    },
+    {
+      "id": "87d8b6cc-1fbe-4329-9094-d4cc51bf25e0",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "Comoe National Park is located in the northeastern corner of this country in its Zanzan and Savanes Districts. The largest church in the world, The Basilica of Our Lady of Peace, is located in this country's capital city. Queen Abla Pokouis the legendary founder of this country named for a product that is now mostly illegal to trade. For 10 points, name this country that is bordered on the east by Ghana and whose capital is Yamoussoukro.",
+      "powerMarkPosition": 254,
+      "answer": "Ivory Coast",
+      "acceptableAnswers": [
+        "Ivory Coast",
+        "The Ivory Coast"
+      ],
+      "source": "qbreader",
+      "sourceId": "62edc1ba974521c293e4947d"
+    },
+    {
+      "id": "c2a5c509-5a03-43d9-9398-052b8d7f4808",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "text": "According to Plutarch, this man appeared in full armor at the Battle of Tanagra ready to fight for Athens but was not allowed to take part. He died while besieging Citium, and his place as main leader of the aristocratic opposition was taken by Thucydides, son of Melesias. The Spartans decided to send the Athenians home, which hurt this man's prestige and led to his ostracism in 461, which was revoked early, perhaps due to negotiations between Pericles and this man's sister Elpinice [ell-PINN-uh-see]. He worked to expel King Pausanias of Sparta from Byzantium and became the main commander of the Delian League after 478. For 10 points, name this man who crushed the Persians at sea at the Eurymedon about 25 years after they were beaten on land at Marathon by his father Miltiades.",
+      "powerMarkPosition": 273,
+      "answer": "Cimon",
+      "acceptableAnswers": [
+        "Cimon",
+        "The Cimon"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b1844"
+    },
+    {
+      "id": "163e95f9-890b-48d2-8120-883abe5e8b81",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "In a painting by this artist, a man with a bulging back walks with his wife behind a fool carrying a torch. A man straddles a barrel with a pork chop attached to it in that painting by this artist, whose two contrasting halves are separated by a well in the middle. A boy with a red cap covering his eyes licks a plate next to a basket full of jugs in another painting by this man. In that painting, a paper crown hangs in front of a green cloth in the background, and a foot which seems to belong to nobody appears beneath a tray of plates being carried by two men to provide food for the title celebration. For 10 points, name this painter of The Fight Between Carnival and Lent and The Peasant Wedding, as well as Landscape with the Fall of Icarus.",
+      "powerMarkPosition": 407,
+      "answer": "Bruegel",
+      "acceptableAnswers": [
+        "Bruegel",
+        "The Bruegel"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f32e2883e2636cb3c96310"
+    },
+    {
+      "id": "ad8242bc-67e0-4ba8-baae-8eb4e74352e8",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "The first pope to compile a list of these objects was Pope Gelasius, though the spurious Decretum Gelasianum may not have been issued by him. In 1571, a \"Sacred Congregation\" was formed to inspect these objects, which were often said to be \"donec corrigatur.\" The Officiorum ac Munerum decree gave both the cardinal vicar and the Master of the Sacred Apostolic Palace the power to regulate the production of these things. Ten rules for examining these things were laid out in a decree issued in the wake of the Council of Trent by Pope Paul IV. The Latin phrase Nihil obstat, meaning \"nothing stands in the way,\"is added to theseobjects when it is deemed that they are not harmful to morals. Subsequently, the word imprimatur may be added to them. The Roman Catholic Church once maintained an index of, for 10 points, the \"banned\" kind of what objects?",
+      "powerMarkPosition": 421,
+      "answer": "book",
+      "acceptableAnswers": [
+        "book",
+        "banned / forbidden / allowed books",
+        "accept synonyms for books",
+        "such as treatises",
+        "writings",
+        "etc.",
+        "The book"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df3a4b1c64d9772f738a30"
+    },
+    {
+      "id": "8f7e4fef-e788-4c6e-8d21-a68f50daa047",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "The diaries of John Hall reveal his disdain for a figure in this conflict, leading him to support the authority of a rival, Mary Francis Bridgeman. The \"Exaltation of the Holy Cross Community\" was founded during this conflict, where they served under a physician who developed a namesake foot amputation technique that preserves the heel. Selina Bracebridge assisted a figure in this conflict who created a faulty diagram resembling a bat's wing. Isambard Kingdom Brunel designed a prefabricated wood building known as the Renkioi Hospital during this conflict. A wedge chart depicting causes of death by month, known as the polar area diagram, was developed during this conflict. The \"British Hotel\" was set up by the Jamaican-born nurse Mary Seacole during this conflict. For 10 points, name this conflict during which British nursing was managed by Florence Nightingale.",
+      "powerMarkPosition": 522,
+      "answer": "Crimea",
+      "acceptableAnswers": [
+        "Crimea",
+        "The Crimea"
+      ],
+      "source": "qbreader",
+      "sourceId": "67e338db63ef71fce09dfb40"
+    },
+    {
+      "id": "46dcb47a-4147-48bd-bd91-34ba30e44ec8",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "Pierre Eugène de Simitière acted as a consultant to a 1776 committee in charge of first designing this symbol of the United States which included the symbol of providence. But it was not until the final design in 1782 that Charles Thomson suggested to add two Latin phrases \"annuit coeptis\" and \"novus ordo seclorum\". For ten points, what item is this, whose obverse and reverse impressions can still be seen on the dollar bill?",
+      "powerMarkPosition": 171,
+      "answer": "Great Seal",
+      "acceptableAnswers": [
+        "Great Seal",
+        "The Great Seal"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a984013a"
+    },
+    {
+      "id": "2c3b84da-c633-48c1-9ef1-b9d29cefbfb0",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "In 2018, the MiniBooNE (\"mini-boon\") experiment confirmed the earlier LSND observations that these particles can have changing quantum numbers. In 2018, one of these particles emitted by a blazar in Orion was detected by an Antarctic observatory. These are the only particles in the standard model that may be Majorana (\"ma-yo-RA-na\") fermions. Fewer of these particles than expected were detected from the sun, a problem partially resolved by the Super-Kamiokande experiment, which provided evidence for their flavor oscillation. Along with a neutron and positron, one of these particles is emitted in beta-plus decay. For 10 points, name these neutral leptons with very little mass.",
+      "powerMarkPosition": 344,
+      "answer": "neutrino",
+      "acceptableAnswers": [
+        "neutrino",
+        "electron neutrino",
+        "but do not accept",
+        "prompt on “electron”",
+        "The neutrino"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff75e"
+    },
+    {
+      "id": "6e9890ab-d248-4c3b-b67a-47f90073e8e0",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "The existence of a singular value decomposition for these objects is guaranteed by the spectral theorem. Multiplying them together corresponds to composing linear maps. The roots of the characteristic equation of one of these objects are its eigenvalues. Collections of derivatives named for Jacobi and Hesse are examples of them. Symmetric ones are equal to their own transpose. One property of these objects is computed by cofactor expansion or by row reduction. They may be produced by right-multiplying a column vector by a row vector, and have unique inverses if their determinants are nonzero. For 10 points, name these arrays of numbers with rows and columns.",
+      "powerMarkPosition": 254,
+      "answer": "matrix",
+      "acceptableAnswers": [
+        "matrix",
+        "matrices",
+        "accept Jacobian matrix",
+        "accept Hessian matrix",
+        "accept symmetric matrix",
+        "accept square matrix",
+        "The matrix"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df439f46"
+    },
+    {
+      "id": "d111a598-bff3-4015-944e-374c0fd89a15",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "This man edited the weekly magazine Household Words and published short stories under the pseudonym Boz. In the section \"The Track of The Storm\" in a novel by this author, Charles Darnay is saved from the guillotine [GHEE-uh-teen] by Sydney Carton. This author created a character who is visited by the chain-dragging ghost of Jacob Marley and three spirits representing his past, present, and future. That man is Ebenezer Scrooge. For ten points, name this author of A Tale of Two Cities and A Christmas Carol .",
+      "powerMarkPosition": 233,
+      "answer": "Dickens",
+      "acceptableAnswers": [
+        "Dickens",
+        "The Dickens"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f723cf56e0dff73abed52"
+    },
+    {
+      "id": "24f78c22-bac8-4a61-89e6-171c19fa690e",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for systemic circulation. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this systole-related structure.",
+      "powerMarkPosition": 80,
+      "answer": "Systole",
+      "acceptableAnswers": [
+        "systole",
+        "Systole"
+      ],
+      "explanation": "The systole is a key component of the Cardiovascular system, involved in systemic circulation.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a646db13-d003-428f-a7ee-a29afca58d97",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "The controversial Constitution Bridge, designed by Santiago Calatrava, opened across this body of water in 2008, near a major train station at its northern end. Sites along the banks of this body of water include the Church of San Stae and the Peggy Guggenheim Collection, and a university stands where this body of water meets the Rio de Ca' Foscari. For centuries, this ► canal's only crossing was the Rialto Bridge. The Doge's Palace lies along the banks of-for 10 points-what major canal that makes a reverse \"S\" shape across the historic core of Venice, Italy?",
+      "powerMarkPosition": 351,
+      "answer": "Grand Canal",
+      "acceptableAnswers": [
+        "Grand Canal",
+        "The Grand Canal"
+      ],
+      "source": "qbreader",
+      "sourceId": "63052604c887e5458fc32f12"
+    },
+    {
+      "id": "bcd78c4a-f07b-4e62-8df8-3470d7f7df38",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "text": "One track on this album is an attempt to describe \"a very earthy, folksy, swinging person,\" according to the song's writer. During this album's first session, Lex Humphries played drums and Cedar Walton played piano. This album's title track uses the keys of B major, G major, and E flat major to create an augmented triad and divides the octave into major thirds in an example of its leader's namesake \"changes.\" Jimmy Cobb and Wynton Kelly replaced Art Taylor and Tommy Flanagan for a song on this album named for the leader's wife, \"Naima.\" The song \"Mr. P.C.\" is a tribute to bassist Paul Chambers, who played with this album's saxophonist under Miles Davis on Kind of Blue immediately prior to the recording of this album. For 10 points, what 1960 album by John Coltrane is named for its use of unusually spaced chord progressions?",
+      "powerMarkPosition": 557,
+      "answer": "Giant Steps",
+      "acceptableAnswers": [
+        "Giant Steps",
+        "The Giant Steps"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c31991"
+    },
+    {
+      "id": "8f0c8c29-e39a-4c77-8b57-c061f8fd4776",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "A character in one novel by this author paints toy animals for a living until poison from the paint leads to the amputation of her right fingers. In another novel by this author, Laura marries Curtis Gladwin, whose obsession with the wheat market causes their relationship to drift. Presley publishes a poem about the struggles of farmers in one novel from this author's Epic of Wheat trilogy. The title character of this author's most famous novel keeps a golden molar and kills his wife Trina. In that novel by this author, Marcus handcuffs himself to the title dentist so that they both die in Death Valley. For 10 points, name this author of The Octopus and McTeague.",
+      "powerMarkPosition": 282,
+      "answer": "Norris",
+      "acceptableAnswers": [
+        "Norris",
+        "The Norris"
+      ],
+      "source": "qbreader",
+      "sourceId": "62edb4fedff988263841bd9a"
+    },
+    {
+      "id": "5b9530a6-e4fd-40cc-9596-f60f59d9cf0c",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "The annihilation of a particle-antiparticle pair always produces at least two of these particles. Planck's constant times frequency gives the energy of these particles. Thomas Young passed these particles through a double slit to demonstrate their wavelike properties. Because these particles have no mass, their velocity is always equal to c in a vacuum. For 10 points, identify these particles which make up light.",
+      "powerMarkPosition": 247,
+      "answer": "photon",
+      "acceptableAnswers": [
+        "photon",
+        "The photon"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef78cbbbb69a5263ccc6"
+    },
+    {
+      "id": "b33d77cc-305f-4449-867f-b645df7c88c2",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for cerebral cortex lobes. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this cerebrum-related structure.",
+      "powerMarkPosition": 95,
+      "answer": "Cerebrum",
+      "acceptableAnswers": [
+        "cerebrum",
+        "Cerebrum"
+      ],
+      "explanation": "The cerebrum is a key component of the Nervous system, involved in cerebral cortex lobes.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "4ba5918c-a79e-40c4-a70e-c344b80378ee",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for t cells and cell-mediated immunity. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this T cell-related structure.",
+      "powerMarkPosition": 82,
+      "answer": "T cell",
+      "acceptableAnswers": [
+        "T cell",
+        "T cell"
+      ],
+      "explanation": "The T cell is a key component of the Immune system, involved in t cells and cell-mediated immunity.",
+      "source": "ai-generated"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "d92abe92-aba3-470e-8749-0de703eec7ad",
+      "linkedTossupId": "0e67c202-2f59-4f48-93d6-85b2e6a80f6a",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this planet, whose surface is difficult to observe visually since it has a highly opaque, sulfuric acid atmosphere.",
+          "answer": "Venus",
+          "acceptableAnswers": [
+            "Venus",
+            "The Venus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This largest mountain on Venus is located to the east of the Lakshmi Planum. Its western face is very steep; its eastern face gradually slopes downward to the Fortuna Tessera.",
+          "answer": "Maxwell",
+          "acceptableAnswers": [
+            "Maxwell",
+            "The Maxwell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Maxwell Montes is a prominent feature of this \"continent\" of Venus, which lies around the pole far north of the equatorial Aphrodite Terra.",
+          "answer": "Ishtar",
+          "acceptableAnswers": [
+            "Ishtar",
+            "Ishtar Land",
+            "The Ishtar"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The surface of this planet is known from radar mapping by the Magellan orbiter. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df83920c3a38102cd75809"
+    },
+    {
+      "id": "9ddb0ea2-151e-47d6-a01d-37c5b7f2a1a1",
+      "linkedTossupId": "77374a1a-dcb4-412e-aa27-35acfa7d54f6",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these substances that are modeled as a perfectly conducting fluid in magnetohydrodynamics. At high temperatures, gases ionize into this state of matter.",
+          "answer": "plasma",
+          "acceptableAnswers": [
+            "plasma",
+            "The plasma"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In MHD, this quantity can be written as a sum of tension and pressure terms, the former of which is proportional to the curvature of field lines. Classically, this quantity per unit volume is equal to \"J cross B.\"",
+          "answer": "magnetic force",
+          "acceptableAnswers": [
+            "magnetic force",
+            "magnetic force density",
+            "prompt on force",
+            "Lorentz force",
+            "The magnetic force"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Alfvén (\"all-VANE\") waves, which result from tension on magnetic field lines, were theorized to cause the anomalously high temperature of this region. \"Loops\" of magnetic flux in this region can cause CMEs.",
+          "answer": "corona",
+          "acceptableAnswers": [
+            "corona",
+            "the Sun",
+            "The corona"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Magnetic field lines in these substances are governed by the \"frozen-in flux\" theorem. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6551b08f2c809f9dfdac1e31"
+    },
+    {
+      "id": "5a70889f-f1cf-4d7c-99f5-380a70502ce2",
+      "linkedTossupId": "12901f00-d1f0-4fbb-9794-097b9dd479f4",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this type of material first discovered by Heike Kammerlingh Onnes.",
+          "answer": "superfluid",
+          "acceptableAnswers": [
+            "superfluid",
+            "The superfluid"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Kammerlingh Onnes first discovered superfluidity in the liquid form of this element, whose 3 and 4 isotopes have, respectively, one and two neutrons.",
+          "answer": "helium",
+          "acceptableAnswers": [
+            "helium",
+            "He",
+            "The helium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At the lambda point, there is a discontinuity in the graph of this quantity vs. temperature. The lambda point is so named because of the shape when this quantity is plotted vs. temperature.",
+          "answer": "heat capacity",
+          "acceptableAnswers": [
+            "heat capacity",
+            "specific heat capacity",
+            "thermal capacity",
+            "The heat capacity"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This kind of material consists of atoms in two different phases of matter: liquid and Bose-Einstein condensate. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df7ca243aee49db2f76b6e"
+    },
+    {
+      "id": "d9ebb7b6-78ec-4190-838b-17180e50dc99",
+      "linkedTossupId": "d6425c43-4f72-4e49-9317-a0d47cd4a582",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel by Victor Hugo about the ex-convict Jean Valjean.",
+          "answer": "Miserables",
+          "acceptableAnswers": [
+            "Miserables",
+            "The Miserables"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This police inspector pursues Valjean throughout Les Miserables. This character drowns himself after Valjean decides to spare his life.",
+          "answer": "Javert",
+          "acceptableAnswers": [
+            "Javert",
+            "The Javert"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Jean Valjean is initially imprisoned for stealing a loaf of this food. Sourdough and whole wheat are some types of this food.",
+          "answer": "bread",
+          "acceptableAnswers": [
+            "bread",
+            "The bread"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The protagonist of this novel is caught stealing silverware from Bishop Myriel. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b878"
+    },
+    {
+      "id": "af5dcdd7-660e-4250-8907-89aab9cf502b",
+      "linkedTossupId": "87d8b6cc-1fbe-4329-9094-d4cc51bf25e0",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Mount Whitney is in these \"snowy mountains\" of California.",
+          "answer": "Sierra Nevada",
+          "acceptableAnswers": [
+            "Sierra Nevada",
+            "The Sierra Nevada"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Sierra Nevada is home to this species of tree, the largest in the world. General Sherman, the largest tree by volume in the world, is in this species' namesake National Park in central California.",
+          "answer": "sequoia",
+          "acceptableAnswers": [
+            "sequoia",
+            "“redwood”",
+            "The sequoia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Half-Dome and El Capitan are two of the main attractions in this other national park located in the Sierra Nevada.",
+          "answer": "Yosemite",
+          "acceptableAnswers": [
+            "Yosemite",
+            "The Yosemite"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "At just over 14,500 feet, Mount Whitney is the tallest peak in the contiguous United States. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ead0be8c91030f69d5b746"
+    },
+    {
+      "id": "d4c7e8e4-da12-42c4-bcfc-ac87169e8fd8",
+      "linkedTossupId": "c2a5c509-5a03-43d9-9398-052b8d7f4808",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this dynasty which faced the Hesychast controversy and ruled the Byzantine Empire from the 1259 ascension of its founder Michael VIII to the empire's fall in 1453.",
+          "answer": "Palaeologus",
+          "acceptableAnswers": [
+            "Palaeologus",
+            "Palaeologi",
+            "The Palaeologus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Michael's ascension spelled the end of the Latin state that set up shop in Greece after this 1204 event, in which greedy knights allied with the Venetian doge Enrico Dandolo decided to sack Constantinople rather than liberate the Holy Land.",
+          "answer": "Fourth Crusade",
+          "acceptableAnswers": [
+            "Fourth Crusade",
+            "The Fourth Crusade"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Andronicus II Palaeologus gave a University of Constantinople appointment to this Italian monk, an early humanist who made it his life's mission to attack Gregory Palamas, the chief Hesychast.",
+          "answer": "Barlaam",
+          "acceptableAnswers": [
+            "Barlaam",
+            "Barlaam of Calabria",
+            "Bernardo Massari",
+            "The Barlaam"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Catalan Company, a mercenary force loyal to this dynasty, defected after one of its emperors foolishly ordered the assassination of their leader Michael de Flor. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed6a483fe041d20f4a49f1"
+    },
+    {
+      "id": "1573ea71-7431-448e-928e-198900d384fa",
+      "linkedTossupId": "163e95f9-890b-48d2-8120-883abe5e8b81",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this aria sung by Tonio, which in that F major waltz section requires its singer to hit at least eight high C's, earning it the nickname the \"Mount Everest\" of tenor arias.",
+          "answer": "Ah! mes amis",
+          "acceptableAnswers": [
+            "Ah! mes amis",
+            "“Ah! my friends",
+            "what an exciting day\"",
+            "accept “Pour mon âme”",
+            "accept “For my soul”",
+            "The Ah! mes amis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tonio sings \"Ah! Mes amis\" in this Gaetano Donizetti opera, which in 2016 included Ruth Bader Ginsburg playing the non-singing Duchess of Crakenthorp and ends with Tonio marrying Marie, the title canteen girl.",
+          "answer": "fille du régiment",
+          "acceptableAnswers": [
+            "fille du régiment",
+            "The Daughter of the Regiment",
+            "The fille du régiment"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This tenor singer broke into stardom in the United States with his rendition of \"Ah! mes amis\" with the Met in 1972. He was the only Italian member of the Three Tenors.",
+          "answer": "Pavarotti",
+          "acceptableAnswers": [
+            "Pavarotti",
+            "The Pavarotti"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This aria begins in E flat major, before modulating to C major, then F major for its most difficult section. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7df035"
+    },
+    {
+      "id": "8f3e71e6-31e8-44fe-b253-897ff4871215",
+      "linkedTossupId": "ad8242bc-67e0-4ba8-baae-8eb4e74352e8",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "In this battle also called Pittsburgh Landing, the Confederate force under Albert Sidney Johnston and P.G.T. Beauregard was defeated by Ulysses S. Grant and the Army of the Ohio under Don Carlos Buell in southern Tennessee.",
+          "answer": "Shiloh",
+          "acceptableAnswers": [
+            "Shiloh",
+            "The Shiloh"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This early battle of the Civil War also featured P.G.T. Beauregard and took place outside of Richmond, Virginia. Stonewall Jackson earned his nickname at this battle, in which many Union troops panicked and retreated toward Washington, D.C.",
+          "answer": "First",
+          "acceptableAnswers": [
+            "First",
+            "First Battle of Manassas",
+            "prompt on “Bull Run”",
+            "“Manassas”",
+            "The First"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 1863 battle ended a namesake campaign in Northwestern Georgia. Braxton Bragg defeated the Army of the Cumberland under William S. Rosecrans and George H. Thomas earned the nickname \"Rock of\" this place.",
+          "answer": "Chickamauga",
+          "acceptableAnswers": [
+            "Chickamauga",
+            "The Chickamauga"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about battles of the American Civil War.",
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0c87f"
+    },
+    {
+      "id": "8b2f881e-36c2-4477-a53c-6ca59c94d62f",
+      "linkedTossupId": "8f7e4fef-e788-4c6e-8d21-a68f50daa047",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Vice President from Iowa who proclaimed the \"four duties\" in his \"Century of the Common Man\" speech, and had earlier served in FDR's cabinet during the New Deal.",
+          "answer": "Wallace",
+          "acceptableAnswers": [
+            "Wallace",
+            "The Wallace"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Henry Wallace served in FDR's cabinet in this position, other holders of which include Wallace's father, Henry C. Wallace, and the current holder, Tom Vilsack, all of whom are from Iowa.",
+          "answer": "Agriculture",
+          "acceptableAnswers": [
+            "Agriculture",
+            "The Agriculture"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Due in part to his global idealism as expressed in the \"Century of the Common Mans\" speech, Wallace was passed over for the vice presidential nomination in 1944 in favor of this Missouri Senator.",
+          "answer": "Truman",
+          "acceptableAnswers": [
+            "Truman",
+            "The Truman"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one speech, this man claimed that \"the Götterdammerung has come for Odin and his crew\" and asked, \"Is there any hell hotter than that of being a Quisling, unless it is that of being a Laval or a Mussolini?\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df83920c3a38102cd75915"
+    },
+    {
+      "id": "36800590-9bed-4c5b-bec3-fd5220b1c305",
+      "linkedTossupId": "46dcb47a-4147-48bd-bd91-34ba30e44ec8",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This French composer called his The Damnation of Faust a \"dramatic legend.\" His Treatise on Instrumentation critically examined modern instruments and he included a \"March to the Scaffold Movement\" in his Symphonie Fantastique.",
+          "answer": "Berlioz",
+          "acceptableAnswers": [
+            "Berlioz",
+            "The Berlioz"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer included the Jewel Aria and a ballad about the King of Thule in his 1859 opera Faust.",
+          "answer": "Gounod",
+          "acceptableAnswers": [
+            "Gounod",
+            "The Gounod"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In addition to writing libretti for La Gioconda, Falstaff, Otello and Simon Boccanegra, this Italian included a chorus for witches and warlocks in his own opera Mefistofele.",
+          "answer": "Boito",
+          "acceptableAnswers": [
+            "Boito",
+            "The Boito"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these composers who were inspired by Goethe's Faust.",
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa0b9"
+    },
+    {
+      "id": "cf69d9d3-f7b0-43d4-b54c-488c9a61e7bb",
+      "linkedTossupId": "2c3b84da-c633-48c1-9ef1-b9d29cefbfb0",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this relatively inert gas that makes up 78 percent of the atmosphere. It has a very strong triple bond between its two atoms.",
+          "answer": "nitrogen",
+          "acceptableAnswers": [
+            "nitrogen",
+            "N₂",
+            "The nitrogen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Either nitrogen or this other gas is often used to purge containers of oxygen. This noble gas, which is used as the medium in a laser with wavelength of 488 nanometers, can be extracted from the atmosphere by cryogenic air separation.",
+          "answer": "argon",
+          "acceptableAnswers": [
+            "argon",
+            "Ar",
+            "The argon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This scientist names an apparatus that consists of several ports, with one manifold hooked up to a vacuum line and another hooked up to a source of inert gas, that is used in air-free techniques. He also discovered that organomagnesium compounds can dimerize.",
+          "answer": "Schlenk",
+          "acceptableAnswers": [
+            "Schlenk",
+            "Wilhelm Johann Schlenk",
+            "accept Schlenk line",
+            "accept Schlenk equilibrium",
+            "The Schlenk"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Haber process reacts this gas with hydrogen in order to decompose it into ammonia. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423dad"
+    },
+    {
+      "id": "335628f7-89a0-4f0d-85e2-f77f6fcd9f79",
+      "linkedTossupId": "6e9890ab-d248-4c3b-b67a-47f90073e8e0",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "If you had strep throat a lot, your doctor probably recommended the removal of these collections of lymphoid tissue found in the throat.",
+          "answer": "tonsil",
+          "acceptableAnswers": [
+            "tonsil",
+            "The tonsil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The scientific name for strep throat is Streptococcal pharyngitis, where the \"coccal\" part of that name means that strep throat is often caused by bacteria with this shape.",
+          "answer": "spherical",
+          "acceptableAnswers": [
+            "spherical",
+            "“round” and other clear equivalents",
+            "do NOT accept “rod”",
+            "The spherical"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The doctor probably had a nurse stick a swab down your throat as part of this test for strep throat. This test is a quick way to determine the presence of group A streptococci.",
+          "answer": "Rapid",
+          "acceptableAnswers": [
+            "Rapid",
+            "Rapid antigen detection test",
+            "also accept “RST”",
+            "“RADT”",
+            "The Rapid"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Demonstrate your knowledge of everyone's favorite childhood disease, strep throat. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eec31bb669367617b8c89d"
+    },
+    {
+      "id": "95b3b5cc-13ca-451f-91b3-5d345b111b49",
+      "linkedTossupId": "d111a598-bff3-4015-944e-374c0fd89a15",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this country, which is also the home country of playwright Eugene O'Neill, who set the play Long Day's Journey Into Night in Connecticut.",
+          "answer": "US",
+          "acceptableAnswers": [
+            "US"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Glass Menagerie and The Rose Tattoo are by this American playwright, who set many of his works in the American South.",
+          "answer": "Williams",
+          "acceptableAnswers": [
+            "Williams",
+            "The Williams"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Tennessee Williams play set in New Orleans, Blanche DuBois loses her family's home, Belle Reve [bell rehv], and moves into an apartment with her sister and brother-in-law, Stella and Stanley Kowalski.",
+          "answer": "Streetcar Named Desire",
+          "acceptableAnswers": [
+            "Streetcar Named Desire",
+            "The Streetcar Named Desire"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This country is home to the playwright of The Glass Menagerie and The Rose Tattoo. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba97154"
+    },
+    {
+      "id": "25ff2e5e-a1ba-4f9d-9532-cf596b324f93",
+      "linkedTossupId": "24f78c22-bac8-4a61-89e6-171c19fa690e",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with adrenal cortex hormones.",
+          "answer": "adrenal",
+          "acceptableAnswers": [
+            "adrenal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the adrenal in the endocrine system?",
+          "answer": "Adrenal cortex hormones",
+          "acceptableAnswers": [
+            "Adrenal cortex hormones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to adrenal cortex hormones.",
+          "answer": "cortisol",
+          "acceptableAnswers": [
+            "cortisol"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "4dfa6d4d-519e-4df7-a017-5b9f0e0f3792",
+      "linkedTossupId": "a646db13-d003-428f-a7ee-a29afca58d97",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The Nivkh people are the indigenous inhabitants of what island of the Russian Far East, which is separated from Hokkaido by the Strait of La Perouse?",
+          "answer": "Sakhalin",
+          "acceptableAnswers": [
+            "Sakhalin",
+            "The Sakhalin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sakhalin is separated from mainland Russia by this strait. According to Nivkh legend, in winter lightning sinks to the bottom of this strait and \"lives there like a blind man.\"",
+          "answer": "Tatar",
+          "acceptableAnswers": [
+            "Tatar",
+            "The Tatar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Until 1945 the southern half of Sakhalin was a Japanese prefecture known by this name, borrowed from an Ainu phrase for an estuary god.",
+          "answer": "Karafuto",
+          "acceptableAnswers": [
+            "Karafuto",
+            "The Karafuto"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Events on this island in the 1930s were covered by the newspaper Bolshevik Fish Run. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63052604c887e5458fc32f05"
+    },
+    {
+      "id": "8cc30261-e50b-4f45-9d9d-b56773f88e03",
+      "linkedTossupId": "bcd78c4a-f07b-4e62-8df8-3470d7f7df38",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Give this three-word phrase which is also the title of a number sung by Velma Kelly at the opening of a musical where she and Roxie Hart hire the lawyer Billy Flynn.",
+          "answer": "all that jazz",
+          "acceptableAnswers": [
+            "all that jazz",
+            "The all that jazz"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"All That Jazz\" opens the musical Chicago, which was choreographed by this man who also directed a semi-autobiographical film featuring Roy Scheider as a fictionalization of him named Joe Gideon. This choreographer holds the record for the most Best Choreography Tonys for musicals like Pippin and Cabaret.",
+          "answer": "Fosse",
+          "acceptableAnswers": [
+            "Fosse",
+            "The Fosse"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A move popularized by Fosse involves dancers flamboyantly displaying these body parts, often called \"jazz [these body parts].\"",
+          "answer": "hand",
+          "acceptableAnswers": [
+            "hand",
+            "jazz fingers",
+            "spirit fingers",
+            "The hand"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A film titled for this three-word phrase repeatedly shows the protagonist's morning routine of listening to Vivaldi, taking pills, and saying \"It's showtime, folks!\" For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "6551b0902c809f9dfdac1e58"
+    },
+    {
+      "id": "15195f25-2cc3-4557-b130-4c47d6bde1c5",
+      "linkedTossupId": "8f0c8c29-e39a-4c77-8b57-c061f8fd4776",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this title character of Yann Martel's most famous novel. This adherent of Christianity, Islam, and Hinduism spends 227 days adrift in the Pacific Ocean with a tiger named Richard Parker.",
+          "answer": "Pi",
+          "acceptableAnswers": [
+            "Pi",
+            "either underlined name",
+            "Life of Pi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"One: A Poem\" are the first words of this poem when it is translated into Pilish [\"PILE-ish\"], a language in which the number of letters in each word of a poem spell out the digits of pi. This Edgar Allan Poe poem features a bird that croaks \"nevermore.\"",
+          "answer": "Raven",
+          "acceptableAnswers": [
+            "Raven",
+            "The Raven"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A poet from this country wrote an ode to the \"admirable number pi,\" but is better known for \"Love at First Sight.\"Another of its writers analyzed the effect of Stalinism on this country in The Captive Mind.",
+          "answer": "Poland",
+          "acceptableAnswers": [
+            "Poland",
+            "The Poland"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This Pondicherry resident is named after Mamaji's favorite French swimming pool. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff2ee"
+    },
+    {
+      "id": "64607552-7eb1-4e31-be9c-e57be21e5954",
+      "linkedTossupId": "5b9530a6-e4fd-40cc-9596-f60f59d9cf0c",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Ames is home to a national laboratory run by a US government department named for this thing. This physical quantity is measured in joules and has \"kinetic\" and \"potential\" types.",
+          "answer": "energy",
+          "acceptableAnswers": [
+            "energy",
+            "the Department of Energy",
+            "accept kinetic energy",
+            "accept potential energy",
+            "The energy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Ames process refined this radioactive element with 235 and 238 isotopes. Yellowcake is an oxide of this heaviest naturally occurring element with atomic number 92.",
+          "answer": "uranium",
+          "acceptableAnswers": [
+            "uranium",
+            "U",
+            "The uranium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Ames strain is a strain of this disease whose spores can enter through cuts in the skin. Along with rabies and cholera, Louis Pasteur developed a vaccine against this disease, which was also used in a 2001 bioterrorist attack.",
+          "answer": "anthrax",
+          "acceptableAnswers": [
+            "anthrax",
+            "Bacillus anthracis",
+            "accept the 2001 anthrax attacks",
+            "The anthrax"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about science related to Ames, Iowa, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65666dfd443a0a5dea0043df"
+    },
+    {
+      "id": "b9421db4-1454-4fd9-91da-fe2980c20411",
+      "linkedTossupId": "b33d77cc-305f-4449-867f-b645df7c88c2",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with gallbladder and bile.",
+          "answer": "liver",
+          "acceptableAnswers": [
+            "liver"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the liver in the digestive system?",
+          "answer": "Gallbladder and bile",
+          "acceptableAnswers": [
+            "Gallbladder and bile"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to gallbladder and bile.",
+          "answer": "bile",
+          "acceptableAnswers": [
+            "bile"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ad013224-ca31-4125-98d7-4523c59b4fdd",
+      "linkedTossupId": "4ba5918c-a79e-40c4-a70e-c344b80378ee",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with epidermis structure.",
+          "answer": "epidermis",
+          "acceptableAnswers": [
+            "epidermis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the epidermis in the integumentary system?",
+          "answer": "Epidermis structure",
+          "acceptableAnswers": [
+            "Epidermis structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the integumentary system related to epidermis structure.",
+          "answer": "dermis",
+          "acceptableAnswers": [
+            "dermis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human integumentary system.",
+      "source": "ai-generated"
+    }
+  ]
+}

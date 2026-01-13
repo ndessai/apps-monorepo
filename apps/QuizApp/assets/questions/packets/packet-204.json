@@ -1,0 +1,1150 @@
+{
+  "packetId": "packet-204",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "Philosophy",
+    "Mythology",
+    "Social Science",
+    "Literature",
+    "History",
+    "Geography",
+    "Human Body",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "26b2c87e-5138-4f06-a15e-a44941d6126f",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "This molecule is produced along with H2 in the water-gas-shift reaction. In the production of quicklime, or calcium oxide, limestone is heated to expel this molecule. It does not contain hydrogen, but carbonic anhydrase controls the concentration of this molecule in the blood, and it is the source of carbon in the Calvin cycle. This molecule's solid form is dry ice, and passing it through water produces carbonation. For 10 points, name this molecule produced along with water by combustion reactions, with formula CO 2 .",
+      "powerMarkPosition": 315,
+      "answer": "carbon dioxide",
+      "acceptableAnswers": [
+        "carbon dioxide",
+        "The carbon dioxide"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b72e"
+    },
+    {
+      "id": "8d585992-73bd-4ddf-905e-8b5d721299ea",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "In an 1865 book, this man attacked the intuitionism of the Scottish common sense philosopher William Hamilton. In an 1843 work, this thinker advocated for the end of syllogistic thinking in favor of the methods of the empirical sciences. This author of A System of Logic also proposed a \"principle of utility\" for ethics, stating that an action is right in proportion to how much happiness it creates. This one-time child prodigy collaborated with Harriet Taylor on the book The Subjection of Women. For 10 points, what English thinker wrote Utilitarianism and \"On Liberty\"?",
+      "powerMarkPosition": 237,
+      "answer": "Mill",
+      "acceptableAnswers": [
+        "Mill",
+        "The Mill"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b5201d"
+    },
+    {
+      "id": "fb802b02-44f5-4e99-88af-c92d2976b7fa",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "In a Shmuel Agnon story named for one of these items, the narrator goes to Palestine to escape the satanic Gressler, but Gressler is the first person he runs into on the boat. The graduate school of English at Middlebury College is named after this item. In the Kalevala, Kullervo sends wild animals to kill Ilmarinen's wife after finding a rock inside this item. Utnapishtim and his wife use these items to prove that Gilgamesh was unable to stay awake for a week. A disturbing discovery inside one of these items is made by Ivan Yakovlevich at the beginning of Gogol's \"The Nose.\" A man ends up spending nineteen years in prison for stealing one of these items in Les Misérables. For 10 points, identify this item which, in the Rubaiyat, accompanies \"a jug of wine\" and \"thou.\"",
+      "powerMarkPosition": 363,
+      "answer": "bread",
+      "acceptableAnswers": [
+        "bread",
+        "The bread"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b790"
+    },
+    {
+      "id": "18be1d42-4b3a-49a2-93fc-656abf2ec30a",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "Fishburn proved it false in an infinite case, while Armstrong proved the same result even when profiles are restricted to those which use a Boolean algebra of coalitions. One consequence of it is the Gibbard-Satterthwaite Theorem, which deals with the concept of non-imposition, or the inclusion of a potential for every result. Underpinning this theory is the concept of unrestricted domain, and excluding the Smith set, some methods can meet all the criteria that it demands. Amartya Sen famously tried to disprove by using utility analysis. If it did not hold, a mapping function would have two properties, one of which is monotonicity, or the inability to hurt an option by ranking it higher. That function would map individual preferences to societal preferences. First posited in 1951's Social Choice and Individual Values, For 10 points, name this theorem, which states that no set of rules for social choice can be achieved that satisfy all reasonable criteria of society, named for a 1972 Nobel Prize-winning economist.",
+      "powerMarkPosition": 477,
+      "answer": "Arrow’s Impossibility",
+      "acceptableAnswers": [
+        "Arrow’s Impossibility",
+        "The Arrow’s Impossibility"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b0e13"
+    },
+    {
+      "id": "9820e6b7-ca46-4a2c-bed3-1a6e1a87a7f2",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Observations conducted by the TRACE mission have revealed that this area is home to large cool loops which change on timescales of about 1 minute. A consequence of the separation of atoms and ions across magnetic field lines in this area due to the first ionization potential effect is the fractionation, or relative abundance, of magnesium, silicon, and iron. This region is home to frequent, small bursts known as \"explosive events\" which may be the result of conversion of magnetic to kinetic energy via magnetic reconnection. The temperature within this region rises rapidly from about 20,000 degrees Celcius to about 1 million degrees, and this region's emissions are dominated by ultraviolet signals from triply ionized carbon, oxygen, and silicon, rather than hydrogen. For 10 points, identify this region lying between the corona and the chromosphere of the sun.",
+      "powerMarkPosition": 360,
+      "answer": "transition",
+      "acceptableAnswers": [
+        "transition",
+        "The transition"
+      ],
+      "source": "qbreader",
+      "sourceId": "65865e39760988da16ee616b"
+    },
+    {
+      "id": "bfd6d717-4904-4d0d-b923-cf0773e42da4",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "Ions of this element complex with cyanide to form Prussian blue. This element's sulfide is a cubic crystal often mistaken for gold. The Bessemer process alloys this element with carbon, and its oxide is found in the magnetic mineral magnetite. This element is found in pyrite and its ions are called either ferric or ferrous. For 10 points, name this metal found in steel.",
+      "powerMarkPosition": 232,
+      "answer": "iron",
+      "acceptableAnswers": [
+        "iron",
+        "The iron"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e13de"
+    },
+    {
+      "id": "d7ef4959-0275-4f62-8585-b21a49212a7d",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "This author suggests rebellion against the Absurd as an alternative to suicide in The Myth of Sisyphus. In another work by this man, Father Paneloux preaches about a disease struggled against by Bernard Rieux and brought by a number of rats. This author of The Plague also wrote a work in which Raymond testifies on behalf of a man who does not cry at his mother's funeral and shoots an Arab, Meursault. For 10 points, name this French author of The Stranger.",
+      "powerMarkPosition": 241,
+      "answer": "Camus",
+      "acceptableAnswers": [
+        "Camus",
+        "The Camus"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4388d"
+    },
+    {
+      "id": "1f2aff68-b135-4ec1-b1bb-94a42dbb154a",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "This man negotiated a treaty that led to the withdrawal of British troops from the Northwest Territory. He ruled on a case that led to the Eleventh Amendment, Chisholm v. Georgia, and he later served as the governor of New York. With Alexander Hamilton and James Madison, he used the pseudonym \"Publius\" to publish the Federalist Papers. For 10 points, name this first Chief Justice of the United States.",
+      "powerMarkPosition": 170,
+      "answer": "Jay",
+      "acceptableAnswers": [
+        "Jay",
+        "The Jay"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec6759"
+    },
+    {
+      "id": "3b6880d7-5495-4303-8190-363c8d00d230",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "This philosopher criticized Robert Filmer in the first part of one of his works, and aimed to distinguish civil government from religion in his A Letter Concerning Toleration. He stated that the human mind is a blank slate, or \"tabula rasa\", in his An Essay Concerning Human Understanding, and that individuals deserve the rights to \"life, liberty, and property\". For 10 points, name this philosopher who wrote Two Treatises on Government.",
+      "powerMarkPosition": 248,
+      "answer": "Locke",
+      "acceptableAnswers": [
+        "Locke",
+        "The Locke"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e1402"
+    },
+    {
+      "id": "38f0a33b-2eff-44bb-ba29-8446470bd916",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "One social group originating in this country's culture is the burrnesha, or \"sworn virgins,\" women who live their entire lives as men. Its Malesia e Madhe district is a center of the gjakmarrja, a blood feud that exacts honor under the code of Kanun. The Shkodra area is another center of ritualized violence in this country, whose economy collapsed in 1997 as the result of a pyramid scheme. Its largest port was renamed Durazzo during a World War II occupation by Italy. For 10 points, name this eastern Balkan state, which is found on the western borders of Macedonia and Greece.",
+      "powerMarkPosition": 250,
+      "answer": "Albania",
+      "acceptableAnswers": [
+        "Albania",
+        "Republika e Shqipërisë",
+        "The Albania"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df8012e66cc66ca571d28d"
+    },
+    {
+      "id": "3b42688c-beda-4fda-860d-a84417b371c5",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "Apoplastic transport in these organs is blocked by the Casparian strip, forcing solutes to move through endodermal cells. The \"cap\" of these organs contains columella cells which sense gravity using auxins. Epiphytes often have \"aerial\" examples of these organs, and certain mangroves have upward-growing examples called pneumatophores [noo-MAT-uh-forz]. These organs often form associations with fungi known as mycorrhizas [my-kuh-RAI-zuhs]. The \"tap-\" variety of these organs is sometimes modified to store nutrients. Tiny \"hairs\" on these organs provide surface area to absorb water. For 10 points, name these branched organs that anchor plants into the ground.",
+      "powerMarkPosition": 289,
+      "answer": "root",
+      "acceptableAnswers": [
+        "root",
+        "subtypes like aerial roots",
+        "taproots",
+        "accept root caps",
+        "root hairs",
+        "The root"
+      ],
+      "source": "qbreader",
+      "sourceId": "64c4601ce6811c453d40dcff"
+    },
+    {
+      "id": "bb62f8fe-bc8e-48ba-a183-e6c8d9a1c34c",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "A 1978 paper observing \"protest-despair reaction\" in these subjects in response to social isolation was authored by Stephen Suomi, who mostly studies them. One of these subjects was given a cucumber as a reward, then became angry after seeing that another of them was given a grape for performing the same task, in an experiment by Franz de Waal. The presentation \"The Nature of Love\" reported on an experiment on these subjects, in which they were given dolls made of cloth and wire that served as surrogate mothers. These animals were also put on \"rape racks\" and in isolation chambers called \"pits of despair\" in a series of infamous experiments by Harry Harlow. For 10 points, name these animals whose varieties include mandrills, capuchins, and Rhesus macaques.",
+      "powerMarkPosition": 454,
+      "answer": "monkey",
+      "acceptableAnswers": [
+        "monkey",
+        "Old World monkeys",
+        "New World monkeys",
+        "Rhesus monkeys",
+        "spider monkeys",
+        "infant/baby monkeys",
+        "accept Rhesus macaques",
+        "capuchins until read",
+        "prompt on simians",
+        "primates",
+        "prompt on infants",
+        "babies",
+        "do not accept",
+        "prompt on “apes”",
+        "“chimpanzees”",
+        "The monkey"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f072b47434cffff7b5a0e9"
+    },
+    {
+      "id": "f75c13bf-5151-4cbd-ad0c-16bd81248b77",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for physical barriers. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this phagocyte-related structure.",
+      "powerMarkPosition": 76,
+      "answer": "Phagocyte",
+      "acceptableAnswers": [
+        "phagocyte",
+        "Phagocyte"
+      ],
+      "explanation": "The phagocyte is a key component of the Immune system, involved in physical barriers.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "f9bd40fe-b3f4-4612-b4ba-15519d934dd5",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "The Latin phrases \"FLA FUR BIS FLE\" and \"QUIS EST ISTE QUI VENIT\" are inscribed on a bronze whistle in a story in this genre whose title comes from a song written by Robert Burns. The Duke of Cheshire marries Virginia and the stereotypically American Otis family outwits Sir Simon in a story parodying this kind of fiction, the first published work by Oscar Wilde. A story of this kind, \"Oh, Whistle, and I'll Come to You, My Lad,\" was written by M. R. James. In a story of this kind, Spencer Brydon returns to his childhood New York City home on the \"Jolly Corner.\" The housekeeper Mrs. Grose becomes suspicious about the presence of Miss Jessel and Peter Quint while taking care of Miles and Flora in a famous example of this kind of story. For 10 points, name these stories, such as Henry James's \"The Turn of the Screw,\" which feature supernatural beings.",
+      "powerMarkPosition": 550,
+      "answer": "ghost",
+      "acceptableAnswers": [
+        "ghost",
+        "“Gothic stories”",
+        "prompt on “horror stories”",
+        "The ghost"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f32e2883e2636cb3c9633f"
+    },
+    {
+      "id": "1c5d3c3e-952f-4771-b2a5-cf9a36224612",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for bone structure and types. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this skull-related structure.",
+      "powerMarkPosition": 81,
+      "answer": "Skull",
+      "acceptableAnswers": [
+        "skull",
+        "Skull"
+      ],
+      "explanation": "The skull is a key component of the Musculoskeletal system, involved in bone structure and types.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "79962a25-5af2-43d8-a247-e7c83ac5d130",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "The Tsiolkovsky equation for these devices relates change in velocity to initial and final mass. Robert Goddard realized the third law of motion would allow these devices to operate in a vacuum. Wernher von Braun studied these devices, whose efficiency depends on the number of stages and shape of the exhaust nozzle. Solid or liquid propellants power, for 10 points, what projectiles that include the German V-2 and NASA's Saturn V [five]?",
+      "powerMarkPosition": 186,
+      "answer": "rocket",
+      "acceptableAnswers": [
+        "rocket",
+        "The rocket"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004d26"
+    },
+    {
+      "id": "c3d35315-36be-408a-968c-25f26da5f18b",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "This character stays in the room of a dead girl who titled her sentimental painting \"And Art Thou Gone Yes Thou Art Gone Alas.\" Affection for Mary Jane inspires this character to hide a sack of gold in a coffin. The carcass of a pig is dragged around by this character in an attempt to fake his death. This character says \"alright then, I'll go to hell\" after deciding to rescue a friend from Phelps' farm. This character travels with two imposters called the Duke and the King, as well as the escaped slave Jim. For 10 points, name this character who travels the Mississippi on a raft and is buds with Tom Sawyer, the title character of a Mark Twain novel.",
+      "powerMarkPosition": 371,
+      "answer": "Huck",
+      "acceptableAnswers": [
+        "Huck",
+        "Huck Finn",
+        "The Huck"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc27d"
+    },
+    {
+      "id": "99b82f6e-6af1-4d66-a55d-49e9b93e2a77",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "text": "The Garrick Gaieties, which features the popular song \"Manhattan\", was this composer's breakout musical with his long-time collaborator Lorenz Hart. This composer was the first person to achieve an EGOT; he also received a Pulitzer Prize for Drama for one of his musicals about American soldiers and the local inhabitants of an island set during World War II. In 1990, the 46th Street Theater in New York was renamed to honor this man. This composer wrote the scores for some of the most successful musicals of the 40s and 50s, including Oklahoma!, South Pacific, The King and I, and The Sound of Music. For ten points, name this musical theater composer who famously collaborated with the lyricist Oscar Hammerstein.",
+      "powerMarkPosition": 327,
+      "answer": "Rodgers",
+      "acceptableAnswers": [
+        "Rodgers",
+        "The Rodgers"
+      ],
+      "source": "qbreader",
+      "sourceId": "65fa4918e210b3e07c6de75c"
+    },
+    {
+      "id": "8c2260c0-a6e2-40c1-820f-d4697069ecde",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "This nation's military-industrial complex was called the 'steel eaters'. This nation's \"second economy\" was its black market in one period. Its Jews suffered the \"Black Years\" from 1948 to 1953. One man from this country denounced his successor in the \"Postscript\" to his political \"Testament\". One economic policy here made a class of Nepmen and another class depicted as pigs , who were later \"liquidated\", called kulaks. This nation hosted an \"Industrialization Debate\" from 1924 to 1928 and later had \"special settlements\" where prisoners were \"executed by hunger\" called gulags. For 10 points, name this nation of Bolsheviks once led by Stalin.",
+      "powerMarkPosition": 377,
+      "answer": "USSR",
+      "acceptableAnswers": [
+        "USSR",
+        "The USSR"
+      ],
+      "source": "qbreader",
+      "sourceId": "647044212576885f91e621dd"
+    },
+    {
+      "id": "307902f2-42fc-4c9c-a7b2-439d2a365f82",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "One of them discusses Antonia's efforts at making the narrator comfortable and is entitled \"The Household,\" another recounts the story of a Church's reconstruction by \"A Mason.\" Still another opens with the consideration of a priest's sealed burial chamber within the great pyramid of Giza which contained a book of all knowledge that enabled a monarch to disperse the many invaders who threatened his city by destroying their effigies on a chessboard in the tower. That story, \"Legend of the Arabian Astrologer,\" as well as the rest of the collection, was written during its authors' time serving in a diplomatic position on behalf of the US government. Several other works are concerned with the exploits of Boabdil and it takes its name from a citadel in Granada. For 10 points, name this volume of sketches, a work by Washington Irving.",
+      "powerMarkPosition": 465,
+      "answer": "Tales of the Alhambra",
+      "acceptableAnswers": [
+        "Tales of the Alhambra",
+        "The Tales of the Alhambra"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df3ddba2602b93e0407ffb"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "1df94512-6e60-4b8d-9486-fcb055df9ec3",
+      "linkedTossupId": "26b2c87e-5138-4f06-a15e-a44941d6126f",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this American chemist who pioneered his namesake dot diagrams to show bonding and lone pairs in a molecule.",
+          "answer": "Lewis",
+          "acceptableAnswers": [
+            "Lewis",
+            "The Lewis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lewis dot diagrams are used to visualize these bonds between atoms in a molecule. Electron pairs are shared between atoms in these chemical bonds.",
+          "answer": "covalent",
+          "acceptableAnswers": [
+            "covalent",
+            "The covalent"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lewis's cubical atom theory was further developed by this rival scientist, who also names a probe used to determine the electron temperature, potential, and number density of a plasma.",
+          "answer": "Langmuir",
+          "acceptableAnswers": [
+            "Langmuir",
+            "The Langmuir"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man defined acids as electron acceptors and bases as electron donors. For 10 points each--",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7df7"
+    },
+    {
+      "id": "ad868b84-3ecb-4d0c-a891-f2e396408cd8",
+      "linkedTossupId": "8d585992-73bd-4ddf-905e-8b5d721299ea",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Lakota medicine man, the subject of a popular John Neihardt book that influenced New Age religious groups through its account of Plains Indian spirituality.",
+          "answer": "Black Elk",
+          "acceptableAnswers": [
+            "Black Elk",
+            "The Black Elk"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Black Elk describes the Sioux version of the Sun Dance rite in a Joseph Epes Brown book about him titled for the \"sacred\" one of these objects. Tribes such as the Lakota sealed peace treaties by smoking one of these objects.",
+          "answer": "pipe",
+          "acceptableAnswers": [
+            "pipe",
+            "ceremonial pipes",
+            "accept peace pipes",
+            "The pipe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In both Black Elk Speaks and The Sacred Pipe, Black Elk describes the inipi purification rite held in these structures. In them, water is poured over hot stones to create a heated atmosphere, often as part of a vision quest.",
+          "answer": "sweat",
+          "acceptableAnswers": [
+            "sweat",
+            "anything mentioning a building and sweat",
+            "such as “sweat hut",
+            "” “sweat tipi",
+            "” “sweat bath",
+            "” etc.",
+            "The sweat"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A book about this man consists of the author's romanticized interpretation of notes his daughter Enid took while this man's son Ben translated his words. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6406d0dee39f8dfd08fc24d4"
+    },
+    {
+      "id": "19aa1821-1d74-410e-959a-78b8282149da",
+      "linkedTossupId": "fb802b02-44f5-4e99-88af-c92d2976b7fa",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this type of object. Penelope lines up twelve of these objects for the archery contest at the climax of the Odyssey.",
+          "answer": "axe",
+          "acceptableAnswers": [
+            "axe",
+            "axeheads",
+            "poleaxes",
+            "The axe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This German theorist analyzed the Buphonia ritual in his study of the role of sacrifice in ancient Greek religion, Homo Necans.",
+          "answer": "Burkert",
+          "acceptableAnswers": [
+            "Burkert",
+            "The Burkert"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Odyssey also features an elaborate description of the sacrifice of a heifer belonging to Nestor, who conducts that sacrifice in honor of this visiting son of Odysseus.",
+          "answer": "Telemachus",
+          "acceptableAnswers": [
+            "Telemachus",
+            "The Telemachus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a ludicrous ritual called the Buphonia, one of these objects was put on trial while a priest fled and hid. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6504a58256efcb4952c4e978"
+    },
+    {
+      "id": "ad469cc9-bc65-4e55-b26f-2837c3846e4e",
+      "linkedTossupId": "18be1d42-4b3a-49a2-93fc-656abf2ec30a",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this trans woman who was found strangled in a hotel room in 1988 in an unsolved murder. She took her surname from a house founded by Hector Valle whose house mother was named Angie.",
+          "answer": "Xtravaganza",
+          "acceptableAnswers": [
+            "Xtravaganza",
+            "The Xtravaganza"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Venus Xtravaganza was killed during the shooting of this Jennie Livingston documentary about the drag ball culture of New York in the late '80s.",
+          "answer": "Paris Is Burning",
+          "acceptableAnswers": [
+            "Paris Is Burning",
+            "The Paris Is Burning"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This thinker called Xtravaganza's murder \"a tragic misreading of the social map of power\" in her book Bodies That Matter. She also wrote Gender Trouble.",
+          "answer": "Butler",
+          "acceptableAnswers": [
+            "Butler",
+            "The Butler"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Kay Gabriel has criticized Anne Carson's comparison of the Trojan slave in Euripides's Orestes to a \"hysterical\" version of this woman. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64306481335bc8c468cbb3b0"
+    },
+    {
+      "id": "aca4f32a-31f5-439f-963b-e7052e272607",
+      "linkedTossupId": "9820e6b7-ca46-4a2c-bed3-1a6e1a87a7f2",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this process that discards the egg during syngamy, passing on only clonal sperm and allowing unisexual males to act as genomic parasites of related species. It can be induced in vitro in the pollen of moonflowers.",
+          "answer": "androgenesis",
+          "acceptableAnswers": [
+            "androgenesis",
+            "The androgenesis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Androgenesis is an example of this type of reproduction practiced by bdelloid rotifers and parthenogenetic skinks. Populations that undergo this form of reproduction accumulate harmful mutations according to Muller's ratchet.",
+          "answer": "asexual",
+          "acceptableAnswers": [
+            "asexual",
+            "word forms",
+            "accept uniparental reproduction",
+            "antiprompt on specific types",
+            "The asexual"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In contrast to hemiclonal and automictic variants, this form of asexual reproduction involves the suppression of meiosis so offspring are maternal clones. It is contrasted with vegetative reproduction in angiosperms.",
+          "answer": "apomixis",
+          "acceptableAnswers": [
+            "apomixis",
+            "word forms",
+            "The apomixis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This process has been correlated with success as an invasive species and biflagellate sperm in the genus it most famously occurs in, Corbicula clams. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae8ef9"
+    },
+    {
+      "id": "c9154025-0b05-4d88-a405-83688d2a737f",
+      "linkedTossupId": "bfd6d717-4904-4d0d-b923-cf0773e42da4",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this quantity, the factor by which a mirror or lens reduces or enlarges an object.",
+          "answer": "magnification",
+          "acceptableAnswers": [
+            "magnification",
+            "capital M",
+            "The magnification"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "For spherical mirrors in the paraxial approximation, this value of the mirror is half of its radius of curvature. In general, it is the distance at which rays are brought together.",
+          "answer": "focal length",
+          "acceptableAnswers": [
+            "focal length",
+            "lowercase f",
+            "The focal length"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pencil and paper ready. If an object is placed closer than the focal length to a spherical convex mirror, this type of image will be formed. Your answer should have three parts.",
+          "answer": "virtual",
+          "acceptableAnswers": [
+            "virtual",
+            "partial answer",
+            "order is irrelevant",
+            "accept equivalents for \"larger\"",
+            "accept equivalents for \"upright\"—the key point is that the image is not upside down",
+            "The virtual"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This value equals the height of the image produced over the height of the original object. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "663809d0867240107e0f1f4c"
+    },
+    {
+      "id": "ded8f46c-0e1d-4015-a94f-f2a962a47b7c",
+      "linkedTossupId": "d7ef4959-0275-4f62-8585-b21a49212a7d",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this modern country. InPersepolis, Satrapi'shometown of Tehran is thrown into chaos when thiscountry goes to war with Iraq.",
+          "answer": "Iran",
+          "acceptableAnswers": [
+            "Iran",
+            "The Iran"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At the end of the first volume ofPersepolis, Satrapi is sent away from her parents to live in this Europeancountry, where her father tells her to eat sachertorte[sack-er-tort].",
+          "answer": "Austria",
+          "acceptableAnswers": [
+            "Austria",
+            "The Austria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Satrapi is sent to live in Austria after the bombing death of her friend, Neda Baba-Levy, a girl with thisreligious background. Neda's family was killed when they returned home for the shabbat.",
+          "answer": "Judaism",
+          "acceptableAnswers": [
+            "Judaism",
+            "The Judaism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The first volume of Marjane Satrapi's graphic memoirPersepolistells the story of her childhoodin whatis now this country after its 1979 Islamic Revolution. For ten points each,",
+      "source": "qbreader",
+      "sourceId": "6837af67278db02eb79f1dc9"
+    },
+    {
+      "id": "f28c09c1-1111-4d1e-9dc9-ee8148e34ebd",
+      "linkedTossupId": "1f2aff68-b135-4ec1-b1bb-94a42dbb154a",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "For 10 points, name this man, who, after his arrest for his leadership in that Beer Hall Putsch, composed Mein Kampf from his prison cell.",
+          "answer": "Hitler",
+          "acceptableAnswers": [
+            "Hitler",
+            "The Hitler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hitler was the leader of this far-right German political party, whose paramilitary branches included the SS and SA. This party also conducted the Holocaust during World War II.",
+          "answer": "Nazi Party",
+          "acceptableAnswers": [
+            "Nazi Party",
+            "NSDAP",
+            "the Nazis",
+            "The Nazi Party"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Nazi Party member advocated for a style of \"total war\" when it became apparent that the Germans were going to lose World War II. He also served as the Minister of Propaganda under Hitler.",
+          "answer": "Goebbels",
+          "acceptableAnswers": [
+            "Goebbels",
+            "The Goebbels"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "During a failed coup d'état, this man attempted to put Erich Ludendorff in power.",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a50504"
+    },
+    {
+      "id": "2e526ae0-9f7c-4de3-8b06-f2229bd05b78",
+      "linkedTossupId": "3b6880d7-5495-4303-8190-363c8d00d230",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this ethnic-religious group. These people were saved when Mordecai's cousin, a beautiful queen, persuaded the king to amend the law by revealing she was a member of this religious group.",
+          "answer": "Jewish",
+          "acceptableAnswers": [
+            "Jewish",
+            "The Jewish"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The victory of Mordecai and his cousin over Haman is celebrated on this Jewish holiday, named for Haman's casting of lots to decide what he thought would be the day of the Jews' destruction.",
+          "answer": "Purim",
+          "acceptableAnswers": [
+            "Purim",
+            "The Purim"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Persian queen, the wife of King Ahasuerus and cousin of Mordecai, is the namesake of the scroll and biblical book that describe the events celebrated on Purim.",
+          "answer": "Esther",
+          "acceptableAnswers": [
+            "Esther",
+            "The Esther"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These people were the target of a law issued by King Ahasuerus [ah-ha-sway-russ] at the request of Haman, an angry Persian official who hated one of these people named Mordecai. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004fec"
+    },
+    {
+      "id": "fa6e4f5c-c27e-4fef-86c0-38d253a54479",
+      "linkedTossupId": "38f0a33b-2eff-44bb-ba29-8446470bd916",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Galician church, originally constructed over the period of a century beginning in the 1070s, which stands at the end of a namesake pilgrimage route symbolized by a seashell.",
+          "answer": "Santiago de Compostela",
+          "acceptableAnswers": [
+            "Santiago de Compostela",
+            "The Santiago de Compostela"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Obradoiro facade was executed in this Spanish baroque style, exemplified by Salamanca's Plaza Mayor and named for its designer.",
+          "answer": "Churrigueresque",
+          "acceptableAnswers": [
+            "Churrigueresque",
+            "The Churrigueresque"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A baroque facade was also constructed for the Azabacheria Facade, named for this semi-precious stone, which was sold by artisans to pilgrims in the adjacent Praza de Inmaculada. It is more commonly associated with jewelry of the Victorian era.",
+          "answer": "Jet",
+          "acceptableAnswers": [
+            "Jet",
+            "\"Lignite\"",
+            "The Jet"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Following the addition of a bell tower and double-stairway in the 17th Century, this cathedral's western facade, which opens onto the Praza de Obradoiro, was completely redesigned by Fernando Casas y Novoa. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630adb562eacc381ae57fd82"
+    },
+    {
+      "id": "c0524bf2-2be3-48e0-b6b4-b9d3e621cb2e",
+      "linkedTossupId": "3b42688c-beda-4fda-860d-a84417b371c5",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these viruses which infect bacteria.",
+          "answer": "phage",
+          "acceptableAnswers": [
+            "phage",
+            "The phage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this process, phages act as vectors for horizontal gene transfer of bacterial DNA. Lysogeny can allow the DNA transported by the phage to re-insert itself into the bacterial genome.",
+          "answer": "transduction",
+          "acceptableAnswers": [
+            "transduction",
+            "The transduction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bacterial resistance to phages is inheritable, a fact discovered by this Italian biologist in an experiment he conducted with Max Delbruck. A solution containing yeast extract, sodium chloride, and tryptone is sometimes, erroneously, named for him and Bertani.",
+          "answer": "Luria",
+          "acceptableAnswers": [
+            "Luria",
+            "Luria broth",
+            "The Luria"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Common examples of these organisms include lambda and T4. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54af173"
+    },
+    {
+      "id": "e136f1c1-9c25-460c-923c-a279dfaf40c0",
+      "linkedTossupId": "bb62f8fe-bc8e-48ba-a183-e6c8d9a1c34c",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this part of the brain involved in working memory and executive functions like decision-making. This large region extends backwards from the forwardmost part of the brain.",
+          "answer": "prefrontal cortex",
+          "acceptableAnswers": [
+            "prefrontal cortex",
+            "PFC",
+            "prompt on “frontal lobe”",
+            "The prefrontal cortex"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Maybe it won't surprise you that emotions have been shown to have an impact on decision-making. According to Antonio Damasio, the prefrontal cortex stores and draws on these \"markers\" of emotional states.",
+          "answer": "somatic",
+          "acceptableAnswers": [
+            "somatic",
+            "The somatic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The link between emotions and decision-making is reinforced by the numerous connections between the prefrontal cortex and this \"system\" that surrounds the corpus callosum. This \"system\" includes the hippocampus and amygdala.",
+          "answer": "limbic",
+          "acceptableAnswers": [
+            "limbic",
+            "visceral brain",
+            "The limbic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This area is often divided into dorsolateral and orbital/ventromedial parts. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0dd04"
+    },
+    {
+      "id": "e2b8443d-39e2-4acd-b5ae-28dc9d4cdd15",
+      "linkedTossupId": "f75c13bf-5151-4cbd-ad0c-16bd81248b77",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with autonomic nervous system.",
+          "answer": "cranial nerve",
+          "acceptableAnswers": [
+            "cranial nerve"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cranial nerve in the nervous system?",
+          "answer": "Autonomic nervous system",
+          "acceptableAnswers": [
+            "Autonomic nervous system"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to autonomic nervous system.",
+          "answer": "vagus nerve",
+          "acceptableAnswers": [
+            "vagus nerve"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "b1dfa67b-28ab-4461-9c6b-7d89b0ea2925",
+      "linkedTossupId": "f9bd40fe-b3f4-4612-b4ba-15519d934dd5",
+      "category": "Literature",
+      "subcategory": "Other Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Dai Sijie (\"DYE sudge-YEH\"), a Chinese author who writes in French, wrote a novel whose title pairs \"the little Chinese seamstress\" with this French author of The Human Comedy.",
+          "answer": "Balzac",
+          "acceptableAnswers": [
+            "Balzac",
+            "The Balzac"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Chinese-born Nobel winner wrote the novel Soul Mountain and currently lives as an émigré in France.",
+          "answer": "Gao",
+          "acceptableAnswers": [
+            "Gao",
+            "The Gao"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Chinese-born French writer Shan Sa wrote a novel about a girl who participates in this activity. The title character of a novel about this activity is angered by Otake, who is based on the real-life Minoru Kitani.",
+          "answer": "go",
+          "acceptableAnswers": [
+            "go",
+            "The Girl Who Played Go",
+            "The Master of Go"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about literary relationships between China and France, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a80ae"
+    },
+    {
+      "id": "50e56e27-9656-4284-8d4c-e1bbcca7319b",
+      "linkedTossupId": "1c5d3c3e-952f-4771-b2a5-cf9a36224612",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with tonsils and malt.",
+          "answer": "lymph",
+          "acceptableAnswers": [
+            "lymph"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the lymph in the immune system?",
+          "answer": "Tonsils and MALT",
+          "acceptableAnswers": [
+            "Tonsils and MALT"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to tonsils and malt.",
+          "answer": "lymph node",
+          "acceptableAnswers": [
+            "lymph node"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c50bc09b-d6dd-4fbe-bf07-9646b625da9f",
+      "linkedTossupId": "79962a25-5af2-43d8-a247-e7c83ac5d130",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Pi is sometimes known as the constant of this ancient Greek mathematician, and solids that have two types of faces are named after him, just as solids with one type of face are named after Plato.",
+          "answer": "Archimedes",
+          "acceptableAnswers": [
+            "Archimedes",
+            "The Archimedes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 13th-century Italian is the namesake of a sequence of numbers that begins 1, 1, 2, 3, 5, etc. Each number is the sum of the two preceding numbers.",
+          "answer": "Fibonacci",
+          "acceptableAnswers": [
+            "Fibonacci",
+            "The Fibonacci"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This mathematician claimed he could prove that there are no nice solutions to an+bn=cn (\"a to the n plus b to the n equals c to the n\") when n is a whole number greater than 2, which became known as his last theorem and took centuries to prove.",
+          "answer": "Fermat",
+          "acceptableAnswers": [
+            "Fermat",
+            "The Fermat"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these mathematicians.",
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b63a"
+    },
+    {
+      "id": "8e9012ad-77ad-4fc8-992b-400f1dac081b",
+      "linkedTossupId": "c3d35315-36be-408a-968c-25f26da5f18b",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this ethnoreligious group of people, one of whom bunks with Resnyk after being sent to Auschwitz from Modena, in the memoir If This Is a Man .",
+          "answer": "Jews",
+          "acceptableAnswers": [
+            "Jews",
+            "Holocaust survivors",
+            "The Jews"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Jewish author detailed his life in Auschwitz in his memoir If This Is a Man . He also drew upon his work as a chemist to write his collection The Periodic Table .",
+          "answer": "Levi",
+          "acceptableAnswers": [
+            "Levi",
+            "The Levi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a story from The Periodic Table named for this element, the narrator meets a collector of the title substance while in prison. Paul Celan compares Margarete's hair to this substance in \"Death Fugue,\" and Apuleius wrote a satirical work titled for an ass made of this substance.",
+          "answer": "gold",
+          "acceptableAnswers": [
+            "gold",
+            "oro",
+            "accept The Golden Ass",
+            "The gold"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One work describes people of this ethnicity in the Ka-Be. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "68bb81d7c87a3eecfecf5431"
+    },
+    {
+      "id": "67826a00-2f90-42cb-b5f6-0b1fae2f5477",
+      "linkedTossupId": "99b82f6e-6af1-4d66-a55d-49e9b93e2a77",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this modernist poet and lover of Alice B. Toklas, who, in her poem \"Sacred Emily,\" wrote the infamous line \"a rose is a rose is a rose is a rose.\"",
+          "answer": "Stein",
+          "acceptableAnswers": [
+            "Stein",
+            "The Stein"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 1914 Stein collection is broken up into the sections \"Objects,\" \"Food,\" and \"Rooms.\" A work of verbal Cubism, the collection features Stein seemingly describing items and locations that she sees in her home, much like Matt Bruce.",
+          "answer": "Tender Buttons",
+          "acceptableAnswers": [
+            "Tender Buttons",
+            "The Tender Buttons"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Stein collaborated with this American composer on an opera about Susan B. Anthony entitled The Mother of Us All and the opera featuring the immortal aria \"Pigeons on the grass alas,\" Four Saints in Three Acts.",
+          "answer": "Thomson",
+          "acceptableAnswers": [
+            "Thomson",
+            "The Thomson"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "She owned such poodles as \"Basket\" and \"Basket II.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bcab6bc6fadbe6166da307"
+    },
+    {
+      "id": "2b74c4db-40fc-4242-ad3e-ba73e416eacc",
+      "linkedTossupId": "8c2260c0-a6e2-40c1-820f-d4697069ecde",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Henry II let this religious organization, founded by Ignatius of Loyola, set up a college in Paris in 1551.",
+          "answer": "Jesuit",
+          "acceptableAnswers": [
+            "Jesuit",
+            "Society of Jesus",
+            "Societas Iesu",
+            "The Jesuit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Several phases of the French Wars of Religion were instigated by this woman, the widow of Henry II and regent to three of her sons. She was blamed for the St. Bartholomew's Day Massacre.",
+          "answer": "Catherine de' Medici",
+          "acceptableAnswers": [
+            "Catherine de' Medici",
+            "Caterina de' Medici",
+            "Catherine de Medicis",
+            "The Catherine de' Medici"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Anti-Protestant persecution increased after this event in 1534 where the namesake broadsheets were put up around Paris denouncing the Catholic mass.",
+          "answer": "Affair",
+          "acceptableAnswers": [
+            "Affair",
+            "Affaire des Placards",
+            "The Affair"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following about early anti-Protestant measures in France, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae823b"
+    },
+    {
+      "id": "53ffbda5-bc63-4dbc-af51-96e29bb6f6fc",
+      "linkedTossupId": "307902f2-42fc-4c9c-a7b2-439d2a365f82",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "He died in combat during the First World War at the age of 31 after writing a crappy 1913 poem in which the last stanza states, \"Poems are made by fools like me / But only God can make a tree\".",
+          "answer": "Kilmer",
+          "acceptableAnswers": [
+            "Kilmer",
+            "The Kilmer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 1959, she wrote a poem featuring enjambment, with all the lines ending in \"we,\" about some people who \"thin gin,\" entitled \"We Real Cool.\" She also wrote A Street in Bronzeville.",
+          "answer": "Brooks",
+          "acceptableAnswers": [
+            "Brooks",
+            "The Brooks"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of 1925's \"Ars Poetica\" declared \"A poem should not mean / But be,\" and wrote about Bernal Diaz's experiences with Cortes and Montezuma in another work.",
+          "answer": "MacLeish",
+          "acceptableAnswers": [
+            "MacLeish",
+            "The MacLeish"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these American poets, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "676f8312c626ea977c7a3e1b"
+    }
+  ]
+}

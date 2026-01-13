@@ -1,0 +1,1133 @@
+{
+  "packetId": "packet-139",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Literature",
+    "History",
+    "Geography",
+    "Science",
+    "Philosophy",
+    "Mythology",
+    "Social Science",
+    "Human Body"
+  ],
+  "tossups": [
+    {
+      "id": "3ed15fd0-361e-4b1e-b6d8-5a05be6e40be",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "In one of this author's short stories, which repeats the sounds \"Ugh! Ugh! Ugh!\" five times in a row to depict a cough, a noble mentions that his family motto is \"Nemo me impune lacessit.\" A story by this author features Jupiter, a servant who helps the treasure-seeking William Legrand. A cry of \"For the love of God, Montresor!\" comes as Fortunato is entombed in a short story by this author of \"The Gold Bug\" and \"The Cask of Amontillado.\" This creator of the detective C. Auguste Dupin also mentioned a \"bust of Pallas\" in a poem whose title bird repeatedly says \"Nevermore.\" For 10 points, name this author of \"The Raven.\"",
+      "powerMarkPosition": 287,
+      "answer": "Poe",
+      "acceptableAnswers": [
+        "Poe",
+        "The Poe"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f86327cdb0cbb3f4645a98"
+    },
+    {
+      "id": "1fa32ceb-3bf6-4458-803e-3999ef6aaf81",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "In one poem, this man recalls seeing a \"witches' broth\" of \"assorted characters of death and blight/mixed ready to begin the morning right.\" Another of this man's poems, titled after a line from Macbeth, sees a young child fatally injured when a saw \"leaped out at the boy's hand.\" This author of \"Out, Out-\" and \"Design\" notes that \"one could do worse than be a swinger of\" the title trees in \"Birches.\" He criticizes a man who claims that \"good fences make good neighbors\" in \"Mending Wall.\" For 10 points, name this American poet of \"Stopping by Woods on a Snowy Evening\" and \"The Road not Taken.\"",
+      "powerMarkPosition": 312,
+      "answer": "Frost",
+      "acceptableAnswers": [
+        "Frost",
+        "The Frost"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a6af"
+    },
+    {
+      "id": "7027b4f2-bb86-4154-975d-778153d3f8bd",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "This ruler was regarded as \"Machiavellian\" in Thomas Blackwell's history -- Memoirs of the Court of [this man]. This ruler's conquering of forty-five Alpine tribes is honored by the Tropaeum Alpium outside Monaco. The Senate agreed to grant this ruler the powers of a tribune in the Second Settlement. Ovid attributed some \"carmen et error\" to this ruler exiling him, and this ruler may have been given poisoned figs by his wife Livia so their son Tiberius could be emperor. Along with Marcus Lepidus and Mark Antony, this emperor made up the Second Triumvirate. For 10 points, name this first Roman emperor and adopted son of Julius Caesar.",
+      "powerMarkPosition": 354,
+      "answer": "Augustus",
+      "acceptableAnswers": [
+        "Augustus",
+        "Octavian",
+        "Gaius Octavius",
+        "Gaius Julius Caesar Octavianus",
+        "Imperator Caesar Divi Filius Augustus",
+        "prompt on Caesar",
+        "do NOT accept",
+        "prompt on “Julius Caesar”",
+        "The Augustus"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab852"
+    },
+    {
+      "id": "b6e4ed37-78e3-4e31-ab84-dd5ab58e09bc",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "The Drake Passage separates the South Shetland Islands of this landmass and Hornos Island of a nearby landmass. Seas that border it include Scotia Sea and Bellingshausen Sea. Part of the landmass is named Queen Maud Land, and that is bordered by the Weddell Sea. The Ellsworth mountain range contains the largest mountains on this continent. Several features of the continent are named after Amundsen including a bordering sea and an ice shelf. For 10 points, this is what continent notable for having penguins and the South Pole.",
+      "powerMarkPosition": 262,
+      "answer": "Antartica",
+      "acceptableAnswers": [
+        "Antartica",
+        "The Antartica"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f05ce"
+    },
+    {
+      "id": "6cf04030-3f2d-4ba4-a2c3-015ea1d02ce3",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "This novel's foreword includes the death of Mrs. Schiller and was written by John Ray Jr. The protagonist of this novel shoots the playwright of The Enchanted Hunters and pursues the title character due to the death of his childhood love Annabel Leigh. Charlotte is run over by a car after realizing her husband's infatuation with her daughter, Dolores Haze. For 10 points, name this novel about Humbert Humbert's obsession with the title nymphet, by Vladimir Nabokov.",
+      "powerMarkPosition": 252,
+      "answer": "Lolita",
+      "acceptableAnswers": [
+        "Lolita",
+        "The Lolita"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7dedca"
+    },
+    {
+      "id": "9acb62c6-077b-4cca-a135-d3e440e2cbbf",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "This shape's symmetry group is the 3 by 3 matrices whose inverse is equal to their transpose, also called O(3) (\"O 3\"). Archimedes's tomb had an image of one of these shapes inscribed inside another shape, in honor of him being the first to find its volume. The surface of rotation about the x axis produced by \"x squared plus y squared = 1\" is one of these shapes. Rho, phi, and theta denote coordinates named for this shape. These shapes have a surface area of \"4 pi r squared\" and a volume of \"four thirds pi r cubed.\" For 10 points, name these three-dimensional shapes consisting of points equidistant from a single point, or the surface of a ball.",
+      "powerMarkPosition": 379,
+      "answer": "sphere",
+      "acceptableAnswers": [
+        "sphere",
+        "2-sphere",
+        "The sphere"
+      ],
+      "source": "qbreader",
+      "sourceId": "6765cbd46221936d6388528e"
+    },
+    {
+      "id": "d48dfa85-5064-4ec7-ab54-d33b3287174d",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "In this model organism, VAL·1/VAL·2 double mutants can't develop beyond the embryonic stage. An F·K·F·1/G·I or CRY·2/C·I·B·1 system can be used to opto·genetically control transcription in this organism. The 1001 genomes project catalogues variation in this organism. Univalents, or chromosomes not paired to their homologs during meiosis (\"my-OH-sis\"), are found in the S·D·S mutant of this organism. This organism uses its R·P·S·2 gene to resist infection by Pseudomonas (\"su-doh-MOAN-us\") syringae (\"ser-IN-jee\"). The FRIGIDA (\"FRIH-jih-duh\") gene dominates in types of these organisms that undergo vernalization. The SUPERMAN and clark kent genes code for a zinc finger necessary for development this organism's tissue boundaries. The 125 m·b·p genome of this organism is stored in five chromosomes. This organism is transfected using T plasmids from Agrobacterium (\"AG-ruh-back-TEER-ee-um\"). For 10 points, name this small plant model organism of the mustard family.",
+      "powerMarkPosition": 601,
+      "answer": "Arabidopsis",
+      "acceptableAnswers": [
+        "Arabidopsis",
+        "A. thaliana",
+        "thale cress",
+        "mouse-ear cress",
+        "The Arabidopsis"
+      ],
+      "source": "qbreader",
+      "sourceId": "63a3f66ab17797e852f22d59"
+    },
+    {
+      "id": "4c9154af-d2da-478f-9f4d-5dc3943d4959",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "In Hebron, a version of this festival \"of the Window\" celebrates a miraculous bag of gold that thwarted a greedy pasha. This festival's story is recorded in one of two Biblical books not to mention God. UChicago began an annual debate between a Passover foodstuff and one from this festival. Gift baskets called mishloach manot are exchanged in this festival, and at it one should drink until one can \"no longer distinguish between cursed Haman and blessed Mordechai.\" For 10 points, name this Jewish festival which celebrates Esther preventing a massacre of Persian Jews.",
+      "powerMarkPosition": 276,
+      "answer": "Purim",
+      "acceptableAnswers": [
+        "Purim",
+        "The Purim"
+      ],
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db46a02"
+    },
+    {
+      "id": "26ddde5e-543a-422f-83b1-31285fe91829",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "After deciding to perform this action, a character rushes offstage to oil herself, then returns with a bundle and a magazine she gives to a \"book-nourished shrimp.\" In a play titled for this action, a picture of Nebuchadnezzar and a board reading \"Christ is the Head\" are hung in place of a framed title deed that had fallen down twice in Act 1. In a play titled for this action, Ahab's wife Jezebel brandishes a pistol when Kiguunda refuses to re-perform it. Gathoni proclaims that she will perform this action \"when I want\" in that play by Ngugi wa Thiong'o (\"GOO-ghee wah TEE-ongo\"). The westernized schoolteacher Lakunle defends his refusal to pay a \"price\" for this action in a play that ends with Sidi and Baroka performing it. For 10 points, Wole Soyinka's The Lion and the Jewel depicts what institution for which a \"bride price\" was once paid?",
+      "powerMarkPosition": 511,
+      "answer": "marriage",
+      "acceptableAnswers": [
+        "marriage",
+        "weddings",
+        "word forms",
+        "accept answers mentioning specific characters",
+        "accept I Will Marry When I Want",
+        "The marriage"
+      ],
+      "source": "qbreader",
+      "sourceId": "62edc5411249c9578b2abf15"
+    },
+    {
+      "id": "176b2efc-63eb-4ede-94f1-0aaa10534cf0",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "This country's island of Surtsey was formed in the 1980s by a volcanic eruption. This country's largest airport was converted from a U.S. naval base in the town of Keflavík. Air travel in Europe was disrupted by the 2010 eruption of this country's volcano Eyjafjallajökull (EYE-yoff-yaht-lah-yo-kootl). Numerous geysers are found on, for 10 points, what North Atlantic island country with capital at Reykjavík?",
+      "powerMarkPosition": 247,
+      "answer": "Iceland",
+      "acceptableAnswers": [
+        "Iceland",
+        "Ísland",
+        "The Iceland"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae088"
+    },
+    {
+      "id": "7180431a-5dc9-4b48-b71e-f671c3261127",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "In a poem by this author, the \"Spinner of the Years\" says \"Now!\" and a certain event takes place \"In a solitude of the sea / Deep from human vanity.\" In addition to that poem about the sinking of the Titanic, he penned a poem taking place when \"all mankind...sought their household fires.\" That poem's speaker heard the sound of one \"in blast-beruffled plume\" while he \"leant upon a coppice gate.\" This poet of \"The Convergence of the Twain\" and \"The Darkling Thrush\" also wrote a novel about a woman who surrenders to police at Stonehenge after killing her rapist Alec. For 10 points, identify this British author who wrote about the wife of Angel Clare in Tess of the D'Urbervilles.",
+      "powerMarkPosition": 570,
+      "answer": "Hardy",
+      "acceptableAnswers": [
+        "Hardy",
+        "The Hardy"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0702bb8d2514c62130b3d"
+    },
+    {
+      "id": "3230657c-37a2-4273-800d-624c6e75ab46",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "This figure is told the story of Rathmore while riding past a lake with Buino and Illan. This character committed suicide by headbutting a rock after being forced to live with the man she hated most in the world. A northerner named Trendhorn lost his eye while spying on this figure, who as a child saw an omen in the form of a raven drinking the blood of a calf. Fiachu, Ardan, and Ainle were among those killed when this figure arrived in Emain Macha, where Eoghan mac Durthacht also killed her lover, a son of Uisneach. Raised by the nurse Leabharcham, she fled to Alba with her lover Naoise but was eventually tracked down by Conchobar mac Nessa. For 10 points, name this Celtic woman whose conflicted love and intense beauty caused many sorrows.",
+      "powerMarkPosition": 363,
+      "answer": "Deirdre",
+      "acceptableAnswers": [
+        "Deirdre",
+        "Derdriu",
+        "The Deirdre"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0bdf7"
+    },
+    {
+      "id": "8840e0af-8ba1-418e-917a-06557d6bc35f",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "This figure won the Battle of Carabobo and issued the Decree of War to the Death. This man won in a surprise attack after a dangerous mountain crossing at the Battle of Boyaca, which ensured the freedom of New Granada. He assumed power in Peru after a meeting at Guayaquil with Jose de San Martin, and died after resigning as president of Gran Colombia. For 10 points, name this \"Libertador\" of South America, who gave his name to a country with two capitals at La Paz and Sucre.",
+      "powerMarkPosition": 218,
+      "answer": "Bolivar",
+      "acceptableAnswers": [
+        "Bolivar",
+        "The Bolivar"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d4390d"
+    },
+    {
+      "id": "22442f22-bc6f-4654-a0b3-51bdbb7284ac",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "In one conflict over this practice, the C. S. Forester was shelled and captured by the Thor. Basque merchants became extremely wealthy through controlling this practice at Grand Banks in Newfoundland. The Magna Carta outlawed the use of weirs in this practice in England. One conflict over this practice ended after the UNCLOS (\"un-closs\") defined Exclusive Economic Zones as within a range of 200 nautical miles. Iceland and England fought a series of late 20th century \"wars\" over this practice in the North Sea. For 10 points, name this practice which often yields animals like cod.",
+      "powerMarkPosition": 319,
+      "answer": "fishing",
+      "acceptableAnswers": [
+        "fishing",
+        "acquiring cod",
+        "equivalents",
+        "The fishing"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7dec72"
+    },
+    {
+      "id": "411567c3-65aa-4ced-8a4c-6e63d70f6e8b",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "One scale for measuring this quantity is named Rankine. It represents the average kinetic energy of molecules in a system. Another scale for this quantity places freezing water at 32 degrees; that scale is named Fahrenheit. For 10 points, name this quantity that can be measured by a thermometer.",
+      "powerMarkPosition": 122,
+      "answer": "temperature",
+      "acceptableAnswers": [
+        "temperature",
+        "The temperature"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c883"
+    },
+    {
+      "id": "52cc6ff5-fcad-4b04-9cb5-e4b7755763cd",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "The bookshelves of this work's protagonist include the Vigiliae Mortuorum of a \"forgotten church,\" and the protagonist plays \"The Haunted Palace\" on his guitar for this story's narrator. The narrator hears the shriek of a dragon while reading a story to Roderick, but the sound turns out to be Madeline, who escapes from her tomb to die with her brother in this story. For 10 points, name this short story by Poe in which the title \"House\" crumbles.",
+      "powerMarkPosition": 253,
+      "answer": "Fall",
+      "acceptableAnswers": [
+        "Fall",
+        "The Fall"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eca0924256318ace28"
+    },
+    {
+      "id": "dbc6ea03-9726-490c-9e1a-9af2fa35b080",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "This is the first word in the name of a scale developed by Watson and Clark for assessing moods. Full concentration and pleasurable engagement are signs of high levels of this kind of affect. A field of study described by this adjective is the subject of Laurie Santos's extremely popular course \"Psychology and the Good Life.\" The handbook Character Strengths and Values was written for a subfield of psychology described by this word. A strategy for habit formation involves creating a structure described by this adjective that begins with a cue and a craving. Martin Seligman founded a field of psychology named for this adjective. This type of feedback loop increases the effect of an initial change. For 10 points, what word describes a type of reinforcement wherein behavior is encouraged by rewards?",
+      "powerMarkPosition": 340,
+      "answer": "positive",
+      "acceptableAnswers": [
+        "positive",
+        "positive feedback loop",
+        "The positive"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b53091"
+    },
+    {
+      "id": "d8db1d59-976c-45f6-b0c1-432964e63d0c",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for adrenal medulla hormones. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this adrenal-related structure.",
+      "powerMarkPosition": 73,
+      "answer": "Adrenal",
+      "acceptableAnswers": [
+        "adrenal",
+        "Adrenal"
+      ],
+      "explanation": "The adrenal is a key component of the Endocrine system, involved in adrenal medulla hormones.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9dc267e2-2c51-4e6b-8983-a672a3a08d58",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "One member of this race plants his foot in the main hall of his enemy, and dares the enemy's generals to lift it; none succeed. Another member of this race fought against Mayavi in a cave, and after his brother mistakenly blocks him into that cave chases that him out of the kingdom of Kishkinda. That king of these people was married to Tara and named Vali. One of these figures once ripped open his chest to show how devoted he was to his friends, and that figure served under their king Sugreeva. One of these creatures carried an entire mountain on his back to bring a life-giving plant to his friend, and had earlier leapt across the sea to Lanka to determine whether Sita was ok. For 10 points, name these creatures which include the greatest devotee of Rama, named Hanuman.",
+      "powerMarkPosition": 418,
+      "answer": "monkeys",
+      "acceptableAnswers": [
+        "monkeys",
+        "The monkeys"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587597b42"
+    },
+    {
+      "id": "8a55b75a-fc44-4976-a6d3-f9435adced26",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "text": "One reaction forms these compounds from alkenes using oxone and a fructose catalyst. Another reaction forms this functional group from alkyl- and aryl-substituted alkenes using a manganese-III salen-like ligand. This functional group can by synthesized by reacting ketones or aldehydes with a sulfur ylide such as trimethylsulfonium iodide. Alcohols containing this functional group in chiral form can be prepared using allylic alcohols in an enantioselective reaction. These compounds are the products of the Shi, Jacobsen, Corey-Chayovsky and Sharpless reactions. A peroxyacid oxidizes an alkene to produce these compounds in a reaction named for Prilezhaev that has an intermediate \"butterfly mechanism.\" They are produced by an intermolecular Williams synthesis, and can be \"opened\" to yield an alcohol. For 10 points, name these cyclic ethers with three-membered rings.",
+      "powerMarkPosition": 514,
+      "answer": "epoxide",
+      "acceptableAnswers": [
+        "epoxide",
+        "oxiranes",
+        "The epoxide"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587597764"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "c320f080-7215-4a3e-b877-5d47b857847e",
+      "linkedTossupId": "3ed15fd0-361e-4b1e-b6d8-5a05be6e40be",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this author of Fences and a play in which Boy Willie attempts to sell the title object, The Piano Lesson.",
+          "answer": "Wilson",
+          "acceptableAnswers": [
+            "Wilson",
+            "Frederick August Kittel Jr.",
+            "The Wilson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The only part of Wilson's Pittsburgh Cycle not to be set in Pittsburgh is this play, in which Levee stabs Toledo, and Sylvester overcomes his stutter to record the intro to the title song.",
+          "answer": "Ma Rainey’s Black Bottom",
+          "acceptableAnswers": [
+            "Ma Rainey’s Black Bottom",
+            "The Ma Rainey’s Black Bottom"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Piano Lesson, one of these spirits tries to prevent the movement of the title piano. Ebenezer Scrooge is visited by spirits of this kind representing Christmas Past, Present, and Future in A Christmas Carol.",
+          "answer": "ghost",
+          "acceptableAnswers": [
+            "ghost",
+            "clear equivalents like specters",
+            "The ghost"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a play by this man, Troy Maxson attempts to prevent his son Cory from playing football for fear he will be racially discriminated against. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a7778"
+    },
+    {
+      "id": "86db5d64-0623-4c41-a702-c7eb01289d37",
+      "linkedTossupId": "1fa32ceb-3bf6-4458-803e-3999ef6aaf81",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this novel following Humbert Humbert, who is sexually attracted to prepubescent girls he terms \"nymphets\", exemplified by the title character.",
+          "answer": "Lolita",
+          "acceptableAnswers": [
+            "Lolita",
+            "The Lolita"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lolita is a work of this Russian-American author who wrote about the title character's love affair with Van Veen in Antiterra, or Demonia, in Ada or Ardor.",
+          "answer": "Nabokov",
+          "acceptableAnswers": [
+            "Nabokov",
+            "The Nabokov"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Nabokov novel, the title character, a professor of Russian at Waindell College, is divorced from his wife Liza Wind and eventually fired by Dr. Hagen.",
+          "answer": "Pnin",
+          "acceptableAnswers": [
+            "Pnin",
+            "The Pnin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The protagonist of this work gives the title character four thousand dollars to fund her move to Alaska with her husband Dick Schiller. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "657fd7d5de6df0163bbe3a71"
+    },
+    {
+      "id": "895abbc3-e265-4436-aa46-630c8c99cff4",
+      "linkedTossupId": "7027b4f2-bb86-4154-975d-778153d3f8bd",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Bronze Age river civilization of modern-day Pakistan. Its centers included Mohenjo-Daro.",
+          "answer": "Indus Valley",
+          "acceptableAnswers": [
+            "Indus Valley",
+            "Harappan Civilization",
+            "The Indus Valley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Like many other civilizations, a number of seals carved from this soft rock survive from the Indus Valley Civilisation. It was also used for the bird statues of Great Zimbabwe.",
+          "answer": "soapstone",
+          "acceptableAnswers": [
+            "soapstone",
+            "steatite",
+            "The soapstone"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "It has been hypothesized that the Indus Valley Civilization was part of this large ethnolinguistic group of South India, which includes Tamil and Telugu speakers.",
+          "answer": "Dravidian",
+          "acceptableAnswers": [
+            "Dravidian",
+            "The Dravidian"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The late stages of this civilization grew into the Cemetery H culture. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0ddd3"
+    },
+    {
+      "id": "a39d55cb-2baa-4d15-b175-bbac55b095b6",
+      "linkedTossupId": "b6e4ed37-78e3-4e31-ab84-dd5ab58e09bc",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "The Riverwalk is a landmark in the downtown of this city where one might also visit the Alamo.",
+          "answer": "San Antonio",
+          "acceptableAnswers": [
+            "San Antonio",
+            "The San Antonio"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This third-most populous city in Texas shares a \"metroplex\" with nearby Fort Worth.",
+          "answer": "Dallas",
+          "acceptableAnswers": [
+            "Dallas",
+            "The Dallas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This city is the site of Baylor University. In 1993 it saw a standoff between FBI agents and the residents of a Branch Davidian (duh-VID-ee-uhn) compound.",
+          "answer": "Waco",
+          "acceptableAnswers": [
+            "Waco",
+            "The Waco"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these cities in Texas.",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec67c3"
+    },
+    {
+      "id": "9f98a6fd-a5ed-4293-8dad-c1afa2ef80dd",
+      "linkedTossupId": "6cf04030-3f2d-4ba4-a2c3-015ea1d02ce3",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "In this novel by Herman Melville, Captain Ahab goes on a mad quest to get revenge on the title white whale.",
+          "answer": "Moby-Dick",
+          "acceptableAnswers": [
+            "Moby-Dick",
+            "The Moby-Dick"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After a long dry spell in this short Hemingway novel, Santiago catches an enormous marlin, only for it to be eaten by sharks before he can return it to shore.",
+          "answer": "Old Man and the Sea",
+          "acceptableAnswers": [
+            "Old Man and the Sea",
+            "The Old Man and the Sea"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author wrote about Humphrey van Weyden's encounter with the vicious captain Wolf Larsen in The Sea-Wolf.",
+          "answer": "London",
+          "acceptableAnswers": [
+            "London",
+            "The London"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about American novels about the sea, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc005208"
+    },
+    {
+      "id": "98fecdd8-0949-4456-94cd-50074850c961",
+      "linkedTossupId": "9acb62c6-077b-4cca-a135-d3e440e2cbbf",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this larger of two satellites discovered by Asaph Hall, both of which may have been captured from the Asteroid Belt.",
+          "answer": "Phobos",
+          "acceptableAnswers": [
+            "Phobos",
+            "The Phobos"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Phobos and Deimos are the two moons of this planet.",
+          "answer": "Mars",
+          "acceptableAnswers": [
+            "Mars",
+            "The Mars"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "NASA claims that Phobos may disintegrate into a planetary ring once it passes a limit named for this French astronomer, beyond which tidal forces tear objects apart.",
+          "answer": "Roche",
+          "acceptableAnswers": [
+            "Roche",
+            "Roche limit",
+            "Roche radius",
+            "The Roche"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Alkaline-rich clasts in the Kaidun meteorite suggest it may have originated from this body. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68d80887f2b1f8e7f3913431"
+    },
+    {
+      "id": "e7a2df26-6259-4b42-8dfc-2af95c68fc0b",
+      "linkedTossupId": "d48dfa85-5064-4ec7-ab54-d33b3287174d",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this quantity, equal to the cross product of momentum and angular momentum, minus the product of a particle's mass and the constant parameter in its force law.",
+          "answer": "Laplace-Runge-Lenz",
+          "acceptableAnswers": [
+            "Laplace-Runge-Lenz",
+            "LRL vector",
+            "The Laplace-Runge-Lenz"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The LRL vector describes objects subject to these three laws of planetary motion. They were discovered by a 17th-century German mathematician, and they include the \"equal area in equal time\" law.",
+          "answer": "Kepler",
+          "acceptableAnswers": [
+            "Kepler",
+            "The Kepler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The derivation of the LRL vector depends on the fact that gravity is this kind of force. These forces only depend on the magnitude of the distance between the two objects involved.",
+          "answer": "central",
+          "acceptableAnswers": [
+            "central",
+            "The central"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This quantity always lies in a plane perpendicular to a body's angular momentum. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed6a483fe041d20f4a497c"
+    },
+    {
+      "id": "25a97ea3-b76f-4e7f-9177-e49246224c11",
+      "linkedTossupId": "4c9154af-d2da-478f-9f4d-5dc3943d4959",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Give this name shared by a first-century convert of St Paul, the headless third-century patron saint of France, and a fifth-century theologian, all of whom were often conflated into one person by medieval writers.",
+          "answer": "Dionysius",
+          "acceptableAnswers": [
+            "Dionysius",
+            "The Dionysius"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The claim of the monks of the Abbey of St-Denis [san duh-NEE] which Abelard rejected was that St Denis had been bishop of this other Greek city, where St Paul gave a sermon at its Areopagus [\"air\"-ee-op-ag-us].",
+          "answer": "Athens",
+          "acceptableAnswers": [
+            "Athens",
+            "The Athens"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The theologian Pseudo-Dionysius was influential in the ordering of these beings into a nine-level hierarchy. One of those ranks, thrones, often appeared in medieval depictions as wheels covered in eyes, as seen in the opening vision of the book of Ezekiel.",
+          "answer": "angels",
+          "acceptableAnswers": [
+            "angels",
+            "The angels"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "While recovering from his castration, Peter Abelard got himself into trouble with his hosts by citing Bede's authority that a man with this name had actually been Bishop of Corinth. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6327e538099ec9a245d6df2e"
+    },
+    {
+      "id": "b12c36ca-26c2-4f01-b5eb-8e744f67ba1f",
+      "linkedTossupId": "26ddde5e-543a-422f-83b1-31285fe91829",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "When the title character of this Hemingway short story gains the courage to face a buffalo, his wife shoots him, prompting Wilson to ask \"Why didn't you poison him?\"",
+          "answer": "Short Happy Life of Francis Macomber",
+          "acceptableAnswers": [
+            "Short Happy Life of Francis Macomber",
+            "The Short Happy Life of Francis Macomber"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sanger Rainsford uses Malay Mancatchers and a Ugandan knife trap to barely keep himself alive while being hunted by General Zaroff in this Richard Connel tale.",
+          "answer": "Most Dangerous Game",
+          "acceptableAnswers": [
+            "Most Dangerous Game",
+            "The Most Dangerous Game"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Louisa Mebbin threatens to reveal that the animal the title character claimed she shot actually died of a heart attack in this Saki short story.",
+          "answer": "Mrs. Packletide's Tiger",
+          "acceptableAnswers": [
+            "Mrs. Packletide's Tiger",
+            "The Mrs. Packletide's Tiger"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these short stories that involve hunting for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b118a"
+    },
+    {
+      "id": "2a658ca5-6f69-4e9f-9cee-a8ef39281873",
+      "linkedTossupId": "176b2efc-63eb-4ede-94f1-0aaa10534cf0",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "The Galar region is based on Britain, so Wyndon is a depiction of this largest city and capital of the United Kingdom.",
+          "answer": "London",
+          "acceptableAnswers": [
+            "London",
+            "The London"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pokemon's unrideable Galar Hurricane is based on the London Eye, one of these rides that offers spectacular views of the city.",
+          "answer": "Ferris Wheel",
+          "acceptableAnswers": [
+            "Ferris Wheel",
+            "The Ferris Wheel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Galar, Chairman Rose's tower resembles this skyscraper. Named for its resemblance to a piece of glass, this Renzo Piano-designed skyscraper is the tallest building in the U.K.",
+          "answer": "Shard",
+          "acceptableAnswers": [
+            "Shard",
+            "The Shard"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The largest city in Pokemon's Galar region is Wyndon, a fictional depiction of this city. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7dedd4"
+    },
+    {
+      "id": "5070c35d-c56b-43f3-a3d9-5b769a9d6f53",
+      "linkedTossupId": "7180431a-5dc9-4b48-b71e-f671c3261127",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "What German wrote the much more commonly read novella Death in Venice?",
+          "answer": "Mann",
+          "acceptableAnswers": [
+            "Mann",
+            "The Mann"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Von Aschenbach succumbs to cholera in Venice after pining terribly for this beautiful Polish boy.",
+          "answer": "Tadzio",
+          "acceptableAnswers": [
+            "Tadzio",
+            "The Tadzio"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mann's massive tale of Hans Castorp's seven-year visit to a sanatorium in Switzerland has this title.",
+          "answer": "Magic Mountain",
+          "acceptableAnswers": [
+            "Magic Mountain",
+            "The Magic Mountain"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author's massive four-volume novel Joseph and His Brothers isn't much read these days. FTPE:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a2863"
+    },
+    {
+      "id": "d88a4e7b-a78f-4641-b955-ec746611be42",
+      "linkedTossupId": "3230657c-37a2-4273-800d-624c6e75ab46",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this man whose journeys through the afterlife and witnesses dead souls drinking from the River Lethe.",
+          "answer": "Er",
+          "acceptableAnswers": [
+            "Er"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The myth of Er appears in the tenth book of this Socratic Dialogue by Plato. This dialogue contains the Allegory of the Cave and the legend of the Ring of Gyges.",
+          "answer": "Republic",
+          "acceptableAnswers": [
+            "Republic",
+            "The Republic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Because he did not drink from the Lethe, Er was able to recall seeing the Spindle of Necessity attended to by the goddess Ananke and these daughters of hers, who are described as daughters of Nyx in most other myths.",
+          "answer": "Fates",
+          "acceptableAnswers": [
+            "Fates",
+            "Moirai",
+            "The Fates"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This Son of Armenios of Pamphylia died in battle before being revived on his funeral pyre ten days later. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0aec0f"
+    },
+    {
+      "id": "c30a4dc2-1a2c-497e-8495-8375add82db1",
+      "linkedTossupId": "8840e0af-8ba1-418e-917a-06557d6bc35f",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this island off the coast of Italy.",
+          "answer": "Sicily",
+          "acceptableAnswers": [
+            "Sicily",
+            "The Sicily"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Sicilian Expedition was launched by this ancient Greek city-state which, at the time, was in an unsteady \"peace\" with its rival Sparta.",
+          "answer": "Athens",
+          "acceptableAnswers": [
+            "Athens",
+            "The Athens"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Athens and Sparta feuded in this series of 5th century BCE wars. This conflict ended with Athens' navy getting destroyed at Aegospotami and Sparta installing the Thirty Tyrants to control Athens.",
+          "answer": "Peloponnesian",
+          "acceptableAnswers": [
+            "Peloponnesian",
+            "The Peloponnesian"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In 415 BCE, an expedition of over 100 triremes [tri-reems] sailed to this island to attack the city of Syracuse. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004cc8"
+    },
+    {
+      "id": "3b4ee403-91f8-41ca-bd3e-ab9889515ebe",
+      "linkedTossupId": "22442f22-bc6f-4654-a0b3-51bdbb7284ac",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This naval fleet was meant to invade England in 1588, but it failed. It was dispatched by Philip II, and its failure was due in part to the swifter ships of England and the Netherlands.",
+          "answer": "Spanish Armada",
+          "acceptableAnswers": [
+            "Spanish Armada",
+            "partial",
+            "The Spanish Armada"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This vice admiral under Lord Howard during the English defeat of the Armada pre-emptively shelled the port cities of Cadiz and Corunna in 1587. He circumnavigated the world between 1577 and 1580.",
+          "answer": "Drake",
+          "acceptableAnswers": [
+            "Drake",
+            "The Drake"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Armada was assembled in response to this 1585 treaty which Elizabeth I signed. It provided English cavalry and solders to the Netherlands, and was signed in response to Philip's signing of the Treaty of Joinville.",
+          "answer": "Nonsuch",
+          "acceptableAnswers": [
+            "Nonsuch",
+            "The Nonsuch"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "11. Answer the following questions about a naval fleet commanded by the duke of Medonia Sodenia, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e6327c"
+    },
+    {
+      "id": "4fd27851-e81e-4ed1-9646-f420660fe234",
+      "linkedTossupId": "411567c3-65aa-4ced-8a4c-6e63d70f6e8b",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these circuit components that can convert AC into DC and are common in modern lightbulbs in their \"light emitting\" type.",
+          "answer": "diode",
+          "acceptableAnswers": [
+            "diode",
+            "The diode"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This circuit component is used to provide a voltage difference to a circuit and are used in common devices in their AA (\"double-A\") and AAA (\"triple-A\") varieties.",
+          "answer": "battery",
+          "acceptableAnswers": [
+            "battery",
+            "The battery"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These circuit components store charge, and their \"parallel plate\" type is the most simple; the voltage difference across one of these devices is equal to the charge stored on this device divided by its namesake property",
+          "answer": "capacitor",
+          "acceptableAnswers": [
+            "capacitor",
+            "The capacitor"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These circuit components allow current to flow in only one direction. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a504fe"
+    },
+    {
+      "id": "2653f767-2477-425d-847a-3be995fef191",
+      "linkedTossupId": "52cc6ff5-fcad-4b04-9cb5-e4b7755763cd",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Japanese author of Kafka on the Shore, The Wind-Up Bird Chronicle, and 1Q84.",
+          "answer": "Murakami",
+          "acceptableAnswers": [
+            "Murakami",
+            "The Murakami"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A section of 1Q84 is titled \"Town of\" these animals, which often appear in Murakami's works. One of these pets goes missing at the start of The Wind-Up Bird Chronicle, and several of these animals are characters in Kafka on the Shore, including a tabby and a Siamese.",
+          "answer": "cat",
+          "acceptableAnswers": [
+            "cat",
+            "The cat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Murakami's writing is often inspired by pop culture, especially this 1960s band. A 2013 short story is named for their song \"Drive My Car,\" and in a 1987 novel, Toru Watanabe is emotionally overcome in Hamburg after hearing this band's song \"Norwegian Wood.\"",
+          "answer": "Beatles",
+          "acceptableAnswers": [
+            "Beatles",
+            "The Beatles"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a novel by this author, Aomame enters an alternate universe after assassinating a hotel guest. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004ce5"
+    },
+    {
+      "id": "a182afb7-83c5-4160-a6c1-fc1b49a33ab9",
+      "linkedTossupId": "dbc6ea03-9726-490c-9e1a-9af2fa35b080",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this construct describing the group of all decision nodes that are indistinguishable from each other for a given player. On trees, this construct is represented by a dotted line that connects multiple nodes.",
+          "answer": "information set",
+          "acceptableAnswers": [
+            "information set",
+            "The information set"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Information sets are relevant in this branch of mathematics and economics that uses payoff matrices to derive Nash equilibria. Thought experiments in this field include the Stag Hunt and the Prisoner's Dilemma.",
+          "answer": "game theory",
+          "acceptableAnswers": [
+            "game theory",
+            "The game theory"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The game-theory concept of best-response functions is used in the Cournot model of this situation, in which firms compete based on quantity. The Bertrand model of this situation assumes firms compete on price.",
+          "answer": "oligopoly",
+          "acceptableAnswers": [
+            "oligopoly",
+            "duopoly",
+            "The oligopoly"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Extensive form can represent these constructs, which are singletons for non-Bayesian models. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "673ec00f90236da031c2cf8a"
+    },
+    {
+      "id": "10cb652c-c610-4f18-a48b-9e3bfeb571a6",
+      "linkedTossupId": "d8db1d59-976c-45f6-b0c1-432964e63d0c",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with sebaceous glands.",
+          "answer": "hair follicle",
+          "acceptableAnswers": [
+            "hair follicle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hair follicle in the integumentary system?",
+          "answer": "Sebaceous glands",
+          "acceptableAnswers": [
+            "Sebaceous glands"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the integumentary system related to sebaceous glands.",
+          "answer": "nail",
+          "acceptableAnswers": [
+            "nail"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human integumentary system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "783a4d1a-f0b9-436e-944c-ea5196de5f47",
+      "linkedTossupId": "9dc267e2-2c51-4e6b-8983-a672a3a08d58",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this food goddess from Shinto mythology, who apparently met her death after daring to offer food she spat up to another god, who promptly killed her.",
+          "answer": "Uke-Mochi",
+          "acceptableAnswers": [
+            "Uke-Mochi",
+            "The Uke-Mochi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Uke-Mochi's killer was this figure from Shinto mythology, who was created by Izanagi after the creation of Japan and climbed a ladder to his home in Takamagahara. After killing Uke-Mochi, his sister, Amaterasu, was very upset at him.",
+          "answer": "Tsukiyomi",
+          "acceptableAnswers": [
+            "Tsukiyomi",
+            "The Tsukiyomi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tsukiyomi was the god of this object within Shinto mythology. The story goes that after Tsukiyomi murdered Uke-Mochi, Amaterasu vowed never to see him face to face, explaining a certain celestial division.",
+          "answer": "Moon",
+          "acceptableAnswers": [
+            "Moon",
+            "The Moon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After dying, this figure's eyebrows became silkworms and wheat and beans came from her genitals. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa83f"
+    },
+    {
+      "id": "cc48cfc5-ba02-4b5f-bc75-c381e13eaa1e",
+      "linkedTossupId": "8a55b75a-fc44-4976-a6d3-f9435adced26",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these structures that form the cosmic web. These overdense structures consist of long strings of galaxies.",
+          "answer": "filament",
+          "acceptableAnswers": [
+            "filament",
+            "dark matter filaments",
+            "The filament"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The HCB Great Wall was discovered from an overdensity of these sources. The \"short\" and \"long\" types of these highly energetic events originate from neutron star mergers and hypernovae, respectively.",
+          "answer": "gamma-ray burst",
+          "acceptableAnswers": [
+            "gamma-ray burst",
+            "GRBs",
+            "sGRBs",
+            "The gamma-ray burst"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The largest-known structure before the HCB Great Wall was a \"Huge Large\" group of these objects. The name for these objects is a shortening of \"quasi-stellar radio sources.\"",
+          "answer": "quasar",
+          "acceptableAnswers": [
+            "quasar",
+            "quasi-stellar objects",
+            "QSOs",
+            "Huge Large Quasar Group",
+            "prompt on Huge-LQG",
+            "The quasar"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of these structures called the Hercules-Corona Borealis Great Wall is the largest structure in the known universe. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6797c22b6d78eee804a37833"
+    }
+  ]
+}

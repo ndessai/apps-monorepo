@@ -1,0 +1,1145 @@
+{
+  "packetId": "packet-083",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Human Body",
+    "Geography",
+    "Philosophy",
+    "Science",
+    "Fine Arts",
+    "Social Science",
+    "Literature"
+  ],
+  "tossups": [
+    {
+      "id": "eec246f1-8aa5-4ff2-9915-32937e66c7b7",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "A city in this country was razed by Friedrich-Wilhelm Müller, the \"butcher\" of an area in this country, in part for preventing German troops from landing during the Damasta sabotage. In the book Abducting a General, Patrick Leigh Fermor recounted how he and a group of Andartes (\"ann-DAR-teez\") guerilla fighters kidnapped Heinrich Kreipe (\"KRY-puh\") in this country. Kurt Student commanded the last primarily airborne operation attempted by the Nazis, an invasion of an island in this country. Operation Mercury targeted this country, whose government-in-exile was in Cairo during World War II. In response to Italian demands to occupy it, this country's prime minister allegedly responded with just the word \"no.\" It's not Turkey, but this country ruled by George II (\"the second\") was aided by funds from the Truman Doctrine. For 10 points, the Nazis and Italians jointly occupied what country's island of Crete?",
+      "powerMarkPosition": 494,
+      "answer": "Greece",
+      "acceptableAnswers": [
+        "Greece",
+        "Hellenic Republic",
+        "The Greece"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d58b421eb3b13d92e577eb"
+    },
+    {
+      "id": "c5ae4805-5f57-4b04-9f28-fa46602fbce5",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for adrenal medulla hormones. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this adrenal-related structure.",
+      "powerMarkPosition": 80,
+      "answer": "Adrenal",
+      "acceptableAnswers": [
+        "adrenal",
+        "Adrenal"
+      ],
+      "explanation": "The adrenal is a key component of the Endocrine system, involved in adrenal medulla hormones.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c92b22eb-2008-45ab-9f79-39566e8cfbb7",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "high_school",
+      "text": "Under Liuvigild's son Reccared, these people rejected the teachings of the bishop Ulfilas when they switched from Arianism to Catholicism. These people became foederati under emperor Valens, who let them settle across the Danube. This ethnic group won the battle of Covadonga under Pelayo. Between the fall of Rome and the Islamic conquest, these people ruled Spain from Toledo. Their unrest touched off the battle of Adrianople, which they won, and they later prompted Augustine to write City of God when their ruler Alaric sacked Rome in 410 CE. For 10 points, name this barbarian tribe which separated from the Ostrogoths.",
+      "powerMarkPosition": 359,
+      "answer": "Visigoths",
+      "acceptableAnswers": [
+        "Visigoths",
+        "Visi",
+        "prompt on \"Goths\"",
+        "The Visigoths"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aef80"
+    },
+    {
+      "id": "258b564b-1bb4-4232-b0fe-b9c773cc14cd",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "While this non-California politician was a Senator, he observed the Delano Grape Strike and gave the Day of Affirmation speech in Cape Town. This man won his senate seat against incumbent Kenneth Keating despite not living in New York, and he delivered an impromptu speech in Indianapolis while in the back of a flatbed truck after the death of Martin Luther King. This man formed a team to investigate Jimmy Hoffa, the head of the Teamsters Union. After winning the 1968 California primary, this leader gave a speech at the Ambassador Hotel, where he was assassinated by Sirhan Sirhan. For 10 points, name this Attorney General and younger brother of John F. Kennedy.",
+      "powerMarkPosition": 351,
+      "answer": "R",
+      "acceptableAnswers": [
+        "R"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a4d585770cd7127f7dab0d"
+    },
+    {
+      "id": "e9de98dd-6af0-4e51-a279-9dc7b8326c4e",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "This mountain range is home to the shortest known viper, which grows to be just over a foot long, and to a species of gazelle named for naturalist George Cuvier. The Kabyle people, who build villages in a high section of these mountains, were studied by cultural sociologist Pierre Bourdieu. Ouarzazate is a city high in a western \"Anti-\" section of this range, whose easternmost portion is called the Aurès region. The Ourika and Draa Rivers flow through part of this range, which is separated by the Sebou River from the Rif region to its northwest. This range's highest peak is Jebel Toubkal. The highlands south of this range contain the city of Marrakesh, which was founded by Berbers. For 10 points, name this mountain range spanning Morocco, Tunisia and Algeria.",
+      "powerMarkPosition": 401,
+      "answer": "Atlas",
+      "acceptableAnswers": [
+        "Atlas",
+        "Tell Atlas until \"Anti-\"",
+        "The Atlas"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54add44"
+    },
+    {
+      "id": "334685d0-5206-4491-aa83-a16b699ba64c",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "This thinker argues that society can foster moral behavior through an \"invisible church\" and that humans are essentially evil in his Religion within the Boundaries of Mere Reason. In another work he differentiates between the beautiful and sublime, and claims that aesthetic judgments have universal validity. He defined enlightenment as \"Sapere aude,\" or \"Dare to know,\" and this author of Groundwork on the Metaphysics of Morals differentiated between a priori and a posteriori truth. For 10 points, name this Prussian philosopher who developed the categorical imperative and wrote Critique of Pure Reason.",
+      "powerMarkPosition": 309,
+      "answer": "Kant",
+      "acceptableAnswers": [
+        "Kant",
+        "The Kant"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe6bc"
+    },
+    {
+      "id": "fc6d607d-f62f-415b-bb82-a504dc1b6281",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for gut microbiome. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this colon-related structure.",
+      "powerMarkPosition": 68,
+      "answer": "Colon",
+      "acceptableAnswers": [
+        "colon",
+        "Colon"
+      ],
+      "explanation": "The colon is a key component of the Digestive system, involved in gut microbiome.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "03ea4be1-141f-4e7c-ac87-477dccffabb8",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "The non-Coulomb term of the electric field derived from the Liénard-Wiechert potential is sometimes named for this quantity since it is proportional to it. Charge squared times the rate of change of this quantity is proportional to the Abraham-Lorentz force. The power of a radiating particle is proportional to charge squared times this quantity squared according to the Larmor formula. The Bohr model of the atom is unstable because the electron is radiating due to this quantity being nonzero. If this vector quantity points in the opposite direction to the motion of a charged particle, then it emits bremsstrahlung radiation. A particle in a cyclotron emits radiation when the centripetal form of this quantity is nonzero. For 10 points, what quantity is the instantaneous rate of change of velocity?",
+      "powerMarkPosition": 371,
+      "answer": "acceleration",
+      "acceptableAnswers": [
+        "acceleration",
+        "centripetal acceleration",
+        "accept deceleration",
+        "The acceleration"
+      ],
+      "source": "qbreader",
+      "sourceId": "639a46d925fac6a63b2b7ef1"
+    },
+    {
+      "id": "80f912e0-3027-444d-b767-d629ae50343f",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for nutrient absorption. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this duodenum-related structure.",
+      "powerMarkPosition": 95,
+      "answer": "Duodenum",
+      "acceptableAnswers": [
+        "duodenum",
+        "Duodenum"
+      ],
+      "explanation": "The duodenum is a key component of the Digestive system, involved in nutrient absorption.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "8ce109a7-4c36-46ee-8532-84a67df59170",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "The popular folk song Ayrılıq (\"AY-ruh-luhk\") commemorates the separation of these people by the Aras River. They're not Persians, but one ruler developed the qoshma style of poetry writing in the language of these people under the pen name Khatāī. Mammad Amin Rasulzadeh founded the Müsavat Party to represent these people, who fought with an ethnic group represented by the Dashnaks during the March Days. During \"Black January,\" Mikhail Gorbachev sent Soviet troops to thwart the independence of this people's SSR, which fought along with its exclave of Nakhchivan against newly-independent Armenia in the Nagorno-Karabakh War. For 10 points, name these people who populate a corridor from northwest Iran through Baku.",
+      "powerMarkPosition": 431,
+      "answer": "Azerbaijani",
+      "acceptableAnswers": [
+        "Azerbaijani",
+        "Azeris",
+        "Iranian Azeris",
+        "Soviet Azeris",
+        "The Azerbaijani"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974236e7"
+    },
+    {
+      "id": "804d27a3-0192-4d45-9e45-e1f64e4b34e6",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "This quantity equals negative one times the partial derivative of chemical energy with respect to number of electrons, and its derivative is negative hardness. It is proportional to the square root of the covalent radius times actual nuclear charge minus a screening constant determined by Slater's rules. Due to d-block contraction, gallium and germanium have higher values of it than aluminum. The mean of electron affinity and first ionization energy is Mulliken's formulation of this quantity that increases across a period and up a group. Its greatest value on the Pauling scale, 4.0, is assigned to fluorine. For 10 points, name this tendency of an atom to attract electrons.",
+      "powerMarkPosition": 305,
+      "answer": "electronegativity",
+      "acceptableAnswers": [
+        "electronegativity",
+        "Mulliken electronegativity",
+        "Allred-Rochow electronegativity",
+        "The electronegativity"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eec0e50657a21915d9f437"
+    },
+    {
+      "id": "33d64d5e-41bf-46f6-ae59-6219b9b32ec7",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "The first version of this painting was burned in a fire at the artist's studio, and the second was destroyed during the bombing of Dusseldorf in World War II. A man plucking a banjo and a man reeling in a fish appear in Robert Colescott's parody of this painting. The artist Worthington Whittredge modeled for the title person in this painting. 50,000 people attended an 1851 exhibition of this painting at the Stuyvesant Institute in New York. In this painting by the artist of Westward, Ho!, a man grasps an anachronistic flag behind the title figure. Nathaniel Greene leans towards the ice in this painting, which was adapted for New Jersey's state quarter. For 10 points, name this Emanuel Leutze (LOOT-suh) painting of an American general leading his troops to Trenton.",
+      "powerMarkPosition": 478,
+      "answer": "Washington Crossing the Delaware",
+      "acceptableAnswers": [
+        "Washington Crossing the Delaware",
+        "The Washington Crossing the Delaware"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae861b"
+    },
+    {
+      "id": "e2fcaea0-c48e-4734-b8da-bbaf7e88505f",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "A school named for this thinker often uses the Calvo staggered contract model to calculate nominal rigidity. Equilibrium occurs when the 45-degree line intersects the aggregate expenditure curve when plotting it against national income in this thinker's \"Cross\". Étienne Mantoux (man-TOO) refuted this thinker's claim that a \"Carthaginian (car-thuh-JIN-ee-uhn) peace\" came from the Treaty of Versailles (vehr-SAI), from their book The Economic Consequences of the Peace. This thinker argued that the marginal propensity to consume is related to the fiscal multiplier in a book advocating government spending to end economic downturns. For 10 points, The General Theory of Employment, Interest, and Money was written by what English economist?",
+      "powerMarkPosition": 391,
+      "answer": "Keynes",
+      "acceptableAnswers": [
+        "Keynes",
+        "New Keynesian economics",
+        "Keynesian economics",
+        "The Keynes"
+      ],
+      "source": "qbreader",
+      "sourceId": "66423ff4515f1173a58a27f5"
+    },
+    {
+      "id": "9755f659-461f-465a-a3cc-e0a99efeebbc",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "A poem by this author is set \"by the dim lake of Auber (AW-ber) / In the misty mid region of Weir (WEER),\" where the speaker wanders to a tomb of a former lover. In another poem by this author, the speaker hears \"tintinnabulation\" (tin-tin-AB-yoo-LAY-shun) of \"silver\" examples of the title objects, whose \"iron\" variety keep \" time, time, time, / In a sort of Runic rhyme.\" This author used the theme of \"the death of a beautiful woman\" in poems like \"Ulalume\" (OO-lah-LOOM) and one lamenting the death of a maiden who lived \"in a kingdom by the sea.\" In another poem by this author, the speaker asks \"is there balm in Gilead (gill-EE-ud)?\" to a creature that sits \"on the pallid bust of Pallas\" and only replies \"Nevermore.\" For 10 points, name this author of the poems \"Annabel Lee\" and \"The Raven.\"",
+      "powerMarkPosition": 531,
+      "answer": "Poe",
+      "acceptableAnswers": [
+        "Poe",
+        "The Poe"
+      ],
+      "source": "qbreader",
+      "sourceId": "68fda9d51fd794cc6b3e1b2e"
+    },
+    {
+      "id": "385383ab-b974-46b0-b3cd-8189d78bcfc7",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "text": "It's not the saxophone, but a player of this instrument wrote a standard first recorded on Joe Henderson's album Page One, titled \"Blue Bossa.\" A player of this instrument worked with Sonny Rollins and Sonny Stitt on the album Sonny Side Up. This instrument was played by Kenny Dorham and by a musician who drew on Paul Whiteman's song \"Whispering\" to write \"Groovin' High.\" A musician who mainly played this instrument covered \"My Funny Valentine\" on a 1954 album titled \"[that musician] Sings.\" This instrument was played by Chet Baker and by the composer of \"A Night in Tunisia.\" A player of this instrument, who worked with Charlie Parker to pioneer bebop, played a \"bent\" type of this instrument with puffed cheeks. For 10 points, name this brass instrument played by Dizzy Gillespie.",
+      "powerMarkPosition": 720,
+      "answer": "trump",
+      "acceptableAnswers": [
+        "trump",
+        "The trump"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423b6f"
+    },
+    {
+      "id": "fe204072-ce25-4506-ae48-3854f6efe07f",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "text": "In contrast to alkyl sulfoxides, allylic sulfoxides undergo this reaction rapidly at moderate temperatures via a sulfenate ester intermediate that can be trapped by a nucleophile like tri·methoxy·phosphine. In peptide synthesis, hydroxy·benzo·triazoles HOBt and HOAt are used to form an activated ester that quickly couples to the next amino acid without allowing this reaction. This process is the consequence of another process that produces a Q-branch on the rovibrational spectra of pyramidal compounds; that other process occurs via quantum tunneling. Enolate formation causes this process to occur but isolated to the alpha-carbon atom. This process occurs in SN1 but not in SN2 since the carbocation in SN1 is planar, and it occurs in the aforementioned nitrogen inversion. This process is the opposite of chiral resolution. For 10 points, name this process that destroys stereochemical information, forming an even mix of enantiomers.",
+      "powerMarkPosition": 486,
+      "answer": "racemization",
+      "acceptableAnswers": [
+        "racemization",
+        "epimerization since all of the clues only refer to one chiral center",
+        "accept forming a racemic mixture",
+        "forming an optically inactive mixture",
+        "accept destroying stereochemical information before it is stated",
+        "The racemization"
+      ],
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db46ca8"
+    },
+    {
+      "id": "ab2a7d94-314a-406a-ace0-73ed0da8343f",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "T.S Eliot's character J. Alfred Prufrock compares himself to the subject of this poem by discussing \"yellow smoke that slides along the street.\" This poem's narrator discovers rubies \"by the Indian Ganges' side\" before reflecting that his love will grow \"vaster than empires, and more slow.\" This poem asks to \"roll all our strength and all our sweetness into one ball\" after noticing \"Time's winged chariot hurrying near.\" For 10 points, name this poem which opens with the line \"had we but world enough and time,\" written by Andrew Marvell.",
+      "powerMarkPosition": 275,
+      "answer": "To His Coy Mistress”",
+      "acceptableAnswers": [
+        "To His Coy Mistress”",
+        "The To His Coy Mistress”"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eeadce1032cda62a6773b4"
+    },
+    {
+      "id": "eb127bda-f5d1-41c3-bc01-33cf72e13461",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "In this mountain range, the \"Snow Star\" festival celebrates the Pleiades, which are used by farmers to predict low rainfall when obfuscated. Zonda winds are formed by this mountain range, where in 1947 the plane Star Dust crashed by unknowingly flying into the jet stream. This mountain range supports the Yungas region, namesake of a formerly very dangerous \"Death Road.\" This mountain range's northeast end helps create the highest frequency lightning on earth near Lake Maracaibo. This mountain range creates rainshadows on its west in the Atacama Desert and on its east in Patagonia. For 10 points, Mount Aconcagua is in what mountain range in South America?",
+      "powerMarkPosition": 272,
+      "answer": "Andes",
+      "acceptableAnswers": [
+        "Andes",
+        "Andean Mountain Range",
+        "Anti",
+        "Cordillera de los Andes",
+        "prompt on American Cordillera",
+        "The Andes"
+      ],
+      "source": "qbreader",
+      "sourceId": "68fc54d95b5d7bee38aa3fff"
+    },
+    {
+      "id": "c08d5b70-d8f8-498e-a404-fbe50585c41c",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "This poet muses that \"Society is all but rude/To this delicious solitude\" while describing a place where the mind \"annihilates all that's made / To a green thought and a green shade.\" In another poem by this poet of \"The Garden,\" the narrator remarks \"the grave's a fine and private place / But none, I think, do there embrace\" before exclaiming \"let us roll all our strength and all/our sweetness up into a ball.\" In that poem, a woman is warned about \"time's winged chariot hurrying near.\" For 10 points, name this poet of To His Coy Mistress.",
+      "powerMarkPosition": 345,
+      "answer": "Marvell",
+      "acceptableAnswers": [
+        "Marvell",
+        "The Marvell"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7e30"
+    },
+    {
+      "id": "144fd75a-6cd8-4cc8-968b-809b9c9db700",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "Its eastern limit is roughly considered to be the connecting pass between the Konar and Gilgit rivers, while its central section contains a high concentration of summits, a phenomenon known as Gipfelflur or \"summit plain.\" Other passes through this chain include the Karambar and the Shebar, which separates the regions of Badakshan and Nurestan in one of the countries on whose border it sits. Its highest peak is Mount Tirich Mir, and it divides the valley of the Amu Darya to the north from the Indus River valley to the south. With the Dorah Pass through this range connecting Afghanistan and Pakistan, for 10 points, identify this great mountain system of Central Asia.",
+      "powerMarkPosition": 394,
+      "answer": "Hindu-Kush",
+      "acceptableAnswers": [
+        "Hindu-Kush",
+        "The Hindu-Kush"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9dbc8f282ed3d43195"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "1bc76822-4617-4d31-8e98-4ab0bad54dad",
+      "linkedTossupId": "eec246f1-8aa5-4ff2-9915-32937e66c7b7",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "According to Legend, this great Monarch was sent to Rome as a boy to be confirmed as king by Pope Leo IV.",
+          "answer": "Alfred",
+          "acceptableAnswers": [
+            "Alfred",
+            "The Alfred"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 878 treaty followed Alfred's defeat of Viking forces under Guthrum at Edington and was referenced by the monk Asser in his histories of Alfred's life. Under its terms, Guthrum accepted Alfred as his adoptive father and was baptized as a Christian.",
+          "answer": "Wedmore",
+          "acceptableAnswers": [
+            "Wedmore",
+            "The Wedmore"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this 871 battle, a 21 year-old Alfred led the men of his brother Ethelred into battle against the Danes. His West Saxon forces emerged victorious, though in somewhat of a Pyrrhic victory.",
+          "answer": "Ashdown",
+          "acceptableAnswers": [
+            "Ashdown",
+            "The Ashdown"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about a monarch FTPE:",
+      "source": "qbreader",
+      "sourceId": "6643bbec01cbf053963dd6ee"
+    },
+    {
+      "id": "1a10308f-668a-4165-8475-505a48f30d00",
+      "linkedTossupId": "c5ae4805-5f57-4b04-9f28-fa46602fbce5",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with neurotransmitters.",
+          "answer": "axon",
+          "acceptableAnswers": [
+            "axon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the axon in the nervous system?",
+          "answer": "Neurotransmitters",
+          "acceptableAnswers": [
+            "Neurotransmitters"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to neurotransmitters.",
+          "answer": "dendrite",
+          "acceptableAnswers": [
+            "dendrite"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "49af746b-2100-4a5f-933e-1e4c0cb2303b",
+      "linkedTossupId": "c92b22eb-2008-45ab-9f79-39566e8cfbb7",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this authoritarian Nazi puppet regime in France during World War II. Succeeding the Third Republic, it was headed by Philippe Pétain.",
+          "answer": "Vichy",
+          "acceptableAnswers": [
+            "Vichy",
+            "l’État français",
+            "prompt on “French State”",
+            "The Vichy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man was Minister-President under Josef Terboven after the Nazis removed him from control of his own Fascist state. This Norwegian statesman's surname has become a synonym for \"traitor.\"",
+          "answer": "Quisling",
+          "acceptableAnswers": [
+            "Quisling",
+            "The Quisling"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Ion Antonescu created the National Legionary State after being given control of Romania by a king of this name. The first king of this name was in power when Romania gained independence in 1878 through the Treaty of Berlin.",
+          "answer": "Carol",
+          "acceptableAnswers": [
+            "Carol",
+            "Carol I",
+            "Carol II",
+            "accept Charles",
+            "Charles I",
+            "Charles II",
+            "The Carol"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Fascism was very popular Europe during World War II. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a2d7"
+    },
+    {
+      "id": "e2d6aa33-8bdd-4545-b3d3-6e861f9cb6d6",
+      "linkedTossupId": "258b564b-1bb4-4232-b0fe-b9c773cc14cd",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this title, also held by Japanese military dictators like Tokugawa Ieyasu.",
+          "answer": "shogun",
+          "acceptableAnswers": [
+            "shogun",
+            "shogunate",
+            "The shogun"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This first Shogunate began after Minamoto Yoritomo defeated the Tairas at the Battle of Dannoura in 1185. It was late dominated by the Hojo family.",
+          "answer": "Kamakura",
+          "acceptableAnswers": [
+            "Kamakura",
+            "The Kamakura"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Onin War ended the Ashikaga Shogunate and began this period of Japanese history, also called the Sengoku Period.",
+          "answer": "Warring States",
+          "acceptableAnswers": [
+            "Warring States",
+            "era of the Warring States",
+            "The Warring States"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Figurehead holders of this title included Kujo Yoritsune. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a6f7"
+    },
+    {
+      "id": "79679a47-c804-481f-87a3-2302581cae07",
+      "linkedTossupId": "e9de98dd-6af0-4e51-a279-9dc7b8326c4e",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this satirical Showtime series starring Sacha Baron Cohen.",
+          "answer": "Who Is America?",
+          "acceptableAnswers": [
+            "Who Is America?",
+            "The Who Is America?"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Both Congressman Joe Walsh and this former governor of Alaska were critical of Cohen's methods in getting them to participate in the show, claiming he had posed as a disabled veteran.",
+          "answer": "Palin",
+          "acceptableAnswers": [
+            "Palin",
+            "The Palin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the first episode of Who Is America?, this senator from Vermont, who ran for President in 2016, was Cohen's first interview.",
+          "answer": "Sanders",
+          "acceptableAnswers": [
+            "Sanders",
+            "The Sanders"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "On July 15, 2018, a television series created by the star of Borat and the Dictator premiered. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edc1ba974521c293e49437"
+    },
+    {
+      "id": "46c17f34-0d88-403e-b232-10ebc492314c",
+      "linkedTossupId": "334685d0-5206-4491-aa83-a16b699ba64c",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This religion is known for its regular purification rituals, and many of its priests bless newly built buildings and cars. It was revived as the state religion of Japan during the Meiji Restoration.",
+          "answer": "Shinto",
+          "acceptableAnswers": [
+            "Shinto",
+            "The Shinto"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Shinto worships these spirits, which may include parts of nature, animals, or ancestral spirits.",
+          "answer": "kami",
+          "acceptableAnswers": [
+            "kami",
+            "The kami"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These structures typically consist of a kasagi and a nuki, two horizontal bars, on top of two pillars. They mark the entrance to Shinto shrines.",
+          "answer": "torii",
+          "acceptableAnswers": [
+            "torii",
+            "The torii"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some things about traditional religion in Japan, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b17cf"
+    },
+    {
+      "id": "f3887bf9-70c6-4549-9c3d-86a1779ebd70",
+      "linkedTossupId": "fc6d607d-f62f-415b-bb82-a504dc1b6281",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with larynx and vocal cords.",
+          "answer": "pharynx",
+          "acceptableAnswers": [
+            "pharynx"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the pharynx in the respiratory system?",
+          "answer": "Larynx and vocal cords",
+          "acceptableAnswers": [
+            "Larynx and vocal cords"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to larynx and vocal cords.",
+          "answer": "larynx",
+          "acceptableAnswers": [
+            "larynx"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c46106ac-46ca-411d-baab-b277cd8d5d7e",
+      "linkedTossupId": "03ea4be1-141f-4e7c-ac87-477dccffabb8",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The result of this reaction is to introduce a double bond in place of a carbonyl group by use of phosphines.",
+          "answer": "Wittig",
+          "acceptableAnswers": [
+            "Wittig",
+            "The Wittig"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This very polar molecule with a carbanionic carbon is the result of a phosphonium salt with an alkyl halide that readily loses the HX group.",
+          "answer": "ylide",
+          "acceptableAnswers": [
+            "ylide",
+            "The ylide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This easier and cheaper variant of the Wittig reaction relies on a phosphite ester instead of a phosphine, which yields a much more reactive ylide.",
+          "answer": "Horner",
+          "acceptableAnswers": [
+            "Horner",
+            "The Horner"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "4. Identify the following about an organic chemistry reaction FTPE.",
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e62cc0"
+    },
+    {
+      "id": "6e0dbf79-dc96-4d67-a43b-8829b9856640",
+      "linkedTossupId": "80f912e0-3027-444d-b767-d629ae50343f",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with pharynx divisions.",
+          "answer": "pharynx",
+          "acceptableAnswers": [
+            "pharynx"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the pharynx in the respiratory system?",
+          "answer": "Pharynx divisions",
+          "acceptableAnswers": [
+            "Pharynx divisions"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to pharynx divisions.",
+          "answer": "larynx",
+          "acceptableAnswers": [
+            "larynx"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "737d6108-294f-4e8c-845d-33ba6c0791c2",
+      "linkedTossupId": "8ce109a7-4c36-46ee-8532-84a67df59170",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Confederate leader injured at the Battle of Seven Pines, or , and replaced by Robert E. Lee as commander of the Army of Northern Virginia.",
+          "answer": "J",
+          "acceptableAnswers": [
+            "J"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Johnston was removed from command on July 17, 1864, shortly before this battle that took place just outside of Atlanta",
+          "answer": "Peachtree Creek",
+          "acceptableAnswers": [
+            "Peachtree Creek",
+            "The Peachtree Creek"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "'s left wing included this general who was wounded at the Battle of Williamsburg, who later invaded during the Valley Campaign. After the war, this president of the Southern Historical Society became a leader of the Lost Cause movement.",
+          "answer": "Early",
+          "acceptableAnswers": [
+            "Early",
+            "The Early"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After the Civil War, this general was appointed federal commissioner of railroads by Grover Cleveland. FTPE:",
+      "source": "qbreader",
+      "sourceId": "62df3ddba2602b93e0407faf"
+    },
+    {
+      "id": "5c92762c-3847-41a9-9758-75e62947aca3",
+      "linkedTossupId": "804d27a3-0192-4d45-9e45-e1f64e4b34e6",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this behavior which is controlled by the autonomic nervous system by two centers in the medulla and two centers in the pons.",
+          "answer": "breath",
+          "acceptableAnswers": [
+            "breath",
+            "word forms",
+            "respiration",
+            "ventilation",
+            "prompt on gas exchange",
+            "The breath"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Both the medulla and pons are found in this part of the brain, which connects the midbrain to the spinal cord. Ten of the cranial nerves begin in this structure.",
+          "answer": "brainstem",
+          "acceptableAnswers": [
+            "brainstem",
+            "The brainstem"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The pre-Bötzinger complex is composed of these neurons, which are normally inhibitory in the CNS. In the PNS, these neurons are found in the middle of polysynaptic reflex arcs.",
+          "answer": "interneuron",
+          "acceptableAnswers": [
+            "interneuron",
+            "relay neurons",
+            "prompt on connector neurons",
+            "prompt on local neurons",
+            "The interneuron"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The pre-Bötzinger complex governs this process in the reticular formation. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae3ed"
+    },
+    {
+      "id": "7efb7170-123e-4687-bd08-01b9e717cd14",
+      "linkedTossupId": "33d64d5e-41bf-46f6-ae59-6219b9b32ec7",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this thin, round percussion instrument that makes noise when two of them are clashed together.",
+          "answer": "cymbal",
+          "acceptableAnswers": [
+            "cymbal",
+            "The cymbal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a marching band, the cymbals are a part of this ensemble, the stationary section of percussion instruments. It shares its name with the section of the theater where the orchestra plays.",
+          "answer": "pit",
+          "acceptableAnswers": [
+            "pit",
+            "front ensemble",
+            "The pit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This instrument is also part of the pit. Johannes Brahms made significant use of this instrument in the third movement of his Fourth Symphony.",
+          "answer": "triangle",
+          "acceptableAnswers": [
+            "triangle",
+            "The triangle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The hi-hat variation of this instrument consists of two of them on a metal pole. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a4d585770cd7127f7dacb9"
+    },
+    {
+      "id": "0cc91290-dd06-4755-bd3e-f15ed63ae1bb",
+      "linkedTossupId": "e2fcaea0-c48e-4734-b8da-bbaf7e88505f",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this body part, which is especially large in Paranthropus boisei, lending a nickname to a specimen called OH 5. A high sagittal (SAJ-ih-tul) crest indicates strong muscles used by this body part.",
+          "answer": "jaw",
+          "acceptableAnswers": [
+            "jaw",
+            "head",
+            "face",
+            "The jaw"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The shrinking of jaws in human ancestors was caused in part by the rise of this behavior, which reduced strain on the jaws. This behavior \"made us human,\" according to Richard Wrangham's Catching Fire.",
+          "answer": "cook",
+          "acceptableAnswers": [
+            "cook",
+            "cookery",
+            "prompt on vaguer answers like food preparation",
+            "equivalents",
+            "The cook"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The occurrence of this kind of phenomenon in remains of human teeth is sharply correlated with consumption of sugars and carbohydrates due to the rise of agriculture.",
+          "answer": "cavities",
+          "acceptableAnswers": [
+            "cavities",
+            "dental caries",
+            "tooth decay",
+            "prompt on periodontitis",
+            "The cavities"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This body part titles a book by Paul Ehrlich (AIR-lick) and Sandra Kahn, which argues that breathing issues can be caused by shrinkage in this body part in hominids over evolutionary time. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae860c"
+    },
+    {
+      "id": "bef289ce-e63c-4cfa-9da5-44c7990f2745",
+      "linkedTossupId": "9755f659-461f-465a-a3cc-e0a99efeebbc",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this type of event, which is the last word in the title of a poem that states \"Child, Sister, think how sweet to go out there and live together!\" and repeats \"There, there's only order, beauty: abundant, calm, voluptuous.\"",
+          "answer": "voyage",
+          "acceptableAnswers": [
+            "voyage",
+            "“The Voyage”",
+            "“Invitation to the Voyage”",
+            "prompt on Invitation",
+            "The voyage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Those poems, \"The Voyage,\" and \"Invitation to the Voyage\" are from Les Fleurs du mal by this French poet, who influenced the Symbolists with his translations of Poe.",
+          "answer": "Baudelaire",
+          "acceptableAnswers": [
+            "Baudelaire",
+            "The Baudelaire"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Les Fleurs du mal is book-ended by \"The Voyage\" and by an opening poem addressed to this person, whom Baudelaire calls a \"hypocrite,\" as well as \"my brother\" and \"my double.\"",
+          "answer": "Reader",
+          "acceptableAnswers": [
+            "Reader",
+            "le Lecteur",
+            "The Reader"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An eight-part poem with this title, its author's longest, is dedicated to Maxime du Camp and opens by imagining a boy playing with maps and globes. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32f19679b6464bbdf7375"
+    },
+    {
+      "id": "1305d45d-f81d-437c-8e08-d9ad891315d0",
+      "linkedTossupId": "385383ab-b974-46b0-b3cd-8189d78bcfc7",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this architect who collaborated with her husband on projects like the Sainsbury Wing. She discussed sexism in architecture in her essay \"Room at the Top?\"",
+          "answer": "Scott Brown",
+          "acceptableAnswers": [
+            "Scott Brown",
+            "Brown",
+            "The Scott Brown"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Scott Brown collaborated with her husband, Robert Venturi, on an art museum in this city. A spiral-shaped sculpture made of hundreds of guitars is a focal point of a Frank Gehry-designed museum in this city.",
+          "answer": "Seattle",
+          "acceptableAnswers": [
+            "Seattle",
+            "The Seattle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Scott Brown compared a \"duck\" with a \"decorated shed\" in a book co-authored with Venturi and Steven Izenour titled Learning from [this city], whose Strip includes casinos like Bellagio.",
+          "answer": "Las Vegas",
+          "acceptableAnswers": [
+            "Las Vegas",
+            "Paradise",
+            "The Las Vegas"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "When her husband was awarded the 1991 Pritzker Prize, this architect did not attend the award ceremony in protest. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae5cb"
+    },
+    {
+      "id": "f7809b51-5ce6-4267-9ff7-021c267a873f",
+      "linkedTossupId": "fe204072-ce25-4506-ae48-3854f6efe07f",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this paradigm that includes the Staudinger ligation and thiol-ene reactions. It was pioneered by Karl Barry Sharpless and involves conjugating small molecules into a synthetic target.",
+          "answer": "click",
+          "acceptableAnswers": [
+            "click",
+            "The click"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The canonical example of a click chemistry reaction is the Huisgen (\"HOUSE-khin\") cycloaddition, which occurs between an azide and this functional group. This group consists of a carbon-carbon triple bond.",
+          "answer": "alkyne",
+          "acceptableAnswers": [
+            "alkyne",
+            "The alkyne"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While the phrase \"Huisgen cycloaddition\" usually refers specifically to the azide-alkyne cycloaddition, it more generally refers to a class of cycloadditions named after this type of molecule. Nitrones act as this type of molecule in the alkyne-nitrone cycloaddition.",
+          "answer": "1,3-dipole",
+          "acceptableAnswers": [
+            "1,3-dipole",
+            "1",
+            "3-dipolar molecules",
+            "3-dipolar cycloadditions",
+            "The 1,3-dipole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One goal of bioorthogonal chemistry is to develop catalyst-free versions of reactions in this paradigm. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6326bf0f692d593d1d7a8fdd"
+    },
+    {
+      "id": "6f084ba3-bae4-41ab-9536-96ba8cbe930f",
+      "linkedTossupId": "ab2a7d94-314a-406a-ace0-73ed0da8343f",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this author, who ends his short story \"The Open Window\" with the line \"romance at short notice was her specialty.\"",
+          "answer": "Saki",
+          "acceptableAnswers": [
+            "Saki",
+            "Hector Hugh Munro",
+            "The Saki"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Saki's \"The Interlopers\" follows two characters with this profession. A character with this profession is the protagonist of \"The Most Dangerous Game.\"",
+          "answer": "hunter",
+          "acceptableAnswers": [
+            "hunter",
+            "The hunter"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An introduction to Saki's The Chronicles of Clovis was written by A. A. Milne, who created this fictional bear. This resident of the Hundred Acre Wood is friends with characters such as Eeyore and Tigger, and loves honey.",
+          "answer": "Winnie",
+          "acceptableAnswers": [
+            "Winnie",
+            "The Winnie"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author wrote about the title talking cat, which angers guests at a dinner party by spreading overheard gossip, in his short story \"Tobermory.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7deec1"
+    },
+    {
+      "id": "01c93e80-af26-47a5-9bed-fd5767e45ffe",
+      "linkedTossupId": "eb127bda-f5d1-41c3-bc01-33cf72e13461",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The most iconic rocket launch site is this promontory in Florida, known as Cape Kennedy between 1963 and 1973. Its area code is 3...2...1 (as in a countdown).",
+          "answer": "Canaveral",
+          "acceptableAnswers": [
+            "Canaveral",
+            "The Canaveral"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The main Soviet launch facility, and still the main Russian spaceport, even if it is in southern Kazakhstan, is this one, the world's first and largest spaceport.",
+          "answer": "Baikonur",
+          "acceptableAnswers": [
+            "Baikonur",
+            "The Baikonur"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Europe also sends rockets into space, with the ESA's main launch facility being next to this town in French Guiana. The territory is technically part of Europe, because it's a department of France.",
+          "answer": "Kourou",
+          "acceptableAnswers": [
+            "Kourou",
+            "The Kourou"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Time for a bonus set on rocket science. Specifically, for 10 points each, on where rockets take off from.",
+      "source": "qbreader",
+      "sourceId": "6413cd99fdc648a1ed709789"
+    },
+    {
+      "id": "02a7f675-2634-4e87-ab79-3c78d03e8c72",
+      "linkedTossupId": "c08d5b70-d8f8-498e-a404-fbe50585c41c",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "What Oxford Scholar and author of popular religious works such as Mere Christianity and The Screwtape Letters created Narnia?",
+          "answer": "Lewis",
+          "acceptableAnswers": [
+            "Lewis",
+            "The Lewis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Peter, Susan, Edmund and Lucy travel to Narnia via what object?",
+          "answer": "wardrobe",
+          "acceptableAnswers": [
+            "wardrobe",
+            "The wardrobe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Whom do the children defeat to save Narnia from a century of winter?",
+          "answer": "White Witch",
+          "acceptableAnswers": [
+            "White Witch",
+            "witch",
+            "The White Witch"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about The Chronicles of Narnia.",
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b69f"
+    },
+    {
+      "id": "507d4bdc-0b5a-42c3-bab6-ee375d6397b2",
+      "linkedTossupId": "144fd75a-6cd8-4cc8-968b-809b9c9db700",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this major South American river, the drainage basin of which encompasses much of Venezuela and eastern Colombia.",
+          "answer": "Orinoco",
+          "acceptableAnswers": [
+            "Orinoco",
+            "The Orinoco"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Orinoco and Amazon river basins are home to subspecies of the boto, which is the largest of these aquatic mammals that inhabit fresh or brackish water and have noticeably longer snouts than their oceanic counterparts.",
+          "answer": "river dolphins",
+          "acceptableAnswers": [
+            "river dolphins",
+            "Iniidae",
+            "prompt on dolphin",
+            "The river dolphins"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Orinoco is connected to the Amazon via this distributary and bifurcation that flows into the Rio Negro.",
+          "answer": "Casiquiare",
+          "acceptableAnswers": [
+            "Casiquiare",
+            "The Casiquiare"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Alexander von Humboldt and Sir Walter Raleigh explored the lower course of this river. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636eea8e"
+    }
+  ]
+}

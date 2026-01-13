@@ -1,0 +1,1146 @@
+{
+  "packetId": "packet-137",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Fine Arts",
+    "Science",
+    "Literature",
+    "History",
+    "Social Science",
+    "Philosophy",
+    "Geography",
+    "Human Body"
+  ],
+  "tossups": [
+    {
+      "id": "9e5d3a93-6f52-4891-ad23-f0329dccb437",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "His first opera to be staged was The Ban on Love, though the first one he wrote, The Fairies, was not performed until after his death. While writing Rienzi, he was befriended by Giacomo Meyerbeer, though he later attacked Meyerbeer in his treatise Jewishness in Music. His other operas include Tristan und Isolde and The Meistersingers of Nuremberg. For 10 points, name this German opera composer of Lohengrin and Tannhauser.",
+      "powerMarkPosition": 268,
+      "answer": "Wagner",
+      "acceptableAnswers": [
+        "Wagner",
+        "The Wagner"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a98406a5"
+    },
+    {
+      "id": "554f3b2f-88b5-46c2-a269-7d90ab2befbe",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "This constellation's alpha star is the brightest in the Hyades (\"HIGH\"-uh-deez) cluster. One object in this constellation is the remnant of a supernova observed in 1054 AD. In addition to the Crab Nebula, this constellation also contains the Pleiades (PLEE-uh-deez). Its beta star, Al Nath, is found next to Auriga, while its alpha star is Aldebaran (all-DEB-uh-ron). For 10 points, name this constellation that depicts a bull.",
+      "powerMarkPosition": 172,
+      "answer": "Taurus",
+      "acceptableAnswers": [
+        "Taurus",
+        "The Taurus"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec67cc"
+    },
+    {
+      "id": "e33f03fb-8461-484a-b1ce-71cdeb3b7178",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "In one story by this author, Colonel Barclay dies after confronting a crippled man who always walks around with his mongoose Teddy. In another story by this author, one character receives a well-paying job copying the Encyclopædia Britannica after responding to a newspaper ad searching for red-haired men. One story by this author ends after the narrator discovers the remains of a struggle atop Reichenbach Falls. This author of the \"Red-Headed League\" and \"The Final Problem\" created the villainous Moriarty, who constantly clashes with the companion of Dr. Watson. For 10 points, name this creator of Sherlock Holmes.",
+      "powerMarkPosition": 290,
+      "answer": "Doyle",
+      "acceptableAnswers": [
+        "Doyle",
+        "The Doyle"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0023a69364e383bef6956"
+    },
+    {
+      "id": "f74e364d-78e3-4d79-93dc-a96ce3103f42",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This artist created the dream sequence for Hitchcock's Spellbound and collaborated with Luis Bunuel on the film Un Chien Andalou. This creator of Lobster Telephone also painted the \"disintegration\" of another of his works. That work features yellow cliffs in the upper right and ants swarming on a pocket watch in the bottom left. For 10 points, name this Spanish surrealist who painted three melting clocks in The Persistence of Memory.",
+      "powerMarkPosition": 222,
+      "answer": "Dali",
+      "acceptableAnswers": [
+        "Dali",
+        "The Dali"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d437ad"
+    },
+    {
+      "id": "b79461dc-04a5-4fb2-a438-0c2b5f43e700",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "Robin Patterson co-translated the 2018 Collected Stories of an author in this language, the first complete volume of that author in English. That author used this language to write a hostile dialogue between a needle and a ball of thread, as well as a story about a dying composer who longs to write something better than polkas. A prolific author in this language wrote the novel Doomed Love while imprisoned for adultery. A novel in this language ends with two men agreeing that nothing in the world is worth (+) running for, then running after a cable car. In that novel in this language, a doctor struggles to end a relationship with a woman he learns is his own sister. The narrator of a novel in this language catches pneumonia while developing a cure-all poultice, as told from beyond the grave. For 10 points, name this language used to write The Maias and The Posthumous Memoirs of Bras Cubas, the latter by Machado de Assis.",
+      "powerMarkPosition": 795,
+      "answer": "Portuguese",
+      "acceptableAnswers": [
+        "Portuguese",
+        "The Portuguese"
+      ],
+      "source": "qbreader",
+      "sourceId": "636ca48ee0c789d868e2236d"
+    },
+    {
+      "id": "1f9bfc19-c136-4b69-b95f-df95782f1bd9",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "Meda Ryan wrote a book about \"The Day [this man] Was Shot\" and discussed his spies Moya Davies and Lady Hazel Lavery in another book. This man's \"Squad\" was responsible for killing 14 members of the Cairo Gang, which prompted a retaliatory massacre at a football game in Croke Park. Opponents of this \"Big Fellow\" occupied the Four Courts, and he was ultimately killed while returning from Bandon. This man served as Minister of Home Affairs and Finance for a party whose leaders, Arthur Griffith and Eamon de Valera, were serving jail sentences. The Black and Tans retaliated against him on Bloody Sunday, 1920. For 10 points, name this man who negotiated a treaty with David Lloyd George, prompting his assassination in 1922 by fellow IRA members.",
+      "powerMarkPosition": 428,
+      "answer": "Collins",
+      "acceptableAnswers": [
+        "Collins",
+        "The Collins"
+      ],
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faa984"
+    },
+    {
+      "id": "296e76b1-271f-49cd-8f20-c338ad0931ae",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "Critical of other psychologists, this man claimed:\"It may be that proximity is all you know of love -- I... have not been so deprived.\" This author of \"The Nature of Love'' included a catapult which launched infants in one of his many \"surrogate mothers\" made from cloth and wire. This psychologist isolated infants in \"pits of despair\" in some experiments. This psychologist used \"rape racks\" to insimenate subjects who were unwilling to mate. For 10 points, name this University of Wisconsin psychologist who studied love in Rhesus monkeys.",
+      "powerMarkPosition": 264,
+      "answer": "Harlow",
+      "acceptableAnswers": [
+        "Harlow",
+        "The Harlow"
+      ],
+      "source": "qbreader",
+      "sourceId": "6406d0dee39f8dfd08fc2666"
+    },
+    {
+      "id": "bd5c90cb-e3ba-428a-a7bb-edecb063f300",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "text": "A G major piece in this genre begins with a short trill on B, followed by the notes E-D-B. Brahms's first piece in this genre incorporates a dotted figure from his songs \"Regenlied\" and \"Nachklang,\" and his three compositions in this genre are in G Major, A Major, and D Minor. A lengthy F major Andante con variazioni is the second movement of an A major piece of this type originally dedicated to the mulatto George Bridgetower. Robert Schumann wrote the second and fourth movements of a piece in this genre on the letters \"F-A-E.\" An A major work in this genre, whose final movement is in the style of a tarantella, was written by Beethoven. For 10 points, name this genre of ten Beethoven pieces, including ones nicknamed \"Spring\" and \"Kreutzer,\" featuring a high-pitched string instrument.",
+      "powerMarkPosition": 277,
+      "answer": "violin sonata",
+      "acceptableAnswers": [
+        "violin sonata",
+        "equivalents like sonatas for violin and piano",
+        "prompt on sonatas",
+        "The violin sonata"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba95ee6"
+    },
+    {
+      "id": "0e407760-cf1b-49f8-8806-68d2e804f370",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "text": "A character created by this author rescues an Indian pearl diver from a shark. That character created by this author reveals himself to be Dakkar, a prince of Bundelkhand. In another novel by this author, the protagonist saves Aouda from a funeral pyre. In that novel by this author, the protagonist makes a bet at the Reform Club, which he wins with the help of Passepartout (\"pass-par-two\"). In another novel, this creator of Phileas Fogg described the life of Captain Nemo aboard a submarine called the Nautilus. For 10 points, name this French author of Around the World in Eighty Days and Twenty Thousand Leagues Under the Seas.",
+      "powerMarkPosition": 362,
+      "answer": "Verne",
+      "acceptableAnswers": [
+        "Verne",
+        "Jules Gabriel Verne",
+        "The Verne"
+      ],
+      "source": "qbreader",
+      "sourceId": "66cd4c3ec5459312fdcc5744"
+    },
+    {
+      "id": "ffcd9f9c-1f67-4ae1-a0d1-923900b798f5",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "A massacre of the Occaneechi people took place during this event, which was led by John Ingram after a leader's death. Grievances in this event's Declaration of the People included seizing personal control of the beaver trade and excessive taxation, while failing to protect the perpetrators from a series of Native American attacks. Governor William Berkeley was targeted by this event, whose leader and namesake died of dysentery just a month after burning down Jamestown. For 10 points, name this 1676 \"rebellion\" in colonial Virginia.",
+      "powerMarkPosition": 315,
+      "answer": "Bacon’s",
+      "acceptableAnswers": [
+        "Bacon’s",
+        "The Bacon’s"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531ffa61a9ba79f35ac7"
+    },
+    {
+      "id": "65d985cb-8279-460b-8d7e-9cdfde3c7fa5",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "One thinker from this country presented a scenario in which he is killed by lightning at the same instant another lightning bolt rearranges molecules into an exact replica of him, which he called swampman. Another thinker from this country of Donald Davidson dubbed the work of Wittgenstein and Dewey \"epistemological behaviorism\" in his book Philosophy and the Mirror of Nature. That thinker from this country, Richard Rorty, was the foremost proponent of a \"Neo\" form of this country's most prominent philosophical school, represented by William James. For 10 points, pragmatism developed in what country, mostly around Harvard University?",
+      "powerMarkPosition": 419,
+      "answer": "United States",
+      "acceptableAnswers": [
+        "United States",
+        "US",
+        "USA",
+        "Canada Senior",
+        "The United States"
+      ],
+      "source": "qbreader",
+      "sourceId": "637e8280dfdd9c1fe3b88e5a"
+    },
+    {
+      "id": "6252ca09-1fd9-4be5-beb4-8affae193020",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "A leader of this school compared rolling a cylinder to rolling a cube in order to refute the \"lazy argument\" against his teachings. Plutarch of Chaeronea criticized that leader of this school of thought, Chrysippus, who defended its founder's teaching that the heart was the source of intelligence, not the brain. A \"manual\" for this philosophy is the Enchiridion of Epictetus. This school believed in the central idea of logos, and other members of this school included the Roman Seneca and its founder, Zeno of Citium. For 10 points, name this ancient school of philosophy discussed by Marcus Aurelius in Meditations that believed in detachment from worldly cares.",
+      "powerMarkPosition": 313,
+      "answer": "Stoicism",
+      "acceptableAnswers": [
+        "Stoicism",
+        "The Stoicism"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ffb96"
+    },
+    {
+      "id": "08b6a2ec-e58b-49c5-9d78-2d3282c8266b",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "This figure supported a strike of sanitation workers by giving the \"I've Been to the Mountaintop\" speech. In another speech, this figure wished for his \"four little children\" to be judged \"by the content of their character.\" On the steps of the Lincoln Memorial at the 1963 March on Washington, this man gave a speech that stated, \"I have a dream.\" For 10 points, what civil rights leader has a day in January named for him?",
+      "powerMarkPosition": 244,
+      "answer": "King",
+      "acceptableAnswers": [
+        "King",
+        "MLK",
+        "The King"
+      ],
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ecb1"
+    },
+    {
+      "id": "ab096f18-5568-47d1-94e6-e9863e1ad481",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "Mobayi Mbongo is a mostly defunct hydroelectric project on this river which powered two palaces at Kawele, one of which consists of pagoda towers. This river passes its continent's largest nuclear bunker at a town which is connected to its port of N'dangi via secret tunnel. A people group giving their name to this river dwell mainly west of Mossaka. This river forms near Yakoma as the Uele and Boma rivers merge, following which it is joined by the Kotto. A river flowing into this one passes over the Chutes de Boali. That river, the Mpoko, meets it at a city whose primary languages include Banda-Banda; the largest city on its south banks is Gbadolite (gba-do-LEET). The Transaqua Scheme proposes to divert this river into the Chari (SHA-ree), with which this river defines a basin which once shared its name with a country on its north bank. For 10 points, name this river, the largest right-bank tributary of the Congo which drains most of the Central African Republic.",
+      "powerMarkPosition": 351,
+      "answer": "Ubangi",
+      "acceptableAnswers": [
+        "Ubangi",
+        "The Ubangi"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff5c0"
+    },
+    {
+      "id": "11e0454a-ba19-4928-9205-7e15511c6d73",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for villi and microvilli. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this duodenum-related structure.",
+      "powerMarkPosition": 96,
+      "answer": "Duodenum",
+      "acceptableAnswers": [
+        "duodenum",
+        "Duodenum"
+      ],
+      "explanation": "The duodenum is a key component of the Digestive system, involved in villi and microvilli.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c0ddef14-1edd-45eb-b418-7fa6ea6d615f",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "Note to players: The answer is a complex substance, not a pure compound. It's not larch, but this substance's polysaccharide component is mostly protein-linked type II arabinogalactans and acetylated mannans. Triangle tests suggest that 2-furfurylthiol drives this substance's odor. Kahweol and a related diterpene are unique to this substance, which is the major source of the conjugated hydroxycinnamate chlorogenic acid. Giling basah is an alternative to the \"washed\" method for treating the raw green form of this impure substance, which was once extracted with benzene in the Roselius process. This substance undergoes the \"Swiss Water\" process or extraction with supercritical CO2 to remove a methylxanthine alkaloid. Boiling water cycles through this substance in percolators, whose heat can leave more bitter compounds than the \"drip\" method. For 10 points, what drink's chemical and sensory properties vary across its robusta and arabica varieties?",
+      "powerMarkPosition": 498,
+      "answer": "coffee",
+      "acceptableAnswers": [
+        "coffee",
+        "green coffee beans",
+        "accept arabica",
+        "robusta coffee before mentioned",
+        "accept Coffea",
+        "coffee berries",
+        "prompt on plants",
+        "other generic answers",
+        "do not accept “caffeine”",
+        "The coffee"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eea92bec6a1624964895ea"
+    },
+    {
+      "id": "2db7f2f1-0df9-455f-8f29-51cba5748dce",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "This composer was inspired by an Archbishop's elevation to Cardinal to add the Feierlich fourth movement to his third symphony, which was inspired by the Cologne cathedral, and his first symphony was influenced by a poem of Adolf Böttger. This composer depicted an E.T.A. Hoffmann character in Kreisleriana, and an intermezzo identified with Paganini is included in his piano suite Carnaval, whose movement Chiarina depicts his wife Clara. For 10 points, name this German composer of the \"Rhenish\" Symphony and \"Spring\" Symphony.",
+      "powerMarkPosition": 238,
+      "answer": "Schumann",
+      "acceptableAnswers": [
+        "Schumann",
+        "The Schumann"
+      ],
+      "source": "qbreader",
+      "sourceId": "657fd7d3de6df0163bbe39b2"
+    },
+    {
+      "id": "61d3176c-e5ed-4bc1-ad54-2c441c2c2cff",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "A character created by this author notices a ponytail lying on a pillow resembles a snake and thinks about the curse of Eve while helping her friend Adele with a difficult childbirth. In another story by this author, a woman receives a gift of a can of shrimp from her son shortly after passionately hooking up with her old flame during the title weather event. Louise Mallard fantasizes about all that see can do now that her husband is dead before dying of shock when he returns home alive in another story by her. A character created by this author has affairs with Alcée Arobin and Robert Lebrun before drowning herself in the Gulf of Mexico. For 10 points, name this author of \"The Storm\" and \"The Story of an Hour\" as well as the novella The Awakening.",
+      "powerMarkPosition": 437,
+      "answer": "Chopin",
+      "acceptableAnswers": [
+        "Chopin",
+        "The Chopin"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eea9fb047a67fbbb305c30"
+    },
+    {
+      "id": "f64efe44-4c6f-4bf2-9c4e-008e3c2fece1",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for spinal nerves. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this spinal cord-related structure.",
+      "powerMarkPosition": 77,
+      "answer": "Spinal cord",
+      "acceptableAnswers": [
+        "spinal cord",
+        "Spinal cord"
+      ],
+      "explanation": "The spinal cord is a key component of the Nervous system, involved in spinal nerves.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "18617514-7ae9-42ec-a10c-e8fee6164ec4",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "Yusef Komunyakaa described the president learning \"how a man's skin becomes the final page\" in \"The Day I Saw Barack Obama Reading [this author]'s Collected Poems.\" This author wrote about a girl whose voice was like \"machine guns / across khaki deserts,\" and whose \"sex was the slit throat of an Indian\" in one poem, and provided the title for Ngugi wa Thiong'o's Petals of Blood with a line from his poem \"The Swamp.\" This author of \"The Star- Apple Kingdom\" and The Castaway described a gorilla that \"wrestles with a superman\" in a poem about a man \"poisoned with the blood of both\" who calls himself \"divided to the vein,\" concluding \"How can I turn from [the title place] and live?\" For 10 points, name this author of \"A Far Cry from Africa,\" who wrote about the fishermen Achille and Hector fighting over Helen in his native St. Lucia in Omeros.",
+      "powerMarkPosition": 445,
+      "answer": "Walcott",
+      "acceptableAnswers": [
+        "Walcott",
+        "The Walcott"
+      ],
+      "source": "qbreader",
+      "sourceId": "660a2cfa38190d8ac17b453f"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "843263ce-59b9-42c8-abef-8b2e1fa9f13e",
+      "linkedTossupId": "9e5d3a93-6f52-4891-ad23-f0329dccb437",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this 1874 piano suite inspired by the artwork of Viktor Hartmann.",
+          "answer": "Pictures at an Exhibition",
+          "acceptableAnswers": [
+            "Pictures at an Exhibition",
+            "The Pictures at an Exhibition"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Russian composer of Pictures at an Exhibition and member of the \"Mighty Handful\" depicted a theme of a \"witch's Sabbath\" in his Night on a Bald Mountain.",
+          "answer": "Mussorgsky",
+          "acceptableAnswers": [
+            "Mussorgsky",
+            "The Mussorgsky"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mussorgsky's only complete opera was this work in which a certain noble allegedly kills Feodor's younger brother Dmitri.",
+          "answer": "Boris Godunov",
+          "acceptableAnswers": [
+            "Boris Godunov",
+            "The Boris Godunov"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One movement in this composition depicts a Baba-Yaga running through the forest. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895997a0d8ea074be7bfe"
+    },
+    {
+      "id": "0e122630-b332-4458-9676-6cf4c66df7a7",
+      "linkedTossupId": "554f3b2f-88b5-46c2-a269-7d90ab2befbe",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "The Sun is what type of object, which can be sorted into types like dwarf and giant?",
+          "answer": "star",
+          "acceptableAnswers": [
+            "star",
+            "The star"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The brightest star in a constellation is often denoted with this letter. Sirius and Betelguese are stars that are both denoted with this letter.",
+          "answer": "alpha",
+          "acceptableAnswers": [
+            "alpha",
+            "a",
+            "The alpha"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While the Alpha star of this constellation is Betelgeuse, Rigel, its Beta star, often outshines it. A recognizable three star asterism is called its \"belt.\"",
+          "answer": "Orion",
+          "acceptableAnswers": [
+            "Orion",
+            "Orion’s Belt",
+            "The Orion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The brightest one of these objects in the night sky is Sirius. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b8fa"
+    },
+    {
+      "id": "0fe62ab1-7d38-4ddb-8847-3d45bff210b0",
+      "linkedTossupId": "e33f03fb-8461-484a-b1ce-71cdeb3b7178",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this title character of a Laurence Sterne novel. This character has his nose squished by Dr. Slop and is accidentally circumcised by a falling window sash.",
+          "answer": "Shandy",
+          "acceptableAnswers": [
+            "Shandy",
+            "Tristram",
+            "accept The Life and Opinions of Tristram Shandy",
+            "Gentleman",
+            "The Shandy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Tristram Shandy, Parson Yorick's death is marked with a black page and the words \"Alas poor Yorick,\"quoting a line from this Shakespeare play about a prince of Denmark.",
+          "answer": "Hamlet",
+          "acceptableAnswers": [
+            "Hamlet",
+            "The Tragedy of Hamlet",
+            "Prince of Denmark",
+            "The Hamlet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Laurence Sterne described Parson Yorick's travels in the novel A Sentimental Journey through France and Italy, in which he satirized this other author as Smelfungus. This author wrote the picaresque novel, The Adventures of Roderick Random.",
+          "answer": "Smollett",
+          "acceptableAnswers": [
+            "Smollett",
+            "The Smollett"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "At his conception, this character's mother told his father to wind up the clock, causing him to have an imbalance of humors. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eeafe83c775a435720588c"
+    },
+    {
+      "id": "e65687e8-25d5-4b6c-bd31-0069ebe5750a",
+      "linkedTossupId": "f74e364d-78e3-4d79-93dc-a96ce3103f42",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this pioneer of the Prairie School of architecture, who designed Edgar Kaufmann's Pennsylvania vacation home, known as Fallingwater.",
+          "answer": "Wright",
+          "acceptableAnswers": [
+            "Wright",
+            "The Wright"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Frank Lloyd Wright designed the Guggenheim Museum in this American city, which is also home to the Empire State Building and a complex of buildings called Rockefeller Center.",
+          "answer": "New York",
+          "acceptableAnswers": [
+            "New York",
+            "NYC",
+            "The New York"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Seagram Building in New York was co-designed by Philip Johnson and this man, who is also known for his maxims \"God is in the details\" and \"Less is more.\"",
+          "answer": "Mies",
+          "acceptableAnswers": [
+            "Mies",
+            "\"van der Rohe\"",
+            "The Mies"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This architect built several studios named Taliesin. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c41a"
+    },
+    {
+      "id": "a83d0d87-a59d-432c-8ebc-e44d293d0b14",
+      "linkedTossupId": "b79461dc-04a5-4fb2-a438-0c2b5f43e700",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The Das family is troubled by memories of a cow that fell down the garden well in this author's novel Clear Light of Day. Her novel Fasting, Feasting was a Booker Prize finalist.",
+          "answer": "A",
+          "acceptableAnswers": [
+            "A",
+            "Desai"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The title character's inattention to a calf sets off a chain of events leading to his father drowning in A House for Mr. Biswas(\"BISH-wush\"), by this Trinidadian author.",
+          "answer": "Naipaul",
+          "acceptableAnswers": [
+            "Naipaul",
+            "Vidia Naipaul",
+            "The Naipaul"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hori Mahato's ambition to own a cow is a driving force in this author's novel Godaan, one of the seminal works of modern Hindi literature.",
+          "answer": "Premchand",
+          "acceptableAnswers": [
+            "Premchand",
+            "Dhanpat Rai Srivastava",
+            "Nawab Rai",
+            "The Premchand"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name the following authors who made cattle pivotal to their plots, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62ede294c53e50a051363599"
+    },
+    {
+      "id": "7980a983-47a9-4b04-a29c-8853e79ae64b",
+      "linkedTossupId": "1f9bfc19-c136-4b69-b95f-df95782f1bd9",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This leader gained prominence opposing \"Chinese\" Gordon's attempts to eliminate the slave trade in Sudan and re-legalized slavery after gaining power. His forces eventually killed Gordon during the Siege of Khartoum.",
+          "answer": "Mahdi",
+          "acceptableAnswers": [
+            "Mahdi",
+            "Muhammad Ahmad bin Abd Allah",
+            "accept Mahdi rebellion",
+            "Mahdist war / uprising",
+            "reject “Muhammad”",
+            "The Mahdi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man made a fortune from slave raids into the Congo, where he allied with the kingdom of Msiri. He was later made governor of Zanzibar and got his nickname from the sounds of his troops' guns.",
+          "answer": "Tippu Tip",
+          "acceptableAnswers": [
+            "Tippu Tip",
+            "Tippu Tib",
+            "Hamad bin Muhammad bin Juma bin Rajab el Murjebi",
+            "The Tippu Tip"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Islamic scholar, slave trader, and general founded the Wassoulou empire in 1874 after the collapse of the Touceleur state in present-day Burkina Faso. His grandson was the first post-independence president of Guinea.",
+          "answer": "Samori",
+          "acceptableAnswers": [
+            "Samori",
+            "Touré",
+            "The Samori"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these 19th century African leaders who gained prominence via the slave trade:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423ed6"
+    },
+    {
+      "id": "cd43a8bb-0a77-4ea0-a7e9-4d82453ced2c",
+      "linkedTossupId": "296e76b1-271f-49cd-8f20-c338ad0931ae",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these economic entities, in which there is only one supplier of a good. Hotelling's lemma describes when they can be beneficial to a buyer.",
+          "answer": "monopolies",
+          "acceptableAnswers": [
+            "monopolies",
+            "monopoly",
+            "The monopolies"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This inefficiency in economics can be caused by taxes or monopolies. It occurs when consumers' marginal benefits and costs are not equivalent.",
+          "answer": "deadweight loss",
+          "acceptableAnswers": [
+            "deadweight loss",
+            "The deadweight loss"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Deadweight loss can keep a system from achieving this eponymous state, in which any possible change that benefits one constituent will be harmful to another.",
+          "answer": "Pareto optimality",
+          "acceptableAnswers": [
+            "Pareto optimality",
+            "partial answer",
+            "The Pareto optimality"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Standard Oil was a famous example of one of these entities. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be766d"
+    },
+    {
+      "id": "8c92cd41-fc2e-4b8c-a4a1-a46d338dcce9",
+      "linkedTossupId": "bd5c90cb-e3ba-428a-a7bb-edecb063f300",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this oldest still-operating opera house in the world, built in 1737 and designed by Giovanni Antonio Medrano. It was the first to use the now-common U-shaped design for opera theaters.",
+          "answer": "San Carlo",
+          "acceptableAnswers": [
+            "San Carlo",
+            "The San Carlo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Most of the first premieres at Naples's Teatro di San Carlo were operas in this style, which dominated 18th century Neapolitan opera. This comic style is exemplified by Giovanni Pergolesi's La serva padrona.",
+          "answer": "buffa",
+          "acceptableAnswers": [
+            "buffa",
+            "The buffa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the first Neapolitan opera buffa composers was Alessandro, a man with this surname. Alessandro's son of this surname, also a Neapolitan composer, included a \"cat fugue\" among his 555 sonatas.",
+          "answer": "Scarlatti",
+          "acceptableAnswers": [
+            "Scarlatti",
+            "Alessandro Scarlatti",
+            "Domenico Scarlatti",
+            "The Scarlatti"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Stendahl wrote of this opera house \"those who wish to be stoned need merely try to find a defect\" when it reopened in 1817, a year after a fire had destroyed it. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68aa6f81eb7f936a9a15e58d"
+    },
+    {
+      "id": "cad99de2-f13c-4c60-88f3-ee5df1f95fe6",
+      "linkedTossupId": "0e407760-cf1b-49f8-8806-68d2e804f370",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this novel that sees Julian West fall asleep in Boston in 1887 only to wake up in the year 2000, a work of Edward Bellamy.",
+          "answer": "Looking Backward",
+          "acceptableAnswers": [
+            "Looking Backward",
+            "The Looking Backward"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bellamy's Looking Backward shares its plot device of falling asleep for long periods of time with this earlier author's \"Rip Van Winkle,\" which appeared in The Sketchbook of Geoffrey Crayon alongside \"The Legend of Sleepy Hollow.\"",
+          "answer": "Irving",
+          "acceptableAnswers": [
+            "Irving",
+            "The Irving"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This faithful dog in \"Rip van Winkle,\" with whom Rip had wandered the Catskills before falling asleep, notably does not recognize his owner after he wakes up.",
+          "answer": "Wolf",
+          "acceptableAnswers": [
+            "Wolf",
+            "The Wolf"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this novel, Doctor Leete gives the protagonist a tour around a socialist utopian society. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d975"
+    },
+    {
+      "id": "ec2d9474-58f9-4225-8cb1-8d80f0b8518b",
+      "linkedTossupId": "ffcd9f9c-1f67-4ae1-a0d1-923900b798f5",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This president ordered the bombing of Libya, oversaw the Air Traffic Controller's strike, and signed the INF Treaty with Gorbachev. First elected in 1980, he advocated supply-side economics.",
+          "answer": "Reagan",
+          "acceptableAnswers": [
+            "Reagan",
+            "The Reagan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Reagan's reputation temporarily dipped following the discovery of this scandal in which arms sales were made to one nation in order to fund rebels in Nicaragua.",
+          "answer": "Iran-Contra",
+          "acceptableAnswers": [
+            "Iran-Contra",
+            "The Iran-Contra"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the generals responsible for the Iran-Contra affair was this man, who later served as the head of DARPA and had been convicted for multiple felonies during the Iran-Contra affair.",
+          "answer": "Poindexter",
+          "acceptableAnswers": [
+            "Poindexter",
+            "The Poindexter"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about a U.S. president, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b18fd"
+    },
+    {
+      "id": "8de663bb-74ca-42e8-8698-6a5ccc588354",
+      "linkedTossupId": "65d985cb-8279-460b-8d7e-9cdfde3c7fa5",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this \"philosopher of pessimism\" who also wrote \"On the Basis of Morality\", and \"On the Freedom of the Will\".",
+          "answer": "Schopenhauer",
+          "acceptableAnswers": [
+            "Schopenhauer",
+            "The Schopenhauer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This magnum opus of Schopenhauer is divided into three books, and argued that human knowledge is limited. He extends Kant's concept of the \"thing in itself\" beyond humans to explain the entire universe.",
+          "answer": "World as Will and Representation",
+          "acceptableAnswers": [
+            "World as Will and Representation",
+            "The World as Will and Representation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 1851 work is a collection of six essays and 31 shorter writings in two volumes. Among the subjects addressed are his Theory of Colors and the superiority of the northern white races.",
+          "answer": "Parerga and Paralipomena",
+          "acceptableAnswers": [
+            "Parerga and Paralipomena",
+            "“und” instead of “and”",
+            "The Parerga and Paralipomena"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "His early work includes The Fourfold Root of the Principle of Sufficient Reason, and he was one of the earliest European philosophers influenced by the Upanishads. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d440b2"
+    },
+    {
+      "id": "1e267884-72a1-44a2-9a8c-aa9cb3650e30",
+      "linkedTossupId": "6252ca09-1fd9-4be5-beb4-8affae193020",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Perhaps the most visible of the Five Ks of Sikhism is Kesh, which forbids the modification of this part of the body, which is usually tied in a Rishi knot.",
+          "answer": "hair",
+          "acceptableAnswers": [
+            "hair",
+            "The hair"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This curved sword is another noticeable item worn by Sikhs, symbolising defence of the self and others. It is acquired by a Sikh after it is used during their baptism to stir a mixture of sugar and water.",
+          "answer": "kirpan",
+          "acceptableAnswers": [
+            "kirpan",
+            "The kirpan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The other Ks worn by Sikhs are kangha, a comb which must be carried to keep the hair tidy, kachera, a cotton undergarment, and kara. Kara is one of these items made of iron, which symbolises how God is never ending.",
+          "answer": "bracelet",
+          "acceptableAnswers": [
+            "bracelet",
+            "equivalents",
+            "The bracelet"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Dastars, rumals, patkas and turbans are among the items which can be worn to demonstrate religious devotion to this feature. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6413cd99fdc648a1ed7095ad"
+    },
+    {
+      "id": "599a038b-5e53-4939-931f-a40cd6992a51",
+      "linkedTossupId": "08b6a2ec-e58b-49c5-9d78-2d3282c8266b",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Norman who was crowned on Christmas 1066 after winning the Battle of Hastings over Harold Godwinson.",
+          "answer": "William I",
+          "acceptableAnswers": [
+            "William I",
+            "The William I"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "William I built this fortress which saw later use as a prison that held Anne Boleyn.",
+          "answer": "Tower of London",
+          "acceptableAnswers": [
+            "Tower of London",
+            "The Tower of London"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This loser at Bosworth Field allegedly seized the throne by imprisoning Edward V and his younger brother Richard in the Tower.",
+          "answer": "Richard III",
+          "acceptableAnswers": [
+            "Richard III",
+            "The Richard III"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This ruler's most significant victory was preceded by a landing at Pevensey. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e6a0924256318ac8b2"
+    },
+    {
+      "id": "e8be663a-c029-4583-81cc-8b203b7d231c",
+      "linkedTossupId": "ab096f18-5568-47d1-94e6-e9863e1ad481",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Give this English phrase, a correction to which is the first correction listed by the #CorrectUA (\"hashtag Correct U-A\") movement.",
+          "answer": "The Ukraine",
+          "acceptableAnswers": [
+            "The Ukraine",
+            "descriptions like “Ukraine with The before it”",
+            "prompt on The by asking “In front of what word?”",
+            "Ukraine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Karelian people have tried to correct the repetitive addition of the Russian word \"Ozero\" (\"OH-zih-ruh\") to these geographic features, like Ladoga near Saint Petersburg.",
+          "answer": "lake",
+          "acceptableAnswers": [
+            "lake",
+            "Lake Ladoga",
+            "The lake"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Members of this ethnic group have criticized the translation of Yamantau in the Urals as being \"Mount Evil Mountain\" in Russian. Ufa (\"UH-fuh\") is the capital of a republic named for these descendants of the Kipchaks who appear in Leo Tolstoy's story \"How Much Land Does a Man Need?\"",
+          "answer": "Bashkir",
+          "acceptableAnswers": [
+            "Bashkir",
+            "Başqorttar",
+            "accept Bashkortostan",
+            "accept Bashkiria",
+            "The Bashkir"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This phrase originates from the continued usage of the term \"na\" to refer to a country whose name translates to the \"borderlands\" as a territory instead of \"v\" (\"vuh\") to designate it as a nation-state. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "644932c99f0045ff841d688b"
+    },
+    {
+      "id": "d3c1c824-c6a0-472e-9799-93a1f20ecdbf",
+      "linkedTossupId": "11e0454a-ba19-4928-9205-7e15511c6d73",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with thymus gland.",
+          "answer": "lymph",
+          "acceptableAnswers": [
+            "lymph"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the lymph in the immune system?",
+          "answer": "Thymus gland",
+          "acceptableAnswers": [
+            "Thymus gland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to thymus gland.",
+          "answer": "lymph node",
+          "acceptableAnswers": [
+            "lymph node"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "554c6026-3644-47af-a1f5-2d4dff66a39a",
+      "linkedTossupId": "c0ddef14-1edd-45eb-b418-7fa6ea6d615f",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this megabiome that spread across northern Eurasia and North America during the Pleistocene era. This no-longer-extant megabiome featured high-productivity grasses and was home to bison and rhinoceroses alongside its namesake animal.",
+          "answer": "mammoth steppe",
+          "acceptableAnswers": [
+            "mammoth steppe",
+            "mammoth",
+            "steppes alone",
+            "The mammoth steppe"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Much evidence for the flora of the mammoth steppes can be found in the fossilized remains of these things, which are called coprolites.",
+          "answer": "feces",
+          "acceptableAnswers": [
+            "feces",
+            "pieces of dung",
+            "poop",
+            "accept more vulgar synonyms",
+            "The feces"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Coprolites and animal skeleton remains from the mammoth steppes are well-preserved because they lay in this type of frozen soil. The thaw of this type of soil due to global warming would release enormous amounts of greenhouse gases.",
+          "answer": "permafrost",
+          "acceptableAnswers": [
+            "permafrost",
+            "The permafrost"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Pleistocene Park initiative seeks to revive this biome in the modern day, starting with a nature reserve in eastern Russia. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed60f81539231f571ee1df"
+    },
+    {
+      "id": "36831be6-9c02-4945-a32f-980799366c2c",
+      "linkedTossupId": "2db7f2f1-0df9-455f-8f29-51cba5748dce",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this poet of the \"Ode to Joy\" which Beethoven included in his ninth symphony. This author wrote a play about Karl von Moor, who leads a group of bandits after being expelled by his father, titled The Robbers.",
+          "answer": "Schiller",
+          "acceptableAnswers": [
+            "Schiller",
+            "The Schiller"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Schiller, was part of the Sturm und Drang movement which preceded this German literary movement to which Holderlin and Heine belonged. Its English equivalent included nature-loving poets like Wordsworth and Shelley.",
+          "answer": "Romanticism",
+          "acceptableAnswers": [
+            "Romanticism",
+            "Jena Romanticism",
+            "The Romanticism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"I cannot determine the meaning / Of the sorrow that fills my breast\" opens this Romantic author's poem about a siren on the Rhine, \"Die Lorelei.\"",
+          "answer": "Heine",
+          "acceptableAnswers": [
+            "Heine",
+            "The Heine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man split poetry into \"naive\" narrative-focused and \"sentimental\" self-reflective categories; his poem about a \"Daughter of Elysium\" cleaves more to the sentimental. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52391"
+    },
+    {
+      "id": "28fe4d24-8899-4d4c-9a7e-03facb38d5b5",
+      "linkedTossupId": "61d3176c-e5ed-4bc1-ad54-2c441c2c2cff",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this Middle English poem by William Langland in which the narrator searches for Do-Well, Do-Better, and Do-Best, and is aided by the humble title character in a search for Truth.",
+          "answer": "Piers Plowman",
+          "acceptableAnswers": [
+            "Piers Plowman",
+            "The Piers Plowman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Various elements of Piers Plowman were regularly attributed to this author of The House of Fame and The Parliament of Fowls, whose magnum opus is undoubtedly The Canterbury Tales.",
+          "answer": "Chaucer",
+          "acceptableAnswers": [
+            "Chaucer",
+            "The Chaucer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another Middle English poem, Gawain and the Green Knight, often uses this metrical device, in which a very short line of purely alliterative verse leads into a four-line passage of rhyming verse, usually forming an ABABA rhyme scheme.",
+          "answer": "bob and wheel",
+          "acceptableAnswers": [
+            "bob and wheel",
+            "The bob and wheel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "W.W. Skeat published an authoritative edition of this poem in three parallel texts labeled A, B, and C, and it is divided into sections called \"passus\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34bbd"
+    },
+    {
+      "id": "6399f62c-aaad-4b60-a597-570b1259e20e",
+      "linkedTossupId": "f64efe44-4c6f-4bf2-9c4e-008e3c2fece1",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with appendicular skeleton.",
+          "answer": "skull",
+          "acceptableAnswers": [
+            "skull"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the skull in the musculoskeletal system?",
+          "answer": "Appendicular skeleton",
+          "acceptableAnswers": [
+            "Appendicular skeleton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to appendicular skeleton.",
+          "answer": "vertebra",
+          "acceptableAnswers": [
+            "vertebra"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c2f8e8a8-9816-474b-9795-fefd25988ea6",
+      "linkedTossupId": "18617514-7ae9-42ec-a10c-e8fee6164ec4",
+      "category": "Literature",
+      "subcategory": "Classical Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Tufts University uses the name of this Greek hero for its searchable online classics library. Benvenuto Cellini sculpted this man holding a severed head aloft.",
+          "answer": "Perseus",
+          "acceptableAnswers": [
+            "Perseus",
+            "Perseus Digital Library",
+            "The Perseus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "ORBIS, Stanford's geospatial network model of the Roman empire, can calculate how many of these silver Roman coins it cost to travel between any two cities. They were worth more than sesterces and inspired a modern Islamic world currency.",
+          "answer": "denarii",
+          "acceptableAnswers": [
+            "denarii",
+            "denarius",
+            "The denarii"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This huge reference set of classics texts, first published in 1911 at Harvard by its namesake Jewish donor, was digitized in 2014. On paper, it exists as 500+ tiny-ass volumes with green covers for Greek texts and red for Latin.",
+          "answer": "Loeb Classical Library",
+          "acceptableAnswers": [
+            "Loeb Classical Library",
+            "The Loeb Classical Library"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the use of digital tools in the study of Greco-Roman classics, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62df40b44c1b765cb43c3a7a"
+    }
+  ]
+}

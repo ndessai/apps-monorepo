@@ -1,0 +1,1188 @@
+{
+  "packetId": "packet-061",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Geography",
+    "History",
+    "Social Science",
+    "Fine Arts",
+    "Science",
+    "Literature",
+    "Human Body"
+  ],
+  "tossups": [
+    {
+      "id": "3e89cbed-e27d-4f75-bb48-b5a5e6fb81f6",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "This landmass contains the type locality for the titanium minerals Zirconolite, Cafetite and Kassite, which has been developed into an important titanium-rare earth mine within its Afrikanda District. Mining of copper-nickel deposits discovered on this landmass's Montshatuntur Hill have caused displacement of the last Akkala-speaking peoples, whose last fluent member lives in Yona, and acid rain from its processing has devastated the forests surrounding Lake Imandra. The center of this landmass is dominated by the massive laccoliths of the phosphorus and nephelinite-rich Khibiny Massif, the world's largest apatite deposit. In addition to mining, this landmass is famous for an endeavor to determine whether a metamorphic granite or basalt was responsible for a seven-kilometer discontinuity, which unexpectedly discovered water and hydrogen. The heights of the Lovozero Massif stairstep from the center of this landmass to the southern Kandalaksha Gulf in its south, while the giant statue Alyosha stands over its largest city in its north, where the commemorative Church of the Savior on the Waters is found adjacent to the remains of the submarine Kursk. FTP, name this Arctic peninsula, known for a superdeep borehole, which contains most of Russia's Suomi population, home to the city of Murmansk and located between the White and Barents Seas.",
+      "powerMarkPosition": 577,
+      "answer": "Kola",
+      "acceptableAnswers": [
+        "Kola",
+        "The Kola"
+      ],
+      "source": "qbreader",
+      "sourceId": "67e9a3e560d5e25024712006"
+    },
+    {
+      "id": "06a29b45-266e-43d5-8b44-d29e242ae433",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "One man with this surname negotiated with Éamon de Valera to end the British use of Treaty Ports in the Anglo-Irish Trade Agreement. A monocle-wearing politician with this surname ran Lord Salisbury's campaign during the \"khaki election\" of 1900. Another man with this surname was awarded the Nobel Peace Prize for negotiating the Locarno Pact. That man's half-brother declared that \"I believe it is peace for our time\" after signing the Munich Agreement. For 10 points, name this surname shared by British politicians Joseph, Austen and the Prime Minister infamous for his policy of appeasement, Neville.",
+      "powerMarkPosition": 246,
+      "answer": "Chamberlain",
+      "acceptableAnswers": [
+        "Chamberlain",
+        "Neville Chamberlain",
+        "Austen Chamberlain",
+        "Joseph Chamberlain",
+        "The Chamberlain"
+      ],
+      "source": "qbreader",
+      "sourceId": "6413cd99fdc648a1ed709611"
+    },
+    {
+      "id": "e8cdb17c-dffa-4700-b447-41f006bc9667",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "The winner of this battle wrote in his diary \"the rain falls in torrents\" after ordering a \"no prisoners\" policy. Its site, a plain with swampy marshes meant to slow down the winning side's large force, was chosen by the losing commander, an archbishop named Pal Tomori. After this battle, Archduke Ferdinand I and another man fought over who should succeed the teenage king Louis II, who had drowned in a marsh while trying to escape. The winning side went on to loot Buda, while the losing side did not wait for the forces of John Zapolya to arrive. In 1687, a second battle was fought at the same site, with the winning side from this first battle now routed at the hands of Hapsburg forces under the Duke of Lorraine. For 10 points, name this 1526 battle, a decisive victory Suleiman the Magnificent's Ottoman forces that effectively ended the existence of medieval Hungary.",
+      "powerMarkPosition": 435,
+      "answer": "Mohacs",
+      "acceptableAnswers": [
+        "Mohacs",
+        "The Mohacs"
+      ],
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c6119349aac"
+    },
+    {
+      "id": "5840a7d7-176d-4477-9b64-b18ec42862af",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "A largely correct theory about the mechanism of these phenomena was devised by Julius Bernstein [YU-lee-oos BAIRN-shtyne], who invented the differential rheotome to observe them. The fact that \"ramping\" typically does not lead to the generation of these phenomena is known as \"accommodation.\" Using devices that measure these phenomena, researchers led by Jörg-Peter Ewert conducted pioneering studies in feature detection. A jump transition known as a \"canard\" is observed in the amplitude of these phenomena, corresponding to the empirically derived \"all or none\" principle. FitzHugh and Nagumo name a simplified version of a model devised by Alan Hodgkin and Andrew Huxley based on experiments observing these phenomena in a \"giant\" cellular feature found in squid. A \"spike train\" is a temporal sequence of, for 10 points, what electrical phenomena that register on cell membranes as an impulse propagates after a nerve \"fires\"?",
+      "powerMarkPosition": 423,
+      "answer": "action potential",
+      "acceptableAnswers": [
+        "action potential",
+        "nerve impulses before “impulse”",
+        "prompt on “potentials”",
+        "The action potential"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382c08d5b3dc7dc712c78c7"
+    },
+    {
+      "id": "7b48cef8-2990-4a32-9b11-65159c23e395",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "An area known as the \"Northern\" one of these things is the origin of many Central American migrants fleeing to the US. Control over a region bordering the Red Sea with this word in its name is disputed by two countries, neither of which claims Bir Tawil. This word is used to describe a depression named Afar that contains Lake Assal. Parts of Myanmar and Laos are included in a large opium-producing area called the \"Golden\" one of these things. A region in North Carolina home to three major universities is known as the \"Research\" one of these shapes. For 10 points, planes and ships have mysteriously disappeared in an area with what kind of shape named for Bermuda?",
+      "powerMarkPosition": 322,
+      "answer": "triangle",
+      "acceptableAnswers": [
+        "triangle",
+        "Northern Triangle",
+        "Halaib Triangle",
+        "Afar Triangle",
+        "Golden Triangle",
+        "Research Triangle Park",
+        "Bermuda Triangle",
+        "prompt on Halaib",
+        "The triangle"
+      ],
+      "source": "qbreader",
+      "sourceId": "6727fb450a73c65be67f77c0"
+    },
+    {
+      "id": "a1cb569e-80a9-4fcb-8601-b78127a717f9",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "text": "New Morse Code premiered a piece for cello and flower pots by a composer with this surname inspired by Boris Kerner's traffic theory and based on a line taken from T. S. Eliot's \"Four Quartets.\" A man with this surname who admired Elgar once called A German Requiem \"ponderously dull\" and \"purposely vulgarized music criticism\" under the nom de plume \"Corno di Bassetto.\" An a cappella piece by a composer with this surname uses katajjaq in the Courante and repeats the chant \"the detail of the pattern is movement\" in the Allemande. An author with this surname interpreted the Ring Cycle as a Marxist allegory in The Perfect Wagnerite. A musician with this surname led his \"Gramercy Five\" and recorded a hit version of Cole Porter's \"Begin the Beguine\" (\"beg-EEN\"). A young member of the octet Roomful of Teeth with this surname won the 2013 Pulitzer Prize for Music. For 10 points, big band clarinetist Artie shared what surname with the composer of Partita for 8 Voices?",
+      "powerMarkPosition": 522,
+      "answer": "Shaw",
+      "acceptableAnswers": [
+        "Shaw",
+        "Caroline Adelaide Shaw",
+        "George Bernard Shaw",
+        "Artie Shaw",
+        "Arthur Arshawsky",
+        "The Shaw"
+      ],
+      "source": "qbreader",
+      "sourceId": "66b83d73e381fe913c42f744"
+    },
+    {
+      "id": "2c43eb26-5a40-4c8c-a353-45b1e8361a9a",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "The power of a type of noise named for red or this process is proportional to one over frequency squared. Einstein's Annus Mirabilis papers were on the photoelectric effect, special relativity, the mass-energy equivalence, and this phenomenon. Jean Perrin determined Avogadro's number by studying particles undergoing this process, which is also called pedesis [pih-DEE-sis]. It was first observed by its namesake Scottish botanist while viewing pollen. For 10 points, name this random motion of particles suspended in a fluid that is caused by collisions with the surrounding medium.",
+      "powerMarkPosition": 243,
+      "answer": "Brownian",
+      "acceptableAnswers": [
+        "Brownian",
+        "pedesis until mentioned",
+        "random walk",
+        "prompt on “diffusion”",
+        "The Brownian"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52048"
+    },
+    {
+      "id": "39e5f7ac-65fd-45a8-a756-8f3dee7d91af",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "This condition is met in an iterative process called tatonnement, or groping, according to a certain model of an auction. In The Strategy of Conflict, Thomas Schelling proposed focal points as these types of conditions in coordination games. In exogenous growth models, an economy meets this condition when the variables describing it reach a balanced growth. The general type of this condition is the subject of a theory proposed by Leon Walras. According to another theory, this condition is met when a mixed strategy minimizes the maximum loss. In game theory, this condition is met if no party can unilaterally make themselves better off. For 10 points, name this condition, that occurs in economics when the market supply equals the market demand.",
+      "powerMarkPosition": 438,
+      "answer": "equilibrium",
+      "acceptableAnswers": [
+        "equilibrium",
+        "The equilibrium"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aedf2"
+    },
+    {
+      "id": "b3e45f1d-b982-4eba-bb89-41a0612872a3",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "After seeing her friend forced to wear a label reading \"Slattern\", this character angrily rips it off and throws it into a fire. This character first approaches that companion after she sees her reading Rasselas and hears her cough. This character is herself introduced reading a book about British birds, behind a curtain at her home in Gateshead. This character refuses to accompany a long-lost relative on missionary work to India, and rejects the marriage proposal of that relative, St. John [\"sin-jin\"] Rivers. This tutor of Adèle Varens earlier had her bridal veil torn by Bertha Mason, the \"madwoman in the attic\" who burns down Thornfield Hall. For 10 points, name this Charlotte Brontë heroine who marries Mr Rochester.",
+      "powerMarkPosition": 486,
+      "answer": "Jane",
+      "acceptableAnswers": [
+        "Jane",
+        "either underlined part",
+        "The Jane"
+      ],
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee90e"
+    },
+    {
+      "id": "8e61b93b-b417-4666-aad8-3e65dad473b0",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "A structural approach to these entities was developed by Uriel Weinreich, who suggested that they should be analyzed with respect to an overall system. The koine type of them arises naturally between two populations that interact. A questionnaire given at S. Klein's, Macy's and Saks Fifth Avenue was used to illustrate how these entities indicate prestige. Another study by William Labov concludes that the \"r\" hypercorrection phenomenon is an example of an urban one. Most definitions of these entities make use of a notion of mutual intelligibility. One aspect of sociolinguistics concerns how they confer social status or indicate ethnicity. For 10 points, name these variations within a language, examples of which include ebonics and Southern English.",
+      "powerMarkPosition": 407,
+      "answer": "dialect",
+      "acceptableAnswers": [
+        "dialect",
+        "“languages”",
+        "The dialect"
+      ],
+      "source": "qbreader",
+      "sourceId": "63059e1643cf02018762363c"
+    },
+    {
+      "id": "26f8a575-aa14-4067-ac4f-6c3cbfab90fc",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for sliding filament theory. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this contraction-related structure.",
+      "powerMarkPosition": 82,
+      "answer": "Contraction",
+      "acceptableAnswers": [
+        "contraction",
+        "Contraction"
+      ],
+      "explanation": "The contraction is a key component of the Musculoskeletal system, involved in sliding filament theory.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "70364ed6-3750-46f6-83ac-3a2ae0cb1a10",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "In this novel, a rotting piece of cheese inside a safe leads one character to devise a method for getting revenge on a bank, and that character makes a bet with Richard Frost that an unhappy group of men will not turn their heads when a parade approaches. Another character seeks the world record for flagpole-skating, and Henri uses nutshells in his paintings while he is not busy building his boat. Gay goes to find parts to fix a Model T, only to be thrown in jail, and his friends adopt a pointer named Darling. Dora is forced to shut her harem down for two weeks during the Great Sardine Catch, and in another episode, the Western Biological lab is ruined after a party for Doc descends into chaos thanks to Mack's poor control. For 10 points, identify this novel which depicts the lives of the Palace Flophouse gang, Lee Chong, and the other inhabitants of the titular street in , a work by John Steinbeck.",
+      "powerMarkPosition": 400,
+      "answer": "Cannery Row",
+      "acceptableAnswers": [
+        "Cannery Row",
+        "The Cannery Row"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f02ac"
+    },
+    {
+      "id": "19f816f3-a962-47c5-a386-4d0b4036cf24",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "In a book on \"assemblages\" of this practice, Jasbir Puar argues that a developing \"homonormative\" ethos depends on orientalizing the bodies of those who engage in this practice. The UN's difficulty in deciding upon a uniform definition of this practice has led to various \"sectoral\" definitions of it. Bruce Hoffman is an expert on this practice, which is paired with \"humanism\" in a book that discusses Marxist revolutions by Maurice Merleau-Ponty. One instance of this practice led the U.S. to institute Operation Active Endeavor. The word for this practice derives from a period in which the Jacobins used the \"national razor\" to execute \"enemies of the revolution.\" For 10 points, name this systematic use of coercive violence that takes its name from a fearful \"reign\" during the French Revolution.",
+      "powerMarkPosition": 411,
+      "answer": "terrorism",
+      "acceptableAnswers": [
+        "terrorism",
+        "word forms such as terrorists",
+        "terror",
+        "accept Reign of Terror",
+        "War on Terror",
+        "The terrorism"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34caa"
+    },
+    {
+      "id": "867b8406-b10a-42c5-8fa4-9f269f56a7b4",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "text": "This property's namesake \"moment\" changes direction at the Curie temperature, at which a transition between two forms of it occurs. Monopoles with this property cannot exist, and certain transition and rare earth metals display the permanent \"ferro\" form of this property. This property's namesake field is oriented perpendicular to the electric field. For 10 points, name this property exhibited by metal bars with North and South poles.",
+      "powerMarkPosition": 241,
+      "answer": "magnet",
+      "acceptableAnswers": [
+        "magnet",
+        "word forms such as being magnetic",
+        "accept ferromagnetism",
+        "accept magnetic moment",
+        "accept magnetic fields",
+        "B-fields",
+        "The magnet"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef79cbbbb69a5263ce2c"
+    },
+    {
+      "id": "fa130d1a-bc2d-4a48-b30c-ceb67984f4f3",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "In chapter 3 of this novel, a young man turns his truck to hit a turtle crossing the road but only manages to flip it over. One character breast-feeds a starving man after Connie Rivers abandoned her. Along with Rose of Sharon, other characters include the preacher Jim Casy and one who is inspired to organize migrant workers, Tom. For 10 points, name this novel about the Joad family's trek to California after the Dust Bowl by John Steinbeck.",
+      "powerMarkPosition": 200,
+      "answer": "Grapes of Wrath",
+      "acceptableAnswers": [
+        "Grapes of Wrath",
+        "The Grapes of Wrath"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43ec1"
+    },
+    {
+      "id": "6ed7394d-db9d-444b-81c7-b8985d6d8afa",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "In a James Gillray cartoon, leaders of these two countries cut the globe like a steak. One of them occupied Malta to violate the Peace of Amiens between these nations, which lasted one year. In 1797, Irishman Wolfe Tone asked one of these countries for a failed invasion of the other. The Continental System isolated one of these countries at the other's behest. These empires fought at Aboukir Bay in the Nile. The more northern of this pair gathered the Third Coalition and led the winning army of the Hundred Days after the other's leader returned from exile on Elba. For 10 points, name these empires that fought at Trafalgar and Waterloo while led by George III and Napoleon.",
+      "powerMarkPosition": 284,
+      "answer": "Britain",
+      "acceptableAnswers": [
+        "Britain",
+        "England",
+        "United Kingdom of Great Britain and Ireland",
+        "UK in place of “Britain”",
+        "accept French Republic",
+        "French [First",
+        "The Britain"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f86327cdb0cbb3f46459dc"
+    },
+    {
+      "id": "b353db41-9980-4dfd-beb3-23180e03471a",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "A response to this experiment conducted by Mary Cover Jones resulted in the development of desensitization. The subject of this experiment has been speculated to bear the name Douglas Meritte, and the experiment was conducted at the Harriet Lane home. This experiment utilized the burning of newspaper, seal-skin coats, and a Santa Claus mask with a cotton-ball beard meant to mimic white fur. It was co-run by graduate student Rosalie Rayner and involved striking a steel bar with a hammer whenever the subject touched a white rat. For 10 points, name this classical conditioning experiment conducted by John B. Watson which caused a small boy to develop a phobia of furry things.",
+      "powerMarkPosition": 251,
+      "answer": "Little Albert",
+      "acceptableAnswers": [
+        "Little Albert",
+        "The Little Albert"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97424467"
+    },
+    {
+      "id": "50da2d9a-6e41-45c4-bf6a-bfe79581028b",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "text": "Computer graphics known by this name were first used in programs like the SAGE air defense system and include primitive objects such as Bezier curves. In operating systems, this term refers to a memory location, while in mathematics, this term refers both to first-rank tensors and to spaces which, as a consequence of the axiom of choice, have a basis. In biology, an example is a mosquito which carries a malarial parasite. This term also denotes a one-dimensional array in many programming languages. In physics, velocity is an example of, For 10 points, what type of quantity specified by a magnitude and a direction?",
+      "powerMarkPosition": 353,
+      "answer": "vector",
+      "acceptableAnswers": [
+        "vector",
+        "The vector"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fa84"
+    },
+    {
+      "id": "159f9302-de44-4b8b-bf8e-a3c184b4cb68",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for dermis components. It plays a key role in the integumentary system and is one of the most studied parts of human anatomy. For ten points, name this epidermis-related structure.",
+      "powerMarkPosition": 96,
+      "answer": "Epidermis",
+      "acceptableAnswers": [
+        "epidermis",
+        "Epidermis"
+      ],
+      "explanation": "The epidermis is a key component of the Integumentary system, involved in dermis components.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "aca65f0e-dab9-4f23-aff9-393ef7017803",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Note to moderator: Read the whole answerline before judging an answer. Description acceptable.State of the art results for this task were achieved in a 2018 Google AI Perception paper using a CLDNN architecture trained with Bézier [BEH-zee-ay] curves on the IAM-OnDB dataset. Training a neural network for this task on the MNIST [\"M\"-nist] dataset is often used as an introduction to TensorFlow. Inputs to this task are deskewed and resized before passing them to the programs CuneiForm or Tesseract. Advanced systems for this task preserve layout in the output, and constraining the output with a dictionary improves the accuracy of this task. Human input assists algorithms that perform this task in the re·CAPTCHA system, and the original CAPTCHA took advantage of the difficulty of this task. This task is done to scanned books to create eBooks. For 10 points, name this task that converts images of text into text files.",
+      "powerMarkPosition": 597,
+      "answer": "character recognition",
+      "acceptableAnswers": [
+        "character recognition",
+        "OCR",
+        "accept answers indicating the recognition of words",
+        "numbers",
+        "characters",
+        "handwriting",
+        "prompt on computer vision",
+        "prompt on recognition of gestures",
+        "patterns",
+        "images with “What is being recognized?”",
+        "prompt on classification with “What is being classified?”",
+        "The character recognition"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382c2fba161cf1fc59656bc"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "ddaea3fc-6e2a-4481-a589-2158f81bf1e9",
+      "linkedTossupId": "3e89cbed-e27d-4f75-bb48-b5a5e6fb81f6",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this clonal colony of approximately 47,000 quaking aspen which share a single root system, and was once thought to be the world's largest organism.",
+          "answer": "Pando",
+          "acceptableAnswers": [
+            "Pando",
+            "The Pando"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pando is found in this Western state, where hoodoos can be found in Bryce Canyon National Park and land speed records are set at the Bonneville Salt Flats.",
+          "answer": "Utah",
+          "acceptableAnswers": [
+            "Utah",
+            "The Utah"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The current record holder for \"world's largest organism\" is a 3.7 square mile honey fungus in this state's Malheur National Forest. Wizard Island is located in a lake in this state that formed in a volcanic caldera.",
+          "answer": "Oregon",
+          "acceptableAnswers": [
+            "Oregon",
+            "The Oregon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Also known as the Trembling Giant, it occupies 107 acres of Fishlake National Park and weighs over six thousand tons. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382b35c9cc87abdd9a5a6b5"
+    },
+    {
+      "id": "9c0ecff6-e320-48a1-a637-cffc4d17fd3f",
+      "linkedTossupId": "06a29b45-266e-43d5-8b44-d29e242ae433",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this large rectangle in Beijing, a trendy spot for Chinese protesters. A hilarious YTMND shows a student kicking down three approaching tanks here.",
+          "answer": "Tiananmen",
+          "acceptableAnswers": [
+            "Tiananmen",
+            "The Tiananmen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Chinese chairman put down the 1989 Tiananmen Square Protest. He implemented market-economy trade policies and pretty much ran China from 1978-1992.",
+          "answer": "Deng",
+          "acceptableAnswers": [
+            "Deng",
+            "The Deng"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This first premier of the People's Republic of China worked under Mao and secretly met with Henry Kissinger to open up trade with the US in 1972. Deng succeeded him as Chairman of the CPPCC.",
+          "answer": "Zhou",
+          "acceptableAnswers": [
+            "Zhou",
+            "Chou Inlai",
+            "The Zhou"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In 2001, five members of a certain suppressed religion immolated themselves here. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c05525875978ad"
+    },
+    {
+      "id": "f58058fb-0eb8-461b-a3a4-ba1456ddbb25",
+      "linkedTossupId": "e8cdb17c-dffa-4700-b447-41f006bc9667",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this man who deposed Emperor Shao for Emperor Lian and moved the capital from Luoyang to Chang'an. He was killed after Wang Yun ostracized him from his adopted son, Lu Bu.",
+          "answer": "Dong",
+          "acceptableAnswers": [
+            "Dong",
+            "Dong Zhongying",
+            "Dong Zei",
+            "The Dong"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Dong Zhuo came to power after being asked by Yuan Shao and He Jin to fight the Ten Attendants, a group of these powerful court officials. Sima Qian and Zheng He were both forcibly turned into this type of official.",
+          "answer": "eunuchs",
+          "acceptableAnswers": [
+            "eunuchs",
+            "huan guan",
+            "prompt on answers mentioning “castration” and equivalents",
+            "prompt on “chang shi”",
+            "The eunuchs"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Dong Zhuo's tyranny led to the decline of this dynasty and the advent of the Three Kingdoms, when it was controlled by the state of Cao Wei. This dynasty shares its name with China's largest ethnic group.",
+          "answer": "Han",
+          "acceptableAnswers": [
+            "Han",
+            "Han Chao",
+            "Da Han",
+            "The Han"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Guangdong Coalition was formed to fight this man's Xiliang Army. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af9742261e"
+    },
+    {
+      "id": "ed3f677e-fea2-4b4c-8f61-b1980d2b7408",
+      "linkedTossupId": "5840a7d7-176d-4477-9b64-b18ec42862af",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This theory's namesake attitude can be measured by its namesake 22-point inventory, which has been used to establish a correlation between it and help seeking behaviour",
+          "answer": "ambivalent sexism",
+          "acceptableAnswers": [
+            "ambivalent sexism",
+            "sexism",
+            "The ambivalent sexism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Work by Karen Blair indicates that there is a correlation between the Ambivalent Sexism Inventory score and this behaviour, in which nearly 63 million Americans engaged in November 2016, despite the subject's famous claim that he enjoyed grabbing women 'by the pussy'.",
+          "answer": "voting for",
+          "acceptableAnswers": [
+            "voting for",
+            "obvious equivalents",
+            "The voting for"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Men who are hostilely or benevolently sexist are likely to hold this form of bias, which psychologists use to refer to relatively automatic features of prejudiced judgement and social behaviour.",
+          "answer": "implicit",
+          "acceptableAnswers": [
+            "implicit",
+            "The implicit"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This term was coined by Peter Glick and Susan Fiske, and the theory underlying it holds that the central attitude can be split into two components: 'hostile' and 'benevolent'. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6327e538099ec9a245d6de9f"
+    },
+    {
+      "id": "4b0225b7-4847-4675-8b7c-fb8745ce3c39",
+      "linkedTossupId": "7b48cef8-2990-4a32-9b11-65159c23e395",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "First, identify this landlocked Central Asian nation, a former Soviet state with a capital previously known as Stalinabad but now called Dushanbe.",
+          "answer": "Tajikistan",
+          "acceptableAnswers": [
+            "Tajikistan",
+            "The Tajikistan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tajikistan's tallest peak is Ismoil Somoni Peak. When Tajikistan was part of the Soviet Union, the peak was the highest in the USSR and went by this much catchier and shorter name.",
+          "answer": "Communism",
+          "acceptableAnswers": [
+            "Communism",
+            "Stalin Peak",
+            "and Mount Communism",
+            "The Communism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The former Communism Peak is located in this mountain range in Tajikistan's southeastern region, which also spill over into Afghanistan and China. The Northern Silk Road ran through this range, which also contains the former Lenin Peak.",
+          "answer": "Pamir",
+          "acceptableAnswers": [
+            "Pamir",
+            "The Pamir"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The CIA's factbook states that this country is \"slightly smaller than Wisconsin,\" and cites its primary resource as \"hydropower.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43b1b"
+    },
+    {
+      "id": "ceef4588-dc85-4d70-a32d-62c522dc7059",
+      "linkedTossupId": "a1cb569e-80a9-4fcb-8601-b78127a717f9",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this musical form that includes York Bowen's Opus 155, to be played Allegro furioso. Ned Rorem's First Piano Sonata ends with this kind of movement.",
+          "answer": "toccata",
+          "acceptableAnswers": [
+            "toccata",
+            "The toccata"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Robert Schumann's Opus 7 is a toccata in this key based on Czerny's (\"CHAIR-nee's\") toccata in this key. Other difficult piano pieces in this key include Schubert's Wanderer Fantasy and an unrelated Fantasie by Schumann.",
+          "answer": "C",
+          "acceptableAnswers": [
+            "C",
+            "Fantasie in C",
+            "reject “C minor”",
+            "“B-sharp”"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer's piano toccata is in the rare key of E-flat minor. His ballet Gayane (\"gah-yah-NEH\") includes a percussive \"Sabre Dance.\"",
+          "answer": "Khachaturian",
+          "acceptableAnswers": [
+            "Khachaturian",
+            "Aram Ilyich Khachaturian",
+            "The Khachaturian"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Kaikhosru Shapurji Sorabji wrote four very long piano pieces in this genre, which each have between five and ten movements. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66307b08f089611172b050f2"
+    },
+    {
+      "id": "7aaafbeb-d04e-497a-8d7f-b41e09e2cb63",
+      "linkedTossupId": "2c43eb26-5a40-4c8c-a353-45b1e8361a9a",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this quantity, the conjugate to pressure.",
+          "answer": "volume",
+          "acceptableAnswers": [
+            "volume",
+            "The volume"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pressure and volume are inversely proportional according to this equation of state, sometimes also named for Mariotte.",
+          "answer": "Boyle's",
+          "acceptableAnswers": [
+            "Boyle's",
+            "The Boyle's",
+            "Boyle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This generalization of the ideal gas law, named for a Dutchman, invokes two parameters \"a and b,\" so it can account for gases with nonzero particle size and nonzero intermolecular force.",
+          "answer": "Van der Waals",
+          "acceptableAnswers": [
+            "Van der Waals",
+            "The Van der Waals"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the virial equation, the compressibility factor is described as an infinite series in terms of this quantity. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fe74"
+    },
+    {
+      "id": "9cda414c-60f9-468d-943d-e138f129aeda",
+      "linkedTossupId": "39e5f7ac-65fd-45a8-a756-8f3dee7d91af",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this action in which actors cast ballots to make decisions, such as electing candidates.",
+          "answer": "voting",
+          "acceptableAnswers": [
+            "voting",
+            "The voting"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This voting system is an example of a plurality voting system. In it, the candidate with the most votes wins outright.",
+          "answer": "first-past-the-post",
+          "acceptableAnswers": [
+            "first-past-the-post",
+            "The first-past-the-post"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Arrow's impossibility theorem states that no voting system can satisfactorily meet all of a given set of fairness criteria, among which is an \"efficiency\" named for this man. This man also names an inequality index.",
+          "answer": "Pareto",
+          "acceptableAnswers": [
+            "Pareto",
+            "The Pareto"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A motion of no confidence is an example of the disapproval type of this action. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a2a7b"
+    },
+    {
+      "id": "1c043fc3-32a0-43d5-98ab-2bb2e19c4702",
+      "linkedTossupId": "b3e45f1d-b982-4eba-bb89-41a0612872a3",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Hank Morgan escapes being burned at the stake by predicting an eclipse in A Connecticut Yankee in King Arthur's Court, a novel by this American author of The Prince and the Pauper and Pudd'nhead Wilson.",
+          "answer": "Twain",
+          "acceptableAnswers": [
+            "Twain",
+            "Samuel Langhorne Clemens",
+            "The Twain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Later novelized in collaboration with Robert Silverberg, this Isaac Asimov short story depicts the total societal collapse that results when the only visible one of the planet Lagash's six suns is eclipsed.",
+          "answer": "Nightfall",
+          "acceptableAnswers": [
+            "Nightfall",
+            "The Nightfall"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The antagonistic High Priest of Amon Herhor successfully predicts a solar eclipse in Pharaoh, the only historical novel written by this Polish author. His other novels include The Doll, The Outpost, and The New Woman.",
+          "answer": "Prus",
+          "acceptableAnswers": [
+            "Prus",
+            "Aleksander Glowacki",
+            "The Prus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following about the best kind of solar eclipses, fictional ones, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0beb5"
+    },
+    {
+      "id": "27625f76-9e85-4074-a40a-880e603d8f06",
+      "linkedTossupId": "8e61b93b-b417-4666-aad8-3e65dad473b0",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this term, which refers to an individual's stock of knowledge, skills, or innate economic value. It can be increased by investments in education or on-the-job training.",
+          "answer": "human capital",
+          "acceptableAnswers": [
+            "human capital",
+            "The human capital"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This former professor at the University of Chicago is a major proponent of human capital theory. This social economist studied the effects of drug addiction on output and crafted the \"rotten kid theorem\" thought experiment.",
+          "answer": "Becker",
+          "acceptableAnswers": [
+            "Becker",
+            "The Becker"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The \"rotten kid theorem\" became one of the centerpieces of a new branch of economics developed by Becker focusing on these units. Becker's work with Jacob Mincer considered how male income affected their stability.",
+          "answer": "family",
+          "acceptableAnswers": [
+            "family",
+            "households",
+            "The family"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The components of this term are often considered \"intangible,\" and brain drain is also known as a \"flight\" of this term. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6469181702e5b084aa0181b9"
+    },
+    {
+      "id": "41739cbc-b4f8-4dbc-8e8d-bf6c9907b04a",
+      "linkedTossupId": "26f8a575-aa14-4067-ac4f-6c3cbfab90fc",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with t cells and cell-mediated immunity.",
+          "answer": "T cell",
+          "acceptableAnswers": [
+            "T cell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the T cell in the immune system?",
+          "answer": "T cells and cell-mediated immunity",
+          "acceptableAnswers": [
+            "T cells and cell-mediated immunity"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to t cells and cell-mediated immunity.",
+          "answer": "B cell",
+          "acceptableAnswers": [
+            "B cell"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "6bc43bda-1c87-433a-b2da-d63c3dfb9ccc",
+      "linkedTossupId": "70364ed6-3750-46f6-83ac-3a2ae0cb1a10",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Gabriel Garcia Marquez work which chronicles many generations of the Buendia family.",
+          "answer": "One Hundred Years of Solitude",
+          "acceptableAnswers": [
+            "One Hundred Years of Solitude",
+            "Cien años de soledad",
+            "The One Hundred Years of Solitude"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One Hundred Years of Solitude sees the gringo Mr. Herbert set up a plantation for this commodity after tasting Macondo's variety at the Buendia home. Later, the workers of this commodity are massacred in the town square.",
+          "answer": "banana",
+          "acceptableAnswers": [
+            "banana",
+            "banano",
+            "platano",
+            "The banana"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One woman with this name in One Hundred Years of Solitude dies during childbirth due to blood poisoning. Another girl with this name is known as \"the beauty\" and ascends into the sky one afternoon.",
+          "answer": "Remedios",
+          "acceptableAnswers": [
+            "Remedios",
+            "The Remedios"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work sees a native girl named Rebeca carry the bones of her parents in a canvas bag, and eventually she marries her brother Jose Arcadio. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289cad7a"
+    },
+    {
+      "id": "d94c30a4-c023-4d88-aa38-f1b0821e036d",
+      "linkedTossupId": "19f816f3-a962-47c5-a386-4d0b4036cf24",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this quality, which is one of the most common bases for noun classifier systems across the world's languages. Ojibwe, for example, divides nouns by this quality rather than by gender.",
+          "answer": "animacy",
+          "acceptableAnswers": [
+            "animacy",
+            "word forms like animate",
+            "accept descriptive answers like being alive",
+            "do not accept \"being human\"",
+            "The animacy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Some languages, like Burushaski, divide nouns into two classes based on whether one can do this to them. \"Mass nouns\" can't have this done to them without the use of measure words, and many Amazonian languages lack the vocabulary to do this extensively, instead using the word for \"many.\"",
+          "answer": "count",
+          "acceptableAnswers": [
+            "count",
+            "any answers indicating describing the number of objects",
+            "The count"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A more esoteric noun class system is found in the Dyirbal language indigenous to Australia, whose balan gender category contains women, fire, and things with this property, a categorization that also titles a book by George Lakoff.",
+          "answer": "dangerous",
+          "acceptableAnswers": [
+            "dangerous",
+            "violent",
+            "synonyms",
+            "accept Women",
+            "Fire and Dangerous Things",
+            "The dangerous"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In Russian, masculine nouns decline differently in the accusative case based on this quality. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0aec60"
+    },
+    {
+      "id": "5fd5222a-c7ba-4ae2-b88d-ef75f4e05f58",
+      "linkedTossupId": "867b8406-b10a-42c5-8fa4-9f269f56a7b4",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this positive electrode where the reduction reaction occurs. This electrode is made of copper in a zinc-copper cell.",
+          "answer": "cathode",
+          "acceptableAnswers": [
+            "cathode",
+            "The cathode"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Nernst equation can determine the voltage of a zinc-copper cell if these quantities are known for the two ions. This quantity is usually expressed in molarity or moles per liter.",
+          "answer": "concentration",
+          "acceptableAnswers": [
+            "concentration",
+            "The concentration"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "To allow flow of ions between the two electrodes, a porous cup or one of these devices may be used. A typical one of these devices is a U-shaped glass tube filled with an electrolyte solution.",
+          "answer": "salt bridge",
+          "acceptableAnswers": [
+            "salt bridge",
+            "The salt bridge"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "To conduct current, a galvanic cell or battery must possess both an anode and this electrode. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba97248"
+    },
+    {
+      "id": "9121e8a7-81d9-49c4-97f4-3325a56b1c70",
+      "linkedTossupId": "fa130d1a-bc2d-4a48-b30c-ceb67984f4f3",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Galifianakas starred as Alan Garner, the brother of the groom, in what 2009 comedy also starring Ed Helms and Bradley Cooper.",
+          "answer": "Hangover",
+          "acceptableAnswers": [
+            "Hangover",
+            "The Hangover"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Galifianakas played Ethan Trombley opposite Robert Downey Jr. in this 2010 comedy about a cross-country road trip.",
+          "answer": "Due Date",
+          "acceptableAnswers": [
+            "Due Date",
+            "The Due Date"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of Galifianakas's first films was this 2001 comedy starring Chris Kataan about a local veterinarian's attempts in infiltrate the mob.",
+          "answer": "Romano",
+          "acceptableAnswers": [
+            "Romano",
+            "The Romano"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, identify these movies featuring lovable fat guy Zach Galifianakis.",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0597"
+    },
+    {
+      "id": "2ad9be33-4fcb-47ab-ae11-ae172c8447d3",
+      "linkedTossupId": "6ed7394d-db9d-444b-81c7-b8985d6d8afa",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this 1914 battle in which German forces began the process of removing a Russian invasion force from East Prussia by encircling and defeating the Second Army under Alexander Samsonov, who shot himself.",
+          "answer": "Tannenberg",
+          "acceptableAnswers": [
+            "Tannenberg",
+            "The Tannenberg"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This German general, along with Erich Ludendorff, was the commanding officer at the Battle of Tannenberg. He is perhaps best known for his stint as President of Weimar Germany.",
+          "answer": "Hindenburg",
+          "acceptableAnswers": [
+            "Hindenburg",
+            "Paul Ludwig Hans Anton von Beneckendorff und von Hindenburg",
+            "The Hindenburg"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This technology was used by the Russians to orally transmit orders prior to the Battle of Tannenberg, although their failure to encrypt these messages allowed the German military to predict their movements. This technology is how people listen to music in cars.",
+          "answer": "radio",
+          "acceptableAnswers": [
+            "radio",
+            "The radio"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The losing army at this battle was destroyed completely several weeks later at the Masurian Lakes For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144b13"
+    },
+    {
+      "id": "c0d24356-03d1-46f5-aa99-2fea28f50927",
+      "linkedTossupId": "b353db41-9980-4dfd-beb3-23180e03471a",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This linguist studied the Athabascan languages of the indigenous peoples of Canada and, along with one of his students, formulated a theory linking language to the perception of reality A",
+          "answer": "Sapir",
+          "acceptableAnswers": [
+            "Sapir",
+            "The Sapir"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Columbia University anthropologist famously denounced phrenology and racism, claiming that intelligence is roughly the same across all cultures in his Mind of Primitive Man. His numerous students included Sapir, Gilberto Freyre, and Zora Neale Hurston.",
+          "answer": "Boas",
+          "acceptableAnswers": [
+            "Boas",
+            "The Boas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Columbia professor wrote extensive treatments of California's Native American population. His wife Theodora helped complete his landmark studies on Ishi, who may have been the last Yahi Indian.",
+          "answer": "Kroeber",
+          "acceptableAnswers": [
+            "Kroeber",
+            "The Kroeber"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some things about the anthropological study of Native Americans, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed6e71216c5c9ba567572c"
+    },
+    {
+      "id": "a22d0800-b0e4-4bb7-adc6-26fd2ce340ea",
+      "linkedTossupId": "50da2d9a-6e41-45c4-bf6a-bfe79581028b",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this process, exemplified by the shedding of feathers by birds. This process also refers to the discarding of exoskeletons or cuticles by insects and crustaceans.",
+          "answer": "molt",
+          "acceptableAnswers": [
+            "molt",
+            "moulting",
+            "accept ecdysis",
+            "The molt"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An insect's new exoskeleton must rapidly undergo this process in order to harden. This process creates a namesake cross-linked material including catecholamines (\"CAT-uh-COAL-uh-meens\").",
+          "answer": "sclerotization",
+          "acceptableAnswers": [
+            "sclerotization",
+            "sclerotin",
+            "The sclerotization"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These organisms have five developmental instar stages between molts and feed on xylem. In North America, these insects follow 13-year and 17-year synchronized cycles.",
+          "answer": "cicada",
+          "acceptableAnswers": [
+            "cicada",
+            "Magicicada",
+            "accept periodical cicadas",
+            "The cicada"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It's not looksmaxxing, but in medieval times, this process was also known as \"mewing.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "692330ecf1f28d19289b8028"
+    },
+    {
+      "id": "d6676e3d-7de7-42a4-8698-2857840daad7",
+      "linkedTossupId": "159f9302-de44-4b8b-bf8e-a3c184b4cb68",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with cortisol functions.",
+          "answer": "adrenal",
+          "acceptableAnswers": [
+            "adrenal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the adrenal in the endocrine system?",
+          "answer": "Cortisol functions",
+          "acceptableAnswers": [
+            "Cortisol functions"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to cortisol functions.",
+          "answer": "cortisol",
+          "acceptableAnswers": [
+            "cortisol"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "d61bf513-ef59-402a-9767-781d72d2d03d",
+      "linkedTossupId": "aca65f0e-dab9-4f23-aff9-393ef7017803",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these bonds between a particular element and a particular group. Löffler and Freytag (\"FRY-tack\") used the radical formed by homolytic cleavage of these bonds to close the pyrrole (\"PIRR-roll\") ring of nicotine.",
+          "answer": "nitrogen–halogen",
+          "acceptableAnswers": [
+            "nitrogen–halogen",
+            "N–X bonds",
+            "accept bromine",
+            "Br",
+            "chlorine",
+            "Cl",
+            "iodine",
+            "I in place of “halogen”",
+            "accept N in place of “nitrogen”",
+            "accept N-haloamines",
+            "N-bromosuccinimide",
+            "N-chlorosuccinimide",
+            "N-iodosuccinimide",
+            "prompt on halogen bonds by asking “with what element?”",
+            "The nitrogen–halogen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This scientist showed that radicals formed from nitrogen-halogen bonds could be used to create alkaloids. An isocyanate (\"iso-CYAN-ate\") is the intermediate during a reaction named for this scientist, which removes one carbon from an amide (\"AM-idd\").",
+          "answer": "Hofmann",
+          "acceptableAnswers": [
+            "Hofmann",
+            "Hofmann rearrangement",
+            "Hofmann–Löffler reaction",
+            "The Hofmann"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Nitrogen-halogen bonds can be formed by mixing bleach with this other cleaner, which will evolve chloramine gas. This volatile compound has an incredibly distinctive smell.",
+          "answer": "ammonia",
+          "acceptableAnswers": [
+            "ammonia",
+            "NH3",
+            "The ammonia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Derivatives of succinimide (\"suck-SIN-uh-myde\") with these bonds are good sources of free radicals. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66307b05f089611172b04fdd"
+    }
+  ]
+}

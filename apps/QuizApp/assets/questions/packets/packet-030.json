@@ -1,0 +1,1147 @@
+{
+  "packetId": "packet-030",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "History",
+    "Literature",
+    "Fine Arts",
+    "Science",
+    "Geography",
+    "Mythology",
+    "Human Body",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "0d9e25db-b94d-4525-88cb-448675013738",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "Rufus Peckham cited his decision in 1897's Allgeyer v. Louisiana and denied the relevance of 1898's Holden v. Hardy in his majority opinion, which raised the specter of communism. Justice Oliver Wendell Holmes' dissent included his defense of the \"reasonable man\" test and included his statement that \"General propositions do not decide concrete cases,\" but is best known for his assertion that \"The 14th Amendment does not enact Mr. Herbert Spencer's Social Statics.\" FTP, name this 1905 decision in which the court struck down a New York law setting maximum working hours for bakers.",
+      "powerMarkPosition": 433,
+      "answer": "Lochner",
+      "acceptableAnswers": [
+        "Lochner",
+        "The Lochner"
+      ],
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e62ca8"
+    },
+    {
+      "id": "1ef9ac82-0f9e-4dbe-9129-cd7c342741ea",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "In the opening act of this play, the leading man is told to beat the eggs in a bowl as if he were the shell of the eggs. That actor has the primary role in a play within this play titled \"Mixing It Up.\" Soon thereafter the title characters arrive bathed in \"tenuous light.\" One of those title characters of this work asks the Father to remember 100 lira left in a blue envelope for Madame Pace, a brothel owner to whom the Step-Daughter was given. The Child commits suicide after seeing a little girl drown in a fountain in, for 10 points, what absurdist play by Luigi Pirandello in which the title number of fictional people wish to have their story played?",
+      "powerMarkPosition": 447,
+      "answer": "Six Characters in Search of an Author",
+      "acceptableAnswers": [
+        "Six Characters in Search of an Author",
+        "The Six Characters in Search of an Author"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0cad5"
+    },
+    {
+      "id": "aceba8aa-b286-42f4-a868-724150d0a55e",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "Description acceptable. Residents of this place participate in weekly \"Spontaneous Demonstrations\" and realize they received fake money in a business deal to sell timber to Pinchfield. A lazy resident of this place constantly talks about eating sugar and wearing ribbons. Residents of this place often hear stories of an idyllic afterworld from Moses. A popular saying at this site of the Battle of the Cowshed is \"Four legs good, two legs bad.\" Squealer controls the propaganda of this place, whose residents sing the song \"Beasts of England.\" Mr. Jones is replaced by the pig Napoleon as the leader of this place. For 10 points, name this title setting of a George Orwell novel.",
+      "powerMarkPosition": 328,
+      "answer": "animal farm",
+      "acceptableAnswers": [
+        "animal farm",
+        "Manor Farm",
+        "accept clear-knowledge equivalents",
+        "like Mr. Jones’s farm",
+        "the setting of Animal Farm",
+        "prompt on the Cowshed until mention",
+        "just farm",
+        "The animal farm"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab5a8"
+    },
+    {
+      "id": "b24aefce-d98f-43f4-ba79-20840502a7ef",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "A work for a quartet of these called Windcatcher is by Philip Glass, who also wrote Melodies for these. In the Ravel orchestration of Pictures at an Exhibition, one of these represents a troubador in the movement The Old Castle, while Sonny Rollins performed their namesake Colossus. Gershwin's Rhapsody in Blue calls for the tenor, baritone, and alto versions of this instrument, and this is the instrument played by the main performer in songs like Ornithology and Giant Steps. For 10 points, name this metal woodwind instrument, played by Charlie Parker, usually found in Jazz.",
+      "powerMarkPosition": 283,
+      "answer": "Saxophone",
+      "acceptableAnswers": [
+        "Saxophone",
+        "The Saxophone"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841811"
+    },
+    {
+      "id": "d98d7ae3-6d8c-4fd8-b6dd-b4dfe1dea5d7",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "The product of two exponentials, the regulator, and the ideal class number appear in the numerator of one of these values, according to one statement of the class number formula. The inverse Mellin transform of the gamma function can be found by calculating these values to be the coefficients of the Taylor series for e to the minus x. A function cannot have a holomorphic antiderivative if one of these values is non-zero. A variant of the cotangent function is used in a technique that calculates these values to solves the Basel problem. The integral from negative infinity to infinity of a rational function that decays at least as rapidly as one over x squared can always be calculated by finding these values. An integral over a closed curve is equal to two pi i times the sum of these quantities for every pole inside the contour, according to their namesake theorem. They are given by the \"n equals negative one\" term of the Laurent series. For 10 points, name these values from complex analysis that are used to calculate integrals.",
+      "powerMarkPosition": 526,
+      "answer": "residue",
+      "acceptableAnswers": [
+        "residue",
+        "coefficients of Laurent series",
+        "prompt on integral around a pole etc.",
+        "The residue"
+      ],
+      "source": "qbreader",
+      "sourceId": "63a3f66ab17797e852f22cc2"
+    },
+    {
+      "id": "8ef0bccf-c01c-4720-a7b9-4b8bdd54fb1a",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "Its namesake state's capital is Merida, northwest of the state of Quintana Roo. To its west is the Bay of Campeche, the island of Cozumel lies near its eastern shore, and the Chicxulub (chick-shoo-loob) Crater off its northwest coast is hypothesized to be the landing spot of the impact that caused the K-T Extinction. Home to Cancun, name this Mexican peninsula that separates the Gulf of Mexico from the Caribbean Sea.",
+      "powerMarkPosition": 202,
+      "answer": "Yucatan",
+      "acceptableAnswers": [
+        "Yucatan",
+        "The Yucatan"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1dba"
+    },
+    {
+      "id": "67decadd-9f5b-4ec1-8be5-aa9adc910aa2",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "This man, who owns the blind dog Argos, is advised by Tiresias to avoid eating the cattle of Helios. Hermes gave this man moly to protect him from the magic of Circe. This man adopts the name \"Nobody\" to escape the cyclops Polyphemus. This father of Telemachus kills the suitors of his wife, Penelope, when he returns to Ithaca. For 10 points, name this hero who travels for ten years in a namesake Homeric epic.",
+      "powerMarkPosition": 222,
+      "answer": "Odysseus",
+      "acceptableAnswers": [
+        "Odysseus",
+        "The Odysseus"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b9d4"
+    },
+    {
+      "id": "482319b5-18e4-4c41-8968-e11a3e943a21",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "If one of these structures is GF-four representable, then all GF-four representations of these objects are equivalent. R-sub-ten is a unique splitter for a certain class of these structures according to Seymour. One of these structures of rank r is uniform if and only if all of its circuits have exactly r plus one elements. The regular types of these structures can be represented over all fields and are precisely those that don't contain the four-point line, the Fano plane, and its dual. The Tutte polynomial of these structures is a generalization of the characteristic polynomial to two variables. Maximal independent ones of these are bases. These are defined on a ground set and an independent collection of subsets. These structures provide strong connections between graph theory and linear algebra. For 10 points, name these combinatorial structures that generalize the concept of linear independence to matrices.",
+      "powerMarkPosition": 560,
+      "answer": "matroid",
+      "acceptableAnswers": [
+        "matroid",
+        "The matroid"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df40b44c1b765cb43c3806"
+    },
+    {
+      "id": "ce19dc95-3324-4278-b854-49253e8c48ab",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for diabetes types. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this insulin-related structure.",
+      "powerMarkPosition": 77,
+      "answer": "Insulin",
+      "acceptableAnswers": [
+        "insulin",
+        "Insulin"
+      ],
+      "explanation": "The insulin is a key component of the Endocrine system, involved in diabetes types.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "dc4ca2b6-4acc-4330-bc1d-336bf46c7d4f",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "This compound is produced with graphite in the Bosch reaction, and organic reactions in this medium have been demonstrated to be faster than in toluene and cyclohexane by Sharpless. This compound notably has a solid-liquid boundary with a negative slope on a phase diagram, and the absolute temperature scale is based on this compound's triple point. It is produced with carbon dioxide during combustion, and this molecule has a bent geometry and two lone pairs, allowing the formation of multiple hydrogen bonds that reduce its density when solid. For 10 points, identify this \"universal solvent\" with formula H2O.",
+      "powerMarkPosition": 238,
+      "answer": "water",
+      "acceptableAnswers": [
+        "water",
+        "H2O",
+        "dihydrogen monoxide early",
+        "The water"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fdc23fc76481561474a0fc"
+    },
+    {
+      "id": "d0dea7d7-813b-4a9f-8deb-87fb6e98e314",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "In the final volume of Stefan Zweig's Master Builders of the Spirit trilogy, this novel's author is compared to its' protagonist by choosing an \"opposition to his generation.\" The protagonist of this novel argues \"Love born in the brain is more spirited, doubtless, than true love\" and opts not to speak at a trial. The epigraph of this novel, \"the truth, the harsh truth,\" is supposedly attributed to Georges Danton. The protagonist of this novel becomes the protege of Abbé Chélan, who gets him a job as a tutor where he begins an affair with Madame de Renal. After shooting the Madame, the protagonist's lover Mathilde kisses his severed head. For 10 points, the two title colors exemplify Julien Sorel's struggles between a clerical and secular life in what Stendhal novel?",
+      "powerMarkPosition": 409,
+      "answer": "Red and the Black",
+      "acceptableAnswers": [
+        "Red and the Black",
+        "Le Rouge et le Noir: Chronique du XIXe siècle",
+        "The Red and the Black"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0aed99"
+    },
+    {
+      "id": "564b43b8-0314-485c-861d-b9ad0065bbf2",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "King Laomedon [lah-oh-may-don] tricked Apollo and this god into building the walls of Troy. This god cursed Pasipha¨e [pah-sih-fah-ay] after her husband, Minos, failed to sacrifice the Cretan Bull to this god. Horses were sacred to this god, who lost a competition to Athena's olive tree when he gave a salt spring to Athens. For 10 points, name this brother of Zeus and Hades, the Greek god of the sea.",
+      "powerMarkPosition": 209,
+      "answer": "Poseidon",
+      "acceptableAnswers": [
+        "Poseidon",
+        "The Poseidon"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2ccbe"
+    },
+    {
+      "id": "28852cfd-6b08-4c32-9b0d-e2a2ab9e8f1a",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "The Aloadae once placed this god inside a jar for thirteen months. Spartan youths sometimes sacrificed a puppy to a son of this god before going into ritual battle. This god was often accompanied by Eris, the goddess of discord, as well as his sons Phobos and Deimos. Hephaestus caught this god in a net to expose his affair with Aphrodite. For 10 points, name this Greek god of war.",
+      "powerMarkPosition": 248,
+      "answer": "Ares",
+      "acceptableAnswers": [
+        "Ares",
+        "Mars until “Greek” is read",
+        "The Ares"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9e71"
+    },
+    {
+      "id": "2fae72ff-02ab-4e36-91e9-12367f140195",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "Maya Lin's Confluence Project is a series of art installations located along this river. Navigation on this river was once impeded by Celilo Falls before it was flooded by The Dalles Dam, located near the entrance to this river's namesake gorge. The city of Pasco is located at the junction of this river and its longest tributary, the Snake. Also located on this river is Franklin D. Roosevelt Lake, a reservoir formed by the Grand Coulee Dam. For 10 points, the border between Oregon and Washington is partly formed by what largest river of the Pacific Northwest?",
+      "powerMarkPosition": 245,
+      "answer": "Columbia",
+      "acceptableAnswers": [
+        "Columbia",
+        "The Columbia"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0cda5"
+    },
+    {
+      "id": "5813d142-f29f-4ac4-a8db-85fd13dbf430",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "This character convinces four people in a row to sing \"Sonny Boy\" at a talent show. One man admires how this character studies \"the psychology of the individual,\" and samples his hangover cure of egg and red pepper. This man advises wearing a devil costume to a masquerade ball to Gussie Fink-Nottle. Although he has a \"feudal spirit,\" stories often end with this man convincing his \"mentally negligible\" employer to give up a questionable fashion choice. Story collections are named Right Ho, [this character] and Carry On, [this character]. This man frequently gets a member of the Drones Club out of trouble with his Aunt Agatha. For 10 points, name this valet of Bertie Wooster, created by the author P. G. Wodehouse.",
+      "powerMarkPosition": 404,
+      "answer": "Jeeves",
+      "acceptableAnswers": [
+        "Jeeves",
+        "Reginald Jeeves",
+        "accept Right Ho",
+        "accept Carry On",
+        "The Jeeves"
+      ],
+      "source": "qbreader",
+      "sourceId": "6848696bb074cbb48b99b448"
+    },
+    {
+      "id": "866c415a-d8f9-4e01-9b2e-b42622dcac25",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "This character makes her husband jealous by the way she spreads her legs while staying overnight under a small mosquito net with him and two of her friends. She takes dancing lessons from Countess Shlemskaya, and dances with people like Hamada and Kumagai, two of the many men who she has affairs with. She rides her husband like a horse and calls him \"Papa,\" because they initially meet when she is 15 and he is 28. The novel in which she appears is the source of the term \"modern girl,\" or modan gaaru, to refer to women like her. This character intrigues Joji Kawai because of her resemblance to Mary Pickford and her Western name. For 10 points, name this title character of a Junichiro Tanizaki novel.",
+      "powerMarkPosition": 399,
+      "answer": "Naomi",
+      "acceptableAnswers": [
+        "Naomi",
+        "The Naomi"
+      ],
+      "source": "qbreader",
+      "sourceId": "63002656ea186ec68c3bd91f"
+    },
+    {
+      "id": "18741638-4cd7-43d3-8374-7b997c4a6fa0",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for appendicular skeleton. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this skull-related structure.",
+      "powerMarkPosition": 73,
+      "answer": "Skull",
+      "acceptableAnswers": [
+        "skull",
+        "Skull"
+      ],
+      "explanation": "The skull is a key component of the Musculoskeletal system, involved in appendicular skeleton.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "10aa0f54-a50b-4fb6-90f4-2630368104a2",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "A deadly 1980 accident occurred when MV Summit Venture collided into a bridge spanning this body of water. In mid-January, Ye Mystic Krewe (\"crew\") organizes a pirate-themed festival in this body of water. This is the (emphasize) smaller of the two bodies of water that surround Hillsborough and Pinellas Counties. At a power plant in the community of Apollo Beach, many tourists come to watch West Indian manatees swim in this body of water. The Sunshine Skyway Bridge, named after governor Bob Graham, spans this body of water near a non-European city named St. Petersburg. The headquarters of the Church of Scientology is located in Clearwater, a city on this body of water, which is also home to the Buccaneers football team. For 10 points, name this body of water, named after the most populous city on Florida's west coast.",
+      "powerMarkPosition": 491,
+      "answer": "Tampa Bay",
+      "acceptableAnswers": [
+        "Tampa Bay",
+        "The Tampa Bay"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae6ac"
+    },
+    {
+      "id": "336fa12a-77b0-411f-a9fd-b7e659858f89",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "The \"actual incidence\" of these things can be observed independent of their intended, or \"statutory,\" incidence. Robert Barro revived the idea that a change in them does not affect consumer behavior, called Ricardian equivalence. A rectangle representing this quantity has height defined by upward shift of the supply curve on a quantity-price diagram, left of a triangular area showing deadweight loss. Negative externalities are ended by the Pigouvian type of this quantity, which can be ad valorem or \"value-added.\" A parabolic diagram about their optimal rate is the Laffer curve. For 10 points, name these payments which can be \"progressive\" and raise government revenue.",
+      "powerMarkPosition": 403,
+      "answer": "tax",
+      "acceptableAnswers": [
+        "tax",
+        "tax revenue",
+        "tax rates",
+        "The tax"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f86327cdb0cbb3f4645989"
+    },
+    {
+      "id": "84ed7fe6-9f40-4068-bfba-5f65904616b3",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "While severely drunk, one character in this book remarks that he fears pen, ink, and paper more than he does a sword or a pistol, upon which his two companions promptly give him more wine. The protagonist of this novel bribes a garden-loving telegraph agent to send a false message about the Spanish king, thereby financially hurting a longtime enemy; that protagonist of this novel first mentions that action to his former employer Morrel, whom he had previously saved from bankruptcy. In this novel, Héloïse begins poisoning her family members based on the techniques of the protagonist. This book's protagonist swims to join a group of Genoese smugglers after escaping from a fictionalized version of a prison outside Marseille, the Château d'If, and he eventually falls in love with the former slave Haydée, despite his longstanding wish to marry Mercedès. For 10 points, name this novel by Alexandre Dumas about the revenge plot of Edmond Dantès.",
+      "powerMarkPosition": 432,
+      "answer": "Count of Monte Cristo",
+      "acceptableAnswers": [
+        "Count of Monte Cristo",
+        "The Count of Monte Cristo"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eea92bec6a1624964895c6"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "7ac1c080-b2f9-49e0-9e54-689ded1ea12b",
+      "linkedTossupId": "0d9e25db-b94d-4525-88cb-448675013738",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this home of one of medieval England's largest Jewish communities, which lost its leader Abraham Pinch in 1220 after he was hanged for blood libel. This city was built atop the Roman town of Venta Belgarum.",
+          "answer": "Winchester",
+          "acceptableAnswers": [
+            "Winchester",
+            "Licoricia of Winchester",
+            "The Winchester"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Like his rival Henry III, this client of Licoricia of Winchester owed her a lot of money, but decided to pay her back by sacking Winchester's Jewish quarter in 1264. This noble was killed a year later at the Battle of Evesham.",
+          "answer": "Simon",
+          "acceptableAnswers": [
+            "Simon",
+            "6th Earl of Leicester",
+            "prompt on Earl of Leicester",
+            "prompt on de Montfort",
+            "The Simon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Jews of Winchester had even worse luck when this king decided to expel them, along with the rest of England's Jews, from the kingdom in 1290. This king won the Battle of Falkirk against William Wallace.",
+          "answer": "Edward I",
+          "acceptableAnswers": [
+            "Edward I",
+            "Edward Longshanks",
+            "prompt on Edward",
+            "The Edward I"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A Jewish woman from this city named Licoricia amassed a huge fortune through business dealings despite the fact that most of the estate of her deceased husband, David of Oxford, was confiscated. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423fa7"
+    },
+    {
+      "id": "aa0badfc-b60b-46ff-91be-05c2adeae8c5",
+      "linkedTossupId": "1ef9ac82-0f9e-4dbe-9129-cd7c342741ea",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this last name. Two authors with this last name wrote a novel in which \"Red\" Schuhart is employed by scientists to illegally enter Zones and retrieve alien technology.",
+          "answer": "Strugatsky",
+          "acceptableAnswers": [
+            "Strugatsky",
+            "Boris and Arkady Strugatsky",
+            "The Strugatsky"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Strugatsky brothers wrote in this language. Novy Mir was a literary journal for publishing works in this language in the Soviet Union.",
+          "answer": "Russian",
+          "acceptableAnswers": [
+            "Russian",
+            "The Russian"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Russian science-fiction novel, the Mephi attempt to destroy the Green Wall and bring down the One State. I-330 attempts to recruit the protagonist, D-503, to join the Mephi in this novel by Yevgeny Zamyatin.",
+          "answer": "We",
+          "acceptableAnswers": [
+            "We",
+            "My"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the novel Hard to Be a God, two authors with this last name created a spy called Anton is sent from Earth to investigate a planet with medieval levels of technology. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a80b4"
+    },
+    {
+      "id": "2ec1dd87-955d-40af-af27-8093b83d9a3b",
+      "linkedTossupId": "aceba8aa-b286-42f4-a868-724150d0a55e",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "He left the Franciscan order when they refused to let him learn Greek, and he went on to a successful and controversial career writing about Gargantua and Pantagruel.",
+          "answer": "Rabelais",
+          "acceptableAnswers": [
+            "Rabelais",
+            "The Rabelais"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This tragedian, known to have Jansenist ties, wrote the biblical plays Esther and Athalie as well as the profane masterpiece Phèdre.",
+          "answer": "Racine",
+          "acceptableAnswers": [
+            "Racine",
+            "The Racine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This deaf author of The Franciad and Amours de Cassandre was the leader of La Pléiade.",
+          "answer": "Ronsard",
+          "acceptableAnswers": [
+            "Ronsard",
+            "The Ronsard"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these French authors for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9842215"
+    },
+    {
+      "id": "9e33ccf1-ce0c-4e75-b14b-cdc0109cf3b3",
+      "linkedTossupId": "b24aefce-d98f-43f4-ba79-20840502a7ef",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this minimalist composer whose Music for 18 Musicians is based on eleven chords and divided into \"Pulses\".",
+          "answer": "Reich",
+          "acceptableAnswers": [
+            "Reich",
+            "The Reich"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Reich composition uses recordings from his childhood governess and Holocaust survivors in order to contrast the title objects in America and Europe. Its second movement begins with sirens and a looped voice saying \"1940\".",
+          "answer": "Different Trains",
+          "acceptableAnswers": [
+            "Different Trains",
+            "The Different Trains"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Heavy brass accents produce the effect of trains in this best-known work of Arthur Honegger.",
+          "answer": "Pacific 231",
+          "acceptableAnswers": [
+            "Pacific 231",
+            "The Pacific 231"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A flamenco performance inspired this man to write a piece consisting entirely of clapping. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a29a"
+    },
+    {
+      "id": "228c5fc7-7e32-4508-b414-e89135b2a63c",
+      "linkedTossupId": "d98d7ae3-6d8c-4fd8-b6dd-b4dfe1dea5d7",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these devices which measure the heat change of a reaction. A simple example can be made from a coffee cup.",
+          "answer": "calorimeter",
+          "acceptableAnswers": [
+            "calorimeter",
+            "The calorimeter"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "ITC can be used to show whether ligand binding follows this model. In this kind of binding, which is common between an enzyme and a substrate and opposes the lock-and-key model, the binding site changes confirmation slightly to accommodate the ligand.",
+          "answer": "induced fit",
+          "acceptableAnswers": [
+            "induced fit",
+            "The induced fit"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another technique for understanding protein-protein binding measures the conformational change of proteins attached to the surface of a waveguide by using the evanescent wave of a laser",
+          "answer": "dual polarization interferometry",
+          "acceptableAnswers": [
+            "dual polarization interferometry",
+            "DPI",
+            "prompt on partial answers",
+            "The dual polarization interferometry"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The isothermal titration variety of these devices is used to analyze ligand binding, while its differential scanning type gives a heat flux vs temperature curve. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af9742275e"
+    },
+    {
+      "id": "9b8ed114-6989-44d1-9bee-a2e9ad1bf31a",
+      "linkedTossupId": "8ef0bccf-c01c-4720-a7b9-4b8bdd54fb1a",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these flightless birds. Morgan Freeman narrated a documentary about the \"march of\" the emperor variety of these birds.",
+          "answer": "penguin",
+          "acceptableAnswers": [
+            "penguin",
+            "macaroni penguin",
+            "rockhopper penguin",
+            "March of the Penguins",
+            "The penguin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The only penguins that live north of the Equator can be found in this island group known for its biodiversity and giant tortoises.",
+          "answer": "Galapagos",
+          "acceptableAnswers": [
+            "Galapagos",
+            "The Galapagos"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This South American country owns the Galapagos Islands. Its largest city is Guayaquil.",
+          "answer": "Ecuador",
+          "acceptableAnswers": [
+            "Ecuador",
+            "The Ecuador"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Varieties of these creatures include the \"macaroni\" and \"rockhopper\" types, as well as one species named for Magellan. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9d13"
+    },
+    {
+      "id": "345181df-e463-44e2-9da0-3dc15737c493",
+      "linkedTossupId": "67decadd-9f5b-4ec1-8be5-aa9adc910aa2",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Consisting of Clotho, Lachesis (\"luh-KEE-sis\"), and Atropos (\"AT-row-pos\"), these three control the threads that make up people's lives. Even Zeus knows to give this group a wide berth.",
+          "answer": "Fates",
+          "acceptableAnswers": [
+            "Fates",
+            "Moirae",
+            "The Fates"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This group went after Orestes for fratricide, but he was eventually found innocent of the charges. Made up of Megaera (\"muh-GARE-uh\"), Tisiphone (\"tih-SIFF-uh-nee\"), and Alecto (\"uh-LECK-toe\"), these three pursue sinners who are not punished.",
+          "answer": "Furies",
+          "acceptableAnswers": [
+            "Furies",
+            "Erinyes",
+            "Eumenides",
+            "The Furies"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This group consists of Aello (\"AIL-oh\"), Celaeno (\"kuh-LANE-oh\"), and Ocypete (\"oh-KIE-pet-ee\"). These winged females with sharp talons torment people, and their actions almost made Phineus starve to death, until they were driven off. Their name is now synonymous with a woman who is evil.",
+          "answer": "Harpies",
+          "acceptableAnswers": [
+            "Harpies",
+            "The Harpies"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these female groups from Greek myth that one should make great effort not to anger:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec6634"
+    },
+    {
+      "id": "32c79fdf-d424-4da2-a95a-d8b9d201ae7f",
+      "linkedTossupId": "482319b5-18e4-4c41-8968-e11a3e943a21",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this quantity, the change in total energy of a system as the result of a process. In classical mechanics, it is equal to force times distance.",
+          "answer": "work",
+          "acceptableAnswers": [
+            "work",
+            "The work"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This quantity is defined as work divided by the heat input. Carnot's theorem states that for a heat engine, this quantity can not exceed one minus the ratio of temperature for the cold and heat reservoirs.",
+          "answer": "efficiency",
+          "acceptableAnswers": [
+            "efficiency",
+            "The efficiency"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This statement sets the exponential of negative work over kT equal to (read slowly) the average of the exponential of negative free energy difference over kT. Crooks fluctuation theorem implies this equality, which is tested experimentally using optical tweezers.",
+          "answer": "Jarzynski",
+          "acceptableAnswers": [
+            "Jarzynski",
+            "The Jarzynski"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This quantity is equal to pressure times change in volume in gas expansion. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "639a46d925fac6a63b2b7fb2"
+    },
+    {
+      "id": "b1f996f8-4f8a-472d-b1ef-7d6da34dc8b8",
+      "linkedTossupId": "ce19dc95-3324-4278-b854-49253e8c48ab",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with larynx and vocal cords.",
+          "answer": "pharynx",
+          "acceptableAnswers": [
+            "pharynx"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the pharynx in the respiratory system?",
+          "answer": "Larynx and vocal cords",
+          "acceptableAnswers": [
+            "Larynx and vocal cords"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the respiratory system related to larynx and vocal cords.",
+          "answer": "larynx",
+          "acceptableAnswers": [
+            "larynx"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human respiratory system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c6977adf-f91f-4b28-aa4b-861722b9e87d",
+      "linkedTossupId": "dc4ca2b6-4acc-4330-bc1d-336bf46c7d4f",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this biological process that creates a new copy of a cell's genome, which occurs during the S-phase of interphase.",
+          "answer": "DNA replication",
+          "acceptableAnswers": [
+            "DNA replication",
+            "DNA synthesis",
+            "The DNA replication"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The number of times DNA replication can occur is limited by these repetitive sequences found on the ends of chromosomes. The shortening of these structures is responsible for aging.",
+          "answer": "telomeres",
+          "acceptableAnswers": [
+            "telomeres",
+            "The telomeres"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These cells notably do not have telomeres shortened, making them functionally immortal. These cells were first taken from the cancer cells of the African-American woman for which they were named.",
+          "answer": "HeLa",
+          "acceptableAnswers": [
+            "HeLa",
+            "Henrietta Lacks cells",
+            "The HeLa"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Meselson-Stahl experiment showed that this process is semiconservative, meaning each output of this process was half-new and half-old. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0023a69364e383bef6a98"
+    },
+    {
+      "id": "f17f96d4-cd4e-4596-b91e-0d157d259d23",
+      "linkedTossupId": "d0dea7d7-813b-4a9f-8deb-87fb6e98e314",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Many critics cite a novel about a raft trip down the Mississippi by this author from Hannibal, Missouri as the first Great American Novel.",
+          "answer": "Twain",
+          "acceptableAnswers": [
+            "Twain",
+            "Samuel Langhorn Clemens",
+            "The Twain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author introduced the abbreviation \"GAN\" for the Great American Novel. A park in Manhattan titles this author's novel about the heiress Catherine Sloper, who eventually rejects the gold-digging Morris Townsend.",
+          "answer": "H",
+          "acceptableAnswers": [
+            "H",
+            "James"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of the Civil War novel Miss Ravenel's Conversion from Secession to Loyalty coined the term \"Great American Novel\" in an essay for The Nation magazine.",
+          "answer": "De Forest",
+          "acceptableAnswers": [
+            "De Forest",
+            "The De Forest"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these authors who contributed to developing the notion of the \"Great American Novel\" in the 19th century:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae671"
+    },
+    {
+      "id": "ef29a78f-39fb-472a-95b0-0f080489a092",
+      "linkedTossupId": "564b43b8-0314-485c-861d-b9ad0065bbf2",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these edifices which can be closed to seal off the entrance to temples or other buildings. Examples of them allowed people to pass through the walls of Rome.",
+          "answer": "gate",
+          "acceptableAnswers": [
+            "gate",
+            "doors",
+            "other synonyms",
+            "The gate"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Romans believed that this two-faced deity was the God of Gates. The aforementioned gate in Rome was named for him.",
+          "answer": "Janus",
+          "acceptableAnswers": [
+            "Janus",
+            "The Janus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Gates to the Underworld, meanwhile, were said to be guarded by this three-headed dog.",
+          "answer": "Cerberus",
+          "acceptableAnswers": [
+            "Cerberus",
+            "Kerberos",
+            "The Cerberus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of these objects in Rome was closed during peacetime, and open during wartime. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae06e"
+    },
+    {
+      "id": "c419d673-ee67-48c3-9931-b9bfeade6fed",
+      "linkedTossupId": "28852cfd-6b08-4c32-9b0d-e2a2ab9e8f1a",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Egyptian god of the underworld who was chopped into 14 pieces that had to be recovered by Nephthys.",
+          "answer": "Osiris",
+          "acceptableAnswers": [
+            "Osiris",
+            "The Osiris"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Osiris' wife was this goddess of fertility who assembled the pieces of Osiris' body and discovered the secret name of Ra.",
+          "answer": "Isis",
+          "acceptableAnswers": [
+            "Isis",
+            "The Isis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Osiris' body had been chopped up by this brother of his and god of chaos. This god famously feuded with his newphew Horus, who tricked him into trying to sail a raft made of stone.",
+          "answer": "Seth",
+          "acceptableAnswers": [
+            "Seth",
+            "Set",
+            "Sutekh",
+            "Seteh",
+            "The Seth"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He is usually depicted holding a crook and flail. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f063b"
+    },
+    {
+      "id": "f9344b74-8ca8-4d10-b5f3-a7ee4e0d5187",
+      "linkedTossupId": "2fae72ff-02ab-4e36-91e9-12367f140195",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this city in the Midlands who replaced that maglev system with the AirRail Link, which also runs to the National Exhibition Centre.",
+          "answer": "Birmingham",
+          "acceptableAnswers": [
+            "Birmingham",
+            "The Birmingham"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A maglev train with a top speed of nearly 270 miles per hour links this massive city's airport to its Pudong district, which is also home to the Oriental Pearl Tower.",
+          "answer": "Shanghai",
+          "acceptableAnswers": [
+            "Shanghai",
+            "The Shanghai"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Expected to come in at a cost of around ten trillion yen, this maglev line will eventually link Tokyo with Nagoya and Osaka with trains running at up to 310 miles per hour.",
+          "answer": "Chūō",
+          "acceptableAnswers": [
+            "Chūō",
+            "shinkansen",
+            "bullet train",
+            "The Chūō"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The world's first commercial maglev system linked an airport and a railway station named for this English city. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6504ab689ee6e14c2d0e41b8"
+    },
+    {
+      "id": "633f13be-5e65-43a1-886b-ac6019ebf12b",
+      "linkedTossupId": "5813d142-f29f-4ac4-a8db-85fd13dbf430",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this fate. Sir Percy Blakeney leaves behind a drawing of a scarlet pimpernel when he saves people from being subjected to this manner of death.",
+          "answer": "guillotined",
+          "acceptableAnswers": [
+            "guillotined",
+            "things like being executed",
+            "killed in the French Revolution",
+            "The guillotined"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sydney Carton is guillotined in place of Charles Darnay at the end of the Charles Dickens novel set during the French Revolution.",
+          "answer": "Tale of Two Cities",
+          "acceptableAnswers": [
+            "Tale of Two Cities",
+            "The Tale of Two Cities"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In A Tale of Two Cities, Madame Defarge, who is responsible for having Charles Darnay arrested and guillotined, is herself killed by this character, who goes deaf for the rest of her life after firing a gun.",
+          "answer": "Pross",
+          "acceptableAnswers": [
+            "Pross",
+            "The Pross"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a novel by the Baroness Orczy, the family of the Comtesse de Tournay is saved from this fate by the title character. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f2c8e7e2ddc83d7b7537a3"
+    },
+    {
+      "id": "cc6e44ed-411d-455f-abed-05520304366b",
+      "linkedTossupId": "866c415a-d8f9-4e01-9b2e-b42622dcac25",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this author whose poem \"The Heathen Chinee\" was meant as a satire of anti-Chinese sentiment. In a story by this author, a two of clubs reveals the pine tree under which gambler John Oakhurst is buried.",
+          "answer": "Harte",
+          "acceptableAnswers": [
+            "Harte",
+            "Francis Brett Hart",
+            "The Harte"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Charlotte Perkins Gilman's girlfriend Adeline Knapp borrowed this four-word phrase from \"Heathen Chinee\" to title a racist short story. An anti-Chinese polemic by Ralph Townsend is also titled for this exoticizing four-word phrase.",
+          "answer": "ways that are dark",
+          "acceptableAnswers": [
+            "ways that are dark",
+            "“The Ways that are Dark”",
+            "accept Ways that are Dark: The Truth about China",
+            "prompt on The Truth about China by asking “that is a subtitle for a book with what title?”",
+            "The ways that are dark"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "To make money, Harte collaborated with this author on the stereotype-laden play Ah Sin. E.W. Kemble produced racist illustrations for \"The Heathen Chinee\" in the same year he illustrated this author's Huck Finn.",
+          "answer": "Twain",
+          "acceptableAnswers": [
+            "Twain",
+            "Samuel Langhorne Clemens",
+            "The Twain"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A poem by this author in which the Chinese immigrant Ah Sin and the Irish laborer Bill Nye cheat each other at a game of euchre (\"YOO-kur\") was frequently misappropriated to perpetuate Yellow Peril rhetoric. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "639a46d925fac6a63b2b7f07"
+    },
+    {
+      "id": "fbcd2c8e-9b06-4253-b1ae-ce3b2ee4ce27",
+      "linkedTossupId": "18741638-4cd7-43d3-8374-7b997c4a6fa0",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with neuron structure.",
+          "answer": "axon",
+          "acceptableAnswers": [
+            "axon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the axon in the nervous system?",
+          "answer": "Neuron structure",
+          "acceptableAnswers": [
+            "Neuron structure"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to neuron structure.",
+          "answer": "dendrite",
+          "acceptableAnswers": [
+            "dendrite"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "47420340-292d-4f37-a87f-9d323df4e551",
+      "linkedTossupId": "10aa0f54-a50b-4fb6-90f4-2630368104a2",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this largest lake in Central America.",
+          "answer": "Nicaragua",
+          "acceptableAnswers": [
+            "Nicaragua",
+            "The Nicaragua"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Old plans for a Nicaragua Canal incorporated this river, which links Lake Nicaragua to the Caribbean Sea and forms a significant part of the border between Nicaragua and Costa Rica.",
+          "answer": "San Juan",
+          "acceptableAnswers": [
+            "San Juan",
+            "The San Juan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The volcanoes of Maderas and Concepción are located on this largest island of Lake Nicaragua.",
+          "answer": "Ometepe",
+          "acceptableAnswers": [
+            "Ometepe",
+            "The Ometepe"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In December 2014, construction began on a canal linking this lake to both the Atlantic and Pacific Oceans to compete with the Panama Canal. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edba2365d377e2cebbd1e3"
+    },
+    {
+      "id": "454bdab6-a6ed-490b-9af1-361ca8e8e749",
+      "linkedTossupId": "336fa12a-77b0-411f-a9fd-b7e659858f89",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this thinker who argued that culture is \"personality writ large\" in Patterns of Culture.",
+          "answer": "Benedict",
+          "acceptableAnswers": [
+            "Benedict",
+            "Ruth Fulton Benedict",
+            "The Benedict"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other book by Ruth Benedict studied Japanese culture during World War II. It is titled for two symbols of the Emperor and contrasts \"shame\" and \"guilt\" cultures.",
+          "answer": "Chrysanthemum and the Sword",
+          "acceptableAnswers": [
+            "Chrysanthemum and the Sword",
+            "The Chrysanthemum and the Sword"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Benedict was a practitioner of this academic discipline, the study of human behavior and society. Benedict studied at Columbia University under Franz Boas, who is considered the father of this discipline.",
+          "answer": "anthropology",
+          "acceptableAnswers": [
+            "anthropology",
+            "The anthropology"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one work, this thinker argued that the title things are \"like an individual, a more or less consistent pattern of thought and action.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63167de399ac1f87e75a5497"
+    },
+    {
+      "id": "4e242a59-237c-47c4-b850-c44f43f19623",
+      "linkedTossupId": "84ed7fe6-9f40-4068-bfba-5f65904616b3",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Give this person who titles a poem that depicts Ennui as a \"refined monster\" that smokes a hookah pipe. That poem ends by calling this person a \"- Hypocrite ... - my fellow, - my brother!\"",
+          "answer": "reader",
+          "acceptableAnswers": [
+            "reader",
+            "“To the Reader”",
+            "“Au Lecteur”",
+            "The reader"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"To the Reader\" is the first poem of this decadent collection by Charles Baudelaire, which includes sections titled \"Spleen and Ideal\" and \"Parisian Scenes.\"",
+          "answer": "Fleurs du mal",
+          "acceptableAnswers": [
+            "Fleurs du mal",
+            "The Flowers of Evil",
+            "The Fleurs du mal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"To the Reader\" appears after a dedication of \"unhealthy flowers\" to this \"impeccable poet\" and \"perfect magician of French letters.\" This author of the novel Mademoiselle de Maupin coined the term \"art for art's sake.\"",
+          "answer": "Gautier",
+          "acceptableAnswers": [
+            "Gautier",
+            "Pierre Jules Théophile Gautier",
+            "The Gautier"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This person is told, \"Our sins are obstinate, our repentance is faint\" in a poem that begins, \"Folly, error, sin, avarice / Occupy our minds and labor our bodies.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6884695f641a9dc975af8330"
+    }
+  ]
+}

@@ -1,0 +1,1130 @@
+{
+  "packetId": "packet-119",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Literature",
+    "Mythology",
+    "Science",
+    "History",
+    "Geography",
+    "Human Body",
+    "Philosophy",
+    "Fine Arts"
+  ],
+  "tossups": [
+    {
+      "id": "749f16d5-3e94-4213-9ccc-ecb383368855",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "text": "This author describes beauty as \"boring\" and \"finite\" in his essay On Ugliness, and he later developed the field of interpretive semiotics. A novel by this author features printing press employees who are obsessed with \"The Plan,\" and partially revolves around the search for the treasure of the Knights Templar. Another novel by this author follows Adso of Melk and William of Baskerville as they try to solve a murder mystery. For 10 points, name this Italian author of Foucault's Pendulum and The Name of the Rose.",
+      "powerMarkPosition": 295,
+      "answer": "Eco",
+      "acceptableAnswers": [
+        "Eco",
+        "The Eco"
+      ],
+      "source": "qbreader",
+      "sourceId": "62edc1ba974521c293e49830"
+    },
+    {
+      "id": "4899a16f-126f-4af8-afad-c4288fcbe9b3",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "Through a series of exchanges, this figure is able to procure one hundred slaves for a single ear of corn, and he asks every bird for a feather in order to make a robe. By making it appear to be raining, this figure is able to trap a number of hornets for the sky god Nyame, which he exchanges along with a python, a leopard, and a dwarf for all the world's stories. This figure was defeated by tar baby, and he stored all of the world's wisdom in a calabash. For 10 points, name this West African trickster god who takes the form of a spider.",
+      "powerMarkPosition": 366,
+      "answer": "Anansi",
+      "acceptableAnswers": [
+        "Anansi",
+        "The Anansi"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe78e"
+    },
+    {
+      "id": "344e0a30-aea6-45a0-93a7-08a35b124795",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "The Alinda and Griqua (\"GREE-kwa\") groups of these objects are found within the Kirkwood Gaps. The Atens, Amors, and Apollos are three groups of these objects whose orbits come near the Earth. The first of these objects was discovered at a point that filled a gap in Bode's Law. For 10 points, name these objects that include Ceres and Vesta, which are most prominently found in a \"belt\" between Mars and Jupiter.",
+      "powerMarkPosition": 192,
+      "answer": "asteroid",
+      "acceptableAnswers": [
+        "asteroid",
+        "The asteroid"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec669a"
+    },
+    {
+      "id": "503934cf-14b8-42ae-8279-352687a3fbed",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "text": "Before a battle, one leader of this group attempted to find a red haired person to sacrifice, but had to settle for a red horse. A statue of a lion was built over a spot where many members of this group are believed to have been killed by an army wielding Sarissa pikes. Initially known as the city regiment, Pelopidas led this group that was formed by Gorgidas. This group was unusually put on the left side of an army during a battle in which Cleombrotus's army was destroyed by Epaminondas. That was the Battle of Leuctra. For 10 points, name this group of Theban warriors, a force of 300 soldiers who supposedly were lovers as well as fighters.",
+      "powerMarkPosition": 270,
+      "answer": "Sacred Band",
+      "acceptableAnswers": [
+        "Sacred Band",
+        "City Regiment before mentioned",
+        "prompt on Army of Thebes",
+        "prompt on Theban Army",
+        "The Sacred Band"
+      ],
+      "source": "qbreader",
+      "sourceId": "63002656ea186ec68c3bd6ed"
+    },
+    {
+      "id": "79835d43-0d3a-41f5-b2d2-0128b8020eac",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Fletcher Penney created a \"Multi\" extension of this format compatible with LaTeX (\"LAY-tech\"). The most popular implementation of this format is only on version 0.30 despite being worked on for over 8 years, due to unresolved decisions like the formatting of atx headers. That implementation's spec was written by Berkeley philosopher John MacFarlane. In 2014, StackOverflow founder Jeff Atwood announced a standardization effort for this format called \"Standard [this format]\", though that name was changed to \"Common [this format]\" after objections from its co-creator John Gruber. Reddit uses an extension of this format that supports things like spoilertext, while GitHub has its own \"GitHub Flavored\" version that implements strikethroughs with pairs of tildes. For 10 points, name this text format commonly used for blogging and code documentation, such as in GitHub's README.md (\"read me dot m-d\") files.",
+      "powerMarkPosition": 570,
+      "answer": "Markdown",
+      "acceptableAnswers": [
+        "Markdown",
+        "any answer that includes the word Markdown",
+        "accept CommonMark",
+        "The Markdown"
+      ],
+      "source": "qbreader",
+      "sourceId": "657fd7d8de6df0163bbe3b77"
+    },
+    {
+      "id": "9eeb5c41-a2a4-4b7a-8fec-bfa60aef8514",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "A rock balancing on a boulder in this body of water is named Bismarck rock. The natural outlet of this body of water, the Ripon Falls, was flooded after the construction of the Owen Falls Dam. An invasive species of perch has caused the extinction of many of this body's native cichlids. Richard Burton fell out with John Hanning Speke due to a claim by the latter about this lake. Cities on this lake include Kampala, the capital of Uganda. Henry Morton Stanley confirmed Speke's claim that this lake is the source of the White Nile. For 10 points, name this largest African lake by area, which is named after a British queen.",
+      "powerMarkPosition": 270,
+      "answer": "Victoria",
+      "acceptableAnswers": [
+        "Victoria",
+        "The Victoria"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec2b2977063e8d403f07c6"
+    },
+    {
+      "id": "a6c12666-566f-45dd-830e-5eee7fa5e5b2",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "One poet with this first name describes looking over a scrapbook belonging to her parents and concludes, \"Whether you are pretty or not, I outlive you, bend down my strange face to yours and forgive you.\" \"Why inhabit, make, inherit poetry?\" is asked by a poet with this first name who wrote elegies to Plath and Bishop, with last name Stevenson. A poet with this first name refers to the self as \"flesh of thy flesh, bone of thy bone\" in one work and claims to have \"stretched thy joints to make thee even feet\" while addressing a \"rambling brat.\" A poet with this first name penned The Awful Rowing Toward God and To Bedlam and Part Way Back for therapy, while another wrote \"The Author to Her Book,\" referring to her collection The Tenth Muse, Lately Sprung Up In America. For 10 points, name this first name of the Confessional poet Sexton and the Puritan poet Bradstreet.",
+      "powerMarkPosition": 541,
+      "answer": "Anne",
+      "acceptableAnswers": [
+        "Anne",
+        "The Anne"
+      ],
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db45f24"
+    },
+    {
+      "id": "31bea3dc-c24c-4821-9961-9a79078e8b53",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "A vizier of this group continued the tradition of writing texts called \"Mirrors for Princes\" with his Siyasatnama, or Book of Government; that servant of this group, Nizam al-Mulk, was one of the first victims of the Assassins. This group splintered after the death of Malik Shah, and the dominant faction of them that emerged was the Sultanate of Rum. This group captured the Aklat Fort, and thus Romanus IV, during their greatest military victory. These peoples defeated the Byzantines at Myriophalum, after which their leader, Kilij Arslan II, allied with Saladin. For 10 points, name this dynasty of Sunni Turks, one of whom, Alp Arslan, won the battle of Manzikert.",
+      "powerMarkPosition": 227,
+      "answer": "Seljuk",
+      "acceptableAnswers": [
+        "Seljuk",
+        "Seljuk Turks",
+        "prompt on Turks",
+        "The Seljuk"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841b18"
+    },
+    {
+      "id": "57171501-00ce-4182-8ab0-542aa475c81d",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "The Holy Roman Emperor of this name and number was the last of the Salian line and came to an agreement on lay investiture with Pope Calixtus iI at the Concordat of Worms. Another king of this name and number successfully broke the alliance between France and the Holy Roman Empire, crushed the French's Genoese allies, married Catherine, the princess of France, and was, by the Treaty of Troyes, recognized as regent of France. For 10 points, name this English king, who in 1415 led archers through the mud to win the battle of Agincourt.",
+      "powerMarkPosition": 171,
+      "answer": "Henry V",
+      "acceptableAnswers": [
+        "Henry V",
+        "The Henry V"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa5913201368"
+    },
+    {
+      "id": "cdca4933-f7ec-4688-930f-4cecbd843d24",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for phagocytes and macrophages. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this phagocyte-related structure.",
+      "powerMarkPosition": 80,
+      "answer": "Phagocyte",
+      "acceptableAnswers": [
+        "phagocyte",
+        "Phagocyte"
+      ],
+      "explanation": "The phagocyte is a key component of the Immune system, involved in phagocytes and macrophages.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "7294975d-f688-4a97-8d02-5a5055bd4a14",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "text": "This thinker noted the inefficacy of declarations of human rights that are not incorporated into positive law in On Revolution. This philosopher described how the Western philosophical tradition has subordinated the life of action and appearance to that of contemplation in The Human Condition. However, this thinker is better known for a work about a figure defined by stock phrases and clichés who is brought to the House of Justice. This author also wrote another work about a governmental system promoted by the superfluous masses which analyzed the rise of Nazi Germany and the Soviet Union. For 10 points, name this German Jewish author of a work on the \"banality of evil,\" Eichmann in Jerusalem, as well as On the Origins of Totalitarianism",
+      "powerMarkPosition": 294,
+      "answer": "Arendt",
+      "acceptableAnswers": [
+        "Arendt",
+        "The Arendt"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df83920c3a38102cd759d9"
+    },
+    {
+      "id": "f05c2181-b5ae-4320-b2d5-7c34c1a44d20",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "His supporters chanted \"He killed my ma. He killed my pa. I will vote for him\" during his rise to power following the civil war against Charles Doe. His reign was supported by Pat Robertson, and he is accused of funding al-Qaeda and Hezbollah with diamond profits. For 10 points, name this man whose four-year exile in Nigeria was ended by his International Criminal Court trial in 2007, which charged him with committing war crimes in Sierra Leone during his six years as dictator of Liberia.",
+      "powerMarkPosition": 148,
+      "answer": "Taylor",
+      "acceptableAnswers": [
+        "Taylor",
+        "The Taylor"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9841085"
+    },
+    {
+      "id": "9c807a9a-2137-4b60-9e94-2ba25acc0024",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "In this organism, the sd locus induces sperm dysfunction in sperm that lack a specific allele of sd, resulting in non-Mendelian inheritance. The Sex lethal gene, which was discovered in this organism, controls its sex-determination by regulating the alternative splicing of transformer. In hybrid dysgenesis, crossing a male of this organism that possesses a P element with a female that lacks a P element produces offspring with an increased mutation rate. Mutations in the white gene of this organism causes it to have white-colored eyes, which was one of the first X-linked traits to be discovered. Thomas Hunt Morgan studied this organism in a namesake \"room\" at Columbia University. For 10 points, name this common model organism, a small flying insect. r]",
+      "powerMarkPosition": 358,
+      "answer": "fruit fly",
+      "acceptableAnswers": [
+        "fruit fly",
+        "Drosophila melanogaster",
+        "D. melanogaster",
+        "The fruit fly"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f32c8153c44a298923c1a7"
+    },
+    {
+      "id": "bd8a7bb6-00c5-4f6d-a3a3-cb8b98d1e59d",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "text": "An estimator of this function, which is applied to the partition function to derive the Maxwell-Boltzmann equation, is used on large numbers and is called Stirling's approximation. The gamma function extends this function for complex numbers. In the general formula for a Taylor series, this function appears in the denominator. This function of n gives the number of permutations for n distinct objects. For 10 points, name this function that gives the product of a number and all lesser positive integers, and is represented by an exclamation point.",
+      "powerMarkPosition": 271,
+      "answer": "factorial",
+      "acceptableAnswers": [
+        "factorial",
+        "The factorial"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d81df703b5396be4759230"
+    },
+    {
+      "id": "b7781a41-6f0c-47cf-9e12-a60b0bba4baf",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "One character realizes this character's true identity when he claims that he has unexpectedly been called to the North on business at five o'clock in the morning. This character rescues Juliette Marny and Paul Déroulède in a sequel called I Will Repay, and other sequels to the first novel in which he appears include Eldorado and one in which he \"leads the band.\" He becomes estranged from his wife because she denounces the Marquis de St. Cyr, but in the end he is reconciled with that wife, Marguerite St. Just. This character's followers include Antony Dewhurst and Andrew Ffoulkes. His real name is Sir Percy Blakeney, he is pursued by Chauvelin, and his symbol is a red flower. For 10 points, name this creation of Baroness Orczy, a mysterious hero who saves aristocrats from the guillotine during the French Revolution.",
+      "powerMarkPosition": 440,
+      "answer": "Scarlet Pimpernel",
+      "acceptableAnswers": [
+        "Scarlet Pimpernel",
+        "Sir Percy Blakeney early",
+        "The Scarlet Pimpernel"
+      ],
+      "source": "qbreader",
+      "sourceId": "630adb572eacc381ae57fe9a"
+    },
+    {
+      "id": "0dae47d2-c473-4d7b-8c83-e1ec8b342c60",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "The strength of these agents is characterized by a value that is inversely proportional to lipid solubility by the Meyer-Overton hypothesis; that value is the MAC. Mutations in RYR1 predispose people to a side effect of these drugs that is reversed by dantrolene; that side effect of these drugs is malignant hyperthermia. Tinnitus and oral numbness are early signs of toxicity from one of these agents which also acts as a class-Ib antiarrhythmic by blocking sodium channels. Desflurane and sevoflurane are common inhaled drugs of this type. Lidocaine is a commonly used \"local\" one that can also be injected epidurally during childbirth. For 10 points, name these drugs, such as ether, that cause insensitivity to pain.",
+      "powerMarkPosition": 514,
+      "answer": "anesthetic",
+      "acceptableAnswers": [
+        "anesthetic",
+        "local anesthetic",
+        "inhaled anesthetic",
+        "general anesthetic",
+        "The anesthetic"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a7f83"
+    },
+    {
+      "id": "c26d98c5-f2ac-46dc-b594-5fb9c2619749",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "In 2016, Maureen Freeley published her translation of a novel written in this language, about the friendship between a man studying soap manufacturing and a feminist artist, with the title Madonna in a Fur Coat. It's not Russian, but the best known of the mid-twentieth century \"village novels\" written in this language ends with the title outlaw audaciously riding up to the house of his tyrannical goat-bearded landlord and shooting him dead. In a novel written in this language, the protagonist collects thousands of cigarette butts discarded by his lover, whom he had met when she sold him a counterfeit handbag, as objects to be exhibited in the title location. That author who wrote in this language described a massacre at a theater that erupts into a coup d'etat in the town of Kars, where the poet Ka investigates a spate of suicides among headscarf-wearing girls. For 10 points, name this language used to write the novels Memed, My Hawk and Snow, by the authors Yasar Kemal and Orhan Pamuk.",
+      "powerMarkPosition": 584,
+      "answer": "Turkish",
+      "acceptableAnswers": [
+        "Turkish",
+        "Türkçe",
+        "The Turkish"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0deaa"
+    },
+    {
+      "id": "f31f78a2-e676-4a91-8889-4a31a8fcc689",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "A 2012 exhibition held by La Maison Rouge featuring works of art using neon lights was given a title referring to this series. Robert Irwin set up six enormous reflective aluminum panels in an installation work referencing this series. A painting in this series was controversially re-varnished during a (+) restoration attempt despite it not originally being varnished. Due to his inability to locate a painting in this series, a man instead vandalised the painting Cathedra in a similar fashion to his slashing of a painting in this series nine years earlier. Student Josef Kleer described a painting in this series as a \"perversion of the German flag,\" and notably also attacked that painting in this series in 1982. Paintings in this series consist only of its three title colors, and the last painting in this series divides the middle of the canvas with a thick \"zip\". For 10 points, identify this series of four color field paintings whose title evokes an Edward Albee play, created by Barnett Newman.",
+      "powerMarkPosition": 634,
+      "answer": "Who’s Afraid of Red, Yellow, and Blue?",
+      "acceptableAnswers": [
+        "Who’s Afraid of Red, Yellow, and Blue?",
+        "The Who’s Afraid of Red, Yellow, and Blue?"
+      ],
+      "source": "qbreader",
+      "sourceId": "633c0b2665a3d8043ff7e226"
+    },
+    {
+      "id": "b1a2d118-d118-46da-b66f-8b5112d0c957",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for action potentials. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this axon-related structure.",
+      "powerMarkPosition": 68,
+      "answer": "Axon",
+      "acceptableAnswers": [
+        "axon",
+        "Axon"
+      ],
+      "explanation": "The axon is a key component of the Nervous system, involved in action potentials.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "595339dd-037e-43cd-9e71-143ca0e47ae6",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "The ancient capital of this country is bisected by the Perfume River, which has its source in the Annamite Range. The Lake of the Returned Sword, or Hoan Kiem, is found in the capital of this country. The Can Tho Bridge crosses the Bassac River in this country, which is home to the Tay and Kinh ethnic groups. The world's largest cave, the Son Doong, is found in this country, which also contains the UNESCO Word Heritage sites of Ha Long Bay and the city of Hue. The Red River flows through the capital of this country, whose far south contains the Mekong Delta. For 10 points, name this Southeast Asian country that contains Ho Chi Minh City and Hanoi.",
+      "powerMarkPosition": 310,
+      "answer": "Vietnam",
+      "acceptableAnswers": [
+        "Vietnam",
+        "Cong hoa Xa hoi chu nghia Viet Nam. Accept SRV.",
+        "The Vietnam"
+      ],
+      "source": "qbreader",
+      "sourceId": "62edb4fedff988263841bac3"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "dc166a1e-827e-49ff-9ea1-c783cd9f8996",
+      "linkedTossupId": "749f16d5-3e94-4213-9ccc-ecb383368855",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this supposed cannibal, whose coffin ends up saving the life of the narrator in a book that this character appears in.",
+          "answer": "Queequeg",
+          "acceptableAnswers": [
+            "Queequeg",
+            "The Queequeg"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "That narrator opens the book by asking the reader to \"Call me\" this name. He joins the crew of the Pequod, which includes Queequeg, the boat's harpooner",
+          "answer": "Ishmael",
+          "acceptableAnswers": [
+            "Ishmael",
+            "The Ishmael"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Queequeg and Ishmael appear in this Herman Melville novel, in which Captain Ahab hunts the title white whale.",
+          "answer": "Moby-Dick",
+          "acceptableAnswers": [
+            "Moby-Dick",
+            "The Moby-Dick"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character is a Kokovokan native who builds fires for his idol Yojo. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f745d63ec41269ea9912bb"
+    },
+    {
+      "id": "45702ba1-e341-4044-88c4-9a4e2294f754",
+      "linkedTossupId": "4899a16f-126f-4af8-afad-c4288fcbe9b3",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this third play in Aeschylus's Oresteia trilogy.",
+          "answer": "Eumenides",
+          "acceptableAnswers": [
+            "Eumenides",
+            "The Eumenides"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This mother of Orestes was murdered after she killed her husband Agamemnon and had an affair with Aegisthus. Her ghost rouses the Eumenides at the opening of the play.",
+          "answer": "Clytemnestra",
+          "acceptableAnswers": [
+            "Clytemnestra",
+            "The Clytemnestra"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This goddess, the daughter of Zeus, casts the deciding vote to acquit Orestes. Her symbol is the owl, and she was a virginal goddess of wisdom.",
+          "answer": "Athena",
+          "acceptableAnswers": [
+            "Athena",
+            "The Athena"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This play's chorus is made up of the title figures, who hunt Orestes for murdering his mother. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f745d63ec41269ea9913d1"
+    },
+    {
+      "id": "ad5dd5df-56b2-4c25-b69b-46ad7c0108cb",
+      "linkedTossupId": "344e0a30-aea6-45a0-93a7-08a35b124795",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these organisms, which can cause diseases in humans such as the common cold and influenza.",
+          "answer": "virus",
+          "acceptableAnswers": [
+            "virus",
+            "The virus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Viruses that infect bacteria are known by this term.",
+          "answer": "phage",
+          "acceptableAnswers": [
+            "phage",
+            "The phage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The life cycle of a virus can either be lytic, in which it replicates immediately, or this type, where it stays hidden in the host cell's genome until activated.",
+          "answer": "lysogenic",
+          "acceptableAnswers": [
+            "lysogenic",
+            "The lysogenic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These organisms consist of RNA or DNA surrounded by a capsid. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0a72"
+    },
+    {
+      "id": "816413bf-ce80-4550-bd34-ad7659f56fb6",
+      "linkedTossupId": "503934cf-14b8-42ae-8279-352687a3fbed",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this only monarch of the Thonburi Kingdom.",
+          "answer": "Taksin",
+          "acceptableAnswers": [
+            "Taksin",
+            "The Taksin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Taksin was eventually killed by forces of the Rattanakosin kingdom under this dynasty. All of this dynasty's rulers have used the regnal name Rama.",
+          "answer": "Chakri",
+          "acceptableAnswers": [
+            "Chakri",
+            "The Chakri"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Rattanakosin Kingdom was the first to rule Siam from this current capital of Thailand.",
+          "answer": "Bangkok",
+          "acceptableAnswers": [
+            "Bangkok",
+            "The Bangkok"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After the collapse of the Ayutthaya Kingdom, this king overthrew the temporary rule of the Burmese Konbaung dynasty over Siam. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490bdca"
+    },
+    {
+      "id": "a46ffe71-060d-44fd-9694-cffdcf5e0e05",
+      "linkedTossupId": "79835d43-0d3a-41f5-b2d2-0128b8020eac",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the chief inhibitory neurotransmitter in the body.",
+          "answer": "GABA",
+          "acceptableAnswers": [
+            "GABA",
+            "The GABA"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The axons of these cells found in the middle cortical layer of the cerebellum release GABA. They are innervated by climbing fibers.",
+          "answer": "Purkinje",
+          "acceptableAnswers": [
+            "Purkinje",
+            "The Purkinje"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These cell that receive input from bipolar cells act on the ganglion cells. Their cell bodies are in the inner nuclear layer and GABA is one of several different neurotransmitters that the many subtypes of this cell type can use.",
+          "answer": "amacrine",
+          "acceptableAnswers": [
+            "amacrine",
+            "The amacrine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This molecule's receptor helps regulate chloride concentrations. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e712a"
+    },
+    {
+      "id": "6bd18bc2-3751-4981-934f-b99ae3b248c5",
+      "linkedTossupId": "9eeb5c41-a2a4-4b7a-8fec-bfa60aef8514",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this river that flows south from a source just south of the New Hampshire-Canada border through the \"Knowledge Corridor\" around Springfield. It is the longest river in New England.",
+          "answer": "Connecticut",
+          "acceptableAnswers": [
+            "Connecticut",
+            "The Connecticut"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Just upstream of the Connecticut's mouth is a 19th-century company town named for this resource, which was made into pool balls and piano keys. Overharvesting of this resource depleted African Elephant populations.",
+          "answer": "ivory",
+          "acceptableAnswers": [
+            "ivory",
+            "The ivory"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The lack of major cities at the mouth of the Connecticut is due to the presence of these features from upriver sediment that impede navigation. These features are shifting, submerged ridges of deposited sediment.",
+          "answer": "shoal",
+          "acceptableAnswers": [
+            "shoal",
+            "bars",
+            "accept sandbars",
+            "sandbanks",
+            "accept harbor",
+            "river bars",
+            "The shoal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This river is the only major river in New England with no major port at its mouth, which lies between Old Saybrook and Old Lyme. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6765cbd66221936d6388534a"
+    },
+    {
+      "id": "d54d6ceb-80d8-462a-a48d-dd188fd1f448",
+      "linkedTossupId": "a6c12666-566f-45dd-830e-5eee7fa5e5b2",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this genre of theater that includes Javanese wayang, which is narrated by a dalang and often accompanied by gamelan music.",
+          "answer": "puppet",
+          "acceptableAnswers": [
+            "puppet",
+            "shadow theater",
+            "puppet shows",
+            "The puppet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This recurring panakawan, though typically depicted as a servant of the protagonist, is considered the dhanyang or guardian spirit of Java and the most sacred wayang figure. This figure typically has a large potbelly and a black-and-white checkered sarong.",
+          "answer": "Semar",
+          "acceptableAnswers": [
+            "Semar",
+            "The Semar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Semar humorously informs Bisma about Sangkuni's weakness in a wayang adaptation of this Hindu epic, in which the Pandava brothers fight the Kauravas.",
+          "answer": "Mahabharata",
+          "acceptableAnswers": [
+            "Mahabharata",
+            "The Mahabharata"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Clowns in this genre called panakawan have adapted to the 21st century by incorporating anachronistic jokes about cars and cellphones into their performances. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65ba878eca6edbbc92a5d4ee"
+    },
+    {
+      "id": "6bf488ed-7075-49a7-bae0-dd3e873be482",
+      "linkedTossupId": "31bea3dc-c24c-4821-9961-9a79078e8b53",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this empire, which was ruled at one time by Bindusara. It was succeeded by the Sunga dynasty.",
+          "answer": "Maurya",
+          "acceptableAnswers": [
+            "Maurya",
+            "The Maurya"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Mauryan empire was later ruled by this man, who delivered the Rock Edicts and converted both himself and the empire to Buddhism after witnessing the atrocities committed during his conquest of Kalinga.",
+          "answer": "Ashoka",
+          "acceptableAnswers": [
+            "Ashoka",
+            "Asoka",
+            "The Ashoka"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Mauryan empire's territory was largely in this modern day country. The Mughal empire ruled much of what is now this country, before it was taken over by the British Raj.",
+          "answer": "India",
+          "acceptableAnswers": [
+            "India",
+            "The India"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This empire's second ruler was named after a blue dot on his forehead. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f745d63ec41269ea9911dd"
+    },
+    {
+      "id": "7bc7ec1e-d7e9-4160-97a8-351251fe9a7e",
+      "linkedTossupId": "57171501-00ce-4182-8ab0-542aa475c81d",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this site, the site of the Great Bath and potentially the earliest evidence of indoor plumbing. Unlike Harappa to the northeast, this site does not have city walls.",
+          "answer": "Mohenjo-Daro",
+          "acceptableAnswers": [
+            "Mohenjo-Daro",
+            "The Mohenjo-Daro"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mohenjo-Daro and Harappa were centers of a civilization on this river, the earliest civilization in South Asia.",
+          "answer": "Indus",
+          "acceptableAnswers": [
+            "Indus",
+            "The Indus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The earliest remains of a dock in history were found at this site in modern-day Gujarat, at the south end of the Indus Valley Civilization's influence. Seals at this site from the Persian Gulf suggest it was a key trade center.",
+          "answer": "Lothal",
+          "acceptableAnswers": [
+            "Lothal",
+            "The Lothal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Dancing Girl sculpture and the Pashupati seal, which may depict a man with an erect penis or a horned deity, were both found at this site. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed60f81539231f571ee339"
+    },
+    {
+      "id": "109a4778-06c8-4d10-aa7f-a80fff85d44a",
+      "linkedTossupId": "cdca4933-f7ec-4688-930f-4cecbd843d24",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with intestinal enzymes.",
+          "answer": "duodenum",
+          "acceptableAnswers": [
+            "duodenum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the duodenum in the digestive system?",
+          "answer": "Intestinal enzymes",
+          "acceptableAnswers": [
+            "Intestinal enzymes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to intestinal enzymes.",
+          "answer": "jejunum",
+          "acceptableAnswers": [
+            "jejunum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9c840d2a-af9a-47a9-8010-7c7c419868aa",
+      "linkedTossupId": "7294975d-f688-4a97-8d02-5a5055bd4a14",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this general group of observances that also includes the coming-of-age day Seijin-no-hi and the new year, Oshogatsu.",
+          "answer": "Shinto festival",
+          "acceptableAnswers": [
+            "Shinto festival",
+            "Matsuri",
+            "Shinto holidays",
+            "etc.",
+            "The Shinto festival"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Each Shinto festival is divided into three parts, the \"welcoming,\" the \"procession,\" and this final part, which shares its name and procedure with a funeral service or the prayer said over a broken object.",
+          "answer": "sending the kami back",
+          "acceptableAnswers": [
+            "sending the kami back",
+            "equivalents",
+            "Kami-Okuri",
+            "The sending the kami back"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Dosojin festival is held in honor of this phenomenon, which was venerated at the three great sites of Farnbag, Gushnasp, and Burzen-Mihr in another religion.",
+          "answer": "fire",
+          "acceptableAnswers": [
+            "fire",
+            "The fire"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These events include Hina-matsuri, in which family heirloom dolls are dressed up, and Nagoshi-no-oharai, in which farmworkers purify themselves by walking through a circle of rope. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f331699980c350cba738f7"
+    },
+    {
+      "id": "02f18fdc-93a8-4fc0-adca-f6824400a34e",
+      "linkedTossupId": "f05c2181-b5ae-4320-b2d5-7c34c1a44d20",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this 1857 rebellion against a certain British trade company, which began in Meerut soon after the death of Mangal Pandey.",
+          "answer": "Sepoy",
+          "acceptableAnswers": [
+            "Sepoy",
+            "The Sepoy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Sepoy Rebellion occurred in this country, where battles occurred at Cawnpore, Jhansi, and Delhi.",
+          "answer": "India",
+          "acceptableAnswers": [
+            "India",
+            "The India"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A siege in this city's Residency area started in the beginning of the Sepoy Rebellion. British leaders killed in this city include Henry Havelock and Henry Lawrence, and refugees in this city were taken to Dilkusha Park.",
+          "answer": "Lucknow",
+          "acceptableAnswers": [
+            "Lucknow",
+            "The Lucknow"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of its causes was the distribution of Enfield rifle cartridges that were greased with pig and beef fat. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a64b"
+    },
+    {
+      "id": "073d0fe7-d8f8-4e1d-bc21-26ab19d9b7ea",
+      "linkedTossupId": "9c807a9a-2137-4b60-9e94-2ba25acc0024",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This is the only post-condition loop featured in C/C++/Java, meaning that the body of the loop is always executed at least once before the terminating condition is checked.",
+          "answer": "Do",
+          "acceptableAnswers": [
+            "Do"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These are data structures that obey the First-In-First-Out rule that can be used to represent a list of commands to be executed in the order that they are added to the structure.",
+          "answer": "queue",
+          "acceptableAnswers": [
+            "queue",
+            "The queue"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Some esoteric languages, like Brainf*ck, feature only this datatype. In C and C++, though, they are used to store memory locations, and the asterisk is used to determine the contents of said locations.",
+          "answer": "pointers",
+          "acceptableAnswers": [
+            "pointers",
+            "The pointers"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these computer science constructs, For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bca72e7fe60f397fb4a78e"
+    },
+    {
+      "id": "cbc7d28e-7676-4269-bc45-057e17b95847",
+      "linkedTossupId": "bd8a7bb6-00c5-4f6d-a3a3-cb8b98d1e59d",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this theory that states that organisms evolve in short, rapid bursts.",
+          "answer": "punctuated equilibrium",
+          "acceptableAnswers": [
+            "punctuated equilibrium",
+            "The punctuated equilibrium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Punctuated equilibrium is in part an extension of this form of speciation, similar to peripatric speciation, which occurs when two populations of a species are physically separated by some sort of geographical barrier.",
+          "answer": "allopatric",
+          "acceptableAnswers": [
+            "allopatric",
+            "The allopatric"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The processes of allopatric and peripatric speciation were developed by this American biologist, whose 1942 Systematics and the Origin of Species defined a species as a group that can only interbreed with one another.",
+          "answer": "Mayr",
+          "acceptableAnswers": [
+            "Mayr",
+            "The Mayr"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "According to this theory, organisms spend most of their time in a non-volatile state called the stasis. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bff01b"
+    },
+    {
+      "id": "d572af76-5ccc-43bc-8858-9a3909139160",
+      "linkedTossupId": "b7781a41-6f0c-47cf-9e12-a60b0bba4baf",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this play in which that character, while walking with his friend Buntu, finds Robert Zwelinzima in the street and decides to steal his identity.",
+          "answer": "Sizwe Banzi Is Dead",
+          "acceptableAnswers": [
+            "Sizwe Banzi Is Dead",
+            "The Sizwe Banzi Is Dead"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This South African playwright collaborated with John Kani and Winston Ntshona on Sizwe Banzi Is Dead. He also wrote The Blood Knot.",
+          "answer": "Fugard",
+          "acceptableAnswers": [
+            "Fugard",
+            "The Fugard"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Blood Knot, this brother of Zachariah can pass for white and spends his and his brother's money getting dressed as a gentleman to meet Ethel Lange.",
+          "answer": "Morris",
+          "acceptableAnswers": [
+            "Morris",
+            "Morrie",
+            "The Morris"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this work, the title character gets arrested after moving to New Brighton. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae7e1f"
+    },
+    {
+      "id": "577ba746-f4a8-48bf-b205-5d6d9f0a92f6",
+      "linkedTossupId": "0dae47d2-c473-4d7b-8c83-e1ec8b342c60",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "The constant symbolized c is the speed of light in this medium which is space which is free of all matter.",
+          "answer": "vacuum",
+          "acceptableAnswers": [
+            "vacuum",
+            "“free space”",
+            "equivalents",
+            "The vacuum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The vacuum was described by this man as his namesake \"sea\" of particles of negative energy. This scientist is also the namesake of a function which is zero everywhere except at zero.",
+          "answer": "Dirac",
+          "acceptableAnswers": [
+            "Dirac",
+            "The Dirac"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "When two plates are placed parallel to each other in a vacuum, they can be attracted or repulsed even in the absence of an external field due to this effect, which can be explained using virtual particles.",
+          "answer": "Casimir",
+          "acceptableAnswers": [
+            "Casimir",
+            "The Casimir"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The magnetic constant, usually symbolized as mu-naught, is also known as the permeability of this medium. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c32246"
+    },
+    {
+      "id": "f9a797be-b833-4dab-aaa8-97e633a54b6a",
+      "linkedTossupId": "c26d98c5-f2ac-46dc-b594-5fb9c2619749",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this play by Yuan dynasty dramatist Ji Junxiang, whose title character avenges the mass slaughter of his family at the hands of General Tu'an Gu. This was the first Chinese play to be translated into a European language.",
+          "answer": "Orphan of Zhao",
+          "acceptableAnswers": [
+            "Orphan of Zhao",
+            "Zhaoshi gu’er",
+            "The Orphan of Zhao"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Orphan of Zhao belongs to the zaju genre of variety theater, which today is mainly performed as this art form. Performers of the \"Peking\" type of this art form wear colorful costumes, are trained in dance, combat, and pantomime, and don't always sing, unlike their western counterparts.",
+          "answer": "opera",
+          "acceptableAnswers": [
+            "opera",
+            "xiqu",
+            "The opera"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In a Yuan-era zaju play by Li Qianfu, Hai-tang proves her parentage of Shoulang by refusing to pull him out of one of these constructs. In a modern adaptation of that play, Azdak determines Grusha to be the true mother of Michael by having him be placed inside one of these things on a courtroom floor.",
+          "answer": "chalk circle",
+          "acceptableAnswers": [
+            "chalk circle",
+            "huilan ji",
+            "kreidekreis",
+            "prompt on circle by asking: “made of what?”",
+            "The chalk circle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this play, a physician tries to smuggle the title character out of the imperial palace in his medicine chest, but is discovered by General Han Jue, who compassionately allows him to pass. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0df8d"
+    },
+    {
+      "id": "21abac0a-4f29-4d1d-899d-d1a65f2285cb",
+      "linkedTossupId": "f31f78a2-e676-4a91-8889-4a31a8fcc689",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this environmental artist, creator of Acton and many \"skyspaces.\" He is currently landscaping Roden Crater into a massive observatory.",
+          "answer": "Turrell",
+          "acceptableAnswers": [
+            "Turrell",
+            "The Turrell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This environmental artist who frequently collaborated with her husband Christo wrapped landmarks like the Reichstag, the Pont-Neuf bridge, and the Miami islands in brightly colored cloth.",
+          "answer": "Jeanne-Claude",
+          "acceptableAnswers": [
+            "Jeanne-Claude",
+            "Jeanne-Claude de Guillebon",
+            "do not accept",
+            "prompt on partial answers",
+            "The Jeanne-Claude"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Christo and Jeanne-Claude put their landmark The Gates, a series of 7503 bright orange gates, along paths in this New York City park designed by Frederick Law Olmsted and Calvert Vaux.",
+          "answer": "Central",
+          "acceptableAnswers": [
+            "Central",
+            "The Central"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of this artist's works appears to be an entirely grey painting in a white room, but is actually a rectangular window into a darker room, leading guards at the work's museum to tell viewers to touch this painting in order to watch them fall into the other room and laugh at them. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97422a4a"
+    },
+    {
+      "id": "fd57d8f7-57a8-4ec2-87ba-405a612163b1",
+      "linkedTossupId": "b1a2d118-d118-46da-b66f-8b5112d0c957",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with red blood cells and hemoglobin.",
+          "answer": "erythrocyte",
+          "acceptableAnswers": [
+            "erythrocyte"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the erythrocyte in the cardiovascular system?",
+          "answer": "Red blood cells and hemoglobin",
+          "acceptableAnswers": [
+            "Red blood cells and hemoglobin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to red blood cells and hemoglobin.",
+          "answer": "leukocyte",
+          "acceptableAnswers": [
+            "leukocyte"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "5dda2285-96d1-41f3-8844-a3a34666e5f5",
+      "linkedTossupId": "595339dd-037e-43cd-9e71-143ca0e47ae6",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "What range runs north near the Pacific coast from California to Canada and includes Mount Shasta and Mount Rainier?",
+          "answer": "Cascades",
+          "acceptableAnswers": [
+            "Cascades",
+            "The Cascades"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mount Hood is part of the Cascades and is the highest point in this US state that also contains Crater Lake.",
+          "answer": "Oregon",
+          "acceptableAnswers": [
+            "Oregon",
+            "The Oregon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Fraser River marks the end of the Cascade Range in this Canadian province.",
+          "answer": "British Columbia",
+          "acceptableAnswers": [
+            "British Columbia",
+            "The British Columbia"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Mount St. Helens is a notable volcano in this range. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52032"
+    }
+  ]
+}

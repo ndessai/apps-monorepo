@@ -1,0 +1,1123 @@
+{
+  "packetId": "packet-188",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "History",
+    "Fine Arts",
+    "Literature",
+    "Human Body",
+    "Geography",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "674da027-8d01-4e6c-8821-3ac56bc2018f",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "The fields formed due to this phenomenon in the presence of complementary screens are related by Babinet's principle. A resolution limit due to this phenomenon corresponds to the radius of the first zero of the Airy disk and is named after Rayleigh. Davisson and Germer showed that electrons undergo this process, whose near-field and far-field results are given by the Fresnel and Fraunhoffer formalisms. For 10 points, identify this process that results in interference fringes when light is passed through a narrow slit and is the bending of light by an aperture.",
+      "powerMarkPosition": 249,
+      "answer": "diffraction",
+      "acceptableAnswers": [
+        "diffraction",
+        "The diffraction"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ab959c491bf8105af0cdce"
+    },
+    {
+      "id": "62d24798-ed74-48df-ade8-d5550493df6b",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "This man's grandson Kermit planned the overthrow of the Shah of Iran, and his corollary to the Monroe Doctrine stated the U.S. has the right to intervene in countries defaulting on debts. This winner of the 1906 Nobel Peace Prize for brokering the Treaty of Portsmouth dispatched a \"Great White Fleet\" and won a Medal of Honor for leading the Rough Riders up San Juan Hill. Name this U.S. President who said to \"speak softly, and carry a big stick\", the namesake of a cuddly type of bear.",
+      "powerMarkPosition": 342,
+      "answer": "T",
+      "acceptableAnswers": [
+        "T"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809cf867240107e0f1d9f"
+    },
+    {
+      "id": "d99e772c-698b-4052-be58-a0550ad22a89",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "A man in a work depicting people of this type presents himself in the umbra mortis style while another figure in that work was pointed out on having an R-shaped navel. A work depicting a person of this type shows him holding a foxglove plant as he rests on a table. In another work depicting people of this type, a man with a goatee looks at the artist leaning on a railway in the background. Paul Gachet, a member of this profession, was the subject of two Van Gogh portraits, and Aris Kindt stands out in a painting titled for one of these people named Nicholas Tulp. For 10 points, many paintings depict people of what profession practicing medicine?",
+      "powerMarkPosition": 392,
+      "answer": "doctor",
+      "acceptableAnswers": [
+        "doctor",
+        "The doctor"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e9b655469ef3ae75f63c82"
+    },
+    {
+      "id": "840453bc-8202-4674-b41a-ab7e72af0a89",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "This country was very briefly led by Egon Krenz, who succeeded the dictator Erich Honecker. Almost one million protesters gathered at this country's Alexanderplatz a few days before Günter Schabowski confusingly announced that this country would lift emigration restrictions, leading to crowds swarming through Checkpoint Charlie on November 9th, 1989.For ten points, name this Communist country that united with its western neighbor after the fall of the Berlin Wall.",
+      "powerMarkPosition": 310,
+      "answer": "East Germany",
+      "acceptableAnswers": [
+        "East Germany",
+        "The East Germany"
+      ],
+      "source": "qbreader",
+      "sourceId": "6837af69278db02eb79f1e84"
+    },
+    {
+      "id": "f1ab426a-6235-4572-9208-7c1e4bb29af6",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "The protagonist of this book refers to Mr. Tweedie as a \"squeak pig.\" That protagonist shares a house with Izzy, although she is eventually taken to live with Lavinia. Priscilla Lapham is the love interest of the main character, who joins the Sons of Liberty and interacts with historical figures such as Paul Revere. For 10 points, name this book by Esther Forbes about a young silversmith during the American Revolution.",
+      "powerMarkPosition": 167,
+      "answer": "Johnny Tremain",
+      "acceptableAnswers": [
+        "Johnny Tremain",
+        "The Johnny Tremain"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec65f4"
+    },
+    {
+      "id": "3e21ff5a-2236-4ce5-849e-86ff2031db13",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for cortisol functions. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this adrenal-related structure.",
+      "powerMarkPosition": 78,
+      "answer": "Adrenal",
+      "acceptableAnswers": [
+        "adrenal",
+        "Adrenal"
+      ],
+      "explanation": "The adrenal is a key component of the Endocrine system, involved in cortisol functions.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ede82ec3-a5a6-40c6-95dc-6278856e8176",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "text": "A poem by this author opens by describing \"endless worlds where children meet.\" An essay claims that \"poetry and religion are the same thing\" for this author and compares him to those children because \"they know not how to cast nets.\" This poet discussed a place where \"knowledge is free\" and the \"mind is without fear\" in a poem that declares, \"let my country awake.\" William Butler Yeats [\"yates\"] wrote the introduction to a poetry collection by this writer whose first poem begins, \"thou hast made me endless, such is thy pleasure.\" For 10 points, name this Bengali author of the Indian national anthem and the collection Gitanjali.",
+      "powerMarkPosition": 368,
+      "answer": "Tagore",
+      "acceptableAnswers": [
+        "Tagore",
+        "The Tagore"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab5cc"
+    },
+    {
+      "id": "0a0774ad-f970-456b-8320-929fdd0b3f63",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "This ingredient is stir fried with onion, peppers, and various spices to make rathham poriyal. A Finnish pancake which notably has this ingredient mixed in is known as veriohukainen. Mixing it with noodles and barley is the most common way to make the Korean sundae [soon-day], and cubes made out of it are served in China as a namesake type of tofu. A legend states that after a man tasted a Spartan soup containing pork, vinegar, and salt, mixed with it, he exclaimed \"Now I know why the Spartans do not fear death.\" That soup was known as a black soup, which has a similar name to black pudding, a sausage made using this product. For 10 points identify this substance which is a good source of iron due it containing hemoglobin, which is the typical sustenance of vampires.",
+      "powerMarkPosition": 392,
+      "answer": "blood",
+      "acceptableAnswers": [
+        "blood",
+        "The blood"
+      ],
+      "source": "qbreader",
+      "sourceId": "63059e1643cf0201876236d6"
+    },
+    {
+      "id": "19e37eeb-b375-4444-81cf-dca3894f7bd6",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "open",
+      "text": "An argument between two native women in this country over Captain William Darby Brind led to the Girls' War. This country is where the missionary Carl Volkner was beheaded by members of the Pai Marire movement. A conflict in this country was sparked by the cutting of a flagstaff. Nearly seventy crew members of the Boyd were eaten by this country's natives. After captaining the HMS Beagle, Robert FitzRoy served two years as this country's governor. The Musket Wars took place in this country, where William Hobson met with native leaders to sign the Treaty of Waitangi. For 10 points, name this Pacific country home to the Maori.",
+      "powerMarkPosition": 280,
+      "answer": "New Zealand",
+      "acceptableAnswers": [
+        "New Zealand",
+        "Aotearoa",
+        "The New Zealand"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382b35c9cc87abdd9a5a540"
+    },
+    {
+      "id": "3dd919c0-4bbd-4da7-a2a3-8385d2b7e188",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "In spin-charge separation, electrons split into three quasiparticles: spinons, holons, and a particle carrying information about this function. The Roothaan-Hall equation extends one method of calculating these to the case of a non-orthonormal basis, and a theorem that states that the first ionization energy is equal to the energy of one of these is named for Koopman. The spectrochemical series orders ligands based on the degree to which they split energy levels of these functions. A common method for finding them involves approximating the wavefunction as a single Slater determinant and using the variational method; that is the Hartree-Fock method. Atomic ones have shapes that are entirely given by the quantum numbers, and s ones are spherical. For 10 points, name these regions where electrons are likely to be found around a molecule or atom.",
+      "powerMarkPosition": 370,
+      "answer": "orbital",
+      "acceptableAnswers": [
+        "orbital",
+        "specific types",
+        "accept orbitons on the first clue",
+        "prompt on “wave function”",
+        "The orbital"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f33042333cf2cfbd44ac79"
+    },
+    {
+      "id": "7de2c16e-1004-4b22-85a6-ccd72bdb8e9b",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "A person with this job comes out of retirement to aid the war effort in the story His Last Bow. A person with this job concludes that Samuel Ratchett was stabbed once by each passenger in one car on the Orient Express. Hercule Poirot is one of these people, as is a character who lives at 221B Baker Street. For 10 points, Arthur Conan Doyle created Sherlock Holmes, who does what job?",
+      "powerMarkPosition": 202,
+      "answer": "detective",
+      "acceptableAnswers": [
+        "detective",
+        "reasonable synonyms",
+        "The detective"
+      ],
+      "source": "qbreader",
+      "sourceId": "65666dff443a0a5dea00446e"
+    },
+    {
+      "id": "1765d3a2-40aa-44c3-81fd-e277095fae13",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "The Phong model is typically applied to 3-D rendering by interpolating three forms of this process; one of those forms of this process occurs isotropically for substances whose luminous intensity obeys Lambert's cosine law. The coefficients for transmittance and this process are calculated using the Fresnel equations. A form of this process that occurs within fiber optic cables creates evanescent waves. A polarized ray avoids this process if it is incident to an interface at Brewster's angle. The critical angle is an angle at which light will experience the \"total internal\" type of this process. For a light ray, the angle of incidence equals its angle of this process when undergoing this process' specular form. For 10 points, name this process in which light bounces off of a surface.",
+      "powerMarkPosition": 479,
+      "answer": "reflection",
+      "acceptableAnswers": [
+        "reflection",
+        "total internal reflection",
+        "accept reflectance",
+        "accept all other word forms",
+        "The reflection"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df736e427feb09cfb1bc44"
+    },
+    {
+      "id": "9b261e95-7ba6-4f99-b6b2-002675b60373",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "The central figure of one of these paintings is nude, with nails piercing her skin and a metal beam replacing her spine. In another of these paintings, The Wounded Deer, the subject's face is imposed on the body of the title animal. The Broken Column and a work that shows a woman standing with Diego Rivera are among these paintings, which frequently depict a particular woman with monkeys and a strong unibrow. Mexican artist Frida Kahlo created many of, for 10 points, what type of painting that show her own face?",
+      "powerMarkPosition": 294,
+      "answer": "self portrait",
+      "acceptableAnswers": [
+        "self portrait",
+        "The self portrait"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004f80"
+    },
+    {
+      "id": "57f2ed9d-60d8-468e-8565-9b82b1576009",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "This artist contrasted a landscape near Lake Nemi with an ideal landscape in two works inspired by Milton's sonnets, \"L' Allegro\" and \"Il Penseroso.\" Another of his works shows a gigantic goblet covered with vegetation and is called Titan's Goblet. A boy emerges from cave on a boat and an old man prays towards the skies in a series by this artist, while another series contains works such as Savage State and Destruction of Empire. For 10 points, identify this artist of the Hudson River School who created The Voyage of Life and The Course of Empire.",
+      "powerMarkPosition": 248,
+      "answer": "Cole",
+      "acceptableAnswers": [
+        "Cole",
+        "The Cole"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9841a00"
+    },
+    {
+      "id": "381d8484-43ce-451d-91ee-4cf8d2112801",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "In one of this author's stories, Harry fights with his wife Helen over a gangrene infection on his leg; that story takes place on a safari. He also wrote a novella about a friend of Manolin and admirer of Joe DiMaggio who fights with sharks on his way back to Havana. For 10 points, name this author of \"The Snows of Kilimanjaro,\" who also wrote about Santiago catching an enormous fish in The Old Man and the Sea.",
+      "powerMarkPosition": 139,
+      "answer": "Hemingway",
+      "acceptableAnswers": [
+        "Hemingway",
+        "The Hemingway"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec67a1"
+    },
+    {
+      "id": "616a9b9a-0f0e-4643-8d12-275bd0de8f36",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "text": "This country's Monte Pissis was first summited by Polish climbers whose expeditions also inspired the name of the Polish Glacier on the way to this country's highest peak. This country's far northern city of Formosa coincidentally lies near the antipode of Taiwan. In 2022, wildfires ravaged Iberá National Park in this country's northeast, whose two rivers reminded settlers of Iraq and is thus called Mesopotamia. This country's capital is home to the neighborhoods Palermo and the Italy-influenced La Boca. The use of pig's blood in paint may explain the color of this country's presidential palace, which is near the widest street in the world. For 10 points, La Casa Rosada is in what large South American country named for the Latin word for silver?",
+      "powerMarkPosition": 264,
+      "answer": "Argentina",
+      "acceptableAnswers": [
+        "Argentina",
+        "Argentine Republic",
+        "República Argentina",
+        "The Argentina"
+      ],
+      "source": "qbreader",
+      "sourceId": "692330edf1f28d19289b8087"
+    },
+    {
+      "id": "cb82a88b-5ed9-4fdf-8bba-6b35793d2e7a",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "The OMB estimates the opportunity cost of these constructs to be 25 cents per dollar. Vertical and horizontal fairness are considered when establishing these policies. The Pigouvian [PIG-O-VIAN] type of these constructs shifts the private marginal cost curve to the level of the social marginal cost curve to correct negative externalities, while the ad valorem type of these is based on transaction values. The Laffer curve argues that increasing these may decrease government revenue. For 10 points, name these payments to the government with payroll, property, and income forms.",
+      "powerMarkPosition": 399,
+      "answer": "Tax",
+      "acceptableAnswers": [
+        "Tax",
+        "The Tax"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7e0f"
+    },
+    {
+      "id": "fd0afa1c-38f6-4c0e-9f74-d69bab4db3bc",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "This man stated that \"These men are all talk; what we need is action - action!\" during an 1859 convention. This man took Henry Clay Pate prisoner in a raid on Palmyra called the Battle of Black Jack. Daniel Woodson condemned this man following the death of his son Frederick and the Battle of Osawatomie. The John Steuart Curry painting Tragic Prelude depicts this man leading the Free-Staters. In response to the Sacking of Lawrence, this man and his sons participated in the Pottawatomie massacre during \"Bleeding Kansas.\"For 10 points, name this abolitionist executed for his 1859 raid on Harper's Ferry.",
+      "powerMarkPosition": 380,
+      "answer": "Brown",
+      "acceptableAnswers": [
+        "Brown",
+        "The Brown"
+      ],
+      "source": "qbreader",
+      "sourceId": "66cd4c3cc5459312fdcc5466"
+    },
+    {
+      "id": "77768001-9c1b-48a5-9503-8b00db133b2e",
+      "category": "Literature",
+      "subcategory": "Other Literature",
+      "difficulty": "open",
+      "text": "A Portuguese conversation in this series leads two characters to joke that a hentai enthusiast is \"from Brazil\" before realizing he actually is a clone of Adolf Hitler. A character in this show with The Destruction of Sennacherib tattooed on her back was once assaulted with her own dolphin puppet. A script greenlit as a sequel to Mandingo is written by two characters in this show, one of whom once lamented a failure to come up with the term \"Stir Fridays\" in a conversation with the protagonist, who goes on a weed-filled killing spree after discovering that his chemotherapy drugs are being replaced with sugar pills and Zima. The most competent character in this show is often called \"Truckasaurus\" because of her massive hands and is enraged to find that Cheryl is sleeping with the sex-addicted comptroller Cyril Figgus. Lana Kane works this show's title figure, codenamed \"Duchess,\" under the command of his mother Malory at ISIS. For 10 points, identify this FX cartoon about Sterling, the titular secret agent and tremendous douchebag.",
+      "powerMarkPosition": 525,
+      "answer": "Archer",
+      "acceptableAnswers": [
+        "Archer",
+        "The Archer"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587597818"
+    },
+    {
+      "id": "fe298d79-3b26-43b3-a9a8-1d5bedb39587",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "text": "A building in this city features a glass façade with 4,500 LEDs whose phallic shape is meant to represent an erupting geyser, according to its architect, Jean Nouvel. The curved roof of one building in this city that may represent a dragon's back was decorated using the trencadís (\"trun-ka-THESE\") technique, which was also used for a park entrance's colorful mosaic salamander. Eighteen spires and Nativity, Passion, and Glory façades are part of a religious building in this city that is set to be completed in 2026. For 10 points, name this Catalonian city home to Antoni Gaudí's Park Güell (\"gwail\") and the Sagrada Familia.",
+      "powerMarkPosition": 270,
+      "answer": "Barcelona",
+      "acceptableAnswers": [
+        "Barcelona",
+        "The Barcelona"
+      ],
+      "source": "qbreader",
+      "sourceId": "6727fb390a73c65be67f74ce"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "73ff7bc2-0f3a-40f9-8fe5-a77a2c34fa39",
+      "linkedTossupId": "674da027-8d01-4e6c-8821-3ac56bc2018f",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this type of optimization method used to find maxima for a function, subject to constraints modeled as polynomials of degree 1.",
+          "answer": "linear programming",
+          "acceptableAnswers": [
+            "linear programming",
+            "linear program",
+            "The linear programming"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Linear programming can be used to solve this problem in computer science, in which the title businessman must try to visit every city on a map while traversing the shortest total distance.",
+          "answer": "traveling salesman",
+          "acceptableAnswers": [
+            "traveling salesman",
+            "tsp",
+            "The traveling salesman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "When working with the travelling salesman problem in a Euclidean topology, you can use the Christofides algorithm to efficiently solve the problem. The Christofides algorithm begins by generating one of these structures, which is also the output to Boruvka's algorithm.",
+          "answer": "minimum spanning tree",
+          "acceptableAnswers": [
+            "minimum spanning tree",
+            "The minimum spanning tree"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "George Dantzig developed the \"simplex method\" used in these programs, which consists of picking a vertex on a polygon and seeing if a function as a higher value on any adjacent vertex. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f33042333cf2cfbd44ae3e"
+    },
+    {
+      "id": "b3e17a7f-2451-49f6-af9c-f51e4c73d4af",
+      "linkedTossupId": "62d24798-ed74-48df-ade8-d5550493df6b",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this traitorous Revolutionary War general, who attempted to surrender West Point to the British.",
+          "answer": "Arnold",
+          "acceptableAnswers": [
+            "Arnold",
+            "The Arnold"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Earlier, Arnold played a crucial role in the American victory at this battle in upstate New York, whose result convinced the French to aid the Americans in the war.",
+          "answer": "Saratoga",
+          "acceptableAnswers": [
+            "Saratoga",
+            "The Saratoga"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At the Battle of Saratoga, Arnold received his final in a series of injuries to this body part that gave his walk a permanent limp.",
+          "answer": "leg",
+          "acceptableAnswers": [
+            "leg",
+            "foot with “What larger body part is foot part of?”",
+            "The leg"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man's British contact, Major Andre, was executed after this man's treason was discovered. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b8f5"
+    },
+    {
+      "id": "2a2bc4b7-3a0c-4f5a-906f-b7d2ab2d1809",
+      "linkedTossupId": "d99e772c-698b-4052-be58-a0550ad22a89",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this work that depicts meat and fruit lying before five prostitutes, whose faces may have been inspired by African tribal masks.",
+          "answer": "Demoiselles d’Avignon",
+          "acceptableAnswers": [
+            "Demoiselles d’Avignon",
+            "“The Young Women of Avignon”",
+            "“The Young Ladies of Avignon”",
+            "The Demoiselles d’Avignon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This artist of Les Demoiselles d'Avignon also created a work that depicts a screaming horse and a mother cradling her dead child during the bombing of the title Basque city, Guernica.",
+          "answer": "Picasso",
+          "acceptableAnswers": [
+            "Picasso",
+            "The Picasso"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Picasso painted this woman, author of The Autobiography of Alice B. Toklas, wearing a drab brown jacket. When a critic said she didn't resemble her portrait, Picasso replied, \"She will.\"",
+          "answer": "Stein",
+          "acceptableAnswers": [
+            "Stein",
+            "The Stein"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This painting's leftmost figure is the only one depicted in profile and its middle figure has her hair in a bun. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfea25"
+    },
+    {
+      "id": "d8be9242-3f35-4a3a-ba8b-7e78fb5afeb8",
+      "linkedTossupId": "840453bc-8202-4674-b41a-ab7e72af0a89",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this event in which a group of rebellious colonists dumped over 300 chests of a certain British good into a Massachusetts harbor.",
+          "answer": "Boston Tea Party",
+          "acceptableAnswers": [
+            "Boston Tea Party",
+            "The Boston Tea Party"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The perpetrators of the Boston Tea Party were angered with the Tea Act, which granted this British joint-stock company a monopoly on tea being sold to the colonies.",
+          "answer": "East India Company",
+          "acceptableAnswers": [
+            "East India Company",
+            "The East India Company"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Boston Tea Party was planned and perpetrated by this organization, which was founded by Samuel Adams to protest the Stamp Act.",
+          "answer": "Sons of Liberty",
+          "acceptableAnswers": [
+            "Sons of Liberty",
+            "The Sons of Liberty"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This politically-motivated event was perpetrated by activists who exited the Old South Meeting House dressed as Native Americans. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "676f723ff56e0dff73abee95"
+    },
+    {
+      "id": "1c3b00ae-d922-4b30-b3b1-3df46c201afd",
+      "linkedTossupId": "f1ab426a-6235-4572-9208-7c1e4bb29af6",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this poem about an unsuccessful Irish uprising against British rule, named after when the uprising occurred.",
+          "answer": "Easter, 1916",
+          "acceptableAnswers": [
+            "Easter, 1916",
+            "The Easter, 1916"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The author again showed his distaste for violence with this poem that used imagery of the apocalypse to describe post-war Europe, a poem which states \"Things fall apart; the centre cannot hold.\"",
+          "answer": "The Second Coming",
+          "acceptableAnswers": [
+            "The Second Coming",
+            "Second Coming"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Both \"Easter, 1916\" and \"The Second Coming\" were written by this Nobel Laureate, also know for poems like \"The Winding Stair\" and \"The Tower.\"",
+          "answer": "Yeats",
+          "acceptableAnswers": [
+            "Yeats",
+            "The Yeats"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The writer of this work had conflicted feelings on the subject matter, both with him being a nationalist but also opposing the use of violence. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0869"
+    },
+    {
+      "id": "0bbadc89-1547-4e56-aa89-f5b9bb57e3a7",
+      "linkedTossupId": "3e21ff5a-2236-4ce5-849e-86ff2031db13",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with smooth muscle locations.",
+          "answer": "sarcomere",
+          "acceptableAnswers": [
+            "sarcomere"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the sarcomere in the musculoskeletal system?",
+          "answer": "Smooth muscle locations",
+          "acceptableAnswers": [
+            "Smooth muscle locations"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to smooth muscle locations.",
+          "answer": "myofibril",
+          "acceptableAnswers": [
+            "myofibril"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "3294abf5-e578-409c-bef8-2aab3c77dc22",
+      "linkedTossupId": "ede82ec3-a5a6-40c6-95dc-6278856e8176",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "In this author's novel Daughter of Fortune, a Chilean woman goes to California during the gold rush to find her lover. She also wrote The House of the Spirits.",
+          "answer": "Allende",
+          "acceptableAnswers": [
+            "Allende",
+            "The Allende"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this woman's novel Burger's Daughter, the title character, Rosa, is the child of the leader of the South African Communist Party, and is arrested at the end for protesting apartheid. She also wrote The Conservationist and July's People.",
+          "answer": "Gordimer",
+          "acceptableAnswers": [
+            "Gordimer",
+            "The Gordimer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Australian wrote A Dutiful Daughter, but garnered far more attention for The Chant of Jimmie Blacksmith and Schindler's Ark.",
+          "answer": "Keneally",
+          "acceptableAnswers": [
+            "Keneally",
+            "The Keneally"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name the authors of some \"daughterly\" works, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a98404e2"
+    },
+    {
+      "id": "90a1a3bf-d9e2-43bd-8722-7e9b845492d3",
+      "linkedTossupId": "0a0774ad-f970-456b-8320-929fdd0b3f63",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "1. points) This is the general name for saturated hydrocarbons with the formula Cn H2n+2.",
+          "answer": "alkanes or paraffins",
+          "acceptableAnswers": [
+            "alkanes or paraffins",
+            "The alkanes or paraffins"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "1. points) The fourth member of the alkane series is this compound with formula C4 H10, which is differentiated from 2-methylpropane by its straight chain carbon formation.",
+          "answer": "n-butane or normal-butane",
+          "acceptableAnswers": [
+            "n-butane or normal-butane",
+            "The n-butane or normal-butane"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "1. points) Butane and 2-methylpropane are examples of these chemical compounds that have the same molecular formulae but different structures or arrangements.",
+          "answer": "isomers",
+          "acceptableAnswers": [
+            "isomers",
+            "The isomers"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following from chemistry.",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596d8e"
+    },
+    {
+      "id": "ed91d2e2-c365-4166-a4d1-57161d92b2eb",
+      "linkedTossupId": "19e37eeb-b375-4444-81cf-dca3894f7bd6",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this 1944 case which affirmed the consitutionality of internment camps.",
+          "answer": "Korematsu",
+          "acceptableAnswers": [
+            "Korematsu",
+            "The Korematsu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The internment camps upheld in Korematsu were established by one of these decrees numbered 9066, issued from their namesake branch of government.",
+          "answer": "Executive Order",
+          "acceptableAnswers": [
+            "Executive Order",
+            "The Executive Order"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This case, issued on the same day as Korematsu, unanimously decided that the government could not continue to detain an individual whom the government had already conceded was loyal to the United States.",
+          "answer": "Endo",
+          "acceptableAnswers": [
+            "Endo",
+            "The Endo"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In his dissent of this case, Justice Jackson stated that allowing wartime detention based on Japanese ethnicity would be a \"loaded weapon\" for an authority that can plausibly argue that a need exists for it to be used. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63be318cb3c05525875981a9"
+    },
+    {
+      "id": "507f130f-8cf1-407f-82d7-40b3064d2254",
+      "linkedTossupId": "3dd919c0-4bbd-4da7-a2a3-8385d2b7e188",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this property, which for a function on the real numbers, can be defined as the fact that for any point c, the limit as x approaches c of f(x) equals f(c). Functions with this property have no jumps.",
+          "answer": "continuity",
+          "acceptableAnswers": [
+            "continuity",
+            "continuous",
+            "The continuity"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Weierstrass function, although continuous everywhere, does not possess this property anywhere. Complex-valued functions that possess the \"complex\" type of this property are called holomorphic.",
+          "answer": "differentiability",
+          "acceptableAnswers": [
+            "differentiability",
+            "differentiable",
+            "being able to take a derivative",
+            "word forms",
+            "The differentiability"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "By Rolle's theorem, a continuous and differentiable function that has equal values at two different points must have a point in between where the slope equals this number. Inflection points' second derivatives equal this value.",
+          "answer": "zero",
+          "acceptableAnswers": [
+            "zero",
+            "The zero"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Weierstrass function possesses this property throughout its entire domain. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631674033d364b3265eaf0cf"
+    },
+    {
+      "id": "2177ac30-a916-4977-a7da-d984957d0998",
+      "linkedTossupId": "7de2c16e-1004-4b22-85a6-ccd72bdb8e9b",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this novel by Nathaniel Hawthorne, in which Hester Prynne wears the title symbol.",
+          "answer": "Scarlet Letter",
+          "acceptableAnswers": [
+            "Scarlet Letter",
+            "The Scarlet Letter"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This letter represents adultery in The Scarlet Letter. This letter is also the first letter of the English alphabet.",
+          "answer": "A",
+          "acceptableAnswers": [
+            "A"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This character is the daughter of Hester and Dimmesdale. This character shares a name with a precious gemstone.",
+          "answer": "Pearl",
+          "acceptableAnswers": [
+            "Pearl",
+            "The Pearl"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this novel, Roger Chillingworth's wife has an affair with Arthur Dimmesdale. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b9f5"
+    },
+    {
+      "id": "e88cfc2e-a2c5-4eed-a8c3-41e395d832e1",
+      "linkedTossupId": "1765d3a2-40aa-44c3-81fd-e277095fae13",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this state function, which is equal to pressure times molar volume over the gas constant for ideal gases, and can be measured in Celsius.",
+          "answer": "temperature",
+          "acceptableAnswers": [
+            "temperature",
+            "T",
+            "The temperature"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other state function is equal to internal energy minus pressure times volume. Its change for a chemical reaction at constant pressure is equal to the heat absorbed or released by the reaction.",
+          "answer": "enthalpy",
+          "acceptableAnswers": [
+            "enthalpy",
+            "S",
+            "The enthalpy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This principle in classical physics gives energy equal to one-half the Boltzmann's constant times temperature to every degree of freedom of a molecule. This principle explains why monatomic gases have a constant volume molar heat capacity of three-halves times the gas constant.",
+          "answer": "equipartition theorem",
+          "acceptableAnswers": [
+            "equipartition theorem",
+            "The equipartition theorem"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This state variable is a measure of the average kinetic energy of particles. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fbcce"
+    },
+    {
+      "id": "99b4c9b8-f3bd-452d-ac75-112fa8877307",
+      "linkedTossupId": "9b261e95-7ba6-4f99-b6b2-002675b60373",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this New York City park designed by Frederick Law Olmsted and Calvert Vaux [VOX].",
+          "answer": "Central Park",
+          "acceptableAnswers": [
+            "Central Park",
+            "The Central Park"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Gates was a project of this Bulgarian artist, who wrapped the Pont Neuf [NOEF] in collaboration with his wife Jeanne-Claude.",
+          "answer": "Christo",
+          "acceptableAnswers": [
+            "Christo",
+            "The Christo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Christo is also known for wrapping this German Parliament building in fabric in 1995. This building's large glass dome was completed in 1999.",
+          "answer": "Reichstag",
+          "acceptableAnswers": [
+            "Reichstag",
+            "The Reichstag"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "7,503 saffron-colored gates were installed along walkways in this park in 2005. For 10 points each--",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7e70"
+    },
+    {
+      "id": "35f21e09-8928-40fa-9bb6-2d76ad9e8103",
+      "linkedTossupId": "57f2ed9d-60d8-468e-8565-9b82b1576009",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Italian Renaissance master. His use of geometry can be seen in the triangular position of the figures in his Resurrection, which shows Jesus stepping out of a sarcophagus near a sleeping soldier with no legs.",
+          "answer": "Piero",
+          "acceptableAnswers": [
+            "Piero",
+            "The Piero"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another of the soldiers in Piero's Resurrection is a depiction of a person with this relationship to the artist. This is the relationship of a man with a fur collar to Albrecht Dürer in one portrait.",
+          "answer": "himself",
+          "acceptableAnswers": [
+            "himself",
+            "The himself"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A man takes off his shirt in the background of a Piero work depicting this man pouring water over Jesus to perform his namesake act. This man's head often makes cameo appearances in artistic depictions of Salome.",
+          "answer": "John",
+          "acceptableAnswers": [
+            "John",
+            "The John"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Much scholarly debate has raged regarding the identity of three men in the foreground of this man's Flagellation of Christ, which curiously places the title scene way in the background of the painting. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66424f511cd113dee4e969c0"
+    },
+    {
+      "id": "8d0fa678-47f5-4cd6-8732-afebe6d953ed",
+      "linkedTossupId": "381d8484-43ce-451d-91ee-4cf8d2112801",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this William Carlos Williams poem.",
+          "answer": "Red Wheelbarrow",
+          "acceptableAnswers": [
+            "Red Wheelbarrow",
+            "The Red Wheelbarrow"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"The Red Wheelbarrow\" illustrates Williams' belief that there are \"no ideas but in things,\" as he writes in Paterson, a five-book poem about a city in this United State with capital Trenton.",
+          "answer": "New Jersey",
+          "acceptableAnswers": [
+            "New Jersey",
+            "The New Jersey"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"The Red Wheelbarrow\" is an example of this poetic form, in which there is no patterned meter or rhyme scheme, as opposed to blank verse, which has meter but is not necessarily rhymed.",
+          "answer": "free",
+          "acceptableAnswers": [
+            "free",
+            "The free"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This Imagist poem reads, in its entirety, \"so much depends upon\" [the title object] \"glazed with rain water \\ beside the white chickens.\" For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318acae4"
+    },
+    {
+      "id": "300c73ff-c269-46c3-aea2-1fd6d70f12d6",
+      "linkedTossupId": "616a9b9a-0f0e-4643-8d12-275bd0de8f36",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Siberian lake, the deepest and most voluminous body of freshwater on Earth.",
+          "answer": "Baikal",
+          "acceptableAnswers": [
+            "Baikal",
+            "Ozero Baykal",
+            "Baygal nuur",
+            "The Baikal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Water from Lake Baikal is drained via the Angara River to this Siberian river that flows north to the Kara Sea. Along with the Ob and Lena Rivers, it is one of the three main rivers that flow north out of Siberia.",
+          "answer": "Yenisei",
+          "acceptableAnswers": [
+            "Yenisei",
+            "The Yenisei"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The banks of the Angara river contain this Russian city of nearly 600,000, a Siberian cultural hub and the administrative center of a namesake oblast that contains Lake Baikal.",
+          "answer": "Irkutsk",
+          "acceptableAnswers": [
+            "Irkutsk",
+            "Irkutsk Oblast",
+            "The Irkutsk"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A species of seal is named after this body of water, which lies east of the Sayan Mountains. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62edb4fedff988263841bbcc"
+    },
+    {
+      "id": "25d248b3-168c-4469-9a1d-cfa05e5ab021",
+      "linkedTossupId": "cb82a88b-5ed9-4fdf-8bba-6b35793d2e7a",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This is what market form where there is one buyer and many sellers.",
+          "answer": "monopsony",
+          "acceptableAnswers": [
+            "monopsony",
+            "The monopsony"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this other market form, there are virtually an infinite number of buyers and sellers and it is impossible to earn an economic profit.",
+          "answer": "perfect competition",
+          "acceptableAnswers": [
+            "perfect competition",
+            "The perfect competition"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The demand curve in this market form is bent. The beer industry is this type of market where there are many buyers and few sellers.",
+          "answer": "oligopoly",
+          "acceptableAnswers": [
+            "oligopoly",
+            "The oligopoly"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This term comes from the greek words for single and purchase. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0cd3"
+    },
+    {
+      "id": "6a383e0b-77fb-4fcd-aedc-c3e0bcb2c71a",
+      "linkedTossupId": "fd0afa1c-38f6-4c0e-9f74-d69bab4db3bc",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Identify this war that was triggered by the explosion of the U.S.S. Maine. It was fought over the independence of Cuba and the Philippines.",
+          "answer": "Spanish-American",
+          "acceptableAnswers": [
+            "Spanish-American",
+            "The Spanish-American"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Under his policy of Reconcentration, this Governor General was nicknamed \"Butcher\" for his inhumane treatment of Cubans in concentration camps.",
+          "answer": "Weyler",
+          "acceptableAnswers": [
+            "Weyler",
+            "The Weyler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This regiment of troops, led by Theodore Roosevelt, was victorious at the Battle of San Juan Hill. Alexander Proctor sculpted an equestrian statue of Roosevelt as the leader of this group of soldiers.",
+          "answer": "Rough Riders",
+          "acceptableAnswers": [
+            "Rough Riders",
+            "The Rough Riders"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The use of \"yellow journalism\" by William Randolph Hearst and Joseph Pulitzer raised support of U.S. entry into this war. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a59a6"
+    },
+    {
+      "id": "0fe6688b-1fb2-4549-931f-72fdef8e5d1a",
+      "linkedTossupId": "77768001-9c1b-48a5-9503-8b00db133b2e",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this teacher of Dante who has a moving exchange with his student when they meet in the seventh circle of Hell.",
+          "answer": "Latini",
+          "acceptableAnswers": [
+            "Latini",
+            "Ser Brunetto",
+            "accept Burnectus Latinus",
+            "accept Burnecto Latino",
+            "The Latini"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Latini's Tresor begins with the speaker awakening in this type of place, which is also where Canto I of the Inferno begins. Henry Wadsworth Longfellow's Evangeline opens with a description of a \"primeval\" (\"pry-ME-vull\") one of these locations.",
+          "answer": "wood",
+          "acceptableAnswers": [
+            "wood",
+            "forest",
+            "selva oscura",
+            "accept “This is the forest primeval”",
+            "The wood"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The bestiary from Latini's Tresor may have inspired the appearance of this monster from the Seventh Circle of Hell. Dante descends into the Eighth Circle on the back of this winged embodiment of Fraud.",
+          "answer": "Geryon",
+          "acceptableAnswers": [
+            "Geryon",
+            "The Geryon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author of the Tresor looks like \"the one who wins, and not the one who loses\" as he departs across a burning plain of sand. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "692330f0f1f28d19289b8253"
+    },
+    {
+      "id": "2888cbb6-5507-49f1-8e7f-68933cbd0567",
+      "linkedTossupId": "fe298d79-3b26-43b3-a9a8-1d5bedb39587",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "His operas include The Rape of Lucretia, Albert Herring, and Death in Venice, and he is also known for a work subtitled \"Variations and Fugue on a Theme of Purcell,\" with narration spoken by the conductor, intended for music education, Young Person's Guide to the Orchestra.",
+          "answer": "Britten",
+          "acceptableAnswers": [
+            "Britten",
+            "The Britten"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This choral work was commissioned for the reconsecration of Coventry Cathedral, and combines Latin text with poems by Wilfred Owen.",
+          "answer": "War Requiem",
+          "acceptableAnswers": [
+            "War Requiem",
+            "The War Requiem"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this opera, a fisherman takes a second apprentice after his first dies, against the advice of Ellen Orford. Mrs. Sedley tries to convince the authorities that the fisherman murdered his first apprentice, and he eventually commits suicide by sinking his boat.",
+          "answer": "Peter Grimes",
+          "acceptableAnswers": [
+            "Peter Grimes",
+            "The Peter Grimes"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about a composer for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63bba673874e0ef7dd7b259f"
+    }
+  ]
+}

@@ -1,0 +1,1158 @@
+{
+  "packetId": "packet-192",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Social Science",
+    "History",
+    "Literature",
+    "Science",
+    "Mythology",
+    "Human Body",
+    "Fine Arts",
+    "Philosophy"
+  ],
+  "tossups": [
+    {
+      "id": "99fa7f99-af8d-4ce5-af00-f5c10ed0a05a",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "An author with this surname offered explanations for how boys overcome an educational achievement gap to dominate the workplace in The Sexual Paradox. In a recent book, a thinker with this surname used C. P. Snow's dichotomy to argue that a \"Second Culture\" of humanities types are the main opponents of the title ideology. That thinker with this surname used Lynn Hunt's term \"Humanitarian Revolution\" to name one of six causes that have opposed humanity's \"inner demons\" and contributed to a decline in violence. A thinker with this surname wrote the 2018 pro-rationalist book Enlightenment Now! as well as a popular science book that compares the innate human capacity for music to a cheesecake and explains the evolutionary origin of speech. For 10 points, give the surname of the author of The Better Angels of Our Nature and The Language Instinct.",
+      "powerMarkPosition": 493,
+      "answer": "Pinker",
+      "acceptableAnswers": [
+        "Pinker",
+        "Susan Pinker",
+        "Steven Pinker",
+        "The Pinker"
+      ],
+      "source": "qbreader",
+      "sourceId": "636ca2cb1b6aedfbdb9f0178"
+    },
+    {
+      "id": "da1fc5fa-bc3b-42b0-996f-210be1a68eee",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "This leader went on the Great Embassy with his diplomats, and faced revolt from a group of guards supporting his brother Ivan V, the streltsy. This man's forces won at Poltava, beating Charles XII of Sweden in the Great Northern War. He forced nobles to shave their beards, simplified the Cyrillic alphabet, and moved the capital to a namesake port as part of reforms to Westernize his nation. For 10 points, identify this modernizer of Russia, a \"Great\" czar.",
+      "powerMarkPosition": 233,
+      "answer": "Peter the Great",
+      "acceptableAnswers": [
+        "Peter the Great",
+        "Peter I",
+        "Pyotr Alexeyevich Romanov",
+        "The Peter the Great"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43ec8"
+    },
+    {
+      "id": "3ed6ba5d-f840-4910-aefa-3fa8f03da80e",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "Johann Wolfgang von Goethe's love for Friederike Brion inspired a poem about one of these objects on a heath. A poem named after one of these objects includes a lengthy coda in which personifications like Genius and Lady Reason discuss love and other topics, which comes after a more narrative-driven section that recounts a dream-vision in a walled garden. Christine de Pizan's Book of the City of Ladies was partly written as a feminist response to a 21,000-line poem named after one of these objects. Guillaume de Lorris and Jean de Meun wrote a medieval French allegorical poem entitled The Romance of [one of these flowers]. For 10 points, a Robert Burns poem compares the speaker's love to what \"red, red\" object?",
+      "powerMarkPosition": 370,
+      "answer": "rose",
+      "acceptableAnswers": [
+        "rose",
+        "The rose"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a8145"
+    },
+    {
+      "id": "e1b38400-52a7-414a-9505-86f41671b946",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "In 2002, it was proven that this number is the only positive cubic number that is one less than a square number. This number, whose divisibility check looks at the last 3 digits, is the only cubic number greater than 1 that appears in the Fibonacci sequence. A cube has this many vertices between its 12 edges and 6 faces. For 10 points, give this number that is equal to two cubed and serves as the base of the octal number system.",
+      "powerMarkPosition": 238,
+      "answer": "eight",
+      "acceptableAnswers": [
+        "eight",
+        "The eight"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004c88"
+    },
+    {
+      "id": "49555845-0ded-4955-8e43-86c98db7a8da",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "This event is described at length by Nestor in The Metamorphoses, before he gives a diatribe against Heracles. This event saw the death of Crantor, who was killed when Demoleon clipped his left shoulder with a trunk. One of its participants was swallowed into the earth and had his soul fly away from him after he was buried alive under a tree - that participant was a man who gained invulnerability after getting a sex change from Poseidon. Nearly all of its participants were descendants of Ixion. Breaking out after Eurytus makes a drunken pass against Hippodamia at Pirithuous's wedding, for 10 points, name this conflict between a race of half-horsemen and another race.",
+      "powerMarkPosition": 383,
+      "answer": "lapith-centaur",
+      "acceptableAnswers": [
+        "lapith-centaur",
+        "centauromachy",
+        "on the first sentence",
+        "accept Caeneus",
+        "Caenis is transformed into a man and equivalents.",
+        "The lapith-centaur"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f82ebc626ea977c7a31a3"
+    },
+    {
+      "id": "9983b6f5-a1b4-4c6f-9fa4-67ca579df851",
+      "category": "Literature",
+      "subcategory": "Classical Literature",
+      "difficulty": "high_school",
+      "text": "The title character of one work by this man refuses to tell Hermes the identity of a man who could overthrow Zeus, and another work by him describes how Atossa summons a dead man who criticizes his son for a defeat which had happened earlier in the play; that son is Xerxes. This author of Prometheus Bound and The Persians wrote another play which describes Athena's vote for acquittal in a trial with a 6-6 jury tie, and an earlier work by this man sees one character's wife roll out a purple carpet in preparation for her husband, and Cassandra is later killed along with the husband by that wife. For ten points, name this playwright who included Agamemnon, The Libation Bearers, and The Eumenides in his Oresteia Trilogy.",
+      "powerMarkPosition": 314,
+      "answer": "Aeschylus",
+      "acceptableAnswers": [
+        "Aeschylus",
+        "The Aeschylus"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a59b7"
+    },
+    {
+      "id": "cd02385d-f5f7-4c34-867c-52432024e9d0",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "The Fontaine-Mazur conjectures ask whether l-adic representations of these mathematical objects have convenient geometric properties. Infinite groups of this type can be endowed with the Krull topology. The \"absolute\" one for a field F is defined in terms of the separable closure of F. For field L and subfield K, all automorphisms of L fixing K are trivial if and only if the corresponding one of these groups is trivial, since the order of one of these groups equals the degree of the corresponding field. A polynomial equation is solvable by radicals if and only if the one of these groups corresponding to its splitting field is solvable. For 10 points, name these groups of automorphisms of field extensions, whose subgroups correspond to intermediate fields according to the namesake \"theory\" of a French mathematician.",
+      "powerMarkPosition": 286,
+      "answer": "Galois",
+      "acceptableAnswers": [
+        "Galois",
+        "\"groups\"",
+        "\"automorphism groups\"",
+        "The Galois"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba9606c"
+    },
+    {
+      "id": "c1bae1ff-6631-468a-b8e5-4b3eb56610cc",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "This poem describes a location which has flames that produce \"no light, but rather darkness visible.\" This poem ends as characters \"hand in hand with wandering steps and slow\" take a \"solitary way.\" This poem opens by describing \"Man's First Disobedience, and the Fruit of that Forbidden Tree.\" A character in this epic says it is \"better to reign in Hell, than serve in Heav'n\" to Beelzebub (bee-AL-zuh-bub). Satan rebels against God in, for 10 points, what English epic titled for the expulsion of Adam and Eve from the Garden of Eden and written by John Milton?",
+      "powerMarkPosition": 241,
+      "answer": "Paradise Lost",
+      "acceptableAnswers": [
+        "Paradise Lost",
+        "The Paradise Lost"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d81df703b5396be4759307"
+    },
+    {
+      "id": "75dd4f2c-90ee-4b89-bc44-84266f92f97a",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "Robert de Boron attributed this man's behavior to being suckled on peasant breast milk. This man kicks a female dwarf senseless after she mocks Efrog's son as a paragon of chivalry and knighthood even though this man offends Peredur. In the Welsh tradition, this man died at the hands of Menestyr's son Gwyddawg. This man taunts Calogrenant for his defeat by Esclados, prompting Yvain to avenge his cousin. In the Tale of Culhwch and Olwen, this man traps the giant Dillon Farfog in order to obtain his beard. Legends about this man's ability to hold his breath for nine days and nine nights earned him a spot among the Three Enchanter Knights of Britain. This man is commanded to cut off the head of a giant terrorizing Mont Saint Michel when his lord is on his way to fight Emperor Lucius. This knight's forgetfulness causes his foster brother to pull a sword from a stone. For 10 points, name this son of Sir Ector who served as the seneschal, or steward, at King Arthur's court.",
+      "powerMarkPosition": 378,
+      "answer": "Kay",
+      "acceptableAnswers": [
+        "Kay",
+        "Sir Cai",
+        "The Kay"
+      ],
+      "source": "qbreader",
+      "sourceId": "630a734f995199588ca69d9e"
+    },
+    {
+      "id": "7de61e5f-39f5-407a-9eb4-ff150cd0ac82",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for trachea structure. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this bronchus-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Bronchus",
+      "acceptableAnswers": [
+        "bronchus",
+        "Bronchus"
+      ],
+      "explanation": "The bronchus is a key component of the Respiratory system, involved in trachea structure.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "254a475c-6886-43ed-922b-d4704eb42c97",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "This poem relates how Daedalus twice tried and failed to fashion a golden sculpture of Icarus's death to adorn the gates of the building where Deiphobe writes on oak leaves. At one point in this poem, roots and vines begin to bleed before revealing themselves as the remains of the slain Polydorus. This poem's title character, an embodiment of pietas, is referred to in its opening line, \"I sing of arms and the man\". The sight of Pallas's belt enrages its protagonist, who then denies mercy to the Rutulian chieftain Turnus. Its protagonist flees home carrying his father Anchises and takes his son Ascanius to Carthage, where he breaks Dido's heart. For 10 points, name this epic poem about a Trojan prince, written by Virgil.",
+      "powerMarkPosition": 399,
+      "answer": "Aeneid",
+      "acceptableAnswers": [
+        "Aeneid",
+        "the Aeneis",
+        "the Aeneidos",
+        "The Aeneid"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54aeca0"
+    },
+    {
+      "id": "0cdcf8b3-95bf-4854-b286-c62f70ddb60a",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for diabetes types. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this insulin-related structure.",
+      "powerMarkPosition": 93,
+      "answer": "Insulin",
+      "acceptableAnswers": [
+        "insulin",
+        "Insulin"
+      ],
+      "explanation": "The insulin is a key component of the Endocrine system, involved in diabetes types.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e226ed09-7f37-4f87-b3d8-6db0778cee93",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "A painting by this artist includes patches of cleared forest that spell out Hebrew letters on a hillside and is set near Holyoke (\"HO-lee-oak\"). In another painting by this artist, a man rests on a massive pedestal in front of a church, Greek temple, and Egyptian pyramid. This artist used the recurring image of a large rock on a ledge in a series whose final painting includes a Doric column covered in moss at twilight. This artist and William Cullen Bryant admire a waterfall in Asher Durand's painting Kindred Spirits. This artist included Consummation and Desolation in a series of five landscapes showing the rise and fall of a civilization. For 10 points, name this Hudson River School founder who painted the Course of Empire series.",
+      "powerMarkPosition": 272,
+      "answer": "Cole",
+      "acceptableAnswers": [
+        "Cole",
+        "The Cole"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f2d45f2ad3e45a654f2df7"
+    },
+    {
+      "id": "5fabffc3-87a0-41e8-8a57-5d9125dd0896",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "This state, which won the War of Chioggia against Genoa, allied itself with the Papal States against Pope Julius II's League of Cambrai. Lion statues in this city's St. Mark Square were stolen in a 1204 sack of Constantinople; that 4th Crusade was organized by Enrico Dandolo, this city's Doge [dozh]. The home of Marco Polo, for 10 points, name this \"Most Serene Republic,\" an Italian merchant city home to numerous canals.",
+      "powerMarkPosition": 288,
+      "answer": "Venice",
+      "acceptableAnswers": [
+        "Venice",
+        "The Venice"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d0867240107e0f1fd4"
+    },
+    {
+      "id": "1824d6f5-568a-4eb7-a21b-9a1f2a32fb12",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "Operation Albania targeted one militant group in this country that assassinated the founder of guildism. The FPMR is from this country, while Project Andrea attempted to develop sarin gas weapons in this country, an effort helped by Michael Townley. In this country, Project Fubelt led to the murder of Rene Schneider, while another general from this country, Carlos Prats, was assassinated with a car bomb. After the failed election of Eduardo Frei, this country entered a period of tumult that culminated with one leader committing suicide with a golden AK47 in La Moneda palace. This country's DINA secret police committed many extrajudicial murders, including allegedly throwing prisoners off of helicopters during the Caravan of Death. Salvador Allende committed suicide in, for 10 points, what country that was led by a dictatorship under Augusto Pinochet?",
+      "powerMarkPosition": 444,
+      "answer": "Chile",
+      "acceptableAnswers": [
+        "Chile",
+        "The Chile"
+      ],
+      "source": "qbreader",
+      "sourceId": "68846967641a9dc975af83e4"
+    },
+    {
+      "id": "1d3cc7be-91ec-49e9-a293-954d72b95382",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "A passage in this text often quoted in support of gay rights translates to \"What seems unnatural is natural.\" A poem from this text begins by invoking a time when \"there was neither non-existence nor existence.\" One of this text's six consecutive \"family books\" describes the Battle of the Ten Kings. The term \"henotheism\" was first brought into wide use in commentaries on this book by Max Müller, who took 25 years to publish its first complete English edition. A hymn from this book is named after its meter, which has three lines of eight syllables each. The preamble \"Oṃ bhūr bhuvaḥ svaḥ\" opens this text's hymn to the sun god Sāvitrī, the Gāyatrī Mantra. The Nāsadīya and Purusha Sūktas are found in the tenth and final of this book's mandalas. Much of the Samaveda sets poems from this text to music. For 10 points, name this oldest Veda.",
+      "powerMarkPosition": 571,
+      "answer": "Rig",
+      "acceptableAnswers": [
+        "Rig",
+        "The Rig"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974234c5"
+    },
+    {
+      "id": "dd0d2391-9498-455d-907f-50a8a45a9c32",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "Pius V issued Regnans in excelsis officially excommunicating this monarch, who a year earlier had put down the Northern Rebellion. The duke of Alba was party to an assassination attempt against this monarch which was led by Roberto di Ridolfo, but its failure resulted in the execution of the duke of . She was advised throughout her reign by William Cecil and Francis Walsingham, the latter of whom uncovered the Babington plot to take her life, after which she executed her cousin. For 10 points, name this Tudor queen, under whose rule the Spanish Armada was defeated, and who executed Mary, Queen of Scots.",
+      "powerMarkPosition": 302,
+      "answer": "Elizabeth I",
+      "acceptableAnswers": [
+        "Elizabeth I",
+        "The Elizabeth I"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bca72e7fe60f397fb4a70b"
+    },
+    {
+      "id": "949e9cda-e30d-4a5f-a91b-2ec5e0f5eebb",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "In one story, these beings try to become human by wearing skulls and worshipping the stars, and in another work, these beings are described both as \"an auspicious omen...during times of peace\" and as \"a man-eater\" that \"makes a sound like a baby\". Another of these beings was married to King Zhou [JO] as punishment for his offending the gods, and inhabited the body of Daji. In some stories, these beings seduce men in order to absorb life essence through their semen and become human, but in most, these animals become enlightened and able to transform as they age, and their notably supernumerary body parts are held to represent their abundant progeny. Often depicted with nine tails, for 10 points, the spirits of what animals are known as huli jing in China and kitsune in Japan?",
+      "powerMarkPosition": 369,
+      "answer": "fox",
+      "acceptableAnswers": [
+        "fox",
+        "huli jing",
+        "kitsune before said",
+        "also accept nine-tailed fox",
+        "huxian",
+        "hushen",
+        "husheng",
+        "huwang",
+        "huyao",
+        "jiuweihu",
+        "The fox"
+      ],
+      "source": "qbreader",
+      "sourceId": "6504ab689ee6e14c2d0e41c4"
+    },
+    {
+      "id": "e03de55b-c8f2-4555-a037-29648d8b73e8",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "Robert the Bruce was mythically inspired by one of these animals to keep fighting the English. In Akan (uh-KON) folklore, the trickster god and master of all stories takes the form of one of these animals and is named Anansi. A woman was punished for her skillfully woven depictions of the gods' abuse by being turned into one of these animals by Athena. Arachne was turned into, for 10 points, what kind of eight-legged critter?",
+      "powerMarkPosition": 346,
+      "answer": "spider",
+      "acceptableAnswers": [
+        "spider",
+        "The spider"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a5035d"
+    },
+    {
+      "id": "99a8cb96-cc2c-4686-9ef3-bca19bebaadd",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "A pure substance has no degrees of freedom at one of these, according to a rule named for Gibbs, and any system has p choose 3 of these, where p is the number of phases. Helium-4 has two unconventional ones due to superfluidity, while for water, it fixes the definition of the Kelvin scale and is at .612 kilopascals and 273.15 Kelvins. For 10 points, name this point where coexistence curves meet on the phase diagram, a temperature and pressure at which a substance exists in an equilibrium of all three phases of solid, liquid, and gas.",
+      "powerMarkPosition": 161,
+      "answer": "triple point",
+      "acceptableAnswers": [
+        "triple point",
+        "The triple point"
+      ],
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfecf1"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "58cdfbc9-8a75-4808-9272-7e63a02fe4dc",
+      "linkedTossupId": "99fa7f99-af8d-4ce5-af00-f5c10ed0a05a",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this economist who wrote An Essay on the Principle of Population. This person names a \"trap\" or \"catastrophe\" where population decline is triggered when population growth surpasses food production.",
+          "answer": "Malthus",
+          "acceptableAnswers": [
+            "Malthus",
+            "Malthusian trap",
+            "Malthusian catastrophe",
+            "accept neo-Malthusian",
+            "The Malthus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Two Stanford scientists with this surname claimed \"the battle to feed all of humanity is over\" and incorrectly predicted that hundreds of millions would starve to death in the 1970s in their book The Population Bomb.",
+          "answer": "Ehrlich",
+          "acceptableAnswers": [
+            "Ehrlich",
+            "Paul Ralph Ehrlich",
+            "accept Ann Howland Ehrlich",
+            "The Ehrlich"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Malthusian views on population growth are often opposed to this position championed by Julian Simon. This position argues that population growth will always be supported due to continued technological advances.",
+          "answer": "cornucopianism",
+          "acceptableAnswers": [
+            "cornucopianism",
+            "cornucopian",
+            "accept boomsters",
+            "reject “catastrophism”",
+            "The cornucopianism"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This person incorrectly theorized that food production would only increase arithmetically. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66763419fe8264b343f1122e"
+    },
+    {
+      "id": "44efd090-f84c-4fe3-97ee-e0c45990a660",
+      "linkedTossupId": "da1fc5fa-bc3b-42b0-996f-210be1a68eee",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this terrorist attack in which four hijacked airplanes destroyed the World Trade Center in New York.",
+          "answer": "9/11",
+          "acceptableAnswers": [
+            "9/11",
+            "the September 11",
+            "2001 attacks",
+            "The 9/11"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "On 9/11, a hijacked plane was also crashed into this building, killing over 100 employees. This Arlington building, the headquarters of the Department of Defense, is named for its shape.",
+          "answer": "Pentagon",
+          "acceptableAnswers": [
+            "Pentagon",
+            "The Pentagon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The fourth hijacked flight on 9/11 is thought to have been intended for this building. Instead, passengers such as Todd Beamer stormed the cockpit, crashing the plane into a field in Pennsylvania.",
+          "answer": "Capitol",
+          "acceptableAnswers": [
+            "Capitol",
+            "The Capitol"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This event was planned by the \"Hamburg Cell\" and Khalid Sheikh Mohammed. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0012ddfc9de4846a50491"
+    },
+    {
+      "id": "9998d59d-d0ca-4697-8a64-f1c7e5dea945",
+      "linkedTossupId": "3ed6ba5d-f840-4910-aefa-3fa8f03da80e",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Wharton condemns high society in this book, in which Bertha arranges the downfall of Lily Bart, who kills herself by overdosing on a sleep-inducing drug.",
+          "answer": "House of Mirth",
+          "acceptableAnswers": [
+            "House of Mirth",
+            "The House of Mirth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Wharton condemns high society again with this story of a wealthy lawyer, Newland Archer, who falls in love with his fiancee's cousin, the married countess Ellen Olenska.",
+          "answer": "Age of Innocence",
+          "acceptableAnswers": [
+            "Age of Innocence",
+            "The Age of Innocence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This work isn't actually a novel, but a treatise on interior design that lambasts Victorian and praises classical European style. It was co-written by Wharton and architect Ogden Codman.",
+          "answer": "Decoration of Houses",
+          "acceptableAnswers": [
+            "Decoration of Houses",
+            "The Decoration of Houses"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these novels of Edith Wharton for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa591320135c"
+    },
+    {
+      "id": "58f35a0e-cc70-421e-9595-641893bd109d",
+      "linkedTossupId": "e1b38400-52a7-414a-9505-86f41671b946",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this classification of solar system objects to which Pluto was \"demoted\" in 2006.",
+          "answer": "dwarf planet",
+          "acceptableAnswers": [
+            "dwarf planet",
+            "dwarfs",
+            "The dwarf planet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Three of the five dwarf planets recognized by the IAU, including Pluto, lie in this region of the solar system immediately beyond Neptune.",
+          "answer": "Kuiper",
+          "acceptableAnswers": [
+            "Kuiper",
+            "The Kuiper"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the two dwarf planets outside of the Kuiper belt is this object discovered in 2003. Originally named Xena, it has one known moon, Dysnomia.",
+          "answer": "Eris",
+          "acceptableAnswers": [
+            "Eris",
+            "2003 UB313",
+            "The Eris"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In 2006 the IAU defined these as objects which orbit the Sun, are kept in hydrostatic equilibrium by their gravity, and have not cleared the neighborhood of their orbits. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43f06"
+    },
+    {
+      "id": "6787d74c-956b-46cc-8098-91e1fc2026e1",
+      "linkedTossupId": "49555845-0ded-4955-8e43-86c98db7a8da",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this holiday on which Frau Perchta visits homes in the Alpine countryside with her retinue of unbaptized children, punishing the wicked by cutting open their bellies. In other traditions, bad children are punished on this holiday by Black Peter and the Krampus.",
+          "answer": "Christmas",
+          "acceptableAnswers": [
+            "Christmas",
+            "Twelve Days of Christmas",
+            "Advent",
+            "Christmas Day",
+            "Christmas Eve",
+            "The Christmas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Perchta, like her northern counterpart Holda, was a patron of this craft and was often encountered with a golden tool used for it. The Norse goddess Frigg was famed for her skill in this craft, through which she made the clouds.",
+          "answer": "spinning",
+          "acceptableAnswers": [
+            "spinning",
+            "any answer indicating textile creation such as knitting",
+            "The spinning"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This mountain spirit from Silesian folklore is said to live in the Riesengebirge. He got his name after abducting a local princess and giving her a magic wand that let her turn turnips into companions.",
+          "answer": "Rübezahl",
+          "acceptableAnswers": [
+            "Rübezahl",
+            "Liczyrepa",
+            "Duch Gór",
+            "Rzepiór",
+            "Rzepolicz",
+            "Karknosz",
+            "Krakonos",
+            "The Rübezahl"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A folk figure associated with this holiday wanders the mountains blessing the shepherds' flocks and once blinded a servant for a year for spying on his master's family by hiding in a stove. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361e01fec1ecd3e795a43cd"
+    },
+    {
+      "id": "1f9e15dc-a014-42a7-94d8-2a7e7f366ec2",
+      "linkedTossupId": "9983b6f5-a1b4-4c6f-9fa4-67ca579df851",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "In a T. S. Eliot verse drama centering on the internal reflections of Archbishop Thomas Becket, this title event occurs via a group of knights. One of these events occurs \"on the Orient Express\" in an Agatha Christie book.",
+          "answer": "murder",
+          "acceptableAnswers": [
+            "murder",
+            "The murder"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author's novel Conversation in the Cathedral portrayed life under the Odría dictatorship. This author also wrote about military cadets in The Time of the Hero.",
+          "answer": "Vargas Llosa",
+          "acceptableAnswers": [
+            "Vargas Llosa",
+            "The Vargas Llosa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Alejo Carpentier wrote about three orphans from this country in his novel Explosion in a Cathedral. A poem by this country's native writer José Martí was adapted into the song \"Guantanamera.\"",
+          "answer": "Cuba",
+          "acceptableAnswers": [
+            "Cuba",
+            "The Cuba"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name some things related to occurrences in cathedrals:",
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc399"
+    },
+    {
+      "id": "8ae1e609-4190-4183-9cd3-a3fc79eae6ee",
+      "linkedTossupId": "cd02385d-f5f7-4c34-867c-52432024e9d0",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this high-energy radiation studied by NASA's Fermi Space Telescope, which succeeded the Compton Observatory for this part of the electromagnetic spectrum.",
+          "answer": "gamma",
+          "acceptableAnswers": [
+            "gamma",
+            "Fermi Gamma-ray Space Telescope",
+            "Compton Gamma Ray Observatory",
+            "The gamma"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Karl Jansky was a pioneer of astronomy in this other part of the electromagnetic spectrum. Jansky observed that the center of the Milky Way is a strong source of this radiation surveyed by the Very Large Array in New Mexico.",
+          "answer": "radio",
+          "acceptableAnswers": [
+            "radio",
+            "The radio"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This optical sky survey based in New Mexico includes the APOGEE study of galactic evolution. This survey's Baryon Oscillation Survey was designed to study early universe expansion by measuring the spatial distribution of luminous red galaxies.",
+          "answer": "Sloan",
+          "acceptableAnswers": [
+            "Sloan",
+            "SDSS",
+            "The Sloan"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Large Area Telescope uses pair conversion detectors to map the whole sky in this part of the electromagnetic spectrum, which is also measured by scintillation detectors. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbeb03c3c9bf58ab2ab67a"
+    },
+    {
+      "id": "1134457b-e3ad-4585-bdad-4e5b65604129",
+      "linkedTossupId": "c1bae1ff-6631-468a-b8e5-4b3eb56610cc",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this character, who inspired the title of Gilbert and Gubar's The Madwoman in the Attic. This woman burns down Thornfield Hall after her husband locks her inside.",
+          "answer": "Mason",
+          "acceptableAnswers": [
+            "Mason",
+            "Bertha",
+            "The Mason"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This character, the husband of Bertha Mason, pays the servant Grace Poole to take care of Bertha, which he publicly reveals on the day of his wedding with another character.",
+          "answer": "Rochester",
+          "acceptableAnswers": [
+            "Rochester",
+            "Edward",
+            "The Rochester"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This governess saves Rochester from the fire caused by Bertha Mason and later marries him. She titles a novel by Charlotte Brontë.",
+          "answer": "Eyre",
+          "acceptableAnswers": [
+            "Eyre",
+            "Jane",
+            "The Eyre"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Jean Rhys (reese) adapted this character as a Jamaican woman named Antoinette Cosway in her novel Wide Sargasso Sea. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630144195c4c3a62fc390044"
+    },
+    {
+      "id": "0ff9cac7-5281-4a4b-a991-2885698198a0",
+      "linkedTossupId": "75dd4f2c-90ee-4b89-bc44-84266f92f97a",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these two domains represented in Egyptian mythology by Geb and Nut, who are tragically torn apart by their son Shu.",
+          "answer": "earth",
+          "acceptableAnswers": [
+            "earth",
+            "heaven for “sky”",
+            "prompt on ground for “earth”",
+            "The earth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The sky and earth are separated by an old woman with a pestle in a story told by this West African tribe. In their creation myth, the sky god Amma fathers a solitary jackal and four pairs of Nommo twins.",
+          "answer": "Dogon",
+          "acceptableAnswers": [
+            "Dogon",
+            "The Dogon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This sky god's son tricks him into thinking he has pooped indoors, leading to this god's departure from the earth. In another myth, this god trades the world's stories for a swarm of hornets, a python, a leopard, and a fairy.",
+          "answer": "Nyame",
+          "acceptableAnswers": [
+            "Nyame",
+            "Onyame",
+            "Nana Nyankopon",
+            "Odomankona",
+            "The Nyame"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Polynesian gods of these two domains, Papa and Rangi, hold each other so tightly that it leaves their children in darkness. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "692330f0f1f28d19289b822f"
+    },
+    {
+      "id": "0bf4c3be-1c63-450f-b98d-30af1ba4aaca",
+      "linkedTossupId": "7de61e5f-39f5-407a-9eb4-ff150cd0ac82",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with skin cell types.",
+          "answer": "epidermis",
+          "acceptableAnswers": [
+            "epidermis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the epidermis in the integumentary system?",
+          "answer": "Skin cell types",
+          "acceptableAnswers": [
+            "Skin cell types"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the integumentary system related to skin cell types.",
+          "answer": "dermis",
+          "acceptableAnswers": [
+            "dermis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human integumentary system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "55feac56-f2a6-4c3a-b582-14c30a8deca3",
+      "linkedTossupId": "254a475c-6886-43ed-922b-d4704eb42c97",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Calchas told this commander of Greek forces to sacrifice his daughter Iphigenia before setting sail for Troy. After the war, he was murdered by his wife Clytemnestra.",
+          "answer": "Agamemnon",
+          "acceptableAnswers": [
+            "Agamemnon",
+            "The Agamemnon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Calchas recommended interrogating Helenus, who revealed that the Achaeans would need the bones of this figure to take Troy. He was given an ivory shoulder blade after his father Tantalus cut him up for the gods.",
+          "answer": "Pelops",
+          "acceptableAnswers": [
+            "Pelops",
+            "The Pelops"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Helenus also revealed that the Achaeans would need to steal this object, a statue of Athena, because Troy would not fall while it remained inside the city walls.",
+          "answer": "Palladium",
+          "acceptableAnswers": [
+            "Palladium",
+            "The Palladium"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the prophecies of Calchas (\"KAHL-kahs\"), for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eec0e50657a21915d9f52a"
+    },
+    {
+      "id": "b39b1f29-a857-47bd-b940-a616afe513c7",
+      "linkedTossupId": "0cdcf8b3-95bf-4854-b286-c62f70ddb60a",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with diabetes types.",
+          "answer": "insulin",
+          "acceptableAnswers": [
+            "insulin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the insulin in the endocrine system?",
+          "answer": "Diabetes types",
+          "acceptableAnswers": [
+            "Diabetes types"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to diabetes types.",
+          "answer": "glucagon",
+          "acceptableAnswers": [
+            "glucagon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "4da35eba-c90b-4908-946a-b6aef85c523e",
+      "linkedTossupId": "e226ed09-7f37-4f87-b3d8-6db0778cee93",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this vague term for a type of composition. One of them for solo violin ends with a monumental chaconne, and another set of six for keyboard are in keys at increasing intervals from each other.",
+          "answer": "partita",
+          "acceptableAnswers": [
+            "partita",
+            "The partita"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bach also wrote a solo partita for this instrument, which features prominently in the badinerie of his Orchestral Suite No. 2. Johann Joachim Quantz taught Frederick the Great this instrument, and Mozart may have adapted his second oboe concerto for this instrument because he allegedly hated writing for it.",
+          "answer": "flute",
+          "acceptableAnswers": [
+            "flute",
+            "The flute"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer used rapidly rising and falling scales to depict stormy waves in the first of a set of six flute concerti, La tempesta di mare. He also wrote The Four Seasons.",
+          "answer": "Vivaldi",
+          "acceptableAnswers": [
+            "Vivaldi",
+            "The Vivaldi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Mozart's Serenade No. 10 for twelve winds and string bass is sometimes given the nickname of the \"Gran\" one of these compositions. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531ffa61a9ba79f358ee"
+    },
+    {
+      "id": "04bd3504-e005-4c2a-ade3-02fdb337b55c",
+      "linkedTossupId": "5fabffc3-87a0-41e8-8a57-5d9125dd0896",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this San Antonio fort that was besieged by Santa Anna's forces in early 1836.",
+          "answer": "Alamo",
+          "acceptableAnswers": [
+            "Alamo",
+            "The Alamo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another defender of the Alamo was this man, whose proficiency with a long-bladed knife led its type to be named for him.",
+          "answer": "Bowie",
+          "acceptableAnswers": [
+            "Bowie",
+            "The Bowie"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This frontiersman and hater of Andrew Jackson died alongside James Bowie and William Travis while defending the Alamo.",
+          "answer": "Crockett",
+          "acceptableAnswers": [
+            "Crockett",
+            "The Crockett"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "William Travis wrote \"VICTORY OR DEATH\" in a plea to \"the People of Texas & All Americans in the World\" during the siege of this fort. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba972ba"
+    },
+    {
+      "id": "22927576-1979-498e-91be-c25d0fb317a3",
+      "linkedTossupId": "1824d6f5-568a-4eb7-a21b-9a1f2a32fb12",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this Southeast Asian empire also known as the Angkor Empire which grew out of the Funan and Chenla kingdoms.",
+          "answer": "Khmer",
+          "acceptableAnswers": [
+            "Khmer",
+            "The Khmer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The capital city of the former Khmer Empire is located in this modern-day country which was the site of the murderous regime of Pol Pot.",
+          "answer": "Cambodia",
+          "acceptableAnswers": [
+            "Cambodia",
+            "The Cambodia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Thai empire took Angkor in 1431 which marked the demise of the Khmer. In the early history of this empire, the Houses of U-Thong and Suphanburi struggled for control until the reign of King Intharacha.",
+          "answer": "Ayutthaya",
+          "acceptableAnswers": [
+            "Ayutthaya",
+            "The Ayutthaya"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Though he may not have been Javanese, Jayavarman II subjugated many kingdoms to this larger state and declared himself chakravartin. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eea9fb047a67fbbb305c6c"
+    },
+    {
+      "id": "12143b25-9ca2-4c94-ad54-bc7716a00315",
+      "linkedTossupId": "1d3cc7be-91ec-49e9-a293-954d72b95382",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this ritual pilgrimage to Mecca.",
+          "answer": "hajj",
+          "acceptableAnswers": [
+            "hajj",
+            "The hajj"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "During the umrah or the hajj, men wear this garment of two large pieces of unstitched cloth. It shares its name with the consecrated state that the pilgrim enters upon donning the garment.",
+          "answer": "ihram",
+          "acceptableAnswers": [
+            "ihram",
+            "The ihram"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Sa'y, a rite of the hajj, represents Hagar's quest for water and ends with the drinking of water from this well.",
+          "answer": "Zamzam",
+          "acceptableAnswers": [
+            "Zamzam",
+            "The Zamzam"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "When it is performed at any time other than during one specific month, it is known as umrah. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df83920c3a38102cd75885"
+    },
+    {
+      "id": "fd76f171-3374-487d-a105-ca9d429dba15",
+      "linkedTossupId": "dd0d2391-9498-455d-907f-50a8a45a9c32",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this socio-political movement beginning in the 1960s in Quebec. Quebec's government was secularized during this period which ended a period of economic stagnation in Quebec.",
+          "answer": "Quiet Revolution",
+          "acceptableAnswers": [
+            "Quiet Revolution",
+            "Révolution tranquille",
+            "The Quiet Revolution"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Support for this cause grew during the Quiet Revolution, which is the main issue supported by the Parti Quebecois. Charles de Gaulle enraged the Canadian federal government by expressing support for this cause in a 1967 speech in Quebec.",
+          "answer": "independence",
+          "acceptableAnswers": [
+            "independence",
+            "sovereignty",
+            "The independence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The killing of Pierre Laporte in 1970 by this Marxist organization prompted Pierre Trudeau to invoke the War Measures Act, which is generally considered the end of the Quiet Revolution.",
+          "answer": "Quebec Liberation Front",
+          "acceptableAnswers": [
+            "Quebec Liberation Front",
+            "Front de libération du Québec",
+            "FLQ",
+            "The Quebec Liberation Front"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Jean Lesage's election as Premier is often viewed as beginning this movement. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eea9fb047a67fbbb305b9e"
+    },
+    {
+      "id": "904fe2ae-329e-4931-8906-440a2b707937",
+      "linkedTossupId": "949e9cda-e30d-4a5f-a91b-2ec5e0f5eebb",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this hero from the Ulster Cycle, who wielded the spear Gae Bolg and got a new name after killing a fierce dog.",
+          "answer": "Cu Chulainn",
+          "acceptableAnswers": [
+            "Cu Chulainn",
+            "Setanta",
+            "The Cu Chulainn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cu Chulainn fought off the armies of Queen Medb at this mythical battle over a prized bull, though he was forced to slay his foster brother Ferdiad during it.",
+          "answer": "cattle raid of Cooley",
+          "acceptableAnswers": [
+            "cattle raid of Cooley",
+            "Tain Bo Cualinge",
+            "The cattle raid of Cooley"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Cu Chulainn and Ferdiad both studied under this warrior woman, who taught Cu Chulainn to use the deadly Gae Bolg.",
+          "answer": "Scathach",
+          "acceptableAnswers": [
+            "Scathach",
+            "The Scathach"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character is the son of Deichtine and the sun god Lugh. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63059e1643cf02018762364f"
+    },
+    {
+      "id": "312b14e8-c390-41f3-b59e-1065b12bc934",
+      "linkedTossupId": "e03de55b-c8f2-4555-a037-29648d8b73e8",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this ancient Sanskrit epic that focuses on the title prince rescuing his wife Sita from Ravana.",
+          "answer": "Ramayana",
+          "acceptableAnswers": [
+            "Ramayana",
+            "The Ramayana"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Prince Rama is the seventh avatar of this Hindu preserver god. This god forms the Trimurti [tree-moor-tee] with Brahma and Shiva.",
+          "answer": "Vishnu",
+          "acceptableAnswers": [
+            "Vishnu",
+            "The Vishnu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rama is helped in his attempt to rescue Sita by Hanuman, one of these animals, who uses his tail to set fire to Ravana's palace. In illustrations of the Ramayana, Hanuman is often modeled after a Rhesus one of these animals.",
+          "answer": "monkey",
+          "acceptableAnswers": [
+            "monkey",
+            "The monkey"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "After being accused of being unfaithful to her husband, a character in this work successfully walks into fire to prove her innocence. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2ccef"
+    },
+    {
+      "id": "8dea7e4c-0f56-410e-9cb3-adbd2584822d",
+      "linkedTossupId": "99a8cb96-cc2c-4686-9ef3-bca19bebaadd",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "What is the probability of flipping three heads in a row?",
+          "answer": "one-eighth",
+          "acceptableAnswers": [
+            "one-eighth",
+            "1/8",
+            "0.125",
+            "12.5%",
+            "The one-eighth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Coin tosses are independent events. For calculating the probability of dependent events, this theorem is often used. It states that P of A given B is equal to P of B given A times P of A over P of B.",
+          "answer": "Bayes’",
+          "acceptableAnswers": [
+            "Bayes’",
+            "The Bayes’"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This problem, which concerns a game show with 3 doors and one prize, is solved using Bayes'theorem. After picking a door, the host opens the remaining door with no prize, and the contestant is given the option to change doors.",
+          "answer": "Monty Hall",
+          "acceptableAnswers": [
+            "Monty Hall",
+            "three prisoners problem",
+            "The Monty Hall"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Consider a fair coin in which heads and tails have an equal probability of appearing after the coin is flipped. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ad943"
+    }
+  ]
+}

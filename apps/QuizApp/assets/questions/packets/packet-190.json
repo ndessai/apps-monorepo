@@ -1,0 +1,1144 @@
+{
+  "packetId": "packet-190",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Literature",
+    "Science",
+    "Human Body",
+    "Fine Arts",
+    "Philosophy",
+    "History"
+  ],
+  "tossups": [
+    {
+      "id": "52664736-84be-4b8d-b4d6-35a5f347c18f",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "This author wrote that \"the best thing to do will be to choose the path to Galta, traverse it again\" and then \"go to the end\" in one work. This author could not decide \"Between leaving and staying\" in a work that also includes \"Golden Lotuses\" and \"Stars and Cricket\" in his collection A Draft of Shadows. This author wrote about Sor Juana Inez de la Cruz in The Traps of Faith, penned The Monkey Grammarian, and wrote and about a \"willow of crystal, a poplar of water\" in another work. This author divided his most famous work about his nation's national identity into nine sections such as \"The Sons of La Malinche,\" \"From Independence to the Revolution,\" and \"The Day of the Dead.\" For 10 points, identify this Mexican author of Sunstone and The Labyrinth of Solitude.",
+      "powerMarkPosition": 305,
+      "answer": "Paz",
+      "acceptableAnswers": [
+        "Paz",
+        "The Paz"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da734"
+    },
+    {
+      "id": "0cd0c6a9-960a-469e-8c1f-58fd1a5a9912",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "text": "The oxide of this element is the most commonly used transfer reagent during transmetallation of N-heterocyclic carbenes. One reagent containing this element has two atoms of it deposited onto celite and is used for oxidation of primary and secondary alcohols. The oxide of this element can be used to catalyze the conversion of diazoketone to ketene in the Wolff rearrangement, and carboxylates of this element can react with a halogen to produce a halide in Hunsdiecker-Borodin reaction. A reagent containing this element as the cation produces a white precipitate in the presence of terminal alkynes. This metal is found as part of an ammoniacal nitrate reagent that forms a \"mirror\" to distinguish aldehydes and ketones. For 10 points, name this metal found in Tollens's reagent with symbolized Ag.",
+      "powerMarkPosition": 488,
+      "answer": "silver",
+      "acceptableAnswers": [
+        "silver",
+        "Ag until read",
+        "The silver"
+      ],
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490be11"
+    },
+    {
+      "id": "63aed902-2de3-41ca-b751-bbb657bf092a",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for action potentials. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this axon-related structure.",
+      "powerMarkPosition": 76,
+      "answer": "Axon",
+      "acceptableAnswers": [
+        "axon",
+        "Axon"
+      ],
+      "explanation": "The axon is a key component of the Nervous system, involved in action potentials.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c8208649-b9ee-4620-a49c-57399f9f7c2d",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "text": "In a play titled for this word, a character recounts a time when his mother found the name of his Jewish childhood crush in his notebook and spat in his face, and a painter has her husband pose for a portrait modeled after Velazquez's portrait of Juan de Pareja. In a novel titled for this feeling, the protagonist watches a soccer match between the Bushbucks and Sundown with a \"dog-man.\" The main character of a play titled for this feeling beats his cheating wife Emily, who paints portraits at a mosque led by Imam Fareed. In a novel titled for this feeling, a professor is relieved to see his name misspelled in the newspaper after three men burn down his daughter's farmhouse. This feeling titles an Ayad Akhtar play and a novel in which Melanie Isaacs has an affair with a Lord Byron scholar. For 10 points, give this word which titles a novel about Professor David Lurie, written by J. M. Coetzee.",
+      "powerMarkPosition": 518,
+      "answer": "disgrace",
+      "acceptableAnswers": [
+        "disgrace",
+        "Disgrace",
+        "Disgraced",
+        "The disgrace"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a87cb"
+    },
+    {
+      "id": "29f323e6-f384-43f6-ab47-ad0b0960e3f7",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "Among his works are variations on Mozart's Die Zauberflöte for cello and piano. Vocal works include the Elegiac Song, the cantata The Glorious Moment and the song cycle To the Distant Beloved. For 10 points, name this German composer of incidental music to Egmont, the Emperor Concerto, and some symphonies that you may have heard of such as the Choral, Pastoral, and Eroica.",
+      "powerMarkPosition": 79,
+      "answer": "Beethoven",
+      "acceptableAnswers": [
+        "Beethoven",
+        "The Beethoven"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a984035f"
+    },
+    {
+      "id": "d585b299-70dc-4b71-8c1d-88381de59034",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "In a 1987 paper, Kuang and Freedman established criteria for uniqueness of limit cycles in one model of these systems called the \"Gause-type.\" The total time is split into \"search time\" and \"handling time\" in a \"disc equation\" describing these systems. One model of these systems incorporates a Holling type II functional response in one of the equations and a density- dependent term in the other equation; that model is named for Rosenzweig and MacArthur. These systems can be described by the equations \"x prime equals a x minus b x y\" and \"y prime equals c x y minus d y.\" The solutions to those coupled differential equations either drop to zero, or display oscillatory behavior where neither population reaches a carrying capacity. For 10 points, the Lotka-Volterra equations describe what type of interspecies interaction where one organism is a food source for another?",
+      "powerMarkPosition": 457,
+      "answer": "predator",
+      "acceptableAnswers": [
+        "predator",
+        "answers indicating that “a predator is eating",
+        "” accept descriptive answers indicating that “one species is eatinganother species",
+        "” prompt on “foraging”",
+        "The predator"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df3a4b1c64d9772f738790"
+    },
+    {
+      "id": "d0b263d8-ab79-4246-b738-ce269510be3b",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This architect utilized a facade sloping thirty-four degrees in his design of Dallas City Hall. His work in Asia included a hotel at Fragrant Hills and the Bank of China Tower. While his design for the John F. Kennedy Library earned him acclaim, falling glass panels led to his firm being sued after his design of the John Hancock Tower in Boston could not endure strong winds. He won his most famous commission for a project proposed by Francois Mitterrand. For 10 points, identify this Pritzker Prize winning architect known for designing the glass pyramid at the Louvre and Cleveland's Rock and Roll Hall of Fame.",
+      "powerMarkPosition": 209,
+      "answer": "Pei",
+      "acceptableAnswers": [
+        "Pei",
+        "The Pei"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f08fe"
+    },
+    {
+      "id": "eb8c9392-a04b-4250-88fa-0c27db82aebb",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "Charge carriers behave according to this model in heterostructures of gallium arsenide layers interleaved between aluminum arsenide layers. In the Brus equation, the band gap plus a term similar to this model's energy gives the emission energy of confined electron-hole pairs. The wave function of this model can be written as a linear combination of the momentum eigenfunctions \"e to the ikx\" and \"e to the negative ikx.\" A spherical version of this model is used to determine the properties of quantum dots. If this model is centered at the origin, then the wave function for the second energy state is a standing wave with a node at the origin. This model's potential is zero in a given region, but infinite everywhere else. For 10 points, name this quantum model in which a small region is surrounded by insurmountable barriers.",
+      "powerMarkPosition": 495,
+      "answer": "particle in a box",
+      "acceptableAnswers": [
+        "particle in a box",
+        "infinite square well",
+        "infinite potential well",
+        "prompt on quantum well",
+        "potential well",
+        "The particle in a box"
+      ],
+      "source": "qbreader",
+      "sourceId": "63be061e6537282fb101c485"
+    },
+    {
+      "id": "acd8eaa6-cbd1-4283-bc8c-50c2842be44a",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "One character in this novel carries around a prized photograph of a Shetland pony. A writer in this novel dwells over an anecdote of teacup theft, which resulted in an execution by firing squad. A repeated phrase in this novel-- \"So it goes\"--is said after the deaths of Edgar Derby and Roland Weary. The protagonist of this novel is kept in a zoo with Montana Wildhack by aliens shaped like toilet plungers called Tralfamadorians [\"tra-fal-mah-door-ee-ins\"]. Centering on a character who gets \"unstuck in time\" after witnessing the firebombing of Dresden is, for 10 points, what novel about Billy Pilgrim, written by Kurt Vonnegut [\"vonn-uh-gut\"]?",
+      "powerMarkPosition": 270,
+      "answer": "Slaughterhouse-Five",
+      "acceptableAnswers": [
+        "Slaughterhouse-Five",
+        "The Slaughterhouse-Five"
+      ],
+      "source": "qbreader",
+      "sourceId": "63167de399ac1f87e75a532f"
+    },
+    {
+      "id": "77ce30b7-f74a-4347-978e-51a8ab5bf73a",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "One of these creatures is featured at the bottom of Lucas Cranach the Elder's The Crucifixion with the Converted Centurion, and one of these is shown attacked by a lion in a work by George Stubbs. Rosa Bonheur painted a number of these animals running in a circle in one work, and the head of one of these creatures is depicted looking on from the left as an incubus sits on a sleeping woman in another painting. Aguste Macke and Franz Marc lead a German art movement named after a painting prominently featuring one of these animals, and four of these creatures enter the scene from the left as their riders wreck havoc in a Durer etching. For 10 points, name these animals, which are ridden by certain four figures of the Apocalypse.",
+      "powerMarkPosition": 412,
+      "answer": "horse",
+      "acceptableAnswers": [
+        "horse",
+        "The horse"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da7d9"
+    },
+    {
+      "id": "25b608f3-dc2a-491b-997e-5e11336bc4a9",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "The Steinhart-Hart equation allows certain resistors to be used as these, while the rate of conductance is measured by one of these which rely on the Coulomb blockade. One of these named for Beckmann used Raoult's law to analyze molar masses of compounds. One named for Galileo contains several colored glass balls of various densities floating in a liquid, and one named for Six displays the minimum and maximum value of the property it measures. For 10 points, identify this object, commonly used to measure temperature.",
+      "powerMarkPosition": 255,
+      "answer": "thermometers",
+      "acceptableAnswers": [
+        "thermometers",
+        "The thermometers"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a98413b2"
+    },
+    {
+      "id": "7bf9b971-1396-47ba-ac5b-7b0bbe358385",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "This character claims David and Goliath were the first two disciples when asked by his love interest's father, the town judge. After taking the blame for destroying an anatomy book, this character rekindles his relationship with Becky Thatcher. This character lives with his Aunt Polly in St. Petersburg, which allows him to befriend Huckleberry Finn. Mark Twain created, for 10 points, what boy who tricks his friends into whitewashing a fence?",
+      "powerMarkPosition": 228,
+      "answer": "Tom",
+      "acceptableAnswers": [
+        "Tom",
+        "The Tom"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004cd7"
+    },
+    {
+      "id": "1a85fe44-6af3-4990-b274-47ac36f71557",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "text": "Enthusiasts of these objects distinguish them based on whether their signature is more V-shaped or U-shaped. A portmanteau was coined to describe the Chinese market for these items, which is dominated by no-name brands that package surprisingly high-quality versions of these items in boxes adorned with anime girls. The Blessing2: Dusk is one of these objects that was developed in a collaboration between Moondrop and Crinacle, who maintains a popular tier list for these objects. The companies Etymotic and DUNU make a small variety of these objects called IEMs. These objects grant users more control over their environment in a phenomenon called the \"Walkman effect.\" Closed-back varieties of these items are typically better at passive noise cancellation. For 10 points, name these devices manufactured by companies like Sennheiser and Bose.",
+      "powerMarkPosition": 559,
+      "answer": "headphones",
+      "acceptableAnswers": [
+        "headphones",
+        "IEMs",
+        "in-ear monitors before “IEMs”",
+        "accept specific types of headphones",
+        "accept earbuds",
+        "earphones",
+        "The headphones"
+      ],
+      "source": "qbreader",
+      "sourceId": "657fd7d9de6df0163bbe3b8b"
+    },
+    {
+      "id": "f4c69a61-e9fa-41c2-9269-981656d531fc",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "In this game, one character's ultimate weapon can only be used after you dodge 200 consecutive lightning bolts on Thunder Plains. This game uses a Conditional Turn-Based system, replacing the Active Time Battle system of earlier game in the series. This game uses an innovative leveling-up system in which any character can get the stat boosts of any other called the Sphere Grid. In its storyline, the protagonists face the villainous Seymour several times on a pilgrimage originally to summon the Final Aeon and defeat Sin. For 10 points, name this game that features Tidus, Auron, and Yuna, a 2001 installment in a long-running series by Square-Enix.",
+      "powerMarkPosition": 248,
+      "answer": "Final Fantasy X",
+      "acceptableAnswers": [
+        "Final Fantasy X",
+        "The Final Fantasy X"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b43d"
+    },
+    {
+      "id": "dfe13b7f-6475-4173-8fce-69c065f482e0",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "In 2010, Yaghjian proved the correctness of an equation conjectured by Caldirola that in the point limit converges to an equation governing these particles. The infinite self energy of these particle is eliminated when starting with the non-linear Lagrangian proposed by Born and Infeld. The difference by a factor of four-thirds in two calculations for the mass of these particles is eliminated by introducing Poincaré (\"pwan-cuh-RAY\") stresses. The total magnetic moment of these particles in a weak field is equal to the negative Lande-g factor times the Bohr magneton over h-bar times J. The shift in wavelength after x-rays collide with these particles was found to depend on one minus the cosine of the scattering angle by Compton. For 10 points, name this particle whose interactions with photons are studied in Q·E·D.",
+      "powerMarkPosition": 532,
+      "answer": "electron",
+      "acceptableAnswers": [
+        "electron",
+        "The electron"
+      ],
+      "source": "qbreader",
+      "sourceId": "63a3f66ab17797e852f22cf7"
+    },
+    {
+      "id": "366cff58-204b-4366-ab64-659674c1b62b",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for antigen presentation. It plays a key role in the immune system and is one of the most studied parts of human anatomy. For ten points, name this T cell-related structure.",
+      "powerMarkPosition": 77,
+      "answer": "T cell",
+      "acceptableAnswers": [
+        "T cell",
+        "T cell"
+      ],
+      "explanation": "The T cell is a key component of the Immune system, involved in antigen presentation.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "84f7634a-fd19-4d74-9335-e5a73ce6b520",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "A member of this clan, who wrote \"I give away a life of a hundred years and the nation repays a favor of one day\" before charging into his death, was named Sadayuki. While speaking with a monk, a member of this clan shouted \"katsu\", or \"victory\", when asked how he would handle an upcoming war. Members of this clan's main line were given the title of tokusō while the title of the assistant called rensho was given to notable members in other branches. This clan went extinct after its defeat in the Genkō War. Ise Sōzui adopted the name of this clan for prestige after gaining control of Izu province; the territory of that \"Later\" version of this clan was confiscated and granted to Tokugawa Ieyasu, leading to Edo becoming Japan's capital. Zen Buddhism was fostered by a shikken of this clan who also led the defence of Japan during the Mongol invasions. For 10 points, the Legend of Zelda tri-force originated as the emblem of what clan of the general Tokimune?",
+      "powerMarkPosition": 500,
+      "answer": "Hōjō",
+      "acceptableAnswers": [
+        "Hōjō",
+        "Later Hōjō",
+        "The Hōjō"
+      ],
+      "source": "qbreader",
+      "sourceId": "673c03f14d9b6b7ed1ef58f7"
+    },
+    {
+      "id": "da17e4ee-0114-440d-b870-d4bc11b561b6",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for calcitonin. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this thyroid-related structure.",
+      "powerMarkPosition": 74,
+      "answer": "Thyroid",
+      "acceptableAnswers": [
+        "thyroid",
+        "Thyroid"
+      ],
+      "explanation": "The thyroid is a key component of the Endocrine system, involved in calcitonin.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "36412f36-e794-44a9-a8a8-0f7dfb991ad0",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "The narrator of one of his poems rides down in a boat into an \"immeasurable void\" after traveling through ancient ruins in his poem \"Alastor.\" The Peterloo massacre inspired this man's \"The Masque of Anarchy\" and the title phenomenon is described as \"the awful shadow of some unseen power / Floats though unseen among us\" in his \"Hymn to Intellectual Beauty.\" He called the title entity the \"breath of Autumn's being\" and asked \"If Winter comes, can Spring be far behind\" in one poem, and a traveler described a statue with a \"sneer of cold command\" whose pedestal reads \"'Look on my works, ye mighty, and despair!'\" For 10 points, identify this poet who wrote \"Ode to the West Wind\" and \"Ozymandias.\"",
+      "powerMarkPosition": 246,
+      "answer": "Shelley",
+      "acceptableAnswers": [
+        "Shelley",
+        "The Shelley"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bcab6bc6fadbe6166da2d1"
+    },
+    {
+      "id": "72a47696-f3b6-4110-b363-b0e67a1b1a65",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "Prior to this period, participants in it marked their doors with goat's blood to avoid a plague that killed firstborn sons. Aaron created the golden calf during this period, where participants were forced to wander for forty years in the Sinai Desert. At the start of this period, God parted the Red Sea, which caused the death of Pharaoh. For 10 points, name this period where Moses led the Israelites out of Egypt.",
+      "powerMarkPosition": 237,
+      "answer": "Exodus",
+      "acceptableAnswers": [
+        "Exodus",
+        "Israelites leaving Egypt",
+        "escaping the Pharaoh",
+        "the Israelites wandering the Sinai Desert before mentioned",
+        "The Exodus"
+      ],
+      "source": "qbreader",
+      "sourceId": "64a635c7c514d1929f57b8e2"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "71c07c4c-af66-4dce-bc35-e2d23d3687f1",
+      "linkedTossupId": "52664736-84be-4b8d-b4d6-35a5f347c18f",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this novel in which Toru Okada searches for a missing cat named after his brother-in-law, Noboru Wataya, and attempts to find his wife Kumiko.",
+          "answer": "Wind-Up Bird Chronicle",
+          "acceptableAnswers": [
+            "Wind-Up Bird Chronicle",
+            "Nejimaki-dori Kuronikuru",
+            "The Wind-Up Bird Chronicle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Often translated by Jay Rubin and Alfred Birnbaum, this Japanese author of Kafka on the Shore, A Wild Sheep Chase, and Norwegian Wood wrote The Wind-Up Bird Chronicle.",
+          "answer": "Murakami",
+          "acceptableAnswers": [
+            "Murakami",
+            "names in either order",
+            "The Murakami"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Murakami's Kafka on the Shore, Kafka Tamura spends time in the Takamatsu library reading Richard Burton's translation of this work in which King Shahryar hears a bunch of stories from Scheherazade.",
+          "answer": "One Thousand and One Arabian Nights",
+          "acceptableAnswers": [
+            "One Thousand and One Arabian Nights",
+            "The Arabian Nights’ Entertainment",
+            "Kitab 'alf layla wa-layla",
+            "Hezar-o yek sab",
+            "The One Thousand and One Arabian Nights"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This novel's protagonist never receives the letters sent by May Kasahara, and later he works for Nutmeg and Cinnamon Akasaka only hearing about the Nomonhan Incident from Lieutenant Mamiya. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fe52"
+    },
+    {
+      "id": "5d4caf24-2056-41d6-a368-a6cffecc599a",
+      "linkedTossupId": "0cd0c6a9-960a-469e-8c1f-58fd1a5a9912",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this quantity defined as the radius of interest divided by the mean velocity of a star in the cluster. This timescale used to describe dynamics of stellar clusters is typically on the order of 10 to the sixth years, making it smaller than the relaxation time and evolution time.",
+          "answer": "crossing",
+          "acceptableAnswers": [
+            "crossing",
+            "The crossing"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The crossing time tends to be much longer in open clusters compared to these clusters, whose strong gravitational pull allows them to survive for much longer as they orbit the galactic core.",
+          "answer": "globular",
+          "acceptableAnswers": [
+            "globular",
+            "The globular"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Collisions between stars in globular clusters is one hypothesis to explain the formation of these stars, which remain on the main sequence past the turn-off point.",
+          "answer": "blue straggler",
+          "acceptableAnswers": [
+            "blue straggler",
+            "The blue straggler"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The relaxation time of a star cluster only depends on the number of stars in the cluster and this quantity. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df40b44c1b765cb43c38cd"
+    },
+    {
+      "id": "3ad49dcf-a515-4e74-bdfb-9b9d8273aac0",
+      "linkedTossupId": "63aed902-2de3-41ca-b751-bbb657bf092a",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with mouth and salivary glands.",
+          "answer": "esophagus",
+          "acceptableAnswers": [
+            "esophagus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the esophagus in the digestive system?",
+          "answer": "Mouth and salivary glands",
+          "acceptableAnswers": [
+            "Mouth and salivary glands"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to mouth and salivary glands.",
+          "answer": "peristalsis",
+          "acceptableAnswers": [
+            "peristalsis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "81a68b59-ac6f-47e8-86aa-e4fa7cba7cd5",
+      "linkedTossupId": "c8208649-b9ee-4620-a49c-57399f9f7c2d",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Chinese author of Lust, Caution and Love in a Fallen City.",
+          "answer": "Chang",
+          "acceptableAnswers": [
+            "Chang",
+            "Zhang Ailing",
+            "The Chang"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chang wrote a study of this Classical Chinese novel by Cao Xueqin (TSAO shway-CHEEN) that centers on a boy who is born with a stone in his mouth.",
+          "answer": "Dream of the Red Chamber",
+          "acceptableAnswers": [
+            "Dream of the Red Chamber",
+            "The Story of the Stone",
+            "Hong Lou Meng",
+            "The Dream of the Red Chamber"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Jia Baoyu (j'yah bao-YEW), the protagonist of Dream of the Red Chamber, shows his idleness by reading this philosophical text, named for its Daoist author who sits dreaming of a butterfly.",
+          "answer": "Zhuangzi",
+          "acceptableAnswers": [
+            "Zhuangzi",
+            "The Zhuangzi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one of this author's stories, Wong Jiazhi (j'yah-JURR) poses as a married woman in order to seduce the collaborator Mr. Yee, whom she plans to assassinate. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490bd59"
+    },
+    {
+      "id": "acba67cb-f556-4f9f-be83-983daa36f6e5",
+      "linkedTossupId": "29f323e6-f384-43f6-ab47-ad0b0960e3f7",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this iconoclastic movement in film from the 1950s and 1960s that includes directors like Jean-Luc Godard, François Truffaut, and Agnès Varda.",
+          "answer": "New Wave",
+          "acceptableAnswers": [
+            "New Wave",
+            "La Nouvelle Vague",
+            "The New Wave"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The title character of Varda's Cléo from 5 to 7 feels hopeful after meeting a soldier on leave from this war. Colonel Mathieu attempts to crush an insurgency in the Casbah in a 1966 film by Gillo Pontecorvo set during this war.",
+          "answer": "Algeria",
+          "acceptableAnswers": [
+            "Algeria",
+            "Algerian Revolution",
+            "The Algeria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Guy is drafted into the Algerian War in The Umbrellas of Cherbourg (SHARE-boorg), a movie of this type by Varda's husband Jacques Demy. Singin' in the Rain and An American in Paris were also this kind of movie.",
+          "answer": "musical",
+          "acceptableAnswers": [
+            "musical",
+            "musicals",
+            "The musical"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One director from this movement's Left Bank made the movie Cléo from 5 to 7, which follows a pop singer in real time as she awaits the results of a cancer test. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae856a"
+    },
+    {
+      "id": "234eddd7-1ee9-45d3-aa27-595d9edc4147",
+      "linkedTossupId": "d585b299-70dc-4b71-8c1d-88381de59034",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this kind of location. Statements named for this location are most commonly of the Dirichlet or Neumann type.",
+          "answer": "boundary",
+          "acceptableAnswers": [
+            "boundary",
+            "boundary layer",
+            "boundary conditions",
+            "The boundary"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The zero-velocity boundary condition exists since this process takes place where a fluid meets a wall. A meniscus is created by this process of two dissimilar materials sticking together.",
+          "answer": "adhesion",
+          "acceptableAnswers": [
+            "adhesion",
+            "The adhesion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This scientist designed a turbine that works due to boundary layer effects but requires disks to spin at Mach 13. This scientist also designed a check valve that allows fluid to only flow in one direction.",
+          "answer": "Tesla",
+          "acceptableAnswers": [
+            "Tesla",
+            "Tesla turbine",
+            "Tesla valve",
+            "The Tesla"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Effects named for this location's \"layer\" are created by the no-slip condition on fluid in this location. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6797c22c6d78eee804a37952"
+    },
+    {
+      "id": "edbaec67-3154-4586-a73b-af1fe24912df",
+      "linkedTossupId": "d0b263d8-ab79-4246-b738-ce269510be3b",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This Italian sculpted a bronze David standing over the head of Goliath, and created statues of Gattamelata and St. George.",
+          "answer": "Donatello",
+          "acceptableAnswers": [
+            "Donatello",
+            "Donato di Niccollo di Betto Bardi",
+            "The Donatello"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Frenchman painted The New Orleans Cotton Exchange and The Dance Class. He favored dancers as subjects, as seen in his sculpture Little Dancer of Fourteen Years.",
+          "answer": "Degas",
+          "acceptableAnswers": [
+            "Degas",
+            "The Degas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This painter of Nude Descending a Staircase made \"readymades\" like Bicycle Wheel and inverted a urinal, calling it Fountain.",
+          "answer": "Duchamp",
+          "acceptableAnswers": [
+            "Duchamp",
+            "The Duchamp"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some famous sculptors for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "663809d0867240107e0f1ed2"
+    },
+    {
+      "id": "9a191bf5-0a26-4ca3-8e2e-0b87d674121c",
+      "linkedTossupId": "eb8c9392-a04b-4250-88fa-0c27db82aebb",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This structure functions as as the heart's intrinsic pacemaker by spontaneously generating electrical impulses that eventually de·polarize the cardiac myo·cytes.",
+          "answer": "sino-atrial",
+          "acceptableAnswers": [
+            "sino-atrial",
+            "SA node",
+            "The sino-atrial"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This technique, in which one exhales forcefully against a closed airway, causes an increase in intra·thor·acic pressure leading to a sharp rise in blood pressure, followed by a sharp drop and then a second sharp rise. You probably use this technique when you're trying to hit a PR on your bench press.",
+          "answer": "Valsalva",
+          "acceptableAnswers": [
+            "Valsalva",
+            "The Valsalva"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Perhaps the most notable part of an EKG is this combination of elements that corresponds to the depolarization of the right and left ventricles. Wolff-Parkinson-White syndrome can be diagnosed by the appearance of a delta wave slurring part of this feature.",
+          "answer": "QRS",
+          "acceptableAnswers": [
+            "QRS",
+            "The QRS"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Rhythmic cardiac muscle contraction is a complicated process. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64306480335bc8c468cbb333"
+    },
+    {
+      "id": "1ea64ebd-0963-4da1-b80c-044ead4a5b3a",
+      "linkedTossupId": "acd8eaa6-cbd1-4283-bc8c-50c2842be44a",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this novel, detailing the events of a span of 24 hours, which sees Shukhov, the title character, forced to clean a bathroom and do hard labor in freezing cold temperatures.",
+          "answer": "Day in the Life of Ivan Denisovich",
+          "acceptableAnswers": [
+            "Day in the Life of Ivan Denisovich",
+            "The Day in the Life of Ivan Denisovich"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One Day in the Life of Ivan Denisovich is a work by this author of Cancer Ward, who won the 1970 Nobel Prize.",
+          "answer": "Solzhenitsyn",
+          "acceptableAnswers": [
+            "Solzhenitsyn",
+            "The Solzhenitsyn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This most famous Solzhenitsyn work drew from the author's experiences in a Soviet work camp; in it, he traces the unfortunate path of a zek through Russia's complex penal system, the \"chain of islands\" for which the book is named.",
+          "answer": "The Gulag Archipelago",
+          "acceptableAnswers": [
+            "The Gulag Archipelago",
+            "Gulag Archipelago"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The protagonist counts himself as lucky and goes to sleep content, despite the fact that his life obviously sucks. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fdc23fc764815614749e0c"
+    },
+    {
+      "id": "501596d1-6f5b-46f3-9a96-be9e060fee4d",
+      "linkedTossupId": "77ce30b7-f74a-4347-978e-51a8ab5bf73a",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this 20th-century Italian composer who orchestrated his 3 Preludes on Gregorian Melodies for Church Windows. He also composed Trittico botticelliano and a trilogy of symphonic poems.",
+          "answer": "Respighi",
+          "acceptableAnswers": [
+            "Respighi",
+            "The Respighi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Mario Castelnuovo-Tedesco wrote 24 preludes and fugues for two of these Well-Tempered instruments after studying Sor's Mozart Variations. Ginastera imitated this instrument at the end of his first Argentine Dance and used folk music in his sonata for it.",
+          "answer": "guitar",
+          "acceptableAnswers": [
+            "guitar",
+            "The guitar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Alfredo Casella organized a weeklong 1939 festival reviving this composer's music. The anti-modernist critic Alceo (\"al-CHAY-oh\") Toni arranged this Baroque violinist's Four Seasons for piano four-hands.",
+          "answer": "Vivaldi",
+          "acceptableAnswers": [
+            "Vivaldi",
+            "The Vivaldi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This composer based his orchestral suite Rossiniana and his ballet La boutique fantasque on Rossini's piano music. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f32f19679b6464bbdf743b"
+    },
+    {
+      "id": "2b8fbf7c-2d6a-4765-a643-b8b1a55faaac",
+      "linkedTossupId": "25b608f3-dc2a-491b-997e-5e11336bc4a9",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The traditional way to knock out genes involves taking advantage of this process, during which the formation of a Holliday junction facilitates swapping out regions of DNA surrounded by regions with identical sequences.",
+          "answer": "homologous recombination",
+          "acceptableAnswers": [
+            "homologous recombination",
+            "HR",
+            "homology-directed recombination",
+            "HDR",
+            "prompt on crossover",
+            "crossing over",
+            "The homologous recombination"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The speed of homologous recombination also determines how quickly this trendy system, which is derived from bacterial anti-phage mechanisms, can knock out a desired gene.",
+          "answer": "CRISPR",
+          "acceptableAnswers": [
+            "CRISPR",
+            "clustered regularly interspaced short palindromic repeats/Cas-9",
+            "The CRISPR"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Depending on the number of alleles affected, gene knockouts can be either homozygous or of this other type, in which only one allele is affected.",
+          "answer": "heterozygous",
+          "acceptableAnswers": [
+            "heterozygous",
+            "The heterozygous"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about gene knockout procedures, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b0dd4"
+    },
+    {
+      "id": "73741e31-2409-4b92-8c3f-803ab0fb57ba",
+      "linkedTossupId": "7bf9b971-1396-47ba-ac5b-7b0bbe358385",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this book featuring the title spider and a pig originally raised by Fern.",
+          "answer": "Charlotte’s Web",
+          "acceptableAnswers": [
+            "Charlotte’s Web",
+            "The Charlotte’s Web"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man, Fern's uncle, enters Wilbur in the county fair.",
+          "answer": "Homer",
+          "acceptableAnswers": [
+            "Homer",
+            "either underlined name",
+            "The Homer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Charlotte, being a spider, lays a number of eggs that hatch. Name any one of Charlotte's children from the book.",
+          "answer": "Joy",
+          "acceptableAnswers": [
+            "Joy",
+            "any one of the underlined names",
+            "The Joy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The title character and Templeton the rat help Wilbur in this book written by E.B. White. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c84d"
+    },
+    {
+      "id": "dc5acd0b-01d5-4d05-8ec4-6534c2e6d734",
+      "linkedTossupId": "1a85fe44-6af3-4990-b274-47ac36f71557",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify these mathematical structures, which consist of vertices and the edges that connect them.",
+          "answer": "graph",
+          "acceptableAnswers": [
+            "graph",
+            "The graph"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This term refers to a subgraph of a graph in which each vertex within the subgraph are adjacent to each other vertex. Finding the maximum size of one of these complete subgraphs is a common problem.",
+          "answer": "clique",
+          "acceptableAnswers": [
+            "clique",
+            "The clique"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Claude Berge introduced this term to refer to graphs in which, for each induced subgraph, the chromatic number of that subgraph equals the size of the largest clique within that subgraph.",
+          "answer": "perfect",
+          "acceptableAnswers": [
+            "perfect",
+            "The perfect"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These structures are extremely important in modeling networks of actors and relationships. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee83f"
+    },
+    {
+      "id": "b0494570-8ea0-4137-9f34-f5e09e96c8c0",
+      "linkedTossupId": "f4c69a61-e9fa-41c2-9269-981656d531fc",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this reincarnated leader of Tibetan Buddhism, who is selected by a series of tests including recognizing the objects of the previous holder of this position. Its current holder is Tenzin Gyatso.",
+          "answer": "Dalai Lama",
+          "acceptableAnswers": [
+            "Dalai Lama",
+            "The Dalai Lama"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Dalai Lama is consider to be a reincarnation of A-valo-kite-sh-vara, one of these figures who embodies compassion. This term refers to individuals who delay enlightenment in order to help others liberate themselves from suffering.",
+          "answer": "bodhisattva",
+          "acceptableAnswers": [
+            "bodhisattva",
+            "The bodhisattva"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Dalai Lama line belongs to this newest school of Tibetan Buddhism, founded by Je Tsongkhapa. The Ganden Tripa, not the Dalai Lama, is actually the leader of this school.",
+          "answer": "Gelug",
+          "acceptableAnswers": [
+            "Gelug",
+            "Yellow Hat School",
+            "The Gelug"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The current holder of this position claims that the next holder of this position will be found outside of Tibet. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "636ca2cb1b6aedfbdb9efddb"
+    },
+    {
+      "id": "1895bf37-fd38-4278-b29c-5a27ab919880",
+      "linkedTossupId": "dfe13b7f-6475-4173-8fce-69c065f482e0",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this large, diagonal region of the Hertzsprung-Russell diagram that contains most of the known dwarf stars.",
+          "answer": "main sequence",
+          "acceptableAnswers": [
+            "main sequence",
+            "The main sequence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These pre-main sequence variable stars are believed to be powered by gravitational contraction. Observationally, they are noted for high amounts of lithium and the presence of a circumstellar disc.",
+          "answer": "T Tauri",
+          "acceptableAnswers": [
+            "T Tauri",
+            "The T Tauri"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Smaller protostars often follow this pathway to the main sequence. If a protostar is sufficiently large, it may enter the alternative Henyey track before reaching the main sequence.",
+          "answer": "Hayashi",
+          "acceptableAnswers": [
+            "Hayashi",
+            "The Hayashi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Stars in this grouping generally burn hydrogen via the P-P chain, unless they possess sufficiently high mass, then they burn heavier elements via the CNO cycle. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b1049"
+    },
+    {
+      "id": "8a35ef46-d97d-46f2-b9c9-afda5e49d0e1",
+      "linkedTossupId": "366cff58-204b-4366-ab64-659674c1b62b",
+      "category": "Human Body",
+      "subcategory": "Immune",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with allergies and hypersensitivity.",
+          "answer": "vaccine",
+          "acceptableAnswers": [
+            "vaccine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the vaccine in the immune system?",
+          "answer": "Allergies and hypersensitivity",
+          "acceptableAnswers": [
+            "Allergies and hypersensitivity"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the immune system related to allergies and hypersensitivity.",
+          "answer": "allergy",
+          "acceptableAnswers": [
+            "allergy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human immune system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ef59afc9-d00c-4796-aa68-59a2fbb6278f",
+      "linkedTossupId": "84f7634a-fd19-4d74-9335-e5a73ce6b520",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this legislation originally passed to fight Mafia influence, which applies to people who engage in \"patterns of predicate crimes.\"",
+          "answer": "RICO",
+          "acceptableAnswers": [
+            "RICO",
+            "The RICO"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "RICO was championed by this president, during whose first term it was passed.",
+          "answer": "Nixon",
+          "acceptableAnswers": [
+            "Nixon",
+            "The Nixon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A notable use of the RICO was the prosecution of this group, one of the Five Families of New York which for a time was led by John Gotti.",
+          "answer": "Gambino",
+          "acceptableAnswers": [
+            "Gambino",
+            "The Gambino"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the 1999 case of H. J. Inc. v. Northwestern Bell Telephone Co., the Supreme Court limited the scope of this legislation to systematic conduct rather than isolated incidents. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e43e30eb21ef1b79101938"
+    },
+    {
+      "id": "c0ba28bb-474c-4f47-8ade-38c9275ebb11",
+      "linkedTossupId": "da17e4ee-0114-440d-b870-d4bc11b561b6",
+      "category": "Human Body",
+      "subcategory": "Integumentary",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with dermis components.",
+          "answer": "epidermis",
+          "acceptableAnswers": [
+            "epidermis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the epidermis in the integumentary system?",
+          "answer": "Dermis components",
+          "acceptableAnswers": [
+            "Dermis components"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the integumentary system related to dermis components.",
+          "answer": "dermis",
+          "acceptableAnswers": [
+            "dermis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human integumentary system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "07cc2bf9-9992-413c-b95d-a764c10ea238",
+      "linkedTossupId": "36412f36-e794-44a9-a8a8-0f7dfb991ad0",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this novel which ends with the title character, a former unlicensed dentist, in Death Valley, handcuffed to the body of his friend Marcus Schouler.",
+          "answer": "McTeague",
+          "acceptableAnswers": [
+            "McTeague",
+            "The McTeague"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "McTeague was written by this American naturalist, who used the Mussel Slough Tragedy as the basis for his 1901 novel The Octopus.",
+          "answer": "Norris",
+          "acceptableAnswers": [
+            "Norris",
+            "Benjamin Franklin Norris",
+            "The Norris"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this posthumously-published Norris novel, Curtis Jadwin's attempts to corner the Chicago wheat market strain his marriage to Laura Dearborn.",
+          "answer": "Pit",
+          "acceptableAnswers": [
+            "Pit",
+            "The Pit"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Two minor characters in this novel, the junk-collecting maid Maria and the scrap dealer Zerkow, marry but are later found dead by the title character's miserly wife, who rolls around in a pile of gold coins in a memorable scene. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34c4d"
+    },
+    {
+      "id": "8e4d33fe-0d64-4771-9ff3-0e965d897cd4",
+      "linkedTossupId": "72a47696-f3b6-4110-b363-b0e67a1b1a65",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "A celebration originating in Mexico named the \"Day of\" these people is based on the traditional belief that every November, these people return to their family. During the holiday, these people are honored by home altars called ofrendas.",
+          "answer": "dead",
+          "acceptableAnswers": [
+            "dead",
+            "clear equivalents",
+            "accept spirits",
+            "ghosts",
+            "dead ancestors",
+            "other clear equivalents",
+            "accept Day of the Dead",
+            "Día de los Muertos",
+            "The dead"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Many Latin American countries celebrate Día de los Tres Reyes, during which children receive these things after attaching their wishes to a balloon. In America, children believe that Santa Claus places these things under a tree the night before Christmas.",
+          "answer": "present",
+          "acceptableAnswers": [
+            "present",
+            "gifts",
+            "other clear equivalents",
+            "The present"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Christian festival of Carnival is especially celebrated in this country. During the festival, parades play this country's samba style of music, which grew into its genre of bossa nova.",
+          "answer": "Brazil",
+          "acceptableAnswers": [
+            "Brazil",
+            "Brasil",
+            "accept Federative Republic of Brazil",
+            "República Federativa do Brasil",
+            "The Brazil"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Christians in Latin America celebrate many unique festivals. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6ecbc"
+    }
+  ]
+}

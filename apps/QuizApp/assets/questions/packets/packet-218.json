@@ -1,0 +1,1142 @@
+{
+  "packetId": "packet-218",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Geography",
+    "Science",
+    "Fine Arts",
+    "Literature",
+    "Human Body",
+    "Philosophy",
+    "History",
+    "Mythology"
+  ],
+  "tossups": [
+    {
+      "id": "bd0db27f-09d5-4d87-ad10-c0d5b0020481",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "This nation once had a dispute over the Hanish Islands with a nation to its west. This nation contains the coastal area of Tihamah, and the highest point in this country is Jabal an-Nabi Shu'ayb. One island controlled by this nation is home to the dragon blood tree and the Socotra sparrow. This Middle Eastern nation is separated from Africa by the Bab-el-Mandeb, and separatists in this country are currently in control of its port city of Aden. For 10 points, name this country on the Arabian peninsula with an official capital at Sana'a.",
+      "powerMarkPosition": 273,
+      "answer": "Yemen",
+      "acceptableAnswers": [
+        "Yemen",
+        "The Yemen"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ead0be8c91030f69d5b8b7"
+    },
+    {
+      "id": "8ba0c0e5-8cf6-4be4-9913-39835cec9e91",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "Transistors that are switched using this phenomenon, as opposed to thermal injection, are predicted to break the 60 millivolt-per-decade subthreshold swing limit currently impairing power scaling. A magnetoresistive effect named for this phenomenon is the operating principle of MTJs. A form of this phenomenon used to erase NOR flash memory chips is the mechanism for field emission. This phenomenon causes the negative differential resistance of an Esaki diode. The current due to this phenomenon varies with the height of a metal tip above a sample in a form of microscopy. Alpha particles escape from the nucleus's attractive potential via this process in Gamow's model of alpha decay. For 10 points, name this quantum phenomenon in which a particle passes through a classically forbidden barrier.",
+      "powerMarkPosition": 284,
+      "answer": "tunneling",
+      "acceptableAnswers": [
+        "tunneling",
+        "tunnel FETs",
+        "accept tunnel magnetoresistance",
+        "accept Fowler–Nordheim tunneling",
+        "accept tunnel diodes",
+        "accept scanning tunneling microscopy",
+        "The tunneling"
+      ],
+      "source": "qbreader",
+      "sourceId": "65ba878eca6edbbc92a5d4ac"
+    },
+    {
+      "id": "6c7c5a42-eb65-4f7f-8db3-a66eda4976eb",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "This is the [emphasize] first title word of a jazz album that opens with 16 iterations of the following nine-note ostinato, played in even quarters [read slowly]: C, B-flat, A, G-flat, F-flat, E-flat, up to B-flat, up to G, down to D-flat. A jazz album whose title ends with this word includes a song with the rhythmic pattern: [read slowly] bass hit, clap, bass, clap, bass, clap, clap. This is the first title word of an album whose cover shows a \"Will Be Back\" sign. On an album whose title endswith this word, \"Strange Meadow Lark\" is the only track primarily in 4/4. In a sequel to that album, this word is preceded by the word \"Further.\" This is the last title word of an album that opens with \"Blue Rondo á la Turk.\" For 10 points, what word follows \"Time\" in the title of the best-selling album of the Dave Brubeck Quartet?",
+      "powerMarkPosition": 513,
+      "answer": "out",
+      "acceptableAnswers": [
+        "out",
+        "Out to Lunch!",
+        "accept Time Further Out",
+        "accept Time Out",
+        "The out"
+      ],
+      "source": "qbreader",
+      "sourceId": "692330f0f1f28d19289b8273"
+    },
+    {
+      "id": "13852ca2-0ebf-457e-ba4b-4fc05b11aaac",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "This character's steward, Dough-Boy, says that every morning he finds this character's pillow hot, \"as though a baked brick had been laid on it.\" He has a scar, \"lividly whitish,\" running from head to toe. When this character displays delirium while rounding the Cape Horn, his crew places him in a strait-jacket. At the beginning of the voyage, this character nails a doubloon to his ship's mast as a reward to the first man to sight his nemesis. When this character plants a harpoon in his nemesis's flank, he is dragged out to sea by it. For 10 points, who is this captain of the Pequod in Herman Melville's Moby Dick?",
+      "powerMarkPosition": 313,
+      "answer": "Ahab",
+      "acceptableAnswers": [
+        "Ahab",
+        "The Ahab"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b5325a"
+    },
+    {
+      "id": "0e9c6deb-fb71-46ad-b8a9-8963bc876728",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "text": "After losing his lover, a man confesses to an owl-shaped shadow in a novel in this language. A poem in this language ends \"You dance inside my chest / where no-one sees you,\" and is by the author of \"The Song of the Reed.\" A Eugene O'Neill play is titled after the line \"Oh, Wilderness,\" which appears in a poem in this language. The Spiritual Couplets are written in this language. \"The moving finger writes; and, having writ, / moves on\" in a poem in this language, that was translated by Edward FitzGerald. A poem in this language used by Rumi describes \"a jug of wine, a loaf of bread, and thou.\" For 10 points, what language did Omar Khayyam use to write the Rubáiyát?",
+      "powerMarkPosition": 333,
+      "answer": "Persian",
+      "acceptableAnswers": [
+        "Persian",
+        "Farsi",
+        "The Persian"
+      ],
+      "source": "qbreader",
+      "sourceId": "63506cec1b4438a94f2a2ab3"
+    },
+    {
+      "id": "d5ae87d5-8393-4959-a9f3-b94162b2c691",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "Sergei Diaghilev [dee-AH-guh-lev] was rumored to have recited Pushkin and wept after this ballet's premiere. In the first version of this ballet, girls with braids and red and gold dresses designed by Nicholas Roerich dance a khorovod folk dance. An unusually high bassoon solo supposedly caused a composer to storm out of this ballet's premiere during the part called \"The Adoration of the Earth.\" In this ballet, which was first choreographed by Vaslav Nijinsky, the Chosen One dances himself or herself to death as a sacrifice. For 10 points, name this Igor Stravinsky ballet set in pagan Russia that shocked audiences at its premiere.",
+      "powerMarkPosition": 309,
+      "answer": "Rite of Spring",
+      "acceptableAnswers": [
+        "Rite of Spring",
+        "Le Sacre du printemps",
+        "accept Vesna svyashchennaya",
+        "The Rite of Spring"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b529f1"
+    },
+    {
+      "id": "ae5a52c9-2b72-4b3a-9a1a-9bb1fd7e9972",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for gastric secretions. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this esophagus-related structure.",
+      "powerMarkPosition": 95,
+      "answer": "Esophagus",
+      "acceptableAnswers": [
+        "esophagus",
+        "Esophagus"
+      ],
+      "explanation": "The esophagus is a key component of the Digestive system, involved in gastric secretions.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "382b46a2-f828-4163-a197-ffcc039f5719",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "1. In this book, Moses made a brass serpent to save people from being bitten by snakes. Balaam's donkey talks to Balaam when the donkey is blocked by an angel which Balaam cannot see, and on Mount Hor, Aaron dies. Depicting most of the Israelites forty year trek and coming between Leviticus and Deuteronomy, for 10 points, this is what book of the bible so named because it tells how many members were in each of the twelve tribes of Israel.",
+      "powerMarkPosition": 213,
+      "answer": "Numbers",
+      "acceptableAnswers": [
+        "Numbers",
+        "The Numbers"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0d99"
+    },
+    {
+      "id": "c68cece3-7b09-4f7a-a803-451cae8d641b",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "This nation elected the first Jewish president in the Western Hemisphere, Eric Arturo Delvalle, in 1985. Banana farming is prominent here in the area surrounding Portobelo, and shrimp are harvested in the waters between La Palma and Isla del Ray, which is near the Pearl Islands to the south of this country's mainland. Its north is indented by the Gulf of Mosquitos. The damming of the Chagos River here created Lake Gatun just south of Chagos and Fort Sherman. It shares the Darién Gap with its southern neighbor, Colombia. One geographical feature in this country empties near Balboa and was administered by the United States at least in part until 1999. For 10 points, name this Central American nation along an isthmus whose namesake canal links the Caribbean Sea to the Pacific Ocean.",
+      "powerMarkPosition": 319,
+      "answer": "Panama",
+      "acceptableAnswers": [
+        "Panama",
+        "República de Panamá",
+        "The Panama"
+      ],
+      "source": "qbreader",
+      "sourceId": "635b6428d8a170d88c9e713f"
+    },
+    {
+      "id": "949bec61-a1b9-45b0-8150-11183308c759",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "Deviations from this type of system causes phonons to have a non-infinite lifetime and is the reason behind thermal expansion in a crystal. In addition to modeling bond dissociation, the Morse potential also models deviations from this system. These systems are characterized by a potential possessing evenly-spaced energy levels and a ground-state energy of one-half times h-bar times omega. When the second-order linear differential equation that describes these systems is inhomogeneous, they are said to be \"driven.\" The exponential decay of this behavior is referred to as damping. The potential energy of these systems is proportional to the square of the displacement from an equilibrium position. For 10 points, name these systems characterized by periodic sinusoidal movement which include springs and pendulums.",
+      "powerMarkPosition": 510,
+      "answer": "harmonic oscillator",
+      "acceptableAnswers": [
+        "harmonic oscillator",
+        "simple harmonic motion",
+        "accept “quantum” in place of “simple”",
+        "The harmonic oscillator"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34ba4"
+    },
+    {
+      "id": "894e79d7-ba91-4dee-add9-d38030904c63",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "An analogue of the holographic principle in this theory is the AdS/CFT correspondence, or Maldacena duality. A unification of previously proposed theories of this type along with supersymmetry is the eleven-dimensional M theory, whose basic objects are two-dimensional membranes. Prominent critics of this theory include Lee Smolin, who has written on its unfalsifiability. For 10 points, name this theory of modern particle physics, an attempt to unify quantum mechanics with general relativity by modeling particles as the vibrations of namesake one-dimensional structures.",
+      "powerMarkPosition": 252,
+      "answer": "string theory",
+      "acceptableAnswers": [
+        "string theory",
+        "The string theory"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ed680be0734022cfa3a3e7"
+    },
+    {
+      "id": "c29f6082-6f60-46aa-9bdb-ce1cbf954cd9",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "A building constructed by this ruler was the subject of a poem by Paul the Silentiary. This leader was described as a demonic figure with a detachable head in Procopius' Secret History. A general of this ruler used a disused aqueduct to invade Naples; that general, along with Mundus, was earlier sent by this ruler to put down an uprising that attempted to crown Hypatius. This ruler's wife Theodora convinced him not to flee that uprising, declaring \"purple is the noblest shroud.\" This emperor sent Belisarius to quell the Nika riots. For 10 points, name this Byzantine emperor, who ordered the construction of the Hagia Sophia.",
+      "powerMarkPosition": 363,
+      "answer": "Justinian",
+      "acceptableAnswers": [
+        "Justinian",
+        "Justinian the Great",
+        "The Justinian"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97422ec9"
+    },
+    {
+      "id": "92371ad3-c9cd-40ac-9694-b18b6aba346b",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "Novices of this religion must complete the pile fey and bathe with clothes on in an initiation ceremony called Kanzo. Devotees of this religion believe in a love deity named Erzulie, an evil spirit named Baka, and a storm deity called Shango. Temples of this religion are called \"Hounfour\", and they house the priests collectively called \"Houngans.\" Its chief deity is Bondye, and devotees of this religion pray to spirits like Baron Samedi and Papa Legba, known as Loas. For 10 points, name this syncretic religion practiced in Haiti, that includes zombies and sticking pins in namesake dolls.",
+      "powerMarkPosition": 368,
+      "answer": "Voodoo",
+      "acceptableAnswers": [
+        "Voodoo",
+        "The Voodoo"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fdc240c76481561474a9b0"
+    },
+    {
+      "id": "d4a59e59-4f6b-47dc-9c24-05927220be69",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "Salvador was the capital of this country until it was replaced by an Oscar Niemeyer (\"NEE-meyer\") planned city in 1956. Tourist sites in this country include Ipanema Beach, Sugarloaf Mountain, and the statue of Christ the Redeemer, and its ecotourist destination city Manaus is located in the world's largest rainforest. For 10 points, Porto Alegre (\"PORT-oh uh-LAY-gray\"), Sao Paulo, and Rio de Janeiro are located in what largest country in South America?",
+      "powerMarkPosition": 320,
+      "answer": "Brazil",
+      "acceptableAnswers": [
+        "Brazil",
+        "The Brazil"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec65c8"
+    },
+    {
+      "id": "10639600-634b-4bbd-ad79-1276e3fe71e0",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "The European Space Agency landed the Philae probe on one of these objects. These objects originate in the Oort Cloud and the Kuiper [Kiper] Belt. In 1994, one of these objects called Shoemaker-Levy 9 collided with Jupiter. These objects contain a coma, while solar wind forms these objects' tails. For 10 points, name these \"dirty snowballs\" in space, one of which is named for Edmund Halley.",
+      "powerMarkPosition": 182,
+      "answer": "comet",
+      "acceptableAnswers": [
+        "comet",
+        "The comet"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9d75"
+    },
+    {
+      "id": "2b142292-2129-4ead-b019-c21145fe5cf6",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for larynx and vocal cords. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this pharynx-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Pharynx",
+      "acceptableAnswers": [
+        "pharynx",
+        "Pharynx"
+      ],
+      "explanation": "The pharynx is a key component of the Respiratory system, involved in larynx and vocal cords.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "501ee64d-5c97-45e7-8d8b-56c1005e3654",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "text": "Quarters of this city were once named for the various foreign sectors found within it, such as a \"Field of the Hittites\", and sections named for Carians and Phoenicians. According to the theology of this city, its eponymous god created humans through the power of his heart and his speech. After his death, the body of Alexander the Great was laid to rest here before being moved to Alexandria. Originally known as \"White Walls\", one alternate name for this city was \"mansion of the walls of Ptah\". The pyramid fields of Abu Sir and Saqarrah are found in this city, and the latter is the home of the Step Pyramid of Djoser. For 10 points, identify this Ancient Egyptian capital.",
+      "powerMarkPosition": 289,
+      "answer": "Memphis",
+      "acceptableAnswers": [
+        "Memphis",
+        "Hut-ka-Ptah until \"mansion\"",
+        "prompt on \"White Walls\" before mention",
+        "The Memphis"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895997a0d8ea074be79b5"
+    },
+    {
+      "id": "623a9b12-6d16-4872-8930-0e4f93c12519",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "Abraham Abulafia wrote several books on the proper way to perform this practice in Judaism. It's not prayer, but this practice is known as either hisbonenus or hisbodedus in Hebrew. In Sufi tradition, it is called muraqaba. In 1989, the Holy See released a document titled \"aspects of\" this practice, distancing it from similar practices in other religions. Along with four standing exercises, this practice is one of the five exercises of Falun Gong, and it is a key component of qigong. This practice can be aided by the technique of omphaloskepsis. In Zen Buddhism, this practice is called zazen when it is performed sitting down. In Christianity, it is often performed while repeating Hail Marys by considering the Mysteries of the Rosary. For 10 points, name this practice of directed contemplation which is often accompanied by the chanting of mantras.",
+      "powerMarkPosition": 357,
+      "answer": "meditation",
+      "acceptableAnswers": [
+        "meditation",
+        "The meditation"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c319bb"
+    },
+    {
+      "id": "d317b015-f422-4b9c-9b73-9edabee25e44",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "This god once warned his brother to not marry the first woman, Pandora. He once tricked Zeus into selecting bones as a sacrificial offering by wrapping them in animal fat, instead of a more substantive offering. Before being rescued by Heracles, he was chained up in the Caucasus Mountains as punishment for his most famous action, and an eagle ate out his liver daily. For 10 points, name this Titan who stole fire from the gods and gave it to humanity.",
+      "powerMarkPosition": 252,
+      "answer": "Prometheus",
+      "acceptableAnswers": [
+        "Prometheus",
+        "The Prometheus"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eab48dfa940174d24e1455"
+    },
+    {
+      "id": "b15c581b-5813-4eb7-8b68-6a7fb94b6453",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "text": "Guo and Kemphues discovered that both sense and antisense transcripts of Z·C·22 c·D·N·A inhibited the expression of par-1 during the development of an organism in this phylum. Temperature-induced mutations to daf-2 were shown to double the lifespan of an organism in this phylum by Cynthia Kenyon. In this phylum, muscle cells branch towards its four longitudinal nerve cords. Fire and Mello first discovered R·N·A interference in this phylum, whose body cavity is not completely within the mesoderm. Like annelids, worms in this phylum have a tube within a tube digestive system. For 10 points, name this worm phylum that includes C. elegans.",
+      "powerMarkPosition": 363,
+      "answer": "Nematoda",
+      "acceptableAnswers": [
+        "Nematoda",
+        "nematodes",
+        "accept roundworms",
+        "The Nematoda"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382c06e578a78206cf209dc"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "9e590462-cc32-48a7-a9c7-94f7e7e30b7e",
+      "linkedTossupId": "bd0db27f-09d5-4d87-ad10-c0d5b0020481",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this archipelago, whose \"Triangle\" islands include Faial and Sao Jorge. This archipelago contains Ponta do Pico, which is the tallest in its country.",
+          "answer": "Azores",
+          "acceptableAnswers": [
+            "Azores",
+            "The Azores"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The island of Pico in the Azores is known for the production of this good, which mainly occurs in the IPR region. Another variety of this good is made in the Madeira Islands.",
+          "answer": "wine",
+          "acceptableAnswers": [
+            "wine",
+            "The wine"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Most of the Port wine comes from the Douro River valley, which flows in this country. The Tagus River flows through this country's capital, Lisbon.",
+          "answer": "Portugal",
+          "acceptableAnswers": [
+            "Portugal",
+            "The Portugal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "An island in this archipelago is known as the Ilha Preta [\"ILL-ya PRAY-ta\"] due to its high volcanic activity. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba96cd8"
+    },
+    {
+      "id": "1dea6298-2cc6-4c4e-bd36-05ffa0261e6a",
+      "linkedTossupId": "8ba0c0e5-8cf6-4be4-9913-39835cec9e91",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "These absorption lines in the Sun's spectrum are named for their German discoverer. Originally nine in number, two of these were found to have originated in the Earth's atmosphere rather than the Sun.",
+          "answer": "Fraunhofer",
+          "acceptableAnswers": [
+            "Fraunhofer",
+            "The Fraunhofer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The possible cause of the Little Ice Age, this is the name given to a period from 1645 to 1715 where sunspots observed on the sun's surface were on the order of 1000 times fewer than normal.",
+          "answer": "Maunder minimum",
+          "acceptableAnswers": [
+            "Maunder minimum",
+            "The Maunder minimum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This law of sunspots, discovered first by Richard Carrington but not named for him, describes the latitudinal variation of sunspots during a solar cycle.",
+          "answer": "Sporer",
+          "acceptableAnswers": [
+            "Sporer",
+            "The Sporer"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the Sun, For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e2ecd514bf7b00170b16bb"
+    },
+    {
+      "id": "2c4c94f8-218a-44f9-a543-bfba488f57ae",
+      "linkedTossupId": "6c7c5a42-eb65-4f7f-8db3-a66eda4976eb",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This sculptor of Growth and other oblong shapes was perhaps the most accomplished artist of the Dadas. He used elements of chance in his works of torn paper or papieres dechires.",
+          "answer": "Arp",
+          "acceptableAnswers": [
+            "Arp",
+            "The Arp"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the only female Dada artists, she excelled in the technique of photomontage, as seen in works like Pretty Girl and Sliced with the Dada Kitchen Knife Through the Last Weimar Beerbelly Cultural Epoch Germany.",
+          "answer": "Höch",
+          "acceptableAnswers": [
+            "Höch",
+            "The Höch"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Although not officially a member, his works like Tzanck Check and Fountain helped popularize Dada in America and influenced Pop Art.",
+          "answer": "Duchamp",
+          "acceptableAnswers": [
+            "Duchamp",
+            "The Duchamp"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these artists associated with the Dada movement FTPE.",
+      "source": "qbreader",
+      "sourceId": "64d93f0e4fa392c5b68c454a"
+    },
+    {
+      "id": "a546c28d-eadd-4d35-af78-76c0b0799e0b",
+      "linkedTossupId": "13852ca2-0ebf-457e-ba4b-4fc05b11aaac",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this person who, in a John Milton poem, is addressed as a \"son of Memory\" that lies under a \"star-ypointing pyramid.\"",
+          "answer": "Shakespeare",
+          "acceptableAnswers": [
+            "Shakespeare",
+            "“On Shakespeare",
+            "1630”",
+            "The Shakespeare"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In \"Anne Hathaway,\" Carol Ann Duffy likens Hathaway and Shakespeare's marriage bed to \"seas where he would dive for pearls,\" potentially alluding to a song which this character sings. This spirit sings \"Full Fathom Five.\"",
+          "answer": "Ariel",
+          "acceptableAnswers": [
+            "Ariel",
+            "The Ariel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In response to the censorship of one of her poems, Duffy wrote \"Mrs. Schofield's GCSE,\" in which she references this Shakespeare play about \"star-cross'd lovers\" with a line about \"Tybalt's death.\"",
+          "answer": "Romeo and Juliet",
+          "acceptableAnswers": [
+            "Romeo and Juliet",
+            "The Romeo and Juliet"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one poem, the speaker likens this person's words to \"shooting stars which fell to Earth as kisses\" after calling an heirloom \"a spinning world of forests, castles, torchlight, [and] clifftops.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "673ec00f90236da031c2cf34"
+    },
+    {
+      "id": "8a2fddaa-e584-4751-a68a-d115aa029a1b",
+      "linkedTossupId": "0e9c6deb-fb71-46ad-b8a9-8963bc876728",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this English author of The Canterbury Tales.",
+          "answer": "Chaucer",
+          "acceptableAnswers": [
+            "Chaucer",
+            "The Chaucer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After the general prologue, this tale is the first story told in the Canterbury Tales, and describes a joust between Palamon and Arcite to decide who gets to marry the Princess Emily.",
+          "answer": "Knight’s",
+          "acceptableAnswers": [
+            "Knight’s",
+            "The Knight’s"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The knight complains after hearing the monk's tale, causing the Host to call for this new story, which tells the tale of the rooster Chanticleer escaping death from a fox.",
+          "answer": "Nun’s Priest’s",
+          "acceptableAnswers": [
+            "Nun’s Priest’s",
+            "The Nun’s Priest’s"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man was the first person to be buried in the Poets' Corner of Westminster Abbey. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a5506"
+    },
+    {
+      "id": "a4d00b28-d575-4d23-b3d3-83faecf48ff3",
+      "linkedTossupId": "d5ae87d5-8393-4959-a9f3-b94162b2c691",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Weidinger played this brass instrument, which opens the funeral march of Mahler's fifth symphony and plays three ascending notes to open Strauss's Also sprach Zarathustra. Jeremiah Clarke wrote a \"voluntary\" for it.",
+          "answer": "trumpet",
+          "acceptableAnswers": [
+            "trumpet",
+            "The trumpet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer known as the \"Father of the Symphony\" wrote the most notable concerto for trumpet for Weidinger, a piece in E-flat major. A trumpet soli begins the coda to the second movement of his \"Military\" symphony, and his other symphonies include the \"Surprise.\"",
+          "answer": "Franz Joseph Haydn",
+          "acceptableAnswers": [
+            "Franz Joseph Haydn",
+            "The Franz Joseph Haydn"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This virtuoso pianist and composer's trumpet concerto in E was also written for Weidinger, and is often performed in E-flat as well. This man was the dedicatee of Schubert's last three piano sonatas.",
+          "answer": "Johann Nepomuk Hummel",
+          "acceptableAnswers": [
+            "Johann Nepomuk Hummel",
+            "The Johann Nepomuk Hummel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer some questions about the musician Anton Weidinger.",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a84ea"
+    },
+    {
+      "id": "1abe8b61-4f86-4e54-83e2-78fa8572056b",
+      "linkedTossupId": "ae5a52c9-2b72-4b3a-9a1a-9bb1fd7e9972",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with reflex arcs.",
+          "answer": "spinal cord",
+          "acceptableAnswers": [
+            "spinal cord"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the spinal cord in the nervous system?",
+          "answer": "Reflex arcs",
+          "acceptableAnswers": [
+            "Reflex arcs"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to reflex arcs.",
+          "answer": "reflex",
+          "acceptableAnswers": [
+            "reflex"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "1c23c07f-8d5d-4786-a58d-2dba5e46ca49",
+      "linkedTossupId": "382b46a2-f828-4163-a197-ffcc039f5719",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "The panopticon is one of these institutions, which house criminals. These institutions are the subject of Foucault's Discipline and Punish.",
+          "answer": "prisons",
+          "acceptableAnswers": [
+            "prisons",
+            "jails",
+            "penitentiaries",
+            "accept correctional facilities",
+            "accept penal facilities",
+            "accept detention centers",
+            "accept Discipline and Punish: The Birth of the Prison",
+            "The prisons"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The panopticon was created by this philosopher, the developer of felicific calculus and mentor to John Stuart Mill. This philosopher wrote An Introduction to the Principles of Morals and Legislation.",
+          "answer": "Bentham",
+          "acceptableAnswers": [
+            "Bentham",
+            "The Bentham"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Bentham and Mill were members of this philosophical school, which seeks to maximize happiness for the greatest number of people.",
+          "answer": "utilitarian",
+          "acceptableAnswers": [
+            "utilitarian",
+            "word forms",
+            "such as utilitarian",
+            "The utilitarian"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the panopticon. For 10 points each.",
+      "source": "qbreader",
+      "sourceId": "66e1bbb7b3ec1cfe3cd4a6df"
+    },
+    {
+      "id": "c27ee829-6309-43d7-b1bb-e12b3a64bb29",
+      "linkedTossupId": "c68cece3-7b09-4f7a-a803-451cae8d641b",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this river linked to the Des Plaines River by a Sanitary and Ship Canal, which contains an electric barrier to keep Asian carp out of the Great Lakes. This river is dyed green on St. Patrick's Day.",
+          "answer": "Chicago",
+          "acceptableAnswers": [
+            "Chicago",
+            "The Chicago"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Chicago River has this unique trait, thanks to a massive canal project undertaken in response to the aforementioned 1885 storm.",
+          "answer": "flows in reverse",
+          "acceptableAnswers": [
+            "flows in reverse",
+            "The flows in reverse"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This ship turned over while docked in the Chicago River, killing over 800 passengers, 200 of whom were Czech immigrants, in what became the deadliest shipwreck in the Great Lakes.",
+          "answer": "Eastland",
+          "acceptableAnswers": [
+            "Eastland",
+            "The Eastland"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Waste from this river contaminated water cribs after an 1885 storm, but did not actually lead to an outbreak of typhoid fever and cholera that killed 90,000 people. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63002656ea186ec68c3bd8c5"
+    },
+    {
+      "id": "99dc9e47-fc76-4ce1-a532-5f25f33ed4ea",
+      "linkedTossupId": "949bec61-a1b9-45b0-8150-11183308c759",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this element that forms a blue sulfate and catalyzes a hydrogen formation reaction between zinc and sulfuric acid.",
+          "answer": "copper",
+          "acceptableAnswers": [
+            "copper",
+            "Cu",
+            "The copper"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Arsenic burns blue when exposed to a lit version of this apparatus which is named for a German scientist. This piece of common lab equipment is also used to analyze combust reactions.",
+          "answer": "Bunsen burner",
+          "acceptableAnswers": [
+            "Bunsen burner",
+            "The Bunsen burner"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This element is used to dope diamonds to give them a blue color. This metalloid is the lightest element with an unfilled p orbital and rarely obeys the octet rule.",
+          "answer": "boron",
+          "acceptableAnswers": [
+            "boron",
+            "B",
+            "The boron"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "When using chemical vapor deposition to \"grow\" graphene, a substrate of this element is typically used. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eea9fb047a67fbbb305b75"
+    },
+    {
+      "id": "3f1efe30-1cd3-4dbc-8041-e5737a7ca23b",
+      "linkedTossupId": "894e79d7-ba91-4dee-add9-d38030904c63",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this substance largely composed of the lipid DPPC, which, as its name implies, lowers the surface tension in alveoli.",
+          "answer": "surfactant",
+          "acceptableAnswers": [
+            "surfactant",
+            "The surfactant"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Surfactant is found in this organ, the primary site of gas exchange in the body. This organ contains the bronchioles, which transport air and experience inflammation in asthma.",
+          "answer": "lung",
+          "acceptableAnswers": [
+            "lung",
+            "The lung"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The alveoli are at the end of these tubules, which are the smallest branches of the lung's two main bronchi. The respiratory syncytial virus can damage these structures.",
+          "answer": "bronchiole",
+          "acceptableAnswers": [
+            "bronchiole",
+            "terminal bronchioles",
+            "respiratory bronchioles",
+            "The bronchiole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "[NOTE TO MODERATOR: DO NOT READ THE PARENTHETICAL IN THE FIRST BONUS TO TEAMS] This substance is secreted by type II (\"two\") alveolar cells, and results in an increased value for compliance. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b5270c"
+    },
+    {
+      "id": "a92cebe8-272d-4538-95e7-0232a7e0fb35",
+      "linkedTossupId": "c29f6082-6f60-46aa-9bdb-ce1cbf954cd9",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "A notable muckraker was Nellie Bly, who spent ten days in one of these places and wrote a book recounting the terrible conditions there. They aren't prisons, but Dorothea Dix campaigned for the reform of these places.",
+          "answer": "asylum",
+          "acceptableAnswers": [
+            "asylum",
+            "The asylum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A famous muckraker was Ida Tarbell, who wrote a 1904 History of this oil monopoly founded by John D. Rockefeller and Henry Flagler.",
+          "answer": "Standard Oil",
+          "acceptableAnswers": [
+            "Standard Oil",
+            "The Standard Oil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tarbell's work and Ray Stannard Baker's earlier exposé [\"ex-poe-ZAY\"] of US Steel were published in this magazine. This magazine also published the first detailed look into Christian Science.",
+          "answer": "McClure’s",
+          "acceptableAnswers": [
+            "McClure’s",
+            "The McClure’s"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The word \"muckrakers\" comes from a character in Pilgrim's Progress, and became popular after Teddy Roosevelt referenced it in a 1906 speech. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab618"
+    },
+    {
+      "id": "d2df14b1-0eb6-4d79-b6ce-0c021790a2f9",
+      "linkedTossupId": "92371ad3-c9cd-40ac-9694-b18b6aba346b",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these legal rulings in Islamic tradition, whose issuing is known as an ifta'.",
+          "answer": "fatwa",
+          "acceptableAnswers": [
+            "fatwa",
+            "The fatwa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Only these Islamic judicial scholars have the authority to give out fatwas. These scholars issue rulings that are binding for qadi, whom they are ranked above.",
+          "answer": "mufti",
+          "acceptableAnswers": [
+            "mufti",
+            "The mufti"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Fatwas may be issued as part of sharia law, which is based on the hadiths and scriptures from this text. This central holy text of Islam is divided into 114 surahs.",
+          "answer": "Qur’an",
+          "acceptableAnswers": [
+            "Qur’an",
+            "Koran",
+            "The Qur’an"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Ebussuud Efendi issued a wide variety of these things, including one allowing the consumption of coffee. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "689206ac282b420d4a198afd"
+    },
+    {
+      "id": "ebac69df-afc6-4ddb-84cd-4884a2b2c2b7",
+      "linkedTossupId": "d4a59e59-4f6b-47dc-9c24-05927220be69",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this mountain range whose highest peak is Jebel Toubkal.",
+          "answer": "Atlas",
+          "acceptableAnswers": [
+            "Atlas",
+            "The Atlas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Jebel Toubkal lies within the borders of this north African nation which lies south of the Strait of Gibraltar. Notable cities include Fez, Casablanca, and Rabat.",
+          "answer": "Morocco",
+          "acceptableAnswers": [
+            "Morocco",
+            "The Morocco"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Directly to the south Morocco claims dominion over this territory which is partially ruled over by the Sahrawi Arab Democratic Republic. It is a former Spanish colony with capital at Laayoune.",
+          "answer": "Western Sahara",
+          "acceptableAnswers": [
+            "Western Sahara",
+            "The Western Sahara"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Its sub-ranges include the Aures and Tell Mountains and its native inhabitants are the Berbers. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced9b0"
+    },
+    {
+      "id": "3c85a79a-4b23-4aff-8a85-6b780752ef7a",
+      "linkedTossupId": "10639600-634b-4bbd-ad79-1276e3fe71e0",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this most common type of cell in the human body. These cells carry oxygen through arteries.",
+          "answer": "red blood",
+          "acceptableAnswers": [
+            "red blood",
+            "The red blood"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Red blood cells can carry oxygen because this iron-containing protein easily bonds with oxygen.",
+          "answer": "hemoglobin",
+          "acceptableAnswers": [
+            "hemoglobin",
+            "The hemoglobin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Red blood cells need to contain as much hemoglobin as possible, so the red blood cell has this property thatis very unusual for a eukaryotic cell. This property is expected for a prokaryotic cell.",
+          "answer": "do not have a nucleus",
+          "acceptableAnswers": [
+            "do not have a nucleus",
+            "The do not have a nucleus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The technical term for these cells is erythrocytes[ay-RITH-roh-sites]. For ten points each,",
+      "source": "qbreader",
+      "sourceId": "6837af63278db02eb79f1cf8"
+    },
+    {
+      "id": "42f8c5de-43ac-4fc5-83e1-5e6254a337ad",
+      "linkedTossupId": "2b142292-2129-4ead-b019-c21145fe5cf6",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with atp and muscle energy.",
+          "answer": "contraction",
+          "acceptableAnswers": [
+            "contraction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the contraction in the musculoskeletal system?",
+          "answer": "ATP and muscle energy",
+          "acceptableAnswers": [
+            "ATP and muscle energy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to atp and muscle energy.",
+          "answer": "troponin",
+          "acceptableAnswers": [
+            "troponin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "3fb35b17-2a23-48a4-a6cd-05d61a65b021",
+      "linkedTossupId": "501ee64d-5c97-45e7-8d8b-56c1005e3654",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The Advanced Research Projects Agency Network was one predecessor to this system. Dial-up modems and wi-fi are ways to access this system.",
+          "answer": "Internet",
+          "acceptableAnswers": [
+            "Internet",
+            "The Internet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Senator from Tennessee was an Atari Democrat. He introduced the High Performance Computing Act of 1991 which led to the Mosaic Web Browser; many scholars credit Mosaic with the commercial success of the Internet.",
+          "answer": "Gore",
+          "acceptableAnswers": [
+            "Gore",
+            "The Gore"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The World Wide Web was invented by this man; he also made the first Web browser, now known as Nexus.",
+          "answer": "Berners-Lee",
+          "acceptableAnswers": [
+            "Berners-Lee",
+            "The Berners-Lee"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This system has substantially changed modern communications. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "647044212576885f91e624c8"
+    },
+    {
+      "id": "18a705cc-f4f6-4496-aa9b-be7abef4f558",
+      "linkedTossupId": "623a9b12-6d16-4872-8930-0e4f93c12519",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this adjective, which also denotes the English-speaking philosophical tradition focusing on precision of argument and word usage, as contrasted with continental philosophy.",
+          "answer": "analytic",
+          "acceptableAnswers": [
+            "analytic",
+            "The analytic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This two-word name is applied to philosophers in the analytic tradition like J. L. Austin, who believed that problems in philosophy stem from arguments that forget the meaning of words.",
+          "answer": "ordinary language",
+          "acceptableAnswers": [
+            "ordinary language",
+            "The ordinary language"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This analytic philosopher wrote the treatise Principia Mathematica with Alfred North Whitehead. This non-Christian analogized an undiscoverable God to a namesake \"teapot\" floating in space.",
+          "answer": "Russell",
+          "acceptableAnswers": [
+            "Russell",
+            "Russell’s teapot",
+            "The Russell"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This adjective denotes propositions which have meaning independently, as opposed to propositions which only have meaning in \"synthetic\" context. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1531ffa61a9ba79f35607"
+    },
+    {
+      "id": "78f04009-89ce-4e21-a80c-dcee6efdc61a",
+      "linkedTossupId": "d317b015-f422-4b9c-9b73-9edabee25e44",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "What kind of mythical animal represents the east? These mythical creatures are associated with rain and, inEnglish, share a name with fire-breathing lizards from European myth.",
+          "answer": "dragon",
+          "acceptableAnswers": [
+            "dragon",
+            "The dragon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another of the Auspicious Beasts, the Vermillion Bird, is named in English for this Greek mythical bird thatrepresents rebirth.",
+          "answer": "phoenix",
+          "acceptableAnswers": [
+            "phoenix",
+            "The phoenix"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other animal, representing the west, isn't commonly associated with any western mythical animal. It isoften pictured with a long neck and a horn or antlers, and is legendarily associated with giraffes.",
+          "answer": "qilin",
+          "acceptableAnswers": [
+            "qilin",
+            "The qilin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the Four Beasts of Chinese folk religion, which appear in legend, representthe four cardinal directions, and are important to feng shui, for ten points each.",
+      "source": "qbreader",
+      "sourceId": "6837af66278db02eb79f1d9e"
+    },
+    {
+      "id": "447724c2-d807-467d-a16a-ca89c6a2f7b1",
+      "linkedTossupId": "b15c581b-5813-4eb7-8b68-6a7fb94b6453",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Give this adjective also applied to the inert elements in group 18 of the periodic table. The monatomic gases described by this adjective include neon and helium.",
+          "answer": "noble",
+          "acceptableAnswers": [
+            "noble",
+            "noble gases",
+            "noble metals",
+            "accept aerogens",
+            "The noble"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This noble gas forms relatively many compounds, including a tetrafluoride and a monochloride used in excimer lasers. Neil Bartlett produced the first noble gas compound by oxidizing this gas with platinum hexafluoride.",
+          "answer": "xenon",
+          "acceptableAnswers": [
+            "xenon",
+            "Xe",
+            "The xenon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Xenon is the most common gas ionized by these pressurized lamps that emit intense, full-spectrum white light similar to sunlight. The suffragette Hertha Ayrton designed some of these devices, which provide light for fluorescence spectroscopy.",
+          "answer": "arc",
+          "acceptableAnswers": [
+            "arc",
+            "electric arc lamps",
+            "accept high-intensity discharge lamps",
+            "HID lamps",
+            "accept gas-discharge lamps",
+            "discharge tubes",
+            "gas-filled tubes",
+            "accept flashtubes",
+            "flashlamps",
+            "accept arc discharges",
+            "voltaic arcs",
+            "prompt on neon lighting",
+            "The arc"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This adjective is applied to silver, gold, and copper due to their full d-subshells, but is also sometimes granted to the platinum group metals because they resist corrosion. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423a7f"
+    }
+  ]
+}

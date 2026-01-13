@@ -1,0 +1,1135 @@
+{
+  "packetId": "packet-007",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Mythology",
+    "Science",
+    "Literature",
+    "History",
+    "Human Body",
+    "Fine Arts",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "d1126019-bd3d-4298-91ee-403f3ffaaec0",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "One of these figures, who turns into seafoam after getting his hand stuck in a shell while fishing, originally guarded the crossroads at one end of the floating bridge connecting heaven to earth. Another of these figures, who was once cast out in a reed boat after being born without bones or limbs, grew into a laughing fisherman who is part of a group of seven lucky ones. The names of these figures are translated with flowery titles such as \"His-Swift-Impetuous-Male-Augustness\" in some versions of the Record of Ancient Matters. One of these figures defeated an eight-headed dragon from whose body he took the \"grass-cutting sword\" Kusanagi. For 10 points, name these gods who include Sarutahiko, Okuni-nushi, and Susano'o, who are worshipped in Shintoism.",
+      "powerMarkPosition": 362,
+      "answer": "kami",
+      "acceptableAnswers": [
+        "kami",
+        "Shinto gods before mentioned",
+        "Shinto deities",
+        "The kami"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f2c8e7e2ddc83d7b7534aa"
+    },
+    {
+      "id": "a48cae70-4db3-429e-bbb8-9f1d2562d252",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "This pathway's second step sees a dehydration mediated by aconitase, and its rate-limiting step is the irreversible decarboxylation of oxalosuccinate into alpha-ketogluterate. Before this pathway can occur, acetyl-coA is created from the decarboxylation of pyruvate. Two turns of this cycle see the formation of two ubiquinone from FADH2, and it also produces six NADH, two GTP, and two ATP. This pathway occurs in-between glycolysis and oxidative phosphorylation. For 10 points, name this second step in cellular respiration that takes place in the mitochondrial matrix and is also called the Citric Acid Cycle.",
+      "powerMarkPosition": 266,
+      "answer": "Krebs",
+      "acceptableAnswers": [
+        "Krebs",
+        "TCA cycle",
+        "Tricarboxylic acid cycle",
+        "accept Citric acid cycle before mentioned",
+        "The Krebs"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d994"
+    },
+    {
+      "id": "bb76f14c-d4e4-489b-870c-3f2b9eb7f5a0",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "In one play by this author, the prostitute Vivie walks out on her pimp mother to be with Frank Gardner. Raina Petkoff calls out for the \"chocolate-cream soldier\" Bluntschli in another play by this author which is set during the Serbo-Bulgarian War, and takes its title from the first line of Virgil's Aeneid. This author of Mrs. Warren's Profession wrote a play in which Colonel Pickering bets the phonetics professor Henry Higgins to make the Cockney flower girl Eliza Doolittle speak like a duchess. For 10 points, name this Irish playwright of Arms and the Man and Pygmalion.",
+      "powerMarkPosition": 323,
+      "answer": "Shaw",
+      "acceptableAnswers": [
+        "Shaw",
+        "The Shaw"
+      ],
+      "source": "qbreader",
+      "sourceId": "62eeaca03c2fca34d39ed965"
+    },
+    {
+      "id": "07edbbd8-d8e1-43c4-8dbc-fbe80bac1740",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "This organization conducted central meetings called Tagfahrt, and it had earlier formed the Confederation of Cologne after the Battle of Helsingborg (\"HELL-sing-bog\"). This organization was given 15% of the profit of one country's trade by King Valdemar IV (\"the fourth\"). London's Cannon Street Station was used as a steelyard by this organization, which was opposed by one that later called themselves the \"Equal Sharers,\" the Victual Brothers. This organization constructed the warship Adler von Lubeck, named after its base. Visby and Bryggen were Kontors, or trading posts, used by, for 10 points, what organization that held a monopoly in the Baltic and Northern Seas and rivaled the Kalmar Union?",
+      "powerMarkPosition": 498,
+      "answer": "Hanseatic",
+      "acceptableAnswers": [
+        "Hanseatic",
+        "Hansa",
+        "The Hanseatic"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f30f3a499e50c9ee5d90ed"
+    },
+    {
+      "id": "31c9fb59-0f26-4e11-9516-022e12dcf4db",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for oxygen diffusion. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this diffusion-related structure.",
+      "powerMarkPosition": 71,
+      "answer": "Diffusion",
+      "acceptableAnswers": [
+        "diffusion",
+        "Diffusion"
+      ],
+      "explanation": "The diffusion is a key component of the Respiratory system, involved in oxygen diffusion.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "3aa7932d-4bd0-413f-a00d-f8b6d168565a",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "text": "One king of these people was given a sleeping potion and after his crown was removed by Erwig he became a monk, despite having earlier killed St. Giles while hunting. A votive crown containing Sri Lankan sapphires was owned by their king Recceswinth. Sidonius Apollinaris wrote of one king of these people's Balti dynasty and St. Leander converted their king Recarred, who later called the third council of Toledo, from Arianism to Catholicism. Clovis defeated these people at the battle of Vouillé [Vwe-ay] and killed their king Alaric II. For 10 points name this Gothic people whose ruled a kingdom in Iberia and whose leader Alaric I led the 410 sack of Rome.",
+      "powerMarkPosition": 250,
+      "answer": "Visigoths",
+      "acceptableAnswers": [
+        "Visigoths",
+        "Goths",
+        "The Visigoths"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba96723"
+    },
+    {
+      "id": "04013ae7-5cb0-4c89-812d-22decbcc3643",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for neuromuscular junction. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this contraction-related structure.",
+      "powerMarkPosition": 82,
+      "answer": "Contraction",
+      "acceptableAnswers": [
+        "contraction",
+        "Contraction"
+      ],
+      "explanation": "The contraction is a key component of the Musculoskeletal system, involved in neuromuscular junction.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "695f9ba0-0a20-4479-94cb-7a93b266b057",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "text": "Simon Stephens's \"socially distanced\" live adaptation of this novel ends at its scene in which three women bathe in the rain. After one character in this novel finds flames being emitted by decomposing bodies in a basement, that character goes to a church whose paintings are covered with cloth along with her affectionate dog. In this novel's opening, a \"false Samaritan\" helps a man who has stopped at a traffic light in order to steal his car. An accountant in this novel dies when his ward is set ablaze. In this novel, the \"girl with dark glasses\" is placed in quarantine with the \"doctor's wife,\" the only character not to be affected by the \"white evil.\" For 10 points, the title condition afflicts many Portuguese people in what José Saramago novel?",
+      "powerMarkPosition": 405,
+      "answer": "Blindness",
+      "acceptableAnswers": [
+        "Blindness",
+        "Ensaio sobre a cegueira",
+        "Essay on Blindness",
+        "The Blindness"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d9801af67c8a6f6e0b3fcc"
+    },
+    {
+      "id": "9fc1091c-d81c-49d1-ae3a-3b44a0a6fd68",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "text": "These works by this composer are the subject of a book by Boris Berman. The first complete set of these works by this composer to be released was recorded by Barbara Nissman and included the composer's Sarcasms. A motif in the first movement of one of these works consists of a triplet of eighth notes and a quarter note and is \"hammered in the treble register like a frenetic Morse code\" at the end of the movement. That work's second and first movements have the tempo markings Andante caloroso and Allegro inquieto. Emil Gilels premiered the eighth of these works while Sviatoslav Richter premiered the seventh and ninth. The third and fourth of these compositions are subtitled \"From the Old Notebooks\", and the sixth, seventh, and eighth of them are grouped together as the War Sonatas. For 10 points, identify these solo compositions by the composer of Peter and the Wolf.",
+      "powerMarkPosition": 416,
+      "answer": "Prokofiev",
+      "acceptableAnswers": [
+        "Prokofiev",
+        "The Prokofiev"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f331699980c350cba73a44"
+    },
+    {
+      "id": "42639d32-a4b3-456c-80f2-736b0ffc1990",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "Jonathan Lethem's novel about evolved animals, Gun, with Occasional Music, is set in a future version of this city. This city provides the setting for the \"Tales from the City\" produced by Armistead Maupin and originally serialized in this city's Chronicle and Examiner newspapers. The hard-boiled detective Philip Marlowe finds the title statue in a boat docked in this city in The Maltese Falcon. A famous 1955 poetry reading was held at the Six Gallery in this city, which is also home to the City Lights bookstore founded by Lawrence Ferlinghetti. For 10 points, what California city provides the setting for Vikram Seth's novel in verse, The Golden Gate?",
+      "powerMarkPosition": 281,
+      "answer": "San Francisco",
+      "acceptableAnswers": [
+        "San Francisco",
+        "The San Francisco"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52012"
+    },
+    {
+      "id": "8905c729-25af-410f-ba1e-2752d54a4f96",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "Project Chariot was an abandoned proposal to build a deep-water harbor in this state by using nuclear weapons. The US purchase of this state's land was mocked as \"Seward's Folly\". A politican from this state was John McCain's running mate in 2008 and was mocked with the line \"I can see Russia from my house!\". This state was the 49th to be admitted, just before Hawai'i. Sarah Palin is from, for 10 points, what largest US state by area?",
+      "powerMarkPosition": 286,
+      "answer": "Alaska",
+      "acceptableAnswers": [
+        "Alaska",
+        "The Alaska"
+      ],
+      "source": "qbreader",
+      "sourceId": "673aef79cbbbb69a5263ce66"
+    },
+    {
+      "id": "82cdbf96-aa15-4dc0-8859-09cf55d0c3fb",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "These things open a popular rhyme that originated from the scene of Chrysogenee bathing in Book III of The Faerie Queene. The speaker of a poem titled for one of these objects promises to \"come again... / Tho' it were ten thousand mile.\" Another poem warns the \"same [one of these objects] that smiles today / To-morrow will be dying.\" \"The invisible worm / That flies in the night\" makes one of these objects \"sick.\" The addressees are told to \"gather [these things'] buds while ye may\" in \"To The Virgins, To Make Much of Time.\" Robert Burns compared his love to a \"Red, Red [one].\" For 10 points, name this flower, often paired with \"violets are blue.\"",
+      "powerMarkPosition": 409,
+      "answer": "Rose",
+      "acceptableAnswers": [
+        "Rose",
+        "flowers",
+        "accept specifically “The Sick Rose”and “My Luve is Like a Red",
+        "Red",
+        "Rose”",
+        "The Rose"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52398"
+    },
+    {
+      "id": "a8d5d650-4b0c-4354-8467-dca2a4a4ceec",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "This war was instigated by the \"reconcentration\" tactics of Valeriano \"Butcher\" Weyler. Only one American sailor died at a major victory for George Dewey in this war. The losing side ceded Puerto Rico, Guam, and the Philippines to the United States after this \"splendid little war.\" An explosion on the USS Maine in Havana sparked, for 10 points, what 1898 war in which Teddy Roosevelt's Rough Riders fought in Cuba against their parent country?",
+      "powerMarkPosition": 188,
+      "answer": "Spanish-American",
+      "acceptableAnswers": [
+        "Spanish-American",
+        "The Spanish-American"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318aca0d"
+    },
+    {
+      "id": "ff13e9e4-29ad-4906-8cda-f39f0c8d7a72",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "Green and Shapiro have argued in a paper titled after the \"Pathologies\" of this concept that its empirical value is limited. Blau attempted to address one problem of this theory by claiming that people are inclined to accept inconvenience if it came as a part of a longer chain of actions. The problem that he was attempting to solve was that of Norms and Obligations, while several theorists have attempted to improve conceptions of this theory by adding variables for promises and threats. The foundational theory for this concept came from a work of George Caspar Homans, who wrote Social Behavior: Its Elementary Forms, which drew heavily form the psychology of Skinner. This theory assumes completeness and transitivity of preferences, with the result that all participants can make a personally consistent ranking. For ten points, identify this concept from economics and political science that states that participants in a system nearly always make decisions that follow their best interests.",
+      "powerMarkPosition": 491,
+      "answer": "Rational Choice",
+      "acceptableAnswers": [
+        "Rational Choice",
+        "The Rational Choice"
+      ],
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e63079"
+    },
+    {
+      "id": "94e06c48-5963-439d-b6c4-49d46b0180b8",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "A man in a blue shirt and black pants is hopping the fence that separates the foreground from the village and red tree lined hills in the background. At the front, three nuns are kneeling around the title figure of this painting, marked by unnatural colors and a primitive style. For 10 points-name this 1889 Paul Gauguin painting of a crucified Jesus.",
+      "powerMarkPosition": 149,
+      "answer": "Yellow Christ",
+      "acceptableAnswers": [
+        "Yellow Christ",
+        "Le Christ Jaune",
+        "The Yellow Christ"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb863c24c106a9842103"
+    },
+    {
+      "id": "d009c6df-c824-498c-bbe1-cda0e26c358e",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "One character in this work states that he's not a \"pro-union guy\" after being told that guys like him used to be taken out back and beaten with hoses. The closing scene sees two characters impersonate employees of the St. Anky Beer Company, while earlier in the film those characters chug maple syrup. One character nicknamed \"rabbit\" gets picked on by a man who gets into a fight with a fast food employee after trying to order a \"liter of cola,\" Rod Farva. For 10 points, identify this 2004 Broken Lizard film about the shenanigans of five Vermont state policemen.",
+      "powerMarkPosition": 221,
+      "answer": "Super Troopers",
+      "acceptableAnswers": [
+        "Super Troopers",
+        "The Super Troopers"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0edd"
+    },
+    {
+      "id": "1dd10c34-5fe2-46d6-bb44-ac12073ff026",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "A play by this author includes an epilogue apologizing to the audience for the play's lack of a fitting ending. In that play, a cross-dressing former prostitute receives one thousand silver dollars from a trio of gods, and eventually opens a tobacco factory. A character created by this author receives her nickname for navigating a bombarded city in order to sell fifty moldy loaves of bread. That character's children include the mute Kattrin, the brave Eilif, and the honest Swiss Cheese. For 10 points, name this German playwright of The Good Person of Szechwan, who wrote about the title canteen wagon owner during the Thirty Years' War in Mother Courage and Her Children.",
+      "powerMarkPosition": 258,
+      "answer": "Brecht",
+      "acceptableAnswers": [
+        "Brecht",
+        "Eugen Bertolt Friedrich Brecht",
+        "The Brecht"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125d3b0"
+    },
+    {
+      "id": "a64ac249-a88f-4374-a805-6983896b20f0",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "A choreographer from this country created a ballet that used dances like \"Vortex\", \"The Lake\", and \"Falls\" to depict the cycle of life and death. A company in this country premiered a ballet that sets the music of three composers to sections titled for emeralds, rubies, and diamonds and was founded by Russian choreographer George Balanchine. Isamu Noguchi designed sets for a ballet from this country where a bride and her farmer husband dance to five variations on \"Simple Gifts\". In 2015, a namesake Ballet Theatre in this country promoted Black ballerina Misty Copeland to Principal Dancer. For 10 points, name this country, the setting of Martha Graham's Appalachian Spring.",
+      "powerMarkPosition": 424,
+      "answer": "United States",
+      "acceptableAnswers": [
+        "United States",
+        "America",
+        "accept USA",
+        "The United States"
+      ],
+      "source": "qbreader",
+      "sourceId": "6549e61ddd7828c4e244d759"
+    },
+    {
+      "id": "dd796a38-f4cd-4551-a62e-dd1200a334bf",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for islets of langerhans. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this insulin-related structure.",
+      "powerMarkPosition": 78,
+      "answer": "Insulin",
+      "acceptableAnswers": [
+        "insulin",
+        "Insulin"
+      ],
+      "explanation": "The insulin is a key component of the Endocrine system, involved in islets of langerhans.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ed801c48-ce0e-4229-a9f2-1245956246fe",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This composer's first piano concerto may have been written for Clara Schumann, and his first symphony was nicknamed \"Beethoven's tenth.\" This composer wrote a piece contrasting his Tragic Overture upon receiving an honorary degree from the University of Breslau, and quoted the Luther Bible to memorialize his mother in his German Requiem. For 10 points, name this composer of the Academic Festival Overture and a renowned Lullaby.",
+      "powerMarkPosition": 180,
+      "answer": "Brahms",
+      "acceptableAnswers": [
+        "Brahms",
+        "The Brahms"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3114afad1e88c874a2eab"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "da516bf2-21eb-40f0-9d73-ae9f86cdca5e",
+      "linkedTossupId": "d1126019-bd3d-4298-91ee-403f3ffaaec0",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this king of Uruk (\"OO-rook\"), the subject of an ancient Sumerian epic.",
+          "answer": "Gilgamesh",
+          "acceptableAnswers": [
+            "Gilgamesh",
+            "Bilgames",
+            "The Gilgamesh"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gilgamesh was accompanied by this faithful companion. This wild man's coming was foretold in a dream of a meteor falling to earth.",
+          "answer": "Enkidu",
+          "acceptableAnswers": [
+            "Enkidu",
+            "The Enkidu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gilgamesh and Enkidu enter the cedar forest to kill this demon. This demon is paralyzed by winds sent by Shamash (\"SHAH-mash\"), allowing Gilgamesh to overpower him.",
+          "answer": "Humbaba",
+          "acceptableAnswers": [
+            "Humbaba",
+            "Huwawa",
+            "The Humbaba"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Utnapishtim (\"oot-nah-PISH-tim\") told this king where to find a plant to restore his youth. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68b2ff0f8940d9f7c563a313"
+    },
+    {
+      "id": "aaac866c-b69d-4657-a76c-4ee7f56237a9",
+      "linkedTossupId": "a48cae70-4db3-429e-bbb8-9f1d2562d252",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this plant tissue often contrasted with phloem.",
+          "answer": "Xylem",
+          "acceptableAnswers": [
+            "Xylem",
+            "The Xylem"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Xylem and phloem make up vascular bundles in veins, which are located in the spongy layer of this part of a leaf. This leaf part lies between two layers of epidermis.",
+          "answer": "Mesophyll",
+          "acceptableAnswers": [
+            "Mesophyll",
+            "The Mesophyll"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The mesophyll of a leaf is made up of these thin cells. Along with collenchyma and sclerenchyma, these cells are one form of ground tissue.",
+          "answer": "Parenchyma",
+          "acceptableAnswers": [
+            "Parenchyma",
+            "The Parenchyma"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This vascular plant tissue is mostly used to transport water and nutrients from the roots to the rest of the plant. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe9ae"
+    },
+    {
+      "id": "4482cf60-bedb-4e2f-9078-6afe994b11cb",
+      "linkedTossupId": "bb76f14c-d4e4-489b-870c-3f2b9eb7f5a0",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these animals. The narrator falls asleep and dreams of a \"parlement\" of these animals in another work by Geoffrey Chaucer.",
+          "answer": "bird",
+          "acceptableAnswers": [
+            "bird",
+            "foules",
+            "fowls",
+            "The bird"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Both The Canterbury Tales and The Parlement of Foules were written in this form of medieval English that is more recent than Old English.",
+          "answer": "Middle",
+          "acceptableAnswers": [
+            "Middle",
+            "The Middle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Parlement of Foules, this bird is described as \"ever unkinde.\" The Middle English round \"Sumer is icumen in\" is sometimes titled after this bird, since it commands this bird to sing.",
+          "answer": "cuckoo",
+          "acceptableAnswers": [
+            "cuckoo",
+            "cuccu",
+            "cukkow",
+            "cuckow",
+            "kukkow",
+            "kockow",
+            "cockou",
+            "cokkow",
+            "kukkowe",
+            "The cuckoo"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The first stanza of The Canterbury Tales describes a group of these animals that \"maken melodye\" and \"slepen al the nyght with open ÿe.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630144195c4c3a62fc38ff29"
+    },
+    {
+      "id": "00c47362-f68d-43ae-9aca-e32a843da392",
+      "linkedTossupId": "07edbbd8-d8e1-43c4-8dbc-fbe80bac1740",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this Ogoni environmental activist who was arrested and executed in 1995 for his opposition to the oil industry and Nigeria's military dictatorship.",
+          "answer": "Saro-Wiwa",
+          "acceptableAnswers": [
+            "Saro-Wiwa",
+            "The Saro-Wiwa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Center for Constitutional Rights brought suit against this Dutch oil company for conspiring to have him killed. Greenpeace criticized Lego for partnering with this corporation.",
+          "answer": "Shell",
+          "acceptableAnswers": [
+            "Shell",
+            "“Shell Oil Company”",
+            "The Shell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "On orders from François Mitterrand, this Greenpeace ship was sunk in Auckland harbor for monitoring French nuclear tests, resulting in the death of photographer Fernando Pereira.",
+          "answer": "Rainbow Warrior",
+          "acceptableAnswers": [
+            "Rainbow Warrior",
+            "The Rainbow Warrior"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man received the Right Livelihood Award and the Goldman Environmental Prize shortly before his extrajudicial killing. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfec68"
+    },
+    {
+      "id": "ae0812ee-4877-485e-9e8e-df0b6060d9d9",
+      "linkedTossupId": "31c9fb59-0f26-4e11-9516-022e12dcf4db",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with sliding filament theory.",
+          "answer": "contraction",
+          "acceptableAnswers": [
+            "contraction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the contraction in the musculoskeletal system?",
+          "answer": "Sliding filament theory",
+          "acceptableAnswers": [
+            "Sliding filament theory"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the musculoskeletal system related to sliding filament theory.",
+          "answer": "troponin",
+          "acceptableAnswers": [
+            "troponin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human musculoskeletal system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "4f27446e-31fc-419b-9fb6-c74bdbb8f663",
+      "linkedTossupId": "3aa7932d-4bd0-413f-a00d-f8b6d168565a",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this 1846 battle in which, after capturing Federation Hill and Independence Hill, American soldiers engaged in house-to-house urban warfare to conquer a city in northeast Mexico.",
+          "answer": "Monterrey",
+          "acceptableAnswers": [
+            "Monterrey",
+            "The Monterrey"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Battle of Monterrey was a victory for this general, nicknamed \"Old Rough and Ready,\" who won his most famous victory at Buena Vista the next year.",
+          "answer": "Taylor",
+          "acceptableAnswers": [
+            "Taylor",
+            "The Taylor"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "At the beginning of the war, Taylor's army advanced to the Rio Grande from a Louisiana fort named for this \"Father of the Modern Quartermaster Corps,\" who served as the United States' Quartermaster General for 42 years.",
+          "answer": "Jesup",
+          "acceptableAnswers": [
+            "Jesup",
+            "The Jesup"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In the aftermath of this battle, the victor granted Pedro de Ampudia's request for a two-month truce, which provoked an outraged President Polk to reassign some of the victor's soldiers. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c08d5b3dc7dc712c783d"
+    },
+    {
+      "id": "350298a9-3a21-41a3-8d2f-dea7ec056c9d",
+      "linkedTossupId": "04013ae7-5cb0-4c89-812d-22decbcc3643",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with blood plasma.",
+          "answer": "erythrocyte",
+          "acceptableAnswers": [
+            "erythrocyte"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the erythrocyte in the cardiovascular system?",
+          "answer": "Blood plasma",
+          "acceptableAnswers": [
+            "Blood plasma"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to blood plasma.",
+          "answer": "leukocyte",
+          "acceptableAnswers": [
+            "leukocyte"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "145494cb-d2e5-4e0b-9266-29fe0d96c0b1",
+      "linkedTossupId": "695f9ba0-0a20-4479-94cb-7a93b266b057",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this profession. In another story, a member of this profession spies on his superior seducing a young girl in order to blackmail him into keeping quiet about his own seduction of that same girl.",
+          "answer": "clergy",
+          "acceptableAnswers": [
+            "clergy",
+            "priest",
+            "friar",
+            "monk",
+            "abbot",
+            "The clergy"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This short story collection was burned in Savonarola's Bonfire of the Vanities for its negative depiction of Catholic clergy. This Giovanni Boccaccio collection follows some young Florentine nobles telling stories to pass the time during the Black Death.",
+          "answer": "Decameron",
+          "acceptableAnswers": [
+            "Decameron",
+            "Decamerone",
+            "accept Prencipe Galeotto",
+            "prompt on the Human Comedy",
+            "The Decameron"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another religious story from The Decameron contains a parable about these objects which inspired Gotthold Lessing's novel Nathan the Wise. Melchizedek (mel-chuh-ZEH-duhk) compares the three Abrahamic religions to these objects to answer a question posed by Saladin.",
+          "answer": "ring",
+          "acceptableAnswers": [
+            "ring",
+            "The ring"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A statue of Ciappelletto is erected after two gullible members of this profession hear his last words. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68846982641a9dc975af8684"
+    },
+    {
+      "id": "0d3bb4c9-9e29-4c65-8380-2534eee4816f",
+      "linkedTossupId": "9fc1091c-d81c-49d1-ae3a-3b44a0a6fd68",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This Catalan showed a disembodied lute player in the first painting in his \"Dutch Interior\" series, inspired by Hendrik Sorgh and Jan Steen works. He also notoriously quipped that he wished to \"assassinate painting.\"",
+          "answer": "Miró",
+          "acceptableAnswers": [
+            "Miró",
+            "The Miró"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Joan Miro was a member of this art movement. Its founder, Andre Breton, described the movement as \"pure psychic automatism\" or letting the subconscious rule the creation process, in its namesake manifesto.",
+          "answer": "Surrealism",
+          "acceptableAnswers": [
+            "Surrealism",
+            "The Surrealism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This female surrealist painted a woman wearing a checkered cowl sitting in front of an open tower, in her Useless Science or the Alchemist; however, you might know her from The Crying of Lot 49, where her Embroidering the Earth's Mantle made Oedipa Maas cry.",
+          "answer": "Varo",
+          "acceptableAnswers": [
+            "Varo",
+            "The Varo"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "To him who in the love of nature, name some Spanish painters. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa5913201691"
+    },
+    {
+      "id": "3675822e-34ff-48e7-9845-09308c359fc0",
+      "linkedTossupId": "42639d32-a4b3-456c-80f2-736b0ffc1990",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this poem whose title character dies from a curse when she breaks her gaze from her mirror to glance out a window at Sir Lancelot.",
+          "answer": "Lady of Shalott",
+          "acceptableAnswers": [
+            "Lady of Shalott",
+            "The Lady of Shalott"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"The Lady of Shalott\" is by this Victorian poet, who described tears rising \"from the depth of some divine despair\" in \"Tears, Idle Tears\".",
+          "answer": "Tennyson",
+          "acceptableAnswers": [
+            "Tennyson",
+            "The Tennyson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Each stanza of Tennyson's \"Tears, Idle Tears\" concludes with this six-word phrase. It is preceded by the phrases \"So sad, so fresh\" and \"O Death in Life\", among others.",
+          "answer": "the days that are no more",
+          "acceptableAnswers": [
+            "the days that are no more",
+            "days that are no more"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The title character of this work sits weaving and declares \"I am half sick of shadows\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63052605c887e5458fc33114"
+    },
+    {
+      "id": "384a1387-de5e-4ef4-9fb9-3ed5b66da12b",
+      "linkedTossupId": "8905c729-25af-410f-ba1e-2752d54a4f96",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Schenck (\"SHANK\") v. United States dealt with this right. It is perhaps the most important right granted as it governs what you can and cannot say.",
+          "answer": "speech",
+          "acceptableAnswers": [
+            "speech",
+            "The speech"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Near v. Minnesota dealt with this right that creates the so-called \"fourth branch\" of government. The Wall Street Journal is particularly concerned with this right.",
+          "answer": "press",
+          "acceptableAnswers": [
+            "press",
+            "The press"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Supreme Court case Engel v. Vitale was about this clause regarding the inability of the government to adopt an official one of these.",
+          "answer": "religion",
+          "acceptableAnswers": [
+            "religion",
+            "establishment clause",
+            "The religion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these rights guaranteed by the First Amendment:",
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec65d8"
+    },
+    {
+      "id": "0654bfed-d8e1-44a8-8a84-3e3d243c6f89",
+      "linkedTossupId": "82cdbf96-aa15-4dc0-8859-09cf55d0c3fb",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The Oulipo was founded by writers and mathematicians from this country. The artist Marcel Duchamp, an early member of the Oulipo, was also from this country.",
+          "answer": "France",
+          "acceptableAnswers": [
+            "France",
+            "The France"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While not French, this author joined the group in 1968. Works by him like Invisible Cities show adherence to mathematical patterns, a common Oulipo form.",
+          "answer": "Calvino",
+          "acceptableAnswers": [
+            "Calvino",
+            "Italo Giovanni Calvino Mameli",
+            "The Calvino"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Georges Perec's Oulipo novel La disparition, translated into English as A Void, is best known for having this specific characteristic. Lipograms are works with a more general version of this trait.",
+          "answer": "doesn’t",
+          "acceptableAnswers": [
+            "doesn’t",
+            "descriptive equivalents",
+            "prompt on less specific answers like missing a letter",
+            "The doesn’t"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the Oulipo, a postmodernist group of writers that seek to create literature using numerical and alphabetical constraints, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b0ecf"
+    },
+    {
+      "id": "083254b5-6219-461b-8748-87fa5b4d53d3",
+      "linkedTossupId": "a8d5d650-4b0c-4354-8467-dca2a4a4ceec",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these locations, two of which in Kenya and Tanzania were attacked on the same day in 1998 by truck bombs.",
+          "answer": "embassies",
+          "acceptableAnswers": [
+            "embassies",
+            "word forms such as embassy",
+            "The embassies"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Operation Eagle Claw hoped to end a 444-day \"hostage crisis\" in an embassy in this country. This country's revolution replaced Shah Mohammad Reza Pahlavi with Ayatollah Ruhollah Khomeini.",
+          "answer": "Iran",
+          "acceptableAnswers": [
+            "Iran",
+            "Islamic Republic of Iran",
+            "Jomhuri-ye Eslami-ye Iran",
+            "accept Iranian revolution",
+            "The Iran"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A more recent embassy attack occurred under this president in Benghazi, Libya. Hillary Clinton served as Secretary of State during this man's presidency, during which Joe Biden was vice president.",
+          "answer": "Obama",
+          "acceptableAnswers": [
+            "Obama",
+            "Barack Hussein Obama II",
+            "The Obama"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The failed Operation Eagle Claw attempted to rescue people from one of these locations. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65666e01443a0a5dea00452c"
+    },
+    {
+      "id": "4a092696-e334-46a3-acdb-c69dc47bbc61",
+      "linkedTossupId": "ff13e9e4-29ad-4906-8cda-f39f0c8d7a72",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This author of The Religion of India was perhaps the most notable person to do so, raving about the Calvinist attitude towards work in The Protestant Ethic and the Spirit of Capitalism.",
+          "answer": "Weber",
+          "acceptableAnswers": [
+            "Weber",
+            "The Weber"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of The Acquisitive Society made a much more refined argument in his 1932 Religion and the Rise of Capitalism.",
+          "answer": "Tawney",
+          "acceptableAnswers": [
+            "Tawney",
+            "The Tawney"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The wildly disproportionate representation of Huguenots among the members of the French scientific community is good evidence for this idea, put forth by a prolific sociologist, which states that Protestant ideas about Biblical interpretation were the driving force for the values of the scientific revolution.",
+          "answer": "Merton thesis",
+          "acceptableAnswers": [
+            "Merton thesis",
+            "The Merton thesis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Many sociologists have tried to link the rise of Protestantism with other important European phenomena. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cf9bb0"
+    },
+    {
+      "id": "955a17fd-da7f-4a4a-a513-a3f805be003e",
+      "linkedTossupId": "94e06c48-5963-439d-b6c4-49d46b0180b8",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this painting that combines several frames of an abstract figure moving downwards.",
+          "answer": "Nude Descending a Staircase",
+          "acceptableAnswers": [
+            "Nude Descending a Staircase",
+            "Nu descendant un escalier",
+            "No. 2",
+            "The Nude Descending a Staircase"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This artist of Nude Descending a Staircase, No. 2 is also famous for presenting ordinary objects as pieces of art, such as a urinal and a snow shovel, which were known as \"readymades.\"",
+          "answer": "Duchamp",
+          "acceptableAnswers": [
+            "Duchamp",
+            "The Duchamp"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Duchamp was a part of this artistic movement founded during World War I which focused on creating art that was anti-art.",
+          "answer": "Dada",
+          "acceptableAnswers": [
+            "Dada",
+            "Dadaism",
+            "The Dada"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work was described as \"an explosion in a shingles factory\" by a critic. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe72e"
+    },
+    {
+      "id": "38817a22-37ac-46fd-ad9b-01aced18939a",
+      "linkedTossupId": "d009c6df-c824-498c-bbe1-cda0e26c358e",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this man who left his position as Assistant Secretary of the Navy under President William McKinley to form the Rough Riders.",
+          "answer": "Roosevelt",
+          "acceptableAnswers": [
+            "Roosevelt",
+            "The Roosevelt"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Roosevelt declared himself to be \"as fit as\" one of these animals. This animal's name became synonymous with the Progressive Party that backed Roosevelt in his 1912 presidential campaign.",
+          "answer": "Bull Moose",
+          "acceptableAnswers": [
+            "Bull Moose",
+            "The Bull Moose"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In 2001, just before leaving office, President Bill Clinton awarded Roosevelt a posthumous Medal of [Honor for his leadership during this battle of the Spanish-American War.",
+          "answer": "San Juan Hill",
+          "acceptableAnswers": [
+            "San Juan Hill",
+            "The San Juan Hill"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man was awarded the Nobel Peace Prize in 1906 for his role in brokering the Treaty of Portsmouth, putting an end to the Russo-Japanese War. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "676f723ff56e0dff73abeeb9"
+    },
+    {
+      "id": "95bcc3f3-9c1c-44fe-9584-2910ae6c1133",
+      "linkedTossupId": "1dd10c34-5fe2-46d6-bb44-ac12073ff026",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this English poet of \"On My First Son,\" also known for saying \"I loved the man, and do honour his memory on this side idolatry as much as any\" when referring to Shakespeare in his book Timber.",
+          "answer": "Jonson",
+          "acceptableAnswers": [
+            "Jonson",
+            "The Jonson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Jonson also wrote lyrics such as \"Drink to me only with thine eyes\" in a group of poems addressed to this woman.",
+          "answer": "Celia",
+          "acceptableAnswers": [
+            "Celia",
+            "The Celia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the so-called \"Tribe of Ben\" poets was this Cavalier poet that wrote \"Stone Walls do not a prison make, nor iron bars a cage\" in \"To Althea, From Prison.\"",
+          "answer": "Lovelace",
+          "acceptableAnswers": [
+            "Lovelace",
+            "The Lovelace"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He wrote \"Farewell, thou child of my right hand, and joy; my sin was too much hope of thee, lov'd boy.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f33042333cf2cfbd44acd7"
+    },
+    {
+      "id": "98478e8e-f36b-457f-93d7-5c8890592d12",
+      "linkedTossupId": "a64ac249-a88f-4374-a805-6983896b20f0",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this scene also painted in fresco by Leonardo da Vinci. Leonardo's version of this scene shows the twelve apostles' reaction to Jesus' announcement that one of them will betray him.",
+          "answer": "Last Supper",
+          "acceptableAnswers": [
+            "Last Supper",
+            "The Last Supper"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This \"little dyer\" painted a version of the last supper that used diagonal perspective. His other works include The Origin of the Milky Way.",
+          "answer": "Tintoretto",
+          "acceptableAnswers": [
+            "Tintoretto",
+            "Jacopo Comin",
+            "Jacopo Robusti",
+            "The Tintoretto"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Paolo Veronese had to give this new title to his version of the Last Supper because it contained entirely out-of-place elements like Germans and dwarves.",
+          "answer": "Feast in the House of Levi",
+          "acceptableAnswers": [
+            "Feast in the House of Levi",
+            "The Feast in the House of Levi"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Andrea del Castagno painted a fresco of this scene for the refectory of Sant'Apollonia. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0b52c"
+    },
+    {
+      "id": "a6c80bda-7179-4364-894f-90a1b5a75082",
+      "linkedTossupId": "dd796a38-f4cd-4551-a62e-dd1200a334bf",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with feedback loops.",
+          "answer": "hypothalamus",
+          "acceptableAnswers": [
+            "hypothalamus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hypothalamus in the endocrine system?",
+          "answer": "Feedback loops",
+          "acceptableAnswers": [
+            "Feedback loops"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to feedback loops.",
+          "answer": "pituitary",
+          "acceptableAnswers": [
+            "pituitary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "e5f9f84a-2a95-4958-8a9f-9a3ace2bb38b",
+      "linkedTossupId": "ed801c48-ce0e-4229-a9f2-1245956246fe",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "How many of the smaller cubes have none of their faces painted?",
+          "answer": "1",
+          "acceptableAnswers": [
+            "1"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "How many of the smaller cubes have exactly one of their faces painted?",
+          "answer": "6",
+          "acceptableAnswers": [
+            "6"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "How many of the smaller cubes have exactly two of their faces painted?",
+          "answer": "12",
+          "acceptableAnswers": [
+            "12"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This is a computation bonus. Twenty-seven congruent cubes are stacked to form a single large cube. All six faces on the outside of the larger cube are painted. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b61e"
+    }
+  ]
+}

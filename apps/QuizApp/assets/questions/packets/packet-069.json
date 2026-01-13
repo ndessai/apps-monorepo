@@ -1,0 +1,1136 @@
+{
+  "packetId": "packet-069",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Social Science",
+    "Science",
+    "Literature",
+    "Human Body",
+    "Mythology",
+    "Philosophy",
+    "History",
+    "Fine Arts",
+    "Geography"
+  ],
+  "tossups": [
+    {
+      "id": "5ae0318e-5e83-458e-8065-b50160f2482c",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "One of these named Enos went into space, and other scientific examples of these animals include Washoe and Nim, namesakes of animal language acquisition studies. Another researcher of these creatures named one \"David Graybeard\" after going to Gombe Valley, Tanzania to document social patterns among these members of genus Pan. Investigated by Jane Goodall, for 10 points, name these large-eared primates often studied due to their brain power and similarity to humans.",
+      "powerMarkPosition": 161,
+      "answer": "chimp",
+      "acceptableAnswers": [
+        "chimp",
+        "Pan troglodytes",
+        "prompt “monkeys”",
+        "“primates” until read",
+        "The chimp"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d44045"
+    },
+    {
+      "id": "22e6497f-ce4b-43dd-953d-17297bdc4656",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "text": "One type of this procedure involves forming an inclusion complex between cyclodextrins and the chiral compound being studied. The resolution between two peaks on a readout from this technique can be calculated using an equation named for J.H. Purnell. That equation about a type of this procedure features the square root of a quantity which is equal to the total bed height divided by that quantity's namesake height equivalent; that quantity can be calculated using the van Deemter equation. The time in between injection and detection of the analyte in these techniques is called the retention time. For 10 points, name this class of techniques in which a mobile phase passes through a stationary phase to separate mixtures, types of which include high-performance liquid and column.",
+      "powerMarkPosition": 242,
+      "answer": "chromatography",
+      "acceptableAnswers": [
+        "chromatography",
+        "any specific forms of chromatography",
+        "The chromatography"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba964b7"
+    },
+    {
+      "id": "519092ea-0f3d-4009-bce3-3ae4a38a66b4",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "One character in this work reminisces about an argument he had over the differences between an anarchist and a socialist. Other characters in this work are \"the old foolosopher,\" Cecil Lewis, and Piet Wetjoen, former enemies in the Boer War. The main character of this work kills his wife Evelyn, and he tries to get the group to fulfill their \"pipe dreams,\" while getting drunk at Harry Hope's saloon. For 10 points, name this Eugene O'Neill work that centers on the group of characters waiting on the arrival of Theodore Hickman, nicknamed \"Hickey.\"",
+      "powerMarkPosition": 241,
+      "answer": "Iceman Cometh",
+      "acceptableAnswers": [
+        "Iceman Cometh",
+        "The Iceman Cometh"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0952"
+    },
+    {
+      "id": "f1086774-dc76-40d5-896b-cb824c6f4cb6",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "A man jots down an address on a shirt cuff in this play just after another character formulates a story about a person being \"carried off suddenly, in Paris, by a severe chill.\" A character in this play states that losing \"one parent\" \"may be regarded as a misfortune; to lose both looks like carelessness.\" Reverend Chasuble interrupts a German lesson to flirt with Miss Prism in this play, which describes the habit of \"Bunburying\" to avoid responsibilities. For 10 points, name this play about the double life of Jack Worthing, by Oscar Wilde.",
+      "powerMarkPosition": 292,
+      "answer": "Importance of Being Earnest",
+      "acceptableAnswers": [
+        "Importance of Being Earnest",
+        "The Importance of Being Earnest"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d81df703b5396be4759388"
+    },
+    {
+      "id": "fdb8c8e6-1290-45c9-a3f5-01f7065e10a9",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for gallbladder and bile. It plays a key role in the digestive system and is one of the most studied parts of human anatomy. For ten points, name this liver-related structure.",
+      "powerMarkPosition": 71,
+      "answer": "Liver",
+      "acceptableAnswers": [
+        "liver",
+        "Liver"
+      ],
+      "explanation": "The liver is a key component of the Digestive system, involved in gallbladder and bile.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "5279c469-6e56-4975-b2e8-13d28c4fdbd5",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "text": "A god taking this form helped the Zuni hero twins destroy the Cloud-Swallower demon. A god taking this form leads humanity through four great caverns, and creates the other gods after separating from the sun god Tawa. A figure who took this form asked his wife Aso to answer the door while he hid. Minamoto no Yorimitsu killed a demon in this form called tsuchigumo (\"tsoo-chee-GOO-mo\"). A \"grandmother\" from Hopi myth takes this form. A figure in this form used a branch to capture Onini, a giant python, and later captured hornets, a fairy, and a leopard, the four most dangerous creatures in the world. A trickster of this form obtained the world's stories from the sky god Nyame (\"nee-AH-may\"). For 10 points, name this form of the African trickster Anansi, who once trapped a village full of flies in his webs.",
+      "powerMarkPosition": 297,
+      "answer": "spider",
+      "acceptableAnswers": [
+        "spider",
+        "arachnid",
+        "prompt on bug",
+        "animal",
+        "The spider"
+      ],
+      "source": "qbreader",
+      "sourceId": "6551b0922c809f9dfdac1f1f"
+    },
+    {
+      "id": "2f1fb7ee-cd90-4c7b-81f7-68359bde68c5",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "The founder of this religion came from the Sant religious group based on the mystic Kabir, and that man's life was chronicled by Bhai Bala, whose tome about that founder's life contained more miracle stories than the Puratan writings about this religion. This religion added the mirilpiri doctrine, while the Khalsa order in this faith arose in the tenth leader of this faith. For 10 points, Arjun, Ram Das, Gobind Singh, and Nanak are some of the Gurus in this faith, which reads the Adi Granth and worships in the Golden Temple of Amritsar.",
+      "powerMarkPosition": 254,
+      "answer": "Sikh",
+      "acceptableAnswers": [
+        "Sikh",
+        "The Sikh"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a98416c4"
+    },
+    {
+      "id": "96791c91-9a77-4957-a45b-c05e2f2df82a",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "An author who died in exile from this country wrote a cycle of poems memorializing his dead wife Leonor and a poem that declares \"traveler, there is no road / the path is made by walking.\" A poem from this country describes \"[b]ig hoarfrost stars\" that \"come with the fish of shadow / that opens the road of dawn.\" An elegy from this country says of its subject, \"How fine a mountaineer in the sierra! / How gentle with ears of wheat! / How fierce with the spurs!\" Miguel Hernandez and Antonio Machado were from this country; as was a man who wrote a poem that begins \"Green, how I want you green\" and a five-part elegy that begins \"At five in the afternoon.\" For 10 points, from what country was the author of \"Lament for the Death of a Bullfighter,\" Federico Garcia Lorca?",
+      "powerMarkPosition": 464,
+      "answer": "Spain",
+      "acceptableAnswers": [
+        "Spain",
+        "Espana",
+        "The Spain"
+      ],
+      "source": "qbreader",
+      "sourceId": "6504a58256efcb4952c4e981"
+    },
+    {
+      "id": "5dfa15db-1fee-4072-a503-7f48fb25f1eb",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "text": "Along with Alexander Parvus and Julius Martov, this man founded the newspaper The Beginning. This man gave an address entitled \"I Stake My Life\" to a commission that included John Dos Passos, Franz Boas, and John Dewey. This man advocated a policy of \"permanent revolution\" as opposed to a rival's theory of \"socialism in one country.\" This man was killed by NKVD agent Ramon Mercader with an improvised ice axe in Mexico City. For 10 points, name this head of the Red Army during the Russian Civil War, a rival of Joseph Stalin.",
+      "powerMarkPosition": 289,
+      "answer": "Trotsky",
+      "acceptableAnswers": [
+        "Trotsky",
+        "Lev Davidovich Bronstein",
+        "The Trotsky"
+      ],
+      "source": "qbreader",
+      "sourceId": "6605c17d7891dce02ea7d003"
+    },
+    {
+      "id": "393eb543-4934-4627-8a78-9ef38c644db2",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "It's not conductance, but this quantity sharply increases in the punch-through effect because effective width of the base becomes zero. The forward and reverse transport factors along with the value of two types of reverse saturated versions of this quantity are the four parameters in the Ebers-Moll model. In classical mechanics, any variable that satisfies the continuity equation is one of these named for Noether. The density of this quantity decreases exponentially away from the surface in the skin effect. Inverters and rectifiers are used to change between two forms of this quantity, which is proportional to the drift velocity. Diodes force this quantity to pass in a single direction. For 10 points, name this quantity, which, by Ohm's law, gives voltage when multiplied by resistance, and is measured in amperes.",
+      "powerMarkPosition": 307,
+      "answer": "current",
+      "acceptableAnswers": [
+        "current",
+        "“I”",
+        "The current"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f33042333cf2cfbd44ad12"
+    },
+    {
+      "id": "fb592b1c-81dd-4bdc-b37d-e01012391089",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for neuromuscular junction. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this contraction-related structure.",
+      "powerMarkPosition": 75,
+      "answer": "Contraction",
+      "acceptableAnswers": [
+        "contraction",
+        "Contraction"
+      ],
+      "explanation": "The contraction is a key component of the Musculoskeletal system, involved in neuromuscular junction.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "3254cf73-eade-4230-83fe-c14f88d1ab83",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "The probable lead perpetrator of this action had earned the nickname \"Chef Edward\" during similar forays a decade earlier, and went on to become a local warlord based in Zahle. One participant in this event defended his actions as a merely formally complying with UNSCR 520 during a $50 million libel suit against Time stemming from this event, which was preceded by a bomb detonation that killed Bachir Gemayel, enraging the Kataeb Party. Elie Hobeika's forces were able to carry on slaughtering people through the night thanks to flares fired from a third party, which led the Kahan Commission to declare the sitting Defense Minister \"personally responsible.\" Hundreds of armed Phalangists were driven to the site of this event by the IDF, which had just invaded West Beirut. For 10 points, identify this 1982 massacre in which Ariel Sharon ushered pissed off, armed Lebanese Maronite into the two namesake Palestinian refugee camps and was then totally astonished when they slaughtered thousands of residents.",
+      "powerMarkPosition": 439,
+      "answer": "Sabra and Shatila",
+      "acceptableAnswers": [
+        "Sabra and Shatila",
+        "The Sabra and Shatila"
+      ],
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faae15"
+    },
+    {
+      "id": "7fc2f750-d8db-4815-b859-a373a6cf1a96",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "text": "One figure who journeys to this region has to evade an eagle of fire living in a river of fire and cut down a tall fence made of snakes. One man is brought to this region by a magic whirlwind after he climbs a spruce tree in Osmo's field to try and get the Big Dipper. A man hides at the Isle of Refuge after visiting this region, where he is offered alcohol full of snakes. A woman originally from this region is mauled by bears dressed as cattle after she gives her shepherd a loaf of bread with a rock in it. An old woman from this region uses a mountain of iron to trap the sun and moon here. In order to win a maid from this region, one figure accomplishes tasks such as catching a giant pike and plowing a field of serpents. A man uses a kantele to lull the soldiers of this region to sleep so he can steal a mill that produces flour, salt, and gold called the Sampo. Louhi is the mistress of, for 10 points, what region whose inhabitants end up fighting with Väinamöinen and pals in the Kalevala?",
+      "powerMarkPosition": 478,
+      "answer": "Pohjola",
+      "acceptableAnswers": [
+        "Pohjola",
+        "Pohja",
+        "accept Pohjoland",
+        "accept Northland",
+        "prompt on Finland",
+        "The Pohjola"
+      ],
+      "source": "qbreader",
+      "sourceId": "6308f08b477954b5e7f5b8c5"
+    },
+    {
+      "id": "bd527895-db50-4a72-ab11-002889f212b1",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "The stoichiometric ratio of carbon to this element to phosphorus is 106 to 16 according to the well-known Redfield ratio. Important work on the source of this element in soils was done by Martinus Beijerinck, who discovered the Beijerinckia and Azotobacter bacteria. A surprise microbial impact on this element was found in the discovery of the anammox process, in which hydrazine is produced as an intermediate. Anthropogenic eutrophication creates excessive amounts of this element and phosphorus. A significant source of this element found in soils is due to the action of Rhizobium bacteria in legumes and other plants. The Haber-Bosch process allowed the inorganic creation of a compound with this element, which could then be used as a fertilizer. For 10 points, name this element \"fixed\" to ammonia that makes up the majority of the Earth's atmosphere.",
+      "powerMarkPosition": 487,
+      "answer": "nitrogen",
+      "acceptableAnswers": [
+        "nitrogen",
+        "N",
+        "The nitrogen"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531efa61a9ba79f34e30"
+    },
+    {
+      "id": "c739ba3c-8223-4894-b478-839f7b2f22a1",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "high_school",
+      "text": "Pieces from this work reinterpreted by Duke Ellington and Billy Strayhorn were used in a 1999 production choreographed by Donald Byrd and set during the Harlem Renaissance. In this ballet's grand pas de deux [pah day doo], the harp plays Adagio sixteenth-note triplets over slow descending scales. A trumpet solo that begins on a G features in this ballet's Act II \"Spanish Dance,\" which is alternatively titled \"Chocolate.\" This ballet also includes a piece featuring a celesta and another piece based on a folk dance, the trepak. This ballet begins at the Stahlbaum household where Fritz and his sister encounter the toymaker Drosselmeyer. For 10 points, name this Tchaikovsky ballet about Clara and the title doll.",
+      "powerMarkPosition": 411,
+      "answer": "Nutcracker",
+      "acceptableAnswers": [
+        "Nutcracker",
+        "The Nutcracker"
+      ],
+      "source": "qbreader",
+      "sourceId": "65de63efffe1839107b636a9"
+    },
+    {
+      "id": "6ac37d83-35a3-44be-81cb-34b76d090807",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "One member of this philosophical school identified gods as \"henads\" who facilitate the correspondence of mental states to levels of reality. In its later days, this school endorsed a form of magic called theurgy. This school explained certain metaphysical aspects as vertical and horizontal triads, and a member of this philosophical tradition explained its differences from Christianity in the treatise called Against the Christians. The originator of this school was a colleague of the Christian writer Origen and student of Ammonius, and its ideas are best laid out in a set of nine treatises, the Enneads, which were written by Porphyry, a disciple of its founder. For 10 points, name this school of thought which synthesized mystical cycles of returning to and receding from a monotheistic God with the ideas of the writer of Critias and Phaedo.",
+      "powerMarkPosition": 434,
+      "answer": "Neoplatonism",
+      "acceptableAnswers": [
+        "Neoplatonism",
+        "The Neoplatonism"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e3f13e1843aa5913201477"
+    },
+    {
+      "id": "043683bd-010d-4407-a2fe-1cdca4b7a33c",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "text": "One poem by this author notes that \"I let down the crystal curtain\" after describing steps \"quite with dew.\" The speaker of another poem by this author claims \"I never laughed, being bashful\" after stating \"at fourteen, I married My Lord you.\" That poem later laments that \"monkeys make sorrowful noise overhead.\" The speaker raises their cup to the title object in a poem by this author, which claims \"bound forever, relentless we roam\" after saying \"I pour myself a drink.\" The speaker of one of his poemslowers his head in memory of his hometown after lifting it towards the moon. Ezra Pound translated many of this man's poems, one of which compares \"moonlight before my bed\" to \"frost on the ground.\" For 10 points, name this Tang dynasty poet of \"Drinking Alone by Moonlight\" and \"Quiet Night Thought.\"",
+      "powerMarkPosition": 453,
+      "answer": "Li",
+      "acceptableAnswers": [
+        "Li",
+        "LiBo",
+        "LiPo",
+        "LiPai",
+        "Taibai",
+        "Rihaku",
+        "prompt on Bai",
+        "Bo",
+        "Po",
+        "Pai"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0af32d"
+    },
+    {
+      "id": "85d5229d-d835-4ba1-8375-f4b072903b8f",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "People in this city frequently attach satirical poems to sculptures called this city's \"talking statues.\" William Wetmore Story sculpted an oft-replicated Angel of Grief for his dead wife's grave in a cemetery in this city. A sculpture of Anchises [An-KY-sees] being carried by a young Aeneas resides in a gallery in the city. A marble statue of a reclining partially clothed woman holding an apple against her thigh is located in this city. This city is home to Antonio Canova's Venus Victrix. Gold stucco rays surround a spear-wielding angel and the title nun in a sculpture in this city's Cornaro Chapel. The Ecstasy of Saint Teresa was sculpted in this city by Gian Lorenzo Bernini. The piazza of a museum in this city features a bronze equestrian statue of Marcus Aurelius. For 10 points, busts of emperors are displayed in what city's Capitoline Museums?",
+      "powerMarkPosition": 470,
+      "answer": "Rome",
+      "acceptableAnswers": [
+        "Rome",
+        "The Rome"
+      ],
+      "source": "qbreader",
+      "sourceId": "66763418fe8264b343f111f6"
+    },
+    {
+      "id": "b27b2e62-2f03-4457-99eb-30dfb74e3a81",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "While living on this river, John Cozad killed a man in a land dispute, leading him to flee, change his name, and father the artist Robert Henri (\"HEN-rye\"). The STAR WARS committee sanctions private residential communities on artificial lakes that dominate many cities on this river, including Valley and North Bend. The west side of a city named for a tributary of this river is home to the largest railroad yard in the world, which is named for former Union Pacific president Edd Bailey. While running parallel to this river, I-80 is spanned by a faux-wood archway filled with historical dioramas. This river flows to the south of Columbus near its confluence with the Loup River. This river was variously described as \"too thick to drink, too thin to plow\" and \"a mile wide and an inch deep\" by pioneers going west. For 10 points, name this tributary of the Missouri River that flows through Kearney (\"KAR-nee\") and Grand Island in Nebraska.",
+      "powerMarkPosition": 477,
+      "answer": "Platte",
+      "acceptableAnswers": [
+        "Platte",
+        "The Platte"
+      ],
+      "source": "qbreader",
+      "sourceId": "6765041c540a782fbf33bc95"
+    },
+    {
+      "id": "749a8019-6b78-4e10-85de-8d7ad6b735b6",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "This artist is believed to have created about 4000 to 5000 sculptures in his lifetime. Initially, his sculptures averaged about one to two centimeters due to his desire to quote, \"create from memory what I had seen\"; after 1945, he started creating larger works. His work \"L'Homme au Droigt\" (\"lum oh dwat\") was bought by Stephen A. Cohen for $141.3 million. That was the most expensive sale of a sculpture ever; the second and third most expensive sculptures sold were also created by this artist. For ten points, name this Swiss sculptor known for his elongated sculptures, most of which depict people in motion.",
+      "powerMarkPosition": 178,
+      "answer": "Giacometti",
+      "acceptableAnswers": [
+        "Giacometti",
+        "The Giacometti"
+      ],
+      "source": "qbreader",
+      "sourceId": "65fa4917e210b3e07c6de705"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "5027359f-1f71-43db-b971-f12f9529bfd5",
+      "linkedTossupId": "5ae0318e-5e83-458e-8065-b50160f2482c",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This title character of a John Grisham series dreams of becoming a lawyer. In the first book in the series, this character helps prove that Mr. Duffy murdered his wife.",
+          "answer": "Theo",
+          "acceptableAnswers": [
+            "Theo",
+            "either underlined portion",
+            "The Theo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Andrew Clements' novel Frindle, Nick Allen obtains merchandising rights for the name of a gold one of these objects. A popular saying states that these objects are mightier than the sword.",
+          "answer": "pen",
+          "acceptableAnswers": [
+            "pen",
+            "The pen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Paula Danziger's The Cat Ate My Gym Suit, the protagonist's teacher Ms. Finney refuses to recite this text, leading to her firing. In 1954, the words \"Under God\" were added to this text.",
+          "answer": "Pledge of Allegiance",
+          "acceptableAnswers": [
+            "Pledge of Allegiance",
+            "The Pledge of Allegiance"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about the law in young adult literature, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630858144ee0305662a6edae"
+    },
+    {
+      "id": "30049ecc-73cb-422c-9f8a-880933155ed1",
+      "linkedTossupId": "22e6497f-ce4b-43dd-953d-17297bdc4656",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Synthetic setae mimic those found on the feet of these reptiles, which cling to walls using adhesion caused by van der Waals attractions.",
+          "answer": "gecko",
+          "acceptableAnswers": [
+            "gecko",
+            "The gecko"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A team led by this Russian physicist used synthetic setae to create \"gecko tape.\" He won the Ig Nobel for his work levitating frogs, and then won the 2010 Nobel for his discovery of graphene with Novoselov.",
+          "answer": "Geim",
+          "acceptableAnswers": [
+            "Geim",
+            "The Geim"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Geim's technique of producing gecko tape, a \"mask\" of this metal is placed on a polyimide film and then removed through ion bombardment. This metal's chief ore is refined in the Bayer process.",
+          "answer": "aluminum",
+          "acceptableAnswers": [
+            "aluminum",
+            "Al",
+            "aluminium",
+            "The aluminum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about synthetic setae, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba965a1"
+    },
+    {
+      "id": "8e26ed87-7d19-4bf9-903a-de9e047f5851",
+      "linkedTossupId": "519092ea-0f3d-4009-bce3-3ae4a38a66b4",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this creature who titles a poem that claims \"I Know Why\" this animal \"Sings.\"",
+          "answer": "Caged",
+          "acceptableAnswers": [
+            "Caged",
+            "The Caged"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the poem, \"the caged bird sings of\" this subject, indicating the bird's desire to escape from its cage.",
+          "answer": "freedom",
+          "acceptableAnswers": [
+            "freedom",
+            "The freedom"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"I Know Why the Caged Bird Sings\" was written by this African-American author and poet, who read her \"On the Pulse of the Morning\" at Clinton's inauguration.",
+          "answer": "Angelou",
+          "acceptableAnswers": [
+            "Angelou",
+            "The Angelou"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One animal in this poem \"leaps on the back of the wind / and floats downstream to the current's end\" while the other \"can seldom see through / his bars of rage\". For 10 points each",
+      "source": "qbreader",
+      "sourceId": "663806eea0924256318acf27"
+    },
+    {
+      "id": "bcd8528d-595b-470f-a5a0-8e9e82555c85",
+      "linkedTossupId": "f1086774-dc76-40d5-896b-cb824c6f4cb6",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this novel describing the love affair of the surgeon Tomas with his mistress Sabina, set during the events leading up to and following the Prague Spring.",
+          "answer": "Unbearable Lightness of Being",
+          "acceptableAnswers": [
+            "Unbearable Lightness of Being",
+            "Nesnesitelná lehkost bytí",
+            "The Unbearable Lightness of Being"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Czech author of The Unbearable Lightness of Being wrote about Ludvik Jahn, who is expelled from the Communist Party, in The Joke.",
+          "answer": "Kundera",
+          "acceptableAnswers": [
+            "Kundera",
+            "The Kundera"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Tomas's article in the newspaper compares Czech communists to this Greek tragic hero, who unknowingly killed his father and slept with his mother.",
+          "answer": "Oedipus",
+          "acceptableAnswers": [
+            "Oedipus",
+            "The Oedipus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This novel's protagonist is forced to become a window washer after publishing an article denouncing the Communist Party. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bfe9b3"
+    },
+    {
+      "id": "1b810a42-72f6-4821-985e-77a1f7742749",
+      "linkedTossupId": "fdb8c8e6-1290-45c9-a3f5-01f7065e10a9",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with feedback loops.",
+          "answer": "hypothalamus",
+          "acceptableAnswers": [
+            "hypothalamus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hypothalamus in the endocrine system?",
+          "answer": "Feedback loops",
+          "acceptableAnswers": [
+            "Feedback loops"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to feedback loops.",
+          "answer": "pituitary",
+          "acceptableAnswers": [
+            "pituitary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "82b9b0d4-08b6-4e07-af7b-0a901205f83b",
+      "linkedTossupId": "5279c469-6e56-4975-b2e8-13d28c4fdbd5",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "What Platonic dialogue describes a drinking party for the poet Agathon?",
+          "answer": "Symposium",
+          "acceptableAnswers": [
+            "Symposium",
+            "The Symposium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Plato's Symposium sees Socrates suggest that this feeling is vulgar when directed only at good looking people for sex but divine when used to approach the divine, later termed its \"Platonic\" form.",
+          "answer": "love",
+          "acceptableAnswers": [
+            "love",
+            "The love"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Phaedrus defends homosexual love in the Symposium with reference to this figure, whom he says was really the younger beloved of Patroclus, whose death he avenged by killing Hector.",
+          "answer": "Achilles",
+          "acceptableAnswers": [
+            "Achilles",
+            "The Achilles"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Aristophanes' speech in this work suggests that humans used to have doubled bodies, but were split by Zeus when they attempted to attack Olympus. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee451"
+    },
+    {
+      "id": "d0fb54ed-80d5-4fa3-a92a-c48897f8126f",
+      "linkedTossupId": "2f1fb7ee-cd90-4c7b-81f7-68359bde68c5",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this ancient text on military strategy, filled with maxims such as \"appear weak when you are strong, and strong when you are weak.\"",
+          "answer": "Art of War",
+          "acceptableAnswers": [
+            "Art of War",
+            "The Art of War"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This military commander wrote The Art of War during the Warring States Period on strips of bamboo. He trained 180 of the king's concubines to be soldiers as proof of his abilities.",
+          "answer": "Sun",
+          "acceptableAnswers": [
+            "Sun",
+            "Sun Zi",
+            "Sun Wu",
+            "Changqing",
+            "The Sun"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Art of War, Sun Tzu recommends this action to drive troops from their camp when the wind allows. This action is also the title of the penultimate chapter of the text.",
+          "answer": "attacking by fire",
+          "acceptableAnswers": [
+            "attacking by fire",
+            "obvious equivalents",
+            "like burning",
+            "The attacking by fire"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work advises the reader to leave an outlet open when surrounding an enemy's army. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eec31bb669367617b8c979"
+    },
+    {
+      "id": "42a081db-50af-4e95-872a-191b31151137",
+      "linkedTossupId": "96791c91-9a77-4957-a45b-c05e2f2df82a",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Give this name of the title character of a \"dramatic prose poem\" by Villiers de l'Isle-Adam. Another character with this name encounters mastodons and dinosaurs while on a scientific expedition with his uncle Otto Lidenbrock.",
+          "answer": "Axel",
+          "acceptableAnswers": [
+            "Axel",
+            "Axël",
+            "The Axel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The pioneering Symbolist drama Axël heavily influenced this Belgian playwright, who wrote of a fatal love triangle involving the grandsons of King Arkël in Pelléas and Mélisande. This author wrote The Blue Bird.",
+          "answer": "Maeterlinck",
+          "acceptableAnswers": [
+            "Maeterlinck",
+            "Maurice Polydore-Marie-Bernard Maeterlinck",
+            "Comte Maeterlinck",
+            "The Maeterlinck"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this other Symbolist drama, an actress impersonates Queen Mary to keep her husband from being appointed Viceroy of England. This absurdly long philosophical play by Paul Claudel centers on Rodrigo and Prouhèze (\"proo-EZ\").",
+          "answer": "Satin Slipper",
+          "acceptableAnswers": [
+            "Satin Slipper",
+            "Le Soulier de satin",
+            "ou",
+            "le pire n’est pas toujours sûr",
+            "The Satin Slipper"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A character of this name declares himself to be \"a dreamer with whom it is rather difficult to deal\" and \"the Old Man of the Forest\" in a triumphant speech to his uncle Kaspar of Auersperg. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64d17df3ce0dacc4ef84b9bf"
+    },
+    {
+      "id": "5a0be7b1-8835-42ba-ad27-73e42ddd038b",
+      "linkedTossupId": "5dfa15db-1fee-4072-a503-7f48fb25f1eb",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this nineteenth-century movement that called for the formation of a modern-day country. After this movement succeeded, Victor Emmanuel II became the first king of that country.",
+          "answer": "Risorgimento",
+          "acceptableAnswers": [
+            "Risorgimento",
+            "Italian unification",
+            "accept clear equivalents",
+            "The Risorgimento"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man, a major leader of the Risorgimento, led the Expedition of the Thousand with his Red Shirts to conquer the Kingdom of the Two Sicilies.",
+          "answer": "Garibaldi",
+          "acceptableAnswers": [
+            "Garibaldi",
+            "The Garibaldi"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After this early French and Italian victory of the Risorgimento, Napoleon III signed the Treaty of Villafranca without giving notice to the Italians. Witnessing the suffering at this battle led Henry Dunant to found the International Red Cross.",
+          "answer": "Solferino",
+          "acceptableAnswers": [
+            "Solferino",
+            "The Solferino"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Many Carbonari, or \"charcoal burners,\" participated in this movement. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52bfb"
+    },
+    {
+      "id": "c96a5e82-2469-45d1-9bec-02ccf1a4fefe",
+      "linkedTossupId": "393eb543-4934-4627-8a78-9ef38c644db2",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Common catalysts for it include the cyanide ion and some bases, and it is defined as the combination of two molecules with the loss of water or another simple molecule.",
+          "answer": "condensation",
+          "acceptableAnswers": [
+            "condensation",
+            "The condensation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this type of condensation, two molecules of a carboxylic ester containing an alpha-hydrogen combine to give a beta-keto ester.",
+          "answer": "Claisen",
+          "acceptableAnswers": [
+            "Claisen",
+            "The Claisen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Discovered by Alexander Borodin, this condensation can be acid- or base-catalyzed and produces either aldehydes or ketones through an enolate ion intermediary.",
+          "answer": "aldol",
+          "acceptableAnswers": [
+            "aldol",
+            "The aldol"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about a certain type of reaction, For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bca72e7fe60f397fb4a87d"
+    },
+    {
+      "id": "438dcff5-cb5c-4a33-ab43-3c56fea9cf9f",
+      "linkedTossupId": "fb592b1c-81dd-4bdc-b37d-e01012391089",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with diabetes types.",
+          "answer": "insulin",
+          "acceptableAnswers": [
+            "insulin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the insulin in the endocrine system?",
+          "answer": "Diabetes types",
+          "acceptableAnswers": [
+            "Diabetes types"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to diabetes types.",
+          "answer": "glucagon",
+          "acceptableAnswers": [
+            "glucagon"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "0b61c433-2a55-484f-91ca-0508cebb5006",
+      "linkedTossupId": "3254cf73-eade-4230-83fe-c14f88d1ab83",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this event that lasted almost a year but failed to receive sufficient help from the Trades Union Congress, and ended with many of the participants returning to work without winning any concessions.",
+          "answer": "coal miner",
+          "acceptableAnswers": [
+            "coal miner",
+            "The coal miner"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The strike was effectively broken by this Conservative PM's refusal to grant the miners any concessions. She compared the strike to the Falklands War, alleging that \"the enemy within [was] more dangerous to liberty.\"",
+          "answer": "Thatcher",
+          "acceptableAnswers": [
+            "Thatcher",
+            "The Thatcher"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man was the leader of the National Union of Mineworkers during the strike. He currently leads the Socialist Labour Party of the U.K.",
+          "answer": "Scargill",
+          "acceptableAnswers": [
+            "Scargill",
+            "The Scargill"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This action began as a protest against the shutdown of 20 unprofitable sites, as directed by Ian MacGregor. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faa6fc"
+    },
+    {
+      "id": "84aefc31-5084-4cfd-9afc-675a428a5b70",
+      "linkedTossupId": "7fc2f750-d8db-4815-b859-a373a6cf1a96",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify these nine daughters of Mnemosyne who turned the daughters of king Pierus into magpies. Their ranks include Urania, whose domain was astronomy, and Calliope, the one of epic poetry.",
+          "answer": "Muses",
+          "acceptableAnswers": [
+            "Muses",
+            "mousai",
+            "The Muses"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Muses should perhaps have recused themselves from judging the musical contest between this satyr and Apollo. When they found Apollo to be superior, Apollo flayed this guy alive and nailed his skin to a pine tree.",
+          "answer": "Marsyas",
+          "acceptableAnswers": [
+            "Marsyas",
+            "The Marsyas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This son of Philamon and Argiope was a student of Linus who thought himself a good enough singer to challenge the Muses. He was wrong, and for his presumption the Muses blinded him. Lesson learned: don't fuck with the Muses.",
+          "answer": "Thamyris",
+          "acceptableAnswers": [
+            "Thamyris",
+            "The Thamyris"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Later traditions recognized four of these figures; specifically, Thelxinoē, Aoedē, Arche, and Meletē. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c6119349ac6"
+    },
+    {
+      "id": "5c8a9844-9243-4e80-b060-40c2026325e0",
+      "linkedTossupId": "bd527895-db50-4a72-ab11-002889f212b1",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these macromolecules which consist of smaller subunits called monomers.",
+          "answer": "polymer",
+          "acceptableAnswers": [
+            "polymer",
+            "The polymer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "DuPont uses this brand name for a polymer of tetrafluoroethylene. It is commonly used in nonstick cookware.",
+          "answer": "Teflon",
+          "acceptableAnswers": [
+            "Teflon",
+            "polytetrafluoroethylene",
+            "PTFE",
+            "The Teflon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This University of Illinois alumnus and former DuPont employee is the namesake of an equation which gives the degree of polymerization for step-growth polymerization. This inventor of nylon committed suicide with a cocktail of lemon juice and cyanide.",
+          "answer": "Carothers",
+          "acceptableAnswers": [
+            "Carothers",
+            "The Carothers"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Nylon and rayon are examples of these sorts of compounds. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125cd6a"
+    },
+    {
+      "id": "0808aea2-80b8-46ad-b828-ab8181f6c57f",
+      "linkedTossupId": "c739ba3c-8223-4894-b478-839f7b2f22a1",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "An Arthur Honegger oratorio commissioned by Ida Rubinstein centers on this figure, played by Marion Cotillard in some recent productions. This character was the subject of a Tchaikovsky opera written two years after Eugene Onegin.",
+          "answer": "Joan of Arc",
+          "acceptableAnswers": [
+            "Joan of Arc",
+            "The Joan of Arc"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer depicted the \"Dream\" of title Roman Catholic everyman, Gerontius, in his most famous oratorio. Another of his choral works, his Coronation Ode, ends with a setting of \"Land of Hope and Glory.\"",
+          "answer": "Sir Edward Elgar",
+          "acceptableAnswers": [
+            "Sir Edward Elgar",
+            "The Sir Edward Elgar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The oratorios Belshazzar's Feast, A Child of Our Time, and The Dream of Gerontius are written by William Walton, Michael Tippett, and Edward Elgar, all knighted composers from this country.",
+          "answer": "Great Britain",
+          "acceptableAnswers": [
+            "Great Britain",
+            "The Great Britain"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer some questions about some 20th century oratorios:",
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a84ed"
+    },
+    {
+      "id": "28a56b26-0351-452d-bd8b-ac0715b3afe5",
+      "linkedTossupId": "6ac37d83-35a3-44be-81cb-34b76d090807",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This skullcap is worn in the temple, and at home by some, especially by Conservative and Orthodox Jewish males.",
+          "answer": "yamaka",
+          "acceptableAnswers": [
+            "yamaka",
+            "The yamaka"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This term refers to a long garment used primarily by Muslim women to conceal their bodies with only a grid to see through, or a mask used to conceal a woman's face.",
+          "answer": "burqa",
+          "acceptableAnswers": [
+            "burqa",
+            "The burqa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This cap with three or four ridges on its upper surface is worn by Christian clerics, from cardinal down, decorated according to rank; for instance, the ones worn by cardinals are red, while those worn by bishops are violet.",
+          "answer": "biretta",
+          "acceptableAnswers": [
+            "biretta",
+            "The biretta"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these articles of religious headwear, For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bca72e7fe60f397fb4a751"
+    },
+    {
+      "id": "6a9d47e5-4a62-4e4d-a0da-0c751cdc7055",
+      "linkedTossupId": "043683bd-010d-4407-a2fe-1cdca4b7a33c",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this non-Shelley poet, who wondered in another poem if the title bird pursues its \"solitary way.\"",
+          "answer": "Bryant",
+          "acceptableAnswers": [
+            "Bryant",
+            "The Bryant"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Bryant poem known as a \"meditation on death,\" he instructs the reader to \"approach thy grave, / Like one who wraps the drapery of his couch / About him and lies down to pleasant dreams.\"",
+          "answer": "Thanatopsis",
+          "acceptableAnswers": [
+            "Thanatopsis",
+            "The Thanatopsis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "William Cullen Bryant was a long-time editor of this city's Evening Post. Other newspapers in this city include Bloomsbury and its namesake Times.",
+          "answer": "New York",
+          "acceptableAnswers": [
+            "New York",
+            "The New York"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author's line \"Truth, crushed to the earth, shall rise again\" was quoted by Martin Luther King Jr. in his \"Give Us The Ballot\" speech. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63167de399ac1f87e75a54ca"
+    },
+    {
+      "id": "2edaf33b-ec14-4948-8d57-a658c604ac2d",
+      "linkedTossupId": "85d5229d-d835-4ba1-8375-f4b072903b8f",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this South Indian system of classical music with a different style but the same basic elements as its North Indian counterpart, Hindustani.",
+          "answer": "Carnatic",
+          "acceptableAnswers": [
+            "Carnatic",
+            "The Carnatic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This wooden, double-headed drum is part of the ensemble used for Bharatanatyam performances. The difference in size of the two heads of this drum creates bass and treble sounds for the four basic strokes Tha, Dhi, Thom, and Nam.",
+          "answer": "mridangam",
+          "acceptableAnswers": [
+            "mridangam",
+            "The mridangam"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In Carnatic music, the continuous plucking of the four strings of a tambura is used to create this harmonic effect. Organ pedals or bagpipes can also achieve this effect of a long sustained note, which also names a style of doom metal.",
+          "answer": "drone",
+          "acceptableAnswers": [
+            "drone",
+            "The drone"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The first Indian musician to perform at the UN General Assembly was M. S. Subbulakshmi, a singer from this system of music. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0aed23"
+    },
+    {
+      "id": "10711bbf-088a-4601-9d4c-35bc0aa14a30",
+      "linkedTossupId": "b27b2e62-2f03-4457-99eb-30dfb74e3a81",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The first cataract of the Nile is located at this city, which is also the location and namesake of the High Dam which forms Lake Nasser.",
+          "answer": "Aswan",
+          "acceptableAnswers": [
+            "Aswan",
+            "The Aswan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Four cataracts are found while the Nile crosses this broad, uplifted region separating Egypt from the Sudan Basin.",
+          "answer": "Nubian Swell",
+          "acceptableAnswers": [
+            "Nubian Swell",
+            "The Nubian Swell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The fifth cataract is located near the Atbarah River, which originates in Ethiopia just north of this lake, the source of the Blue Nile.",
+          "answer": "Tana",
+          "acceptableAnswers": [
+            "Tana",
+            "The Tana"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following related to cataracts along the Nile, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae809e"
+    },
+    {
+      "id": "9bb32121-8de6-4219-9471-32a7265f3e0b",
+      "linkedTossupId": "749a8019-6b78-4e10-85de-8d7ad6b735b6",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This composer wrote incidental music to a Danish version of The Tempest. He also wrote Finlandia and the Lemminkainen Suite.",
+          "answer": "Sibelius",
+          "acceptableAnswers": [
+            "Sibelius",
+            "The Sibelius"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Unlike Verdi's Falstaff, which was inspired by The Merry Wives of Windsor, this British composer's symphonic poem Falstaff was inspired by Henry IV, Parts 1 and 2. He also wrote Pomp and Circumstance.",
+          "answer": "Elgar",
+          "acceptableAnswers": [
+            "Elgar",
+            "The Elgar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer wrote \"overture-fantasias\" for orchestra inspired by Hamlet and Romeo and Juliet. Both of those works were premiered by Nikolai Rubenstein, who also was meant to premiere this composer's first piano concerto but rejected it.",
+          "answer": "Tchaikovsky",
+          "acceptableAnswers": [
+            "Tchaikovsky",
+            "The Tchaikovsky"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of the earlier Shakespeare-inspired musical works was three songs on The Tempest once misattributed to Henry Purcell. Answer the following about later classical music inspired by Shakespeare, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63506cec1b4438a94f2a28fe"
+    }
+  ]
+}

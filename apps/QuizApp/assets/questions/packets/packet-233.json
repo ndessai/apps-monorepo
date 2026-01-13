@@ -1,0 +1,1156 @@
+{
+  "packetId": "packet-233",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Fine Arts",
+    "Literature",
+    "Human Body",
+    "Social Science",
+    "History",
+    "Philosophy",
+    "Geography"
+  ],
+  "tossups": [
+    {
+      "id": "ace1ba7e-7ce2-41f0-befd-55f4bc8f08fb",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "text": "An untitled encore by this musician had its lead sheet (\"LEED sheet\") published in the first edition of the Real Book under the title \"Memories of Tomorrow.\" In an Oxford Studies in Recorded Jazz book analyzing one of this musician's recordings, Peter Elsdon contrasts Chick Corea's \"Noon Song\" with this musician's \"In Front,\" since both are from debut 1971 solo albums recorded for Manfred Eicher's label. This musician recorded the albums Changeless and Changes with Gary Peacock and Jack DeJohnette, the other members of his \"Standards Trio.\" Four solo tracks titled \"Part I,\" \"Part II a,\" \"Part II b,\" and \"Part II c\" make up an ECM album that this pianist performed on an unkempt Bösendorfer baby grand. The all-time best-selling solo piano album is this jazz pianist's live album documenting a 1975 performance in the title German city. For 10 points, name this pianist of The Köln Concert.",
+      "powerMarkPosition": 407,
+      "answer": "Jarrett",
+      "acceptableAnswers": [
+        "Jarrett",
+        "The Jarrett"
+      ],
+      "source": "qbreader",
+      "sourceId": "66307b05f089611172b04ff3"
+    },
+    {
+      "id": "18dbe185-b3d8-4f37-a3f1-5e21a01a3fd8",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "He criticizes both Penthouse Forum and Thomas Harris' Hannibal in his recent essay collection The War Against Cliché. One of his novels tells of the intertwined planning of murders of Nicola Six and the Earth itself, while his most successful novel follows a director of fast food videos, John \"Slick\" Self. In Visiting Mrs. Nabokov and Other Excursions he included an obituary of Philip Larkin, a good friend of his father's, but it is for his tale of the separate consciousnesses in ex-Nazi doctor Tod T. Friendly that he won a Booker Prize. FTP, name this writer of the novels London Fields, Money, and Time's Arrow, the son of novelist Kingsley.",
+      "powerMarkPosition": 307,
+      "answer": "M",
+      "acceptableAnswers": [
+        "M"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d9443bcb996cf5df5a824c"
+    },
+    {
+      "id": "e9d9d920-7d68-4606-a6cd-95843265883e",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for neuron structure. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this axon-related structure.",
+      "powerMarkPosition": 68,
+      "answer": "Axon",
+      "acceptableAnswers": [
+        "axon",
+        "Axon"
+      ],
+      "explanation": "The axon is a key component of the Nervous system, involved in neuron structure.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "20fb277a-28c7-427c-8e7d-388a85135368",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "In one scene in this novel, the protagonist carries a disabled man into a brothel and, in another, he accompanies the boxer Nails Nagel and Dingbat to Muskegon. In another scene, the protagonist drives Mimi to a doctor to obtain an illegal abortion. This novel begins with the protagonist and his brother, Simon, being raised by Grandma Lausch and later the protagonist does various jobs for Mr Einhorn. The protagonist moves to Mexico with Thea to teach an eagle to catch iguanas, before marrying Stella. For 10 points, name this Saul Bellow bildungsroman about the eponymous \"everyman\".",
+      "powerMarkPosition": 249,
+      "answer": "Adventures of Augie March",
+      "acceptableAnswers": [
+        "Adventures of Augie March",
+        "The Adventures of Augie March"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba9618e"
+    },
+    {
+      "id": "69e38dfd-d343-4917-9c88-257196fd44b0",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "In a work subtitled \"How [this construct] Divides and Unites Us,\" David Campbell and Robert Putnam attribute increased American tolerance for these constructs to the Aunt Susan Principle. To compare these constructs, Max Weber defined a continuum that evaluates \"mode of membership\" in them on a scale of \"decision\" to \"birth\". Robert Bellah proposed a \"third time of trial\" centered around presidential symbolism in the \"civil\" type of this construct. Emile Durkheim argued that totemism is the most basic form of this construct. For 10 points, as a society modernizes, the presence and influence of what constructs decline, according to the secularization thesis?",
+      "powerMarkPosition": 327,
+      "answer": "religion",
+      "acceptableAnswers": [
+        "religion",
+        "faith",
+        "accept church",
+        "accept sects",
+        "denominations",
+        "accept civil religion",
+        "prompt on Buddhism",
+        "Catholicism",
+        "Islam",
+        "Judaism",
+        "Mormonism",
+        "Protestantism by asking “what more general construct is that a form of?”",
+        "The religion"
+      ],
+      "source": "qbreader",
+      "sourceId": "671d6e2b704068afc3e92a20"
+    },
+    {
+      "id": "5fb56524-297b-448a-bf10-139041c40562",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "text": "The two regiments involved in this event, the 14th West Yorkshire Fusiliers and the 29th Worcestershire, were immediately removed to Castle William, but governor Thomas Hutchinson delayed the trial of the participants for seven months until October. Following Robert Treat Paine's prosecution, privates Hugh Montgomery and Matthew Kilroy were branded on the thumb for manslaughter, but the leading officer in this incident, Captain Thomas Preston, was acquitted. It occurred on the day the Townshend Acts were repealed and saw the deaths of Samuel Grey, James Caldwell, and Crispus Attucks, For 10 points, what was this 1770 event where British troops fired on an American mob in the namesake city?",
+      "powerMarkPosition": 249,
+      "answer": "Massacre",
+      "acceptableAnswers": [
+        "Massacre",
+        "The Massacre"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a456033b"
+    },
+    {
+      "id": "78dee1ad-9fcf-4bb8-a8e6-d77d95b9e245",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "At one point in this work, the protagonist's brother and another character go swimming with the Reverend Arthur Beebe. One character in this work throws away some bloody photographs that the protagonist had purchased shortly before witnessing a murder. After a tennis game, one of this novel's characters reads aloud a passage about a couple kissing on a violet-covered terrace from a novel by Joseph Emery Prank, the penname of Eleanor Lavish. Early in this novel, its protagonist and her cousin Charlotte Bartlett switch quarters at the Pensione Bertolini with the Emersons. The protagonist of this work breaks her engagement to Cecil Vyse to marry George Emerson. For 10 points, name this novel about Lucy Honeychurch's stay in Rome, written by E. M. Forster.",
+      "powerMarkPosition": 444,
+      "answer": "Room with a View",
+      "acceptableAnswers": [
+        "Room with a View",
+        "The Room with a View"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0bc78"
+    },
+    {
+      "id": "ad83bf36-f6ae-404e-ab23-376de168ef35",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "text": "Omega is a peer-reviewed journal that publishes papers on this concept from a variety of academic perspectives. Robert Kastenbaum is most well known for his work on societal systems that deal with this concept. Robert Langs has identified three types of anxieties associated with this concept, including predatory and predation types. In a 1973 book Ernest Becker argued that Americans organize their lives around denying the reality of this concept. In a book titled for this concept, Elizabeth Kubler-Ross presented a five stage theory of the emotions involved in this thing. Post-Freudian thought refers to a \"drive toward\" this thing as thanatos. For 10 points, name this life event whose occurrence may instill grief in loved ones.",
+      "powerMarkPosition": 413,
+      "answer": "death",
+      "acceptableAnswers": [
+        "death",
+        "dying and word forms",
+        "accept death drive",
+        "accept On Death and Dying",
+        "prompt on grief until mentioned by asking “what specific type of event is the grief over?”",
+        "prompt on loss",
+        "prompt on sickness",
+        "illness",
+        "The death"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382c06e578a78206cf2096a"
+    },
+    {
+      "id": "333c1cfa-5285-41d2-a6f2-3abb234a39c2",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "During this period, the enemies of an assassinated ruler placed a bagpipe and minstrel's mask on his body to paint him as a sorcerer. After this period ended, a child known as the \"little brigand\" was hunted down and executed, and his mother, known as \"the witch,\" was imprisoned. A butcher raised the Second Volunteer Army to retake the capital during this era at the urging of a religious leader named Hermogenes. This period, which began with the death of a feeble-minded ruler known as the \"bellringer,\" included the fighting of the Ingrian War against Sweden and a defeat to Poland-Lithuania at the Battle of Klushino. Pretenders to the throne called False Dmitrys arose during, for 10 points, what turbulent era in Russian history that ended with the accession of Michael Romanov?",
+      "powerMarkPosition": 280,
+      "answer": "Time of Troubles",
+      "acceptableAnswers": [
+        "Time of Troubles",
+        "Smutnoye Vremya",
+        "The Time of Troubles"
+      ],
+      "source": "qbreader",
+      "sourceId": "64307e9f1357bcd3ef98b620"
+    },
+    {
+      "id": "180d935c-0a4b-42f2-a8e3-da9e57749b36",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "One party that ran candidates in this election nominated George Julian for vice president after holding its convention in Pittsburgh. The winning candidate in this election was mockingly called \"the hero of many a well-fought bottle,\" while another candidate suffered political fallout from having published the \"Americus\" letter two years prior. One party in this election sought to win immigrant votes by befriending the visiting Lajos Kossuth. This election saw third-party candidate John Hale gather 150,000 votes on the Free Soil ticket. The losing candidate picked up only four states en route to a loss to an ex-Senator from New Hampshire. For 10 points, identify this American presidential election which saw the Whig Winfield Scott lose disastrously to Democrat Franklin Pierce.",
+      "powerMarkPosition": 491,
+      "answer": "1852",
+      "acceptableAnswers": [
+        "1852",
+        "The 1852"
+      ],
+      "source": "qbreader",
+      "sourceId": "64682fcffaa56bc597faa611"
+    },
+    {
+      "id": "a47187e6-75d9-4a3c-b6fc-eb2a0a0b65fd",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "Varāha is depicted lifting up Bhūdevi within his namesake \"Cave Temple\" in this state. This state is home to the Shore Temple, the last of its Seven Pagodas. A temple in this state contains 22 sacred tīrthas symbolizing Rāma's 22 arrows and is renowned for its \"infinite corridors.\" A festival in this state features a coronation ceremony for Pārvatī's \"fish-eyed\" incarnation who rules for the next four months. A religious panel painting style characterized by intricate gold foil originated in a city in this state whose namesake \"Quartet\" of brother musicians invented its classical dance. This state is the origin of gōpuram (\"GO-poo-rum\") entrance towers, the tallest of which is located a temple dedicated to a Thenkalai (\"TEN-kuh-lay\") form of Vishnu named Raṅganātha. Bronzes from this state depict a form of Shiva encircled by a flaming ring while dancing the tāṇḍavam. For 10 points, Bharatanatyam (\"buh-ruh-tuh-NOT-yum\") originated in what South Indian state known for its Chōḻa-era temples?",
+      "powerMarkPosition": 532,
+      "answer": "Tamiḻ Nāḍu",
+      "acceptableAnswers": [
+        "Tamiḻ Nāḍu",
+        "TN",
+        "The Tamiḻ Nāḍu"
+      ],
+      "source": "qbreader",
+      "sourceId": "64d586e5c6529db5d1419ea5"
+    },
+    {
+      "id": "f55c1e96-e3e0-4f6a-9db7-74cdbfb79133",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "A planned extension of this project to the Virgin Islands was designed to \"root like a cactus to a rocky peninsula.\" A 2018 exhibition at the Chicago Architecture Biennial documented an abandoned clone of this project intended for San Juan's Hato Rey neighborhood that conformed to Title 236 requirements. This building was constructed after Sandy Van Ginkel convinced his student to submit his master's thesis to a design contest, although it was reduced from a planned 1,000 units. The book For Everyone a Garden documents the architect's extension of this project to his native Israel. This building is made up of 354 stacked concrete boxes that form 158 apartments and was built for a \"Man and His World\"-themed event along the Saint Lawrence River. For 10 points, name this building created for the Montreal Expo of 1967 by Moshe Safdie.",
+      "powerMarkPosition": 476,
+      "answer": "Habitat",
+      "acceptableAnswers": [
+        "Habitat",
+        "The Habitat"
+      ],
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db46899"
+    },
+    {
+      "id": "161744ba-7ba2-487a-acc1-6df8de7f671f",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This instrument plays the opening melody in Grieg's \"Morning Mood,\" as well as a chromatic scale to introduce the main theme of Debussy's Prelude to the Afternoon of a Faun. This instrument, which represents the bird in Peter and the Wolf, is in used by Tamino to survive Sarastro's challenges, allowing him to marry Pamina. In that opera named for this instrument, the aria \"Der Holle Rache\" [DER HOLE-LAY RACH] is sung by the Queen of the Night. The piccolo is a smaller relative of, for 10 points, what high pitched wooden instrument, a \"magic\" one of which titles a Mozart opera?",
+      "powerMarkPosition": 338,
+      "answer": "Flute",
+      "acceptableAnswers": [
+        "Flute",
+        "The Flute"
+      ],
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7c35"
+    },
+    {
+      "id": "dcb23566-60cd-4614-b7f6-84617b325c38",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "One of this city's most famous attractions features Tritons leading hippocampi and the shell chariot of the central figure, Oceanus. Ostia was the ancient port of this city, which was built in part on the Palatine and Quirinal Hills. Attractions in this city include the Spanish Steps, the Trevi Fountain, and the Colosseum. For 10 points, name this city on the Tiber, the capital of Italy.",
+      "powerMarkPosition": 132,
+      "answer": "Rome",
+      "acceptableAnswers": [
+        "Rome",
+        "Roma",
+        "Italia",
+        "The Rome"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec67fc"
+    },
+    {
+      "id": "27a5bb63-bedc-4ad5-8b63-15ece81c38e3",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "Advertisements for \"Alice's Adventures in the New Wonderland\" were used to attract tourists to this park. \"The Perfect Crime\" explains how there is no legal jurisdiction within this park's \"Zone of Death.\" This park's Morning Glory Pool is home to bacteria that turn the water blue and yellow. In 1995, wolves were reintroduced to this park, the only place in the US where bison never went extinct. This National Park is located on the largest volcano in the US. For 10 points, name this park home to the geyser Old Faithful.",
+      "powerMarkPosition": 276,
+      "answer": "Yellowstone",
+      "acceptableAnswers": [
+        "Yellowstone",
+        "The Yellowstone"
+      ],
+      "source": "qbreader",
+      "sourceId": "63080c092e43e86a5be1a8f5"
+    },
+    {
+      "id": "fe97e538-f188-40fd-8405-07a0a1c25828",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "text": "As part of this practice, the Trinitarian formula is recited by the celebrant. It's not marriage, but vows associated with this practice, including to \"reject Satan and all his works,\" are frequently renewed. During one instance of this practice, the Holy Spirit descended in the form of a dove. A man nicknamed for performing this practice performed it on Jesus in the Jordan River. For 10 points, name this Roman Catholic Sacrament of Initiation in which spiritual rebirth is symbolized by lowering into and raising from water.",
+      "powerMarkPosition": 289,
+      "answer": "Baptism",
+      "acceptableAnswers": [
+        "Baptism",
+        "Baptism of Jesus Christ",
+        "accept John the Baptist",
+        "The Baptism"
+      ],
+      "source": "qbreader",
+      "sourceId": "63080c092e43e86a5be1a8d7"
+    },
+    {
+      "id": "4d434ca5-d54b-4cd5-a725-ba47ce40a529",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "The presidential election of this year featured the formation of The Texas Regulars, a political party designed to deny the incumbent President a majority of the Electoral College. Norman Thomas and Claude Watson were the candidates of the Socialist and Prohibition parties, while Robert Taft supported John Bricker for the Republican nomination, but Bricker later only served as the vice presidential candidate. For 10 points, identify this election in which Republican Thomas Dewey lost to incumbent Franklin Roosevelt, who was running for his fourth term.",
+      "powerMarkPosition": 180,
+      "answer": "1944",
+      "acceptableAnswers": [
+        "1944",
+        "The 1944"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0d32"
+    },
+    {
+      "id": "97d448a5-c224-40cd-8372-457c6ad75e13",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "middle_school",
+      "text": "This ruler legendarily dissolved the world's largest pearl in vinegar, then drank it to win a bet. A carpet was used to sneak this ruler into the headquarters of Julius Caesar. After losing the Battle of Actium, this ruler supposedly asked for and received a basket of figs, which hid an asp that she then used to commit suicide. For 10 points, name this Egyptian pharaoh, the lover of Julius Caesar and Marc Antony.",
+      "powerMarkPosition": 258,
+      "answer": "Cleopatra",
+      "acceptableAnswers": [
+        "Cleopatra",
+        "The Cleopatra"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f07ceb5295951080e2cd31"
+    },
+    {
+      "id": "cf6bc4f7-a95b-4b32-902a-2a506e62eb54",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "Edna St. Vincent Millay described the coastline of this state in \"Renascence\" and its northernmost point is Estcort Station, while its largest city lies on Casco Bay. The Kennebec River drains into a namesake gulf from this state's Moosehead Lake, and Baxter State Park is the site of its highest peak, Mt. Katahdin. Part of the border with its northern neighbor is formed by the Saint John River, which flows into the Bay of Fundy, and it largest cities include Bangor, Lewiston, and Portland. For 10 points, identify this U.S. state, the site of Acadia National Park and eastern neighbor of New Hampshire, with capital at Augusta.",
+      "powerMarkPosition": 306,
+      "answer": "Maine",
+      "acceptableAnswers": [
+        "Maine",
+        "The Maine"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0ee6"
+    },
+    {
+      "id": "66d9d12d-3954-461a-a30d-ab0f182a1d86",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "In one work, this thinker contrasted two different kinds of self-love: amour-propre, which depends on how others view you, and amour de soi which does not. In another work, this thinker described the importance of the first man to put a fence around his property and argued that cold temperatures caused northern languages to be sung. In addition to Discourse on Inequality, this thinker confessed in a work urinating in his neighbor's kitchen pot and stealing a ribbon before framing the servant Marion for the crime. In his most famous work, this thinker argued that governments are bound to rule by the general will. For ten points name this thinker who said \"man is born free, and everywhere he is in chains,\" the author of The Social Contract.",
+      "powerMarkPosition": 362,
+      "answer": "Rousseau",
+      "acceptableAnswers": [
+        "Rousseau",
+        "The Rousseau"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a88cc"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "42a70aac-a02e-4848-8013-7521662dcc61",
+      "linkedTossupId": "ace1ba7e-7ce2-41f0-befd-55f4bc8f08fb",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this eighteenth-century ukiyo-e artist, who popularized the nishiki-e technique later used by Hiroshige and Hokusai.",
+          "answer": "Harunobu",
+          "acceptableAnswers": [
+            "Harunobu",
+            "Suzuki",
+            "The Harunobu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "When creating a nishiki-e print, the artist made a separate woodblock for each of these things in the final print. Western comic book artists used Ben-Day dots to simulate more of these things from the four \"process\" ones available in cheap printing.",
+          "answer": "color",
+          "acceptableAnswers": [
+            "color",
+            "The color"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Harunobu specialized in bijin-ga pictures of beautiful women, which was also a specialty of this later eighteenth-century ukiyo-e artist. He created Three Beauties of the Present Day.",
+          "answer": "Utamaro",
+          "acceptableAnswers": [
+            "Utamaro",
+            "Kitagawa",
+            "The Utamaro"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man parodied the Eight Views of Xiaoxiang in his Eight Parlor Views. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df40b44c1b765cb43c3a51"
+    },
+    {
+      "id": "c779a9bd-e1b5-46d1-a452-8ba941b18e9b",
+      "linkedTossupId": "18dbe185-b3d8-4f37-a3f1-5e21a01a3fd8",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this work, whose narrator is \"midway in the journey of our life\" when he evades a leopard, a lion, and a she-wolf in a forest.",
+          "answer": "Inferno",
+          "acceptableAnswers": [
+            "Inferno",
+            "The Divine Comedy",
+            "The Inferno"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Inferno was written as part of the Divine Comedy by this Italian poet, who depicted himself going to Paradise to see his love Beatrice.",
+          "answer": "Dante",
+          "acceptableAnswers": [
+            "Dante",
+            "either name",
+            "The Dante"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These people are barked at by Cerberus in the third circle of hell. Dante meets one of these people, Ciacco, who is forced to lie flattened by the rain.",
+          "answer": "glutton",
+          "acceptableAnswers": [
+            "glutton",
+            "The glutton"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A gate in this work bears an inscription beginning \"I am the way into the city of woe, I am the way into eternal pain.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361f475f6f73d137db45f98"
+    },
+    {
+      "id": "37d19d46-e881-4576-82dc-25bc23caf3f5",
+      "linkedTossupId": "e9d9d920-7d68-4606-a6cd-95843265883e",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with limbic system.",
+          "answer": "cerebrum",
+          "acceptableAnswers": [
+            "cerebrum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cerebrum in the nervous system?",
+          "answer": "Limbic system",
+          "acceptableAnswers": [
+            "Limbic system"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to limbic system.",
+          "answer": "cerebellum",
+          "acceptableAnswers": [
+            "cerebellum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "5fab26e0-0f48-423d-96b2-13cfeefba03a",
+      "linkedTossupId": "20fb277a-28c7-427c-8e7d-388a85135368",
+      "category": "Literature",
+      "subcategory": "Other Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this British author of suspense and adventure fiction such as The Odessa File and The Dogs of War.",
+          "answer": "Forsyth",
+          "acceptableAnswers": [
+            "Forsyth",
+            "The Forsyth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Forsyth's first book drew from his time as an independent reporter covering this war. This war provides the backdrop for the novels Sozaboy and Half of a Yellow Sun.",
+          "answer": "Biafran",
+          "acceptableAnswers": [
+            "Biafran",
+            "the Nigerian Civil War",
+            "Forsyth’s book is The Biafran Story",
+            "the other novels are by Ken Saro-Wiwa and Chimamanda Adichie",
+            "respectively",
+            "The Biafran"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Somewhat oddly, Forsyth took a break from writing thrillers to produce The Phantom of Manhattan, a sequel to this French author's novel The Phantom of the Opera. This writer's character of Joseph Rouletabille first appeared in The Mystery of the Yellow Room.",
+          "answer": "Leroux",
+          "acceptableAnswers": [
+            "Leroux",
+            "The Leroux"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author's time as a journalist provided the inspiration for his novel The Day of the Jackal, in which the OAS unsuccessfully tries to assassinate Charles de Gaulle. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "644052b286e2a9ad33a4727f"
+    },
+    {
+      "id": "a39872af-22ee-41ae-a3fc-078c86bf3f72",
+      "linkedTossupId": "69e38dfd-d343-4917-9c88-257196fd44b0",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this man who based many of this theories on field work in .",
+          "answer": "Levi-Strauss",
+          "acceptableAnswers": [
+            "Levi-Strauss",
+            "The Levi-Strauss"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Levi-Strauss wrote this four-volume series consisting of The Raw and the Cooked, From Honey to Ashes, The Origin of Table Manners, and The Naked",
+          "answer": "Mythologiques",
+          "acceptableAnswers": [
+            "Mythologiques",
+            "Mythologies",
+            "The Mythologiques"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Levi-Strauss's structuralism drew on his early interest in this psychological school, founded by Wertheimer, Kaffka, and Kohler, which attempted to view perception as an indivisible whole.",
+          "answer": "Gestalt",
+          "acceptableAnswers": [
+            "Gestalt",
+            "The Gestalt"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This French structuralist wrote such works as The Elementary Structures of Kinship and The Savage Mind. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fc5c"
+    },
+    {
+      "id": "577fe8cc-1d26-48fe-8994-6b288e718787",
+      "linkedTossupId": "5fb56524-297b-448a-bf10-139041c40562",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This battle, at which the Hessians under Johann Rall were surprised on the day after Christmas, occurred after Washington crossed the Delaware.",
+          "answer": "Trenton",
+          "acceptableAnswers": [
+            "Trenton",
+            "The Trenton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After this New Jersey battle, Charles Lee was court-marshaled for ordering a retreat. During it, Washington attacked Henry Clinton's rear guard and Molly Pitcher heroically loaded a cannon.",
+          "answer": "Monmouth",
+          "acceptableAnswers": [
+            "Monmouth",
+            "The Monmouth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This American general commanded an outnumbered forward guard at Monmouth and later took Stony Point. After the Revolution, he defeated Little Turtle and Blue Jacket at the Battle of Fallen Timbers.",
+          "answer": "Wayne",
+          "acceptableAnswers": [
+            "Wayne",
+            "The Wayne"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some things about the Revolutionary War in New Jersey, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0bb5e"
+    },
+    {
+      "id": "029ce32e-493a-4780-9a0a-0e4ce80bba0b",
+      "linkedTossupId": "78dee1ad-9fcf-4bb8-a8e6-d77d95b9e245",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "His best works were plays like The Sullen Lovers, The Squire of Alsatia, and Epsom Wells.",
+          "answer": "Thomas Shadwell",
+          "acceptableAnswers": [
+            "Thomas Shadwell",
+            "The Thomas Shadwell"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Thomas Shadwell was a frequent target of the ire of this man who was replaced by Shadwell as poet laureate, especially in works like MacFlecknoe and Absolom and Achitophel.",
+          "answer": "John Dryden",
+          "acceptableAnswers": [
+            "John Dryden",
+            "The John Dryden"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the reasons for the feud between Shadwell and Dryden was their difference in opinion concerning the wittiness of this author of Every Man in His Humor and Volpone.",
+          "answer": "Ben Jonson",
+          "acceptableAnswers": [
+            "Ben Jonson",
+            "The Ben Jonson"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about an English writer.",
+      "source": "qbreader",
+      "sourceId": "63be318bb3c0552587596eee"
+    },
+    {
+      "id": "a1cc5b7b-806e-4068-8a7a-28a0b45b4ca1",
+      "linkedTossupId": "ad83bf36-f6ae-404e-ab23-376de168ef35",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this pyramidal model used in psychology. It typically has self-actualization at the top, though some newer models include \"transcendence.\"",
+          "answer": "hierarchy of needs",
+          "acceptableAnswers": [
+            "hierarchy of needs",
+            "The hierarchy of needs"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Abraham Maslow is considered the \"father\" of this branch of psychology, which is also known as the \"third force.\" Maslow co-created this branch of psychology with Carl Rogers, who developed client-centered therapy.",
+          "answer": "humanistic",
+          "acceptableAnswers": [
+            "humanistic",
+            "The humanistic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Humanistic psychology modifies this approach to psychology proposed by B.F. Skinner. Techniques arising from this approach include operant conditioning and a namesake cognitive therapy.",
+          "answer": "behavior",
+          "acceptableAnswers": [
+            "behavior",
+            "cognitive-behavior therapy",
+            "cognitive-behavioral therapy",
+            "The behavior"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This model has been criticized for only studying the healthiest 1% of college students. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68fda9d41fd794cc6b3e1a50"
+    },
+    {
+      "id": "2edb5d21-5e0b-4916-9bda-e00fbb3a7d8f",
+      "linkedTossupId": "333c1cfa-5285-41d2-a6f2-3abb234a39c2",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this country in which Globo TV's biased edit of a debate helped lead to Fernando Collor's victory in the 1989 presidential election, the first under its 1988 Constitution.",
+          "answer": "Brazil",
+          "acceptableAnswers": [
+            "Brazil",
+            "Republica Federativa do Brasil",
+            "The Brazil"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man finished second in the first-round election but lost to Collor in the runoff. He lost in the 1994 and 1998 presidential elections before finally winning, on his fourth attempt, in 2002.",
+          "answer": "Lula",
+          "acceptableAnswers": [
+            "Lula",
+            "The Lula"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lula was a founding member of this party, which still holds the Brazilian presidency under Dilma Rousseff.",
+          "answer": "Workers'",
+          "acceptableAnswers": [
+            "Workers'",
+            "Partido do Trabalhadores",
+            "PT",
+            "The Workers'"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The documentary Beyond Citizen Kane showcased the influence of Globo TV over this country's politics. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62df87c09bc4e61b2fb37773"
+    },
+    {
+      "id": "27bc3115-266e-4184-a172-2881e32dc1c0",
+      "linkedTossupId": "180d935c-0a4b-42f2-a8e3-da9e57749b36",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this decade-long conflict between Conservative and Liberal militias in Colombia, beginning in 1948.",
+          "answer": "La Violencia",
+          "acceptableAnswers": [
+            "La Violencia",
+            "The La Violencia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "La Violencia began with these massive riots, which were sparked by the assassination of Liberal presidential candidate Jorge Eliécer Gaitán.",
+          "answer": "Bogotazo",
+          "acceptableAnswers": [
+            "Bogotazo",
+            "descriptions of riots in Bogota with “what were they called?”",
+            "The Bogotazo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "As La Violencia ended, Liberal activist Manuel Marulanda founded this left-wing guerrilla group, whose conflict with the Colombian government officially ended in 2016.",
+          "answer": "FARC",
+          "acceptableAnswers": [
+            "FARC",
+            "Revolutionary Armed Forces of Colombia - People’s Army",
+            "Fuerzas Armadas Revolucionarias de Colombia – Ejército del Pueblo",
+            "The FARC"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Due to the level of disorder in the countryside during this conflict, major landowners were allowed to maintain private armies to fight guerrillas. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64740f170044bbd367c3f55b"
+    },
+    {
+      "id": "13ac225b-afbe-404a-8aef-50d0a5b62ca2",
+      "linkedTossupId": "a47187e6-75d9-4a3c-b6fc-eb2a0a0b65fd",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these two philosophers, one of whom examined the other in the book Speech and Phenomena and in a book titled for The Problem of Genesis in the other's philosophy.",
+          "answer": "Derrida",
+          "acceptableAnswers": [
+            "Derrida",
+            "Jackie Élie Derrida and Edmund Gustav Albrecht Husserl",
+            "The Derrida"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Derrida wrote a short study on Husserl's essay on the \"origin of\" this subject. In the central section of Plato's Meno, Socrates gives a lesson in this subject to a slave.",
+          "answer": "geometry",
+          "acceptableAnswers": [
+            "geometry",
+            "géométrie",
+            "Geometrie",
+            "accept L’origine de la géométrie de Husserl",
+            "accept “Der Ursprung der Geometrie als intentional-historisches Problem”",
+            "prompt on mathematics",
+            "The geometry"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Derrida built on his work on \"difference\" and \"delay\" in Husserl in an essay on this thinker \"and the scene of writing.\" This thinker developed the concepts of the id, ego, and superego.",
+          "answer": "Freud",
+          "acceptableAnswers": [
+            "Freud",
+            "Sigismund Schlomo Freud",
+            "accept “Freud and the Scene of Writing”",
+            "accept “Freud et l’écriture”",
+            "The Freud"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One of these thinkers argued that the other's attempt to apply an eidetic (\"eye-DET-ik\") method to passive genesis misses the fact that passive genesis must always be already there. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6778c5c22532f73329c95221"
+    },
+    {
+      "id": "797ca3e2-2783-4f1a-88c7-f9c16d935232",
+      "linkedTossupId": "f55c1e96-e3e0-4f6a-9db7-74cdbfb79133",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Identify this three-word phrase, which names a European art movement that rejected most of the extreme avant-garde trends from before World War I. Its members included Gino Severini.",
+          "answer": "return to order",
+          "acceptableAnswers": [
+            "return to order",
+            "Le rappel a ordre",
+            "The return to order"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lots of \"return to order\" artists came out of this Italian art movement, whose members probably weren't glorifying war nearly as much after actually seeing it take place. Filippo Marinetti wrote this movement's manifesto.",
+          "answer": "Futurism",
+          "acceptableAnswers": [
+            "Futurism",
+            "Futurists",
+            "accept Futurist Manifesto",
+            "The Futurism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"Return to order\" was promoted by an Italian art magazine named for \"values\" made of this material. This material also provides the most common alternate name for the Dutch art movement De Stijl.",
+          "answer": "plastic",
+          "acceptableAnswers": [
+            "plastic",
+            "Neoplasticism",
+            "The plastic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This term was coined in a 1926 essay by Jean Cocteau which calls for the revival of classicism in the arts. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af974229aa"
+    },
+    {
+      "id": "be612ec2-84cc-4b98-b085-836c36c34396",
+      "linkedTossupId": "161744ba-7ba2-487a-acc1-6df8de7f671f",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this composer of A German Requiem and Academic Festival Overture, the youngest of the \"Three Bs.\"",
+          "answer": "Brahms",
+          "acceptableAnswers": [
+            "Brahms",
+            "The Brahms"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Brahms composed a set of \"dances\" named for this country inspired by its csardas [\"CHAR-dash\"]. Franz Liszt, a composer from this country, composed a set of \"rhapsodies\" named for it.",
+          "answer": "Hungary",
+          "acceptableAnswers": [
+            "Hungary",
+            "Magyarország",
+            "accept Hungarian Dances",
+            "Hungarian Rhapsodies",
+            "The Hungary"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Brahms is perhaps most famous for a song of this type that begins \"Good evening, good night.\" Songs of this type are written to help children fall asleep.",
+          "answer": "lullaby",
+          "acceptableAnswers": [
+            "lullaby",
+            "Wiegenlied",
+            "The lullaby"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Due to its similarities to Beethoven, this composer's First Symphony was nicknamed Beethoven's Tenth. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66e1bbb7b3ec1cfe3cd4a711"
+    },
+    {
+      "id": "76010a1a-58a4-4e13-be85-f4b86168e38a",
+      "linkedTossupId": "dcb23566-60cd-4614-b7f6-84617b325c38",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this longest continental mountain range that spans such countries as Peru, Chile, and Argentina.",
+          "answer": "Andes",
+          "acceptableAnswers": [
+            "Andes",
+            "The Andes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Numerous iron and copper smelting factories were set up under Peter I at this mountain range that extends from the Kara Sea to the Kazakh Steppe. This mountain range straddles the border between Europe and Asia.",
+          "answer": "Ural",
+          "acceptableAnswers": [
+            "Ural",
+            "The Ural"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other mountain range that extends into Russia borders both the Caspian Sea and Black Sea. The word for the race pertaining to those of European origin is derived from this mountain range.",
+          "answer": "Caucasus",
+          "acceptableAnswers": [
+            "Caucasus",
+            "The Caucasus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Many of the volcanoes located in this mountain range were created by the subduction of the Antarctic and Nazca plates beneath the South American plate. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "676f723ff56e0dff73abee97"
+    },
+    {
+      "id": "31652a56-33f9-41fb-8a2a-c1ca5176733b",
+      "linkedTossupId": "27a5bb63-bedc-4ad5-8b63-15ece81c38e3",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this city whose Jokhang Temple is currently administered by the Gelug school. This city also names a dog breed known for its long fur, the apso.",
+          "answer": "Lhasa",
+          "acceptableAnswers": [
+            "Lhasa",
+            "The Lhasa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lhasa, the home of the Potala Palace, is the capital of this mountainous region claimed by China. A staple food from this region, tsampa, consists of flour typically mixed with yak butter tea.",
+          "answer": "Tibet",
+          "acceptableAnswers": [
+            "Tibet",
+            "The Tibet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Potala Palace in Lhasa is built in this grandiose architectural style, which is more commonly used for the monasteries and temples of Bhutan. Many buildings in the University of Texas at El Paso are built in this architectural style.",
+          "answer": "dzong",
+          "acceptableAnswers": [
+            "dzong",
+            "The dzong"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The White Palace of a complex located in this city used to be the home of a spiritual leader who currently resides in Dharamsala. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cfa54e"
+    },
+    {
+      "id": "80dd4e58-5197-4251-bb93-cb1996a47727",
+      "linkedTossupId": "fe97e538-f188-40fd-8405-07a0a1c25828",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Prayers for bountiful harvests usually include requests for large amounts of this substance.",
+          "answer": "rain",
+          "acceptableAnswers": [
+            "rain",
+            "The rain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Aztecs worshipped this god of rain with human sacrifice and offerings of gems and seashells.",
+          "answer": "Tlaloc",
+          "acceptableAnswers": [
+            "Tlaloc",
+            "The Tlaloc"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Norse god of rain is better known for his aspect as god of fertility, as well as being one of the two Vanir who live in Asgard.",
+          "answer": "Freyr",
+          "acceptableAnswers": [
+            "Freyr",
+            "Frey",
+            "The Freyr"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Sky gods often have authority over this natural phenomenon. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ead0be8c91030f69d5b6fc"
+    },
+    {
+      "id": "994a7646-92ed-4fb3-986e-88028b2a8525",
+      "linkedTossupId": "4d434ca5-d54b-4cd5-a725-ba47ce40a529",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "3/5 (three-fifths) of all 100 senators need to vote to invoke cloture to end these actions. The \"nuclear option\" was used to allow a simple majority to end these actions, which historically required senators to physically speak for hours at a time to delay a bill's passage.",
+          "answer": "filibuster",
+          "acceptableAnswers": [
+            "filibuster",
+            "The filibuster"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another important fraction is 2/3 (two-thirds), which is the fraction of votes needed in both the House and Senate to override one of these actions. Some states permit governors to exercise a \"line-item\" type of this action.",
+          "answer": "veto",
+          "acceptableAnswers": [
+            "veto",
+            "The veto"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "3/4 (three-fourths) of the 50 states, or 38, are needed to ratify one of these things. The first ten of these things were combined in the Bill of Rights.",
+          "answer": "amendment",
+          "acceptableAnswers": [
+            "amendment",
+            "The amendment"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about fractions in civics, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65666e00443a0a5dea0044fd"
+    },
+    {
+      "id": "64df3404-7448-4140-ab49-60be8b1de471",
+      "linkedTossupId": "97d448a5-c224-40cd-8372-457c6ad75e13",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Identify this occurrence, when a government does not spend more than it earns.",
+          "answer": "balanced budget",
+          "acceptableAnswers": [
+            "balanced budget",
+            "The balanced budget"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The idea of a federal balanced budget amendment has been proposed to limit this from increasing. It is the total amount of money the US government owes.",
+          "answer": "national debt",
+          "acceptableAnswers": [
+            "national debt",
+            "just \"debt\"",
+            "do not accept national \"deficit\"",
+            "The national debt"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "National debt can decrease in years when the federal government operates at one of these. Contrasted with a deficit, it means that the government is taking in more money in revenue than it is spending.",
+          "answer": "surplus",
+          "acceptableAnswers": [
+            "surplus",
+            "The surplus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Every US state other than Vermont requires one of these. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c493"
+    },
+    {
+      "id": "27ab559b-87e1-472d-beda-3dc3195480a4",
+      "linkedTossupId": "cf6bc4f7-a95b-4b32-902a-2a506e62eb54",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This river is the largest tributary by volume to the Mississippi River. Louisville, Kentucky located at the widest and deepest part of this river.",
+          "answer": "Ohio",
+          "acceptableAnswers": [
+            "Ohio",
+            "The Ohio"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This river flows from southwestern Colorado to the Gulf of Mexico. It forms part of the US-Mexican border.",
+          "answer": "Rio Grande",
+          "acceptableAnswers": [
+            "Rio Grande",
+            "The Rio Grande"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This is the longest river in North America. Cities such as Omaha, Bismarck, and Great Falls are located on this river.",
+          "answer": "Missouri",
+          "acceptableAnswers": [
+            "Missouri",
+            "The Missouri"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these American rivers, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c46f"
+    },
+    {
+      "id": "fffdae50-2700-4050-ab51-31556e6d035b",
+      "linkedTossupId": "66d9d12d-3954-461a-a30d-ab0f182a1d86",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this sect of Islam which believes that Ali and his family should succeed Muhammad as leader of the Muslim people.",
+          "answer": "Shi'a Islam",
+          "acceptableAnswers": [
+            "Shi'a Islam",
+            "The Shi'a Islam"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Shi'a Islam generally believes in this line of leaders, who, unlike the Sunni counterparts, are considered choose by gods and are infallible.",
+          "answer": "Imam",
+          "acceptableAnswers": [
+            "Imam",
+            "The Imam"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This branch of Shi'a Islam is named after the number of Imam's it believes in. Muhammad ibn al-Hassan, the last Imam according to this sect, went into the Great Occultation, where he will eventually return.",
+          "answer": "Twelver",
+          "acceptableAnswers": [
+            "Twelver",
+            "Imami Shia Islam",
+            "The Twelver"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "They split from Sunni's over an interpretation of the Hadith of the pond of Khumm. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6451e799d4402ec440c62688"
+    }
+  ]
+}

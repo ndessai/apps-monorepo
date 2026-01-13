@@ -1,0 +1,1146 @@
+{
+  "packetId": "packet-191",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "History",
+    "Geography",
+    "Literature",
+    "Fine Arts",
+    "Philosophy"
+  ],
+  "tossups": [
+    {
+      "id": "bc5d1c04-d921-407d-b153-1f4d3a49c4a9",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "Hemond and Hechner-Levy use a value called this \"capacity\" which, multiplied by this quantity, gives the concentration of a chemical in a medium. This quantity for a mixture depends linearly on its components by the Lewis-Randall rule. The activity of a species is equal to this quantity over a reference value. The differential of the log of this quantity over a reference value is equal to one over RT times the differential of Gibbs free energy.This quantity's log times Boltzmann's constant times temperature equals mu. For 10 points, name this expression of chemical potential, an adjusted pressure that describes a substance's tendency to leave a phase.",
+      "powerMarkPosition": 235,
+      "answer": "fugacity",
+      "acceptableAnswers": [
+        "fugacity",
+        "The fugacity"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bcab6bc6fadbe6166da37e"
+    },
+    {
+      "id": "43731c19-8762-43ba-94bd-f29b8c272757",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "The first ruler from this house was said to have been struck with leprosy after executing Archbishop Scrope. That ruler from this house was targeted in the Epiphany Rising plot and by the Welsh rebel Owen Glendower. Its final ruler married Margaret of Anjou and had his son die at the battle of Tewkesbury. That final ruler of this house faced an uprising led by Jack Cade and was imprisoned by his cousin, Edward IV. Another of its rulers contended with a rebellion by \"Hotspur\" Percy, while another defeated the French at the battle of Agincourt. This house took the throne when John of Gaunt's son, Henry Bolingbroke, deposed Richard II. For 10 points, name this royal house of Henry IV, Henry V, and Henry VI, which fought the Wars of the Roses with the House of York.",
+      "powerMarkPosition": 306,
+      "answer": "Lancaster",
+      "acceptableAnswers": [
+        "Lancaster",
+        "word forms",
+        "accept Bolingbroke until mentioned",
+        "prompt on House of Plantagenet",
+        "The Lancaster"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bcab6cc6fadbe6166da4cf"
+    },
+    {
+      "id": "0cb858d1-a947-42e0-b7ab-fac43b4e1d7b",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "One of this country's landmarks, a compound of enormous thatched-roof tombs at Kasubi, was recently burned down in a mysterious fire. A series of volcanoes are located in its far southeast at Mgahinga National park and it also contains an \"impenetrable forest\" at Bwindi, which is located in the foothills of the Rwenzori mountains, while the western slopes of Mt. Elgon make up much of its border around Mbale. Murchison Falls national park is known for its wildlife while excellent whitewater rafting is available at Jinja. This country's recent oil discoveries in Lake Albert have caused tension with the neighboring Democratic Republic of the Congo. For 10 points, identify this country whose main airport is located 40 kilometers south of its capital at Kampala.",
+      "powerMarkPosition": 364,
+      "answer": "Uganda",
+      "acceptableAnswers": [
+        "Uganda",
+        "Jamhuri ya Uganda",
+        "The Uganda"
+      ],
+      "source": "qbreader",
+      "sourceId": "6451604ef8a47edd20cf9d51"
+    },
+    {
+      "id": "5a756ee6-baaf-4b81-afe7-863ce03431eb",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "The removal of the Fort Edward dam in 1973 released contaminated sediment into this river. Once known as the Mauritius, this river possesses a \"Wind Gate\" formed by Storm King Mountain and Breakneck Ridge, and the Appalachian Trail crosses it on the Bear Mountain Bridge. Its official source is located on Mount Marcy at Lake Tear-of-the-Clouds while the Mohawk is a major tributary. This river widens at Tappan Zee where it is flanked by the Palisades. Crossed by the Holland Tunnel, for 10 points, identify this river that flows through Albany and New York City.",
+      "powerMarkPosition": 271,
+      "answer": "Hudson",
+      "acceptableAnswers": [
+        "Hudson",
+        "The Hudson"
+      ],
+      "source": "qbreader",
+      "sourceId": "62df83920c3a38102cd758d3"
+    },
+    {
+      "id": "7512732e-8f45-4ff9-9ccf-d4e455fd4d98",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "A parrot in this novel shrieks \"Allez Vous-en!\" [ah-LAY voo ZON] at passing cottage guests, and this novel's protagonist cries upon hearing Mademoiselle Reisz's [rize's] piano playing. The protagonist compares herself to the motherly Adele Ratignolle [rah-tih-nyoll] in her marriage to Léonce. She has an affair with Alcée Arobin [ah-roh-BAN] and falls in love with Robert Lebrun, which ultimately leads to her suicide in the Gulf of Mexico. For 10 points, identify this novel about Edna Pontellier [pon-tell-ee-ay], a work by Kate Chopin [shoh-PAN].",
+      "powerMarkPosition": 365,
+      "answer": "Awakening",
+      "acceptableAnswers": [
+        "Awakening",
+        "The Awakening"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806eba0924256318acd24"
+    },
+    {
+      "id": "af224ce4-e035-400c-8ce3-3c04c56740c9",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "With insufficient oxygen, this chemical process will be incomplete and carbon monoxide will be produced. Bomb calorimeters are used to measure the energy of this reaction, which comes in rapid, smoldering, and spontaneous types. Water and carbon dioxide are common products of this process, which happens internally in motor engines. For 10 points, name this exothermic reaction that consumes an oxidant and fuel and usually causes a flame.",
+      "powerMarkPosition": 193,
+      "answer": "combustion",
+      "acceptableAnswers": [
+        "combustion",
+        "The combustion"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac97c"
+    },
+    {
+      "id": "1d068166-d2b7-4893-a29a-362cb8e22044",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "college",
+      "text": "This quantity is assumed to be close to zero when deriving the Debye-Huckel (\"duh-BYE HUCK-ull\") equation. The reciprocal of this quantity appears on the x-axis of a Lineweaver-Burk plot. Because this quantity equals absorbance divided by the product of path length and extinction coefficient by Beer's law, this quantity is measured using spectrophotometry. Either partial pressure or this quantity is raised to the power of stoichiometric coefficients to define the equilibrium constant. This quantity for an analyte can be determined using titration. For 10 points, name this quantity which can be measured in molarity or molality, the amount of a solute dissolved in a solution.",
+      "powerMarkPosition": 358,
+      "answer": "concentration",
+      "acceptableAnswers": [
+        "concentration",
+        "molarity",
+        "molality before mention",
+        "prompt on c",
+        "The concentration"
+      ],
+      "source": "qbreader",
+      "sourceId": "652ebb6d8051389c667bcee2"
+    },
+    {
+      "id": "f64de322-19dc-4746-9d31-4f092de198f3",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "open",
+      "text": "In the 16th century, cartographer Gabriele Simeoni found the location of this battle, and it was later excavated by Colonel Eugene Stoffel, after which the village of Merdogne named itself after the battle. The commander of one side in this battle constructed a \"large\" and \"small\" camp connected by a double ditch or \"duplex\" before charging the enemy's outer wall. The loser of the battle was forced to leave winter quarters in Agedincum to defend his allies, the Aedui. That man sent his lieutenant Titus Labienus to attack the Parisii before engaging in this battle. This location of this battle was a town located on a high and steep hill and was the main oppidum of the most powerful tribe in the region, the Arverni. For 10 points, name this 52BC battle in Gaul, where Vercingetorix handed Julius Caesar his only defeat in the field, and which was followed by the Battle of Alesia.",
+      "powerMarkPosition": 439,
+      "answer": "Gergovia",
+      "acceptableAnswers": [
+        "Gergovia",
+        "The Gergovia"
+      ],
+      "source": "qbreader",
+      "sourceId": "639f76b696d8b354e96b59e6"
+    },
+    {
+      "id": "610d57c7-4d4c-4634-9900-ffe580db54df",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "One author from this country wrote about a man who brings his concubine into the family in The Waiting Years. Royall Tyler and Edward Seidensticker are scholars who have translated this country's literature into English. This country's literature is the subject of World Within Walls, a study by Donald Keene. A chapter named after the \"bridge of dreams\" ends another novel from here - that book features a protagonist who writes a poem comparing a beautiful woman's discarded clothing to a cicada's shell. Another author from here chronicled \"hateful things\" and \"pleasureful things\" in The Pillow Book. Lady Aoi is one of the wives of the protagonist of another novel set here, who is described as a \"shining prince.\" For 10 points, name this country whose classical literature includes The Tale of Genji.",
+      "powerMarkPosition": 448,
+      "answer": "Japan",
+      "acceptableAnswers": [
+        "Japan",
+        "The Japan"
+      ],
+      "source": "qbreader",
+      "sourceId": "63059e1643cf0201876235ad"
+    },
+    {
+      "id": "26203e94-fa17-450a-8b38-d11e387e20c7",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "In one painting by this artist, a reclining figure on a couch removes her slippers and wears only a gold bracelet and a black ribbon in an imitation of Titian's Venus of Urbino . In another painting by this artist, a customer is seen only by reflection in a mirror behind a tired-looking barmaid at the title Bar at the Folies-Bergeres . Two clothed men and one nude woman participate in the title event in another of his paintings that was rejected by the 1863 Salon. For 10 points name this French artist of Olympia and The Luncheon on the Grass .",
+      "powerMarkPosition": 308,
+      "answer": "Manet",
+      "acceptableAnswers": [
+        "Manet",
+        "The Manet"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b7d8"
+    },
+    {
+      "id": "15084e23-5bed-4885-a432-3c01b827662d",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "text": "In 2003, a team of Austrian scientists led by Fischer and Wieltschnig used one of these to study the impact of lysis-inducing viruses on sediment-layer dwelling bacteria, discovering that viruses play only a minor role in sedimentary carbon exchange. Robert Chant used acoustic Doppler profiling to study the formation of these bodies, and in 1994, Winemiller found that they decrease in both biodiversity and biomass over time. They result from the creation of a secondary flow of suspended mass following transition to vortex flow, and their formation is preceded by the formation of a sediment-depositing channel. For 10 points, name this type of lake that forms from a bend in a river.",
+      "powerMarkPosition": 318,
+      "answer": "oxbow",
+      "acceptableAnswers": [
+        "oxbow",
+        "The oxbow"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f82f5c626ea977c7a33b7"
+    },
+    {
+      "id": "fa7c9441-7e36-469f-b0ec-e7314bd6bc65",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "In the lead up to this event, Peleg Sprague forced the U.S. Government to reject a Dutch offer governing the affected area. What added further tension to this event was a census organized by John Harvey. That led Governor Robert Dunlap to issue a general order announcing they had been invaded by a foreign power. After the Battle of the Caribou, John Fairfield elevated to governor, who utilized the Penobscot County Sheriff to arrest New Brunswickers. Formerly ended by the Webster-Ashburton Treaty in 1842, FTP name this conflict that saw fighting between citizens from Maine and those from New Brunswick",
+      "powerMarkPosition": 285,
+      "answer": "Aroostook War",
+      "acceptableAnswers": [
+        "Aroostook War",
+        "The Aroostook War"
+      ],
+      "source": "qbreader",
+      "sourceId": "6531aa9ccde02a8be25ff272"
+    },
+    {
+      "id": "35580c21-4bad-45c6-a446-26db497414e7",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "text": "Amazonstone (\"AM-uh-zon-STONE\") and cleavelandite (\"Cleveland ite\") are members of this group of minerals. Samples of it which show a high opalescence (\"OH-puh-LESS-ence\") are traded as moonstone, and some with a yellow or orange tint are sold as sunstone. The plagioclase (\"PLAY-jee-oh-CLASE\") and alkali (\"AL-kuh-lye\") forms of this mineral are prevalent in granite. Made of aluminum, silicon, and either calcium, sodium, or potassium, for 10 points, name this mineral, number 6 on the Mohs scale of hardness.",
+      "powerMarkPosition": 256,
+      "answer": "feldspar",
+      "acceptableAnswers": [
+        "feldspar",
+        "The feldspar"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fbb3476f6deeba79ec65d2"
+    },
+    {
+      "id": "af542478-b2da-477f-a422-d1bad7389841",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "After telling its addressee \"he who sows to the flesh will reap flesh of corruption,\" this work urges its listeners to praise only the glory of the cross. This book cites the two covenants of Hagar: one associated with Sinai and one associated with Jerusalem in order to prove we are descendants \"not of the bondswoman but of the free.\" In another section, the author warns us against \"the works of the flesh\" by saying \"Walk in the Spirit\" before he enumerates qualities like \"love, joy, peace\" etc. as fruits of the Spirit. This work, which is addressed to residents of Ancyra, argues that mutilation of the flesh is not a way to increase's one love of God, for the priests of Cybele would reign supreme - that argument in this book is used to refute the idea that circumcision is necessary to acquire salvation. For 10 points, name this Pauline epistle that discusses the question of whether early Hebraic law applies to Christianity, which precedes Paul's letter to the Ephesians.",
+      "powerMarkPosition": 525,
+      "answer": "Galatians",
+      "acceptableAnswers": [
+        "Galatians",
+        "The Galatians"
+      ],
+      "source": "qbreader",
+      "sourceId": "646565b40e43b5aafda1c6e0"
+    },
+    {
+      "id": "41f5a220-d579-478e-b4f2-caf7c2693ac0",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "The title character of a short story by this author suggests, \"maybe it was good to smell your own stink,\" in a passage in which he slowly crushes an empty beer can. At the end of a story by this author, the narrator is reminded of his daughter's death from polio as he watches a glass of Scotch and milk shake \"like the very cup of trembling\" on top of a piano. After reading about his arrest in the newspaper, an unnamed math teacher takes in his heroin-addicted brother and watches him play jazz at a nightclub in a story that this author included in the collection Going to Meet the Man. A series of religious visions on a threshing-floor opens the final section of a novel by this author set on the 14th birthday of a preacher's son named John Grimes. For 10 points, name this author of \"Sonny's Blues\" and Go Tell It on the Mountain.",
+      "powerMarkPosition": 448,
+      "answer": "Baldwin",
+      "acceptableAnswers": [
+        "Baldwin",
+        "James Arthur Baldwin",
+        "The Baldwin"
+      ],
+      "source": "qbreader",
+      "sourceId": "65dfe1451274f833e5a3c80a"
+    },
+    {
+      "id": "90d3bad0-e1aa-43b4-a2e9-df4af101a149",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "text": "Alkoxy examples of these are produced by thermal decomposition of dialkyl peroxides. N-bromosuccinimide serves as a donor of these compounds, which are also intermediates in the degradation of nitrites to nitrosoalcohols in the Barton reaction. Gomberg's reagent was the first persistent one prepared, and was relatively unreactive due to steric hindrance from three phenyl groups. All the intermediates, but none of the products of the Birch reduction are this type of compound. Hyperfine interactions in these substances can be measured by means of ESR, in which they resonate when radiated with gigahertz-frequency photons. Photodissociation of CFCs yields substances of this type which are believed to be primarily responsible for the depletion of the ozone layer. For 10 points, name these typically-reactive substances which contain unpaired electrons.",
+      "powerMarkPosition": 452,
+      "answer": "radical",
+      "acceptableAnswers": [
+        "radical",
+        "The radical"
+      ],
+      "source": "qbreader",
+      "sourceId": "646912af2e8fbb82d5768d22"
+    },
+    {
+      "id": "375ddfb4-6248-4086-b792-8272edd41b2c",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "text": "This thinker claimed that God appoints angels to be \"our teachers and guides\" in one work, and this thinker died while writing an extended analysis of The Song of Songs. This thinker called reason God's greatest gift to man and called the Christian Golden Rule a secular natural law rather than a religious eternal law to explain why it was practiced in non-Christian societies. This thinker outlined arguments involving first cause and the unmoved mover as part of his five proofs for the existence of God. For 10 points, name this Italian-born medieval philosopher, best known for his Summa Theologica.",
+      "powerMarkPosition": 420,
+      "answer": "Aquinas",
+      "acceptableAnswers": [
+        "Aquinas",
+        "The Aquinas"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289cad60"
+    },
+    {
+      "id": "e70f09fc-365f-4b8b-ae4d-f68533e90180",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "text": "These people, chronicled by Priscus, were led after Rugila's death by Bleda and his brother in the Dual Kingship. The Gupta empire fell to a group sometimes called \"White\" ones of these. Defeated by Flavius Aetius and the Visigoth Theodoric I at Chalons, sometimes called the Catalaunian Plains, this group crossed the Volga in 370 CE into Europe. For 10 points, name this violent nomadic tribe led by Attila during the collapse of the Roman Empire.",
+      "powerMarkPosition": 186,
+      "answer": "Hun",
+      "acceptableAnswers": [
+        "Hun",
+        "The Hun"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43fcc"
+    },
+    {
+      "id": "e3b21188-0dbe-46dd-bcf3-332a0502e145",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "This country's capital contains the Palace of Peace and Reconciliation, which is a giant pyramid designed by the architectural firm of Norman Foster. A blue dome adorns the Ak Orda Presidential Palace of the leader of this country, whose highest point is Han-t'eng-ko-li Peak on its Mount Khan-Tengri. The Irtysh River passes through this country, which contains the cities of Aqtau and Atyrau and Lake Balkash. This country, which owns the northern half of the Aral Sea, is bounded to the west by the Caspian Sea and shares borders with Kyrgyzstan, Uzbekistan, Turkmenistan, and Russia. For 10 points, name this central Asian country with a capital at Astana.",
+      "powerMarkPosition": 301,
+      "answer": "Kazakhstan",
+      "acceptableAnswers": [
+        "Kazakhstan",
+        "The Kazakhstan"
+      ],
+      "source": "qbreader",
+      "sourceId": "62edb4fedff988263841bb2c"
+    },
+    {
+      "id": "2f8fd361-224c-4f97-a98d-1f1e6db0efef",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "The coefficient of restitution for an object is equal to this power of the ratio of the initial potential energy to the final potential energy. In Planck units, electric charge equals Planck charge times the fine-structure constant to this power, and the second of Mersenne's laws states that the fundamental frequency is proportional to this power of the stretching force. After falling for a height h near the surface of the Earth, an object that fell from rest will have velocity equal to this power of 2gh. At constant inductance, the potential energy stored in an inductor will be equal to this number times inductance times current squared; similarly, the potential energy in a spring equals this number times the spring constant times displacement squared. At small angles, the period of a pendulum is proportional to its length raised to this power. A displacement of 3 meters in 6 seconds gives, for 10 points, what average velocity?",
+      "powerMarkPosition": 505,
+      "answer": "one-half",
+      "acceptableAnswers": [
+        "one-half",
+        "The one-half"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a88fb"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "815cf634-cb09-49c5-98ba-8f6981133fd2",
+      "linkedTossupId": "bc5d1c04-d921-407d-b153-1f4d3a49c4a9",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Recent studies have shown that gallic and ellagic acid, both found in walnuts, might help maintain amyloid-beta in a soluble form and thus prevent the onset of this disease, a form of dementia as neurons and synapses in the cerebral cortex are lost.",
+          "answer": "Alzheimer",
+          "acceptableAnswers": [
+            "Alzheimer",
+            "The Alzheimer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Walnuts are very high in this type of unsaturated fatty acid, so named due to the location of its carbon-carbon double bond. Highly concentrated in the brain, they include alpha-linolenic and eicosapentaenoic acids.",
+          "answer": "omega-3",
+          "acceptableAnswers": [
+            "omega-3",
+            "The omega-3"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Walnuts are also a source of this non-essential amino acid, whose functions include increasing muscle mass and growth hormone production, increasing synthesis of nitric oxide, and possibly treating erectile dysfunction.",
+          "answer": "arginine",
+          "acceptableAnswers": [
+            "arginine",
+            "The arginine"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following concerning walnuts, For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d443a3"
+    },
+    {
+      "id": "feb9dcdf-d6a3-423f-b602-c6c6779651a8",
+      "linkedTossupId": "43731c19-8762-43ba-94bd-f29b8c272757",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Spartan dominance did not last long, as Sparta soon lost to this Boeotian city, under its ruler Epaminondas, at the Battle of Leuctra. Its army included the Sacred Band.",
+          "answer": "Thebes",
+          "acceptableAnswers": [
+            "Thebes",
+            "The Thebes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Before Leuctra, Spartan hegemony was challenged by this Isthmian city in a namesake war, when it, Thebes, and Argos rose against Sparta. The war ended with the Peace of Antaclidas, restoring mostly status quo ante bellum.",
+          "answer": "Corinth",
+          "acceptableAnswers": [
+            "Corinth",
+            "The Corinth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Sparta, like the rest of Greece, soon found itself crushed under the heel of this Macedonian king, who ended Greek resistance at Chaeronea and left his burgeoning empire to his son Alexander the Great.",
+          "answer": "Philip II",
+          "acceptableAnswers": [
+            "Philip II",
+            "The Philip II"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Following the Peloponnesian War, Sparta was briefly the chief Greek power. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a45607ac"
+    },
+    {
+      "id": "f2d05078-2d91-4938-ae69-ca00f7658e26",
+      "linkedTossupId": "0cb858d1-a947-42e0-b7ab-fac43b4e1d7b",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Terra Preta is found in this river's basin. This river receives tributaries such as the Araguaia and Xingu [Shin-goo], and it contains the world's largest rainforest.",
+          "answer": "Amazon",
+          "acceptableAnswers": [
+            "Amazon",
+            "Solimoes",
+            "The Amazon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Terra Preta do Indio, as its name implies, is black, which marks it as distinct from this soil order that surrounds it. This soil order is known for its high kaolinite content, which, along with other minerals, renders it red. It covers most tropical and subtropical regions.",
+          "answer": "Oxisols",
+          "acceptableAnswers": [
+            "Oxisols",
+            "The Oxisols"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Terra Preta do Indio derives most of its fertility from pre-Columbian peoples who integrated this, along with potsherds and feces, into soil. This substance is the darker colored of the two by-products of swidden agriculture.",
+          "answer": "charcoal",
+          "acceptableAnswers": [
+            "charcoal",
+            "The charcoal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer the following about Terra Preta do Indio, a weirdly productive type of soil. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "660a2cf838190d8ac17b447b"
+    },
+    {
+      "id": "44bc5612-0749-465c-9437-7f242ba6bfa3",
+      "linkedTossupId": "5a756ee6-baaf-4b81-afe7-863ce03431eb",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these people who inspired hoaxes like the Elbow Lake stone, the AVM Stone, and a heavy slab discovered in Kensington. Anne Stine Ingstad discovered a real site that they visited at L'anse aux Meadows (\"LAN see meadows\").",
+          "answer": "Viking",
+          "acceptableAnswers": [
+            "Viking",
+            "Vikingers",
+            "accept Norsemen",
+            "Northmen",
+            "prompt on Scandinavians",
+            "other groups of Scandinavians",
+            "The Viking"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A recent study reconstructed the face of a Viking shieldmaiden from Solør (\"SOO-lurr\"), Norway, who was buried with one of these animals that the Vikings introduced to Iceland. Heritage breeds of these animals include the Akhal-Teke and Clydesdale.",
+          "answer": "horse",
+          "acceptableAnswers": [
+            "horse",
+            "ponies",
+            "accept equines",
+            "Equus",
+            "prompt on perissodactyls",
+            "other nonspecific answers",
+            "The horse"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After raiding this city in 844, Vikings camped in marshes that now lie in Doñana National Park. Today, tents called casetas fill this city during the April Fair and nazarenos from cofrades march in KKK-like hoods during Holy Week.",
+          "answer": "Seville",
+          "acceptableAnswers": [
+            "Seville",
+            "Sevilla",
+            "The Seville"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "On America Unearthed, pseudo-historical geologist Scot Wolter alleged that a \"giant\" skeleton from Twin Valley was one of these people, and that these people left a ship near the Salton Sea. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6326bf0f692d593d1d7a8e53"
+    },
+    {
+      "id": "f7fce94d-9800-4c1f-b677-f8f06883cecc",
+      "linkedTossupId": "7512732e-8f45-4ff9-9ccf-d4e455fd4d98",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this American author who wrote about Seymour Glass and his family in the short story \"A Perfect Day for Bananafish\" and the novel Franny and Zooey. This man wrote about the family of Phoebe and Holden in another novel.",
+          "answer": "Salinger",
+          "acceptableAnswers": [
+            "Salinger",
+            "The Salinger"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Phoebe and Holden appear in this novel by J.D. Salinger, in which Holden leaves Pencey Prep school and takes Phoebe to ride the carousel at the Central Park Zoo.",
+          "answer": "Catcher in the Rye",
+          "acceptableAnswers": [
+            "Catcher in the Rye",
+            "The Catcher in the Rye"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Phoebe and Holden are members of this family, who appear in several of Salinger's short stories as well as in The Catcher in the Rye.",
+          "answer": "Caulfiel",
+          "acceptableAnswers": [
+            "Caulfiel",
+            "The Caulfiel"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author's short stories \"For Esm´e - With Love and Squalor\" and \"Uncle Wiggily in Connecticut\" are collected in his Nine Stories. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004fc2"
+    },
+    {
+      "id": "0a754801-a330-4f25-a35a-a0002591cb14",
+      "linkedTossupId": "af224ce4-e035-400c-8ce3-3c04c56740c9",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Given two sets, this operation gives a set which contains every element in either of the two sets. It is represented by a U-shaped symbol.",
+          "answer": "union",
+          "acceptableAnswers": [
+            "union",
+            "The union"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This term refers to a function between two sets that has a well-defined inverse. A function that is both injective and surjective has this property.",
+          "answer": "bijective",
+          "acceptableAnswers": [
+            "bijective",
+            "The bijective"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Two sets are disjoint if they have exactly this many elements in common. This is also the number of elements in the empty set.",
+          "answer": "zero",
+          "acceptableAnswers": [
+            "zero",
+            "0",
+            "The zero"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about set theory, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65666dfd443a0a5dea0043e5"
+    },
+    {
+      "id": "d7ec676d-63e0-489a-b94d-6a0c463d4e88",
+      "linkedTossupId": "1d068166-d2b7-4893-a29a-362cb8e22044",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these structures which contain maximal elements if they satisfy conditions given by Zorn's lemma. These structures contain a binary relation that is antisymmetric and transitive but not necessarily connected.",
+          "answer": "poset",
+          "acceptableAnswers": [
+            "poset",
+            "partially ordered set",
+            "The poset"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hasse diagrams visualize posets as directed acyclic examples of these structures that contain vertices connected by edges.",
+          "answer": "graph",
+          "acceptableAnswers": [
+            "graph",
+            "The graph"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A common example of a poset is the power set equipped with this relation, which establishes the empty set as the minimum element. This relation's symbol resembles a capital letter U opening to the right.",
+          "answer": "inclusion",
+          "acceptableAnswers": [
+            "inclusion",
+            "answers indicating subsets",
+            "accept descriptions indicating that one set is contained within the other",
+            "The inclusion"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Hasse (\"HAH-suh\") diagrams can be used to visualize these structures. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97423e04"
+    },
+    {
+      "id": "27da2940-3b69-4d53-8df3-3fb292ee74a4",
+      "linkedTossupId": "f64de322-19dc-4746-9d31-4f092de198f3",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this explorer who traveled is best known for his geographical work, Description of Africa.",
+          "answer": "Leo Africanus",
+          "acceptableAnswers": [
+            "Leo Africanus",
+            "The Leo Africanus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the places that Leo Africanus actually visited was this bustling trade center and site of Sankore University. This city in Mali actually exists.",
+          "answer": "Timbuktu",
+          "acceptableAnswers": [
+            "Timbuktu",
+            "The Timbuktu"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another explorer-geographer to visit Timbuktu was this Moroccan explorer who also went to Sri Lanka, the Maldives, China, the Golden Horde, and came back and recorded his journeys in his Rihla.",
+          "answer": "Ibn Battuta",
+          "acceptableAnswers": [
+            "Ibn Battuta",
+            "The Ibn Battuta"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He was an Arab diplomat held captive in Rome, where he enjoyed papal patronage. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "646912af2e8fbb82d5768c87"
+    },
+    {
+      "id": "9ec1af81-5890-4c92-a577-20113f11d8f5",
+      "linkedTossupId": "610d57c7-4d4c-4634-9900-ffe580db54df",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this sea captain, who ultimately asks to be buried in his submarine, the Nautilus.",
+          "answer": "Nemo",
+          "acceptableAnswers": [
+            "Nemo",
+            "The Nemo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Captain Nemo was created by this author, who included Nemo and his Nautilus again in Twenty Thousand Leagues Under the Sea.",
+          "answer": "Verne",
+          "acceptableAnswers": [
+            "Verne",
+            "The Verne"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Axel Lidenbrock and his uncle Otto commence the title escapade through an extinct volcano in in this Verne novel.",
+          "answer": "Journey to the Center of the Earth",
+          "acceptableAnswers": [
+            "Journey to the Center of the Earth",
+            "The Journey to the Center of the Earth"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "He aids Cyrus Harding and the other survivors of a balloon crash as they set up a colony named in The Mysterious Island, For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a45604fc"
+    },
+    {
+      "id": "9081e23e-2059-41c9-91f0-8f51375f2b2f",
+      "linkedTossupId": "26203e94-fa17-450a-8b38-d11e387e20c7",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this instrument, famously played by Andres Segovia and Francisco Tarrega. Joaquin Rodrigo's Concierto de Aranjuez is also for this instrument.",
+          "answer": "guitar",
+          "acceptableAnswers": [
+            "guitar",
+            "guitarra",
+            "The guitar"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Miles Davis adapted the Adagio from the Concierto de Aranjuez for his album titled for sketches from this country. The guitar is also used in flamenco music from this country's region of Andalusia.",
+          "answer": "Spain",
+          "acceptableAnswers": [
+            "Spain",
+            "Sketches of Spain",
+            "Kingdom of Spain",
+            "Reino de Espana",
+            "The Spain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The second track of Sketches of Spain is \"Will o' the Wisp,\" from a de Falla ballet titled for this word, The Magician. John Coltrane released an album called A this Supreme.",
+          "answer": "love",
+          "acceptableAnswers": [
+            "love",
+            "The love"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Elliott Carter's Changes was written for this instrument. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eeadce1032cda62a6773d3"
+    },
+    {
+      "id": "073a22d0-dd51-49b1-a829-9092244869d3",
+      "linkedTossupId": "15084e23-5bed-4885-a432-3c01b827662d",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this type of topography whose features include flutes, runnels, and grikes. It can be created by the dissolution of dolemite bedrock by water.",
+          "answer": "Karst",
+          "acceptableAnswers": [
+            "Karst",
+            "The Karst"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Common to most Karst topographies is the additional dissolution of this sedimentary rock made of calcium carbonate and composing stalactites and stalagmites.",
+          "answer": "limestone",
+          "acceptableAnswers": [
+            "limestone",
+            "The limestone"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These large flat limestone plains are common in karst topography. They are usually covered by terra rossa, and their name derives for the South Slavic word for field.",
+          "answer": "Polje",
+          "acceptableAnswers": [
+            "Polje",
+            "The Polje"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The \"pseudo\" type of this feature isn't created in the same way as the actual version, the former of which includes lava caves. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "676f82f6c626ea977c7a3422"
+    },
+    {
+      "id": "954fb47a-c835-4abc-99c3-47199e1e4c93",
+      "linkedTossupId": "fa7c9441-7e36-469f-b0ec-e7314bd6bc65",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this promoter of the Great Society who was re-elected in 1964, when he beat Barry Goldwater. In that election, the Democrats corrupted Goldwater's slogan, \"In Your Heart, You Know He's Right,\" in several ways.",
+          "answer": "Johnson",
+          "acceptableAnswers": [
+            "Johnson",
+            "The Johnson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 1964 act barred discrimination in employment, as well as in hotels and restaurants. Another act having the same name was passed in 1968; it dealt with discrimination in the sale and rental of housing.",
+          "answer": "Civil Rights",
+          "acceptableAnswers": [
+            "Civil Rights",
+            "The Civil Rights"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "As part of the War on Poverty, Johnson also signed legislation in 1964 which created this institution, not the Peace Corps, whose first director was R. Sargent Shriver. It was responsible for the Job Corps and VISTA.",
+          "answer": "O",
+          "acceptableAnswers": [
+            "O"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "13. This man's affair with Alice Glass ended because of her opposition to the Vietnam War. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "643b8c671bdcc57729e63255"
+    },
+    {
+      "id": "70eb603e-e15d-4411-8d1f-e71cd1d59932",
+      "linkedTossupId": "35580c21-4bad-45c6-a446-26db497414e7",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this quantity, measured in Ohms, that describes how much a circuit element will oppose the flow of current.",
+          "answer": "resistance",
+          "acceptableAnswers": [
+            "resistance",
+            "The resistance"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this circuit setup, the equivalent resistance is equal to the sum of the individual resistances, in contrast with the more complicated parallel circuit.",
+          "answer": "series",
+          "acceptableAnswers": [
+            "series",
+            "The series"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "When discharging, this type of circuit will exponentially lose charge and current. It contains only resistors and capacitors, and the time constant equals resistance times capacitance.",
+          "answer": "RC",
+          "acceptableAnswers": [
+            "RC"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The inverse of this quantity is electrical conductance, and a Wheatstone bridge can be used to find unknown values of this quantity. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806eaa0924256318acc41"
+    },
+    {
+      "id": "0bea6788-982a-4867-9131-21d293ef8c9a",
+      "linkedTossupId": "af542478-b2da-477f-a422-d1bad7389841",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Give this term for each of the 114 chapter-like subdivisions of the Qur'an.",
+          "answer": "surah",
+          "acceptableAnswers": [
+            "surah",
+            "surat",
+            "suwar",
+            "The surah"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Each surah, except the ninth, begins with this phrase, meaning \"in the name of God, the Most Gracious, the Most Merciful\". The ninth surah, At-Tawba, is thought to be lacking this phrase because it is an unintentional separation from the eighth.",
+          "answer": "basmala",
+          "acceptableAnswers": [
+            "basmala",
+            "bismillah",
+            "The basmala"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In similar fashion, many Theravada Buddhist documents dating as far back as the Pali canon begin with this verse. It translates to \"I pay homage to the Blessed One, the Worthy One, the Fully Enlightened One\".",
+          "answer": "namotassa",
+          "acceptableAnswers": [
+            "namotassa",
+            "namo",
+            "The namotassa"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "They are arranged roughly in order of decreasing length rather than thematically or chronologically. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "630020e3cab8fa6d1490bafa"
+    },
+    {
+      "id": "83705707-bc15-46f8-8950-f88ad38ed785",
+      "linkedTossupId": "41f5a220-d579-478e-b4f2-caf7c2693ac0",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this character who fails to stop his dwelling from being blown up with a lightning rod, fails to restore the flow of water in a leaky well, and fails to kill the protagonist by stealing his lariat during combat with a foe.",
+          "answer": "Merlin",
+          "acceptableAnswers": [
+            "Merlin",
+            "Brer Merlin",
+            "The Merlin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Merlin is a recurring antagonist in this American author's novel A Connecticut Yankee in King Arthur's Court.",
+          "answer": "Twain",
+          "acceptableAnswers": [
+            "Twain",
+            "Samuel Langhorne Clemens",
+            "The Twain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One year before Twain published A Connecticut Yankee in King Arthur's Court, Edward Bellamy published this time travel novel in which Julian West falls asleep and wakes up in a utopian Boston in the year 2000.",
+          "answer": "Looking Backward",
+          "acceptableAnswers": [
+            "Looking Backward",
+            "The Looking Backward"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a novel's postscript, this character dies by touching an electrified fence while disguised as a woman, after the Battle of the Sand Belt, which took place in a location named for him. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64d58b421eb3b13d92e576bd"
+    },
+    {
+      "id": "2ba5c0a9-a7d4-4890-ab23-0101cee87d14",
+      "linkedTossupId": "90d3bad0-e1aa-43b4-a2e9-df4af101a149",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this autoimmune disorder that leads to muscle weakness and paralysis. The most common cause of this syndrome is infection by the bacteria Campylobacter jejuni.",
+          "answer": "Guillain–Barré",
+          "acceptableAnswers": [
+            "Guillain–Barré",
+            "GBS",
+            "The Guillain–Barré"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Guillain-Barré syndrome causes the destruction of this fatty substance, which protects the axons of neurons in a namesake \"sheath.\"",
+          "answer": "myelin",
+          "acceptableAnswers": [
+            "myelin",
+            "myelin sheath",
+            "The myelin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Guillain-Barré syndrome may also result in hypo•natremia due to the overproduction of this hormone, which increases the expression of aquaporins in the distal convoluted tubule.",
+          "answer": "antidiuretic",
+          "acceptableAnswers": [
+            "antidiuretic",
+            "ADH",
+            "human vasopressin",
+            "arginine vasopressin",
+            "argipressin",
+            "The antidiuretic"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Anomalously high rates of this disorder were reported during the mass vaccination campaign instigated by the 1976 swine flu outbreak. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6797c22b6d78eee804a37746"
+    },
+    {
+      "id": "3cbc5291-198f-4ef2-8f56-c955649e855b",
+      "linkedTossupId": "375ddfb4-6248-4086-b792-8272edd41b2c",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name these beings that lack free will and were created from light.",
+          "answer": "angel",
+          "acceptableAnswers": [
+            "angel",
+            "malaikah",
+            "The angel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The angel Jibril, who in his true form had six hundred wings, destroyed this city along with six others. Lot and his family were permitted to leave this city before it was destroyed for practicing homosexuality.",
+          "answer": "Sodom",
+          "acceptableAnswers": [
+            "Sodom",
+            "The Sodom"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Per Surah 8:12, Allah sent thousands of angels to assist Muhammad's forces at this battle. Abu Jahl led the Quaraysh at this battle, which was the first major skirmish between Muhammad and the Meccans after the hijra.",
+          "answer": "Badr",
+          "acceptableAnswers": [
+            "Badr",
+            "The Badr"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "According to one hadith, these beings do not enter a house where a dog is present or where pictures are displayed. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7defa0"
+    },
+    {
+      "id": "c5d3591d-d2d0-4f2a-b329-71063cf7b4c8",
+      "linkedTossupId": "e70f09fc-365f-4b8b-ae4d-f68533e90180",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Give this term for an ancient Greek armored soldier.",
+          "answer": "hoplite",
+          "acceptableAnswers": [
+            "hoplite",
+            "The hoplite"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "For much of classical Greek history, this militaristic city-state's hoplites were considered the best army in the known world, thanks in part to the agoge system that took in boys at age 7.",
+          "answer": "Sparta",
+          "acceptableAnswers": [
+            "Sparta",
+            "The Sparta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Agiad king led 300 Spartan hoplites at the Battle of Thermopylae; their shields defended well against Persian archers, and they lived for three days against the massive army of Xerxes the Great.",
+          "answer": "Leonidas",
+          "acceptableAnswers": [
+            "Leonidas",
+            "The Leonidas"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These soldiers usually fought in phalanx formation, which created eight to ten rows of these soldiers; the front rows used large shields, and they fought with long spears. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e5a0924256318ac7e9"
+    },
+    {
+      "id": "c0a2dae1-71dc-4e56-a8c8-764e5d468df1",
+      "linkedTossupId": "e3b21188-0dbe-46dd-bcf3-332a0502e145",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this man who served as Prince of Wallachia [wo-LEY-kee-uh] in the fifteenth century, and was the inspiration for Bram Stoker's Dracula.",
+          "answer": "Vlad III",
+          "acceptableAnswers": [
+            "Vlad III",
+            "Vlad the Impaler",
+            "The Vlad III"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Radu the Handsome had an affair with this Ottoman sultan. He succeeded Murad II, and stormed Constantinople in 1453, thus completing the conquest of the Byzantine Empire.",
+          "answer": "Mehmed II",
+          "acceptableAnswers": [
+            "Mehmed II",
+            "Mehmet II",
+            "Muhammad II",
+            "Mehmet Fatih",
+            "Mehmet Conqueror",
+            "The Mehmed II"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Vlad the Impaler was imprisoned for twelve years by this Hungarian king. This second son of John Hunyadi organized the Black Army, and his emblem featured a raven with a ring in its beak.",
+          "answer": "Matthias",
+          "acceptableAnswers": [
+            "Matthias",
+            "Matthias I",
+            "Hunyadi Matyas",
+            "Corvin Matyas",
+            "The Matthias"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man led the Night Attack against the lover of his brother, Radu the Handsome. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee332"
+    },
+    {
+      "id": "61e4200b-f65a-4a39-a307-55a5e274b2de",
+      "linkedTossupId": "2f8fd361-224c-4f97-a98d-1f1e6db0efef",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The pressure caused by this phenomenon is modelled by the Morse equation which sets it equal to molarity times the ideal gas constant times temperature times the van't Hoff factor.",
+          "answer": "osmosis",
+          "acceptableAnswers": [
+            "osmosis",
+            "osmotic pressure",
+            "The osmosis"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Osmosis is this process of water over a semi-permeable membrane. In this process, particles move randomly from regions of high concentration to low concentration.",
+          "answer": "diffusion",
+          "acceptableAnswers": [
+            "diffusion",
+            "The diffusion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This law states that the rate of diffusion is inversely proportional to the square root of molar mass.",
+          "answer": "Graham’s",
+          "acceptableAnswers": [
+            "Graham’s",
+            "The Graham’s"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This process does not occur in isotonic solutions. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c6119349828"
+    }
+  ]
+}

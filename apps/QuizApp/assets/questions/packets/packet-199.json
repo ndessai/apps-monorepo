@@ -1,0 +1,1143 @@
+{
+  "packetId": "packet-199",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Philosophy",
+    "Science",
+    "Fine Arts",
+    "History",
+    "Literature",
+    "Geography",
+    "Mythology",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "0aea415c-a63d-42f2-b010-4c13037a493b",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "In 1619, he became embroiled in a controversy with a professor of mathematics at the Jesuit Collegio Romano over the nature of comets. From this came his work, The Assayer. His originality as a scientist lay in his method of inquiry, reducing problems to a simple set of terms. He then analyzed and resolved them on the basis of everyday experience and common-sense logic. He fought with the Roman Catholic Church and in 1633 the Inquisition convicted him of heresy. Name this man who discovered four moons of Jupiter, and has been called the father of modern observational astronomy.",
+      "powerMarkPosition": 256,
+      "answer": "Galileo",
+      "acceptableAnswers": [
+        "Galileo",
+        "The Galileo"
+      ],
+      "source": "qbreader",
+      "sourceId": "6531aa9ecde02a8be25ff37b"
+    },
+    {
+      "id": "546de0fc-7e1b-4021-a871-550281de72dd",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "Electrons in these materials can acquire an effective mass much larger than their actual mass. A member of the III-V [\"three-five\"] class of these materials is gallium arsenide. The physicist Walter Schottky discovered that a junction between a metal and one of these materials can be used as a rectifier, and they have a small but finite band gap of only a few eV. They can be classified as \"n-type\" or \"p-type\" based on the presence of electrons or holes, and introducing small impurities to them can be used to \"dope\" them. For 10 points, name these materials with an electrical conductivity between that of metals and insulators.",
+      "powerMarkPosition": 338,
+      "answer": "semiconductor",
+      "acceptableAnswers": [
+        "semiconductor",
+        "The semiconductor"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fc4b6"
+    },
+    {
+      "id": "ff7c1f4b-e6c7-44dd-8d71-d31cdbf2a867",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "A piano piece by this composer contains a central [read slowly] A G-sharp C-sharp motif that is notated using four staves: two for each hand. The more difficult of two candenzas composed for a concerto by this composer is usually reprinted as the ossia; the allegro ma non tanto first movement of that work begins with tremolo strings before the D minor theme is played in octaves by the piano. Beginning with 8 bell-like chords, Nikolai Dahl was the dedicatee of this composer's second piano concerto which was written following a four-year-long battle with depression. For 10 points, name this Russian composer of four piano concertos and Rhapsody on a Theme of Paganini.",
+      "powerMarkPosition": 411,
+      "answer": "Rachmaninoff",
+      "acceptableAnswers": [
+        "Rachmaninoff",
+        "The Rachmaninoff"
+      ],
+      "source": "qbreader",
+      "sourceId": "639f712311983f92aa71f708"
+    },
+    {
+      "id": "50eeb9e2-63db-49d1-b98e-b44f68ff388b",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "At the beginning of this country's fight for independence, Carlos Manuel de Céspedes freed his slaves, and they fought together in the Ten Years' War. Its Revolt of the Sergeants was reversed by the 26th of July Movement, which ended the rule of Fulgencio Batista. Che Guevara helped move this Caribbean country to Communism in 1959. For 10 points, name this nation that has been led by Raul and Fidel Castro.",
+      "powerMarkPosition": 314,
+      "answer": "Cuba",
+      "acceptableAnswers": [
+        "Cuba",
+        "The Cuba"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c3f9"
+    },
+    {
+      "id": "e36f480f-4aac-4fdb-9a3a-6b9886c984ec",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "In a short story by this author, Miriam meets Mrs. Miller at a movie theater and later decides to move in with her. Floyd Wells reports his former roommate in the Lansing Penitentiary to police investigator Alvin Dewey, in another of this man's novels. Joel Knox travels to Skully's Landing and later runs away with Idabel Tompkins in this author's Other Voices, Other Rooms. Dick Hickock and Perry Smith murder the Clutter family in Kansas in a nonfiction novel by this author. He wrote about Holly Golightly's experiences with wealthy men in Manhattan. For 10 points, give this author of In Cold Blood and Breakfast at Tiffany's.",
+      "powerMarkPosition": 348,
+      "answer": "Capote",
+      "acceptableAnswers": [
+        "Capote",
+        "The Capote"
+      ],
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c6119349937"
+    },
+    {
+      "id": "6e61a0b0-f269-4ce2-9076-0aef1100866d",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "text": "One book by this author features three characters based on Martin Luther, St. Peter and John Calvin; that is his A Tale of a Tub. This author also wrote a satirical essay suggesting that Irish people should eat their children. In one of his books, the title character encounters Houyhnhms [win-emz], Yahoos and Lilliputians. For 10 points, name this English-Irish author of A Modest Proposal and Gulliver's Travels.",
+      "powerMarkPosition": 226,
+      "answer": "Swift",
+      "acceptableAnswers": [
+        "Swift",
+        "The Swift"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb178450f2aac87106c687"
+    },
+    {
+      "id": "4d34a105-a615-406c-a172-54dd79a082b9",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "In this country, the X-Seed 4000 was a hypothetical skyscraper with 800 floors. The Gate Tower Building in this country has a highway through part of its floors. It's not the U.S, but a \"Rainbow Bridge\" crosses a bay in this country's capital. This country's namesake sea contains Sado Island and the Golden Horn Bay. This country's capital contains a building called the \"Skytree.\" The \"suicide forest\" is near a mountain in this country, which disputes the Kuril Islands with Russia. This country's bullet train network is called the \"Shinkansen,\" and its island of Honshu features Mount Fuji. For 10 points, name this country with cities such as Kyoto and Tokyo.",
+      "powerMarkPosition": 371,
+      "answer": "Japan",
+      "acceptableAnswers": [
+        "Japan",
+        "Nihon-koku",
+        "Nippon-koku",
+        "The Japan"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f30f3a499e50c9ee5d911f"
+    },
+    {
+      "id": "f0165994-81fe-4881-80be-6ed9262a592c",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "In this country, guerillas from the 19th of April Movement were often hired as assassins. Corporations, landowners, and criminal leaders in this country sponsored the MAS, an [emphasize] anti-kidnapping paramilitary group. A man from this non-Mexico country described his policy of killing opponents who didn't take bribes with the phrase \"silver or lead.\" Vigilantes called \"Los Pepes\" in this country opposed an organization whose leader was hunted by Hugo Martinez's Search Bloc; that group's main rival was based in this country's city of Cali. Its president Alvaro Uribe cracked down on a communist paramilitary organization that formed in the wake of \"La Violencia.\" For 10 points, identify this country home to the FARC movement and Pablo Escobar's Medellín [meh-deh-YEEN] cartel.",
+      "powerMarkPosition": 469,
+      "answer": "Colombia",
+      "acceptableAnswers": [
+        "Colombia",
+        "República de Colombia",
+        "The Colombia"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1531ffa61a9ba79f3578f"
+    },
+    {
+      "id": "268c8b3e-457e-49ae-8f0b-596363f0c85f",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "middle_school",
+      "text": "It is not an amalgam, but this substance is a catalyst in the Clemmensen reduction. The Leblanc process has been abandoned because it generates this compound as a byproduct. Industrially, this compound is used to pickle steel and synthesize PVC plastics, and with nitric acid, it forms aqua regia. Found in gastric juice, for 10 points, name this binary acid composed of a hydrogen atom and the second lightest halogen, also known as HCl.",
+      "powerMarkPosition": 263,
+      "answer": "Hydrochloric",
+      "acceptableAnswers": [
+        "Hydrochloric",
+        "The Hydrochloric"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f209a"
+    },
+    {
+      "id": "6785f67a-18ee-4a71-a2e2-82d2f04dff6b",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "text": "Geirhild won a brewing competition by praying to this deity, and this deity once demanded that the goddess Hyndla give the servant Ottar a memory potion. A giant offered to build an impenetrable wall around the residence of the gods in return for this deity's hand in marriage. When this goddess disappeared looking for her husband Odur, her brother sat on the throne Hlidskjalf (\"HLID-skialf\") to find her. Wearing the necklace Brisingamen, Thor once dressed as this deity in order to recover Mjolnir (\"MYOL-ner\") from Thrym. Half of those who die in combat come to Folkvangr, the hall of this deity, who owns a chariot of cats. For 10 points, name this Norse goddess of love and beauty.",
+      "powerMarkPosition": 331,
+      "answer": "Freyja",
+      "acceptableAnswers": [
+        "Freyja",
+        "Freya",
+        "do not accept Freyr",
+        "Frey",
+        "The Freyja"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144bfb"
+    },
+    {
+      "id": "27697867-88b6-4977-8ae5-98079f3ee371",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "college",
+      "text": "One novel by this author features a disillusioned revolutionary who makes tiny goldfish out of real gold in his workshop. Another novel by this author begins with a photographer's suicide by vaporising gold cyanide. That character, Jeremiah de Saint-Amour, is the friend of a man who dies falling from a ladder whilst trying to retrieve his parrot from a mango tree, Dr Juvenal Urbino. This author created the town of Macondo in a novel about the Buendía family. For 10 points, name this Colombian author of Love in the Time of Cholera and One Hundred Years of Solitude.",
+      "powerMarkPosition": 215,
+      "answer": "Garcia Marquez",
+      "acceptableAnswers": [
+        "Garcia Marquez",
+        "Marquez",
+        "The Garcia Marquez"
+      ],
+      "source": "qbreader",
+      "sourceId": "6413cd99fdc648a1ed7096a9"
+    },
+    {
+      "id": "bc32f623-7ce9-4cce-8136-e81082827807",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "text": "In a novel by this author, a couple play a game in which they fill in blank speech bubbles in each other's drawings called \"the bubble game.\" In another work by this author, arts and crafts are included in a \"Gallery\" by a mysterious figure named \"Madame.\" The protagonist of a novel by this author destroys a polluting \"Cootings Machine\" to cure Josie's illness. In a different novel by this author, two characters travel to Norfolk where Kathy finds a cassette tape by Judy Bridgewater. Characters in that novel by this author attend school at Hailsham and are divided into \"carers\" and \"donors.\" In a novel by this author, after receiving a letter from Miss Kenton at Darlington Hall, Mr. Faraday gives the butler Stevens permission to leave. For 10 points, name this Nobel-winning author of Never Let Me Go and The Remains of the Day.",
+      "powerMarkPosition": 363,
+      "answer": "Ishiguro",
+      "acceptableAnswers": [
+        "Ishiguro",
+        "The Ishiguro"
+      ],
+      "source": "qbreader",
+      "sourceId": "692330ecf1f28d19289b8038"
+    },
+    {
+      "id": "1bfe6d85-adeb-4dcc-beb5-8b1089752e5f",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "college",
+      "text": "In the Paschen-Back effect, this entity causes a disruption in the coupling between the orbital and spin angular momentum. If this entity is perpendicular to a current in an electrical conductor, it causes a potential difference in the Hall Effect. Its contour integral is related to the surface integral of total current density in an equation later modified to include displacement current. It causes splitting of spectral lines in the Zeeman effect. Given its generating current, this quantity can be calculated by the Biot-Savart law or Ampere's law. For 10 points, name this type of field caused by a moving electric charge that is measured in Tesla and symbolized B.",
+      "powerMarkPosition": 248,
+      "answer": "magnetic field",
+      "acceptableAnswers": [
+        "magnetic field",
+        "B before mentioned",
+        "The magnetic field"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f875f3a7dcfd134ec0bae1"
+    },
+    {
+      "id": "62bc9fb2-c34e-4b5a-85bc-3cf49a5ea5e6",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "text": "The Well of Urd is one of three wells under this object, which is tended by the Norns. This object is ironically called \"Odin's horse,\" and is home to Ratatoskr, a squirrel that carries messages between Nidhogg and an eagle who perches in the branches of this tree. For ten points, identify this enormous ash that stretches between the worlds of Norse mythology.",
+      "powerMarkPosition": 242,
+      "answer": "Yggdrasil",
+      "acceptableAnswers": [
+        "Yggdrasil",
+        "The Yggdrasil"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a42d2"
+    },
+    {
+      "id": "132d370f-8b4b-4068-abb3-3d607e82abff",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "text": "At the end of a play by this author, one character responds to the question \"What is your destiny\" with the phrase \"To be the thirteenth at table.\" One of his characters manifests \"hope flashing across his mind\" by asking \"The most wonderful thing of all--?\" This author wrote about a man afflicted with photography's \"life-lie\", and about a \"little skylark\" who forges a signature. A \"beautiful death\" is planned by another of his characters when she burns a manuscript. One of this man's protagonists slams the door on Torvald, who promptly yells \"Nora! Nora!\" For 10 points, name this Norwegian author of The Wild Duck, Hedda Gabler, and A Doll's House.",
+      "powerMarkPosition": 382,
+      "answer": "Ibsen",
+      "acceptableAnswers": [
+        "Ibsen",
+        "The Ibsen"
+      ],
+      "source": "qbreader",
+      "sourceId": "63059e1543cf020187623262"
+    },
+    {
+      "id": "e2d0e25f-4586-42cf-9475-eb432639d0ec",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "This artist molded wood, gesso and pigment into simple geometric shapes for his 1000 Names series. This artist used three large steel rings to stretch a red PVC membrane across the Tate Modern's Turbine Hall for a sculpture titled Marsyas. This artist collaborated with Cecil Balmond on a structure in which a red steel lattice loops around a tower from which the London Olympic Park can be observed. This creator of the ArcelorMittal Orbit also made a welded metal sculpture located in AT&T Plaza that viewers can walk under to see themselves reflected in its surface. For 10 points, name this British-Indian sculptor whose Cloud Gate in Chicago's Millennium Park is nicknamed \"the Bean.\"",
+      "powerMarkPosition": 363,
+      "answer": "Kapoor",
+      "acceptableAnswers": [
+        "Kapoor",
+        "The Kapoor"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d677"
+    },
+    {
+      "id": "b3c47666-f936-4b50-9b5a-5ef555df2d63",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "text": "Migrants from this archipelago founded the outlaw biker gang Satudarah. Militants from this archipelago hijacked trains in De Punt and Wijster and planned to ram a truck through the gates of Soestdijk (\"soost-DYKE\") Palace to kidnap the queen. In this archipelago, Christian \"Handsome Boys\" traded atrocities with the Laskar Jihad in a period of violence ended by the Malino II Accord. Demobbed World War II soldiers from this archipelago spent decades living in camps in cities like Lunetten after the Netherlands reneged on a promise to support an independent republic in the southern section of this archipelago. Suharto set up a prison camp on this archipelago's island of Buru. For 10 points, Ambon is the capital of what Indonesian archipelago once called the Spice Islands?",
+      "powerMarkPosition": 502,
+      "answer": "Maluku",
+      "acceptableAnswers": [
+        "Maluku",
+        "Moluccas",
+        "accept Republic of South Maluku",
+        "prompt on Spice Islands until “Spice” is read",
+        "anti-prompt on Banda Islands",
+        "prompt on Indonesia",
+        "Malay Archipelago",
+        "The Maluku"
+      ],
+      "source": "qbreader",
+      "sourceId": "691d18eddd1d63a6adb6359b"
+    },
+    {
+      "id": "99f19c00-f73e-4e5f-b8e6-aa1a67f00837",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "text": "This thinker published a number of studies on \"figural after-effects,\" first with his assistant Hans Wallach, and then in collaboration with his student Dorothy Dinnerstein on the subject of kinesthesis. He also did experiments with Richard Held using scalp electrodes on the occipital lobe of the brain. He's the subject of a book entitled A Whisper of Espionage by Ronald Ley, and he first introduced his notion of \"isomorphism\" in his philosophical work The Place of Value in a World of Facts. He's better known for creating a theory of learning based upon \"insight\" while working with a subject named Sultan, and for the idea of \"transposition\" by which stimuli are judged only in relation to one another. Much of this work was during his time at the Canary Island Anthropoid Station on Tenerife, leading to his book The Mentality of Apes. FTP, name this psychologist who, along with Kurt Koffka and Max Wertheimer, was a founder of Gestalt.",
+      "powerMarkPosition": 496,
+      "answer": "Kohler",
+      "acceptableAnswers": [
+        "Kohler",
+        "The Kohler"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f8300c626ea977c7a37bf"
+    },
+    {
+      "id": "99c525b8-550b-47fa-9e44-bf0cbdab6053",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "With Moritz Schularick, this historian coined the term \"Chimerica\" to refer to the economic symbiosis of the US and China. This historian attributed the success of Western civilizations to developing six \"killer apps\" of prosperity. This historian analyzed the role of the bond market in the rise of the Rothschild family in a two-part history he drew on for a history of finance and banking published in 2008. This author of Civilization and The Ascent of Money warned against Islamization and popularized a term introduced by Bat Ye'or in a 2004 New York Times article titled \"Eurabia?\" This husband of Somali women's rights activist Ayaan Hirsi Ali defended imperialism in his book Empire: How Britain Made the Modern World. For 10 points, name this conservative Harvard professor and British historian.",
+      "powerMarkPosition": 442,
+      "answer": "Ferguson",
+      "acceptableAnswers": [
+        "Ferguson",
+        "The Ferguson"
+      ],
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0d448"
+    },
+    {
+      "id": "bf946b5d-e869-4bff-b761-b3057efc5f64",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "text": "One of this author's poems notes that \"Orpheus' Sermon captivated / It did not condemn\" after calling the Bible \"an antique volume / written by faded men.\" In other poems, this author asserted \"after great pain, a formal feeling comes\" and that \"the Brain-is wider than the sky.\" This author \"surmised the Horses Heads / Were toward Eternity\" at the end of another poem, and compared hope to \"the thing with feathers / that perches in the soul.\" For 10 points, name this American poet of \"Because I could not stop for Death\" and \"I Heard a Fly Buzz When I Died.\"",
+      "powerMarkPosition": 176,
+      "answer": "Dickinson",
+      "acceptableAnswers": [
+        "Dickinson",
+        "The Dickinson"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9841539"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "c793cb29-578a-4c03-bc94-ae747e90e825",
+      "linkedTossupId": "0aea415c-a63d-42f2-b010-4c13037a493b",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this third book of the New Testament which also contains the stories of Jesus's circumcision and ascension. It is grouped with Matthew and Mark as a Synoptic Gospel.",
+          "answer": "Luke",
+          "acceptableAnswers": [
+            "Luke",
+            "The Luke"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Luke is also credited with writing this book which includes descriptions of the descent of the Holy Spirit on Pentecost and the conversion and missionary-work of Paul.",
+          "answer": "Acts",
+          "acceptableAnswers": [
+            "Acts",
+            "The Acts"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this Pauline epistle following Philemon, Christ is argued to be superior to the Jewish high priest due to the perfect and eternal nature of his single sacrifice to God.",
+          "answer": "Hebrews",
+          "acceptableAnswers": [
+            "Hebrews",
+            "The Hebrews"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This book contains the parables of \"the prodigal son\" and \"the good Samaritan\". For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "657fd7d3de6df0163bbe39c8"
+    },
+    {
+      "id": "d636fb9b-5115-4062-a34a-9c7ea469a75e",
+      "linkedTossupId": "546de0fc-7e1b-4021-a871-550281de72dd",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This is a mathematical matrix that has the same number of rows and columns. In geometry, this is a regular quadrilateral.",
+          "answer": "square",
+          "acceptableAnswers": [
+            "square",
+            "The square"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "If the positive integers 1 to \"n\" are placed in a square matrix such that each row, column, and diagonal has the same sum, the square is known by this name.",
+          "answer": "magic",
+          "acceptableAnswers": [
+            "magic",
+            "The magic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A square matrix that has ones on the main diagonal and zeroes everywhere else is known by this term since it preserves the other factor during multiplication.",
+          "answer": "identity",
+          "acceptableAnswers": [
+            "identity",
+            "The identity"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each-give these terms that describe matrices:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a483"
+    },
+    {
+      "id": "29448c52-d371-4e2a-8c42-9bc0974aad30",
+      "linkedTossupId": "ff7c1f4b-e6c7-44dd-8d71-d31cdbf2a867",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "This sculptor crafted the sarcophagi of Lorenzo and Giuliano de Medici. He also sculpted the statue of Moses for the tomb of Pope Julius II and the Pieta in St. Peter's Basilica in Rome.",
+          "answer": "Michelangelo",
+          "acceptableAnswers": [
+            "Michelangelo",
+            "either underlined name",
+            "The Michelangelo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Renaissance artist cast a bronze statue of St. John the Baptist for the Orsanmichele and crafted the Golden Doors of Paradise in the Baptistry, both in Florence. He was also famous for his rivalry with Brunelleschi.",
+          "answer": "Ghiberti",
+          "acceptableAnswers": [
+            "Ghiberti",
+            "Lorenzo di Bartolo",
+            "The Ghiberti"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Renaissance artist created the equestrian statue of Bartolomeo Colleoni in Venice. He crafted a statue St. Thomas for the Orsanmichele and taught Leonardo da Vinci, who painted an angel for this artist's Baptism of Christ.",
+          "answer": "Verrocchio",
+          "acceptableAnswers": [
+            "Verrocchio",
+            "Andrea di Michele di Francesco de’ Cioni",
+            "The Verrocchio"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, name these Renaissance sculptors.",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a15a"
+    },
+    {
+      "id": "70d8ecab-698a-4a52-8630-cb313ccaa6d2",
+      "linkedTossupId": "50eeb9e2-63db-49d1-b98e-b44f68ff388b",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name these items used to symbolize how emperors kept the Roman populace happy.",
+          "answer": "bread and circuses",
+          "acceptableAnswers": [
+            "bread and circuses",
+            "The bread and circuses"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This large Roman arena built by Vespasian and Titus was often used for gladiatorial games or mock sea battles, the \"circuses\" in Juvenal's quote.",
+          "answer": "Colosseum",
+          "acceptableAnswers": [
+            "Colosseum",
+            "The Colosseum"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A member of this family named Gaius passed a law providing subsidized grain to the poor in 123 B.C. His brother Tiberius had previously been murdered by a group of Senators.",
+          "answer": "Gracchus",
+          "acceptableAnswers": [
+            "Gracchus",
+            "The Gracchus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Juvenal claims that the people of Rome \"sold their vote\" for these two objects. For 10 points each--",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7d46"
+    },
+    {
+      "id": "24f8b987-e959-45cb-b461-9535c0dfd4f3",
+      "linkedTossupId": "e36f480f-4aac-4fdb-9a3a-6b9886c984ec",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this short story where Gabriel Conway struggles with his own insecurity, from making awkward jokes to inadvertently hurting Miss Ivors.",
+          "answer": "Dead",
+          "acceptableAnswers": [
+            "Dead",
+            "The Dead"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "\"The Dead,\" \"After the Race,\" and \"Ivy Day in the Committee Room\" are short stories found in this collection, whose title refers to the Irish people it portrays.",
+          "answer": "Dubliners",
+          "acceptableAnswers": [
+            "Dubliners",
+            "The Dubliners"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This author of Dubliners wrote Ulysses and created Stephen Dedalus in A Portrait of the Artist as a Young Man.",
+          "answer": "Joyce",
+          "acceptableAnswers": [
+            "Joyce",
+            "The Joyce"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The protagonist imagines his wife Gretta as a portrait called \"Distant Music.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b1e31"
+    },
+    {
+      "id": "0c34c9d9-bd34-41b0-b87e-425f9f11a411",
+      "linkedTossupId": "6e61a0b0-f269-4ce2-9076-0aef1100866d",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This novel is the first to feature both Sherlock Holmes and Dr. Watson. In this novel, Holmes investigates a murder scene with the German word \"RACHE\" written in blood on a wall.",
+          "answer": "Study in Scarlet",
+          "acceptableAnswers": [
+            "Study in Scarlet",
+            "The Study in Scarlet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Holmes reappears in this novel for the first time after dying in \"The Final Problem.\" In this novel, heirs to a family fortune succumb to death after encountering a demonic dog covered in phosphorescent [fahss-fuh-RESS-unt] paint.",
+          "answer": "Hound of the Baskervilles",
+          "acceptableAnswers": [
+            "Hound of the Baskervilles",
+            "The Hound of the Baskervilles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This British author of the Sherlock Holmes novels also wrote the science fiction novel The Lost World .",
+          "answer": "Doyle",
+          "acceptableAnswers": [
+            "Doyle",
+            "The Doyle"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For ten points each, answer some questions about novels in which the famous detective Sherlock Holmes appears:",
+      "source": "qbreader",
+      "sourceId": "676f723df56e0dff73abee02"
+    },
+    {
+      "id": "dbe15bc1-fc2a-4fc9-947b-8d2f810a4b2d",
+      "linkedTossupId": "4d34a105-a615-406c-a172-54dd79a082b9",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The Pampas, known for their cowboys called gauchos, are in Uruguay, Brazil, and this country. This country's capital of Buenos Aires lies in the Pampas on the Rio de la Plata, across from Montevideo.",
+          "answer": "Argentina",
+          "acceptableAnswers": [
+            "Argentina",
+            "The Argentina"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This diverse geographic region, consisting of grasslands, mountains, and deserts, also lies in Argentina and was mistakenly thought to have giants by early explorers. Shared with Chile, it takes up the southernmost triangle of South America.",
+          "answer": "Patagonia",
+          "acceptableAnswers": [
+            "Patagonia",
+            "The Patagonia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other grassland region surrounds the Orinoco River in Venezuela and Colombia. The cowboys of this region formed much of Simon Bolivar's army in the Venezuelan War of Independence.",
+          "answer": "Llanos",
+          "acceptableAnswers": [
+            "Llanos",
+            "The Llanos"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some stuff about South American grasslands, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f73cec2215f32393144a8c"
+    },
+    {
+      "id": "1b926f9d-a727-445a-ba0a-b9dffe97727a",
+      "linkedTossupId": "f0165994-81fe-4881-80be-6ed9262a592c",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "In this battle of the Second Coalition which took place in Piedmont, Louis Desaix was killed, though Napoleon still managed to defeat the Habsburg forces under Michael von Melas.",
+          "answer": "Marengo",
+          "acceptableAnswers": [
+            "Marengo",
+            "The Marengo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Seventh Coalition, led by Blucher and Wellington, sealed Napoleon's fate at this 1815 battle, which undoubtedly left Marshal Grouchy grouchy.",
+          "answer": "Waterloo",
+          "acceptableAnswers": [
+            "Waterloo",
+            "The Waterloo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Pyotr Bagration was killed at this battle in the French invasion of Russia, in which the French won a Pyrrhic victory against Kutuzov.",
+          "answer": "Borodino",
+          "acceptableAnswers": [
+            "Borodino",
+            "The Borodino"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some Napoleonic battles, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "630ae7fafb0cd6e790c317f6"
+    },
+    {
+      "id": "dd6abe79-5dfb-40aa-ad38-8d197d929162",
+      "linkedTossupId": "268c8b3e-457e-49ae-8f0b-596363f0c85f",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this statement that as a fluid's velocity increases its pressure decreases.",
+          "answer": "Bernoulli",
+          "acceptableAnswers": [
+            "Bernoulli",
+            "The Bernoulli"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the mathematical statement of Bernoulli's principle, pressure is divided by this quantity. Often symbolized rho, it equals mass divided by volume.",
+          "answer": "density",
+          "acceptableAnswers": [
+            "density",
+            "The density"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Fluids exert this force on objects, equal to the weight of the fluid displaced. If an object is less dense than the fluid, this force will equal the object's weight and cause it to float.",
+          "answer": "buoyant",
+          "acceptableAnswers": [
+            "buoyant",
+            "The buoyant"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A Swiss physicist proposed it in his 1728 work Hydrodynamica. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e7a0924256318ac92f"
+    },
+    {
+      "id": "bf6c0ffe-cc76-4a74-be49-fdc6e8ff9c20",
+      "linkedTossupId": "6785f67a-18ee-4a71-a2e2-82d2f04dff6b",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "As a child, this messenger god stole the cattle of Apollo, only to be caught and asked to return them. This god would later trade the lyre he invented to Apollo in exchange for a staff entwined by two serpents, the caduceus.",
+          "answer": "Hermes",
+          "acceptableAnswers": [
+            "Hermes",
+            "Mercury",
+            "The Hermes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The tenth of Heracles' twelve labors was to steal cattle belonging to this giant.",
+          "answer": "Geryon",
+          "acceptableAnswers": [
+            "Geryon",
+            "The Geryon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This famous thief once stole some cattle from Eurytus, who blamed it on Heracles, causing Heracles to kill Eurytus in anger. This grandfather of Jason was asked to name one of his other grandsons, Odysseus.",
+          "answer": "Autolycus",
+          "acceptableAnswers": [
+            "Autolycus",
+            "The Autolycus"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name some things about cattle thieves in Greco-Roman mythology, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b52521"
+    },
+    {
+      "id": "c84f9d17-62db-49d4-9155-600db9e682fa",
+      "linkedTossupId": "27697867-88b6-4977-8ae5-98079f3ee371",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "What character from a 1947 play eventually sides with her husband and has her sister Blanche committed to a psychiatric institution?",
+          "answer": "Stella",
+          "acceptableAnswers": [
+            "Stella",
+            "The Stella"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Stella appears in A Streetcar Named Desire, written by this author of Suddenly, Last Summer.",
+          "answer": "Williams",
+          "acceptableAnswers": [
+            "Williams",
+            "The Williams"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The character Sebastian in Suddenly, Last Summer, is killed in this grotesque fashion.",
+          "answer": "eaten",
+          "acceptableAnswers": [
+            "eaten",
+            "The eaten"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character's husband yells her name from outside their apartment after her sister calls him bestial and sub-human. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f3ed6a57b6d50239b51ffc"
+    },
+    {
+      "id": "a9591645-31f5-4198-8274-86ca3a0de9f8",
+      "linkedTossupId": "bc32f623-7ce9-4cce-8136-e81082827807",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this language used by Fernando Pessoa. One novel in this language features a girl with dark glasses, the Dog of Tears, and a man who fails to move when a traffic light turns green.",
+          "answer": "Portuguese",
+          "acceptableAnswers": [
+            "Portuguese",
+            "Português",
+            "língua portuguesa",
+            "The Portuguese"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "José Saramago (\"ZHOO-zay sah-rah-MAH-goo\") used Portuguese to write a novel titled for this condition, in which the doctor's wife is the only one not afflicted by a \"white sickness.\" That novel's sequel is conversely titled Seeing.",
+          "answer": "blind",
+          "acceptableAnswers": [
+            "blind",
+            "blindness",
+            "an inability to see",
+            "accept Ensaio sobre a Cegueira",
+            "Essay on Blindness",
+            "The blind"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this other Saramago novel, three men, two women, and a dog travel across the Iberian Peninsula after it breaks off from the rest of Europe.",
+          "answer": "Stone Raft",
+          "acceptableAnswers": [
+            "Stone Raft",
+            "A Jangada de Pedra",
+            "The Stone Raft"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "One author used this language to write a \"factless autobiography\" narrated by Bernardo Soares in The Book of Disquiet. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "68fc54d85b5d7bee38aa3f91"
+    },
+    {
+      "id": "fb754e67-63db-45b8-838b-4e5d73dfc35f",
+      "linkedTossupId": "1bfe6d85-adeb-4dcc-beb5-8b1089752e5f",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this blind search algorithm that requires backtracking, unlike a breadth-first search.",
+          "answer": "depth",
+          "acceptableAnswers": [
+            "depth",
+            "DFS",
+            "The depth"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other search algorithm begins in the middle of a sorted array and averages Big O of log n time. This divide and conquer algorithm shares its name with the base two number system.",
+          "answer": "binary",
+          "acceptableAnswers": [
+            "binary",
+            "The binary"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This type of algorithm is exemplified by Grover's algorithm, which uses amplitude amplification to search unsorted databases. This type of algorithm is also exemplified by Shor's algorithm, and runs on a computer whose basic unit of storage is the qubit [KYOO-bit].",
+          "answer": "quantum",
+          "acceptableAnswers": [
+            "quantum",
+            "The quantum"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In this search algorithm, child nodes are visited before sibling nodes. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636eee52"
+    },
+    {
+      "id": "64db939d-5072-49c4-9ef2-3178c9e0c7e7",
+      "linkedTossupId": "62bc9fb2-c34e-4b5a-85bc-3cf49a5ea5e6",
+      "category": "Mythology",
+      "subcategory": "Mythology",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Including Clio and Calliope, these Greek goddesses presided over the arts and sciences.",
+          "answer": "Muse",
+          "acceptableAnswers": [
+            "Muse",
+            "The Muse"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These nymphs tend a garden in the western world that contains the golden apples.",
+          "answer": "Hesperide",
+          "acceptableAnswers": [
+            "Hesperide",
+            "The Hesperide"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These freshwater nymphs inhabited rivers, lakes, brooks, springs, fountains, and marshes; some examples include Byzas, the founder of , and .",
+          "answer": "Naiad",
+          "acceptableAnswers": [
+            "Naiad",
+            "The Naiad"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, identify the following mythological groups.",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0e22"
+    },
+    {
+      "id": "ba786fec-a39b-4c3f-9ca2-eeab85dd97ca",
+      "linkedTossupId": "132d370f-8b4b-4068-abb3-3d607e82abff",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this collection of short stories. Mr. Kapasi saves Bobby Das from a group of monkeys in this collection's title story.",
+          "answer": "Interpreter of Maladies",
+          "acceptableAnswers": [
+            "Interpreter of Maladies",
+            "The Interpreter of Maladies"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Interpreter of Maladies is by this author. This author wrote about the Ganguli family in her novel, The Namesake.",
+          "answer": "Lahiri",
+          "acceptableAnswers": [
+            "Lahiri",
+            "Nilanjana Sudeshna Lahiri",
+            "The Lahiri"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Lahiri primarily wrote about Indian immigrants to this country. Most of the stories in The Interpreter of Maladies are set in this country's city of Boston.",
+          "answer": "United States",
+          "acceptableAnswers": [
+            "United States",
+            "America",
+            "U.S.",
+            "U.S.A.",
+            "The United States"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In one story from this collection, a boy describes the title word as \"loving somebody you don't know.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64a0ccb31634f2d5eb7decdd"
+    },
+    {
+      "id": "d8ac3c54-be6f-4955-b8d1-76829a5543b8",
+      "linkedTossupId": "e2d0e25f-4586-42cf-9475-eb432639d0ec",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this film, in which a character is gifted a magic emetic dumpling by a river spirit, and train tickets to see the witch Zeniba by the boiler-man Kamaji.",
+          "answer": "Spirited Away",
+          "acceptableAnswers": [
+            "Spirited Away",
+            "The Spirited Away"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Spirited Away is arguably the most popular film of this Japanese director and co-founder of Studio Ghibli. Regarded as a master of animation, he also directed studio Ghibli films such as My Neighbor Totoro and Princess Mononoke.",
+          "answer": "Miyazaki",
+          "acceptableAnswers": [
+            "Miyazaki",
+            "The Miyazaki"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "One of the more memorable characters in Spirited Away is this spirit that the protagonist, Chihiro, cleans when it comes into the bathhouse; it cannot speak, eats everything in sight, and follows Chihiro around, accompanying her on her journey.",
+          "answer": "No-face",
+          "acceptableAnswers": [
+            "No-face",
+            "Kaonashi",
+            "The No-face"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This film remains one of the most enduring animated classics to this day, and is perhaps Studio Ghibli's most popular film. For ten points:",
+      "source": "qbreader",
+      "sourceId": "65fa4917e210b3e07c6de743"
+    },
+    {
+      "id": "e26f1214-3cbe-492d-b959-502f3286a879",
+      "linkedTossupId": "b3c47666-f936-4b50-9b5a-5ef555df2d63",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This battle, which occurred shortly after Perry's victory at the Battle of Lake Erie, permanently re-established American control over the Detroit area. Tecumseh was killed during this battle, which shares its name with a river.",
+          "answer": "Thames",
+          "acceptableAnswers": [
+            "Thames",
+            "Battle of Moraviatown",
+            "The Thames"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The British easily routed a larger, entrenched American force in this Maryland battle, which opened up Washington to British torches.",
+          "answer": "Bladensburg",
+          "acceptableAnswers": [
+            "Bladensburg",
+            "The Bladensburg"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This exceptionally bloody battle, named for a road, saw the Americans expelled from Canada for good. Over 1700 of the 5900 men who fought in this battle were killed or wounded.",
+          "answer": "Lundy",
+          "acceptableAnswers": [
+            "Lundy",
+            "The Lundy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Identify the following battles from the War of 1812, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "676f8310c626ea977c7a3d24"
+    },
+    {
+      "id": "5c0b4ce9-bd69-4a76-bdec-9386d0b4734d",
+      "linkedTossupId": "99f19c00-f73e-4e5f-b8e6-aa1a67f00837",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this process by which a stressless nucleus segment neutralizes to a more central position, and often loses length and tenseness. This process yields the differing first syllables of the words Canada and Canadian.",
+          "answer": "reduction",
+          "acceptableAnswers": [
+            "reduction",
+            "The reduction"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This mid central vowel is the most common outcome of English vowel reduction. It is written with a lowercase \"e\" rotated 180 degrees, and is the first and last vowel in the word banana.",
+          "answer": "schwa",
+          "acceptableAnswers": [
+            "schwa",
+            "The schwa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Prosodic features such as stress are often treated as these objects that live in \"tiers\" separate from consonants and vowels. These features grew out of William Leben and John Goldsmith's dissertations in the 1970s.",
+          "answer": "autosegment",
+          "acceptableAnswers": [
+            "autosegment",
+            "word forms such as autosegmental",
+            "accept suprasegment",
+            "supersegment",
+            "word forms",
+            "The autosegment"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This phonological process can be analyzed in Optimality Theory using constraints that punish peaks in prominence that do not bear stress. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ede294c53e50a05136340f"
+    },
+    {
+      "id": "64ca184b-4b0b-40fe-8486-ca99d126997b",
+      "linkedTossupId": "99c525b8-550b-47fa-9e44-bf0cbdab6053",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Give this politician whose 1948 introduction of the Deutsche Mark triggered the Soviet blockade of Berlin. As part of the Wirtschaftswunder, this ordoliberal economist engineered a \"social market economy\" under Konrad Adenauer, whom he succeeded as Chancellor of West Germany.",
+          "answer": "Erhard",
+          "acceptableAnswers": [
+            "Erhard",
+            "Ludwig Wilhelm Erhard",
+            "The Erhard"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "To remedy West Germany's post-war labor shortage, Erhard initiated a federal program to recruit migrants referred to by this specific term. Many of these predominantly Turkish laborers ultimately settled in Germany, introducing doner kebab among other things.",
+          "answer": "Gastarbeiter",
+          "acceptableAnswers": [
+            "Gastarbeiter",
+            "guest workers",
+            "The Gastarbeiter"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Following his 1966 resignation, Erhard was succeeded as chancellor by this man. Nicknamed \"Chief Silver Tongue\" for his skillful oratory, this predecessor of Willy Brandt was publicly slapped across the face by Nazi-hunter Beate Klarsfeld due to his prior work under Joachim von Ribbentrop.",
+          "answer": "Kiesinger",
+          "acceptableAnswers": [
+            "Kiesinger",
+            "The Kiesinger"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In honor of this leader's visit to the US, Lyndon Johnson hosted America's first presidential barbecue in what was dubbed the Sparerib Summit. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "65b3fc700a12fc35bca90ce9"
+    },
+    {
+      "id": "2f737047-6d66-454c-9492-decdbc044f27",
+      "linkedTossupId": "bf946b5d-e869-4bff-b761-b3057efc5f64",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this novel in which 108 bandits gather on Mount Lian to challenge the Song government.",
+          "answer": "Water Margin",
+          "acceptableAnswers": [
+            "Water Margin",
+            "Shuihu Zhuan",
+            "Outlaws of the Marsh",
+            "All Men Are Brothers",
+            "Men of the Marshes",
+            "The Marshes of Mount Liang",
+            "The Water Margin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Water Margin like Luo Guanzhong's Romance of the Three Kingdoms is one of the Four Great Classical Novels of this nation.",
+          "answer": "China",
+          "acceptableAnswers": [
+            "China",
+            "The China"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Romance of the Three Kingdoms, this character swears the Oath of the Peach Garden with his brothers Guan Yu and Zhang Fei. He is the founder of the kingdom of Shu.",
+          "answer": "Liu Bei",
+          "acceptableAnswers": [
+            "Liu Bei",
+            "The Liu Bei"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "It is debated by scholars whether this novel was written by Luo Guanzhong or Shi Nai'an. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a0e1"
+    }
+  ]
+}

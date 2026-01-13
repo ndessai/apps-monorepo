@@ -1,0 +1,1134 @@
+{
+  "packetId": "packet-012",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Human Body",
+    "History",
+    "Literature",
+    "Science",
+    "Philosophy",
+    "Fine Arts",
+    "Geography",
+    "Social Science"
+  ],
+  "tossups": [
+    {
+      "id": "393395fd-3f3d-4b7a-8513-174f29ee5d1d",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "middle_school",
+      "text": "this structure is essential for platelets and clotting. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this erythrocyte-related structure.",
+      "powerMarkPosition": 75,
+      "answer": "Erythrocyte",
+      "acceptableAnswers": [
+        "erythrocyte",
+        "Erythrocyte"
+      ],
+      "explanation": "The erythrocyte is a key component of the Cardiovascular system, involved in platelets and clotting.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "d948ea31-b574-42ed-bb9f-4f7fbf5f7f12",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "The Esquilache (\"ESS-key-LA-chay\") Riots occurred when an advisor to a king of this house set limitations on the size of hats and capes men could wear, resulting the expulsion of all Jesuits from a certain country and the redistribution of church land. A castrato singer named Farinelli was a favorite at the court of a monarch from this house. Due to the chronic depression of a king from this house, the chief Minister Marquis de la Ensenada ruled in his stead. A popular uprising in 1808 ousted Manuel de Godoy, a prominent advisor to a ruler of this house. The kings Philip V and Charles III belonged to this royal house, which ruled Spain for the entirety of the 18th century. For 10 points, name this royal house that controlled Spain after the Hapsburg and France under Louis XVI.",
+      "powerMarkPosition": 485,
+      "answer": "Bourbon",
+      "acceptableAnswers": [
+        "Bourbon",
+        "The Bourbon"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382c06e578a78206cf209af"
+    },
+    {
+      "id": "a231015d-6ac3-4770-9dee-3cac7125b935",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "high_school",
+      "text": "In one section of this work, Pertolete burns herself after her husband is snatched away by a fox. One character in this work threatens to make a relic out of another character's genitalia. The latter character tells of three men who unwittingly kill one another over 8 bags of gold coins. Absolon brands one character's butt with a blacksmith's tool, but that character, Nicholas, outwits the carpenter John and sleeps with Alisoun. This work is narrated by Harry Bailey, who gives the General Prologue as the pilgrims start from Tabard Inn. The Wife of Bath's Tale in this work is about \"what women want\". For 10 points, name this work by Geoffrey Chaucer.",
+      "powerMarkPosition": 319,
+      "answer": "Canterbury Tales",
+      "acceptableAnswers": [
+        "Canterbury Tales",
+        "The Canterbury Tales"
+      ],
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c6119349908"
+    },
+    {
+      "id": "f70eb66d-56a1-41b8-8934-bd82686711ea",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for adrenal medulla hormones. It plays a key role in the endocrine system and is one of the most studied parts of human anatomy. For ten points, name this adrenal-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Adrenal",
+      "acceptableAnswers": [
+        "adrenal",
+        "Adrenal"
+      ],
+      "explanation": "The adrenal is a key component of the Endocrine system, involved in adrenal medulla hormones.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "9e645f6a-78d3-41cd-b4fa-5637c6bf5a95",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "The Canadian biotech company Nexia engineered trans·genic goats to secrete this material in their milk. In N. clavipes (\"EN CLAV-uh-pees\"), concentrated micelles (\"MY-sells\") of this material form a \"dope\" that elongates into a 3-10 (\"three ten\") helical liquid crystal in a tapering duct, then is emitted out a spigot. This block co-polymer of poly-alanine and alanine-glycine is used by Argyroneta (\"ar-GEAR-on-eta\") to make diving bells. The major ampullate type of this material has a Young's modulus that exceeds a giga·pascal. This material forms stronger fibers than fibroin (\"fye-BRO-in\") but is light enough to form draglines during ballooning. Orb weavers secrete this substance out their spinnerets. For 10 points, name this elastic material that brown recluses and black widows use to spin webs.",
+      "powerMarkPosition": 488,
+      "answer": "silk",
+      "acceptableAnswers": [
+        "silk",
+        "silk protein",
+        "accept spiderwebs",
+        "webbing until it is read",
+        "accept gossamer",
+        "accept spidroin",
+        "reject “fibroin”",
+        "“silk fibroin”",
+        "The silk"
+      ],
+      "source": "qbreader",
+      "sourceId": "666dc6c79f7c4cfdbd678701"
+    },
+    {
+      "id": "9181c83f-fcb4-4bef-a13f-18bf0b9efb4e",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "college",
+      "text": "In Montreal during the 1950s, global studies of a man of this name resurged at Canada's largest church, which is named for this man. Matthias was chosen over a man of this first name to replace Judas as one of the Apostles. In Britain, one figure of this name was mythologized as the first keeper of the Holy Grail. According to Matthew, a \"rich man\" of this name wrapped the body of Christ in a linen cloth, before laying it in his own tomb. In a dream, an angel told a man of this name to embark on the \"Flight into Egypt\" to save his newborn son from King Herod. For 10 points, give this name shared by a man from Arimathea, as well as by the husband of Mary, Jesus's legal father.",
+      "powerMarkPosition": 315,
+      "answer": "Joseph",
+      "acceptableAnswers": [
+        "Joseph",
+        "Saint Joseph",
+        "Joseph Barsabbas",
+        "Joseph of Arimathea",
+        "accept Yosef",
+        "accept Justus",
+        "prompt on Barsabbas with “what was his first name?”",
+        "The Joseph"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f924c30105d297286ff948"
+    },
+    {
+      "id": "40a425a1-d85b-420e-8909-cafbe17afd05",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "open",
+      "text": "Although in the key of C minor, this composer's eighth symphony begins with a sustained F in the violins and horns, followed by a chromatic motif in the low strings. The slow movement of this composer's seventh symphony was broadcast accompanying the news of Hitler's death. This composer also wrote two earlier symphonic works, which he discarded as being the works of a student, although the composer was in his late 30s at the time of writing. These are now referred to as zero and double zero. Dedicated to \"God the Beloved\", the ninth symphony written by, for 10 points, this Austrian composer, was left incomplete upon his death.",
+      "powerMarkPosition": 274,
+      "answer": "Bruckner",
+      "acceptableAnswers": [
+        "Bruckner",
+        "The Bruckner"
+      ],
+      "source": "qbreader",
+      "sourceId": "63bba672874e0ef7dd7b224b"
+    },
+    {
+      "id": "d3230c09-20ac-4ec0-a95f-a1f18d248a74",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "college",
+      "text": "John Singer Sargent depicted this artist \"painting near the edge of a wood.\" In one painting by this artist, executed from the window of the St. Thomas Hospital, he showed Parliament through the \"effect of fog.\" This artist painted scenes from his garden at Giverny. A reddish solar disc pokes out through Le Havre harbor fog in a painting by this man that lends its name to the movement he championed. For 10 points, name this painter whose Impression: Sunrise gave Impressionism its name, known for painting series of water lilies, Rouen Cathedral, and haystacks.",
+      "powerMarkPosition": 266,
+      "answer": "Monet",
+      "acceptableAnswers": [
+        "Monet",
+        "The Monet"
+      ],
+      "source": "qbreader",
+      "sourceId": "63ade128794bda10f6dedfc5"
+    },
+    {
+      "id": "7b535582-f11b-4eca-8451-10e99d12e0a1",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "Leydig cells may form benign tumors that emit this substance. Insects contain ecdysone which is similar to this chemical in humans. A deficiency of this hormone causes andropause. It reduces the risk for osteoporosis and is also used to treat prostate cancer, though can it be used as an anabolic steroid to increase muscle mass. Produced in the testes, for 10 points, name this hormone responsible for male sex characteristics.",
+      "powerMarkPosition": 203,
+      "answer": "testosterone",
+      "acceptableAnswers": [
+        "testosterone",
+        "The testosterone"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f2113"
+    },
+    {
+      "id": "6f050384-7349-417a-92eb-e9da070d232d",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "Reinhold Messner was the first person to climb this mountain without the aid of oxygen. The youngest person to climb this mountain was Jordan Romero, who climbed this mountain in 2010 at 13 years of age. George Mallory perished while attempting to climb this mountain, where the Khumbu icefall can be encountered on this mountain's South route. The first person to climb this mountain was Edmund Hillary, with the help of Sherpa Tenzing Norgay. For 10 points, name this mountain located on the border between Nepal and China, the tallest in the world.",
+      "powerMarkPosition": 278,
+      "answer": "Everest",
+      "acceptableAnswers": [
+        "Everest",
+        "The Everest"
+      ],
+      "source": "qbreader",
+      "sourceId": "652ebb748051389c667bd15e"
+    },
+    {
+      "id": "b28fa8aa-2def-4eb6-9dba-3de7f80615c6",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "text": "This nation's Diogo de Silves discovered the Azores. It split lands with Spain in the Treaty of Tordesillas (tor-day-SEE-yahs). This nation's Henry the Navigator promoted exploration, and its explorers were the first Europeans to round the Cape of Good Hope and sail to India. Those explorers were Bartolomeu Dias and Vasco da Gama. For 10 points, name this country that colonized Brazil.",
+      "powerMarkPosition": 276,
+      "answer": "Portugal",
+      "acceptableAnswers": [
+        "Portugal",
+        "The Portugal"
+      ],
+      "source": "qbreader",
+      "sourceId": "631674958fcb0abc6527b6af"
+    },
+    {
+      "id": "95b82de5-fda0-4b33-8e3a-c9891ead0d4e",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "text": "According to an impossible legend, after this thinker heard blacksmith hammers, he discovered the mathematical relationships behind musical tuning. A ten-dot triangle was sacred to the followers of this thinker, who supposedly drowned a man who discovered an irrational number. For 10 points, name this ancient Greek philosopher who names a theorem about the side lengths of right triangles, commonly written as a squared plus b squared equals c squared.",
+      "powerMarkPosition": 258,
+      "answer": "Pythagoras",
+      "acceptableAnswers": [
+        "Pythagoras",
+        "The Pythagoras"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004ff9"
+    },
+    {
+      "id": "0027af85-362c-4209-8d64-8da0d219d616",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "With Thomas Jeckyll, this artist created a gold-leafed mural of two fighting birds in the Peacock Room, which now holds this man's Princess from the Land of Porcelain. This artist's Nocturne in Black and Gold shows the sparks of falling fireworks over hazy water, and his Arrangement in Grey and Black No. 1 depicts a woman in a white cap and black dress sitting with her side to the viewer. For 10 points, name this American artist best known for a painting of his mother.",
+      "powerMarkPosition": 271,
+      "answer": "Whistler",
+      "acceptableAnswers": [
+        "Whistler",
+        "The Whistler"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f3101eabc146a6b81891f2"
+    },
+    {
+      "id": "63b8acf6-a42e-4263-ad59-cbe1da1c9938",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "open",
+      "text": "This leader had members of TsUNKhu (t'SUN-koo) arrested after a census revealed a population decrease. New York Times reporter Walter Duranty openly disputed Gareth Jones's account of a disaster under this leader's regime exacerbated by the Law of Spikelets (spike-lets). A German-arranged commission investigating a separate mass execution under this leader's regime discovered the remnants of the Vinnytsia (vin-ITZ-uh) massacre also perpetrated by this man's regime. During this man's time in office, the Shakhty Trial and other accusations of \"wrecking\" constituted part of the Great Purge. The Holodomor (hah-luh-doh-MOR) occurred under this leader, who initially closed churches to advance state atheism under his Second Five-Year Plan prior to reversing course during the Great Patriotic War. For 10 points, name this dictator of the Soviet Union throughout the 1930s and World War II.",
+      "powerMarkPosition": 469,
+      "answer": "Stalin",
+      "acceptableAnswers": [
+        "Stalin",
+        "The Stalin"
+      ],
+      "source": "qbreader",
+      "sourceId": "6334baae3df8739d684ba873"
+    },
+    {
+      "id": "29df5121-1e73-4c2a-9ebf-47dd57f2e6d0",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for ascending and descending tracts. It plays a key role in the nervous system and is one of the most studied parts of human anatomy. For ten points, name this spinal cord-related structure.",
+      "powerMarkPosition": 82,
+      "answer": "Spinal cord",
+      "acceptableAnswers": [
+        "spinal cord",
+        "Spinal cord"
+      ],
+      "explanation": "The spinal cord is a key component of the Nervous system, involved in ascending and descending tracts.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "7acb50b4-12fc-4256-86ad-3392e30e478b",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "text": "The supply in these markets, denoted \"h-sub-t,\" varies according to the intertemporal substitution hypothesis. Equilibrium prices in these markets may be shifted by a \"compensating differential\" depending on the preferences of participants. Mortenson and Pissarides won the 2010 Nobel in Economics for modeling transactions in these markets using search and matching theory. Under perfect competition, the MRPL is equal to the equilibrium price in these markets. Monopsony power is exemplified by markets for this factor with only one buyer, as in mining towns. This factor and a factor symbolized K are the usual inputs in a production function. For 10 points, name this factor of production supplied by workers.",
+      "powerMarkPosition": 405,
+      "answer": "labor",
+      "acceptableAnswers": [
+        "labor",
+        "job markets",
+        "prompt on factor markets",
+        "prompt on markets for workers until read",
+        "The labor"
+      ],
+      "source": "qbreader",
+      "sourceId": "666dc6c69f7c4cfdbd678631"
+    },
+    {
+      "id": "2f031062-3897-45a4-bec6-5a20aaf0b564",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "text": "Okun's law states that a one percent increase in this quantity will drop GDP by two percent. This quantity is inversely related to inflation by the Phillips curve. The frictional form of this quantity counts people who are between jobs or people who have just entered the work force. The seasonal form form is a special case of the structural form of this quantity which can rise due to cultural shifts such as automation. For 10 points, this is what quantity describing the percentage of people who are out of work.",
+      "powerMarkPosition": 283,
+      "answer": "unemployment",
+      "acceptableAnswers": [
+        "unemployment",
+        "The unemployment"
+      ],
+      "source": "qbreader",
+      "sourceId": "6446f1bb88d882e271ced894"
+    },
+    {
+      "id": "93e91055-7fa4-4464-82b3-78a3c06577f1",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "high_school",
+      "text": "This thinker's notion of the \"ethical life\" was defined as freedom through civil society, family, and the state. This philosopher envisioned a person searching for \"rediscovery of himself by himself\" in a passage titled for \"independence and dependence of self-consciousness.\" This idealist developed the concept of \"synthesis\" through a \"thesis\" and \"antithesis,\" which was used to analyze a \"struggle to the death\" between the master and slave in a namesake dialectic. For 10 points, name this German philosopher of The Phenomenology of Spirit.",
+      "powerMarkPosition": 315,
+      "answer": "Hegel",
+      "acceptableAnswers": [
+        "Hegel",
+        "The Hegel"
+      ],
+      "source": "qbreader",
+      "sourceId": "6605c17d7891dce02ea7d00f"
+    },
+    {
+      "id": "1448d607-1a85-4c01-8699-0a3d781a42d8",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "This movement's \"forgotten\" painter, Alfred Sisley, created primarily landscapes.One painter from this movement frequently painted haystacks and fields of poppies. Another artist from this movement painted The Belleli Family and numerous ballerinas but hated the name of this movement. Its name derived from Louis Leroy's review of a painting of a sunrise created by the most prominent practitioner of this style, who was known for his en plein air pictures of bridges and water lilies. For ten points, name this mid-19th century art movement that included Edgar Degas and Claude Monet.",
+      "powerMarkPosition": 237,
+      "answer": "impressionism",
+      "acceptableAnswers": [
+        "impressionism",
+        "The impressionism"
+      ],
+      "source": "qbreader",
+      "sourceId": "647044212576885f91e62268"
+    },
+    {
+      "id": "0c914b0f-d24b-46b7-a1de-ace28c13f395",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "Photo·thermal temperature fluctuations can be measured by combining infra·red spectroscopy with this technique. Post-processing after this technique can remove artifacts caused by scanner bow and creep. Rastering in a form of this technique that uses a Kelvin probe can measure the work function. Capillary, van der Waals, and Coulomb (\"KOO-lom\") interactions are combined into a namesake response curve in this technique that illustrates \"snap-in.\" Soft samples can be imaged using the \"tapping\" or \"non-contact\" modes of this technique. This technique's similar precursor was Binnig and Rohrer's scanning tunneling microscopy. For 10 points, name this technique which uses the deflection of a sharply-tipped canti·lever to measure surface topography below nanometer resolution.",
+      "powerMarkPosition": 486,
+      "answer": "atomic force microscopy",
+      "acceptableAnswers": [
+        "atomic force microscopy",
+        "AFM",
+        "accept atomic force microscope",
+        "accept scanning force microscopy",
+        "SFM",
+        "accept Kelvin probe force microscopy",
+        "KPFM",
+        "scanning Kelvin probe microscopy",
+        "SKPM",
+        "prompt on scanning probe microscopy",
+        "SPM",
+        "prompt on force microscopy",
+        "microscope",
+        "The atomic force microscopy"
+      ],
+      "source": "qbreader",
+      "sourceId": "6504a58356efcb4952c4e9ad"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "89f1ae8d-1eb3-4959-b035-80c7935015d0",
+      "linkedTossupId": "393395fd-3f3d-4b7a-8513-174f29ee5d1d",
+      "category": "Human Body",
+      "subcategory": "Digestive",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with esophagus and swallowing.",
+          "answer": "esophagus",
+          "acceptableAnswers": [
+            "esophagus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the esophagus in the digestive system?",
+          "answer": "Esophagus and swallowing",
+          "acceptableAnswers": [
+            "Esophagus and swallowing"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the digestive system related to esophagus and swallowing.",
+          "answer": "peristalsis",
+          "acceptableAnswers": [
+            "peristalsis"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human digestive system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "d9a6a662-e670-40d8-ab8b-005d28f83ece",
+      "linkedTossupId": "d948ea31-b574-42ed-bb9f-4f7fbf5f7f12",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "What was this 1598 proclamation which granted the right of French Huguenots to practice their religion openly, among other rights?",
+          "answer": "Nantes",
+          "acceptableAnswers": [
+            "Nantes",
+            "The Nantes"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Edict of Nantes was put forward by this first Bourbon monarch.",
+          "answer": "Henry IV",
+          "acceptableAnswers": [
+            "Henry IV",
+            "The Henry IV"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Henry's grandson, Louis XIV, re-declared the practice of Protestantism illegal with this 1685 statement, named for the forest near the Palace of Versailles.",
+          "answer": "Fontainebleau",
+          "acceptableAnswers": [
+            "Fontainebleau",
+            "The Fontainebleau"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This tolerant proclamation went against contemporary notions of cuius regio, eius religio. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee293"
+    },
+    {
+      "id": "1acebf30-0b16-4dbb-b102-8f81bc94ca01",
+      "linkedTossupId": "a231015d-6ac3-4770-9dee-3cac7125b935",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this William S. Burroughs novel set partially in Interzone, in which the drug addict William Lee visits a market where dealers sell giant centipedes, which are called \"Black Meat.\"",
+          "answer": "Naked Lunch",
+          "acceptableAnswers": [
+            "Naked Lunch",
+            "The Naked Lunch"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Burroughs was a member of this literary movement. Another novel from this movement depicts the travels of Sal Paradise and Dean Moriarty.",
+          "answer": "Beat",
+          "acceptableAnswers": [
+            "Beat",
+            "Beat movement",
+            "The Beat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Yage Letters is a collection of letters between Burroughs and this other Beat Generation author. This poet wrote \"I saw the best minds of my generation destroyed by madness\" in their poem \"Howl.\"",
+          "answer": "Ginsberg",
+          "acceptableAnswers": [
+            "Ginsberg",
+            "Irwin Allen Ginsberg",
+            "The Ginsberg"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This novel's protagonist kills Narcotics Squad members Hauser and O'Brien, both of whom Lieutenant Gonzales claims never existed. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "66423ff8515f1173a58a294f"
+    },
+    {
+      "id": "4bcf1573-a489-4c73-91f0-04be8b204726",
+      "linkedTossupId": "f70eb66d-56a1-41b8-8934-bd82686711ea",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with sympathetic vs parasympathetic.",
+          "answer": "cranial nerve",
+          "acceptableAnswers": [
+            "cranial nerve"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cranial nerve in the nervous system?",
+          "answer": "Sympathetic vs parasympathetic",
+          "acceptableAnswers": [
+            "Sympathetic vs parasympathetic"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to sympathetic vs parasympathetic.",
+          "answer": "vagus nerve",
+          "acceptableAnswers": [
+            "vagus nerve"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "4cea9cd7-d39f-4a4c-a918-add6ff1664aa",
+      "linkedTossupId": "9e645f6a-78d3-41cd-b4fa-5637c6bf5a95",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this thought experiment where the namesake creature is simultaneously dead and alive.",
+          "answer": "Schrodinger’s cat",
+          "acceptableAnswers": [
+            "Schrodinger’s cat",
+            "The Schrodinger’s cat"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Schrodinger's cat was developed to illustrate a weakness in this interpretation of quantum mechanics. This interpretation makes use of the correspondence principle and the complementarity principle. It states that any system can be described by a wave-function which, when measured, leads to wave-function collapse.",
+          "answer": "Copenhagen",
+          "acceptableAnswers": [
+            "Copenhagen",
+            "The Copenhagen"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This physicist developed an extension to Schrodinger's cat in which he is told the results of the experiment that someone else is performing, thus raising the question of what actually caused the collapse of the system's wave-function. That setup is known as this man's \"friend\".",
+          "answer": "Wigner",
+          "acceptableAnswers": [
+            "Wigner",
+            "The Wigner"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A typical setup for this thought experiment involves a Geiger counter which shatters a flask containing a poison as soon as it detects poison. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63829f6fe2cbd63208bff0a9"
+    },
+    {
+      "id": "4d8cd775-50dc-4445-8671-63c9c1a603a2",
+      "linkedTossupId": "9181c83f-fcb4-4bef-a13f-18bf0b9efb4e",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this given name of a philosopher who propounded negative theology in his Guide for the Perplexed.",
+          "answer": "Moses",
+          "acceptableAnswers": [
+            "Moses",
+            "Moses Maimonides",
+            "Moses ben Maimon",
+            "Moshe ben Maimon",
+            "accept Moses Mendelssohn",
+            "The Moses"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Moses Maimonides and Moses Mendelssohn practiced this religion. One reason for Baruch Spinoza's excommunication from this Abrahamic religion was his claim that Moses did not author its central text.",
+          "answer": "Judaism",
+          "acceptableAnswers": [
+            "Judaism",
+            "Jewish religion",
+            "The Judaism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A Platonic dialogue lends its name to a set of three dialogues written to defend this concept by Mendelssohn after the death of Thomas Abbt. Another reason for Spinoza's excommunication was his rejection of this position, which Maimonides argued for based on intellectual perfection developed through knowledge of God.",
+          "answer": "immortal",
+          "acceptableAnswers": [
+            "immortal",
+            "The immortal"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A so-called \"purified Spinozist\" with this given name discussed Gotthold Lessing's pantheism in a work contradicted by Friedrich Jacobi's contemporaneously published letters. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "692330ebf1f28d19289b7fda"
+    },
+    {
+      "id": "dce1eee3-8e99-49c2-a601-7f62de3837f3",
+      "linkedTossupId": "40a425a1-d85b-420e-8909-cafbe17afd05",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this painting of a woman with her hair in the Roman style, who lies on a chaise longue next to a lamp in an otherwise sparse room.",
+          "answer": "R",
+          "acceptableAnswers": [
+            "R"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This artist of Portrait of Madame Récamier's other \"private-style\" portraiture includes a portrait of Antoine Lavoisier and his wife. He also painted The Death of Marat.",
+          "answer": "David",
+          "acceptableAnswers": [
+            "David",
+            "The David"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this other portrait by David, a clock reading 4:13 and a lamp full of burnt-down candles indicate that the title figure has been working late through the night.",
+          "answer": "Napoleon in His Study",
+          "acceptableAnswers": [
+            "Napoleon in His Study",
+            "The Napoleon in His Study"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This painting heavily inspired Ingres' Grande Odalisque, which was executed some fourteen years later. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631a175712170ac0a81b9a18"
+    },
+    {
+      "id": "dc15fb71-f7e1-4c8e-9d67-4d09d72ac391",
+      "linkedTossupId": "d3230c09-20ac-4ec0-a95f-a1f18d248a74",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This Canadian-born Pritzker winner is now based in Los Angeles, where he designed the Walt Disney Concert Hall. He is also known for designing the Guggenheim Museum in Bilbao.",
+          "answer": "Gehry",
+          "acceptableAnswers": [
+            "Gehry",
+            "The Gehry"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "While much of his work is in his native Denmark, this architect's signature work was the Sydney Opera House.",
+          "answer": "Utzon",
+          "acceptableAnswers": [
+            "Utzon",
+            "The Utzon"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This Jewish American designed the Jewish Museum in Berlin soon after reunification. His New York studio submitted the winning site plan for the World Trade Center rebuild, called \"Memory Foundations\".",
+          "answer": "Libeskind",
+          "acceptableAnswers": [
+            "Libeskind",
+            "The Libeskind"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Name these architects for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f046e"
+    },
+    {
+      "id": "743e1096-186c-4603-9c78-fde6bf3e146d",
+      "linkedTossupId": "7b535582-f11b-4eca-8451-10e99d12e0a1",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Give this mathematical term for an unordered collection of numbers. The elements of these groups are usually written inside curvy braces.",
+          "answer": "set",
+          "acceptableAnswers": [
+            "set",
+            "The set"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The set with no elements is described by one of two adjectives; give either. One of these two adjectives is also used to indicate a missing value in a database.",
+          "answer": "null",
+          "acceptableAnswers": [
+            "null",
+            "The null"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "If two sets have no elements in common, then their intersection will be the empty set. In that case, this type of diagram for the sets will display two non-overlapping circles. More commonly, one of these diagrams has two circles with an overlapping section in the middle.",
+          "answer": "Venn",
+          "acceptableAnswers": [
+            "Venn",
+            "The Venn"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Ren´e Descartes [day-cart] names a type of product created by listing ordered pairs that combine elements from these objects. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba972b8"
+    },
+    {
+      "id": "2f23966e-8d45-4250-bd84-c6f111980243",
+      "linkedTossupId": "6f050384-7349-417a-92eb-e9da070d232d",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this mountain which is also known as Mount Godwin-Austen.",
+          "answer": "K2",
+          "acceptableAnswers": [
+            "K2",
+            "Chogori",
+            "Qogir"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "K2 is on the border between Pakistan and China in this mountain range.",
+          "answer": "Karakoram",
+          "acceptableAnswers": [
+            "Karakoram",
+            "The Karakoram"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "K2 lies entirely within this heavily disputed region claimed by India, Pakistan, and China.",
+          "answer": "Kashmir",
+          "acceptableAnswers": [
+            "Kashmir",
+            "The Kashmir"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This mountain has been nicknamed \"Savage\" mountain because it is so difficult to climb. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6836052abd73b39bd4bb3578"
+    },
+    {
+      "id": "358efd50-fa0b-4b19-b262-78115a201a2f",
+      "linkedTossupId": "b28fa8aa-2def-4eb6-9dba-3de7f80615c6",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this country, which was invaded by the Nazis on September 1, 1939 to start World War II. The Soviets invaded this country two weeks later.",
+          "answer": "Poland",
+          "acceptableAnswers": [
+            "Poland",
+            "The Poland"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man won the first free Polish election in 1990 after using his leverage as leader of Solidarity to push back Soviet influence at the Roundtable talks.",
+          "answer": "Walesa",
+          "acceptableAnswers": [
+            "Walesa",
+            "The Walesa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Solidarity is an example of these collective bargaining entities. Other notable ones include the Spanish CNT and the International Workers of the World, known as the \"Wobblies.\"",
+          "answer": "union",
+          "acceptableAnswers": [
+            "union",
+            "trade unions",
+            "accept anything reasonable mentioning unions",
+            "The union"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The 1569 Union of Lublin joined this region with Lithuania, and it underwent three partitions before 1800. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "663809d0867240107e0f1ef1"
+    },
+    {
+      "id": "9f698708-0995-48d4-b4de-1e35d4a87437",
+      "linkedTossupId": "95b82de5-fda0-4b33-8e3a-c9891ead0d4e",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this American philosopher and author of a work about \"a new name for some old ways of thinking.\"",
+          "answer": "James",
+          "acceptableAnswers": [
+            "James",
+            "The James"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "William James belonged to this school of philosophy that valued practical purposes and opposed logical positivism.",
+          "answer": "pragmatism",
+          "acceptableAnswers": [
+            "pragmatism",
+            "The pragmatism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This founder of pragmatism established the \"pragmatic maxim\" in his essay \"How to Make Our Ideas Clear,\" stating that an object should only be judged by its effects.",
+          "answer": "Peirce",
+          "acceptableAnswers": [
+            "Peirce",
+            "The Peirce"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This philosopher stated that the origin of a belief should not affect its value in The Varieties of Religious Experience. For 10 points each--",
+      "source": "qbreader",
+      "sourceId": "630ad08149000432cd5e7e4d"
+    },
+    {
+      "id": "39773568-540c-432b-abb3-437816de5b0f",
+      "linkedTossupId": "0027af85-362c-4209-8d64-8da0d219d616",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this style of music that usually lacks a standard key and may wander freely through any set of chords.",
+          "answer": "atonal",
+          "acceptableAnswers": [
+            "atonal",
+            "The atonal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Schoenberg and other atonalists like Alban Berg worked mostly in this country, where Viennese Waltzes were popularized in the late 19th century.",
+          "answer": "Austria",
+          "acceptableAnswers": [
+            "Austria",
+            "The Austria"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A father and son with this last name both composed a variety of waltzes including \"The Beautiful Blue Danube\" and \"Tales from the Vienna Woods.\"",
+          "answer": "Strauss",
+          "acceptableAnswers": [
+            "Strauss",
+            "The Strauss"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Arthur Schoenberg pioneered this style in works such as Pierrot Lunaire . For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b789"
+    },
+    {
+      "id": "2d0ccae0-265e-4172-a191-50992605c715",
+      "linkedTossupId": "63b8acf6-a42e-4263-ad59-cbe1da1c9938",
+      "category": "History",
+      "subcategory": "Other History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this capital of the Elamites along with Anshan in the Zagros Mountains, which later became the winter capital for the Achaemenids. Hammurabi's code was unearthed in this city.",
+          "answer": "Susa",
+          "acceptableAnswers": [
+            "Susa",
+            "Šušun",
+            "Šušan",
+            "The Susa"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This civilization' \"king list\" reveals that Susa was forced to submit to the leader of Kish, En-me-barage-si. That \"king list\" was written in this civilization's cuneiform writing system.",
+          "answer": "Sumer",
+          "acceptableAnswers": [
+            "Sumer",
+            "Sumerian civilization",
+            "The Sumer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Susa became a center of political power when Cambyses II elevated Susa to a capital while reducing the power of this other city. A tomb in this city read, \"Grudge me not, therefore, this monument.\"",
+          "answer": "Pasargadae",
+          "acceptableAnswers": [
+            "Pasargadae",
+            "The Pasargadae"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Austen Henry Layard discovered a tablet that calls Ashurbanipal an \"avenger\" in reference to his sack of this \"great holy city.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "67cb4e10a4d5f0b0e22ac030"
+    },
+    {
+      "id": "9b6d1216-5fd5-4b2e-9d2d-dc4a2f7c9e40",
+      "linkedTossupId": "29df5121-1e73-4c2a-9ebf-47dd57f2e6d0",
+      "category": "Human Body",
+      "subcategory": "Endocrine",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with posterior pituitary hormones.",
+          "answer": "hypothalamus",
+          "acceptableAnswers": [
+            "hypothalamus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the hypothalamus in the endocrine system?",
+          "answer": "Posterior pituitary hormones",
+          "acceptableAnswers": [
+            "Posterior pituitary hormones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the endocrine system related to posterior pituitary hormones.",
+          "answer": "pituitary",
+          "acceptableAnswers": [
+            "pituitary"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human endocrine system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "10810332-56ec-498b-bf60-6c0bd25daae9",
+      "linkedTossupId": "7acb50b4-12fc-4256-86ad-3392e30e478b",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this book that includes the chapters \"The Monetary Illusion\" and \"The Marxian Poll.\" It criticizes American materialism and advocates increased investment in public services.",
+          "answer": "Affluent Society",
+          "acceptableAnswers": [
+            "Affluent Society",
+            "The Affluent Society"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This thinker analyzed various economic bubbles in A Short History of Financial Euphoria and also wrote The Affluent Society.",
+          "answer": "Galbraith",
+          "acceptableAnswers": [
+            "Galbraith",
+            "The Galbraith"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Galbraith used this two-word phrase in the second chapter of The Affluent Society to describe the inertia that keeps production at paramount importance despite the fact that scarcity is no longer a problem in society. He claims that this is what \"people most want to hear.\" A",
+          "answer": "conventional wisdom",
+          "acceptableAnswers": [
+            "conventional wisdom",
+            "The conventional wisdom"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This work introduces the \"dependence effect,\" which claims that consumer desire increases with production. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62ed6e71216c5c9ba5675437"
+    },
+    {
+      "id": "7a4ffe54-70e6-4aaf-a7f6-7b6d579d25a6",
+      "linkedTossupId": "2f031062-3897-45a4-bec6-5a20aaf0b564",
+      "category": "Social Science",
+      "subcategory": "Social Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this school of economic thought. This figurative school of thought shares its name with the literalMidwestern university that employed many of them in the neighborhood of Hyde Park.",
+          "answer": "Chicago",
+          "acceptableAnswers": [
+            "Chicago",
+            "The Chicago"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The member of the Chicago School won the 1976 Economics Nobel. This man's books, like 1962'sCapitalism and Freedom, made him possibly the mostfamous American economist of the twentieth century.",
+          "answer": "Friedman",
+          "acceptableAnswers": [
+            "Friedman",
+            "The Friedman"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Friedman advised President Ronald Reagan that many of these governmental rules on business should berelaxed or removed. Examples of this kind of rule include child labor laws and environmental protections.",
+          "answer": "regulation",
+          "acceptableAnswers": [
+            "regulation",
+            "The regulation"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Many thinkers in this school rejected the ideas of John Maynard Keynes[\"canes\"], arguing insteadthatthe government should tightly control the money supply. For ten points each,",
+      "source": "qbreader",
+      "sourceId": "6837af63278db02eb79f1d01"
+    },
+    {
+      "id": "9a0c62ed-3a42-4df5-8aa3-e753b2bcf8aa",
+      "linkedTossupId": "93e91055-7fa4-4464-82b3-78a3c06577f1",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this religion governed by the Universal House of Justice in Haifa. It was founded by its major prophet from the teachings of the Báb.",
+          "answer": "Bahá’i",
+          "acceptableAnswers": [
+            "Bahá’i",
+            "The Bahá’i"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A common symbol of Baha'i is a nine-pointed one of these shapes. One of these shapes \"of David\" symbolizes Judaism.",
+          "answer": "star",
+          "acceptableAnswers": [
+            "star",
+            "The star"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Baha'is repeat the \"greatest\" example of this type of word which translates roughly to \"glory\" ninety-five times a day in prayer. In Judaism, examples of this type of word include adoshem and tzevaot.",
+          "answer": "names of God",
+          "acceptableAnswers": [
+            "names of God",
+            "names of Allah",
+            "The names of God"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Kitab-i-Aqdas and Book of Certitude are two of the holy texts of this religion. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f74375d79299d6a96fbcc6"
+    },
+    {
+      "id": "384f89f1-5a7e-417e-9641-75b53fe89e0a",
+      "linkedTossupId": "1448d607-1a85-4c01-8699-0a3d781a42d8",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this type of composition popular during the Baroque era, in which multiple soloists are accompanied by the orchestra, which carries the ripieno part.",
+          "answer": "concerto grosso",
+          "acceptableAnswers": [
+            "concerto grosso",
+            "concerti grossi",
+            "prompt on partial answer",
+            "The concerto grosso"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This composer's Opus 6 is a set of concerti grossi that were transcribed frequently after his death. He also wrote coronation anthems such as Zadok the Priest.",
+          "answer": "Handel",
+          "acceptableAnswers": [
+            "Handel",
+            "The Handel"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The eighth of Corelli's set of twelve concerti grossi is named after this holiday, for which Britten's Ceremony of Carols was written.",
+          "answer": "Christmas",
+          "acceptableAnswers": [
+            "Christmas",
+            "The Christmas"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Ralph Vaughan Williams wrote a piece of this type which splits the orchestra into three sections called Concertino, Tutti, and Ad Lib. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54ae002"
+    },
+    {
+      "id": "5ef96b48-202f-4de0-9556-0b298b36812c",
+      "linkedTossupId": "0c914b0f-d24b-46b7-a1de-ace28c13f395",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "The atomic hydrogen preferentially etches this other carbon allotrope to prevent it from forming during the process. This carbon allotrope consists of stacked sheets of carbon with sp2 bonding.",
+          "answer": "graphite",
+          "acceptableAnswers": [
+            "graphite",
+            "graphene",
+            "The graphite"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hetero·epitaxial growth, in which a material other than diamond is the substrate, achieves best results on a thin film of this metal. The tunability of plus-three complexes of this metal makes them attractive phosphors for O·L·E·Ds.",
+          "answer": "iridium",
+          "acceptableAnswers": [
+            "iridium",
+            "Ir",
+            "The iridium"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The primary growth mechanism of diamond on iridium is a bias-enhanced form of this process. This process occurs randomly with a constant rate in the Avrami model, and becomes favorable when the bulk free energy exceeds the interfacial free energy.",
+          "answer": "nucleation",
+          "acceptableAnswers": [
+            "nucleation",
+            "crystallization",
+            "The nucleation"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "When growing diamonds using chemical vapor deposition, a gas of methane and mostly hydrogen is ionized to create a plasma, allowing carbon atoms to deposit onto a substrate. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f5c57693c38435a5a33c5d"
+    }
+  ]
+}

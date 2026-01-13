@@ -1,0 +1,1149 @@
+{
+  "packetId": "packet-071",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Science",
+    "Human Body",
+    "Literature",
+    "Fine Arts",
+    "Philosophy",
+    "History"
+  ],
+  "tossups": [
+    {
+      "id": "53f9cc18-eb97-40c7-a6ff-0c5948a6c19a",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "The secondary type of this tissue is produced on the adaxial side of the vascular cambium, whereas the primary type of this tissue is located closest to the pith. Tracheids and vessel elements make up this tissue, and one mechanism for its function involves the evaporation of water at the mesophyll cells in leaves and the resulting pressure at roots called transpirational pull, which allows water and minerals to travel through the plant. For 10 points, identify this type of vascular tissue in plants that is complemented by the phloem.",
+      "powerMarkPosition": 441,
+      "answer": "xylem",
+      "acceptableAnswers": [
+        "xylem",
+        "The xylem"
+      ],
+      "source": "qbreader",
+      "sourceId": "63e1c0eb32d1b824539f0586"
+    },
+    {
+      "id": "d586bfc8-305a-42a4-ad10-a6a46f5bd1f5",
+      "category": "Human Body",
+      "subcategory": "Respiratory",
+      "difficulty": "high_school",
+      "text": "In human anatomy, this structure is essential for nasal cavity and sinuses. It plays a key role in the respiratory system and is one of the most studied parts of human anatomy. For ten points, name this pharynx-related structure.",
+      "powerMarkPosition": 80,
+      "answer": "Pharynx",
+      "acceptableAnswers": [
+        "pharynx",
+        "Pharynx"
+      ],
+      "explanation": "The pharynx is a key component of the Respiratory system, involved in nasal cavity and sinuses.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "6d043380-f331-4220-b01d-a682e23d7986",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "high_school",
+      "text": "In one form of this technique, increased conjugation of a molecule shifts the peak further to the left. In that version of this technique, the commonly measured transition is the pi to pi* [pi-star] transition. In another form of this technique, a distinctive peak between 1500 and 1800 inverse centimeters represents carbonyls, and peaks between 3200 and 3800 inverse centimeters represent alcohol groups. One form of this technique plots concentration against absorbance, and can be used to calculate concentration of visibly-colored samples. For 10 points, name this general analytical technique that comes in UV-Vis and Infrared, or IR [I-R], forms.",
+      "powerMarkPosition": 317,
+      "answer": "spec",
+      "acceptableAnswers": [
+        "spec",
+        "The spec"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6bd28e96d73a0dccd6052"
+    },
+    {
+      "id": "adc6e2b6-6a7f-498d-8e98-a9e271c424c3",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "middle_school",
+      "text": "This novella's protagonist laments, \"What a demanding job I've chosen!\" when he wakes up and realizes he cannot roll over in bed. Three tenants in this novella refuse to pay their rent after seeing the protagonist listening to his sister, Grete, playing her violin.This story's protagonist dies when an apple thrown by his father lodges in the hard shell on his back. For ten points, name this Franz Kafka novella in which Gregor Samsa turns into a giant bug.",
+      "powerMarkPosition": 238,
+      "answer": "Metamorphosis",
+      "acceptableAnswers": [
+        "Metamorphosis",
+        "The Metamorphosis"
+      ],
+      "source": "qbreader",
+      "sourceId": "6837af66278db02eb79f1d93"
+    },
+    {
+      "id": "b8c270b6-0af5-4404-9073-43ce8a0d5bff",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "open",
+      "text": "Neo-Dadaist Ushio Shinohara used this activity to create a series of \"action paintings\" in ink. Art historian Robert Haywood highlighted the similarity of the curve of the Belvedere torso to a painting of this activity executed within a triangular composition. A man with a cigar cynically glares back at the viewer in that painting where several red-faced men watch this activity, which is set across the street from the artist's studio. The aftermath of one an instance of this activity is depicted in the Thomas Eakins painting Salutat. A temporary status granted to socially disreputable participants in this activity is referenced in a painting by a student of Robert Henri that shows a black and white man engaging in this activity, titled Both Members of this Club. For 10 points, name this activity depicted in George Bellows' Stag at Sharkey's, which shows two men fighting in a ring.",
+      "powerMarkPosition": 507,
+      "answer": "boxing",
+      "acceptableAnswers": [
+        "boxing",
+        "fighting",
+        "equivalents",
+        "The boxing"
+      ],
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97422947"
+    },
+    {
+      "id": "cc54416b-c467-4f94-8da6-6fc5dc786dfe",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "text": "A young boy in this novella says the best place he has seen in Europe is the City of Richmond, which is actually a boat. In this novella, a character exclaims \"If this is improper, then I am all improper!\" after refusing to enter a carriage with a character she often calls \"stiff.\" This novella begins with one character's aunt complaining of headaches while in Vevey, Switzerland. While her mother chastises her younger brother Randolph, a woman in this novella tries to go on an evening boat ride to the Chateau de Chillon and is not invited to Mrs. Walker's parties after upsetting guests like the snobbish Mrs. Costello. After choosing Mr. Giovanelli over Frederick Winterbourne, the title character of this novella dies of Roman fever. For 10 points, name this novella by Henry James.",
+      "powerMarkPosition": 489,
+      "answer": "Daisy Miller",
+      "acceptableAnswers": [
+        "Daisy Miller",
+        "The Daisy Miller"
+      ],
+      "source": "qbreader",
+      "sourceId": "6406d0dde39f8dfd08fc243e"
+    },
+    {
+      "id": "d054ee10-8236-43f7-a246-c9c728e0bf21",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "Its increased presence in urine is a strong indicator of Zollinger-Ellison syndrome, and defects in molecules that bind to it have been hypothesized as a cause of Rubenstein-Taybi snydrome. It increases the amount of water in metabolic waste by opening an apical chloride ion channel, and it is crucial to the dissociation of the beta-gamma dimer of G-protein-coupled receptors. Discovered by Earl Sutherland, this molecule indirectly stimulates gluconeogenesis due to its activating effect on protein kinase A. For 10 points, the action of a specific phosphodiesterase is usually responsible for creating what second-messenger protein produced from ATP by the enzyme adenylyl cyclase?",
+      "powerMarkPosition": 378,
+      "answer": "cyclic",
+      "acceptableAnswers": [
+        "cyclic",
+        "The cyclic"
+      ],
+      "source": "qbreader",
+      "sourceId": "6435fb853c24c106a9840a4f"
+    },
+    {
+      "id": "1d6d8bfe-7ed4-4550-8f82-a2dad4ff5caf",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "high_school",
+      "text": "This composer instructed a solo cello to ascend a two-octave arpeggio to open his orchestration of Carl Maria von Weber's Invitation to the Dance. This composer defined an instrument as \"any sounding body used by a composer\" in his Treatise on Instrumentation. A symphony by this composer was rejected by its dedicatee because of the long wait before the solo violist's entry over harp arpeggios. Lord Byron's Childe Harold's Pilgrimage inspired this composer's Harold in Italy. Another symphony by this composer uses an ideé fixe [ee-day feex] to depict his love for the Irish actress Harriet Smithson. For 10 points, name this French composer of Symphonie Fantastique.",
+      "powerMarkPosition": 396,
+      "answer": "Berlioz",
+      "acceptableAnswers": [
+        "Berlioz",
+        "The Berlioz"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0b1a1e"
+    },
+    {
+      "id": "b9c708b3-d146-4344-b118-3b7585aae2a3",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "text": "Several reptilian creatures climb onto a rocky shore in one part of this work that also sees a monkey riding an elephant. A darkly skinned person stands in the middle of several nude women in a pool in this work, while the left sees a unicorn drinking from a pool. Two ears are pierced by a knife in the right section of this painting that has pink spires adorn a location that features large owls and strawberries. The left panel of this work shows Adam and Eve in the Garden of Eden and the right shows people suffering eternal damnation, but the central erotic location is the largest section. For 10 points, this is what huge triptych painted by Hieronymus Bosch?",
+      "powerMarkPosition": 290,
+      "answer": "Garden of Earthly Delights",
+      "acceptableAnswers": [
+        "Garden of Earthly Delights",
+        "The Garden of Earthly Delights"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d895987a0d8ea074be7527"
+    },
+    {
+      "id": "ca803996-70fa-4e8d-9b13-7a1d1c8c0019",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "Many details about the religion of these people were compiled by Sebastian Englert, a German Capuchin missionary who was dubbed their \"uncrowned king\" during his 30 years stay among them. An artifact with apparent religious significance to them is known as the \"Stolen Friend.\" These people left the mythical island of Hiva after Hotu Matu'a sent seven explorers to discover a more fertile home. Leaders of these people could gain prestige by picking representatives who would swim to an island, climb a cliff, and retrieve the first egg of the sooty tern. That ritual was part of a cult religion which was named for tangata manu, or the \"birdman.\" According to one theory, their undeciphered script is a pictographic representation of their creation by the god Makemake (mah-kay-mah-kay). After death, important leaders of these people were deified and depictions of them were sculpted out of volcanic rock and placed facing the sea on stone platforms called ahu. For 10 points, name these people who sculpted massive stone heads called Moai.",
+      "powerMarkPosition": 395,
+      "answer": "Easter Islander",
+      "acceptableAnswers": [
+        "Easter Islander",
+        "Rapa nui",
+        "The Easter Islander"
+      ],
+      "source": "qbreader",
+      "sourceId": "64306480335bc8c468cbb0d2"
+    },
+    {
+      "id": "5ff8c43c-e9cb-4219-8d83-13731f4f1b48",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "text": "General Edward Pakenham was killed during this battle. A defensive line in this battle was improved by the privateer Jean Lafitte. A failed crossing of the Mississippi River doomed the losing side in this battle, which was fought two weeks after the Treaty of Ghent was signed. Andrew Jackson led the American victory in, for 10 points, what battle of the War of 1812 that prevented a British invasion of the largest city in Louisiana?",
+      "powerMarkPosition": 249,
+      "answer": "New Orleans",
+      "acceptableAnswers": [
+        "New Orleans",
+        "The New Orleans"
+      ],
+      "source": "qbreader",
+      "sourceId": "663806e9a0924256318acb26"
+    },
+    {
+      "id": "7d671ede-477d-42c2-909f-8718daeae2ad",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "college",
+      "text": "A character created by this author creates an artistic work called \"The Resurrection Day\" which he refers to as his \"child.\" Rubek and his former model Irena are killed by an avalanche in a play by this man. In another play by this man, cards marked with black crosses indicate the death of a man suffering from tuberculosis of the spine named Dr. Rank. In that play by this author, a character tries to keep his job at a bank via blackmail. That play by this author ends with a woman who had earlier been called a \"twittering lark\" slamming the door behind her as she walks out on her husband, Torvald. For 10 points, name this playwright of When We Dead Awaken who wrote about Nora Helmer in A Doll's House.",
+      "powerMarkPosition": 347,
+      "answer": "Ibsen",
+      "acceptableAnswers": [
+        "Ibsen",
+        "The Ibsen"
+      ],
+      "source": "qbreader",
+      "sourceId": "6382c06e578a78206cf2087c"
+    },
+    {
+      "id": "53b601ec-f919-454f-bd37-b2e06e4d4808",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "People in this country write wishes on wooden plaques and may receive paper talismans with a unique stamp for their temple. Visitors to shrines in this country wave paper streamers before entering sacred spaces marked by thick hemp ropes. Rock gardens are created by Buddhists in this country, where shrine entrances are marked by red gates called torii. This country's royal family is believed to be descended from the deity Amaterasu. For 10 points, name this country, where kami are worshiped in Shintoism.",
+      "powerMarkPosition": 330,
+      "answer": "Japan",
+      "acceptableAnswers": [
+        "Japan",
+        "Nippon-koku",
+        "Nihon-koku",
+        "The Japan"
+      ],
+      "source": "qbreader",
+      "sourceId": "66e1bbb6b3ec1cfe3cd4a672"
+    },
+    {
+      "id": "b2003736-5cd9-4bcf-a626-e36c78d47fd5",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "open",
+      "text": "This author bastardized the refrain of a song from James Thomson's Sophonisba in a play featuring a footnote that then accuses Thomson of stealing that very same \"beautiful line.\" The Italian castrato Signior Opera is chosen as a mate by the Goddess of Nonsense in a play within a play by this author. This author had his frequent pseudonym Scriblerus Secundus field questions from the players putting on the title production in his play The Welsh Opera. The title character of a play by this author defeats a rebel army led by his romantic rival Lord Grizzle, but is then swallowed by a large red cow on his way back to King Arthur's castle. This author of The Author's Farce wrote The Tragedy of Tragedies, an expanded version of his play about a tiny character from English folklore, before retiring from the theater entirely in the wake of the censorship brought about by the Licensing Act of 1737. For 10 points, name this author of Tom Thumb who subsequently wrote a novel about a foundling taken in by Squire Allworthy.",
+      "powerMarkPosition": 572,
+      "answer": "Fielding",
+      "acceptableAnswers": [
+        "Fielding",
+        "The Fielding"
+      ],
+      "source": "qbreader",
+      "sourceId": "630a734f995199588ca69d16"
+    },
+    {
+      "id": "b2fb8222-1e14-4a74-b0da-7051e355b546",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "high_school",
+      "text": "A fictional orphan in this city leaves in an elephant statue by a former prison. In this city, a father puts out the fire and asks Azelma to cut her hand punching a window to make his family look poor. An animal in this city learns to spell out the name of its owner's love interest, a captain. This city's Pope of Fools is crowned while a gypsy plays with her goat Djali. An innocent woman is taken into this city's cathedral after almost being hanged for the stabbing of Phoebus. Gavroche and Marius fight at this city's barricades, before the protagonist is hunted through its sewers by Inspector Javert. For 10 points, name this setting of Les Misérables and The Hunchback of Notre Dame.",
+      "powerMarkPosition": 339,
+      "answer": "Paris",
+      "acceptableAnswers": [
+        "Paris",
+        "The Paris"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0a760f"
+    },
+    {
+      "id": "14994586-c50b-4faa-9095-e9d502154adb",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "A disease that affects the body's regulation of this molecule is also the leading cause of retinal blindness. It's not amylin, but beta cells produce this molecule in the Islets of Langerhans. When released, this hormone stimulates increased nutrient intake in adipocytes. It acts antagonistically against glucagon, which is also produced in the pancreas. For 10 points, name this hormone that stimulates the absorption of glucose from the blood, which is imbalanced in the bloodstream of diabetics.",
+      "powerMarkPosition": 305,
+      "answer": "insulin",
+      "acceptableAnswers": [
+        "insulin",
+        "The insulin"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b727"
+    },
+    {
+      "id": "2e3f9c98-d40f-4834-986d-e3a42b3666c1",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "In this case, executive privilege was invoked by interim Attorney General Levi Lincoln, who could not answer a question about certain late documents on the spot. Charles Lee represented the plaintiff of both this case and a related case decided by William Paterson a week later, Stuart v. Laird. A writ of mandamus was demanded by the plaintiff of this case for his commission as one of John Adams' \"Midnight Judges.\" In this case, Section 13 of the Judiciary Act of 1789 was struck down by John Marshall. For 10 points, name this 1803 Supreme Court case that established judicial review.",
+      "powerMarkPosition": 365,
+      "answer": "Marbury",
+      "acceptableAnswers": [
+        "Marbury",
+        "The Marbury"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f7234f56e0dff73abeaad"
+    },
+    {
+      "id": "61d667fd-4ae9-4680-820c-34a430b9308d",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "text": "A war fought over the succession of this person ended with the Battle of Toro, and this person was able to come to power after Alfonso, the Prince of Asturias, died of the plague. An institution founded by this person was responsible for carrying out several auto-da-fè ceremonies. With the assistance of Tomas de Torquemada, this daughter of John II issued the Alhambra Decree, which expelled all of the Jews from her country. With her husband, this woman funded the Atlantic voyages of Christopher Columbus. For 10 points, name this female member of the \"Catholic Monarchs,\" a Queen of Castile who was the wife of Ferdinand of Aragon.",
+      "powerMarkPosition": 281,
+      "answer": "Isabella I",
+      "acceptableAnswers": [
+        "Isabella I",
+        "Isabella of Castile before mention",
+        "The Isabella I"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fb12f3df12519cb125cd38"
+    },
+    {
+      "id": "e9826cbd-ab2d-46a5-92f6-14e1bd9d1385",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "text": "George Hammond was the first envoy this nation sent to the United States, and with the United States, this nation signed a treaty that proposed the construction of a canal in Nicaragua, the Clayton-Bulwer Treaty. This nation fought the United States in the Aroostook War, which was ended in a treaty that established a boundary at the forty-ninth parallel, the Webster-Ashburton Treaty. Previously, this nation approved a treaty that required it to evacuate the Great Lakes area, but this nation continued to impress American sailors into naval service after that treaty. For 10 points, name this nation that signed Jay's Treaty and fought the United States in the War of 1812.",
+      "powerMarkPosition": 386,
+      "answer": "United Kingdom",
+      "acceptableAnswers": [
+        "United Kingdom",
+        "either underlined part",
+        "United Kingdom of Great Britain and Ireland",
+        "Kingdom of Great Britain",
+        "do not accept “England”",
+        "The United Kingdom"
+      ],
+      "source": "qbreader",
+      "sourceId": "62fe9e9bd9499606df43a1f6"
+    },
+    {
+      "id": "c607666b-5f43-4abe-a259-51ce405e861b",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "text": "This quantity divided by lambda yields k, the wavenumber. For a wire-wrapped toroid, the magnetic field is inversely proportional to this factor times the radius of the toroid according to Ampère's law, which also gives the magnetic field of an infinite wire as inversely proportional to this factor times radial distance. This entire quantity, all squared, over big G times stellar mass is equal to the square of the planetary orbital period over the cube the semimajor axis of its orbit according to Kepler's third law. Twice this value appears multiplied by the permittivity of free space in the denominator of Coulomb's law. For small angles, the period of a pendulum is equal to this quantity times the square root of length over gravitational acceleration. Frequency multiplied by this quantity gives angular frequency. For 10 points, identify this value that is the period of the sine and cosine functions.",
+      "powerMarkPosition": 613,
+      "answer": "two pi",
+      "acceptableAnswers": [
+        "two pi",
+        "The two pi"
+      ],
+      "source": "qbreader",
+      "sourceId": "62f85b0cdbfff7f0b54af124"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "65c905ef-3577-4932-9e94-9ef8deb8cad9",
+      "linkedTossupId": "53f9cc18-eb97-40c7-a6ff-0c5948a6c19a",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this planet, the largest planet in the Solar System.",
+          "answer": "Jupiter",
+          "acceptableAnswers": [
+            "Jupiter",
+            "The Jupiter"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This innermost Galilean moon of Jupiter is the most volcanically active object in the solar system. It has been shown to be affected by tidal heating from Jupiter and its other moons.",
+          "answer": "Io",
+          "acceptableAnswers": [
+            "Io"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Io flux tube and Io torus are the source of unusual X-ray flares attributed to this phenomenon. On Earth, this phenomenon can be observed in extreme latitudes when the solar wind collides with the atoms in the ionosphere.",
+          "answer": "aurora",
+          "acceptableAnswers": [
+            "aurora",
+            "the Northern Lights",
+            "the Southern Lights",
+            "accept aurora borealis",
+            "aurora australis",
+            "The aurora"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This planet contains the storms Oval BA and the Great Red Spot. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65666dfe443a0a5dea004403"
+    },
+    {
+      "id": "2145a082-3048-4f25-ab80-99d8d649112e",
+      "linkedTossupId": "d586bfc8-305a-42a4-ad10-a6a46f5bd1f5",
+      "category": "Human Body",
+      "subcategory": "Nervous",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with sensory receptors.",
+          "answer": "cranial nerve",
+          "acceptableAnswers": [
+            "cranial nerve"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the cranial nerve in the nervous system?",
+          "answer": "Sensory receptors",
+          "acceptableAnswers": [
+            "Sensory receptors"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the nervous system related to sensory receptors.",
+          "answer": "vagus nerve",
+          "acceptableAnswers": [
+            "vagus nerve"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human nervous system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "a57ea14c-000d-48c3-82ba-e4de9e8008b8",
+      "linkedTossupId": "6d043380-f331-4220-b01d-a682e23d7986",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these responses in which an organism, usually a plant, exhibits a specific growth pattern in response to an environmental stimulus. Auxins primarily regulate one of them that is prefixed \"photo-.\"",
+          "answer": "tropism",
+          "acceptableAnswers": [
+            "tropism",
+            "any specific tropism",
+            "The tropism"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "When these plant structures sense touch stimuli, they grow in the opposite direction in a phenomenon called negative thigmotropism. These thin structures absorb nutrients and water from soil and help to anchor the plant.",
+          "answer": "root",
+          "acceptableAnswers": [
+            "root",
+            "The root"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "It is hypothesized that growth in response to this other stimulus results from a difference in cytoplasmic calcium concentration due to the relocation of tiny particles called statoliths. Pneumatophores are part of a class of roots which orient themselves away from this stimulus.",
+          "answer": "gravity",
+          "acceptableAnswers": [
+            "gravity",
+            "The gravity"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In an experiment which he conducted with his son, Charles Darwin discovered that coleoptiles only exhibit one of these responses if their tips are exposed. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "651a2dcf5c3919082740d154"
+    },
+    {
+      "id": "62abe6fc-649e-40e7-b313-a5bddef71479",
+      "linkedTossupId": "adc6e2b6-6a7f-498d-8e98-a9e271c424c3",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this surrealist author of \"The Library of Babel\" and \"The Garden of Forking Paths,\" who also wrote about a man rewriting Don Quixote in \"Pierre Menard.\"",
+          "answer": "Borges",
+          "acceptableAnswers": [
+            "Borges",
+            "The Borges"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This collection of short stories by Borges contains the three aforementioned stories, as well as \"Funes, the Memorious\" and \"The South,\" among others.",
+          "answer": "Ficciones",
+          "acceptableAnswers": [
+            "Ficciones",
+            "The Ficciones"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Borges is an author from this country, also home to the author of Kiss of the Spiderwoman and Betrayed by Rita Hayworth, Manuel Puig.",
+          "answer": "Argentina",
+          "acceptableAnswers": [
+            "Argentina",
+            "The Argentina"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author wrote a story describing an infinitely large library containing books made of random letters. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e31d9ebc8f282ed3d43823"
+    },
+    {
+      "id": "22a85575-7fe6-46a5-9503-586f59f90dcb",
+      "linkedTossupId": "b8c270b6-0af5-4404-9073-43ce8a0d5bff",
+      "category": "Fine Arts",
+      "subcategory": "Other Fine Arts",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "In the 1960s, many artists began experimenting with the physical form of what material, the most commonly-used variety of which has four perforations per frame and a gauge of 35 mm?",
+          "answer": "film",
+          "acceptableAnswers": [
+            "film",
+            "film base",
+            "film strip",
+            "The film"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The length of the film stock provides the title to and determines the runtime of 10 Feet, a film by the founder of this artistic community, George Maciunas. Nam June Paik and Yoko Ono affiliated with this avant-garde movement, whose name reflects its aim to show how art and life \"flow\" into one another.",
+          "answer": "Fluxus",
+          "acceptableAnswers": [
+            "Fluxus",
+            "The Fluxus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This American director gathered decomposing film stock from an archive in South Carolina and edited the footage into his 2002 collage film Decasia. He recounted the 1978 discovery of hundreds of silent film reels in a small town in the Yukon territory in his 2016 documentary, Dawson City: Frozen Time.",
+          "answer": "Morrison",
+          "acceptableAnswers": [
+            "Morrison",
+            "The Morrison"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In a series of pieces by Tony Conrad, this material is pickled in a jar of vinegar or stir-fried with vegetables before being tossed at a screen. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6382c08d5b3dc7dc712c77bc"
+    },
+    {
+      "id": "b962d4be-2b83-49f8-bbb3-695f5cb0a8ef",
+      "linkedTossupId": "cc54416b-c467-4f94-8da6-6fc5dc786dfe",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Identify this novel whose other main characters include May Welland and Newland Archer.",
+          "answer": "Age of Innocence",
+          "acceptableAnswers": [
+            "Age of Innocence",
+            "The Age of Innocence"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Age of Innocence was written by this author of The Fruit of the Tree and Ethan Frome.",
+          "answer": "Wharton",
+          "acceptableAnswers": [
+            "Wharton",
+            "The Wharton"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Undine Spragg seduces Ralph Marvell and Elmer Moffatt in this 1913 Wharton novel.",
+          "answer": "Custom of the Country",
+          "acceptableAnswers": [
+            "Custom of the Country",
+            "The Custom of the Country"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "At the end of this work, the main character receives an invitation from his son Dallas to go to Paris, but declines to visit the apartment of Ellen Olenska. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63bc99fbec4e2238a455fd7d"
+    },
+    {
+      "id": "39b50549-6312-4659-87da-b6b598e2872b",
+      "linkedTossupId": "d054ee10-8236-43f7-a246-c9c728e0bf21",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this quantity, the electric potential difference between two points in a circuit. It's supplied by a battery.",
+          "answer": "voltage",
+          "acceptableAnswers": [
+            "voltage",
+            "electromotive force",
+            "emf",
+            "The voltage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Though only relative values of voltage are usually relevant, this object is commonly used as a reference, since it acts as an infinite source or sink for excess charges. Three parallel lines represent this object in circuit diagrams.",
+          "answer": "ground",
+          "acceptableAnswers": [
+            "ground",
+            "grounding",
+            "the Earth",
+            "same-knowledge equivalents",
+            "The ground"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "For a resistor in an electrical circuit, this quantity equals the voltage drop through the resistor multiplied by the current through the resistor, according to a law discovered by James Joule.",
+          "answer": "power",
+          "acceptableAnswers": [
+            "power",
+            "P",
+            "The power"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The sum of this quantity around a closed current loop must be zero. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6302ccab3e73f93749c0e206"
+    },
+    {
+      "id": "fc93a941-2094-4cda-b97b-181ab4d18f05",
+      "linkedTossupId": "1d6d8bfe-7ed4-4550-8f82-a2dad4ff5caf",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this medium that combines different 2-dimensional works, including newspaper and magazine clippings, to form a cohesive image.",
+          "answer": "collage",
+          "acceptableAnswers": [
+            "collage",
+            "The collage"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In addition to painting, Marc Chagall designed works in this medium, often for synagogues. One work in this medium by Chagall is in the UN Headquarters.",
+          "answer": "stained glass",
+          "acceptableAnswers": [
+            "stained glass",
+            "The stained glass"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This type of painting can use a thicker pigment called gouache. Unlike oil or acrylic painting, the colors achieved with this medium are usually translucent.",
+          "answer": "watercolor",
+          "acceptableAnswers": [
+            "watercolor",
+            "The watercolor"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Richard Hamilton created his Just what is it that makes today's homes so different, so appealing in this medium. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "647044212576885f91e625d1"
+    },
+    {
+      "id": "196f982b-c3f7-4b78-8091-e4273eb45a6a",
+      "linkedTossupId": "b9c708b3-d146-4344-b118-3b7585aae2a3",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this photographer who is most famous for his depictions of Yosemite National Park, including his El Capitan, Winter, Sunrise and Moon and Half Dome.",
+          "answer": "Adams",
+          "acceptableAnswers": [
+            "Adams",
+            "The Adams"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Adams pioneered this system of photography, which defined a scale for exposure and print value in order to modify the black and white tones of a photograph.",
+          "answer": "Zone",
+          "acceptableAnswers": [
+            "Zone",
+            "The Zone"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Adams was a member and co-founder of this photography group, which advocated contact printing and the use of its namesake aperture value to provide the greatest depth of field.",
+          "answer": "F/64",
+          "acceptableAnswers": [
+            "F/64",
+            "The F/64"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Selections from this man's photographs of the Manzanar internment camp were published in the book Born Free and Equal. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63a5146d0af62c61193498a4"
+    },
+    {
+      "id": "c8107965-9785-4acc-9718-70c628b2851b",
+      "linkedTossupId": "ca803996-70fa-4e8d-9b13-7a1d1c8c0019",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this group. Jews are commanded to remember what this group did to Israel, never forget what they did, and completely destroy them, but the last mitzvah is not binding because this group cannot be identified today.",
+          "answer": "Amalek",
+          "acceptableAnswers": [
+            "Amalek",
+            "Amalekites",
+            "The Amalek"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Amalekites are said to have disappeared as a result of Sennacherib's invasion, which is described in this book of the Bible which also describes the prophets Elisha and Elijah. You may either name a book of the Hebrew Bible or one of the Old Testament.",
+          "answer": "Kings",
+          "acceptableAnswers": [
+            "Kings",
+            "2 Kings",
+            "Second Kings",
+            "Melachim",
+            "reject “First Kings”",
+            "“1 Kings”",
+            "The Kings"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This medieval rabbi wrote that Jews are obliged to offer peace to Amalekites and honor their treaty in the last book of his Mishneh Torah. He also wrote Guide for the Perplexed.",
+          "answer": "Maimonides",
+          "acceptableAnswers": [
+            "Maimonides",
+            "Moshe ben Maimon",
+            "Musa ibn Maimun",
+            "the Rambam",
+            "The Maimonides"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Membership in this group has been symbolically ascribed to the Romans, Nazis, and, more controversially, Hamas or even all Palestinians. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "65ba878dca6edbbc92a5d49b"
+    },
+    {
+      "id": "a1272810-2a23-448c-a5cc-8462230bbeaa",
+      "linkedTossupId": "5ff8c43c-e9cb-4219-8d83-13731f4f1b48",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this Englishwoman who is credited with creating the principles of modern nursing.",
+          "answer": "Nightingale",
+          "acceptableAnswers": [
+            "Nightingale",
+            "The Nightingale"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Florence Nightingale popularized this now-common type of graphic, which she modified to show the causes of death by month in what was known as her \"rose diagram.\"",
+          "answer": "pie chart",
+          "acceptableAnswers": [
+            "pie chart",
+            "The pie chart"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Florence Nightingale gained fame for her pioneering work during this 19th century war, where she was stationed at the Scutari Hospital in Turkey.",
+          "answer": "Crimean",
+          "acceptableAnswers": [
+            "Crimean",
+            "The Crimean"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This woman's commitment to help wounded soldiers during the night earned her the nickname \"The Lady with the Lamp.\" For ten points each:",
+      "source": "qbreader",
+      "sourceId": "676f723af56e0dff73abeca4"
+    },
+    {
+      "id": "05944646-f461-4017-9cec-f6441d8d01c1",
+      "linkedTossupId": "7d671ede-477d-42c2-909f-8718daeae2ad",
+      "category": "Literature",
+      "subcategory": "British Literature",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this 14th-century writer, often called the father of English literature.",
+          "answer": "Chaucer",
+          "acceptableAnswers": [
+            "Chaucer",
+            "The Chaucer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Chaucer's magnum opus is this work, often credited with raising the popularity of the English vernacular. This work features a collection of stories told by pilgrims as they travel from London to the title location.",
+          "answer": "The Canterbury Tales",
+          "acceptableAnswers": [
+            "The Canterbury Tales",
+            "Canterbury Tales"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Another of Chaucer's notable works is this poem most likely written in 1368. This poem was written to commemorate the death of the wife of John of Gaunt.",
+          "answer": "Book of the Duchess",
+          "acceptableAnswers": [
+            "Book of the Duchess",
+            "The Book of the Duchess"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author's major works include The Book of the Duchess and The House of Fame. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "65fa4918e210b3e07c6de792"
+    },
+    {
+      "id": "556a87fd-b715-45b4-8599-8172d121b66c",
+      "linkedTossupId": "53b601ec-f919-454f-bd37-b2e06e4d4808",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this country, home to philosophers Arnold Schopenhauer and Max Horkheimer, a member of its \"Frankfurt\" school.",
+          "answer": "Germany",
+          "acceptableAnswers": [
+            "Germany",
+            "Deutschland",
+            "The Germany"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This German philosopher created the categorical imperative. He used the statement \"seven plus five equals twelve\" to give examples of a priori knowledge in Critique of Pure Reason.",
+          "answer": "Kant",
+          "acceptableAnswers": [
+            "Kant",
+            "The Kant"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Kant's categorical imperative holds that taking this action is always immoral, even if done to prevent murder. Leaving out important facts to maintain a misconception can be described as taking this action \"by omission\".",
+          "answer": "lying",
+          "acceptableAnswers": [
+            "lying",
+            "any synonyms like deception",
+            "not telling the truth",
+            "The lying"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "A philosopher from this country related space and time in The World as Will and Representation. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "673aef78cbbbb69a5263cd9f"
+    },
+    {
+      "id": "394ffa47-dd21-4b48-9d11-0bbd67bec069",
+      "linkedTossupId": "b2003736-5cd9-4bcf-a626-e36c78d47fd5",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this character who is later killed in a hit-and-run.",
+          "answer": "Myrtle",
+          "acceptableAnswers": [
+            "Myrtle",
+            "“Wilson”",
+            "The Myrtle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Myrtle's husband reacts to her death by murdering the title character of this novel of 1925, though the driver who killed her was actually Daisy Buchanan.",
+          "answer": "The Great Gatsby",
+          "acceptableAnswers": [
+            "The Great Gatsby",
+            "Great Gatsby"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gatsby and narrator Nick Carraway live on this outcrop into Long Island Sound, contrasted with its more fashionable East counterpart.",
+          "answer": "West Egg",
+          "acceptableAnswers": [
+            "West Egg",
+            "The West Egg"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This character buys a dog on a whim while out with her lover, and her husband later discovers its leash in a drawer, tipping him off to the affair. For ten points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba967bc"
+    },
+    {
+      "id": "e0a0a1f2-d669-4e2d-862c-1c738bda95fe",
+      "linkedTossupId": "b2fb8222-1e14-4a74-b0da-7051e355b546",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this play reworked into an \"African\" adaptation by Femi Osofisan. Kamau Brathwaite's play Odale's Choice changes this play's setting to Africa.",
+          "answer": "Antigone",
+          "acceptableAnswers": [
+            "Antigone",
+            "Tegonni: An African Antigone",
+            "prompt on Tegonni",
+            "The Antigone"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Sophocles title character is reimagined as Odewale in Ola Rotimi's The Gods Are Not to Blame, in which he unknowingly marries his mother Ojuola.",
+          "answer": "Oedipus",
+          "acceptableAnswers": [
+            "Oedipus",
+            "Oedipus Rex",
+            "Oedipus Tyrannus",
+            "Oedipus the King",
+            "The Oedipus"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Congolese author Sylvain Bemba wrote an adaptation of Antigone titled for wedding candles with this title characteristic. A pioneering Nigerian literary magazine named after Orpheus with this characteristic was named after a 1948 Sartre (\"sart\") essay.",
+          "answer": "black",
+          "acceptableAnswers": [
+            "black",
+            "noir",
+            "accept Black Orpheus",
+            "Orphée Noir",
+            "accept Black Wedding Candles for Blessed Antigone",
+            "prompt on posthumous",
+            "Noces Posthumes de Santigone",
+            "The black"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In an adaptation of this play, Governor Carter Ross tries to stop the title character's interracial marriage, which is halted by his arrival with a corpse. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6848696db074cbb48b99b4e6"
+    },
+    {
+      "id": "05121d82-8c2e-4bab-a113-874a6b85e871",
+      "linkedTossupId": "14994586-c50b-4faa-9095-e9d502154adb",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "What is the measure of the third angle in the triangle?",
+          "answer": "90",
+          "acceptableAnswers": [
+            "90",
+            "right angle",
+            "45-45-90 right triangle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Because the base angles of the triangle are congruent, a 45-45-90 triangle has which property in which two of the three sides have the same length?",
+          "answer": "isosceles",
+          "acceptableAnswers": [
+            "isosceles",
+            "The isosceles"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "If the two legs of the right triangle each have a length of \"x,\" what is the length of the hypotenuse of the right triangle?",
+          "answer": "x",
+          "acceptableAnswers": [
+            "x",
+            "x radical 2"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Two angles of a triangle each measure 45 degrees. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62f08076bbf8fdbdf07e9e0b"
+    },
+    {
+      "id": "1917229c-7040-43a2-ba8f-8017c80cc1de",
+      "linkedTossupId": "2e3f9c98-d40f-4834-986d-e3a42b3666c1",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this grassland mostly in northern Argentina and southern Uruguay.",
+          "answer": "Pampas",
+          "acceptableAnswers": [
+            "Pampas",
+            "Las Pampas",
+            "The Pampas"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "On the other Argentine coast, this region once housed the Mapuche. With its neighbor Los Lagos, this place is part of the Lake Region of Chile and includes the volcano Villarrica.",
+          "answer": "Araucanía",
+          "acceptableAnswers": [
+            "Araucanía",
+            "The Araucanía"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These excellent horse-riders and ranchers are called huasos in Araucanía and gauchos in the Pampas.",
+          "answer": "cowboy",
+          "acceptableAnswers": [
+            "cowboy",
+            "vaqueros",
+            "prompt on rancheros",
+            "The cowboy"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The name for this region comes from the Quechua word for \"plain\", and its native animals include the rhea as well as several species of armadillo. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b8c0"
+    },
+    {
+      "id": "dc7b2881-af5a-4e1d-a212-14a1500f3cf8",
+      "linkedTossupId": "61d667fd-4ae9-4680-820c-34a430b9308d",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "This Tsar was responsible for reforms such as the creation of zemstvo councils and the Emancipation of the Serfs.",
+          "answer": "Alexander II",
+          "acceptableAnswers": [
+            "Alexander II",
+            "The Alexander II"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In spite of such changes, Alexander was not reforming enough for some dissident elements and was thus assassinated by a member of this revolutionary socialist group.",
+          "answer": "Narodnaya Volya",
+          "acceptableAnswers": [
+            "Narodnaya Volya",
+            "People’s Will",
+            "People’s Freedom",
+            "The Narodnaya Volya"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This elder brother to Vladimir Lenin was executed for attempting to assassinate Alexander III, six years after the assassination of Alexander II. One of his co-conspirators was the brother of Josef Pilsudski.",
+          "answer": "Aleksandr",
+          "acceptableAnswers": [
+            "Aleksandr",
+            "The Aleksandr"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Romanovs ruled Russia for just over 300 years. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63acb2f4ea571b63636ee93a"
+    },
+    {
+      "id": "e4a7ef0b-3d8b-4397-aeb3-12c9392500f5",
+      "linkedTossupId": "e9826cbd-ab2d-46a5-92f6-14e1bd9d1385",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "The \"Daisy\" ad greatly contributed to this man's 1964 re-election victory against Barry Goldwater. The Civil Rights Act and the Voting Rights Act were passed during the administration of this Vice President of John F. Kennedy.",
+          "answer": "Johnson",
+          "acceptableAnswers": [
+            "Johnson",
+            "LBJ",
+            "prompt on Johnson",
+            "The Johnson"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This 2004 Democratic nominee for the presidency was attacked by the Swift Boat Veterans for Truth over his service record in Vietnam. Another ad showed him windsurfing and portrayed him as a \"flip-flopper.\"",
+          "answer": "Kerry",
+          "acceptableAnswers": [
+            "Kerry",
+            "The Kerry"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In the election of 1988, Michael Dukakis was criticized for the weekend furlough program he implemented as Governor of Massachusetts, which allowed this convicted felon to escape and rape a woman in Maryland.",
+          "answer": "Horton",
+          "acceptableAnswers": [
+            "Horton",
+            "The Horton"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about influential ads during presidential campaigns.",
+      "source": "qbreader",
+      "sourceId": "62e0023a69364e383bef6ab6"
+    },
+    {
+      "id": "c863280a-3713-461c-9dda-ba725cc1ce49",
+      "linkedTossupId": "c607666b-5f43-4abe-a259-51ce405e861b",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name these devices that excite particles to produce a collimated beam of coherent light.",
+          "answer": "laser",
+          "acceptableAnswers": [
+            "laser",
+            "light amplification by stimulated emission of radiation",
+            "The laser"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In order to function, the gain medium must exist in this situation, in which more particles are in higher-energy states than lower-energy states.",
+          "answer": "population inversion",
+          "acceptableAnswers": [
+            "population inversion",
+            "The population inversion"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "A precursor to the development of lasers was the invention of masers, which amplify this form of radiation instead of visible light. This wavelength of light also names the background radiation leftover from the Big Bang.",
+          "answer": "microwave",
+          "acceptableAnswers": [
+            "microwave",
+            "The microwave"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In 2019, Donna Strickland became the third woman ever to win a Nobel Prize in Physics for her work on chirped pulse amplification in these devices. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e0023a69364e383bef6a1b"
+    }
+  ]
+}

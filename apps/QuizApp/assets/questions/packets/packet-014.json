@@ -1,0 +1,1146 @@
+{
+  "packetId": "packet-014",
+  "version": "1.0.0",
+  "generatedAt": "2026-01-10T22:48:15.384Z",
+  "difficulty": "mixed",
+  "categories": [
+    "Human Body",
+    "Literature",
+    "Science",
+    "Fine Arts",
+    "Geography",
+    "Philosophy",
+    "History"
+  ],
+  "tossups": [
+    {
+      "id": "22c45238-e435-4d5f-a3cd-84d471123733",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "text": "This anatomical structure, studied extensively in clinical medicine, this structure is essential for cardiac cycle. It plays a key role in the cardiovascular system and is one of the most studied parts of human anatomy. For ten points, name this systole-related structure.",
+      "powerMarkPosition": 95,
+      "answer": "Systole",
+      "acceptableAnswers": [
+        "systole",
+        "Systole"
+      ],
+      "explanation": "The systole is a key component of the Cardiovascular system, involved in cardiac cycle.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "29e0c6c2-ac0f-47d4-9ad9-30910eeb389c",
+      "category": "Human Body",
+      "subcategory": "Musculoskeletal",
+      "difficulty": "college",
+      "text": "In human physiology, this structure is essential for joint movements. It plays a key role in the musculoskeletal system and is one of the most studied parts of human anatomy. For ten points, name this synovial-related structure.",
+      "powerMarkPosition": 79,
+      "answer": "Synovial",
+      "acceptableAnswers": [
+        "synovial",
+        "Synovial"
+      ],
+      "explanation": "The synovial is a key component of the Musculoskeletal system, involved in joint movements.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ceb341a9-a46f-4d68-8a8f-b51c2f5203c4",
+      "category": "Literature",
+      "subcategory": "European Literature",
+      "difficulty": "open",
+      "text": "One poem by this writer recounts the stories of Orpheus and Aphrodite beforedeclaring that the gods and goddesses are crying; that poem begins \"Even thebeautiful must die\". This author of (+) N ̈anie wrote a play in whichMelchtal and a council representing three territories agree to postpone a revolt until Christmas. In that play, John Parricida dresses as a monk to visit the title character, who had helped Baumgarten escape during a storm in Ruodi's boat. This poet wrote \"Every man becomes a brother/ Where thy gentle wings abide\" in a work dedicated to the \"daughter of Elysium\". The protagonist of the aforementioned play is imprisoned by Gessler for refusing to salute a hat on a pole despite shooting an apple from his son's head. For ten points, name this writer of Ode to Joy and William Tell.",
+      "powerMarkPosition": 446,
+      "answer": "Friedrich Schiller",
+      "acceptableAnswers": [
+        "Friedrich Schiller",
+        "The Friedrich Schiller"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a5a78"
+    },
+    {
+      "id": "a2b6f19a-86ce-425b-95ea-fde4f1d92293",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "high_school",
+      "text": "Cryptodires and pleurodires differ by the plane in which this structure is compressed. This structure's components include the atlas and axis. Zygapophyses help align the components of this structure. The branchial arches attach to this structure. Early 21st-century research showed that the simplest extant organisms to have this structure are hagfish. The sacrum and coccyx are fused portions of this structure. Lancelets and tunicates lack this structure but still have a notochord, while the rest of phylum Chordata has both. For 10 points, name this structure that defines vertebrates, also called the backbone.",
+      "powerMarkPosition": 357,
+      "answer": "spine",
+      "acceptableAnswers": [
+        "spine",
+        "backbone before mention",
+        "accept neck until “branchial”",
+        "accept vertebral column",
+        "spinal column",
+        "prompt on vertebrae",
+        "do not accept",
+        "prompt on “spinal cord”",
+        "The spine"
+      ],
+      "source": "qbreader",
+      "sourceId": "6765cbd26221936d638851b8"
+    },
+    {
+      "id": "a4382ada-6713-4890-9c5c-f031c8fb683a",
+      "category": "Fine Arts",
+      "subcategory": "Visual Fine Arts",
+      "difficulty": "middle_school",
+      "text": "This technique is used to an extreme degree in Andrea Mantegna's work Lamentation of Christ. Filippo Brunelleschi conducted \"experiments\" in this technique, which results in foreshortening of central objects. Hallways appear to converge to a single distant point in the \"one-point\" variety of this artistic technique. For 10 points, name this art technique that depicts objects with depth as they are seen by the eye.",
+      "powerMarkPosition": 269,
+      "answer": "perspective",
+      "acceptableAnswers": [
+        "perspective",
+        "foreshortening before mention",
+        "The perspective"
+      ],
+      "source": "qbreader",
+      "sourceId": "65666dff443a0a5dea004493"
+    },
+    {
+      "id": "fadef1d1-244a-41e6-993d-130abc89a621",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "text": "A foreign project in this country gave, and then revoked, running water to villagers in Crawfish Rock. A law in this country allows loosely regulated Zones for Employment and Economic Development, or ZEDEs (\"SAY-dess\"). Economist Paul Romer disaffiliated with a project located on Roatán (\"roh-uh-TAN\"), part of this country's Bay Islands, which set up Próspera, a self-governed \"charter city.\" This non-U.S. country is home to about 200,000 mixed Black and indigenous Garifuna (\"guh-REE-foo-nuh\") people. In 2022, it changed the dark blue on its flag to a lighter turquoise, but kept the five stars in an X shape in the center. Its second most populous city, San Pedro Sula, is in its northwest, but not as far west as its one major Maya ruin site, Copán (\"koh-PAN\"). For 10 points, name this Latin American country whose first woman president, Xiomara (\"see-oh-MAH-rah\") Castro, lives in its capital Tegucigalpa (\"teh-GOO-see-GAL-pah\").",
+      "powerMarkPosition": 505,
+      "answer": "Honduras",
+      "acceptableAnswers": [
+        "Honduras",
+        "República de Honduras",
+        "The Honduras"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ede294c53e50a0513633cd"
+    },
+    {
+      "id": "cfc98609-0afd-4dc8-b860-d509ccbc3863",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "Mafia Island lies off the coast of this country, which also contains the Ngorongoro Crater in its north. This country's Gombe National Park was home to Jane Goodall's chimpanzee studies. Three large lakes border this country; one of them, Lake Tanganyika, named the republic that combined with Zanzibar to form this country. Home to Dar es Salaam, name this African country, which contains such landmarks as the Serengeti Plain and Mt. Kilimanjaro.",
+      "powerMarkPosition": 293,
+      "answer": "Tanzania",
+      "acceptableAnswers": [
+        "Tanzania",
+        "The Tanzania"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d0867240107e0f1f7f"
+    },
+    {
+      "id": "58198937-283f-400e-b124-9ebe25d0570b",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "These objects have non-vanishing off-diagonal matrix elements which are equal to the square roots of the natural numbers. The second quantization formalism is expressed in terms of these objects in a Fock space. The Holstein-Primakoff transformation relates the spin operators to these objects for bosons. For bosons, these objects satisfy a canonical commutation relation, while they are related by an anticommutator for fermions. Multiplying these operators gives an operator that counts the amount of particles in a state, called the number operator. They are used to find the energy eigenvalues of the quantum harmonic oscillator without directly solving the Schrödinger equation. For 10 points, name these operators that increase or decrease a system's eigenvalue by one unit.",
+      "powerMarkPosition": 482,
+      "answer": "ladder",
+      "acceptableAnswers": [
+        "ladder",
+        "The ladder"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e0ada5f59865e1289cb08b"
+    },
+    {
+      "id": "33a49703-62c5-4d83-b2ee-e58eae700fa8",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "text": "CHCA, HPA, and ATT crystals are common supports for instances of this technique whose analytes are highly susceptible to damage. Analytes are heated in a vacuum in a version of this technique that relies on blackbody infrared radiative dissociation. Performing this technique on aromatic analytes can result in the formation of an unstable tropylium (\"tro-PILL-ee-um\") ion. Samples for this technique can be prepared via desorption from a matrix made of an aromatic acid such as sinapinic acid. Analytes undergo soft ionization by either electrospray ionization or MALDI (\"MALL-dee\") in the first step of this technique. The kinetic energy of analytes in this technique is measured in its \"time of flight\" variant. For 10 points, name this technique that measures an analyte's mass-to-charge ratio.",
+      "powerMarkPosition": 373,
+      "answer": "mass spec",
+      "acceptableAnswers": [
+        "mass spec",
+        "MS",
+        "accept tandem mass spectrometry",
+        "accept time of flight mass spectrometry",
+        "prompt on ionization",
+        "soft ionization",
+        "MALDI",
+        "electrospray ionization until read by asking “what larger technique is that a part of?”",
+        "The mass spec"
+      ],
+      "source": "qbreader",
+      "sourceId": "65ba878cca6edbbc92a5d400"
+    },
+    {
+      "id": "a07466ee-1686-4481-9da3-c547c4f0f493",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "text": "For some reason, this website cautions \"warning ! dreaded pdf format !\" whenever it links to a PDF file. A blog on this site promises \"news, links, musings, and the occasional tirade,\" and calls this website an \"amorphous entity\" started by a \"local barkeep.\" This site's sections include \"New,\" \"the Best,\" \"the Rest,\" and an impressively detailed index section. A typical posting on this site includes a one-line comment called \"Our Assessment\" followed by a summary, including quotes, of the opinions of other critics. A 2016 book by this website's founder is called this site's \"guide to contemporary world fiction.\" This website includes a blog called the Literary Saloon. For 10 points, M. A. Orthofer runs what site with thousands of literary reviews, particularly of fiction in translation?",
+      "powerMarkPosition": 512,
+      "answer": "Complete Review",
+      "acceptableAnswers": [
+        "Complete Review",
+        "The Complete Review Guide to Contemporary World Fiction",
+        "The Complete Review"
+      ],
+      "source": "qbreader",
+      "sourceId": "640020a88d3cf1e72e234495"
+    },
+    {
+      "id": "116d1a93-49c9-40a7-b22a-e752163b5f9b",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "text": "The Samina River originates in this country and flows into this country's only eastern neighbor. This country is split into two electoral districts called Oberland and Unterland, the latter containing the largest city of Schaan. Outside of Asia, this is the only doubly landlocked country. The Rhine River forms its entire western border and Grauspitz, its tallest mountain, sits on its border with Switzerland. For 10 points, name this tiny municipality located in the Alps, with capital Vaduz.",
+      "powerMarkPosition": 269,
+      "answer": "Liechtenstein",
+      "acceptableAnswers": [
+        "Liechtenstein",
+        "The Liechtenstein"
+      ],
+      "source": "qbreader",
+      "sourceId": "639f7290036417219c961e67"
+    },
+    {
+      "id": "ed06943d-b689-413f-895f-79ecd17f9fe3",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "middle_school",
+      "text": "The Pretakhanda section of the Garuda Purana recommends against performing this ritual for a child younger than three. This ritual is forbidden to Zoroastrians, since this action fills Atar with the impurities of a human body. In Hinduism, less than a day should elapse between death and this process, after which relatives may take their loved one's remains to the river Ganges to scatter them. For 10 points, name this process in which a person's body is reduced to ashes.",
+      "powerMarkPosition": 277,
+      "answer": "cremation",
+      "acceptableAnswers": [
+        "cremation",
+        "The cremation"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc004eb5"
+    },
+    {
+      "id": "21b3a32b-0063-4414-8d82-f27fa0f547e4",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "open",
+      "text": "This man's namesake number is the ratio of sensible heat to specific heat, and while researching the rate that an ice layer forms on water, this man created a class of partial differential equations in which the phase boundary moves with time. With Maxwell, this scientist names an equation that describes multi-component diffusion, and this man's namesake flow is driven by particles being removed or added at an interface. He's the first namesake of an equation used to calculate the luminosity of stars when multiplied by 4 pi r squared, and is derived by either using the Maxwell relations with 3P equals u or integrating Planck's law over a half-sphere. Also the namesake of a constant equal to 5.67 times 10 to the negative 8. For 10 points, name this physicist who, with Boltzmann, names a law of blackbody radiation, a Slovenian.",
+      "powerMarkPosition": 424,
+      "answer": "Stefan",
+      "acceptableAnswers": [
+        "Stefan",
+        "The Stefan"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6bd28e96d73a0dccd5d6b"
+    },
+    {
+      "id": "89d30c94-3e63-44b4-9f46-af2c111f8758",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "text": "Barry Popik's research revealed that the earliest instances of a phrase pairing these two words were in Christopher Bullock's Cobbler of Preston and Edward Ward's Dancing Devils. Andreas Petersen designed a resource-denying mono-white Magic: The Gathering deck named after these two words. A Dorothy Parker collection is named after these two words, which are both negated in the title of a 2011 New Yorker profile of Peter Thiel (TEEL). A phrase pairing these two words appears in a letter to Jean-Baptiste Leroy noting that the U.S. Constitution has been established and \"has an appearance that promises permanency.\" Ben Franklin said that \"in this world nothing can be said to be certain\" except, for 10 points, what two eventualities that reflect human mortality and the need for a government to fund itself?",
+      "powerMarkPosition": 289,
+      "answer": "death",
+      "acceptableAnswers": [
+        "death",
+        "answers in either order",
+        "accept word forms of either answer such as dying",
+        "taxation",
+        "accept “No Death",
+        "No Taxes”",
+        "The death"
+      ],
+      "source": "qbreader",
+      "sourceId": "64307e9f1357bcd3ef98b7a4"
+    },
+    {
+      "id": "37b27945-407b-4bda-96fd-e616d0bacd8c",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "college",
+      "text": "Backed by Alexander Mackenzie's 3rd Division, this man led the 48th Foot during a battle that earned this man the title Viscount of Talavera. As Prime Minister, this man challenged Lord of Winchilsea to a duel to save his honor after passing the Catholic Relief Act. As a commander, this man defeated the armies of Scindia and Berar during the Second Maratha War at the battle of Assaye. This officer helped liberate Madrid two months after winning the Battle of Salamanca during the Peninsular War, and he worked with Prussian officer Gebhard von Blucher to help exile a French general to St. Helena. For 10 points, name this British commander who defeated Napoleon at the Battle of Waterloo.",
+      "powerMarkPosition": 379,
+      "answer": "Wellesley",
+      "acceptableAnswers": [
+        "Wellesley",
+        "1st Duke of Wellington",
+        "Marquess Douro",
+        "Marquess of Wellington",
+        "Earl of Wellington",
+        "Viscount Wellington of Talavera and of Wellington",
+        "Baron Douro",
+        "The Wellesley"
+      ],
+      "source": "qbreader",
+      "sourceId": "62d98018f67c8a6f6e0ab948"
+    },
+    {
+      "id": "cd66e61c-caf7-4112-b5ba-5d774614d1da",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "middle_school",
+      "text": "Jan Ingenhousz [yan in-GIN-hush] is most commonly credited with discovering this process. This process, which requires molecules such as RuBisCo [roo-BISS-koh], comes in both C4 and the more common C3 types. The light-dependent reaction in this process takes place within the thylakoid [\"THIGH\"-luh-koyd] membrane, while the light-independent stage takes place in the stroma. The light-independent stage is better known as the Calvin cycle. For ten points, name this process plants use to convert sunlight energy into glucose.",
+      "powerMarkPosition": 275,
+      "answer": "photosynthesis",
+      "acceptableAnswers": [
+        "photosynthesis",
+        "The photosynthesis"
+      ],
+      "source": "qbreader",
+      "sourceId": "676f723df56e0dff73abedde"
+    },
+    {
+      "id": "0246e4cd-038e-4deb-8860-4fb06198a2f8",
+      "category": "Philosophy",
+      "subcategory": "Religion",
+      "difficulty": "open",
+      "text": "While this figure was playing as a child, a heavenly spirit joined his game and turned into a monster, but this man remained unphased, earning his most common name. Due to the prosperity he created in his parent's kingdom while still in the womb, this man was first named Vardaman. In a famous episode of suffering, this figure would be bitten by the serpent, Chandakaushik. This man's mother Trishala was a notable follower of Lord Parshvanath, but this figure added a fifth Great Vow to Parshvanath's four. The most famous Ganadharas were followers of this man. For 10 points, name this figure known by Svetmbaras and Digambaras alike as the twenty fourth tirthankar of Jainism",
+      "powerMarkPosition": 281,
+      "answer": "Mahavira",
+      "acceptableAnswers": [
+        "Mahavira",
+        "Vardaman before mentioned",
+        "The Mahavira"
+      ],
+      "source": "qbreader",
+      "sourceId": "62ec4057d6777289bcae8cf2"
+    },
+    {
+      "id": "08a0ec6d-8f8a-42f5-bee3-bc01e15e8ac8",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "text": "While working in this region, Leonid Rogozov gave himself an emergency appendectomy. Air New Zealand Flight 901, a sightseeing flight, crashed into the side of this region's Mount Erebus in 1979. This region is divided into sectors controlled by countries like Chile, Australia, and the United States. Ernest Shackleton, Robert Scott, Roald Amundsen used sled dogs and icebreaking ships to explore, for 10 points, what nearly uninhabited continent, the home of the South Pole?",
+      "powerMarkPosition": 260,
+      "answer": "Antarctica",
+      "acceptableAnswers": [
+        "Antarctica",
+        "The Antarctica"
+      ],
+      "source": "qbreader",
+      "sourceId": "63d6af74789ea9cdfc0050eb"
+    },
+    {
+      "id": "cf9679af-b59a-47e7-bb78-cdd6e024955c",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "text": "Doc Daneeka is a self-absorbed doctor in this novel, which sees Major de Coverley rent apartments for soldiers on leave. Nately loves an Italian whore, and Major Major Major is promoted to Major while still a new recruit. This novel's protagonist obsesses over Snowden's death and observes the ultra-capitalist dealings of Milo Minderbinder in, for 10 points, what work by Joseph Heller about the company of Captain John Yossarian?",
+      "powerMarkPosition": 260,
+      "answer": "Catch-22",
+      "acceptableAnswers": [
+        "Catch-22",
+        "The Catch-22"
+      ],
+      "source": "qbreader",
+      "sourceId": "663809d1867240107e0f2002"
+    },
+    {
+      "id": "f6831f4e-b272-4ea9-9cc6-57dc635363da",
+      "category": "History",
+      "subcategory": "Ancient History",
+      "difficulty": "middle_school",
+      "text": "This city's Gerousia governing body included two jointly-ruling kings. This city's education system, the agoge [ah-goh-gay], was established by Lycurgus to induct this city's boys into its army. The helots were a class of slaves in this city, whose king Leonidas was defeated by the Persians at the Battle of Thermopylae. For 10 points, name this militaristic Greek city-state that frequently fought with Athens.",
+      "powerMarkPosition": 143,
+      "answer": "Sparta",
+      "acceptableAnswers": [
+        "Sparta",
+        "The Sparta"
+      ],
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba97200"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "69a537a1-673f-4ece-9c36-5413353edf3f",
+      "linkedTossupId": "22c45238-e435-4d5f-a3cd-84d471123733",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with arteries vs veins vs capillaries.",
+          "answer": "aorta",
+          "acceptableAnswers": [
+            "aorta"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the aorta in the cardiovascular system?",
+          "answer": "Arteries vs veins vs capillaries",
+          "acceptableAnswers": [
+            "Arteries vs veins vs capillaries"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to arteries vs veins vs capillaries.",
+          "answer": "vena cava",
+          "acceptableAnswers": [
+            "vena cava"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "ce730ff7-d5a0-456c-bf56-f1d3a8a1b26a",
+      "linkedTossupId": "29e0c6c2-ac0f-47d4-9ad9-30910eeb389c",
+      "category": "Human Body",
+      "subcategory": "Cardiovascular",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name the primary structure associated with cardiac cycle.",
+          "answer": "systole",
+          "acceptableAnswers": [
+            "systole"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "What is the main function of the systole in the cardiovascular system?",
+          "answer": "Cardiac cycle",
+          "acceptableAnswers": [
+            "Cardiac cycle"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Name another component of the cardiovascular system related to cardiac cycle.",
+          "answer": "diastole",
+          "acceptableAnswers": [
+            "diastole"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer these questions about the human cardiovascular system.",
+      "source": "ai-generated"
+    },
+    {
+      "id": "c90d1591-0265-4874-bc4f-70fffa9125a7",
+      "linkedTossupId": "ceb341a9-a46f-4d68-8a8f-b51c2f5203c4",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this character who is enraged by the protagonist's offer of a handshake, mockingly called \"de secret grip of our order,\" leading this character to crush the protagonist to death.",
+          "answer": "gorilla",
+          "acceptableAnswers": [
+            "gorilla",
+            "the hairy ape from The Hairy Ape",
+            "The gorilla"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Yank, and not the gorilla, is arguably the true title character of The Hairy Ape by this American playwright, who also wrote Long Day's Journey into Night.",
+          "answer": "O’Neill",
+          "acceptableAnswers": [
+            "O’Neill",
+            "The O’Neill"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In The Hairy Ape, Yank has this profession. So does Mat Lucas, who attempts to wed the title character of O'Neill's Anna Christie, despite her father's objections that she should never marry anyone of this profession.",
+          "answer": "sailor",
+          "acceptableAnswers": [
+            "sailor",
+            "ship stoker",
+            "The sailor"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "When this character is first encountered, he is described as squatting \"on a bench in much the same attitude as Rodin's 'Thinker.'\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64d58b421eb3b13d92e5778b"
+    },
+    {
+      "id": "50b775d2-de91-488f-81a2-0aaf269c2179",
+      "linkedTossupId": "a2b6f19a-86ce-425b-95ea-fde4f1d92293",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this geologic process, partially due to isostatic effects, by which mountains form.",
+          "answer": "Orogeny",
+          "acceptableAnswers": [
+            "Orogeny",
+            "The Orogeny"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Orogeny can be explained by interactions between these moving pieces of the lithosphere which float on the asthenosphere.",
+          "answer": "Tectonic Plates",
+          "acceptableAnswers": [
+            "Tectonic Plates",
+            "The Tectonic Plates"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Orogeny occurs at these areas where an oceanic plate converges with and slides beneath another tectonic plate.",
+          "answer": "Subduction Zones",
+          "acceptableAnswers": [
+            "Subduction Zones",
+            "The Subduction Zones"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This process's namesake belts include an accretionary prism, igneous arc, foreland, and craton. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "657fd7d2de6df0163bbe3948"
+    },
+    {
+      "id": "b0b31c43-0b20-4347-b139-a1aecac0689c",
+      "linkedTossupId": "a4382ada-6713-4890-9c5c-f031c8fb683a",
+      "category": "Fine Arts",
+      "subcategory": "Auditory Fine Arts",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this member of the Mighty Five, who also composed the symphonic suite Scheherazade.",
+          "answer": "Rimsky-Korsakov",
+          "acceptableAnswers": [
+            "Rimsky-Korsakov",
+            "The Rimsky-Korsakov"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Tale of Tsar Saltan includes this musical interlude, in which the Tsar's son is transformed into the title insect, who flies to the tune of frantic runs of chromatic sixteenth notes.",
+          "answer": "Flight of the Bumblebee",
+          "acceptableAnswers": [
+            "Flight of the Bumblebee",
+            "The Flight of the Bumblebee"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Rimsky-Korsakov was not the only Russian composer inspired by fairy tales; in this Tchaikovsky ballet, Princess Aurora is cursed by the evil fairy Carabosse to prick her finger on a spindle and die.",
+          "answer": "Sleeping Beauty",
+          "acceptableAnswers": [
+            "Sleeping Beauty",
+            "The Sleeping Beauty"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man's fairy tale-inspired operas include The Snow Maiden, The Golden Cockerel, and The Tale of Tsar Saltan. For 10 points each,",
+      "source": "qbreader",
+      "sourceId": "663806e8a0924256318aca10"
+    },
+    {
+      "id": "c0334d2a-7a37-4261-bd50-77cf7a0fe5c6",
+      "linkedTossupId": "fadef1d1-244a-41e6-993d-130abc89a621",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this limestone headland in North Wales which juts into the Irish Sea. 4,000 years ago, its rich malachite ores made it home to the world's largest copper mine.",
+          "answer": "Great Orne",
+          "acceptableAnswers": [
+            "Great Orne",
+            "Y Gogarth",
+            "The Great Orne"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Early Modern British copper mining, on the other hand, centered on this English county, whose Alderley Edge mines have also been used since the Bronze Age. This county, which borders North Wales, also names a type of crumbly cheese.",
+          "answer": "Cheshire",
+          "acceptableAnswers": [
+            "Cheshire",
+            "Cheshire cheese",
+            "The Cheshire"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Copper and tin have been mined for millennia in this county at the southwestern tip of England, which is the home of a Celtic language similar to Breton.",
+          "answer": "Cornwall",
+          "acceptableAnswers": [
+            "Cornwall",
+            "Kernow",
+            "The Cornwall"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This feature's English name comes from an Old Norse word for a great serpent, whose shape is evoked by the winding limestone cliffs which terminate at the lighthouse of Llandudno (\"HLAHN-dud-no\"). For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "64046cc6de59b8af97424098"
+    },
+    {
+      "id": "69f3e438-8cbc-4403-997e-46188251eb08",
+      "linkedTossupId": "cfc98609-0afd-4dc8-b860-d509ccbc3863",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "The incident occurred on the slopes of Kholat Syakhl in this mountain range. These mountains in west-central Russia form the border between Europe and Asia.",
+          "answer": "Ural",
+          "acceptableAnswers": [
+            "Ural",
+            "The Ural"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Victims of the Dyatlov Pass incident died from this condition. Unusually, people suffering from this condition may take off their clothes in a phenomenon called \"paradoxical undressing\"",
+          "answer": "hypothermia",
+          "acceptableAnswers": [
+            "hypothermia",
+            "The hypothermia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This type of natural disaster common on snowy mountains is one explanation for the Dyatlov Pass incident. In these events, large amounts of snow suddenly cascade down a mountain and sweep away obstacles in their path.",
+          "answer": "avalanche",
+          "acceptableAnswers": [
+            "avalanche",
+            "The avalanche"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "For 10 points each, answer the following about the 1959 Dyatlov Pass incident, during which 9 Russian hikers died under unusual circumstances:",
+      "source": "qbreader",
+      "sourceId": "65666dfd443a0a5dea0043e2"
+    },
+    {
+      "id": "311e5012-2bc2-4a5d-a852-c8f24538e77e",
+      "linkedTossupId": "58198937-283f-400e-b124-9ebe25d0570b",
+      "category": "Science",
+      "subcategory": "Other Science",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this type of number. They arise when taking the completion of the rational numbers with respect to a namesake, non-Euclidean norm.",
+          "answer": "p",
+          "acceptableAnswers": [
+            "p",
+            "any specific prime number in place of p"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "These numbers, on the other hand, can be constructed by taking the completion of the rational numbers with respect to the usual Euclidean absolute value. Another method of constructing these numbers involves using Dedekind cuts.",
+          "answer": "real",
+          "acceptableAnswers": [
+            "real",
+            "The real"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "All generalizations of absolute values must obey this property, which means that the absolute value of zero is zero and the absolute value of any nonzero input is strictly greater than zero. It is also a requirement of metric spaces.",
+          "answer": "positive definite",
+          "acceptableAnswers": [
+            "positive definite",
+            "The positive definite"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The absolute Galois group of a finite field is isomorphic to the group of this type of integers, since it is the inverse limit of the sequence \"Z mod p-to-the-n Z.\" For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "631a175612170ac0a81b9818"
+    },
+    {
+      "id": "9653fa65-fccf-4df6-a3b6-9610770624d2",
+      "linkedTossupId": "33a49703-62c5-4d83-b2ee-e58eae700fa8",
+      "category": "Science",
+      "subcategory": "Chemistry",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this form of chromatography which is carried out on a silica-coated glass plate.",
+          "answer": "thin-layer",
+          "acceptableAnswers": [
+            "thin-layer",
+            "TLC",
+            "The thin-layer"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Following TLC, amines and carbamates are stained by this compound, the hydrate of indane-1,2,3-trione.",
+          "answer": "ninhydrin",
+          "acceptableAnswers": [
+            "ninhydrin",
+            "2",
+            "2-dihydroxyindane-1",
+            "3-dione",
+            "The ninhydrin"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Testing using ninhydrin is used to monitor solid-phase peptide synthesis, in order to determine when the protein has unprotected sites. Solid-phase peptide synthesis is named for this biochemist.",
+          "answer": "Merrifield",
+          "acceptableAnswers": [
+            "Merrifield",
+            "Robert Bruce Merrifield",
+            "The Merrifield"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This process is often followed by viewing under a UV lamp, and the separation is often used to determine a solvent system for a column. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63d6bd28e96d73a0dccd5dcf"
+    },
+    {
+      "id": "f0f54b7a-b18c-4eaf-aa67-0c7af1d9dfdb",
+      "linkedTossupId": "a07466ee-1686-4481-9da3-c547c4f0f493",
+      "category": "Literature",
+      "subcategory": "World Literature",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "This Australian author won the Booker Prize in 2014 for his novel The Narrow Road to the Deep North.",
+          "answer": "Flanagan",
+          "acceptableAnswers": [
+            "Flanagan",
+            "The Flanagan"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Before Richard Flanagan won in 2014, this was the last Australian author to win the Booker, which he took in 2003 for his black comedy Vernon God Little.",
+          "answer": "Pierre",
+          "acceptableAnswers": [
+            "Pierre",
+            "Peter Finlay",
+            "The Pierre"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Schindler's Ark won this author the Booker in 1982.",
+          "answer": "Keneally",
+          "acceptableAnswers": [
+            "Keneally",
+            "The Keneally"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about these Australian novelists who aren't Matsuo Basho, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba961f2"
+    },
+    {
+      "id": "0a7b578b-8dca-4e7a-b510-3cbbcf687ac4",
+      "linkedTossupId": "116d1a93-49c9-40a7-b22a-e752163b5f9b",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "high_school",
+      "parts": [
+        {
+          "text": "Name this South American geopolitical entity, composed of Argentina, Chile, and Uruguay. Its name derives from its relative location on the American continent and its shape.",
+          "answer": "Southern Cone",
+          "acceptableAnswers": [
+            "Southern Cone",
+            "The Southern Cone"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Within the Southern Cone is this sparsely populated geographic region, the southern tips of Argentina and Chile. The region consists primarily of steppe-like plains.",
+          "answer": "Patagonia",
+          "acceptableAnswers": [
+            "Patagonia",
+            "The Patagonia"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The name \"Patagonia\" comes from this explorer's account of the tall natives in the region. He also names a strait located in the Southern Cone.",
+          "answer": "Magellan",
+          "acceptableAnswers": [
+            "Magellan",
+            "Fernão de Magalhães",
+            "The Magellan"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "The Monte Desert and the Pampas are two ecosystems located within this larger geographic region, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62eec31bb669367617b8c923"
+    },
+    {
+      "id": "ab944541-9e31-40cd-ae0d-60eb47c4076e",
+      "linkedTossupId": "ed06943d-b689-413f-895f-79ecd17f9fe3",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Empedocles proposed that there were four of these things: air, water, earth, and fire. Modern chemists recognize 118 of these, such as hydrogen and bismuth.",
+          "answer": "element",
+          "acceptableAnswers": [
+            "element",
+            "The element"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Empedocles believed that the elements were controlled by two divine powers, one of which he called Strife and the other one he gave this name. The greek words \"eros\", \"philia\", and \"agape\" all describe different kinds of this emotion.",
+          "answer": "love",
+          "acceptableAnswers": [
+            "love",
+            "The love"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Empedocles legendarily killed himself in this fashion on Mount Etna, believing that it would prove his immortality to his followers.",
+          "answer": "jumped into a volcano",
+          "acceptableAnswers": [
+            "jumped into a volcano",
+            "any obvious equivalents",
+            "prompt on \"he jumped off a cliff\"",
+            "similar answers by asking \"what was at the bottom of the cliff?\"",
+            "The jumped into a volcano"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Answer some questions about the Greek philosopher Empedocles, for 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98019f67c8a6f6e0ae045"
+    },
+    {
+      "id": "76d47342-fc81-4326-8fd3-ea6ef40871b1",
+      "linkedTossupId": "21b3a32b-0063-4414-8d82-f27fa0f547e4",
+      "category": "Science",
+      "subcategory": "Biology",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name these bony, branched structures. Animals such as deer and moose shed these structures annually in the late winter.",
+          "answer": "antler",
+          "acceptableAnswers": [
+            "antler",
+            "The antler"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Before dropping their antlers, this material falls off the antlers. Deer scrape this material off their antlers after it is no longer needed to provide blood flow.",
+          "answer": "velvet",
+          "acceptableAnswers": [
+            "velvet",
+            "The velvet"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "After male deer lose their velvet, they enter this period of increased activity. During this period, bucks use their antlers to fight each other to establish dominance.",
+          "answer": "rut",
+          "acceptableAnswers": [
+            "rut",
+            "mating season",
+            "reject breeding season",
+            "The rut"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "These structures provide a source of calcium and minerals to small mammals in regions with mineral-deficient soil. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6797c22d6d78eee804a37a2e"
+    },
+    {
+      "id": "1d474876-aa77-4921-aede-45c270471966",
+      "linkedTossupId": "89d30c94-3e63-44b4-9f46-af2c111f8758",
+      "category": "History",
+      "subcategory": "American History",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this family who were among the signatories of the charter for Rhode Island College, which is now an Ivy League University named for them in Providence.",
+          "answer": "Brown",
+          "acceptableAnswers": [
+            "Brown",
+            "Brown University",
+            "The Brown"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "The Browns hired this naval officer to captain the Sally on a slave-trading mission in 1764. This Commander-in-Chief of the Continental Navy led the 1776 Raid on Nassau while captaining the Andrew Doria, the first American ship to receive a naval salute from a foreign power.",
+          "answer": "Hopkins",
+          "acceptableAnswers": [
+            "Hopkins",
+            "The Hopkins"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This historian wrote a book titled for the \"first salute\" that Hopkins had received. She won her second Pulitzer Prize for Stillwell and the American Experience in China.",
+          "answer": "Tuchman",
+          "acceptableAnswers": [
+            "Tuchman",
+            "The Tuchman"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "In 1736, the patriarch of this family became the first Providence-based merchant to join a consortium of investors backing a slave-gathering voyage. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62fbeb03c3c9bf58ab2ab90f"
+    },
+    {
+      "id": "10adcb8f-c37a-4981-9273-5406aa8a4fd8",
+      "linkedTossupId": "37b27945-407b-4bda-96fd-e616d0bacd8c",
+      "category": "History",
+      "subcategory": "European History",
+      "difficulty": "college",
+      "parts": [
+        {
+          "text": "Name this British politician who negotiated the Locarno Pact with Aristide Briand and Gustav Stresemann, for which he won the Nobel Peace Prize.",
+          "answer": "A",
+          "acceptableAnswers": [
+            "A",
+            "Chamberlain"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "With Austen Chamberlain, this Conservative was a major advocate for British re-armament during the 1930s. He later served as Prime Minister for most of World War II.",
+          "answer": "Churchill",
+          "acceptableAnswers": [
+            "Churchill",
+            "The Churchill"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This other Conservative Prime Minister signed the Locarno Pact, and served as Prime Minister three times under three different monarchs in the 1920s and 30s.",
+          "answer": "Baldwin",
+          "acceptableAnswers": [
+            "Baldwin",
+            "The Baldwin"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This politician got into a dispute with Edmund Allenby over whether Egypt should pay a fine for the assassination of Lee Stack. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62d98017f67c8a6f6e0a4e4b"
+    },
+    {
+      "id": "206cb61a-fba1-4642-9afb-42f6adb63865",
+      "linkedTossupId": "cd66e61c-caf7-4112-b5ba-5d774614d1da",
+      "category": "Science",
+      "subcategory": "Physics",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this force which for a stationary object on a solid surface is equal in magnitude and opposite in direction to its weight.",
+          "answer": "normal",
+          "acceptableAnswers": [
+            "normal",
+            "The normal"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This type of normal force is exerted from a vertical pulley, or other system that is able to suspend an object in the air.",
+          "answer": "tension",
+          "acceptableAnswers": [
+            "tension",
+            "The tension"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This type of normal force is typically smaller in magnitude than the gravitational force, but keeps objects less dense than water from being completely submerged.",
+          "answer": "buoyant",
+          "acceptableAnswers": [
+            "buoyant",
+            "The buoyant"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This force typically acts perpendicular to the direction of motion, and is always perpendicular to the surface that an object is on. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "63e1c0ec32d1b824539f0eae"
+    },
+    {
+      "id": "722b19e2-a81f-439e-801b-5e3c760ab728",
+      "linkedTossupId": "0246e4cd-038e-4deb-8860-4fb06198a2f8",
+      "category": "Philosophy",
+      "subcategory": "Philosophy",
+      "difficulty": "open",
+      "parts": [
+        {
+          "text": "Name this Peruvian religious philosopher who teaches at Notre Dame. His 1971 book coined a term for a progressive Catholic movement.",
+          "answer": "Gutiérrez",
+          "acceptableAnswers": [
+            "Gutiérrez",
+            "Gustavo Gutiérrez Merino",
+            "The Gutiérrez"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Gutiérrez was one of the founders of this Catholic \"theology,\" which originated in Latin America and held that social justice was a crucial part of church doctrine.",
+          "answer": "liberation",
+          "acceptableAnswers": [
+            "liberation",
+            "teología de la liberación",
+            "accept The Theology of Liberation",
+            "La Teología de la liberación",
+            "The liberation"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Liberation theology was opposed by this conservative \"congregation\" in the Vatican, which was led by Joseph Ratzinger, the future Benedict XVI [\"the 16th\"]. It descended from the Roman Inquisition.",
+          "answer": "Doctrine of the Faith",
+          "acceptableAnswers": [
+            "Doctrine of the Faith",
+            "Congregatio pro Doctrina Fidei",
+            "accept CDF",
+            "Holy Office",
+            "Supreme Sacred Congregation of the Holy Office",
+            "The Doctrine of the Faith"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This man articulated the \"preferential option for the poor\" in a 1971 book. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "6361e01fec1ecd3e795a42a5"
+    },
+    {
+      "id": "082d17fd-0c5f-4a40-8da0-678f05ec66a8",
+      "linkedTossupId": "08a0ec6d-8f8a-42f5-bee3-bc01e15e8ac8",
+      "category": "Geography",
+      "subcategory": "Geography",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "This river forms the Mexican-American border for over eight hundred miles in Texas.",
+          "answer": "Grande",
+          "acceptableAnswers": [
+            "Grande",
+            "The Grande"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Hydroelectric dams on this river are a source of environmental controversy, since they make breeding difficult for its massive salmon population. This river flows through Hells Canyon on the border between Idaho and Oregon.",
+          "answer": "Snake",
+          "acceptableAnswers": [
+            "Snake",
+            "The Snake"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "An intermittent river of this name runs mostly underground for one hundred miles in southern California. This river flows under, and shares its name with, the hottest desert in America.",
+          "answer": "Mojave",
+          "acceptableAnswers": [
+            "Mojave",
+            "The Mojave"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "Give the following about rivers of the American west, for 10 points each.",
+      "source": "qbreader",
+      "sourceId": "62e05b9cf7cf60c9cba971a5"
+    },
+    {
+      "id": "40db1c78-77b5-4b1a-8430-497317dc77dc",
+      "linkedTossupId": "cf9679af-b59a-47e7-bb78-cdd6e024955c",
+      "category": "Literature",
+      "subcategory": "American Literature",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this American author who wrote about the ferocious Captain Larsen in the novelThe Sea-Wolf, andabout Buck, a dog who becomes wolflike, in another novel.",
+          "answer": "London",
+          "acceptableAnswers": [
+            "London",
+            "The London"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Buck appears in this Jack London novel, in which he avenges John Thornton before joining an Alaskan wolfpack, thereby answering the title summons.",
+          "answer": "Call of the Wild",
+          "acceptableAnswers": [
+            "Call of the Wild",
+            "The Call of the Wild"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "In this other Jack London novel, often contrasted withThe Call of the Wild, the title wolf-dog fights withLip-Lip while adjusting to domestication.",
+          "answer": "White Fang",
+          "acceptableAnswers": [
+            "White Fang",
+            "The White Fang"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This author really liked writing about wolves. And dogs! And dogs that became wolves! For ten pointseach,",
+      "source": "qbreader",
+      "sourceId": "6837af63278db02eb79f1ce2"
+    },
+    {
+      "id": "e3f1c298-a55d-4e4c-aefa-05e7ad3eb5b3",
+      "linkedTossupId": "f6831f4e-b272-4ea9-9cc6-57dc635363da",
+      "category": "History",
+      "subcategory": "World History",
+      "difficulty": "middle_school",
+      "parts": [
+        {
+          "text": "Name this period of rapid industrialization and modernization under a namesake emperor from 1869 to 1912 in Japan. The goals of the Emperor, restored to full power, were outlined in the Charter Oath.",
+          "answer": "Meiji",
+          "acceptableAnswers": [
+            "Meiji",
+            "The Meiji"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "Under the Meiji Restoration, the capital of Japan was moved from Kyoto to this city, Japan's current capital. It is also currently the most populous city in the world.",
+          "answer": "Tokyo",
+          "acceptableAnswers": [
+            "Tokyo",
+            "The Tokyo"
+          ],
+          "pointValue": 10
+        },
+        {
+          "text": "This man was the Emperor of Japan during World War II. After Japan's defeat, he renounced the imperial claim to divinity and became a figurehead monarch as the country democratized.",
+          "answer": "Hirohito",
+          "acceptableAnswers": [
+            "Hirohito",
+            "The Hirohito"
+          ],
+          "pointValue": 10
+        }
+      ],
+      "leadin": "This period succeeded the Tokugawa Shogunate. For 10 points each:",
+      "source": "qbreader",
+      "sourceId": "62e1a301ab47ea79abd6b830"
+    }
+  ]
+}
