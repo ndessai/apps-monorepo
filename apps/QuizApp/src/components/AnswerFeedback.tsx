@@ -53,6 +53,7 @@ export const AnswerFeedback: React.FC<AnswerFeedbackProps> = ({
   const [timeRemaining, setTimeRemaining] = useState(Math.ceil(reviewTimeMs / 1000));
   const timerRef = useRef<TimerRef>(null);
   const hasCalledCompleteRef = useRef(false);
+  const pulseAnim = useRef(new Animated.Value(1)).current;
 
   // Animate sheet visibility
   useEffect(() => {
@@ -101,13 +102,45 @@ export const AnswerFeedback: React.FC<AnswerFeedbackProps> = ({
     };
   }, [visible, reviewTimeMs, onReviewComplete]);
 
+  // Pulse animation for countdown timer
+  useEffect(() => {
+    if (visible && timeRemaining > 0) {
+      Animated.sequence([
+        Animated.timing(pulseAnim, {
+          toValue: 1.15,
+          duration: 150,
+          useNativeDriver: true,
+        }),
+        Animated.timing(pulseAnim, {
+          toValue: 1,
+          duration: 150,
+          useNativeDriver: true,
+        }),
+      ]).start();
+    }
+  }, [timeRemaining, visible, pulseAnim]);
+
   if (!visible) {
     return null;
   }
 
-  const statusColor = isCorrect ? colors.success.main : colors.error.main;
-  const statusIcon = isCorrect ? 'check-circle' : 'close-circle';
-  const statusText = isCorrect ? 'Correct!' : 'Incorrect';
+  // Determine status based on correctness and whether an answer was submitted
+  const noAnswerSubmitted = !userAnswer || userAnswer.trim() === '';
+  const statusColor = isCorrect
+    ? colors.success.main
+    : noAnswerSubmitted
+      ? colors.warning.main
+      : colors.error.main;
+  const statusIcon = isCorrect
+    ? 'check-circle'
+    : noAnswerSubmitted
+      ? 'clock-outline'
+      : 'close-circle';
+  const statusText = isCorrect
+    ? 'Correct!'
+    : noAnswerSubmitted
+      ? "Time's Up!"
+      : 'Incorrect';
 
   // Format points display
   const getPointsDisplay = () => {
@@ -201,11 +234,13 @@ export const AnswerFeedback: React.FC<AnswerFeedbackProps> = ({
             <Text variant="bodySmall" style={styles.timerLabel}>
               {questionType === 'tossup' ? 'Next question in' : 'Next part in'}
             </Text>
-            <View style={styles.timerBadge}>
-              <Text variant="labelLarge" style={styles.timerText}>
+            <Animated.View
+              style={[styles.timerBadge, { transform: [{ scale: pulseAnim }] }]}
+            >
+              <Text variant="headlineSmall" style={styles.timerText}>
                 {timeRemaining}s
               </Text>
-            </View>
+            </Animated.View>
           </View>
         </View>
       </Animated.View>
@@ -296,10 +331,12 @@ const styles = StyleSheet.create({
     marginRight: spacing.sm,
   },
   timerBadge: {
-    paddingHorizontal: spacing.md,
-    paddingVertical: spacing.xs,
+    paddingHorizontal: spacing.lg,
+    paddingVertical: spacing.sm,
     backgroundColor: colors.primary.main,
     borderRadius: radius.full,
+    minWidth: 60,
+    alignItems: 'center',
   },
   timerText: {
     color: colors.surface.default,
