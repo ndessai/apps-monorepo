@@ -358,11 +358,41 @@ interface QuizFilters {
   packetId?: string;
 }
 
+// Target number of tossups to load
+const TARGET_TOSSUP_COUNT = 25;
+// Minimum questions per category
+const MIN_QUESTIONS_PER_CATEGORY = 2;
+
+// All categories for distribution
+const ALL_CATEGORIES: QuestionCategory[] = [
+  'Science',
+  'Literature',
+  'History',
+  'Fine Arts',
+  'Geography',
+  'Social Science',
+  'Mathematics',
+  'Mythology',
+  'Philosophy',
+];
+
+/**
+ * Map NAQTDifficulty settings to QuestionDifficulty values
+ * jv_high_school maps to high_school since questions use high_school
+ */
+function mapSettingsDifficultyToQuestion(settingsDifficulty: string): QuestionDifficulty {
+  if (settingsDifficulty === 'jv_high_school') {
+    return 'high_school';
+  }
+  return settingsDifficulty as QuestionDifficulty;
+}
+
 /**
  * Load questions from JSON file
- * @param isOnboarding - If true, loads sample questions; otherwise loads a random packet
+ * @param isOnboarding - If true, loads sample questions; otherwise loads questions filtered by difficulty
+ * @param difficulty - Optional difficulty level to filter questions (used when not onboarding)
  */
-export async function loadQuestions(isOnboarding: boolean = false): Promise<QuizData> {
+export async function loadQuestions(isOnboarding: boolean = false, difficulty?: string): Promise<QuizData> {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
       try {
@@ -372,13 +402,8 @@ export async function loadQuestions(isOnboarding: boolean = false): Promise<Quiz
           // Load sample questions for onboarding (2 tossups + bonuses)
           quizData = sampleQuestions as QuizData;
         } else {
-          // Load a random packet for regular quiz
-          const randomIndex = Math.floor(Math.random() * PACKETS.length);
-          const packet = PACKETS[randomIndex];
-          quizData = {
-            tossups: packet.tossups,
-            bonuses: packet.bonuses,
-          } as QuizData;
+          // Load questions filtered by difficulty with category distribution
+          quizData = loadQuestionsWithDistribution(difficulty);
         }
 
         if (!validateQuizData(quizData)) {
@@ -392,6 +417,140 @@ export async function loadQuestions(isOnboarding: boolean = false): Promise<Quiz
       }
     }, 100);
   });
+}
+
+/**
+ * Load questions with category distribution for a given difficulty
+ * Ensures at least MIN_QUESTIONS_PER_CATEGORY from each category, up to TARGET_TOSSUP_COUNT total
+ */
+function loadQuestionsWithDistribution(difficulty?: string): QuizData {
+  // Map the settings difficulty to question difficulty
+  const targetDifficulty = difficulty ? mapSettingsDifficultyToQuestion(difficulty) : undefined;
+
+  // Collect all tossups and bonuses from all packets
+  const allTossups: TossupQuestion[] = [];
+  const allBonuses: BonusQuestion[] = [];
+
+  for (const packet of PACKETS) {
+    allTossups.push(...(packet.tossups as TossupQuestion[]));
+    allBonuses.push(...(packet.bonuses as BonusQuestion[]));
+  }
+
+  // Filter tossups by difficulty if specified
+  let filteredTossups = allTossups;
+  if (targetDifficulty) {
+    filteredTossups = allTossups.filter((t) => t.difficulty === targetDifficulty);
+  }
+
+  // If not enough questions at exact difficulty, include adjacent difficulties
+  if (filteredTossups.length < TARGET_TOSSUP_COUNT && targetDifficulty) {
+    const difficultyOrder: QuestionDifficulty[] = ['middle_school', 'high_school', 'college', 'open'];
+    const targetIndex = difficultyOrder.indexOf(targetDifficulty);
+
+    // Include adjacent difficulties if needed
+    const adjacentDifficulties: QuestionDifficulty[] = [targetDifficulty];
+    if (targetIndex > 0) {
+      adjacentDifficulties.push(difficultyOrder[targetIndex - 1]);
+    }
+    if (targetIndex < difficultyOrder.length - 1) {
+      adjacentDifficulties.push(difficultyOrder[targetIndex + 1]);
+    }
+
+    filteredTossups = allTossups.filter((t) => adjacentDifficulties.includes(t.difficulty));
+  }
+
+  // Group tossups by category
+  const tossupsByCategory: Record<string, TossupQuestion[]> = {};
+  for (const category of ALL_CATEGORIES) {
+    tossupsByCategory[category] = filteredTossups.filter((t) => t.category === category);
+  }
+
+  // Also collect tossups from categories not in ALL_CATEGORIES
+  const otherTossups = filteredTossups.filter(
+    (t) => !ALL_CATEGORIES.includes(t.category)
+  );
+
+  // Select questions ensuring category distribution
+  const selectedTossups: TossupQuestion[] = [];
+  const usedIds = new Set<string>();
+
+  // First pass: ensure minimum questions per category
+  for (const category of ALL_CATEGORIES) {
+    const categoryTossups = tossupsByCategory[category];
+    if (categoryTossups.length === 0) continue;
+
+    // Shuffle to get random selection
+    const shuffled = shuffleArray([...categoryTossups]);
+    const toSelect = Math.min(MIN_QUESTIONS_PER_CATEGORY, shuffled.length);
+
+    for (let i = 0; i < toSelect && selectedTossups.length < TARGET_TOSSUP_COUNT; i++) {
+      if (!usedIds.has(shuffled[i].id)) {
+        selectedTossups.push(shuffled[i]);
+        usedIds.add(shuffled[i].id);
+      }
+    }
+  }
+
+  // Second pass: fill remaining slots with random questions from all categories
+  if (selectedTossups.length < TARGET_TOSSUP_COUNT) {
+    // Combine remaining tossups from all categories
+    const remainingTossups = filteredTossups.filter((t) => !usedIds.has(t.id));
+    const shuffledRemaining = shuffleArray([...remainingTossups]);
+
+    for (const tossup of shuffledRemaining) {
+      if (selectedTossups.length >= TARGET_TOSSUP_COUNT) break;
+      if (!usedIds.has(tossup.id)) {
+        selectedTossups.push(tossup);
+        usedIds.add(tossup.id);
+      }
+    }
+  }
+
+  // If still not enough, add from other categories
+  if (selectedTossups.length < TARGET_TOSSUP_COUNT && otherTossups.length > 0) {
+    const shuffledOther = shuffleArray([...otherTossups]);
+    for (const tossup of shuffledOther) {
+      if (selectedTossups.length >= TARGET_TOSSUP_COUNT) break;
+      if (!usedIds.has(tossup.id)) {
+        selectedTossups.push(tossup);
+        usedIds.add(tossup.id);
+      }
+    }
+  }
+
+  // Shuffle the final selection so categories are mixed
+  const finalTossups = shuffleArray(selectedTossups);
+
+  // Find matching bonuses for selected tossups
+  const selectedBonuses: BonusQuestion[] = [];
+  const bonusMap = new Map<string, BonusQuestion>();
+  for (const bonus of allBonuses) {
+    bonusMap.set(bonus.linkedTossupId, bonus);
+  }
+
+  for (const tossup of finalTossups) {
+    const bonus = bonusMap.get(tossup.id);
+    if (bonus) {
+      selectedBonuses.push(bonus);
+    }
+  }
+
+  return {
+    tossups: finalTossups,
+    bonuses: selectedBonuses,
+  };
+}
+
+/**
+ * Shuffle array using Fisher-Yates algorithm
+ */
+function shuffleArray<T>(array: T[]): T[] {
+  const shuffled = [...array];
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
 }
 
 /**
