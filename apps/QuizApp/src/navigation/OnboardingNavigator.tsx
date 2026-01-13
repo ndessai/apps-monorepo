@@ -15,6 +15,7 @@ import {
   AudioFeedbackScreen,
   VoiceSettingsScreen,
   TimerSettingsScreen,
+  DifficultySettingsScreen,
   SampleQuizIntroScreen,
 } from '../screens/onboarding';
 import { QuizScreen, QuizResultsScreen } from '../screens';
@@ -63,6 +64,12 @@ export const OnboardingNavigator: React.FC = () => {
       <Stack.Screen
         name="TimerSettings"
         component={TimerSettingsScreen}
+        options={{ headerShown: false }}
+      />
+
+      <Stack.Screen
+        name="DifficultySettings"
+        component={DifficultySettingsScreen}
         options={{ headerShown: false }}
       />
 

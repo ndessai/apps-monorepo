@@ -37,6 +37,7 @@ export type OnboardingStackParamList = {
   AudioFeedback: undefined;
   VoiceSettings: undefined;
   TimerSettings: undefined;
+  DifficultySettings: undefined;
   SampleQuizIntro: undefined;
   Quiz: { isOnboarding: true };
   QuizResults: {

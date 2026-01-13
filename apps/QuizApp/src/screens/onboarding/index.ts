@@ -7,4 +7,5 @@ export { ThemeSelectionScreen } from './ThemeSelectionScreen';
 export { AudioFeedbackScreen } from './AudioFeedbackScreen';
 export { VoiceSettingsScreen } from './VoiceSettingsScreen';
 export { TimerSettingsScreen } from './TimerSettingsScreen';
+export { DifficultySettingsScreen } from './DifficultySettingsScreen';
 export { SampleQuizIntroScreen } from './SampleQuizIntroScreen';

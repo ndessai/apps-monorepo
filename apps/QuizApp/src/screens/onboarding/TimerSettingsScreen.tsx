@@ -95,7 +95,7 @@ export const TimerSettingsScreen: React.FC<Props> = ({ navigation }) => {
       }
     }
 
-    navigation.navigate('SampleQuizIntro');
+    navigation.navigate('DifficultySettings');
   };
 
   const formatTime = (ms: number): string => {
