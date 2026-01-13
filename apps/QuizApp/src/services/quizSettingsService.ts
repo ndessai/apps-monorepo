@@ -39,7 +39,6 @@ export async function getQuizSettings(
   }
 
   const s = settings[0];
-  console.log('[quizSettingsService] getQuizSettings - Raw difficulty from DB:', JSON.stringify(s.difficulty), 'type:', typeof s.difficulty);
   return {
     buzzerTimeMs: s.buzzerTimeMs,
     answerTimeMs: s.answerTimeMs,
@@ -132,7 +131,6 @@ export async function updateQuizSettings(
           s.audioActionsEnabled = newSettings.audioActionsEnabled;
         }
         if (newSettings.difficulty !== undefined) {
-          console.log('[quizSettingsService] updateQuizSettings - Writing difficulty:', JSON.stringify(newSettings.difficulty));
           s.difficulty = newSettings.difficulty;
         }
         if (newSettings.theme !== undefined) {

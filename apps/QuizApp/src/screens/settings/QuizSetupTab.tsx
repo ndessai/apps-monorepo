@@ -4,10 +4,8 @@ import { Text, Card, Button, RadioButton, ActivityIndicator, Switch } from 'reac
 import Slider from '@react-native-community/slider';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { spacing } from '@monorepo/ui-components';
-import { useDatabase } from '../../providers/DatabaseProvider';
 import { useTheme } from '../../providers/ThemeProvider';
-import { getCurrentUser } from '../../services/userService';
-import { getQuizSettings, updateQuizSettings } from '../../services/quizSettingsService';
+import { useSettings } from '../../providers/SettingsProvider';
 import {
   QuizSettingsData,
   DEFAULT_QUIZ_SETTINGS,
@@ -25,63 +23,37 @@ import {
 } from '../../types/settings';
 
 export const QuizSetupTab: React.FC = () => {
-  const database = useDatabase();
   const { theme: currentTheme, setTheme: setAppTheme, colors: themeColors } = useTheme();
-  const [settings, setSettings] = useState<QuizSettingsData>(DEFAULT_QUIZ_SETTINGS);
-  const [originalSettings, setOriginalSettings] = useState<QuizSettingsData>(DEFAULT_QUIZ_SETTINGS);
-  const [isLoading, setIsLoading] = useState(true);
-  const [isSaving, setIsSaving] = useState(false);
-  const [userId, setUserId] = useState<string | null>(null);
+  const { settings: providerSettings, isLoading, updateSettings } = useSettings();
 
+  // Local state for edits (not yet saved)
+  const [localSettings, setLocalSettings] = useState<QuizSettingsData>(providerSettings);
+  const [isSaving, setIsSaving] = useState(false);
+
+  // Sync local state when provider localSettings change (e.g., on initial load)
   useEffect(() => {
-    loadSettings();
-  }, []);
+    setLocalSettings(providerSettings);
+  }, [providerSettings]);
 
   // Sync theme with app theme
   useEffect(() => {
-    setSettings((prev) => ({ ...prev, theme: currentTheme }));
+    setLocalSettings((prev) => ({ ...prev, theme: currentTheme }));
   }, [currentTheme]);
 
-  // Debug: track settings changes
-  useEffect(() => {
-    console.log('[QuizSetupTab] settings state updated, difficulty is now:', settings.difficulty);
-  }, [settings.difficulty]);
-
-  const loadSettings = async () => {
-    try {
-      setIsLoading(true);
-      const user = await getCurrentUser(database);
-
-      if (user) {
-        setUserId(user.userId);
-        const userSettings = await getQuizSettings(database, user.userId);
-        console.log('[QuizSetupTab] Loaded settings, difficulty:', userSettings.difficulty);
-        setSettings(userSettings);
-        setOriginalSettings(userSettings);
-      }
-    } catch (error) {
-      console.error('Error loading settings:', error);
-    } finally {
-      setIsLoading(false);
-    }
-  };
-
   const hasChanges = () => {
-    const difficultyChanged = settings.difficulty !== originalSettings.difficulty;
-    console.log('[QuizSetupTab] hasChanges check - settings.difficulty:', settings.difficulty, 'originalSettings.difficulty:', originalSettings.difficulty, 'changed:', difficultyChanged);
     return (
-      settings.buzzerTimeMs !== originalSettings.buzzerTimeMs ||
-      settings.answerTimeMs !== originalSettings.answerTimeMs ||
-      settings.tossupAnswerTimeMs !== originalSettings.tossupAnswerTimeMs ||
-      settings.bonusAnswerTimeMs !== originalSettings.bonusAnswerTimeMs ||
-      settings.tossupReviewTimeMs !== originalSettings.tossupReviewTimeMs ||
-      settings.bonusReviewTimeMs !== originalSettings.bonusReviewTimeMs ||
-      settings.readingSpeedWpm !== originalSettings.readingSpeedWpm ||
-      settings.microphoneEnabled !== originalSettings.microphoneEnabled ||
-      settings.autoSubmitOnSilence !== originalSettings.autoSubmitOnSilence ||
-      settings.autoSubmitSilenceMs !== originalSettings.autoSubmitSilenceMs ||
-      settings.audioActionsEnabled !== originalSettings.audioActionsEnabled ||
-      difficultyChanged
+      localSettings.buzzerTimeMs !== providerSettings.buzzerTimeMs ||
+      localSettings.answerTimeMs !== providerSettings.answerTimeMs ||
+      localSettings.tossupAnswerTimeMs !== providerSettings.tossupAnswerTimeMs ||
+      localSettings.bonusAnswerTimeMs !== providerSettings.bonusAnswerTimeMs ||
+      localSettings.tossupReviewTimeMs !== providerSettings.tossupReviewTimeMs ||
+      localSettings.bonusReviewTimeMs !== providerSettings.bonusReviewTimeMs ||
+      localSettings.readingSpeedWpm !== providerSettings.readingSpeedWpm ||
+      localSettings.microphoneEnabled !== providerSettings.microphoneEnabled ||
+      localSettings.autoSubmitOnSilence !== providerSettings.autoSubmitOnSilence ||
+      localSettings.autoSubmitSilenceMs !== providerSettings.autoSubmitSilenceMs ||
+      localSettings.audioActionsEnabled !== providerSettings.audioActionsEnabled ||
+      localSettings.difficulty !== providerSettings.difficulty
     );
   };
 
@@ -90,22 +62,18 @@ export const QuizSetupTab: React.FC = () => {
   };
 
   const handleThemeChange = async (newTheme: ThemeMode) => {
-    setSettings((prev) => ({ ...prev, theme: newTheme }));
+    setLocalSettings((prev) => ({ ...prev, theme: newTheme }));
     await setAppTheme(newTheme);
   };
 
   const handleSave = async () => {
-    if (!userId) return;
-
     try {
       setIsSaving(true);
-      console.log('[QuizSetupTab] Saving settings, difficulty:', settings.difficulty);
-      await updateQuizSettings(database, userId, settings);
-      setOriginalSettings(settings);
+      await updateSettings(localSettings);
       Alert.alert('Success', 'Settings saved successfully');
     } catch (error) {
-      console.error('Error saving settings:', error);
-      Alert.alert('Error', 'Failed to save settings');
+      console.error('Error saving localSettings:', error);
+      Alert.alert('Error', 'Failed to save localSettings');
     } finally {
       setIsSaving(false);
     }
@@ -114,13 +82,13 @@ export const QuizSetupTab: React.FC = () => {
   const handleReset = () => {
     Alert.alert(
       'Reset Settings',
-      'Are you sure you want to reset to default settings?',
+      'Are you sure you want to reset to default localSettings?',
       [
         { text: 'Cancel', style: 'cancel' },
         {
           text: 'Reset',
           onPress: async () => {
-            setSettings({ ...DEFAULT_QUIZ_SETTINGS, theme: currentTheme });
+            setLocalSettings({ ...DEFAULT_QUIZ_SETTINGS, theme: currentTheme });
           },
         },
       ]
@@ -149,7 +117,7 @@ export const QuizSetupTab: React.FC = () => {
         <Card.Content>
           <View style={styles.settingHeader}>
             <Icon
-              name={settings.theme === 'dark' ? 'weather-night' : 'white-balance-sunny'}
+              name={localSettings.theme === 'dark' ? 'weather-night' : 'white-balance-sunny'}
               size={24}
               color={themeColors.primary.main}
             />
@@ -167,19 +135,19 @@ export const QuizSetupTab: React.FC = () => {
               <Icon
                 name="white-balance-sunny"
                 size={20}
-                color={settings.theme === 'light' ? themeColors.primary.main : themeColors.text.disabled}
+                color={localSettings.theme === 'light' ? themeColors.primary.main : themeColors.text.disabled}
               />
               <Text
                 style={[
                   styles.themeLabel,
-                  { color: settings.theme === 'light' ? themeColors.primary.main : themeColors.text.secondary }
+                  { color: localSettings.theme === 'light' ? themeColors.primary.main : themeColors.text.secondary }
                 ]}
               >
                 Light
               </Text>
             </View>
             <Switch
-              value={settings.theme === 'dark'}
+              value={localSettings.theme === 'dark'}
               onValueChange={(isDark) => handleThemeChange(isDark ? 'dark' : 'light')}
               color={themeColors.primary.main}
               testID="theme-toggle"
@@ -188,12 +156,12 @@ export const QuizSetupTab: React.FC = () => {
               <Icon
                 name="weather-night"
                 size={20}
-                color={settings.theme === 'dark' ? themeColors.primary.main : themeColors.text.disabled}
+                color={localSettings.theme === 'dark' ? themeColors.primary.main : themeColors.text.disabled}
               />
               <Text
                 style={[
                   styles.themeLabel,
-                  { color: settings.theme === 'dark' ? themeColors.primary.main : themeColors.text.secondary }
+                  { color: localSettings.theme === 'dark' ? themeColors.primary.main : themeColors.text.secondary }
                 ]}
               >
                 Dark
@@ -217,9 +185,9 @@ export const QuizSetupTab: React.FC = () => {
               </Text>
             </View>
             <Switch
-              value={settings.microphoneEnabled}
+              value={localSettings.microphoneEnabled}
               onValueChange={(value) =>
-                setSettings((prev) => ({ ...prev, microphoneEnabled: value }))
+                setLocalSettings((prev) => ({ ...prev, microphoneEnabled: value }))
               }
               color={themeColors.primary.main}
               testID="microphone-enabled-toggle"
@@ -242,9 +210,9 @@ export const QuizSetupTab: React.FC = () => {
               </Text>
             </View>
             <Switch
-              value={settings.autoSubmitOnSilence}
+              value={localSettings.autoSubmitOnSilence}
               onValueChange={(value) =>
-                setSettings((prev) => ({ ...prev, autoSubmitOnSilence: value }))
+                setLocalSettings((prev) => ({ ...prev, autoSubmitOnSilence: value }))
               }
               color={themeColors.primary.main}
               testID="auto-submit-silence-toggle"
@@ -252,7 +220,7 @@ export const QuizSetupTab: React.FC = () => {
           </View>
 
           {/* Silence Duration Slider - only show when auto-submit is enabled */}
-          {settings.autoSubmitOnSilence && (
+          {localSettings.autoSubmitOnSilence && (
             <>
               <View style={[styles.settingHeader, { marginTop: spacing.md }]}>
                 <View style={styles.settingTitleContainer}>
@@ -261,7 +229,7 @@ export const QuizSetupTab: React.FC = () => {
                   </Text>
                 </View>
                 <Text variant="titleMedium" style={[styles.settingValue, { color: themeColors.primary.main }]}>
-                  {formatSilenceTime(settings.autoSubmitSilenceMs)}
+                  {formatSilenceTime(localSettings.autoSubmitSilenceMs)}
                 </Text>
               </View>
               <Slider
@@ -269,9 +237,9 @@ export const QuizSetupTab: React.FC = () => {
                 minimumValue={MIN_SILENCE_MS}
                 maximumValue={MAX_SILENCE_MS}
                 step={100}
-                value={settings.autoSubmitSilenceMs}
+                value={localSettings.autoSubmitSilenceMs}
                 onValueChange={(value: number) =>
-                  setSettings((prev) => ({ ...prev, autoSubmitSilenceMs: value }))
+                  setLocalSettings((prev) => ({ ...prev, autoSubmitSilenceMs: value }))
                 }
                 minimumTrackTintColor={themeColors.primary.main}
                 maximumTrackTintColor={themeColors.divider}
@@ -301,15 +269,15 @@ export const QuizSetupTab: React.FC = () => {
               </Text>
             </View>
             <Switch
-              value={settings.audioActionsEnabled}
+              value={localSettings.audioActionsEnabled}
               onValueChange={(value) =>
-                setSettings((prev) => ({ ...prev, audioActionsEnabled: value }))
+                setLocalSettings((prev) => ({ ...prev, audioActionsEnabled: value }))
               }
               color={themeColors.primary.main}
               testID="audio-actions-enabled-toggle"
             />
           </View>
-          {settings.audioActionsEnabled && (
+          {localSettings.audioActionsEnabled && (
             <View style={[styles.handsFreeInfo, { backgroundColor: themeColors.background.default }]}>
               <Icon name="information-outline" size={16} color={themeColors.text.secondary} />
               <Text variant="bodySmall" style={[styles.handsFreeInfoText, { color: themeColors.text.secondary }]}>
@@ -335,7 +303,7 @@ export const QuizSetupTab: React.FC = () => {
               </Text>
             </View>
             <Text variant="titleMedium" style={[styles.settingValue, { color: themeColors.primary.main }]}>
-              {formatTime(settings.buzzerTimeMs)}
+              {formatTime(localSettings.buzzerTimeMs)}
             </Text>
           </View>
           <Slider
@@ -343,9 +311,9 @@ export const QuizSetupTab: React.FC = () => {
             minimumValue={MIN_TIME_MS}
             maximumValue={MAX_TIME_MS}
             step={500}
-            value={settings.buzzerTimeMs}
+            value={localSettings.buzzerTimeMs}
             onValueChange={(value: number) =>
-              setSettings((prev) => ({ ...prev, buzzerTimeMs: value }))
+              setLocalSettings((prev) => ({ ...prev, buzzerTimeMs: value }))
             }
             minimumTrackTintColor={themeColors.primary.main}
             maximumTrackTintColor={themeColors.divider}
@@ -373,7 +341,7 @@ export const QuizSetupTab: React.FC = () => {
               </Text>
             </View>
             <Text variant="titleMedium" style={[styles.settingValue, { color: themeColors.primary.main }]}>
-              {formatTime(settings.answerTimeMs)}
+              {formatTime(localSettings.answerTimeMs)}
             </Text>
           </View>
           <Slider
@@ -381,9 +349,9 @@ export const QuizSetupTab: React.FC = () => {
             minimumValue={MIN_TIME_MS}
             maximumValue={MAX_TIME_MS}
             step={500}
-            value={settings.answerTimeMs}
+            value={localSettings.answerTimeMs}
             onValueChange={(value: number) =>
-              setSettings((prev) => ({ ...prev, answerTimeMs: value }))
+              setLocalSettings((prev) => ({ ...prev, answerTimeMs: value }))
             }
             minimumTrackTintColor={themeColors.primary.main}
             maximumTrackTintColor={themeColors.divider}
@@ -411,7 +379,7 @@ export const QuizSetupTab: React.FC = () => {
               </Text>
             </View>
             <Text variant="titleMedium" style={[styles.settingValue, { color: themeColors.primary.main }]}>
-              {formatTime(settings.tossupAnswerTimeMs)}
+              {formatTime(localSettings.tossupAnswerTimeMs)}
             </Text>
           </View>
           <Slider
@@ -419,9 +387,9 @@ export const QuizSetupTab: React.FC = () => {
             minimumValue={MIN_TIME_MS}
             maximumValue={MAX_TIME_MS}
             step={500}
-            value={settings.tossupAnswerTimeMs}
+            value={localSettings.tossupAnswerTimeMs}
             onValueChange={(value: number) =>
-              setSettings((prev) => ({ ...prev, tossupAnswerTimeMs: value }))
+              setLocalSettings((prev) => ({ ...prev, tossupAnswerTimeMs: value }))
             }
             minimumTrackTintColor={themeColors.primary.main}
             maximumTrackTintColor={themeColors.divider}
@@ -449,7 +417,7 @@ export const QuizSetupTab: React.FC = () => {
               </Text>
             </View>
             <Text variant="titleMedium" style={[styles.settingValue, { color: themeColors.primary.main }]}>
-              {formatTime(settings.bonusAnswerTimeMs)}
+              {formatTime(localSettings.bonusAnswerTimeMs)}
             </Text>
           </View>
           <Slider
@@ -457,9 +425,9 @@ export const QuizSetupTab: React.FC = () => {
             minimumValue={MIN_TIME_MS}
             maximumValue={MAX_TIME_MS}
             step={500}
-            value={settings.bonusAnswerTimeMs}
+            value={localSettings.bonusAnswerTimeMs}
             onValueChange={(value: number) =>
-              setSettings((prev) => ({ ...prev, bonusAnswerTimeMs: value }))
+              setLocalSettings((prev) => ({ ...prev, bonusAnswerTimeMs: value }))
             }
             minimumTrackTintColor={themeColors.primary.main}
             maximumTrackTintColor={themeColors.divider}
@@ -487,7 +455,7 @@ export const QuizSetupTab: React.FC = () => {
               </Text>
             </View>
             <Text variant="titleMedium" style={[styles.settingValue, { color: themeColors.primary.main }]}>
-              {formatTime(settings.tossupReviewTimeMs)}
+              {formatTime(localSettings.tossupReviewTimeMs)}
             </Text>
           </View>
           <Slider
@@ -495,9 +463,9 @@ export const QuizSetupTab: React.FC = () => {
             minimumValue={MIN_TIME_MS}
             maximumValue={MAX_TIME_MS}
             step={500}
-            value={settings.tossupReviewTimeMs}
+            value={localSettings.tossupReviewTimeMs}
             onValueChange={(value: number) =>
-              setSettings((prev) => ({ ...prev, tossupReviewTimeMs: value }))
+              setLocalSettings((prev) => ({ ...prev, tossupReviewTimeMs: value }))
             }
             minimumTrackTintColor={themeColors.primary.main}
             maximumTrackTintColor={themeColors.divider}
@@ -525,7 +493,7 @@ export const QuizSetupTab: React.FC = () => {
               </Text>
             </View>
             <Text variant="titleMedium" style={[styles.settingValue, { color: themeColors.primary.main }]}>
-              {formatTime(settings.bonusReviewTimeMs)}
+              {formatTime(localSettings.bonusReviewTimeMs)}
             </Text>
           </View>
           <Slider
@@ -533,9 +501,9 @@ export const QuizSetupTab: React.FC = () => {
             minimumValue={MIN_TIME_MS}
             maximumValue={MAX_TIME_MS}
             step={500}
-            value={settings.bonusReviewTimeMs}
+            value={localSettings.bonusReviewTimeMs}
             onValueChange={(value: number) =>
-              setSettings((prev) => ({ ...prev, bonusReviewTimeMs: value }))
+              setLocalSettings((prev) => ({ ...prev, bonusReviewTimeMs: value }))
             }
             minimumTrackTintColor={themeColors.primary.main}
             maximumTrackTintColor={themeColors.divider}
@@ -563,7 +531,7 @@ export const QuizSetupTab: React.FC = () => {
               </Text>
             </View>
             <Text variant="titleMedium" style={[styles.settingValue, { color: themeColors.primary.main }]}>
-              {settings.readingSpeedWpm} WPM
+              {localSettings.readingSpeedWpm} WPM
             </Text>
           </View>
           <Slider
@@ -571,9 +539,9 @@ export const QuizSetupTab: React.FC = () => {
             minimumValue={MIN_WPM}
             maximumValue={MAX_WPM}
             step={WPM_STEP}
-            value={settings.readingSpeedWpm}
+            value={localSettings.readingSpeedWpm}
             onValueChange={(value: number) =>
-              setSettings((prev) => ({ ...prev, readingSpeedWpm: value }))
+              setLocalSettings((prev) => ({ ...prev, readingSpeedWpm: value }))
             }
             minimumTrackTintColor={themeColors.primary.main}
             maximumTrackTintColor={themeColors.divider}
@@ -603,10 +571,9 @@ export const QuizSetupTab: React.FC = () => {
           </View>
           <RadioButton.Group
             onValueChange={(value) => {
-              console.log('[QuizSetupTab] Difficulty changed to:', value);
-              setSettings((prev) => ({ ...prev, difficulty: value as NAQTDifficulty }));
+              setLocalSettings((prev) => ({ ...prev, difficulty: value as NAQTDifficulty }));
             }}
-            value={settings.difficulty}
+            value={localSettings.difficulty}
           >
             {NAQT_DIFFICULTIES.map((difficulty) => (
               <RadioButton.Item
@@ -628,7 +595,7 @@ export const QuizSetupTab: React.FC = () => {
           mode="outlined"
           onPress={handleReset}
           style={styles.resetButton}
-          testID="reset-settings-button"
+          testID="reset-localSettings-button"
         >
           Reset to Defaults
         </Button>
@@ -638,7 +605,7 @@ export const QuizSetupTab: React.FC = () => {
           loading={isSaving}
           disabled={!hasChanges() || isSaving}
           style={styles.saveButton}
-          testID="save-settings-button"
+          testID="save-localSettings-button"
         >
           Save Settings
         </Button>

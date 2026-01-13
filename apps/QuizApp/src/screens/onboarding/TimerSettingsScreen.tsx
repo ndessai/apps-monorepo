@@ -14,9 +14,7 @@ import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { spacing, elevation } from '@monorepo/ui-components';
 import { useTheme } from '../../providers/ThemeProvider';
-import { useDatabase } from '../../providers/DatabaseProvider';
-import { getCurrentUser } from '../../services/userService';
-import { updateQuizSettings } from '../../services/quizSettingsService';
+import { useSettings } from '../../providers/SettingsProvider';
 import { DEFAULT_QUIZ_SETTINGS } from '../../types/settings';
 import type { OnboardingStackParamList } from '../../types/navigation';
 
@@ -68,12 +66,12 @@ const TIMER_SETTINGS: TimerSetting[] = [
 
 export const TimerSettingsScreen: React.FC<Props> = ({ navigation }) => {
   const { colors } = useTheme();
-  const database = useDatabase();
+  const { settings, updateSettings } = useSettings();
   const insets = useSafeAreaInsets();
   const [values, setValues] = useState<Record<string, number>>({
-    buzzerTimeMs: DEFAULT_QUIZ_SETTINGS.buzzerTimeMs,
-    tossupAnswerTimeMs: DEFAULT_QUIZ_SETTINGS.tossupAnswerTimeMs,
-    bonusAnswerTimeMs: DEFAULT_QUIZ_SETTINGS.bonusAnswerTimeMs,
+    buzzerTimeMs: settings.buzzerTimeMs,
+    tossupAnswerTimeMs: settings.tossupAnswerTimeMs,
+    bonusAnswerTimeMs: settings.bonusAnswerTimeMs,
   });
 
   const handleValueChange = (key: string, value: number) => {
@@ -91,10 +89,7 @@ export const TimerSettingsScreen: React.FC<Props> = ({ navigation }) => {
 
     if (Object.keys(changedSettings).length > 0) {
       try {
-        const user = await getCurrentUser(database);
-        if (user) {
-          await updateQuizSettings(database, user.userId, changedSettings);
-        }
+        await updateSettings(changedSettings);
       } catch (error) {
         console.error('Failed to save timer settings:', error);
       }

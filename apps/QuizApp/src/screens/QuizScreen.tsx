@@ -21,7 +21,6 @@ import type {
   QuizSession,
 } from '../types/quiz';
 import type { QuizSettingsData } from '../types/settings';
-import { DEFAULT_QUIZ_SETTINGS } from '../types/settings';
 import {
   BuzzButton,
   TossupReader,
@@ -38,9 +37,7 @@ import {
   calculateTossupPoints,
   calculateBonusPoints,
 } from '../services/quizScoring';
-import { useDatabase } from '../providers/DatabaseProvider';
-import { getCurrentUser } from '../services/userService';
-import { getQuizSettings } from '../services/quizSettingsService';
+import { useSettings } from '../providers/SettingsProvider';
 import * as audioActionsService from '../services/audioActionsService';
 
 type Props = NativeStackScreenProps<QuizStackParamList, 'Quiz'>;
@@ -51,8 +48,8 @@ const BONUS_ANSWER_DURATION = 5000; // 5 seconds per part
 const REVIEW_DURATION = 2000; // 2 seconds to show result
 
 export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
-  const database = useDatabase();
   const { colors } = useTheme();
+  const { settings } = useSettings();
   const isOnboarding = route.params?.isOnboarding ?? false;
 
   // Quiz data
@@ -80,8 +77,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
   const timerRef = useRef<ReturnType<typeof setInterval> | null>(null);
   const buzzWindowRef = useRef<ReturnType<typeof setTimeout> | null>(null);
 
-  // User settings
-  const [settings, setSettings] = useState<QuizSettingsData>(DEFAULT_QUIZ_SETTINGS);
+  // User settings are now provided by SettingsProvider via useSettings() hook
 
   // Bottom sheet state
   const [bottomSheetVisible, setBottomSheetVisible] = useState(false);
@@ -117,15 +113,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         await tts.initialize();
         console.log('TTS Wrapper initialized, loading questions...');
 
-        // Load user settings
-        let userDifficulty: string | undefined;
-        const user = await getCurrentUser(database);
-        if (user) {
-          const userSettings = await getQuizSettings(database, user.userId);
-          setSettings(userSettings);
-          userDifficulty = userSettings.difficulty;
-          console.log('User settings loaded:', userSettings);
-        }
+        // Settings are now provided by SettingsProvider
+        const userDifficulty = settings.difficulty;
+        console.log('Using settings from provider, difficulty:', userDifficulty);
 
         const data = await loadQuestions(isOnboarding, userDifficulty);
         console.log('Questions loaded successfully:', data);
@@ -154,7 +144,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         audioActionsActiveRef.current = false;
       }
     };
-  }, [navigation, database]);
+  }, [navigation, settings.difficulty]);
 
   // Start quiz when data is loaded
   useEffect(() => {

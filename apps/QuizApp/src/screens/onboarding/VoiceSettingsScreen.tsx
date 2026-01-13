@@ -13,17 +13,15 @@ import Voice from '@react-native-voice/voice';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { spacing, radius, elevation } from '@monorepo/ui-components';
 import { useTheme } from '../../providers/ThemeProvider';
-import { useDatabase } from '../../providers/DatabaseProvider';
-import { getCurrentUser } from '../../services/userService';
-import { updateQuizSettings } from '../../services/quizSettingsService';
+import { useSettings } from '../../providers/SettingsProvider';
 import type { OnboardingStackParamList } from '../../types/navigation';
 
 type Props = NativeStackScreenProps<OnboardingStackParamList, 'VoiceSettings'>;
 
 export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
   const { colors } = useTheme();
-  const database = useDatabase();
-  const [microphoneEnabled, setMicrophoneEnabled] = useState(true);
+  const { settings, updateSettings } = useSettings();
+  const [microphoneEnabled, setMicrophoneEnabled] = useState(settings.microphoneEnabled);
   const [isListening, setIsListening] = useState(false);
   const [spokenText, setSpokenText] = useState('');
   const [voiceAvailable, setVoiceAvailable] = useState(false);
@@ -123,15 +121,12 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
       }
     }
 
-    // Save settings
+    // Save settings via SettingsProvider
     try {
-      const user = await getCurrentUser(database);
-      if (user) {
-        await updateQuizSettings(database, user.userId, {
-          microphoneEnabled,
-          autoSubmitOnSilence: microphoneEnabled,
-        });
-      }
+      await updateSettings({
+        microphoneEnabled,
+        autoSubmitOnSilence: microphoneEnabled,
+      });
     } catch (error) {
       console.error('Failed to save voice settings:', error);
     }
