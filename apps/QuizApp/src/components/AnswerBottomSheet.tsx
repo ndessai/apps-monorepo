@@ -12,13 +12,12 @@ import {
   Animated,
   KeyboardAvoidingView,
   Platform,
-  Dimensions,
 } from 'react-native';
-import { colors, spacing, elevation, radius } from '@monorepo/ui-components';
+import { spacing, elevation, radius } from '@monorepo/ui-components';
+import { useTheme } from '../providers/ThemeProvider';
 import { AnswerSubmitter, TimerState, QuestionType } from './AnswerSubmitter';
 
 const SHEET_HEIGHT = 220;
-const { height: SCREEN_HEIGHT } = Dimensions.get('window');
 
 interface AnswerBottomSheetProps {
   visible: boolean;
@@ -45,6 +44,7 @@ export const AnswerBottomSheet: React.FC<AnswerBottomSheetProps> = ({
   autoSubmitSilenceMs = 1500,
   testID = 'answer-bottom-sheet',
 }) => {
+  const { colors } = useTheme();
   const translateY = useRef(new Animated.Value(SHEET_HEIGHT)).current;
 
   useEffect(() => {
@@ -71,6 +71,8 @@ export const AnswerBottomSheet: React.FC<AnswerBottomSheetProps> = ({
         style={[
           styles.container,
           {
+            backgroundColor: colors.surface.elevated,
+            borderTopColor: colors.divider,
             transform: [{ translateY }],
           },
         ]}
@@ -78,7 +80,7 @@ export const AnswerBottomSheet: React.FC<AnswerBottomSheetProps> = ({
       >
         {/* Drag handle */}
         <View style={styles.handleContainer}>
-          <View style={styles.handle} />
+          <View style={[styles.handle, { backgroundColor: colors.divider }]} />
         </View>
 
         {/* Content */}
@@ -109,9 +111,9 @@ const styles = StyleSheet.create({
   },
   container: {
     height: SHEET_HEIGHT,
-    backgroundColor: colors.surface.default,
     borderTopLeftRadius: radius.lg,
     borderTopRightRadius: radius.lg,
+    borderTopWidth: 1,
     ...elevation.level4,
   },
   handleContainer: {
@@ -122,7 +124,6 @@ const styles = StyleSheet.create({
   handle: {
     width: 40,
     height: 4,
-    backgroundColor: colors.divider,
     borderRadius: radius.full,
   },
   content: {

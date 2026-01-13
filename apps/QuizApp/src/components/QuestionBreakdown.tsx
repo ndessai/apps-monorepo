@@ -9,7 +9,8 @@ import React from 'react';
 import { StyleSheet, View, Pressable } from 'react-native';
 import { Text, Card } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import { colors, spacing, elevation, radius } from '@monorepo/ui-components';
+import { spacing, elevation, radius } from '@monorepo/ui-components';
+import { useTheme } from '../providers/ThemeProvider';
 import type { TossupQuestion, BonusQuestion } from '../types/quiz';
 
 // Runtime result types (what QuizScreen actually passes)
@@ -42,6 +43,7 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
   questionNumber,
   testID = 'question-breakdown',
 }) => {
+  const { colors } = useTheme();
   const [expanded, setExpanded] = React.useState(false);
 
   const isTossup = 'wasBeforePowerMark' in result;
@@ -92,9 +94,9 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
         const remainingPortion = text.substring(adjustedPowerMarkPos);
 
         return (
-          <Text variant="bodyMedium" style={styles.questionText}>
-            <Text style={styles.powerText}>{powerPortion}</Text>
-            <Text style={styles.powerMarker}> ★ </Text>
+          <Text variant="bodyMedium" style={[styles.questionText, { color: colors.text.primary }]}>
+            <Text style={[styles.powerText, { color: colors.warning.dark }]}>{powerPortion}</Text>
+            <Text style={[styles.powerMarker, { color: colors.warning.main }]}> ★ </Text>
             <Text>{remainingPortion}</Text>
           </Text>
         );
@@ -107,7 +109,7 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
       return (
         <View>
           {bonusResult.question.parts.map((part, index) => (
-            <Text key={index} variant="bodyMedium" style={styles.questionText}>
+            <Text key={index} variant="bodyMedium" style={[styles.questionText, { color: colors.text.primary }]}>
               {index + 1}. {part.text}
             </Text>
           ))}
@@ -117,7 +119,7 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
 
     // Default: tossup without power mark
     return (
-      <Text variant="bodyMedium" style={styles.questionText}>
+      <Text variant="bodyMedium" style={[styles.questionText, { color: colors.text.primary }]}>
         {(result as TossupResultRuntime).question.text}
       </Text>
     );
@@ -134,7 +136,7 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
   };
 
   return (
-    <Card style={styles.card} testID={testID}>
+    <Card style={[styles.card, { backgroundColor: colors.surface.default }]} testID={testID}>
       <Pressable
         onPress={() => setExpanded(!expanded)}
         style={styles.pressable}
@@ -148,10 +150,10 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
               style={styles.resultIcon}
             />
             <View>
-              <Text variant="titleMedium" style={styles.title}>
+              <Text variant="titleMedium" style={[styles.title, { color: colors.text.primary }]}>
                 {questionType} {questionNumber}
               </Text>
-              <Text variant="bodySmall" style={styles.category}>
+              <Text variant="bodySmall" style={[styles.category, { color: colors.text.secondary }]}>
                 {result.question.category}
               </Text>
             </View>
@@ -176,10 +178,10 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
         </View>
 
         {expanded && (
-          <View style={styles.details}>
+          <View style={[styles.details, { borderTopColor: colors.divider }]}>
             {/* Question text with power mark for tossups */}
             <View style={styles.section}>
-              <Text variant="labelMedium" style={styles.sectionLabel}>
+              <Text variant="labelMedium" style={[styles.sectionLabel, { color: colors.text.secondary }]}>
                 Question
               </Text>
               {renderQuestionText()}
@@ -188,16 +190,16 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
             {/* Toss-up specific details */}
             {isTossup && (
               <View style={styles.section}>
-                <Text variant="labelMedium" style={styles.sectionLabel}>
+                <Text variant="labelMedium" style={[styles.sectionLabel, { color: colors.text.secondary }]}>
                   Details
                 </Text>
-                <Text variant="bodySmall" style={styles.detailText}>
+                <Text variant="bodySmall" style={[styles.detailText, { color: colors.text.secondary }]}>
                   {(result as TossupResultRuntime).wasBeforePowerMark
                     ? '⭐ Answered before power mark (15 pts)'
                     : 'Answered after power mark (10 pts)'}
                 </Text>
                 {(result as TossupResultRuntime).wasInterrupted && (
-                  <Text variant="bodySmall" style={styles.detailText}>
+                  <Text variant="bodySmall" style={[styles.detailText, { color: colors.text.secondary }]}>
                     ⚠️ Interrupted penalty (-5 pts)
                   </Text>
                 )}
@@ -207,7 +209,7 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
             {/* User answer */}
             {result.userAnswer && (
               <View style={styles.section}>
-                <Text variant="labelMedium" style={styles.sectionLabel}>
+                <Text variant="labelMedium" style={[styles.sectionLabel, { color: colors.text.secondary }]}>
                   Your Answer
                 </Text>
                 <Text
@@ -215,8 +217,8 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
                   style={[
                     styles.answerText,
                     result.isCorrect
-                      ? styles.correctAnswer
-                      : styles.incorrectAnswer,
+                      ? { backgroundColor: colors.success.light, color: colors.success.dark }
+                      : { backgroundColor: colors.error.light, color: colors.error.dark },
                   ]}
                 >
                   {result.userAnswer}
@@ -226,10 +228,10 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
 
             {/* Correct answer */}
             <View style={styles.section}>
-              <Text variant="labelMedium" style={styles.sectionLabel}>
+              <Text variant="labelMedium" style={[styles.sectionLabel, { color: colors.text.secondary }]}>
                 Correct Answer
               </Text>
-              <Text variant="bodyMedium" style={styles.correctAnswerText}>
+              <Text variant="bodyMedium" style={[styles.correctAnswerText, { color: colors.success.dark }]}>
                 {getCorrectAnswer()}
               </Text>
             </View>
@@ -237,10 +239,10 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
             {/* Explanation if available (tossups only) */}
             {isTossup && (result as TossupResultRuntime).question.explanation && (
               <View style={styles.section}>
-                <Text variant="labelMedium" style={styles.sectionLabel}>
+                <Text variant="labelMedium" style={[styles.sectionLabel, { color: colors.text.secondary }]}>
                   Explanation
                 </Text>
-                <Text variant="bodySmall" style={styles.explanationText}>
+                <Text variant="bodySmall" style={[styles.explanationText, { color: colors.text.secondary }]}>
                   {(result as TossupResultRuntime).question.explanation}
                 </Text>
               </View>
@@ -255,7 +257,6 @@ export const QuestionBreakdown: React.FC<QuestionBreakdownProps> = ({
 const styles = StyleSheet.create({
   card: {
     marginBottom: spacing.md,
-    backgroundColor: colors.surface.default,
     ...elevation.level1,
   },
   pressable: {
@@ -276,10 +277,8 @@ const styles = StyleSheet.create({
   },
   title: {
     fontWeight: '600',
-    color: colors.text.primary,
   },
   category: {
-    color: colors.text.secondary,
     marginTop: 2,
   },
   headerRight: {
@@ -296,30 +295,24 @@ const styles = StyleSheet.create({
     marginTop: spacing.md,
     paddingTop: spacing.md,
     borderTopWidth: 1,
-    borderTopColor: colors.divider,
   },
   section: {
     marginBottom: spacing.md,
   },
   sectionLabel: {
-    color: colors.text.secondary,
     marginBottom: spacing.xs,
     fontWeight: '600',
   },
   questionText: {
-    color: colors.text.primary,
     lineHeight: 22,
   },
   powerText: {
-    color: colors.warning.dark,
     fontWeight: '600',
   },
   powerMarker: {
-    color: colors.warning.main,
     fontWeight: 'bold',
   },
   detailText: {
-    color: colors.text.secondary,
     marginTop: spacing.xs,
   },
   answerText: {
@@ -328,20 +321,10 @@ const styles = StyleSheet.create({
     borderRadius: radius.sm,
     fontWeight: '500',
   },
-  correctAnswer: {
-    backgroundColor: colors.success.light,
-    color: colors.success.dark,
-  },
-  incorrectAnswer: {
-    backgroundColor: colors.error.light,
-    color: colors.error.dark,
-  },
   correctAnswerText: {
-    color: colors.success.dark,
     fontWeight: '600',
   },
   explanationText: {
-    color: colors.text.secondary,
     lineHeight: 20,
     fontStyle: 'italic',
   },

@@ -9,13 +9,15 @@ import React from 'react';
 import { StyleSheet, View, ScrollView } from 'react-native';
 import { Button, Text } from 'react-native-paper';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
-import { colors, spacing, elevation, radius } from '@monorepo/ui-components';
+import { spacing, elevation, radius } from '@monorepo/ui-components';
+import { useTheme } from '../providers/ThemeProvider';
 import type { QuizStackParamList } from '../types/navigation';
 import { QuestionBreakdown } from '../components';
 
 type Props = NativeStackScreenProps<QuizStackParamList, 'QuizResults'>;
 
 export const QuizResultsScreen: React.FC<Props> = ({ route, navigation }) => {
+  const { colors } = useTheme();
   const { session } = route.params;
 
   // Calculate statistics
@@ -65,14 +67,14 @@ export const QuizResultsScreen: React.FC<Props> = ({ route, navigation }) => {
   ];
 
   return (
-    <View style={styles.container}>
+    <View style={[styles.container, { backgroundColor: colors.background.default }]}>
       <ScrollView
         style={styles.scrollView}
         contentContainerStyle={styles.scrollContent}
       >
         {/* Score Summary */}
-        <View style={styles.summaryCard}>
-          <Text variant="headlineMedium" style={styles.summaryTitle}>
+        <View style={[styles.summaryCard, { backgroundColor: colors.surface.default }]}>
+          <Text variant="headlineMedium" style={[styles.summaryTitle, { color: colors.text.primary }]}>
             Quiz Complete!
           </Text>
 
@@ -83,33 +85,33 @@ export const QuizResultsScreen: React.FC<Props> = ({ route, navigation }) => {
             >
               {session.totalScore}
             </Text>
-            <Text variant="titleLarge" style={styles.maxScore}>
+            <Text variant="titleLarge" style={[styles.maxScore, { color: colors.text.secondary }]}>
               / {session.maxScore}
             </Text>
           </View>
 
-          <Text variant="titleMedium" style={styles.accuracy}>
+          <Text variant="titleMedium" style={[styles.accuracy, { color: colors.text.secondary }]}>
             {accuracy}% Accuracy
           </Text>
 
           {/* Breakdown stats */}
-          <View style={styles.statsContainer}>
+          <View style={[styles.statsContainer, { borderTopColor: colors.divider }]}>
             <View style={styles.statItem}>
-              <Text variant="labelMedium" style={styles.statLabel}>
+              <Text variant="labelMedium" style={[styles.statLabel, { color: colors.text.secondary }]}>
                 Toss-ups
               </Text>
-              <Text variant="bodyLarge" style={styles.statValue}>
+              <Text variant="bodyLarge" style={[styles.statValue, { color: colors.text.primary }]}>
                 {tossupCorrect} / {tossupTotal}
               </Text>
             </View>
 
-            <View style={styles.statDivider} />
+            <View style={[styles.statDivider, { backgroundColor: colors.divider }]} />
 
             <View style={styles.statItem}>
-              <Text variant="labelMedium" style={styles.statLabel}>
+              <Text variant="labelMedium" style={[styles.statLabel, { color: colors.text.secondary }]}>
                 Bonus Points
               </Text>
-              <Text variant="bodyLarge" style={styles.statValue}>
+              <Text variant="bodyLarge" style={[styles.statValue, { color: colors.text.primary }]}>
                 {bonusPointsEarned} / {bonusMaxPoints}
               </Text>
             </View>
@@ -118,14 +120,14 @@ export const QuizResultsScreen: React.FC<Props> = ({ route, navigation }) => {
 
         {/* Detailed Breakdown */}
         <View style={styles.breakdownSection}>
-          <Text variant="titleLarge" style={styles.breakdownTitle}>
+          <Text variant="titleLarge" style={[styles.breakdownTitle, { color: colors.text.primary }]}>
             Question Breakdown
           </Text>
 
           {allResults.map((item, index) => (
             <QuestionBreakdown
               key={`${item.type}-${item.number}`}
-              result={item.result}
+              result={item.result as any}
               questionNumber={item.number}
               testID={`breakdown-${index}`}
             />
@@ -134,7 +136,7 @@ export const QuizResultsScreen: React.FC<Props> = ({ route, navigation }) => {
       </ScrollView>
 
       {/* Action Buttons */}
-      <View style={styles.actionsContainer}>
+      <View style={[styles.actionsContainer, { backgroundColor: colors.surface.elevated, borderTopColor: colors.divider }]}>
         <Button
           mode="contained"
           onPress={handlePlayAgain}
@@ -162,7 +164,6 @@ export const QuizResultsScreen: React.FC<Props> = ({ route, navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: colors.background.default,
   },
   scrollView: {
     flex: 1,
@@ -171,7 +172,6 @@ const styles = StyleSheet.create({
     padding: spacing.lg,
   },
   summaryCard: {
-    backgroundColor: colors.surface.default,
     borderRadius: radius.lg,
     padding: spacing.xl,
     alignItems: 'center',
@@ -179,7 +179,6 @@ const styles = StyleSheet.create({
     ...elevation.level2,
   },
   summaryTitle: {
-    color: colors.text.primary,
     marginBottom: spacing.lg,
     fontWeight: 'bold',
   },
@@ -192,11 +191,9 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
   },
   maxScore: {
-    color: colors.text.secondary,
     marginLeft: spacing.xs,
   },
   accuracy: {
-    color: colors.text.secondary,
     marginBottom: spacing.lg,
   },
   statsContainer: {
@@ -206,38 +203,31 @@ const styles = StyleSheet.create({
     width: '100%',
     paddingTop: spacing.lg,
     borderTopWidth: 1,
-    borderTopColor: colors.divider,
   },
   statItem: {
     alignItems: 'center',
     flex: 1,
   },
   statLabel: {
-    color: colors.text.secondary,
     marginBottom: spacing.xs,
   },
   statValue: {
-    color: colors.text.primary,
     fontWeight: '600',
   },
   statDivider: {
     width: 1,
     height: 40,
-    backgroundColor: colors.divider,
   },
   breakdownSection: {
     marginBottom: spacing.xl,
   },
   breakdownTitle: {
-    color: colors.text.primary,
     fontWeight: '600',
     marginBottom: spacing.md,
   },
   actionsContainer: {
     padding: spacing.lg,
-    backgroundColor: colors.surface.default,
     borderTopWidth: 1,
-    borderTopColor: colors.divider,
   },
   actionButton: {
     marginBottom: spacing.sm,

@@ -1,8 +1,9 @@
 import React, { useState, useEffect } from 'react';
 import { View, StyleSheet, Alert } from 'react-native';
 import { ActivityIndicator } from 'react-native-paper';
-import { ProfileForm, ProfileFormData, colors } from '@monorepo/ui-components';
+import { ProfileForm, ProfileFormData } from '@monorepo/ui-components';
 import { useDatabase } from '../providers/DatabaseProvider';
+import { useTheme } from '../providers/ThemeProvider';
 import {
   getCurrentUser,
   createUser,
@@ -15,6 +16,7 @@ import { User } from '../models/User';
 
 export const ProfileScreen: React.FC = () => {
   const database = useDatabase();
+  const { colors } = useTheme();
   const [user, setUser] = useState<User | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [isSaving, setIsSaving] = useState(false);
@@ -126,7 +128,7 @@ export const ProfileScreen: React.FC = () => {
 
   if (isLoading) {
     return (
-      <View style={styles.loadingContainer}>
+      <View style={[styles.loadingContainer, { backgroundColor: colors.background.default }]}>
         <ActivityIndicator size="large" color={colors.primary.main} />
       </View>
     );
@@ -158,6 +160,5 @@ const styles = StyleSheet.create({
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: colors.background.default,
   },
 });

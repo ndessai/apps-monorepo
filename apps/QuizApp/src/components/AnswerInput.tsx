@@ -10,7 +10,8 @@ import { StyleSheet, View, TextInput as RNTextInput, TouchableOpacity, Alert } f
 import { TextInput, Button } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import Voice from '@react-native-voice/voice';
-import { colors, spacing } from '@monorepo/ui-components';
+import { spacing } from '@monorepo/ui-components';
+import { useTheme } from '../providers/ThemeProvider';
 
 interface AnswerInputProps {
   onSubmit: (answer: string) => void;
@@ -33,6 +34,7 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
   autoSubmitIdleMs = 1500,
   testID = 'answer-input',
 }) => {
+  const { colors } = useTheme();
   const [answer, setAnswer] = React.useState('');
   const [isListening, setIsListening] = React.useState(false);
   const [voiceAvailable, setVoiceAvailable] = React.useState(false);
@@ -292,7 +294,7 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
           onSubmitEditing={handleSubmit}
           placeholder={placeholder}
           mode="outlined"
-          style={styles.input}
+          style={[styles.input, { backgroundColor: colors.surface.default }]}
           returnKeyType="done"
           autoCapitalize="none"
           autoCorrect={false}
@@ -345,9 +347,7 @@ const styles = StyleSheet.create({
   inputContainer: {
     marginBottom: spacing.sm,
   },
-  input: {
-    backgroundColor: colors.surface.default,
-  },
+  input: {},
   submitContainer: {
     alignItems: 'center',
   },

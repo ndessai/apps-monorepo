@@ -8,7 +8,8 @@
 import React, { useEffect, useState, useRef } from 'react';
 import { StyleSheet, View, Animated } from 'react-native';
 import { Text } from 'react-native-paper';
-import { colors, spacing, radius } from '@monorepo/ui-components';
+import { spacing, radius } from '@monorepo/ui-components';
+import { useTheme } from '../providers/ThemeProvider';
 import { AnswerInput } from './AnswerInput';
 
 export type TimerState = 'idle' | 'counting';
@@ -32,7 +33,7 @@ interface AnswerSubmitterProps {
 export const AnswerSubmitter: React.FC<AnswerSubmitterProps> = ({
   onSubmit,
   onTimeUp,
-  questionType,
+  questionType: _questionType,
   timerState,
   answerTimeMs,
   microphoneEnabledByDefault = false,
@@ -40,6 +41,7 @@ export const AnswerSubmitter: React.FC<AnswerSubmitterProps> = ({
   autoSubmitSilenceMs = 1500,
   testID = 'answer-submitter',
 }) => {
+  const { colors } = useTheme();
   const [timeRemaining, setTimeRemaining] = useState(Math.ceil(answerTimeMs / 1000));
   const timerRef = useRef<TimerRef>(null);
   const hasCalledTimeUpRef = useRef(false);
@@ -146,7 +148,7 @@ export const AnswerSubmitter: React.FC<AnswerSubmitterProps> = ({
   return (
     <View style={styles.container} testID={testID}>
       <View style={styles.header}>
-        <Text variant="labelMedium" style={styles.label}>
+        <Text variant="labelMedium" style={[styles.label, { color: colors.text.secondary }]}>
           Your Answer
         </Text>
         <Animated.View
@@ -156,7 +158,7 @@ export const AnswerSubmitter: React.FC<AnswerSubmitterProps> = ({
           ]}
           testID={`${testID}-timer`}
         >
-          <Text variant="labelLarge" style={styles.timerText}>
+          <Text variant="labelLarge" style={[styles.timerText, { color: colors.surface.default }]}>
             {getTimerDisplay()}
           </Text>
         </Animated.View>
@@ -186,7 +188,6 @@ const styles = StyleSheet.create({
     marginBottom: spacing.sm,
   },
   label: {
-    color: colors.text.secondary,
     fontWeight: '600',
   },
   timer: {
@@ -197,7 +198,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   timerText: {
-    color: colors.surface.default,
     fontWeight: 'bold',
   },
 });

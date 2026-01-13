@@ -8,8 +8,8 @@
 import React, { useEffect, useRef, useState } from 'react';
 import { StyleSheet, View, Alert, TouchableOpacity } from 'react-native';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
-import { colors } from '@monorepo/ui-components';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
+import { useTheme } from '../providers/ThemeProvider';
 import type { QuizStackParamList } from '../types/navigation';
 import type {
   QuizState,
@@ -52,6 +52,7 @@ const REVIEW_DURATION = 2000; // 2 seconds to show result
 
 export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   const database = useDatabase();
+  const { colors } = useTheme();
 
   // Quiz data
   const [quizData, setQuizData] = useState<QuizData | null>(null);
@@ -809,13 +810,13 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
   };
 
   if (!quizData || !currentQuestion) {
-    return <View style={styles.container} />;
+    return <View style={[styles.container, { backgroundColor: colors.background.default }]} />;
   }
 
   return (
-    <View style={styles.container}>
+    <View style={[styles.container, { backgroundColor: colors.background.default }]}>
       {/* Header */}
-      <View style={styles.header}>
+      <View style={[styles.header, { backgroundColor: colors.surface.default, borderBottomColor: colors.divider }]}>
         <ProgressIndicator
           currentQuestion={currentQuestionIndex + 1}
           totalQuestions={getTotalQuestions()}
@@ -909,7 +910,6 @@ export const QuizScreen: React.FC<Props> = ({ navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: colors.background.default,
   },
   header: {
     flexDirection: 'row',
@@ -917,9 +917,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     paddingHorizontal: 16,
     paddingVertical: 12,
-    backgroundColor: colors.surface.default,
     borderBottomWidth: 1,
-    borderBottomColor: colors.divider,
   },
   headerRight: {
     flexDirection: 'row',

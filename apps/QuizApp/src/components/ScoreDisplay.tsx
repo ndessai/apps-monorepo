@@ -7,7 +7,8 @@
 import React from 'react';
 import { StyleSheet, View } from 'react-native';
 import { Text } from 'react-native-paper';
-import { colors, spacing, elevation, radius } from '@monorepo/ui-components';
+import { spacing, elevation, radius } from '@monorepo/ui-components';
+import { useTheme } from '../providers/ThemeProvider';
 
 interface ScoreDisplayProps {
   currentScore: number;
@@ -20,12 +21,14 @@ export const ScoreDisplay: React.FC<ScoreDisplayProps> = ({
   maxScore,
   testID = 'score-display',
 }) => {
+  const { colors } = useTheme();
+
   return (
-    <View style={styles.container} testID={testID}>
+    <View style={[styles.container, { backgroundColor: colors.surface.variant }]} testID={testID}>
       <Text variant="titleMedium" style={styles.text}>
-        <Text style={styles.currentScore}>{currentScore}</Text>
-        <Text style={styles.separator}> / </Text>
-        <Text style={styles.maxScore}>{maxScore}</Text>
+        <Text style={[styles.currentScore, { color: colors.primary.main }]}>{currentScore}</Text>
+        <Text style={[styles.separator, { color: colors.text.secondary }]}> / </Text>
+        <Text style={[styles.maxScore, { color: colors.text.secondary }]}>{maxScore}</Text>
       </Text>
     </View>
   );
@@ -33,7 +36,6 @@ export const ScoreDisplay: React.FC<ScoreDisplayProps> = ({
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: colors.surface.variant,
     paddingHorizontal: spacing.md,
     paddingVertical: spacing.sm,
     borderRadius: radius.md,
@@ -43,14 +45,10 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
   currentScore: {
-    color: colors.primary.main,
     fontSize: 18,
   },
-  separator: {
-    color: colors.text.secondary,
-  },
+  separator: {},
   maxScore: {
-    color: colors.text.secondary,
     fontSize: 18,
   },
 });

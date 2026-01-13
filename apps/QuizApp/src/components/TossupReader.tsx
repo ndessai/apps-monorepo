@@ -8,7 +8,8 @@ import React from 'react';
 import { StyleSheet, View, ScrollView } from 'react-native';
 import { Card, Text } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import { colors, spacing, elevation, radius } from '@monorepo/ui-components';
+import { spacing, elevation, radius } from '@monorepo/ui-components';
+import { useTheme } from '../providers/ThemeProvider';
 
 interface TossupReaderProps {
   text: string;
@@ -27,6 +28,7 @@ export const TossupReader: React.FC<TossupReaderProps> = ({
   bonusPartIndex,
   testID = 'tossup-reader',
 }) => {
+  const { colors } = useTheme();
   const scrollViewRef = React.useRef<ScrollView>(null);
 
   // Get the revealed text (everything up to current character index)
@@ -52,19 +54,19 @@ export const TossupReader: React.FC<TossupReaderProps> = ({
   }, [currentCharIndex]);
 
   return (
-    <Card style={styles.card} testID={testID}>
+    <Card style={[styles.card, { backgroundColor: colors.surface.default }]} testID={testID}>
       <Card.Content style={styles.cardContent}>
-        <View style={styles.header}>
+        <View style={[styles.header, { borderBottomColor: colors.divider }]}>
           <Icon name="book-open-variant" size={20} color={colors.primary.main} />
-          <Text variant="labelMedium" style={styles.headerText}>
+          <Text variant="labelMedium" style={[styles.headerText, { color: colors.text.secondary }]}>
             {questionType === 'bonus'
               ? `Bonus Part ${(bonusPartIndex ?? 0) + 1}`
               : 'Toss-up Question'}
           </Text>
           {inPowerZone && (
-            <View style={styles.powerMarkBadge}>
+            <View style={[styles.powerMarkBadge, { backgroundColor: colors.warning.container }]}>
               <Icon name="star" size={14} color={colors.warning.main} />
-              <Text variant="labelSmall" style={styles.powerMarkText}>
+              <Text variant="labelSmall" style={[styles.powerMarkText, { color: colors.warning.onContainer }]}>
                 Power
               </Text>
             </View>
@@ -77,10 +79,10 @@ export const TossupReader: React.FC<TossupReaderProps> = ({
           contentContainerStyle={styles.scrollContent}
           showsVerticalScrollIndicator={false}
         >
-          <Text variant="bodyLarge" style={styles.questionText}>
+          <Text variant="bodyLarge" style={[styles.questionText, { color: colors.text.primary }]}>
             {revealedText}
             {currentCharIndex < text.length && (
-              <Text style={styles.cursor}>|</Text>
+              <Text style={[styles.cursor, { color: colors.primary.main }]}>|</Text>
             )}
           </Text>
         </ScrollView>
@@ -92,7 +94,6 @@ export const TossupReader: React.FC<TossupReaderProps> = ({
 const styles = StyleSheet.create({
   card: {
     margin: spacing.lg,
-    backgroundColor: colors.surface.default,
     ...elevation.level2,
   },
   cardContent: {
@@ -104,25 +105,21 @@ const styles = StyleSheet.create({
     marginBottom: spacing.md,
     paddingBottom: spacing.sm,
     borderBottomWidth: 1,
-    borderBottomColor: colors.divider,
   },
   headerText: {
     marginLeft: spacing.xs,
-    color: colors.text.secondary,
     fontWeight: '600',
     flex: 1,
   },
   powerMarkBadge: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: colors.warning.light,
     paddingHorizontal: spacing.sm,
     paddingVertical: spacing.xs,
     borderRadius: radius.full,
   },
   powerMarkText: {
     marginLeft: spacing.xs,
-    color: colors.warning.dark,
     fontWeight: '600',
   },
   scrollView: {
@@ -132,12 +129,10 @@ const styles = StyleSheet.create({
     paddingVertical: spacing.sm,
   },
   questionText: {
-    color: colors.text.primary,
     lineHeight: 28,
     fontSize: 16,
   },
   cursor: {
-    color: colors.primary.main,
     fontWeight: 'bold',
   },
 });

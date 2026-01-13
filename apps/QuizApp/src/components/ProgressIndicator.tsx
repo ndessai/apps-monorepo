@@ -8,7 +8,8 @@ import React from 'react';
 import { StyleSheet, View } from 'react-native';
 import { Text } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import { colors, spacing } from '@monorepo/ui-components';
+import { spacing } from '@monorepo/ui-components';
+import { useTheme } from '../providers/ThemeProvider';
 
 interface ProgressIndicatorProps {
   currentQuestion: number;
@@ -27,6 +28,7 @@ export const ProgressIndicator: React.FC<ProgressIndicatorProps> = ({
   totalBonusParts,
   testID = 'progress-indicator',
 }) => {
+  const { colors } = useTheme();
   const iconName = questionType === 'tossup' ? 'bell-ring' : 'star-three-points';
   const label =
     questionType === 'tossup'
@@ -41,7 +43,7 @@ export const ProgressIndicator: React.FC<ProgressIndicatorProps> = ({
         color={colors.text.secondary}
         style={styles.icon}
       />
-      <Text variant="bodyMedium" style={styles.text}>
+      <Text variant="bodyMedium" style={[styles.text, { color: colors.text.secondary }]}>
         {label}
       </Text>
     </View>
@@ -57,7 +59,5 @@ const styles = StyleSheet.create({
   icon: {
     marginRight: spacing.xs,
   },
-  text: {
-    color: colors.text.secondary,
-  },
+  text: {},
 });

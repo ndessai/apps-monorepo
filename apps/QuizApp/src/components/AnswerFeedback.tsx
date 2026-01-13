@@ -18,7 +18,8 @@ import {
 } from 'react-native';
 import { Text } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import { colors, spacing, elevation, radius } from '@monorepo/ui-components';
+import { spacing, elevation, radius } from '@monorepo/ui-components';
+import { useTheme } from '../providers/ThemeProvider';
 
 type TimerRef = ReturnType<typeof setInterval> | null;
 
@@ -49,6 +50,7 @@ export const AnswerFeedback: React.FC<AnswerFeedbackProps> = ({
   onReviewComplete,
   testID = 'answer-feedback',
 }) => {
+  const { colors } = useTheme();
   const translateY = useRef(new Animated.Value(SHEET_HEIGHT)).current;
   const [timeRemaining, setTimeRemaining] = useState(Math.ceil(reviewTimeMs / 1000));
   const timerRef = useRef<TimerRef>(null);
@@ -169,6 +171,7 @@ export const AnswerFeedback: React.FC<AnswerFeedbackProps> = ({
         style={[
           styles.container,
           {
+            backgroundColor: colors.surface.default,
             transform: [{ translateY }],
           },
         ]}
@@ -176,7 +179,7 @@ export const AnswerFeedback: React.FC<AnswerFeedbackProps> = ({
       >
         {/* Drag handle */}
         <View style={styles.handleContainer}>
-          <View style={styles.handle} />
+          <View style={[styles.handle, { backgroundColor: colors.divider }]} />
         </View>
 
         {/* Content */}
@@ -189,11 +192,11 @@ export const AnswerFeedback: React.FC<AnswerFeedbackProps> = ({
                 {statusText}
               </Text>
             </View>
-            <View style={styles.pointsBadge}>
+            <View style={[styles.pointsBadge, { backgroundColor: colors.background.default }]}>
               <Text variant="titleLarge" style={[styles.pointsText, { color: getPointsColor() }]}>
                 {getPointsDisplay()}
               </Text>
-              <Text variant="labelSmall" style={styles.pointsLabel}>
+              <Text variant="labelSmall" style={[styles.pointsLabel, { color: colors.text.secondary }]}>
                 points
               </Text>
             </View>
@@ -202,7 +205,7 @@ export const AnswerFeedback: React.FC<AnswerFeedbackProps> = ({
           {/* User answer */}
           {userAnswer && (
             <View style={styles.answerSection}>
-              <Text variant="labelMedium" style={styles.sectionLabel}>
+              <Text variant="labelMedium" style={[styles.sectionLabel, { color: colors.text.secondary }]}>
                 Your Answer
               </Text>
               <Text
@@ -220,10 +223,10 @@ export const AnswerFeedback: React.FC<AnswerFeedbackProps> = ({
           {/* Acceptable answers */}
           {!isCorrect && acceptableAnswers.length > 0 && (
             <View style={styles.answerSection}>
-              <Text variant="labelMedium" style={styles.sectionLabel}>
+              <Text variant="labelMedium" style={[styles.sectionLabel, { color: colors.text.secondary }]}>
                 Acceptable Answers
               </Text>
-              <Text variant="bodyMedium" style={styles.acceptableAnswers}>
+              <Text variant="bodyMedium" style={[styles.acceptableAnswers, { color: colors.text.primary }]}>
                 {acceptableAnswers.join(', ')}
               </Text>
             </View>
@@ -231,13 +234,13 @@ export const AnswerFeedback: React.FC<AnswerFeedbackProps> = ({
 
           {/* Timer */}
           <View style={styles.timerRow}>
-            <Text variant="bodySmall" style={styles.timerLabel}>
+            <Text variant="bodySmall" style={[styles.timerLabel, { color: colors.text.secondary }]}>
               {questionType === 'tossup' ? 'Next question in' : 'Next part in'}
             </Text>
             <Animated.View
-              style={[styles.timerBadge, { transform: [{ scale: pulseAnim }] }]}
+              style={[styles.timerBadge, { backgroundColor: colors.primary.main, transform: [{ scale: pulseAnim }] }]}
             >
-              <Text variant="headlineSmall" style={styles.timerText}>
+              <Text variant="headlineSmall" style={[styles.timerText, { color: colors.surface.default }]}>
                 {timeRemaining}s
               </Text>
             </Animated.View>
@@ -257,7 +260,6 @@ const styles = StyleSheet.create({
   },
   container: {
     height: SHEET_HEIGHT,
-    backgroundColor: colors.surface.default,
     borderTopLeftRadius: radius.lg,
     borderTopRightRadius: radius.lg,
     ...elevation.level4,
@@ -270,7 +272,6 @@ const styles = StyleSheet.create({
   handle: {
     width: 40,
     height: 4,
-    backgroundColor: colors.divider,
     borderRadius: radius.full,
   },
   content: {
@@ -296,29 +297,23 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     paddingHorizontal: spacing.md,
     paddingVertical: spacing.xs,
-    backgroundColor: colors.background.default,
     borderRadius: radius.md,
   },
   pointsText: {
     fontWeight: 'bold',
   },
-  pointsLabel: {
-    color: colors.text.secondary,
-  },
+  pointsLabel: {},
   answerSection: {
     marginBottom: spacing.md,
   },
   sectionLabel: {
-    color: colors.text.secondary,
     marginBottom: spacing.xs,
     fontWeight: '600',
   },
   userAnswer: {
     fontWeight: '500',
   },
-  acceptableAnswers: {
-    color: colors.text.primary,
-  },
+  acceptableAnswers: {},
   timerRow: {
     flexDirection: 'row',
     justifyContent: 'center',
@@ -327,19 +322,16 @@ const styles = StyleSheet.create({
     paddingTop: spacing.md,
   },
   timerLabel: {
-    color: colors.text.secondary,
     marginRight: spacing.sm,
   },
   timerBadge: {
     paddingHorizontal: spacing.lg,
     paddingVertical: spacing.sm,
-    backgroundColor: colors.primary.main,
     borderRadius: radius.full,
     minWidth: 60,
     alignItems: 'center',
   },
   timerText: {
-    color: colors.surface.default,
     fontWeight: 'bold',
   },
 });

@@ -10,7 +10,8 @@ import React, { useEffect, useRef } from 'react';
 import { StyleSheet, Pressable, Animated, View } from 'react-native';
 import { Text } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import { colors, spacing, elevation } from '@monorepo/ui-components';
+import { elevation } from '@monorepo/ui-components';
+import { useTheme } from '../providers/ThemeProvider';
 
 interface BuzzButtonProps {
   onPress: () => void;
@@ -27,6 +28,7 @@ export const BuzzButton: React.FC<BuzzButtonProps> = ({
   countdownSeconds,
   testID = 'buzz-button',
 }) => {
+  const { colors } = useTheme();
   const scaleAnim = useRef(new Animated.Value(1)).current;
   const shakeAnim = useRef(new Animated.Value(0)).current;
 
@@ -91,13 +93,19 @@ export const BuzzButton: React.FC<BuzzButtonProps> = ({
     outputRange: ['-15deg', '0deg', '15deg'],
   });
 
+  // Get button background color based on state
+  const getBackgroundColor = () => {
+    if (disabled) return colors.text.disabled;
+    if (isInBuzzWindow) return colors.warning.main;
+    return colors.primary.main;
+  };
+
   return (
     <Animated.View
       style={[
         styles.container,
-        { transform: [{ scale: scaleAnim }] },
+        { backgroundColor: getBackgroundColor(), transform: [{ scale: scaleAnim }] },
         disabled && styles.disabled,
-        isInBuzzWindow && styles.buzzWindow,
       ]}
     >
       <Pressable
@@ -112,14 +120,14 @@ export const BuzzButton: React.FC<BuzzButtonProps> = ({
           <Icon
             name={isInBuzzWindow ? 'bell-ring' : 'bell'}
             size={48}
-            color={colors.surface.default}
+            color={colors.primary.onPrimary}
           />
         </Animated.View>
 
         {/* Countdown overlay when in buzz window */}
         {isInBuzzWindow && countdownSeconds !== undefined && (
-          <View style={styles.countdownOverlay}>
-            <Text style={styles.countdownText}>{countdownSeconds}</Text>
+          <View style={[styles.countdownOverlay, { backgroundColor: colors.error.main }]}>
+            <Text style={[styles.countdownText, { color: colors.error.onError }]}>{countdownSeconds}</Text>
           </View>
         )}
       </Pressable>
@@ -132,7 +140,6 @@ const styles = StyleSheet.create({
     width: 100,
     height: 100,
     borderRadius: 50,
-    backgroundColor: colors.primary.main,
     justifyContent: 'center',
     alignItems: 'center',
     ...elevation.level3,
@@ -145,17 +152,12 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   disabled: {
-    backgroundColor: colors.text.disabled,
     opacity: 0.5,
-  },
-  buzzWindow: {
-    backgroundColor: colors.warning.main,
   },
   countdownOverlay: {
     position: 'absolute',
     bottom: 8,
     right: 8,
-    backgroundColor: colors.error.main,
     width: 28,
     height: 28,
     borderRadius: 14,
@@ -164,7 +166,6 @@ const styles = StyleSheet.create({
     ...elevation.level2,
   },
   countdownText: {
-    color: colors.surface.default,
     fontWeight: 'bold',
     fontSize: 14,
   },

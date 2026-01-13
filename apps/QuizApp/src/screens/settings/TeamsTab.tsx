@@ -15,10 +15,10 @@ import {
   Modal,
   TextInput,
   ActivityIndicator,
-  IconButton,
 } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import { colors, spacing } from '@monorepo/ui-components';
+import { spacing } from '@monorepo/ui-components';
+import { useTheme } from '../../providers/ThemeProvider';
 import { useDatabase } from '../../providers/DatabaseProvider';
 import { getCurrentUser } from '../../services/userService';
 import {
@@ -30,6 +30,7 @@ import {
 import type { TeamData } from '../../types/settings';
 
 export const TeamsTab: React.FC = () => {
+  const { colors } = useTheme();
   const database = useDatabase();
   const [teams, setTeams] = useState<TeamData[]>([]);
   const [isLoading, setIsLoading] = useState(true);
@@ -150,29 +151,29 @@ export const TeamsTab: React.FC = () => {
     const isOwner = item.ownerId === userId;
 
     return (
-      <Card style={styles.teamCard} testID={`team-card-${item.teamId}`}>
+      <Card style={[styles.teamCard, { backgroundColor: colors.surface.default }]} testID={`team-card-${item.teamId}`}>
         <Card.Content>
           <View style={styles.teamHeader}>
             <View style={styles.teamInfo}>
-              <Text variant="titleMedium" style={styles.teamName}>
+              <Text variant="titleMedium" style={[styles.teamName, { color: colors.text.primary }]}>
                 {item.name}
               </Text>
               {item.description && (
-                <Text variant="bodySmall" style={styles.teamDescription}>
+                <Text variant="bodySmall" style={[styles.teamDescription, { color: colors.text.secondary }]}>
                   {item.description}
                 </Text>
               )}
             </View>
             {isOwner && (
-              <View style={styles.ownerBadge}>
+              <View style={[styles.ownerBadge, { backgroundColor: colors.warning.light }]}>
                 <Icon name="crown" size={16} color={colors.warning.main} />
-                <Text style={styles.ownerText}>Owner</Text>
+                <Text style={[styles.ownerText, { color: colors.warning.dark }]}>Owner</Text>
               </View>
             )}
           </View>
           <View style={styles.teamMeta}>
             <Icon name="account-group" size={16} color={colors.text.secondary} />
-            <Text style={styles.memberCount}>{item.memberCount} members</Text>
+            <Text style={[styles.memberCount, { color: colors.text.secondary }]}>{item.memberCount} members</Text>
           </View>
         </Card.Content>
         <Card.Actions>
@@ -202,10 +203,10 @@ export const TeamsTab: React.FC = () => {
   const renderEmptyState = () => (
     <View style={styles.emptyContainer}>
       <Icon name="account-group-outline" size={64} color={colors.text.disabled} />
-      <Text variant="titleMedium" style={styles.emptyTitle}>
+      <Text variant="titleMedium" style={[styles.emptyTitle, { color: colors.text.primary }]}>
         No Teams Yet
       </Text>
-      <Text variant="bodyMedium" style={styles.emptyText}>
+      <Text variant="bodyMedium" style={[styles.emptyText, { color: colors.text.secondary }]}>
         Create a team to collaborate with others
       </Text>
     </View>
@@ -213,14 +214,14 @@ export const TeamsTab: React.FC = () => {
 
   if (isLoading) {
     return (
-      <View style={styles.loadingContainer}>
+      <View style={[styles.loadingContainer, { backgroundColor: colors.background.default }]}>
         <ActivityIndicator size="large" color={colors.primary.main} />
       </View>
     );
   }
 
   return (
-    <View style={styles.container}>
+    <View style={[styles.container, { backgroundColor: colors.background.default }]}>
       <FlatList
         data={teams}
         renderItem={renderTeamCard}
@@ -234,7 +235,7 @@ export const TeamsTab: React.FC = () => {
 
       <FAB
         icon="plus"
-        style={styles.fab}
+        style={[styles.fab, { backgroundColor: colors.primary.main }]}
         onPress={() => setShowCreateModal(true)}
         testID="create-team-fab"
       />
@@ -244,16 +245,16 @@ export const TeamsTab: React.FC = () => {
         <Modal
           visible={showCreateModal}
           onDismiss={() => setShowCreateModal(false)}
-          contentContainerStyle={styles.modal}
+          contentContainerStyle={[styles.modal, { backgroundColor: colors.surface.default }]}
         >
-          <Text variant="titleLarge" style={styles.modalTitle}>
+          <Text variant="titleLarge" style={[styles.modalTitle, { color: colors.text.primary }]}>
             Create Team
           </Text>
           <TextInput
             label="Team Name"
             value={newTeamName}
             onChangeText={setNewTeamName}
-            style={styles.input}
+            style={[styles.input, { backgroundColor: colors.surface.default }]}
             testID="team-name-input"
           />
           <TextInput
@@ -261,7 +262,7 @@ export const TeamsTab: React.FC = () => {
             value={newTeamDescription}
             onChangeText={setNewTeamDescription}
             multiline
-            style={styles.input}
+            style={[styles.input, { backgroundColor: colors.surface.default }]}
             testID="team-description-input"
           />
           <View style={styles.modalActions}>
@@ -284,9 +285,9 @@ export const TeamsTab: React.FC = () => {
         <Modal
           visible={showInviteModal}
           onDismiss={() => setShowInviteModal(false)}
-          contentContainerStyle={styles.modal}
+          contentContainerStyle={[styles.modal, { backgroundColor: colors.surface.default }]}
         >
-          <Text variant="titleLarge" style={styles.modalTitle}>
+          <Text variant="titleLarge" style={[styles.modalTitle, { color: colors.text.primary }]}>
             Invite Member
           </Text>
           <TextInput
@@ -295,7 +296,7 @@ export const TeamsTab: React.FC = () => {
             onChangeText={setInviteEmail}
             keyboardType="email-address"
             autoCapitalize="none"
-            style={styles.input}
+            style={[styles.input, { backgroundColor: colors.surface.default }]}
             testID="invite-email-input"
           />
           <View style={styles.modalActions}>
@@ -319,13 +320,11 @@ export const TeamsTab: React.FC = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: colors.background.default,
   },
   loadingContainer: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: colors.background.default,
   },
   listContent: {
     padding: spacing.md,
@@ -333,7 +332,6 @@ const styles = StyleSheet.create({
   },
   teamCard: {
     marginBottom: spacing.md,
-    backgroundColor: colors.surface.default,
   },
   teamHeader: {
     flexDirection: 'row',
@@ -345,23 +343,19 @@ const styles = StyleSheet.create({
   },
   teamName: {
     fontWeight: '600',
-    color: colors.text.primary,
   },
   teamDescription: {
-    color: colors.text.secondary,
     marginTop: spacing.xs,
   },
   ownerBadge: {
     flexDirection: 'row',
     alignItems: 'center',
-    backgroundColor: colors.warning.light,
     paddingHorizontal: spacing.sm,
     paddingVertical: spacing.xs,
     borderRadius: 12,
   },
   ownerText: {
     fontSize: 12,
-    color: colors.warning.dark,
     marginLeft: 4,
   },
   teamMeta: {
@@ -371,7 +365,6 @@ const styles = StyleSheet.create({
   },
   memberCount: {
     marginLeft: spacing.xs,
-    color: colors.text.secondary,
     fontSize: 14,
   },
   emptyContainer: {
@@ -381,32 +374,26 @@ const styles = StyleSheet.create({
     paddingVertical: spacing['2xl'],
   },
   emptyTitle: {
-    color: colors.text.primary,
     marginTop: spacing.md,
   },
   emptyText: {
-    color: colors.text.secondary,
     marginTop: spacing.xs,
   },
   fab: {
     position: 'absolute',
     right: spacing.md,
     bottom: spacing.md,
-    backgroundColor: colors.primary.main,
   },
   modal: {
-    backgroundColor: colors.surface.default,
     margin: spacing.lg,
     padding: spacing.lg,
     borderRadius: 12,
   },
   modalTitle: {
     marginBottom: spacing.md,
-    color: colors.text.primary,
   },
   input: {
     marginBottom: spacing.md,
-    backgroundColor: colors.surface.default,
   },
   modalActions: {
     flexDirection: 'row',

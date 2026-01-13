@@ -9,7 +9,8 @@ import React, { useEffect, useRef } from 'react';
 import { StyleSheet, View, ScrollView } from 'react-native';
 import { Text } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import { colors, spacing, radius } from '@monorepo/ui-components';
+import { spacing, radius } from '@monorepo/ui-components';
+import { useTheme } from '../providers/ThemeProvider';
 
 interface QuestionDisplayProps {
   text: string;
@@ -24,6 +25,7 @@ export const QuestionDisplay: React.FC<QuestionDisplayProps> = ({
   powerMarkPosition,
   testID = 'question-display',
 }) => {
+  const { colors } = useTheme();
   const scrollViewRef = useRef<ScrollView>(null);
   const wordRefs = useRef<Map<number, View>>(new Map());
 
@@ -103,7 +105,7 @@ export const QuestionDisplay: React.FC<QuestionDisplayProps> = ({
   }, [currentWordIndex]);
 
   return (
-    <View style={styles.container} testID={testID}>
+    <View style={[styles.container, { backgroundColor: colors.surface.default }]} testID={testID}>
       <ScrollView
         ref={scrollViewRef}
         style={styles.scrollView}
@@ -133,14 +135,15 @@ export const QuestionDisplay: React.FC<QuestionDisplayProps> = ({
                 <View
                   style={[
                     styles.wordContainer,
-                    isHighlighted && styles.highlightedWord,
+                    isHighlighted && { backgroundColor: colors.primary.light },
                   ]}
                 >
                   <Text
                     variant="bodyLarge"
                     style={[
                       styles.wordText,
-                      isHighlighted && styles.highlightedText,
+                      { color: colors.text.primary },
+                      isHighlighted && { color: colors.primary.dark, fontWeight: '600' },
                     ]}
                   >
                     {word.text}
@@ -166,7 +169,6 @@ export const QuestionDisplay: React.FC<QuestionDisplayProps> = ({
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: colors.surface.default,
   },
   scrollView: {
     flex: 1,
@@ -189,16 +191,7 @@ const styles = StyleSheet.create({
     paddingVertical: 2,
     borderRadius: radius.sm,
   },
-  highlightedWord: {
-    backgroundColor: colors.primary.light,
-  },
-  wordText: {
-    color: colors.text.primary,
-  },
-  highlightedText: {
-    color: colors.primary.dark,
-    fontWeight: '600',
-  },
+  wordText: {},
   powerMarkIcon: {
     marginLeft: 2,
   },

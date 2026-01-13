@@ -12,8 +12,8 @@
 import React from 'react';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import { colors } from '@monorepo/ui-components';
 import type { SettingsTabParamList } from '../types/navigation';
+import { useTheme } from '../providers/ThemeProvider';
 import {
   ProfileTab,
   TeamsTab,
@@ -33,11 +33,13 @@ const TAB_ICONS: Record<keyof SettingsTabParamList, string> = {
 };
 
 export const SettingsTabNavigator: React.FC = () => {
+  const { colors } = useTheme();
+
   return (
     <Tab.Navigator
       screenOptions={({ route }) => ({
         headerShown: false,
-        tabBarIcon: ({ focused, color, size }) => (
+        tabBarIcon: ({ color, size }) => (
           <Icon
             name={TAB_ICONS[route.name]}
             size={size}

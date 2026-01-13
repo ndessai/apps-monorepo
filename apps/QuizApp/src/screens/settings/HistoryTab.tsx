@@ -2,7 +2,8 @@ import React, { useState, useEffect, useCallback } from 'react';
 import { View, StyleSheet, FlatList, RefreshControl } from 'react-native';
 import { Text, Card, ActivityIndicator, Divider } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import { colors, spacing } from '@monorepo/ui-components';
+import { spacing } from '@monorepo/ui-components';
+import { useTheme } from '../../providers/ThemeProvider';
 import { useDatabase } from '../../providers/DatabaseProvider';
 import { getCurrentUser } from '../../services/userService';
 import { getUserHistory, getUserStats } from '../../services/historyService';
@@ -10,6 +11,7 @@ import type { QuizHistoryEntry, QuizHistoryStats, NAQTDifficulty } from '../../t
 import { NAQT_DIFFICULTY_LABELS } from '../../types/settings';
 
 export const HistoryTab: React.FC = () => {
+  const { colors } = useTheme();
   const database = useDatabase();
   const [history, setHistory] = useState<QuizHistoryEntry[]>([]);
   const [stats, setStats] = useState<QuizHistoryStats | null>(null);
@@ -72,45 +74,45 @@ export const HistoryTab: React.FC = () => {
     if (!stats || stats.totalQuizzes === 0) return null;
 
     return (
-      <Card style={styles.statsCard}>
+      <Card style={[styles.statsCard, { backgroundColor: colors.surface.default }]}>
         <Card.Content>
-          <Text variant="titleMedium" style={styles.statsTitle}>
+          <Text variant="titleMedium" style={[styles.statsTitle, { color: colors.text.primary }]}>
             Your Statistics
           </Text>
           <View style={styles.statsGrid}>
             <View style={styles.statItem}>
               <Icon name="book-open-variant" size={24} color={colors.primary.main} />
-              <Text variant="headlineSmall" style={styles.statValue}>
+              <Text variant="headlineSmall" style={[styles.statValue, { color: colors.text.primary }]}>
                 {stats.totalQuizzes}
               </Text>
-              <Text variant="bodySmall" style={styles.statLabel}>
+              <Text variant="bodySmall" style={[styles.statLabel, { color: colors.text.secondary }]}>
                 Quizzes
               </Text>
             </View>
             <View style={styles.statItem}>
               <Icon name="percent" size={24} color={colors.success.main} />
-              <Text variant="headlineSmall" style={styles.statValue}>
+              <Text variant="headlineSmall" style={[styles.statValue, { color: colors.text.primary }]}>
                 {stats.averageAccuracy.toFixed(0)}%
               </Text>
-              <Text variant="bodySmall" style={styles.statLabel}>
+              <Text variant="bodySmall" style={[styles.statLabel, { color: colors.text.secondary }]}>
                 Avg Accuracy
               </Text>
             </View>
             <View style={styles.statItem}>
               <Icon name="trophy" size={24} color={colors.warning.main} />
-              <Text variant="headlineSmall" style={styles.statValue}>
+              <Text variant="headlineSmall" style={[styles.statValue, { color: colors.text.primary }]}>
                 {stats.bestAccuracy.toFixed(0)}%
               </Text>
-              <Text variant="bodySmall" style={styles.statLabel}>
+              <Text variant="bodySmall" style={[styles.statLabel, { color: colors.text.secondary }]}>
                 Best Score
               </Text>
             </View>
             <View style={styles.statItem}>
               <Icon name="sigma" size={24} color={colors.info?.main || colors.primary.main} />
-              <Text variant="headlineSmall" style={styles.statValue}>
+              <Text variant="headlineSmall" style={[styles.statValue, { color: colors.text.primary }]}>
                 {stats.totalScore}
               </Text>
-              <Text variant="bodySmall" style={styles.statLabel}>
+              <Text variant="bodySmall" style={[styles.statLabel, { color: colors.text.secondary }]}>
                 Total Points
               </Text>
             </View>
@@ -122,14 +124,14 @@ export const HistoryTab: React.FC = () => {
 
   const renderHistoryEntry = ({ item }: { item: QuizHistoryEntry }) => {
     return (
-      <Card style={styles.historyCard} testID={`history-entry-${item.sessionId}`}>
+      <Card style={[styles.historyCard, { backgroundColor: colors.surface.default }]} testID={`history-entry-${item.sessionId}`}>
         <Card.Content>
           <View style={styles.historyHeader}>
             <View>
-              <Text variant="titleMedium" style={styles.historyDate}>
+              <Text variant="titleMedium" style={[styles.historyDate, { color: colors.text.primary }]}>
                 {formatDate(item.completedAt)}
               </Text>
-              <Text variant="bodySmall" style={styles.historyDifficulty}>
+              <Text variant="bodySmall" style={[styles.historyDifficulty, { color: colors.text.secondary }]}>
                 {NAQT_DIFFICULTY_LABELS[item.difficulty as NAQTDifficulty] || item.difficulty}
               </Text>
             </View>
@@ -148,29 +150,29 @@ export const HistoryTab: React.FC = () => {
           <View style={styles.historyDetails}>
             <View style={styles.detailRow}>
               <Icon name="check-circle" size={16} color={colors.success.main} />
-              <Text style={styles.detailText}>
+              <Text style={[styles.detailText, { color: colors.text.secondary }]}>
                 Tossups: {item.tossupCorrect}/{item.tossupTotal}
               </Text>
             </View>
             <View style={styles.detailRow}>
               <Icon name="star" size={16} color={colors.warning.main} />
-              <Text style={styles.detailText}>
+              <Text style={[styles.detailText, { color: colors.text.secondary }]}>
                 Bonus: {item.bonusPoints}/{item.bonusMaxPoints} pts
               </Text>
             </View>
             <View style={styles.detailRow}>
               <Icon name="timer" size={16} color={colors.text.secondary} />
-              <Text style={styles.detailText}>
+              <Text style={[styles.detailText, { color: colors.text.secondary }]}>
                 {formatDuration(item.durationSeconds)}
               </Text>
             </View>
           </View>
 
           <View style={styles.totalScore}>
-            <Text variant="bodyMedium" style={styles.totalLabel}>
+            <Text variant="bodyMedium" style={[styles.totalLabel, { color: colors.text.secondary }]}>
               Total Score:
             </Text>
-            <Text variant="titleMedium" style={styles.totalValue}>
+            <Text variant="titleMedium" style={[styles.totalValue, { color: colors.primary.main }]}>
               {item.totalScore}/{item.maxScore}
             </Text>
           </View>
@@ -182,10 +184,10 @@ export const HistoryTab: React.FC = () => {
   const renderEmptyState = () => (
     <View style={styles.emptyContainer}>
       <Icon name="history" size={64} color={colors.text.disabled} />
-      <Text variant="titleMedium" style={styles.emptyTitle}>
+      <Text variant="titleMedium" style={[styles.emptyTitle, { color: colors.text.primary }]}>
         No Quiz History
       </Text>
-      <Text variant="bodyMedium" style={styles.emptyText}>
+      <Text variant="bodyMedium" style={[styles.emptyText, { color: colors.text.secondary }]}>
         Complete some quizzes to see your history
       </Text>
     </View>
@@ -193,14 +195,14 @@ export const HistoryTab: React.FC = () => {
 
   if (isLoading) {
     return (
-      <View style={styles.loadingContainer}>
+      <View style={[styles.loadingContainer, { backgroundColor: colors.background.default }]}>
         <ActivityIndicator size="large" color={colors.primary.main} />
       </View>
     );
   }
 
   return (
-    <View style={styles.container}>
+    <View style={[styles.container, { backgroundColor: colors.background.default }]}>
       <FlatList
         data={history}
         renderItem={renderHistoryEntry}
@@ -219,13 +221,11 @@ export const HistoryTab: React.FC = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: colors.background.default,
   },
   loadingContainer: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: colors.background.default,
   },
   listContent: {
     padding: spacing.md,
@@ -233,10 +233,8 @@ const styles = StyleSheet.create({
   },
   statsCard: {
     marginBottom: spacing.lg,
-    backgroundColor: colors.surface.default,
   },
   statsTitle: {
-    color: colors.text.primary,
     fontWeight: '600',
     marginBottom: spacing.md,
   },
@@ -251,17 +249,14 @@ const styles = StyleSheet.create({
     paddingVertical: spacing.md,
   },
   statValue: {
-    color: colors.text.primary,
     fontWeight: '600',
     marginTop: spacing.xs,
   },
   statLabel: {
-    color: colors.text.secondary,
     marginTop: spacing.xs,
   },
   historyCard: {
     marginBottom: spacing.md,
-    backgroundColor: colors.surface.default,
   },
   historyHeader: {
     flexDirection: 'row',
@@ -269,11 +264,9 @@ const styles = StyleSheet.create({
     alignItems: 'flex-start',
   },
   historyDate: {
-    color: colors.text.primary,
     fontWeight: '600',
   },
   historyDifficulty: {
-    color: colors.text.secondary,
     marginTop: spacing.xs,
   },
   scoreContainer: {
@@ -296,7 +289,6 @@ const styles = StyleSheet.create({
   },
   detailText: {
     marginLeft: spacing.xs,
-    color: colors.text.secondary,
     fontSize: 14,
   },
   totalScore: {
@@ -306,11 +298,9 @@ const styles = StyleSheet.create({
     marginTop: spacing.md,
   },
   totalLabel: {
-    color: colors.text.secondary,
     marginRight: spacing.sm,
   },
   totalValue: {
-    color: colors.primary.main,
     fontWeight: '600',
   },
   emptyContainer: {
@@ -320,11 +310,9 @@ const styles = StyleSheet.create({
     paddingVertical: spacing['2xl'],
   },
   emptyTitle: {
-    color: colors.text.primary,
     marginTop: spacing.md,
   },
   emptyText: {
-    color: colors.text.secondary,
     marginTop: spacing.xs,
   },
 });

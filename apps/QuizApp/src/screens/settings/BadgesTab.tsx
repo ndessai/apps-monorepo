@@ -2,7 +2,8 @@ import React, { useState, useEffect } from 'react';
 import { View, StyleSheet, FlatList, RefreshControl } from 'react-native';
 import { Text, Card, ActivityIndicator } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import { colors, spacing } from '@monorepo/ui-components';
+import { spacing } from '@monorepo/ui-components';
+import { useTheme } from '../../providers/ThemeProvider';
 import { useDatabase } from '../../providers/DatabaseProvider';
 import { getCurrentUser } from '../../services/userService';
 import { getUserBadges, getAllBadgeDefinitions } from '../../services/badgeService';
@@ -14,6 +15,7 @@ interface BadgeDisplayItem extends BadgeDefinition {
 }
 
 export const BadgesTab: React.FC = () => {
+  const { colors } = useTheme();
   const database = useDatabase();
   const [badges, setBadges] = useState<BadgeDisplayItem[]>([]);
   const [isLoading, setIsLoading] = useState(true);
@@ -79,24 +81,24 @@ export const BadgesTab: React.FC = () => {
 
     return (
       <Card
-        style={[styles.badgeCard, !item.earned && styles.unearnedCard]}
+        style={[styles.badgeCard, { backgroundColor: colors.surface.default }, !item.earned && styles.unearnedCard]}
         testID={`badge-card-${item.name.replace(/\s+/g, '-').toLowerCase()}`}
       >
         <Card.Content style={styles.cardContent}>
-          <View style={[styles.iconContainer, !item.earned && styles.unearnedIcon]}>
+          <View style={[styles.iconContainer, item.earned ? { backgroundColor: colors.warning.light } : { backgroundColor: colors.surface.variant }]}>
             <Icon name={item.icon} size={40} color={iconColor} />
           </View>
           <View style={styles.badgeInfo}>
             <Text variant="titleMedium" style={[styles.badgeName, { color: textColor }]}>
               {item.name}
             </Text>
-            <Text variant="bodySmall" style={styles.badgeDescription}>
+            <Text variant="bodySmall" style={[styles.badgeDescription, { color: colors.text.secondary }]}>
               {item.description}
             </Text>
             {item.earned && item.earnedAt && (
               <View style={styles.earnedBadge}>
                 <Icon name="check-circle" size={14} color={colors.success.main} />
-                <Text style={styles.earnedText}>
+                <Text style={[styles.earnedText, { color: colors.success.main }]}>
                   Earned {formatDate(item.earnedAt)}
                 </Text>
               </View>
@@ -104,7 +106,7 @@ export const BadgesTab: React.FC = () => {
             {!item.earned && (
               <View style={styles.lockedBadge}>
                 <Icon name="lock" size={14} color={colors.text.disabled} />
-                <Text style={styles.lockedText}>Locked</Text>
+                <Text style={[styles.lockedText, { color: colors.text.disabled }]}>Locked</Text>
               </View>
             )}
           </View>
@@ -117,10 +119,10 @@ export const BadgesTab: React.FC = () => {
     const earnedCount = badges.filter((b) => b.earned).length;
     return (
       <View style={styles.header}>
-        <Text variant="headlineSmall" style={styles.headerTitle}>
+        <Text variant="headlineSmall" style={[styles.headerTitle, { color: colors.text.primary }]}>
           Your Badges
         </Text>
-        <Text variant="bodyMedium" style={styles.headerSubtitle}>
+        <Text variant="bodyMedium" style={[styles.headerSubtitle, { color: colors.text.secondary }]}>
           {earnedCount} of {badges.length} earned
         </Text>
       </View>
@@ -130,10 +132,10 @@ export const BadgesTab: React.FC = () => {
   const renderEmptyState = () => (
     <View style={styles.emptyContainer}>
       <Icon name="medal-outline" size={64} color={colors.text.disabled} />
-      <Text variant="titleMedium" style={styles.emptyTitle}>
+      <Text variant="titleMedium" style={[styles.emptyTitle, { color: colors.text.primary }]}>
         No Badges Available
       </Text>
-      <Text variant="bodyMedium" style={styles.emptyText}>
+      <Text variant="bodyMedium" style={[styles.emptyText, { color: colors.text.secondary }]}>
         Complete quizzes to earn badges
       </Text>
     </View>
@@ -141,14 +143,14 @@ export const BadgesTab: React.FC = () => {
 
   if (isLoading) {
     return (
-      <View style={styles.loadingContainer}>
+      <View style={[styles.loadingContainer, { backgroundColor: colors.background.default }]}>
         <ActivityIndicator size="large" color={colors.primary.main} />
       </View>
     );
   }
 
   return (
-    <View style={styles.container}>
+    <View style={[styles.container, { backgroundColor: colors.background.default }]}>
       <FlatList
         data={badges}
         renderItem={renderBadgeCard}
@@ -168,13 +170,11 @@ export const BadgesTab: React.FC = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: colors.background.default,
   },
   loadingContainer: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
-    backgroundColor: colors.background.default,
   },
   listContent: {
     padding: spacing.md,
@@ -184,16 +184,13 @@ const styles = StyleSheet.create({
     marginBottom: spacing.md,
   },
   headerTitle: {
-    color: colors.text.primary,
     fontWeight: '600',
   },
   headerSubtitle: {
-    color: colors.text.secondary,
     marginTop: spacing.xs,
   },
   badgeCard: {
     marginBottom: spacing.md,
-    backgroundColor: colors.surface.default,
   },
   unearnedCard: {
     opacity: 0.7,
@@ -206,13 +203,9 @@ const styles = StyleSheet.create({
     width: 72,
     height: 72,
     borderRadius: 36,
-    backgroundColor: colors.warning.light,
     justifyContent: 'center',
     alignItems: 'center',
     marginRight: spacing.md,
-  },
-  unearnedIcon: {
-    backgroundColor: colors.surface.variant,
   },
   badgeInfo: {
     flex: 1,
@@ -221,7 +214,6 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
   badgeDescription: {
-    color: colors.text.secondary,
     marginTop: spacing.xs,
   },
   earnedBadge: {
@@ -232,7 +224,6 @@ const styles = StyleSheet.create({
   earnedText: {
     marginLeft: spacing.xs,
     fontSize: 12,
-    color: colors.success.main,
   },
   lockedBadge: {
     flexDirection: 'row',
@@ -242,7 +233,6 @@ const styles = StyleSheet.create({
   lockedText: {
     marginLeft: spacing.xs,
     fontSize: 12,
-    color: colors.text.disabled,
   },
   emptyContainer: {
     flex: 1,
@@ -251,11 +241,9 @@ const styles = StyleSheet.create({
     paddingVertical: spacing['2xl'],
   },
   emptyTitle: {
-    color: colors.text.primary,
     marginTop: spacing.md,
   },
   emptyText: {
-    color: colors.text.secondary,
     marginTop: spacing.xs,
   },
 });

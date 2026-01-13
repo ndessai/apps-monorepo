@@ -10,8 +10,8 @@
 
 import React from 'react';
 import { createNativeStackNavigator } from '@react-navigation/native-stack';
-import { colors } from '@monorepo/ui-components';
 import type { QuizStackParamList } from '../types/navigation';
+import { useTheme } from '../providers/ThemeProvider';
 import {
   QuizLaunchScreen,
   QuizScreen,
@@ -22,11 +22,20 @@ import { SettingsTabNavigator } from './SettingsTabNavigator';
 const Stack = createNativeStackNavigator<QuizStackParamList>();
 
 export const QuizStackNavigator: React.FC = () => {
+  const { colors } = useTheme();
+
   return (
     <Stack.Navigator
       initialRouteName="QuizLaunch"
       screenOptions={{
         headerShown: true,
+        headerStyle: {
+          backgroundColor: colors.surface.default,
+        },
+        headerTintColor: colors.text.primary,
+        headerTitleStyle: {
+          color: colors.text.primary,
+        },
       }}
     >
       <Stack.Screen
@@ -48,6 +57,9 @@ export const QuizStackNavigator: React.FC = () => {
           title: 'Quiz',
           headerBackVisible: false,
           gestureEnabled: false,
+          headerStyle: {
+            backgroundColor: colors.surface.default,
+          },
         }}
       />
 
@@ -58,6 +70,9 @@ export const QuizStackNavigator: React.FC = () => {
           title: 'Results',
           headerBackVisible: false,
           gestureEnabled: false,
+          headerStyle: {
+            backgroundColor: colors.surface.default,
+          },
         }}
       />
 

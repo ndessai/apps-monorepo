@@ -171,9 +171,9 @@ export const lightColors = {
 
 // Dark theme colors
 export const darkColors = {
-  // Primary - Lighter sapphire for dark backgrounds
+  // Primary - Brighter sapphire for dark backgrounds (better CTA visibility)
   primary: {
-    main: '#1b2c3eff',       // Light sapphire
+    main: '#5B8BBF',       // Bright sapphire for CTAs
     light: '#7FA8D4',      // Lighter sapphire
     dark: '#3A6A9E',       // Medium sapphire
     container: '#1E3A5F',  // Dark sapphire container
@@ -243,17 +243,17 @@ export const darkColors = {
 
   // Background - Deep ocean dark
   background: {
-    default: '#0A1520',    // Very dark sapphire
-    paper: '#12202E',      // Slightly elevated dark
-    elevated: '#1A2D3D',   // More elevated dark
+    default: '#0D1821',    // Very dark sapphire (slightly lighter for contrast)
+    paper: '#1A2836',      // Slightly elevated dark
+    elevated: '#243340',   // More elevated dark
   },
 
-  // Surface - Dark cards with ocean depth
+  // Surface - Elevated surfaces with better contrast for CTAs
   surface: {
-    default: '#12202E',
-    variant: '#1A2D3D',
-    tint: '#1E3A5F',       // Dark sapphire tinted surface
-    elevated: '#223A4D',
+    default: '#1A2836',    // Elevated from background for cards
+    variant: '#243340',    // Variant surface
+    tint: '#2A3E50',       // Sapphire tinted surface (more visible)
+    elevated: '#2E4456',   // High elevation for bottom sheets, modals
   },
 
   // Text - Light text on dark backgrounds
@@ -268,12 +268,12 @@ export const darkColors = {
     onSurface: '#F0F5F8',    // Text on surface
   },
 
-  // Divider and Borders
-  divider: '#2A3D4D',       // Cool dark divider
+  // Divider and Borders - More visible in dark mode
+  divider: '#3A4D5F',       // Brighter divider for visibility
   border: {
-    light: '#344A5C',
-    main: '#3E586B',
-    dark: '#48657A',
+    light: '#3A4D5F',
+    main: '#48607A',
+    dark: '#567890',
   },
 
   // Overlay and Shadows

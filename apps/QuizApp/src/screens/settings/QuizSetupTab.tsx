@@ -3,7 +3,7 @@ import { View, StyleSheet, ScrollView, Alert } from 'react-native';
 import { Text, Card, Button, RadioButton, ActivityIndicator, Switch } from 'react-native-paper';
 import Slider from '@react-native-community/slider';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import { colors, spacing } from '@monorepo/ui-components';
+import { spacing } from '@monorepo/ui-components';
 import { useDatabase } from '../../providers/DatabaseProvider';
 import { useTheme } from '../../providers/ThemeProvider';
 import { getCurrentUser } from '../../services/userService';
@@ -301,7 +301,7 @@ export const QuizSetupTab: React.FC = () => {
             />
           </View>
           {settings.audioActionsEnabled && (
-            <View style={styles.handsFreeInfo}>
+            <View style={[styles.handsFreeInfo, { backgroundColor: themeColors.background.default }]}>
               <Icon name="information-outline" size={16} color={themeColors.text.secondary} />
               <Text variant="bodySmall" style={[styles.handsFreeInfoText, { color: themeColors.text.secondary }]}>
                 Microphone listens continuously. Say "Buzz" during tossup to buzz in.
@@ -719,7 +719,6 @@ const styles = StyleSheet.create({
   handsFreeInfo: {
     flexDirection: 'row',
     alignItems: 'flex-start',
-    backgroundColor: colors.background.default,
     padding: spacing.sm,
     borderRadius: 8,
     marginTop: spacing.sm,

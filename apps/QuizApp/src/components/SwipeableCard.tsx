@@ -3,7 +3,8 @@ import { View, StyleSheet, Animated, TouchableOpacity } from 'react-native';
 import { Text } from 'react-native-paper';
 import { Swipeable } from 'react-native-gesture-handler';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import { colors, spacing, radius } from '@monorepo/ui-components';
+import { spacing, radius } from '@monorepo/ui-components';
+import { useTheme } from '../providers/ThemeProvider';
 
 interface SwipeableCardProps {
   children: ReactNode;
@@ -16,6 +17,8 @@ export const SwipeableCard: React.FC<SwipeableCardProps> = ({
   onDelete,
   testID,
 }) => {
+  const { colors } = useTheme();
+
   const renderRightActions = (
     progress: Animated.AnimatedInterpolation<number>,
     dragX: Animated.AnimatedInterpolation<number>
@@ -27,10 +30,10 @@ export const SwipeableCard: React.FC<SwipeableCardProps> = ({
     });
 
     return (
-      <TouchableOpacity onPress={onDelete} style={styles.deleteButton} testID={`${testID}-delete-button`}>
+      <TouchableOpacity onPress={onDelete} style={[styles.deleteButton, { backgroundColor: colors.error.main }]} testID={`${testID}-delete-button`}>
         <Animated.View style={[styles.deleteContent, { transform: [{ scale }] }]}>
           <Icon name="delete" size={24} color="#fff" />
-          <Text style={styles.deleteText}>Delete</Text>
+          <Text style={[styles.deleteText, { color: colors.error.onError }]}>Delete</Text>
         </Animated.View>
       </TouchableOpacity>
     );
@@ -50,7 +53,6 @@ export const SwipeableCard: React.FC<SwipeableCardProps> = ({
 
 const styles = StyleSheet.create({
   deleteButton: {
-    backgroundColor: colors.error.main,
     justifyContent: 'center',
     alignItems: 'center',
     width: 100,
@@ -61,7 +63,6 @@ const styles = StyleSheet.create({
     alignItems: 'center',
   },
   deleteText: {
-    color: colors.error.onError,
     fontSize: 12,
     fontWeight: '600',
     marginTop: spacing.xs,

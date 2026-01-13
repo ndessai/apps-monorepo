@@ -7,7 +7,8 @@
 import React from 'react';
 import { StyleSheet, View } from 'react-native';
 import { Text } from 'react-native-paper';
-import { colors, spacing } from '@monorepo/ui-components';
+import { spacing } from '@monorepo/ui-components';
+import { useTheme } from '../providers/ThemeProvider';
 
 interface TimerDisplayProps {
   seconds: number;
@@ -22,12 +23,13 @@ export const TimerDisplay: React.FC<TimerDisplayProps> = ({
   label,
   testID = 'timer-display',
 }) => {
+  const { colors } = useTheme();
   const timerColor = isWarning ? colors.error.main : colors.success.main;
 
   return (
     <View style={styles.container} testID={testID}>
       {label && (
-        <Text variant="labelMedium" style={styles.label}>
+        <Text variant="labelMedium" style={[styles.label, { color: colors.text.secondary }]}>
           {label}
         </Text>
       )}
@@ -49,7 +51,6 @@ const styles = StyleSheet.create({
   },
   label: {
     marginBottom: spacing.xs,
-    color: colors.text.secondary,
   },
   timerCircle: {
     width: 60,

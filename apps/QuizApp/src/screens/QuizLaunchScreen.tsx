@@ -12,17 +12,20 @@ import { StyleSheet, View, TouchableOpacity } from 'react-native';
 import { Button, Text } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
-import { colors, spacing } from '@monorepo/ui-components';
+import { spacing } from '@monorepo/ui-components';
+import { useTheme } from '../providers/ThemeProvider';
 import type { QuizStackParamList } from '../types/navigation';
 
 type Props = NativeStackScreenProps<QuizStackParamList, 'QuizLaunch'>;
 
 export const QuizLaunchScreen: React.FC<Props> = ({ navigation }) => {
+  const { colors } = useTheme();
+
   useLayoutEffect(() => {
     navigation.setOptions({
       headerRight: () => (
         <TouchableOpacity
-          onPress={() => navigation.navigate('Settings')}
+          onPress={() => navigation.navigate('Settings' as any)}
           style={styles.headerButton}
           testID="settings-button"
         >
@@ -30,20 +33,20 @@ export const QuizLaunchScreen: React.FC<Props> = ({ navigation }) => {
         </TouchableOpacity>
       ),
     });
-  }, [navigation]);
+  }, [navigation, colors]);
 
   const handleStartQuiz = () => {
     navigation.navigate('Quiz');
   };
 
   return (
-    <View style={styles.container}>
+    <View style={[styles.container, { backgroundColor: colors.background.default }]}>
       <View style={styles.content}>
         <View style={styles.header}>
-          <Text variant="displaySmall" style={styles.title}>
+          <Text variant="displaySmall" style={[styles.title, { color: colors.text.primary }]}>
             Quiz Bowl
           </Text>
-          <Text variant="bodyLarge" style={styles.subtitle}>
+          <Text variant="bodyLarge" style={[styles.subtitle, { color: colors.text.secondary }]}>
             Test your knowledge with NAQT format questions
           </Text>
         </View>
@@ -65,12 +68,12 @@ export const QuizLaunchScreen: React.FC<Props> = ({ navigation }) => {
             disabled
             style={styles.button}
             contentStyle={styles.buttonContent}
-            labelStyle={styles.disabledButtonLabel}
+            labelStyle={[styles.disabledButtonLabel, { color: colors.text.disabled }]}
             testID="host-tournament-button"
           >
             Host Tournament
           </Button>
-          <Text variant="bodySmall" style={styles.comingSoon}>
+          <Text variant="bodySmall" style={[styles.comingSoon, { color: colors.text.secondary }]}>
             Coming Soon
           </Text>
 
@@ -79,12 +82,12 @@ export const QuizLaunchScreen: React.FC<Props> = ({ navigation }) => {
             disabled
             style={[styles.button, styles.lastButton]}
             contentStyle={styles.buttonContent}
-            labelStyle={styles.disabledButtonLabel}
+            labelStyle={[styles.disabledButtonLabel, { color: colors.text.disabled }]}
             testID="join-tournament-button"
           >
             Join Tournament
           </Button>
-          <Text variant="bodySmall" style={styles.comingSoon}>
+          <Text variant="bodySmall" style={[styles.comingSoon, { color: colors.text.secondary }]}>
             Coming Soon
           </Text>
         </View>
@@ -96,7 +99,6 @@ export const QuizLaunchScreen: React.FC<Props> = ({ navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: colors.background.default,
   },
   content: {
     flex: 1,
@@ -107,8 +109,8 @@ const styles = StyleSheet.create({
     alignItems: 'center',
     marginBottom: spacing['2xl'],
   },
+  title: {},
   subtitle: {
-    color: colors.text.primary,
     textAlign: 'center',
     fontWeight: '500',
   },
@@ -131,10 +133,8 @@ const styles = StyleSheet.create({
   disabledButtonLabel: {
     fontSize: 16,
     fontWeight: '600',
-    color: colors.text.disabled,
   },
   comingSoon: {
-    color: colors.text.secondary,
     textAlign: 'center',
     marginBottom: spacing.md,
     fontStyle: 'italic',
