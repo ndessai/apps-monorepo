@@ -17,6 +17,8 @@ interface TossupReaderProps {
   powerMarkPosition?: number;
   questionType?: 'tossup' | 'bonus';
   bonusPartIndex?: number;
+  showMicrophoneIndicator?: boolean;
+  isVoiceListening?: boolean;
   testID?: string;
 }
 
@@ -26,6 +28,8 @@ export const TossupReader: React.FC<TossupReaderProps> = ({
   powerMarkPosition,
   questionType = 'tossup',
   bonusPartIndex,
+  showMicrophoneIndicator = false,
+  isVoiceListening = false,
   testID = 'tossup-reader',
 }) => {
   const { colors } = useTheme();
@@ -69,6 +73,15 @@ export const TossupReader: React.FC<TossupReaderProps> = ({
               <Text variant="labelSmall" style={[styles.powerMarkText, { color: colors.warning.onContainer }]}>
                 Power
               </Text>
+            </View>
+          )}
+          {showMicrophoneIndicator && (
+            <View style={[styles.micIndicator, { backgroundColor: isVoiceListening ? colors.success.container : colors.surface.variant }]}>
+              <Icon
+                name={isVoiceListening ? 'microphone' : 'microphone-outline'}
+                size={16}
+                color={isVoiceListening ? colors.success.main : colors.text.disabled}
+              />
             </View>
           )}
         </View>
@@ -134,5 +147,10 @@ const styles = StyleSheet.create({
   },
   cursor: {
     fontWeight: 'bold',
+  },
+  micIndicator: {
+    padding: spacing.xs,
+    borderRadius: radius.full,
+    marginLeft: spacing.sm,
   },
 });

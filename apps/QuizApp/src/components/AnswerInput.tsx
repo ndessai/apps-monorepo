@@ -3,15 +3,16 @@
  *
  * Text input with microphone button and Submit CTA for entering answers.
  * Supports speech-to-text for voice input with auto-submit on silence.
+ * Uses VoiceProvider for unified voice recognition.
  */
 
 import React, { useEffect, useRef, useCallback } from 'react';
 import { StyleSheet, View, TextInput as RNTextInput, TouchableOpacity, Alert } from 'react-native';
 import { TextInput, Button } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import Voice from '@react-native-voice/voice';
 import { spacing } from '@monorepo/ui-components';
 import { useTheme } from '../providers/ThemeProvider';
+import { useVoice } from '../providers/VoiceProvider';
 
 interface AnswerInputProps {
   onSubmit: (answer: string) => void;
@@ -35,9 +36,9 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
   testID = 'answer-input',
 }) => {
   const { colors } = useTheme();
+  const { isListening, isAvailable, startListening, stopListening } = useVoice();
+
   const [answer, setAnswer] = React.useState('');
-  const [isListening, setIsListening] = React.useState(false);
-  const [voiceAvailable, setVoiceAvailable] = React.useState(false);
   const [hasSpeechResult, setHasSpeechResult] = React.useState(false);
   const inputRef = useRef<RNTextInput>(null);
   const hasAutoStartedRef = useRef(false);
@@ -104,34 +105,22 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
       if (lastSpeechResultRef.current.trim().length > 0 && !hasAutoSubmittedRef.current) {
         hasAutoSubmittedRef.current = true;
         console.log('Auto-submitting after silence:', lastSpeechResultRef.current);
-        onSubmit(lastSpeechResultRef.current.trim());
+        onSubmitRef.current(lastSpeechResultRef.current.trim());
       }
     }, autoSubmitSilenceMs);
-  }, [autoSubmitOnSilence, autoSubmitSilenceMs, hasSpeechResult, onSubmit, clearSilenceTimer]);
+  }, [autoSubmitOnSilence, autoSubmitSilenceMs, hasSpeechResult, clearSilenceTimer]);
 
-  // Define callback functions first
-  const onSpeechResults = useCallback((e: any) => {
-    if (e.value && e.value.length > 0) {
-      const result = e.value[0];
-      setAnswer(result);
-      lastSpeechResultRef.current = result;
-      setHasSpeechResult(true);
-
-      // Reset silence timer on new speech
-      clearSilenceTimer();
-    }
-  }, [clearSilenceTimer]);
-
-  const onSpeechError = useCallback((e: any) => {
-    console.error('Speech recognition error:', e);
-    setIsListening(false);
+  // Handle speech result from VoiceProvider
+  const handleSpeechResult = useCallback((result: string) => {
+    setAnswer(result);
+    lastSpeechResultRef.current = result;
+    setHasSpeechResult(true);
+    // Reset silence timer on new speech
     clearSilenceTimer();
-    Alert.alert('Speech Recognition Error', 'Failed to recognize speech. Please try again.');
   }, [clearSilenceTimer]);
 
-  const onSpeechEnd = useCallback(() => {
-    setIsListening(false);
-
+  // Handle speech end - start silence timer
+  const handleSpeechEnd = useCallback(() => {
     // Start silence timer when speech ends (if we have results)
     if (hasSpeechResult && autoSubmitOnSilence && lastSpeechResultRef.current.trim().length > 0) {
       startSilenceTimer();
@@ -146,112 +135,53 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     return () => clearTimeout(timer);
   }, []);
 
-  // Setup voice recognition listeners
+  // Auto-start microphone if enabled by default
   useEffect(() => {
-    let isMounted = true;
+    if (microphoneEnabledByDefault && isAvailable && !hasAutoStartedRef.current) {
+      hasAutoStartedRef.current = true;
+      // Small delay to ensure component is fully mounted
+      setTimeout(() => {
+        startListeningHandler();
+      }, 300);
+    }
+  }, [microphoneEnabledByDefault, isAvailable]);
 
-    const initVoice = async () => {
-      // On Android, the native Voice module may not be properly linked
-      // The Voice JS object exists but its native module is null
-      // This causes errors like "Cannot read property 'isSpeechAvailable' of null"
-      // We wrap everything in try-catch since errors occur inside the native calls
-      try {
-        const isAvailable = await Voice.isAvailable();
-        if (!isMounted) return;
-
-        if (isAvailable) {
-          setVoiceAvailable(true);
-          Voice.onSpeechResults = onSpeechResults;
-          Voice.onSpeechError = onSpeechError;
-          Voice.onSpeechEnd = onSpeechEnd;
-
-          // Auto-start microphone if enabled by default
-          if (microphoneEnabledByDefault && !hasAutoStartedRef.current) {
-            hasAutoStartedRef.current = true;
-            // Small delay to ensure component is fully mounted
-            setTimeout(() => {
-              if (isMounted) {
-                startListeningInternal();
-              }
-            }, 300);
-          }
-        } else {
-          setVoiceAvailable(false);
-        }
-      } catch {
-        // Native module not available - this is expected on some Android devices
-        // or when the native module isn't properly linked
-        if (isMounted) {
-          setVoiceAvailable(false);
-        }
-      }
-    };
-
-    initVoice();
-
+  // Cleanup on unmount
+  useEffect(() => {
     return () => {
-      isMounted = false;
       clearSilenceTimer();
       clearIdleTimer();
-      // Clean up Voice recognition on unmount
-      try {
-        Voice.removeAllListeners();
-        Voice.destroy().catch(() => {});
-      } catch {
-        // Ignore cleanup errors
-      }
     };
-  }, [microphoneEnabledByDefault, onSpeechResults, onSpeechError, onSpeechEnd, clearSilenceTimer, clearIdleTimer]);
+  }, [clearSilenceTimer, clearIdleTimer]);
 
-  const startListeningInternal = async () => {
-    try {
-      setIsListening(true);
-      setHasSpeechResult(false);
-      hasAutoSubmittedRef.current = false;
-      lastSpeechResultRef.current = '';
-      clearSilenceTimer();
-      await Voice.start('en-US');
-    } catch (error) {
-      console.error('Failed to start voice recognition:', error);
-      setIsListening(false);
-    }
-  };
-
-  const startListening = async () => {
-    if (!voiceAvailable) {
+  const startListeningHandler = async () => {
+    if (!isAvailable) {
       Alert.alert('Not Available', 'Speech recognition is not available on this device.');
       return;
     }
 
-    try {
-      setIsListening(true);
-      setHasSpeechResult(false);
-      hasAutoSubmittedRef.current = false;
-      lastSpeechResultRef.current = '';
-      clearSilenceTimer();
-      await Voice.start('en-US');
-    } catch (error) {
-      console.error('Failed to start voice recognition:', error);
-      setIsListening(false);
-      Alert.alert('Error', 'Failed to start speech recognition. Please check microphone permissions.');
-    }
+    setHasSpeechResult(false);
+    hasAutoSubmittedRef.current = false;
+    lastSpeechResultRef.current = '';
+    clearSilenceTimer();
+
+    await startListening({
+      continuous: false,
+      filterTTS: false,
+      onResult: handleSpeechResult,
+      onEnd: handleSpeechEnd,
+    });
   };
 
-  const stopListening = async () => {
-    try {
-      await Voice.stop();
-      setIsListening(false);
-    } catch (error) {
-      console.error('Failed to stop voice recognition:', error);
-      setIsListening(false);
-    }
+  const stopListeningHandler = async () => {
+    await stopListening();
   };
 
   const toggleListening = () => {
     if (isListening) {
-      stopListening();
+      stopListeningHandler();
     } else {
-      startListening();
+      startListeningHandler();
     }
   };
 
@@ -264,7 +194,7 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
 
       // Stop listening if active before submitting
       if (isListening) {
-        stopListening();
+        stopListeningHandler();
       }
       onSubmit(answer.trim());
       setAnswer('');
@@ -305,13 +235,13 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
                 <TouchableOpacity
                   onPress={toggleListening}
                   testID={`${testID}-mic-button`}
-                  disabled={!voiceAvailable}
+                  disabled={!isAvailable}
                 >
                   <Icon
                     name={isListening ? 'microphone' : 'microphone-outline'}
                     size={24}
                     color={
-                      !voiceAvailable
+                      !isAvailable
                         ? colors.text.disabled
                         : isListening
                         ? colors.error.main

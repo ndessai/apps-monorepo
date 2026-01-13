@@ -889,6 +889,8 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
           powerMarkPosition={getPowerMarkPosition()}
           questionType={getQuestionType()}
           bonusPartIndex={currentBonusPartIndex}
+          showMicrophoneIndicator={settings.audioActionsEnabled}
+          isVoiceListening={audioActionsService.isAudioActionsActive()}
         />
       </View>
 

@@ -348,6 +348,13 @@ export function isReading(): boolean {
 }
 
 /**
+ * Get the current text being read (for voice filtering)
+ */
+export function getCurrentText(): string {
+  return currentText;
+}
+
+/**
  * Cleanup on unmount
  */
 export function cleanup(): void {

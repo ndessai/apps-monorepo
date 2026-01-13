@@ -3,19 +3,20 @@
  *
  * Third screen of the onboarding wizard
  * Allows user to enable/disable voice interaction with live demo
+ * Uses VoiceProvider for unified voice recognition
  */
 
-import React, { useState, useEffect, useRef, useCallback } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { StyleSheet, View, ScrollView } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Button, Text, Switch, Card } from 'react-native-paper';
 import Slider from '@react-native-community/slider';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
-import Voice from '@react-native-voice/voice';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { spacing, radius, elevation } from '@monorepo/ui-components';
 import { useTheme } from '../../providers/ThemeProvider';
 import { useSettings } from '../../providers/SettingsProvider';
+import { useVoice } from '../../providers/VoiceProvider';
 import { DEFAULT_QUIZ_SETTINGS, MIN_SILENCE_MS, MAX_SILENCE_MS } from '../../types/settings';
 import type { OnboardingStackParamList } from '../../types/navigation';
 
@@ -24,94 +25,55 @@ type Props = NativeStackScreenProps<OnboardingStackParamList, 'VoiceSettings'>;
 export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
   const { colors } = useTheme();
   const { updateSettings } = useSettings();
+  const { isListening, isAvailable, startListening, stopListening, lastResult } = useVoice();
   const insets = useSafeAreaInsets();
+
   // Default to OFF - user must explicitly enable
   const [microphoneEnabled, setMicrophoneEnabled] = useState(false);
   const [autoSubmitOnSilence, setAutoSubmitOnSilence] = useState(true);
   const [autoSubmitSilenceMs, setAutoSubmitSilenceMs] = useState(DEFAULT_QUIZ_SETTINGS.autoSubmitSilenceMs);
-  const [isListening, setIsListening] = useState(false);
   const [spokenText, setSpokenText] = useState('');
-  const [voiceAvailable, setVoiceAvailable] = useState(false);
   const isMountedRef = useRef(true);
 
   const formatSilenceTime = (ms: number) => `${(ms / 1000).toFixed(1)}s`;
 
-  const onSpeechResults = useCallback((e: any) => {
-    if (e.value && e.value.length > 0 && isMountedRef.current) {
-      setSpokenText(e.value[0]);
+  // Update spoken text when voice result changes
+  useEffect(() => {
+    if (lastResult && isMountedRef.current) {
+      setSpokenText(lastResult);
     }
-  }, []);
+  }, [lastResult]);
 
-  const onSpeechError = useCallback((e: any) => {
-    console.log('Speech error:', e);
-    if (isMountedRef.current) {
-      setIsListening(false);
-    }
-  }, []);
-
-  const onSpeechEnd = useCallback(() => {
-    if (isMountedRef.current) {
-      setIsListening(false);
-    }
-  }, []);
-
-  // Initialize voice
+  // Track mounted state
   useEffect(() => {
     isMountedRef.current = true;
-
-    const initVoice = async () => {
-      try {
-        const isAvailable = await Voice.isAvailable();
-        if (isMountedRef.current) {
-          setVoiceAvailable(!!isAvailable);
-          Voice.onSpeechResults = onSpeechResults;
-          Voice.onSpeechError = onSpeechError;
-          Voice.onSpeechEnd = onSpeechEnd;
-        }
-      } catch {
-        if (isMountedRef.current) {
-          setVoiceAvailable(false);
-        }
-      }
-    };
-
-    initVoice();
-
     return () => {
       isMountedRef.current = false;
-      try {
-        Voice.removeAllListeners();
-        Voice.destroy().catch(() => {});
-      } catch {
-        // Ignore cleanup errors
-      }
     };
-  }, [onSpeechResults, onSpeechError, onSpeechEnd]);
+  }, []);
 
   // Start/stop listening based on toggle
   useEffect(() => {
     const manageListening = async () => {
-      if (microphoneEnabled && voiceAvailable && !isListening) {
-        try {
-          setSpokenText('');
-          await Voice.start('en-US');
-          setIsListening(true);
-        } catch (error) {
-          console.log('Failed to start voice:', error);
-        }
+      if (microphoneEnabled && isAvailable && !isListening) {
+        setSpokenText('');
+        await startListening({
+          continuous: true,
+          filterTTS: false,
+          onResult: (text) => {
+            if (isMountedRef.current) {
+              setSpokenText(text);
+            }
+          },
+        });
       } else if (!microphoneEnabled && isListening) {
-        try {
-          await Voice.stop();
-          setIsListening(false);
-          setSpokenText('');
-        } catch {
-          // Ignore stop errors
-        }
+        await stopListening();
+        setSpokenText('');
       }
     };
 
     manageListening();
-  }, [microphoneEnabled, voiceAvailable, isListening]);
+  }, [microphoneEnabled, isAvailable, isListening, startListening, stopListening]);
 
   const handleToggle = (value: boolean) => {
     setMicrophoneEnabled(value);
@@ -123,11 +85,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
   const handleContinue = async () => {
     // Stop listening before navigating
     if (isListening) {
-      try {
-        await Voice.stop();
-      } catch {
-        // Ignore
-      }
+      await stopListening();
     }
 
     // Save settings via SettingsProvider
@@ -174,6 +132,12 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
               <Icon name="clock-fast" size={20} color={colors.primary.main} />
               <Text variant="bodyMedium" style={[styles.benefitText, { color: colors.text.primary }]}>
                 Answer faster during timed questions
+              </Text>
+            </View>
+            <View style={styles.benefitRow}>
+              <Icon name="volume-high" size={20} color={colors.primary.main} />
+              <Text variant="bodyMedium" style={[styles.benefitText, { color: colors.text.primary }]}>
+                Questions are read aloud for better focus
               </Text>
             </View>
           </Card.Content>
@@ -297,7 +261,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
                   Try saying something...
                 </Text>
               )}
-              {!voiceAvailable && (
+              {!isAvailable && (
                 <Text variant="bodySmall" style={{ color: colors.warning.main, textAlign: 'center', marginTop: spacing.sm }}>
                   Voice recognition is not available on this device
                 </Text>
