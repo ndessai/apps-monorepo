@@ -13,6 +13,7 @@
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
 		9673BE341C49CFE3B8EA5F03 /* libPods-QuizApp.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5468F9C374C115A464BEE1A6 /* libPods-QuizApp.a */; };
+		NATIVEVOICE001 /* NativeVoice.m in Sources */ = {isa = PBXBuildFile; fileRef = NATIVEVOICE002 /* NativeVoice.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,8 @@
 		A9694EA933EAC0DC67F9A40E /* NativeTTS.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = NativeTTS.m; path = QuizApp/NativeTTS.m; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		F7805E66A24C46788C447B83 /* NativeTTS.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = NativeTTS.h; path = QuizApp/NativeTTS.h; sourceTree = "<group>"; };
+		NATIVEVOICE002 /* NativeVoice.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = NativeVoice.m; path = QuizApp/NativeVoice.m; sourceTree = "<group>"; };
+		NATIVEVOICE003 /* NativeVoice.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = NativeVoice.h; path = QuizApp/NativeVoice.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +56,8 @@
 				90A8F2F7918CBB885A11809A /* Fonts */,
 				F7805E66A24C46788C447B83 /* NativeTTS.h */,
 				A9694EA933EAC0DC67F9A40E /* NativeTTS.m */,
+				NATIVEVOICE003 /* NativeVoice.h */,
+				NATIVEVOICE002 /* NativeVoice.m */,
 			);
 			name = QuizApp;
 			sourceTree = "<group>";
@@ -270,6 +275,7 @@
 			files = (
 				761780ED2CA45674006654EE /* AppDelegate.swift in Sources */,
 				6CE42C5B1AE98278372638DF /* NativeTTS.m in Sources */,
+				NATIVEVOICE001 /* NativeVoice.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
