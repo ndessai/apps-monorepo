@@ -47,8 +47,21 @@ export const VoiceProvider: React.FC<{ children: React.ReactNode }> = ({ childre
   // Track current options for callback access
   const optionsRef = useRef<ListeningOptions>({});
 
-  // Cleanup on unmount - don't auto-initialize, permission will be requested on-demand
+  // Auto-check availability on mount (doesn't request permission, just checks capability)
+  // This ensures isAvailable is set correctly even if user has already granted permission
   useEffect(() => {
+    const checkAvailability = async () => {
+      const available = await voiceService.checkAvailability();
+      if (available) {
+        // If voice is available, also initialize the service
+        const initialized = await voiceService.initialize();
+        setIsAvailable(initialized);
+        console.log('[VoiceProvider] Auto-initialized, isAvailable:', initialized);
+      }
+    };
+    checkAvailability();
+
+    // Cleanup on unmount
     return () => {
       voiceService.cleanup();
     };

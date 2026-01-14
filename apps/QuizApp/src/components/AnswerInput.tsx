@@ -62,6 +62,7 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
   const lastSpeechResultRef = useRef<string>('');
   const hasSpeechResultRef = useRef(false);
   const hasAutoSubmittedRef = useRef(false);
+  const speechEndedRef = useRef(false); // Track if onSpeechEnd has fired (handles race condition)
   const onSubmitRef = useRef(onSubmit);
   const answerRef = useRef(answer);
 
@@ -151,7 +152,14 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     console.log('[AnswerInput] hasSpeechResultRef set to true');
     // Reset silence timer on new speech (will be restarted on speech end)
     clearSilenceTimer();
-  }, [clearSilenceTimer]);
+
+    // IMPORTANT: Handle race condition where onSpeechEnd fires BEFORE onSpeechResults
+    // This can happen on iOS - if speech has already ended, start the silence timer now
+    if (speechEndedRef.current && autoSubmitOnSilence && result.trim().length > 0) {
+      console.log('[AnswerInput] Speech already ended - starting silence timer immediately');
+      startSilenceTimer();
+    }
+  }, [clearSilenceTimer, autoSubmitOnSilence, startSilenceTimer]);
 
   // Handle speech end - start silence timer
   const handleSpeechEnd = useCallback(() => {
@@ -159,12 +167,16 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     console.log('[AnswerInput] - hasSpeechResult:', hasSpeechResultRef.current);
     console.log('[AnswerInput] - autoSubmitOnSilence:', autoSubmitOnSilence);
     console.log('[AnswerInput] - lastSpeechResult:', lastSpeechResultRef.current);
+
+    // Mark speech as ended (for handling race condition with results)
+    speechEndedRef.current = true;
+
     // Start silence timer when speech ends (if we have results)
     if (hasSpeechResultRef.current && autoSubmitOnSilence && lastSpeechResultRef.current.trim().length > 0) {
       console.log('[AnswerInput] Starting silence timer for auto-submit');
       startSilenceTimer();
     } else {
-      console.log('[AnswerInput] NOT starting silence timer - conditions not met');
+      console.log('[AnswerInput] NOT starting silence timer - conditions not met (results may arrive later)');
     }
   }, [autoSubmitOnSilence, startSilenceTimer]);
 
@@ -203,8 +215,10 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     return () => {
       clearSilenceTimer();
       clearIdleTimer();
+      // Stop listening when component unmounts to prevent stale callbacks
+      stopListening();
     };
-  }, [clearSilenceTimer, clearIdleTimer]);
+  }, [clearSilenceTimer, clearIdleTimer, stopListening]);
 
   const startListeningHandler = async () => {
     if (!isAvailable) {
@@ -215,6 +229,7 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     // Reset state for new listening session
     hasSpeechResultRef.current = false;
     hasAutoSubmittedRef.current = false;
+    speechEndedRef.current = false; // Reset the speech ended flag
     lastSpeechResultRef.current = '';
     clearSilenceTimer();
 
