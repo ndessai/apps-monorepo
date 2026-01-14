@@ -8,6 +8,7 @@ import com.facebook.react.ReactNativeApplicationEntryPoint.loadReactNative
 import com.facebook.react.defaults.DefaultReactHost.getDefaultReactHost
 import com.nozbe.watermelondb.jsi.WatermelonDBJSIPackage
 import com.quizapp.nativetss.NativeTTSPackage
+import com.quizapp.nativevoice.NativeVoicePackage
 
 class MainApplication : Application(), ReactApplication {
 
@@ -21,6 +22,8 @@ class MainApplication : Application(), ReactApplication {
           add(WatermelonDBJSIPackage())
           // Custom NativeTTS module for text-to-speech
           add(NativeTTSPackage())
+          // Custom NativeVoice module for speech recognition
+          add(NativeVoicePackage())
         },
     )
   }
