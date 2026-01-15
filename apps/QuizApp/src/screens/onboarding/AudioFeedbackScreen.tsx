@@ -1,7 +1,7 @@
 /**
  * AudioFeedbackScreen
  *
- * Onboarding screen for audio settings
+ * Onboarding screen for audio settings (Audio Support)
  * Appears after ThemeSelection and before VoiceSettings
  * Allows user to configure TTS reading and audio feedback options
  */
@@ -26,8 +26,7 @@ export const AudioFeedbackScreen: React.FC<Props> = ({ navigation }) => {
   const { updateSettings } = useSettings();
   const insets = useSafeAreaInsets();
 
-  // Read Questions is always true for now (shown but not changeable)
-  const [readQuestions] = useState(DEFAULT_QUIZ_SETTINGS.readQuestions);
+  const [readQuestions, setReadQuestions] = useState(DEFAULT_QUIZ_SETTINGS.readQuestions);
   const [provideAudioFeedback, setProvideAudioFeedback] = useState(DEFAULT_QUIZ_SETTINGS.provideAudioFeedback);
   const [audioFeedbackTone, setAudioFeedbackTone] = useState<AudioFeedbackTone>(DEFAULT_QUIZ_SETTINGS.audioFeedbackTone);
 
@@ -57,13 +56,13 @@ export const AudioFeedbackScreen: React.FC<Props> = ({ navigation }) => {
       >
         {/* Title */}
         <Text variant="headlineMedium" style={[styles.title, { color: colors.text.primary }]}>
-          Audio Settings
+          Audio Support
         </Text>
         <Text variant="bodyLarge" style={[styles.subtitle, { color: colors.text.secondary }]}>
-          Customize your quiz experience
+          Configure how questions are read aloud
         </Text>
 
-        {/* Read Questions Card - Always ON, disabled toggle */}
+        {/* Read Questions Card */}
         <Card style={[styles.settingCard, { backgroundColor: colors.surface.default }]}>
           <Card.Content>
             <View style={styles.settingRow}>
@@ -71,7 +70,7 @@ export const AudioFeedbackScreen: React.FC<Props> = ({ navigation }) => {
                 <Icon
                   name="volume-high"
                   size={28}
-                  color={colors.primary.main}
+                  color={readQuestions ? colors.primary.main : colors.text.disabled}
                 />
                 <View style={styles.settingTextContainer}>
                   <Text variant="titleMedium" style={[styles.settingTitle, { color: colors.text.primary }]}>
@@ -84,7 +83,7 @@ export const AudioFeedbackScreen: React.FC<Props> = ({ navigation }) => {
               </View>
               <Switch
                 value={readQuestions}
-                disabled={true}
+                onValueChange={setReadQuestions}
                 color={colors.primary.main}
                 testID="read-questions-toggle"
               />

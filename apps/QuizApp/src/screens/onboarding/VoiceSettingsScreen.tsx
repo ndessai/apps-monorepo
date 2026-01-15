@@ -164,7 +164,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
       >
         {/* Title */}
         <Text variant="headlineMedium" style={[styles.title, { color: colors.text.primary }]}>
-          Voice Interaction
+          Voice Support
         </Text>
         <Text variant="bodyLarge" style={[styles.subtitle, { color: colors.text.secondary }]}>
           Answer questions hands-free by speaking

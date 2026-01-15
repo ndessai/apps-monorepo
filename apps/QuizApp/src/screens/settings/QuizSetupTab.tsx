@@ -20,6 +20,7 @@ import {
   MAX_WPM,
   WPM_STEP,
   ThemeMode,
+  AudioFeedbackTone,
 } from '../../types/settings';
 
 export const QuizSetupTab: React.FC = () => {
@@ -53,6 +54,9 @@ export const QuizSetupTab: React.FC = () => {
       localSettings.autoSubmitOnSilence !== providerSettings.autoSubmitOnSilence ||
       localSettings.autoSubmitSilenceMs !== providerSettings.autoSubmitSilenceMs ||
       localSettings.audioActionsEnabled !== providerSettings.audioActionsEnabled ||
+      localSettings.readQuestions !== providerSettings.readQuestions ||
+      localSettings.provideAudioFeedback !== providerSettings.provideAudioFeedback ||
+      localSettings.audioFeedbackTone !== providerSettings.audioFeedbackTone ||
       localSettings.difficulty !== providerSettings.difficulty
     );
   };
@@ -168,6 +172,85 @@ export const QuizSetupTab: React.FC = () => {
               </Text>
             </View>
           </View>
+        </Card.Content>
+      </Card>
+
+      {/* Read Questions Aloud */}
+      <Card style={[styles.card, { backgroundColor: themeColors.surface.default }]}>
+        <Card.Content>
+          <View style={styles.settingHeader}>
+            <Icon name="volume-high" size={24} color={themeColors.primary.main} />
+            <View style={styles.settingTitleContainer}>
+              <Text variant="titleMedium" style={[styles.settingTitle, { color: themeColors.text.primary }]}>
+                Read Questions Aloud
+              </Text>
+              <Text variant="bodySmall" style={[styles.settingDescription, { color: themeColors.text.secondary }]}>
+                Questions will be read via text-to-speech
+              </Text>
+            </View>
+            <Switch
+              value={localSettings.readQuestions}
+              onValueChange={(value) =>
+                setLocalSettings((prev) => ({ ...prev, readQuestions: value }))
+              }
+              color={themeColors.primary.main}
+              testID="read-questions-toggle"
+            />
+          </View>
+        </Card.Content>
+      </Card>
+
+      {/* Audio Feedback */}
+      <Card style={[styles.card, { backgroundColor: themeColors.surface.default }]}>
+        <Card.Content>
+          <View style={styles.settingHeader}>
+            <Icon name="message-text-outline" size={24} color={themeColors.primary.main} />
+            <View style={styles.settingTitleContainer}>
+              <Text variant="titleMedium" style={[styles.settingTitle, { color: themeColors.text.primary }]}>
+                Audio Feedback
+              </Text>
+              <Text variant="bodySmall" style={[styles.settingDescription, { color: themeColors.text.secondary }]}>
+                Get spoken commentary on your answers
+              </Text>
+            </View>
+            <Switch
+              value={localSettings.provideAudioFeedback}
+              onValueChange={(value) =>
+                setLocalSettings((prev) => ({ ...prev, provideAudioFeedback: value }))
+              }
+              color={themeColors.primary.main}
+              testID="audio-feedback-toggle"
+            />
+          </View>
+
+          {/* Feedback Tone Selection - only show when audio feedback is enabled */}
+          {localSettings.provideAudioFeedback && (
+            <View style={styles.toneSelection}>
+              <Text variant="bodyMedium" style={{ color: themeColors.text.secondary, marginBottom: spacing.sm }}>
+                Feedback Tone
+              </Text>
+              <View style={styles.toneOptions}>
+                <Button
+                  mode={localSettings.audioFeedbackTone === 'Positive' ? 'contained' : 'outlined'}
+                  onPress={() => setLocalSettings((prev) => ({ ...prev, audioFeedbackTone: 'Positive' as AudioFeedbackTone }))}
+                  style={styles.toneButton}
+                  compact
+                  testID="tone-positive"
+                >
+                  Positive
+                </Button>
+                <Button
+                  mode={localSettings.audioFeedbackTone === 'Sarcastic' ? 'contained' : 'outlined'}
+                  onPress={() => setLocalSettings((prev) => ({ ...prev, audioFeedbackTone: 'Sarcastic' as AudioFeedbackTone }))}
+                  style={styles.toneButton}
+                  compact
+                  testID="tone-sarcastic"
+                >
+                  Sarcastic
+                </Button>
+              </View>
+            </View>
+          )}
         </Card.Content>
       </Card>
 
@@ -704,5 +787,18 @@ const styles = StyleSheet.create({
     flex: 1,
     marginLeft: spacing.xs,
     lineHeight: 18,
+  },
+  toneSelection: {
+    marginTop: spacing.md,
+    paddingTop: spacing.md,
+    borderTopWidth: 1,
+    borderTopColor: 'rgba(0, 0, 0, 0.08)',
+  },
+  toneOptions: {
+    flexDirection: 'row',
+    gap: spacing.sm,
+  },
+  toneButton: {
+    flex: 1,
   },
 });

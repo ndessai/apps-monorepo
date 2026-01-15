@@ -83,6 +83,10 @@ let currentText = '';
 let lastReportedCharIndex = 0;
 let currentVoiceType: VoiceType = 'standard';
 
+// Silent reading state (text reveal without TTS)
+let silentReadingTimerId: ReturnType<typeof setInterval> | null = null;
+let isSilentReading = false;
+
 // Track if listeners are registered (they stay registered for app lifetime)
 let listenersRegistered = false;
 
@@ -400,6 +404,117 @@ export function startReading(
 }
 
 /**
+ * Start reading text WITHOUT TTS (silent mode)
+ * Reveals text at the configured WPM rate using a timer
+ * Used when readQuestions setting is disabled
+ *
+ * @param text - Text to reveal
+ * @param wpm - Words per minute for reveal speed
+ * @param onProgress - Called with character index as text is revealed
+ * @param onFinish - Called when all text has been revealed
+ */
+export function startReadingWithoutTTS(
+  text: string,
+  wpm: number,
+  onProgress: ProgressCallback,
+  onFinish: FinishCallback
+): void {
+  // Stop any ongoing reading (TTS or silent)
+  stopReading();
+
+  // Create new session
+  currentSessionId++;
+  activeSessionId = currentSessionId;
+  const sessionId = currentSessionId;
+
+  console.log(`NativeTTS: Starting silent reading session ${sessionId}, WPM: ${wpm}, text length: ${text.length}`);
+
+  // Set up state
+  currentText = text;
+  currentProgressCallback = onProgress;
+  currentFinishCallback = onFinish;
+  lastReportedCharIndex = 0;
+  isSilentReading = true;
+
+  // Find word boundaries for smoother progress updates
+  const wordBoundaries: number[] = [];
+  let inWord = false;
+  for (let i = 0; i < text.length; i++) {
+    const char = text[i];
+    const isBoundary = /[\s.,!?;:'"()\-—–\n\r\t]/.test(char);
+    if (isBoundary && inWord) {
+      wordBoundaries.push(i);
+      inWord = false;
+    } else if (!isBoundary) {
+      inWord = true;
+    }
+  }
+  // Add final position
+  wordBoundaries.push(text.length);
+
+  // Calculate time per word boundary
+  const totalWords = wordBoundaries.length;
+  const totalDuration = (text.split(/\s+/).length / wpm) * 60000;
+  const msPerWord = totalDuration / totalWords;
+
+  let currentWordIndex = 0;
+
+  // Report initial progress
+  if (onProgress) {
+    onProgress(0);
+  }
+
+  // Start interval to reveal text word by word
+  silentReadingTimerId = setInterval(() => {
+    // Check if session is still active
+    if (activeSessionId !== sessionId || isStopping) {
+      if (silentReadingTimerId) {
+        clearInterval(silentReadingTimerId);
+        silentReadingTimerId = null;
+      }
+      isSilentReading = false;
+      return;
+    }
+
+    currentWordIndex++;
+
+    if (currentWordIndex >= wordBoundaries.length) {
+      // Finished - report full length
+      if (currentProgressCallback) {
+        currentProgressCallback(text.length);
+      }
+
+      // Clear timer
+      if (silentReadingTimerId) {
+        clearInterval(silentReadingTimerId);
+        silentReadingTimerId = null;
+      }
+
+      // Capture callback before clearing
+      const finishCallback = currentFinishCallback;
+
+      // Clear state
+      activeSessionId = null;
+      isSilentReading = false;
+      currentProgressCallback = null;
+      currentFinishCallback = null;
+
+      // Call finish callback
+      if (finishCallback) {
+        finishCallback();
+      }
+    } else {
+      // Report progress at word boundary
+      const charIndex = wordBoundaries[currentWordIndex - 1];
+      lastReportedCharIndex = charIndex;
+      if (currentProgressCallback) {
+        currentProgressCallback(charIndex);
+      }
+    }
+  }, msPerWord);
+}
+
+/**
  * Stop reading immediately and fully reset state
  * Resets progress index, clears callbacks, and invalidates session
  */
@@ -418,6 +533,13 @@ export function stopReading(): void {
   currentProgressCallback = null;
   currentFinishCallback = null;
 
+  // Stop silent reading timer if active
+  if (silentReadingTimerId) {
+    clearInterval(silentReadingTimerId);
+    silentReadingTimerId = null;
+    isSilentReading = false;
+  }
+
   // Stop native TTS if speaking
   if (isSpeaking) {
     isSpeaking = false;
@@ -432,10 +554,10 @@ export function stopReading(): void {
 }
 
 /**
- * Check if currently reading
+ * Check if currently reading (TTS or silent)
  */
 export function isReading(): boolean {
-  return isSpeaking;
+  return isSpeaking || isSilentReading;
 }
 
 /**

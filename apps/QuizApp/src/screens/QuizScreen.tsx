@@ -265,24 +265,39 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
       audioActionsService.setQuestionTextForFiltering(nextQuestion.text);
     }
 
-    // Start word-by-word reading with progress and finish callbacks
-    tts.startReading(
-      nextQuestion.text,
-      settings.readingSpeedWpm,
-      (charIndex: number) => {
-        // Only update char index if still reading (not buzzed/answering)
-        if (quizStateRef.current === 'reading') {
-          setCurrentCharIndex(charIndex);
-        }
-      },
-      () => {
-        // Only start buzz window if still in reading state
-        if (quizStateRef.current === 'reading') {
-          console.log('TTS Wrapper Finished - starting buzz window');
-          startBuzzWindow();
-        }
+    // Progress and finish callbacks for text reveal
+    const onProgress = (charIndex: number) => {
+      // Only update char index if still reading (not buzzed/answering)
+      if (quizStateRef.current === 'reading') {
+        setCurrentCharIndex(charIndex);
       }
-    );
+    };
+
+    const onFinish = () => {
+      // Only start buzz window if still in reading state
+      if (quizStateRef.current === 'reading') {
+        console.log('Reading Finished - starting buzz window');
+        startBuzzWindow();
+      }
+    };
+
+    // Start reading - with TTS if enabled, or silent text reveal if disabled
+    if (settings.readQuestions) {
+      tts.startReading(
+        nextQuestion.text,
+        settings.readingSpeedWpm,
+        onProgress,
+        onFinish
+      );
+    } else {
+      // Silent mode: reveal text at configured WPM without speaking
+      tts.startReadingWithoutTTS(
+        nextQuestion.text,
+        settings.readingSpeedWpm,
+        onProgress,
+        onFinish
+      );
+    }
   };
 
   // Start buzz window (countdown after question finishes)
@@ -533,48 +548,63 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
       audioActionsService.setQuestionTextForFiltering(part.text);
     }
 
-    // Read the part word-by-word with progress and finish callbacks
-    tts.startReading(
-      part.text,
-      settings.readingSpeedWpm,
-      (charIndex: number) => {
-        // Only update char index if still in bonus state (not answering)
-        if (quizStateRef.current === 'bonus') {
-          setCurrentCharIndex(charIndex);
-        }
-      },
-      () => {
-        // Only proceed if still in bonus state
-        if (quizStateRef.current !== 'bonus') {
-          return;
-        }
-        console.log('Bonus TTS Wrapper Finished - starting answer timer');
-        // When TTS finishes, start countdown timer and clear filter
-        setBottomSheetTimerState('counting');
-
-        // Clear filter when TTS finishes - user can now speak answer
-        if (settings.audioActionsEnabled) {
-          audioActionsService.clearQuestionTextFilter();
-        }
-
-        const bonusAnswerSeconds = Math.ceil(settings.bonusAnswerTimeMs / 1000);
-        setTimeRemaining(bonusAnswerSeconds);
-        let remaining = bonusAnswerSeconds;
-        timerRef.current = setInterval(() => {
-          remaining -= 1;
-          setTimeRemaining(remaining);
-
-          if (remaining <= 0) {
-            // Clear timer first to prevent multiple calls
-            if (timerRef.current) {
-              clearInterval(timerRef.current);
-              timerRef.current = null;
-            }
-            handleBonusTimeout(bonus, partIndex);
-          }
-        }, 1000);
+    // Progress and finish callbacks for text reveal
+    const onProgress = (charIndex: number) => {
+      // Only update char index if still in bonus state (not answering)
+      if (quizStateRef.current === 'bonus') {
+        setCurrentCharIndex(charIndex);
       }
-    );
+    };
+
+    const onFinish = () => {
+      // Only proceed if still in bonus state
+      if (quizStateRef.current !== 'bonus') {
+        return;
+      }
+      console.log('Bonus Reading Finished - starting answer timer');
+      // When reading finishes, start countdown timer and clear filter
+      setBottomSheetTimerState('counting');
+
+      // Clear filter when reading finishes - user can now speak answer
+      if (settings.audioActionsEnabled) {
+        audioActionsService.clearQuestionTextFilter();
+      }
+
+      const bonusAnswerSeconds = Math.ceil(settings.bonusAnswerTimeMs / 1000);
+      setTimeRemaining(bonusAnswerSeconds);
+      let remaining = bonusAnswerSeconds;
+      timerRef.current = setInterval(() => {
+        remaining -= 1;
+        setTimeRemaining(remaining);
+
+        if (remaining <= 0) {
+          // Clear timer first to prevent multiple calls
+          if (timerRef.current) {
+            clearInterval(timerRef.current);
+            timerRef.current = null;
+          }
+          handleBonusTimeout(bonus, partIndex);
+        }
+      }, 1000);
+    };
+
+    // Start reading - with TTS if enabled, or silent text reveal if disabled
+    if (settings.readQuestions) {
+      tts.startReading(
+        part.text,
+        settings.readingSpeedWpm,
+        onProgress,
+        onFinish
+      );
+    } else {
+      // Silent mode: reveal text at configured WPM without speaking
+      tts.startReadingWithoutTTS(
+        part.text,
+        settings.readingSpeedWpm,
+        onProgress,
+        onFinish
+      );
+    }
   };
 
   // Handle bonus answer
