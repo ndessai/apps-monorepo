@@ -6,7 +6,22 @@
  */
 
 import * as nativeTtsService from './nativeTtsService';
+import type { VoiceType } from './nativeTtsService';
 import type { AudioFeedbackTone } from '../types/settings';
+
+/**
+ * Map AudioFeedbackTone to VoiceType for TTS
+ */
+function getVoiceTypeForTone(tone: AudioFeedbackTone): VoiceType {
+  switch (tone) {
+    case 'Positive':
+      return 'positiveFeedback';
+    case 'Sarcastic':
+      return 'sarcasticFeedback';
+    default:
+      return 'standard';
+  }
+}
 
 // Context for generating feedback
 export interface FeedbackContext {
@@ -137,7 +152,8 @@ export function generateBonusIntroText(tone: AudioFeedbackTone): string {
  */
 export async function speakFeedback(context: FeedbackContext): Promise<void> {
   const text = generateFeedbackText(context);
-  return speakText(text);
+  const voiceType = getVoiceTypeForTone(context.tone);
+  return speakText(text, voiceType);
 }
 
 /**
@@ -145,7 +161,8 @@ export async function speakFeedback(context: FeedbackContext): Promise<void> {
  */
 export async function speakNextQuestionTransition(tone: AudioFeedbackTone): Promise<void> {
   const text = generateNextQuestionText(tone);
-  return speakText(text);
+  const voiceType = getVoiceTypeForTone(tone);
+  return speakText(text, voiceType);
 }
 
 /**
@@ -153,15 +170,16 @@ export async function speakNextQuestionTransition(tone: AudioFeedbackTone): Prom
  */
 export async function speakBonusIntro(tone: AudioFeedbackTone): Promise<void> {
   const text = generateBonusIntroText(tone);
-  return speakText(text);
+  const voiceType = getVoiceTypeForTone(tone);
+  return speakText(text, voiceType);
 }
 
 /**
  * Internal function to speak text and wait for completion
  */
-function speakText(text: string): Promise<void> {
+function speakText(text: string, voiceType: VoiceType = 'standard'): Promise<void> {
   return new Promise((resolve) => {
-    console.log('[AudioFeedback] Speaking:', text);
+    console.log(`[AudioFeedback] Speaking (${voiceType}):`, text);
 
     nativeTtsService.startReading(
       text,
@@ -170,7 +188,8 @@ function speakText(text: string): Promise<void> {
       () => {
         console.log('[AudioFeedback] Speech completed');
         resolve();
-      }
+      },
+      voiceType
     );
   });
 }
