@@ -241,9 +241,9 @@ RCT_EXPORT_METHOD(setDefaultLanguage:(NSString *)language
 - (void)configureAudioSession {
     NSError *error = nil;
     AVAudioSession *session = [AVAudioSession sharedInstance];
-    [session setCategory:AVAudioSessionCategoryPlayback
-                    mode:AVAudioSessionModeVoicePrompt
-                 options:AVAudioSessionCategoryOptionDuckOthers
+    [session setCategory:AVAudioSessionCategoryPlayAndRecord
+                    mode:AVAudioSessionModeVoiceChat
+                 options:AVAudioSessionCategoryOptionMixWithOthers
                    error:&error];
     if (error) {
         NSLog(@"NativeTTS: Failed to set audio session category: %@", error);
