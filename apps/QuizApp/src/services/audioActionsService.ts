@@ -12,7 +12,7 @@
  * - Uses session tracking to prevent stale events
  */
 
-import * as voiceService from './voiceService';
+import * as voiceService from './nativeVoiceService';
 
 // Words that trigger a buzz action (case-insensitive)
 const BUZZ_TRIGGER_WORDS = ['buzz', 'bus', 'buz', 'buds', 'buzzer', 'pause'];
