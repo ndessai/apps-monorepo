@@ -8,9 +8,61 @@
  * - Native character-level progress events
  * - Proper audio session configuration
  * - Index resets on new text or stop
+ * - Multiple voice types for different feedback styles
  */
 
+import { Platform } from 'react-native';
 import { NativeTTS, TTSProgressEvent, TTSEvent } from '../native/NativeTTS';
+
+// Voice types for different TTS contexts
+export type VoiceType = 'standard' | 'positiveFeedback' | 'hystericalFeedback' | 'sarcasticFeedback';
+
+// Platform-specific voice IDs for each voice type
+// TODO: Fill in actual voice IDs for each platform
+const VOICE_IDS = {
+  ios: {
+    standard: '', // Will use default/auto-selected voice
+    positiveFeedback: '', // TODO: Fill in iOS voice ID
+    hystericalFeedback: 'com.apple.speech.synthesis.voice.Hysterical', 
+    sarcasticFeedback: 'com.apple.speech.synthesis.voice.Fred', // can also use 'com.apple.speech.synthesis.voice.Junior' for a more kiddish tone
+  },
+  android: {
+    standard: '', // Will use default/auto-selected voice
+    positiveFeedback: '', // TODO: Fill in Android voice ID
+    hystericalFeedback: '', // TODO: Fill in Android voice ID
+    sarcasticFeedback: '', // TODO: Fill in Android voice ID
+  },
+};
+
+/**
+ * Get the voice ID for a given voice type on the current platform
+ * Returns empty string if the configured voice is not available on this device
+ */
+function getVoiceIdForType(voiceType: VoiceType): string {
+  const platformVoices = Platform.OS === 'ios' ? VOICE_IDS.ios : VOICE_IDS.android;
+  const voiceId = platformVoices[voiceType] || '';
+
+  // If no voice configured, return empty (will use default)
+  if (!voiceId) {
+    return '';
+  }
+
+  // Validate that the voice is available on this device
+  if (availableVoiceIds.size > 0 && !availableVoiceIds.has(voiceId)) {
+    console.warn(`NativeTTS: Voice ID "${voiceId}" for type "${voiceType}" is not available on this device, using default`);
+    return '';
+  }
+
+  return voiceId;
+}
+
+/**
+ * Check if a character is a space or punctuation (word boundary)
+ */
+function isWordBoundary(char: string): boolean {
+  // Space, punctuation, and common sentence delimiters
+  return /[\s.,!?;:'"()\-—–\n\r\t]/.test(char);
+}
 
 // Callback types
 export type ProgressCallback = (charIndex: number) => void;
@@ -29,6 +81,7 @@ let currentProgressCallback: ProgressCallback | null = null;
 let currentFinishCallback: FinishCallback | null = null;
 let currentText = '';
 let lastReportedCharIndex = 0;
+let currentVoiceType: VoiceType = 'standard';
 
 // Track if listeners are registered (they stay registered for app lifetime)
 let listenersRegistered = false;
@@ -38,6 +91,9 @@ let startSubscription: any = null;
 let finishSubscription: any = null;
 let cancelSubscription: any = null;
 let progressSubscription: any = null;
+
+// Cache of available voice IDs (populated during initialization)
+let availableVoiceIds: Set<string> = new Set();
 
 /**
  * Completely reset all speech state
@@ -84,9 +140,14 @@ export async function initializeTTS(): Promise<void> {
       console.warn('NativeTTS: Failed to set pitch');
     }
 
-    // Try to select a high-quality voice
+    // Try to select a high-quality voice and cache available voice IDs
     try {
       const voices = await NativeTTS.getVoices();
+
+      // Cache all available voice IDs for validation
+      availableVoiceIds = new Set(voices.map((v) => v.id).filter(Boolean));
+      console.log(`NativeTTS: Cached ${availableVoiceIds.size} available voices`);
+
       const enVoices = voices.filter((v) => v.language?.startsWith('en'));
       const goodVoice = enVoices.find(
         (v) =>
@@ -127,6 +188,7 @@ export function cleanupTTS(): void {
  */
 async function speakText(
   text: string,
+  voiceType: VoiceType = 'standard',
   onProgress?: ProgressCallback,
   onFinish?: FinishCallback
 ): Promise<void> {
@@ -143,17 +205,28 @@ async function speakText(
   activeSessionId = currentSessionId;
   const sessionId = currentSessionId;
 
-  console.log(`NativeTTS: Starting session ${sessionId}, text length: ${text.length}`);
+  console.log(`NativeTTS: Starting session ${sessionId}, voiceType: ${voiceType}, text length: ${text.length}`);
 
   // Set up fresh state for this question
   currentText = text;
-  currentProgressCallback = onProgress || null;
+  currentVoiceType = voiceType;
+  // For non-standard voice types, don't track progress (no highlighting needed)
+  currentProgressCallback = voiceType === 'standard' ? (onProgress || null) : null;
   currentFinishCallback = onFinish || null;
   lastReportedCharIndex = 0;
   isSpeaking = true;
 
   try {
-    await NativeTTS.speak(text, {});
+    // Get voice ID for the requested voice type
+    const voiceId = getVoiceIdForType(voiceType);
+    const speakOptions: Record<string, unknown> = {};
+
+    // Only set voiceId if we have one configured for this type
+    if (voiceId) {
+      speakOptions.voiceId = voiceId;
+    }
+
+    await NativeTTS.speak(text, speakOptions);
   } catch (error) {
     console.error('NativeTTS: Speak failed:', error);
     // Only reset if this is still the active session
@@ -265,12 +338,28 @@ export async function getVoices(): Promise<any[]> {
 
 /**
  * Set TTS voice
+ * Validates that the voice ID is supported by the device before setting
+ * @param voiceId - The voice ID to set
+ * @returns true if voice was set successfully, false if voice is not available
  */
-export async function setVoice(voiceId: string): Promise<void> {
+export async function setVoice(voiceId: string): Promise<boolean> {
   try {
+    // Ensure we have the voice cache populated
+    if (availableVoiceIds.size === 0) {
+      await initializeTTS();
+    }
+
+    // Validate the voice ID is available on this device
+    if (!availableVoiceIds.has(voiceId)) {
+      console.warn(`NativeTTS: Voice ID "${voiceId}" is not available on this device`);
+      return false;
+    }
+
     await NativeTTS.setDefaultVoice(voiceId);
+    return true;
   } catch (error) {
-    console.error('NativeTTS: Failed to set voice');
+    console.error('NativeTTS: Failed to set voice:', error);
+    return false;
   }
 }
 
@@ -290,20 +379,22 @@ export async function setRate(rate: number): Promise<void> {
  *
  * @param text - Text to read
  * @param _wpm - Words per minute (unused, TTS controls pace)
- * @param onProgress - Called with character index as speech progresses
+ * @param onProgress - Called with character index as speech progresses (only for 'standard' voiceType)
  * @param onFinish - Called when speech completes naturally
+ * @param voiceType - Type of voice to use (default: 'standard')
  */
 export function startReading(
   text: string,
   _wpm: number,
   onProgress: ProgressCallback,
-  onFinish: FinishCallback
+  onFinish: FinishCallback,
+  voiceType: VoiceType = 'standard'
 ): void {
   // Reset index and start fresh
   lastReportedCharIndex = 0;
 
   // Fire and forget - speakText handles everything
-  speakText(text, onProgress, onFinish).catch((error) => {
+  speakText(text, voiceType, onProgress, onFinish).catch((error) => {
     console.error('NativeTTS: startReading failed:', error);
   });
 }
@@ -445,8 +536,17 @@ function handleTTSProgress(event: TTSProgressEvent): void {
   // Get character index from native event
   const charIndex = event.location;
 
+  // Only report progress if we've moved forward
   if (charIndex > lastReportedCharIndex) {
-    lastReportedCharIndex = charIndex;
-    currentProgressCallback(charIndex);
+    // For standard voice type, only invoke callback on word boundaries
+    // (space or punctuation) to reduce UI flickering
+    const isAtEnd = charIndex >= currentText.length;
+    const charAtPosition = charIndex < currentText.length ? currentText[charIndex] : '';
+    const shouldReport = isAtEnd || isWordBoundary(charAtPosition);
+
+    if (shouldReport) {
+      lastReportedCharIndex = charIndex;
+      currentProgressCallback(charIndex);
+    }
   }
 }
