@@ -539,14 +539,15 @@ function handleTTSProgress(event: TTSProgressEvent): void {
   // Only report progress if we've moved forward
   if (charIndex > lastReportedCharIndex) {
     // For standard voice type, only invoke callback on word boundaries
-    // (space or punctuation) to reduce UI flickering
+    // (space or punctuation) to reduce UI flickering, sometimes the progress is invoked on beginning of the word
     const isAtEnd = charIndex >= currentText.length;
-    const charAtPosition = charIndex < currentText.length ? currentText[charIndex] : '';
+    const charAtPosition = charIndex < currentText.length && charIndex >= 1 ? currentText[charIndex-1] : '';
     const shouldReport = isAtEnd || isWordBoundary(charAtPosition);
+    const nextWordBoundaryIndex = currentText.slice(charIndex).search(/[\s.,!?;:'"()\-—–\n\r\t]/);
 
     if (shouldReport) {
       lastReportedCharIndex = charIndex;
-      currentProgressCallback(charIndex);
+      currentProgressCallback(nextWordBoundaryIndex >= 0 ? charIndex + nextWordBoundaryIndex : charIndex);
     }
   }
 }
