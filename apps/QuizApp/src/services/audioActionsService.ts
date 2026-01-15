@@ -3,11 +3,11 @@
  *
  * Handles hands-free voice commands during quiz:
  * - Detects "Buzz" command during tossup questions
- * - Uses voiceService for speech recognition
- * - Coordinates TTS filtering through voiceService
+ * - Uses nativeVoiceService for speech recognition
+ * - Coordinates TTS filtering through nativeVoiceService
  *
  * Key design decisions:
- * - Delegates voice handling to voiceService
+ * - Delegates voice handling to nativeVoiceService
  * - Keeps buzz detection logic (fuzzy matching) local
  * - Uses session tracking to prevent stale events
  */

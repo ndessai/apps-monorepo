@@ -3,7 +3,7 @@
  *
  * Third screen of the onboarding wizard
  * Allows user to enable/disable voice interaction with live demo
- * Uses VoiceProvider for unified voice recognition
+ * Uses nativeVoiceService directly for voice recognition
  */
 
 import React, { useState, useEffect, useRef } from 'react';
@@ -16,7 +16,7 @@ import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import { spacing, radius, elevation } from '@monorepo/ui-components';
 import { useTheme } from '../../providers/ThemeProvider';
 import { useSettings } from '../../providers/SettingsProvider';
-import { useVoice } from '../../providers/VoiceProvider';
+import * as voiceService from '../../services/nativeVoiceService';
 import { DEFAULT_QUIZ_SETTINGS, MIN_SILENCE_MS, MAX_SILENCE_MS } from '../../types/settings';
 import type { OnboardingStackParamList } from '../../types/navigation';
 
@@ -25,8 +25,11 @@ type Props = NativeStackScreenProps<OnboardingStackParamList, 'VoiceSettings'>;
 export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
   const { colors } = useTheme();
   const { updateSettings } = useSettings();
-  const { isListening, isAvailable, requestPermission, startListening, stopListening, lastResult } = useVoice();
   const insets = useSafeAreaInsets();
+
+  // Voice state - managed locally
+  const [isListening, setIsListening] = useState(false);
+  const [isAvailable, setIsAvailable] = useState(false);
 
   // Default to OFF - user must explicitly enable
   const [microphoneEnabled, setMicrophoneEnabled] = useState(false);
@@ -38,18 +41,25 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
 
   const formatSilenceTime = (ms: number) => `${(ms / 1000).toFixed(1)}s`;
 
-  // Update spoken text when voice result changes
-  useEffect(() => {
-    if (lastResult && isMountedRef.current) {
-      setSpokenText(lastResult);
-    }
-  }, [lastResult]);
-
-  // Track mounted state
+  // Initialize voice service on mount
   useEffect(() => {
     isMountedRef.current = true;
+
+    const initVoice = async () => {
+      const available = await voiceService.checkAvailability();
+      if (available) {
+        const initialized = await voiceService.initialize();
+        if (isMountedRef.current) {
+          setIsAvailable(initialized);
+        }
+      }
+    };
+
+    initVoice();
+
     return () => {
       isMountedRef.current = false;
+      voiceService.stopListening();
     };
   }, []);
 
@@ -58,31 +68,60 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
     const manageListening = async () => {
       if (microphoneEnabled && isAvailable && !isListening) {
         setSpokenText('');
-        await startListening({
-          continuous: true,
-          filterTTS: false,
-          onResult: (text) => {
-            if (isMountedRef.current) {
-              setSpokenText(text);
-            }
+        const success = await voiceService.startListening(
+          {
+            continuous: true,
+            filterTTSEcho: false,
+            language: 'en-US',
           },
-        });
+          {
+            onStart: () => {
+              if (isMountedRef.current) setIsListening(true);
+            },
+            onEnd: () => {
+              // Don't set isListening false in continuous mode
+            },
+            onResult: (text) => {
+              if (isMountedRef.current) {
+                setSpokenText(text);
+              }
+            },
+            onPartialResult: (text) => {
+              if (isMountedRef.current) {
+                setSpokenText(text);
+              }
+            },
+            onError: (error) => {
+              console.log('[VoiceSettingsScreen] Voice error:', error);
+              if (isMountedRef.current) setIsListening(false);
+            },
+          }
+        );
+        if (success && isMountedRef.current) {
+          setIsListening(true);
+        }
       } else if (!microphoneEnabled && isListening) {
-        await stopListening();
-        setSpokenText('');
+        await voiceService.stopListening();
+        if (isMountedRef.current) {
+          setIsListening(false);
+          setSpokenText('');
+        }
       }
     };
 
     manageListening();
-  }, [microphoneEnabled, isAvailable, isListening, startListening, stopListening]);
+  }, [microphoneEnabled, isAvailable, isListening]);
 
   const handleToggle = async (value: boolean) => {
     if (value) {
       // Request permission when enabling microphone
-      const granted = await requestPermission();
+      const granted = await voiceService.requestPermission();
       if (!granted) {
         // Permission denied, don't enable
         return;
+      }
+      if (isMountedRef.current) {
+        setIsAvailable(true);
       }
     } else {
       setSpokenText('');
@@ -93,7 +132,10 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
   const handleContinue = async () => {
     // Stop listening before navigating
     if (isListening) {
-      await stopListening();
+      await voiceService.stopListening();
+      if (isMountedRef.current) {
+        setIsListening(false);
+      }
     }
 
     // Save settings via SettingsProvider

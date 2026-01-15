@@ -15,7 +15,6 @@ import { QueryProvider } from './src/providers/QueryProvider';
 import { DatabaseProvider } from './src/providers/DatabaseProvider';
 import { ThemeProvider, useTheme } from './src/providers/ThemeProvider';
 import { SettingsProvider } from './src/providers/SettingsProvider';
-import { VoiceProvider } from './src/providers/VoiceProvider';
 import { RootNavigator } from './src/navigation/RootNavigator';
 import { getPaperTheme } from '@monorepo/ui-components';
 import { configureGoogleSignIn } from './src/services/googleSignIn';
@@ -46,9 +45,7 @@ function App() {
           <SettingsProvider>
             <SafeAreaProvider>
               <ThemeProvider>
-                <VoiceProvider>
-                  <AppContent />
-                </VoiceProvider>
+                <AppContent />
               </ThemeProvider>
             </SafeAreaProvider>
           </SettingsProvider>
