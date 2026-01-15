@@ -92,34 +92,44 @@ function calculateSimilarity(str1: string, str2: string): number {
  * Returns empty string if >50% of words match TTS text
  */
 function filterTTSEcho(speechText: string): string {
-  // Get current TTS text from nativeTtsService
+  // Get current TTS text from nativeTtsService - this is the primary source
   const currentTTSText = tts.getCurrentText();
-  const filterText = ttsFilterText || currentTTSText;
+  // Use the dynamically fetched TTS text, or fall back to manually set filter text
+  const filterText = currentTTSText || ttsFilterText;
 
-  if (!filterText || !ttsFilterEnabled) {
+  if (!filterText) {
+    console.log('[NativeVoiceService] No TTS text to filter against');
     return speechText;
   }
 
-  const speechWords = speechText.toLowerCase().split(/\s+/);
-  const ttsWords = filterText.toLowerCase().split(/\s+/).filter((w) => w.length >= 3);
+  console.log(`[NativeVoiceService] Filtering speech "${speechText}" against TTS text (${filterText.length} chars)`);
 
-  if (ttsWords.length === 0) {
+  const speechWords = speechText.toLowerCase().split(/\s+/).filter((w) => w.length > 0);
+  const ttsWords = filterText.toLowerCase().split(/\s+/).filter((w) => w.length >= 2);
+
+  if (ttsWords.length === 0 || speechWords.length === 0) {
     return speechText;
   }
 
   let matchCount = 0;
   for (const speechWord of speechWords) {
+    // Skip very short words (articles, etc.)
+    if (speechWord.length < 2) continue;
+
     for (const ttsWord of ttsWords) {
-      if (speechWord === ttsWord || calculateSimilarity(speechWord, ttsWord) >= 0.8) {
+      if (speechWord === ttsWord || calculateSimilarity(speechWord, ttsWord) >= 0.75) {
         matchCount++;
+        console.log(`[NativeVoiceService] Word match: "${speechWord}" ~ "${ttsWord}"`);
         break;
       }
     }
   }
 
-  // If >50% of speech matches TTS, filter it out
+  // If >40% of speech words match TTS words, filter it out (lowered threshold for better filtering)
   const matchRatio = speechWords.length > 0 ? matchCount / speechWords.length : 0;
-  if (matchRatio > 0.5) {
+  console.log(`[NativeVoiceService] Match ratio: ${matchCount}/${speechWords.length} = ${(matchRatio * 100).toFixed(1)}%`);
+
+  if (matchRatio > 0.4) {
     console.log('[NativeVoiceService] Filtering TTS echo:', speechText);
     return '';
   }
@@ -151,12 +161,21 @@ function handleVoiceResult(event: VoiceResultEvent): void {
   const rawText = event.text || '';
   const isFinal = event.isFinal;
 
-  console.log(`[NativeVoiceService] Result: "${rawText}", final: ${isFinal}`);
+  console.log(`[NativeVoiceService] Result: "${rawText}", final: ${isFinal}, filterTTSEcho: ${currentConfig.filterTTSEcho}`);
 
-  // Apply TTS echo filtering if enabled
+  // Apply TTS echo filtering if enabled in config
   let processedText = rawText;
-  if (currentConfig.filterTTSEcho) {
+  if (currentConfig.filterTTSEcho && rawText.trim().length > 0) {
     processedText = filterTTSEcho(rawText);
+    if (processedText === '' && rawText.trim().length > 0) {
+      console.log('[NativeVoiceService] Speech filtered as TTS echo, not forwarding to callbacks');
+      // Still handle continuous mode restart for final results
+      if (isFinal && currentConfig.continuous && isCurrentlyListening && !isStopping) {
+        console.log('[NativeVoiceService] Continuous mode: restarting after filtered result...');
+        restartListening();
+      }
+      return;
+    }
   }
 
   if (processedText.trim().length > 0) {
