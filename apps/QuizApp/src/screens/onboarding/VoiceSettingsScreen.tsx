@@ -62,55 +62,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
     };
   }, []);
 
-  // Start/stop listening based on toggle
-  useEffect(() => {
-    const manageListening = async () => {
-      if (microphoneEnabled && isAvailable && !isListening) {
-        setSpokenText('');
-        const success = await voiceService.startListening(
-          {
-            continuous: true,
-            filterTTSEcho: false,
-            language: 'en-US',
-          },
-          {
-            onStart: () => {
-              if (isMountedRef.current) setIsListening(true);
-            },
-            onEnd: () => {
-              // Don't set isListening false in continuous mode
-            },
-            onResult: (text) => {
-              if (isMountedRef.current) {
-                setSpokenText(text);
-              }
-            },
-            onPartialResult: (text) => {
-              if (isMountedRef.current) {
-                setSpokenText(text);
-              }
-            },
-            onError: (error) => {
-              console.log('[VoiceSettingsScreen] Voice error:', error);
-              if (isMountedRef.current) setIsListening(false);
-            },
-          }
-        );
-        if (success && isMountedRef.current) {
-          setIsListening(true);
-        }
-      } else if (!microphoneEnabled && isListening) {
-        await voiceService.stopListening();
-        if (isMountedRef.current) {
-          setIsListening(false);
-          setSpokenText('');
-        }
-      }
-    };
-
-    manageListening();
-  }, [microphoneEnabled, isAvailable, isListening]);
-
+  // Handle toggle - single source for starting/stopping listening
   const handleToggle = async (value: boolean) => {
     if (value) {
       // Request permission when enabling microphone
@@ -119,13 +71,50 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
         // Permission denied, don't enable
         return;
       }
-      if (isMountedRef.current) {
-        setIsAvailable(true);
+      if (!isMountedRef.current) return;
+
+      // Update state
+      setIsAvailable(true);
+      setMicrophoneEnabled(true);
+      setSpokenText('');
+
+      // Start listening directly after permission is granted
+      const success = await voiceService.startListening(
+        {
+          continuous: true,
+          filterTTSEcho: false,
+          language: 'en-US',
+        },
+        {
+          onStart: () => {
+            if (isMountedRef.current) setIsListening(true);
+          },
+          onEnd: () => {
+            // Don't set isListening false in continuous mode
+          },
+          onResult: (text) => {
+            setSpokenText(text);
+          },
+          onPartialResult: (text) => {
+            setSpokenText(text);
+          },
+          onError: () => {
+            if (isMountedRef.current) setIsListening(false);
+          },
+        }
+      );
+      if (success && isMountedRef.current) {
+        setIsListening(true);
       }
     } else {
-      setSpokenText('');
+      // Stop listening first, then update state
+      await voiceService.stopListening();
+      if (isMountedRef.current) {
+        setMicrophoneEnabled(false);
+        setIsListening(false);
+        setSpokenText('');
+      }
     }
-    setMicrophoneEnabled(value);
   };
 
   const handleContinue = async () => {
@@ -204,6 +193,30 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
                 testID="microphone-toggle"
               />
             </View>
+
+            {/* Live Demo Area - Inside the card when mic is enabled */}
+            {microphoneEnabled && (
+              <View style={[styles.demoSection, { backgroundColor: colors.surface.variant }]}>
+                <View style={styles.demoHeader}>
+                  <Icon
+                    name={isListening ? 'waveform' : 'microphone'}
+                    size={24}
+                    color={isListening ? colors.success.main : colors.primary.main}
+                  />
+                  <Text variant="labelLarge" style={{ color: colors.text.primary, marginLeft: spacing.sm }}>
+                    {isListening ? 'Listening...' : 'Microphone Enabled'}
+                  </Text>
+                </View>
+                <Text variant="bodyLarge" style={[styles.spokenText, { color: colors.text.primary }]}>
+                  {spokenText ? `"${spokenText}"` : 'Try saying something...'}
+                </Text>
+                {!isAvailable && (
+                  <Text variant="bodySmall" style={{ color: colors.warning.main, textAlign: 'center', marginTop: spacing.sm }}>
+                    Voice recognition is not available on this device
+                  </Text>
+                )}
+              </View>
+            )}
           </Card.Content>
         </Card>
 
@@ -304,36 +317,9 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
           </Card>
         )}
 
-        {/* Live Demo Area */}
-        <View style={[styles.demoContainer, { backgroundColor: colors.surface.variant }]}>
-          {microphoneEnabled ? (
-            <>
-              <View style={styles.demoHeader}>
-                <Icon
-                  name={isListening ? 'waveform' : 'microphone'}
-                  size={24}
-                  color={isListening ? colors.success.main : colors.primary.main}
-                />
-                <Text variant="labelLarge" style={{ color: colors.text.primary, marginLeft: spacing.sm }}>
-                  {isListening ? 'Listening...' : 'Microphone Enabled'}
-                </Text>
-              </View>
-              {spokenText ? (
-                <Text variant="bodyLarge" style={[styles.spokenText, { color: colors.text.primary }]}>
-                  "{spokenText}"
-                </Text>
-              ) : (
-                <Text variant="bodyMedium" style={{ color: colors.text.tertiary, textAlign: 'center' }}>
-                  Try saying something...
-                </Text>
-              )}
-              {!isAvailable && (
-                <Text variant="bodySmall" style={{ color: colors.warning.main, textAlign: 'center', marginTop: spacing.sm }}>
-                  Voice recognition is not available on this device
-                </Text>
-              )}
-            </>
-          ) : (
+        {/* Microphone Disabled State */}
+        {!microphoneEnabled && (
+          <View style={[styles.demoContainer, { backgroundColor: colors.surface.variant }]}>
             <View style={styles.disabledDemo}>
               <Icon name="microphone-off" size={32} color={colors.text.disabled} />
               <Text variant="bodyMedium" style={{ color: colors.text.tertiary, marginTop: spacing.sm }}>
@@ -343,8 +329,8 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
                 You'll type your answers during quizzes
               </Text>
             </View>
-          )}
-        </View>
+          </View>
+        )}
       </ScrollView>
 
       {/* CTA Button - Anchored at bottom */}
@@ -432,6 +418,14 @@ const styles = StyleSheet.create({
     borderRadius: radius.md,
     padding: spacing.md,
     marginBottom: spacing.lg,
+    minHeight: 80,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  demoSection: {
+    borderRadius: radius.md,
+    padding: spacing.md,
+    marginTop: spacing.lg,
     minHeight: 80,
     justifyContent: 'center',
     alignItems: 'center',
