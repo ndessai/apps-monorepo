@@ -6,9 +6,10 @@
  * Uses nativeVoiceService directly for voice recognition
  */
 
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useRef, useCallback } from 'react';
 import { StyleSheet, View, ScrollView, TouchableOpacity } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
+import { useFocusEffect } from '@react-navigation/native';
 import { Button, Text, Switch, Card } from 'react-native-paper';
 import Slider from '@react-native-community/slider';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
@@ -77,39 +78,44 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
     }
   };
 
-  // Check voice availability and start listening if mic is already enabled
-  useEffect(() => {
-    console.log('VoiceSettingsScreen mounted');
-    isMountedRef.current = true;
-    hasStartedListeningRef.current = false;
+  // Check voice availability and start listening when screen is focused
+  useFocusEffect(
+    useCallback(() => {
+      isMountedRef.current = true;
+      hasStartedListeningRef.current = false;
 
-    const initVoice = async () => {
-      const available = await voiceService.checkAvailability();
-      if (isMountedRef.current) {
-        setIsAvailable(available);
-      }
-
-      // If mic is already enabled from settings, request permission and start listening
-      if (microphoneEnabled && available) {
-        const granted = await voiceService.requestPermission();
-        if (granted && isMountedRef.current) {
-          setIsAvailable(true);
-          await startListening();
-        } else if (!granted && isMountedRef.current) {
-          // Permission denied, disable mic
-          setMicrophoneEnabled(false);
+      const initVoice = async () => {
+        const available = await voiceService.checkAvailability();
+        if (isMountedRef.current) {
+          setIsAvailable(available);
         }
-      }
-    };
 
-    initVoice();
+        // If mic is already enabled from settings, request permission and start listening
+        if (microphoneEnabled && available) {
+          const granted = await voiceService.requestPermission();
+          if (granted && isMountedRef.current) {
+            setIsAvailable(true);
+            await startListening();
+          } else if (!granted && isMountedRef.current) {
+            // Permission denied, disable mic
+            setMicrophoneEnabled(false);
+          }
+        }
+      };
 
-    return () => {
-      isMountedRef.current = false;
-      voiceService.stopListening();
-    };
-  // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, []);
+      initVoice();
+
+      // Cleanup when screen loses focus
+      return () => {
+        isMountedRef.current = false;
+        hasStartedListeningRef.current = false;
+        voiceService.stopListening();
+        setIsListening(false);
+        setSpokenText('');
+      };
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+    }, [microphoneEnabled])
+  );
 
   // Handle toggle - for when user explicitly toggles the mic
   const handleToggle = async (value: boolean) => {
@@ -160,7 +166,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
       console.error('Failed to save voice settings:', error);
     }
 
-    navigation.navigate('TimerSettings');
+    navigation.navigate('SampleQuizIntro');
   };
 
   return (
