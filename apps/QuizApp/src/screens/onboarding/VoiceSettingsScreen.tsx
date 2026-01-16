@@ -7,7 +7,7 @@
  */
 
 import React, { useState, useEffect, useRef } from 'react';
-import { StyleSheet, View, ScrollView } from 'react-native';
+import { StyleSheet, View, ScrollView, TouchableOpacity } from 'react-native';
 import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Button, Text, Switch, Card } from 'react-native-paper';
 import Slider from '@react-native-community/slider';
@@ -155,6 +155,15 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
 
   return (
     <View style={[styles.container, { backgroundColor: colors.background.default }]}>
+      {/* Back Button */}
+      <TouchableOpacity
+        style={[styles.backButton, { top: insets.top + spacing.sm }]}
+        onPress={() => navigation.goBack()}
+        testID="back-button"
+      >
+        <Icon name="arrow-left" size={24} color={colors.text.primary} />
+      </TouchableOpacity>
+
       <ScrollView
         contentContainerStyle={[
           styles.scrollContent,
@@ -359,6 +368,12 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+  },
+  backButton: {
+    position: 'absolute',
+    left: spacing.md,
+    zIndex: 1,
+    padding: spacing.sm,
   },
   scrollContent: {
     flexGrow: 1,

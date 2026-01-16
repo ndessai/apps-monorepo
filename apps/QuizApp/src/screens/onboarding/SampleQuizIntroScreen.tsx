@@ -6,7 +6,8 @@
  */
 
 import React from 'react';
-import { StyleSheet, View } from 'react-native';
+import { StyleSheet, View, TouchableOpacity } from 'react-native';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Button, Text } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
@@ -18,6 +19,7 @@ type Props = NativeStackScreenProps<OnboardingStackParamList, 'SampleQuizIntro'>
 
 export const SampleQuizIntroScreen: React.FC<Props> = ({ navigation }) => {
   const { colors } = useTheme();
+  const insets = useSafeAreaInsets();
 
   const handleStartQuiz = () => {
     navigation.navigate('Quiz', { isOnboarding: true });
@@ -25,6 +27,15 @@ export const SampleQuizIntroScreen: React.FC<Props> = ({ navigation }) => {
 
   return (
     <View style={[styles.container, { backgroundColor: colors.background.default }]}>
+      {/* Back Button */}
+      <TouchableOpacity
+        style={[styles.backButton, { top: insets.top + spacing.sm }]}
+        onPress={() => navigation.goBack()}
+        testID="back-button"
+      >
+        <Icon name="arrow-left" size={24} color={colors.text.primary} />
+      </TouchableOpacity>
+
       <View style={styles.content}>
         {/* Icon */}
         <View style={[styles.iconContainer, { backgroundColor: colors.success.container }]}>
@@ -100,6 +111,12 @@ export const SampleQuizIntroScreen: React.FC<Props> = ({ navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+  },
+  backButton: {
+    position: 'absolute',
+    left: spacing.md,
+    zIndex: 1,
+    padding: spacing.sm,
   },
   content: {
     flex: 1,

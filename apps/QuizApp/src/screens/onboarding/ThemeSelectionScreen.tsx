@@ -7,6 +7,7 @@
 
 import React, { useState } from 'react';
 import { StyleSheet, View, TouchableOpacity } from 'react-native';
+import { useSafeAreaInsets } from 'react-native-safe-area-context';
 import { Button, Text } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
@@ -18,6 +19,7 @@ type Props = NativeStackScreenProps<OnboardingStackParamList, 'ThemeSelection'>;
 
 export const ThemeSelectionScreen: React.FC<Props> = ({ navigation }) => {
   const { colors, theme, setTheme } = useTheme();
+  const insets = useSafeAreaInsets();
   const [selectedTheme, setSelectedTheme] = useState<'light' | 'dark'>(theme);
 
   const handleThemeSelect = (newTheme: 'light' | 'dark') => {
@@ -31,6 +33,15 @@ export const ThemeSelectionScreen: React.FC<Props> = ({ navigation }) => {
 
   return (
     <View style={[styles.container, { backgroundColor: colors.background.default }]}>
+      {/* Back Button */}
+      <TouchableOpacity
+        style={[styles.backButton, { top: insets.top + spacing.sm }]}
+        onPress={() => navigation.goBack()}
+        testID="back-button"
+      >
+        <Icon name="arrow-left" size={24} color={colors.text.primary} />
+      </TouchableOpacity>
+
       <View style={styles.content}>
         {/* Title */}
         <Text variant="headlineMedium" style={[styles.title, { color: colors.text.primary }]}>
@@ -118,6 +129,12 @@ export const ThemeSelectionScreen: React.FC<Props> = ({ navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+  },
+  backButton: {
+    position: 'absolute',
+    left: spacing.md,
+    zIndex: 1,
+    padding: spacing.sm,
   },
   content: {
     flex: 1,

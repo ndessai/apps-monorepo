@@ -47,6 +47,15 @@ export const AudioFeedbackScreen: React.FC<Props> = ({ navigation }) => {
 
   return (
     <View style={[styles.container, { backgroundColor: colors.background.default }]}>
+      {/* Back Button */}
+      <TouchableOpacity
+        style={[styles.backButton, { top: insets.top + spacing.sm }]}
+        onPress={() => navigation.goBack()}
+        testID="back-button"
+      >
+        <Icon name="arrow-left" size={24} color={colors.text.primary} />
+      </TouchableOpacity>
+
       <ScrollView
         contentContainerStyle={[
           styles.scrollContent,
@@ -234,6 +243,12 @@ export const AudioFeedbackScreen: React.FC<Props> = ({ navigation }) => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
+  },
+  backButton: {
+    position: 'absolute',
+    left: spacing.md,
+    zIndex: 1,
+    padding: spacing.sm,
   },
   scrollContent: {
     flexGrow: 1,
