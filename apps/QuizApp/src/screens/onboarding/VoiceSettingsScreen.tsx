@@ -17,52 +17,101 @@ import { spacing, radius, elevation } from '@monorepo/ui-components';
 import { useTheme } from '../../providers/ThemeProvider';
 import { useSettings } from '../../providers/SettingsProvider';
 import * as voiceService from '../../services/nativeVoiceService';
-import { DEFAULT_QUIZ_SETTINGS, MIN_SILENCE_MS, MAX_SILENCE_MS } from '../../types/settings';
+import { MIN_SILENCE_MS, MAX_SILENCE_MS } from '../../types/settings';
 import type { OnboardingStackParamList } from '../../types/navigation';
 
 type Props = NativeStackScreenProps<OnboardingStackParamList, 'VoiceSettings'>;
 
 export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
   const { colors } = useTheme();
-  const { updateSettings } = useSettings();
+  const { settings, updateSettings } = useSettings();
   const insets = useSafeAreaInsets();
 
   // Voice state - managed locally
   const [isListening, setIsListening] = useState(false);
   const [isAvailable, setIsAvailable] = useState(false);
 
-  // Default to OFF - user must explicitly enable
-  const [microphoneEnabled, setMicrophoneEnabled] = useState(false);
-  const [autoSubmitOnSilence, setAutoSubmitOnSilence] = useState(true);
-  const [autoSubmitSilenceMs, setAutoSubmitSilenceMs] = useState(DEFAULT_QUIZ_SETTINGS.autoSubmitSilenceMs);
-  const [audioActionsEnabled, setAudioActionsEnabled] = useState(false);
+  // Initialize from saved settings
+  const [microphoneEnabled, setMicrophoneEnabled] = useState(settings.microphoneEnabled);
+  const [autoSubmitOnSilence, setAutoSubmitOnSilence] = useState(settings.autoSubmitOnSilence);
+  const [autoSubmitSilenceMs, setAutoSubmitSilenceMs] = useState(settings.autoSubmitSilenceMs);
+  const [audioActionsEnabled, setAudioActionsEnabled] = useState(settings.audioActionsEnabled);
   const [spokenText, setSpokenText] = useState('');
   const isMountedRef = useRef(true);
+  const hasStartedListeningRef = useRef(false);
 
   const formatSilenceTime = (ms: number) => `${(ms / 1000).toFixed(1)}s`;
 
-  // Check voice availability on mount (without requesting permission)
-  useEffect(() => {
-    isMountedRef.current = true;
+  // Start listening helper function
+  const startListening = async () => {
+    if (!isMountedRef.current || hasStartedListeningRef.current) return;
 
-    const checkVoice = async () => {
+    setSpokenText('');
+    const success = await voiceService.startListening(
+      {
+        continuous: true,
+        filterTTSEcho: false,
+        language: 'en-US',
+      },
+      {
+        onStart: () => {
+          if (isMountedRef.current) setIsListening(true);
+        },
+        onEnd: () => {
+          // Don't set isListening false in continuous mode
+        },
+        onResult: (text) => {
+          if (isMountedRef.current) setSpokenText(text);
+        },
+        onPartialResult: (text) => {
+          if (isMountedRef.current) setSpokenText(text);
+        },
+        onError: () => {
+          if (isMountedRef.current) setIsListening(false);
+        },
+      }
+    );
+    if (success && isMountedRef.current) {
+      setIsListening(true);
+      hasStartedListeningRef.current = true;
+    }
+  };
+
+  // Check voice availability and start listening if mic is already enabled
+  useEffect(() => {
+    console.log('VoiceSettingsScreen mounted');
+    isMountedRef.current = true;
+    hasStartedListeningRef.current = false;
+
+    const initVoice = async () => {
       const available = await voiceService.checkAvailability();
       if (isMountedRef.current) {
-        // Just check availability - don't request permission yet
-        // Permission will be requested when user enables the toggle
         setIsAvailable(available);
+      }
+
+      // If mic is already enabled from settings, request permission and start listening
+      if (microphoneEnabled && available) {
+        const granted = await voiceService.requestPermission();
+        if (granted && isMountedRef.current) {
+          setIsAvailable(true);
+          await startListening();
+        } else if (!granted && isMountedRef.current) {
+          // Permission denied, disable mic
+          setMicrophoneEnabled(false);
+        }
       }
     };
 
-    checkVoice();
+    initVoice();
 
     return () => {
       isMountedRef.current = false;
       voiceService.stopListening();
     };
+  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, []);
 
-  // Handle toggle - single source for starting/stopping listening
+  // Handle toggle - for when user explicitly toggles the mic
   const handleToggle = async (value: boolean) => {
     if (value) {
       // Request permission when enabling microphone
@@ -76,36 +125,8 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
       // Update state
       setIsAvailable(true);
       setMicrophoneEnabled(true);
-      setSpokenText('');
-
-      // Start listening directly after permission is granted
-      const success = await voiceService.startListening(
-        {
-          continuous: true,
-          filterTTSEcho: false,
-          language: 'en-US',
-        },
-        {
-          onStart: () => {
-            if (isMountedRef.current) setIsListening(true);
-          },
-          onEnd: () => {
-            // Don't set isListening false in continuous mode
-          },
-          onResult: (text) => {
-            setSpokenText(text);
-          },
-          onPartialResult: (text) => {
-            setSpokenText(text);
-          },
-          onError: () => {
-            if (isMountedRef.current) setIsListening(false);
-          },
-        }
-      );
-      if (success && isMountedRef.current) {
-        setIsListening(true);
-      }
+      hasStartedListeningRef.current = false;
+      await startListening();
     } else {
       // Stop listening first, then update state
       await voiceService.stopListening();
@@ -113,6 +134,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
         setMicrophoneEnabled(false);
         setIsListening(false);
         setSpokenText('');
+        hasStartedListeningRef.current = false;
       }
     }
   };
