@@ -91,10 +91,11 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
         }
 
         // If mic is already enabled from settings, request permission and start listening
-        if (microphoneEnabled && available) {
+        if (settings.microphoneEnabled && available) {
           const granted = await voiceService.requestPermission();
           if (granted && isMountedRef.current) {
             setIsAvailable(true);
+            setMicrophoneEnabled(true);
             await startListening();
           } else if (!granted && isMountedRef.current) {
             // Permission denied, disable mic
@@ -114,7 +115,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
         setSpokenText('');
       };
     // eslint-disable-next-line react-hooks/exhaustive-deps
-    }, [microphoneEnabled])
+    }, [])
   );
 
   // Handle toggle - for when user explicitly toggles the mic
@@ -128,11 +129,40 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
       }
       if (!isMountedRef.current) return;
 
-      // Update state
+      // Update state and start listening
       setIsAvailable(true);
       setMicrophoneEnabled(true);
-      hasStartedListeningRef.current = false;
-      await startListening();
+      setSpokenText('');
+
+      // Start listening directly
+      const success = await voiceService.startListening(
+        {
+          continuous: true,
+          filterTTSEcho: false,
+          language: 'en-US',
+        },
+        {
+          onStart: () => {
+            if (isMountedRef.current) setIsListening(true);
+          },
+          onEnd: () => {
+            // Don't set isListening false in continuous mode
+          },
+          onResult: (text) => {
+            if (isMountedRef.current) setSpokenText(text);
+          },
+          onPartialResult: (text) => {
+            if (isMountedRef.current) setSpokenText(text);
+          },
+          onError: () => {
+            if (isMountedRef.current) setIsListening(false);
+          },
+        }
+      );
+      if (success && isMountedRef.current) {
+        setIsListening(true);
+        hasStartedListeningRef.current = true;
+      }
     } else {
       // Stop listening first, then update state
       await voiceService.stopListening();
