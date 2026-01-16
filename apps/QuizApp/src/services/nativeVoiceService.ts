@@ -316,6 +316,7 @@ export async function initialize(): Promise<boolean> {
  */
 export async function checkAvailability(): Promise<boolean> {
   try {
+    await NativeVoice.requestPermission();
     const isAvailable = await NativeVoice.isAvailable();
     return isAvailable;
   } catch {
