@@ -41,21 +41,20 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
 
   const formatSilenceTime = (ms: number) => `${(ms / 1000).toFixed(1)}s`;
 
-  // Initialize voice service on mount
+  // Check voice availability on mount (without requesting permission)
   useEffect(() => {
     isMountedRef.current = true;
 
-    const initVoice = async () => {
+    const checkVoice = async () => {
       const available = await voiceService.checkAvailability();
-      if (available) {
-        const initialized = await voiceService.initialize();
-        if (isMountedRef.current) {
-          setIsAvailable(initialized);
-        }
+      if (isMountedRef.current) {
+        // Just check availability - don't request permission yet
+        // Permission will be requested when user enables the toggle
+        setIsAvailable(available);
       }
     };
 
-    initVoice();
+    checkVoice();
 
     return () => {
       isMountedRef.current = false;
