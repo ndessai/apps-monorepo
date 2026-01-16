@@ -37,16 +37,18 @@ export const SampleQuizIntroScreen: React.FC<Props> = ({ navigation }) => {
       </TouchableOpacity>
 
       <View style={[styles.content, { paddingTop: insets.top + spacing['2xl'] }]}>
+         {/* Title */}
+        <Text variant="headlineMedium" style={[styles.title, { color: colors.text.primary }]}>
+          Ready for a Practice Round?
+        </Text>
+
+       
         {/* Icon */}
         <View style={[styles.iconContainer, { backgroundColor: colors.success.container }]}>
           <Icon name="play-circle" size={64} color={colors.success.main} />
         </View>
 
-        {/* Title */}
-        <Text variant="headlineMedium" style={[styles.title, { color: colors.text.primary }]}>
-          Ready for a Practice Round?
-        </Text>
-
+      
         {/* Description */}
         <Text variant="bodyLarge" style={[styles.description, { color: colors.text.secondary }]}>
           Let's try a quick 2-question quiz to get you familiar with the format.

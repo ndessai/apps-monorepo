@@ -34,7 +34,7 @@ interface TimerSetting {
 const TIMER_SETTINGS: TimerSetting[] = [
   {
     key: 'buzzerTimeMs',
-    icon: 'timer-alert',
+    icon: 'bell-ring',
     title: 'Buzzer Time',
     description: 'Time to buzz in after question finishes',
     min: 1000,
