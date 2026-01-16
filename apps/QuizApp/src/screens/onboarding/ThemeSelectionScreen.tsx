@@ -42,7 +42,7 @@ export const ThemeSelectionScreen: React.FC<Props> = ({ navigation }) => {
         <Icon name="arrow-left" size={24} color={colors.text.primary} />
       </TouchableOpacity>
 
-      <View style={styles.content}>
+      <View style={[styles.content, { paddingTop: insets.top + spacing['2xl'] }]}>
         {/* Title */}
         <Text variant="headlineMedium" style={[styles.title, { color: colors.text.primary }]}>
           Choose Your Theme
@@ -109,8 +109,10 @@ export const ThemeSelectionScreen: React.FC<Props> = ({ navigation }) => {
             </View>
           </TouchableOpacity>
         </View>
+      </View>
 
-        {/* CTA Button */}
+      {/* CTA Button - Anchored at bottom */}
+      <View style={[styles.buttonContainer, { paddingBottom: insets.bottom + spacing.lg }]}>
         <Button
           mode="contained"
           onPress={handleContinue}
@@ -138,7 +140,6 @@ const styles = StyleSheet.create({
   },
   content: {
     flex: 1,
-    justifyContent: 'center',
     paddingHorizontal: spacing.xl,
   },
   title: {
@@ -189,6 +190,11 @@ const styles = StyleSheet.create({
   },
   themeLabel: {
     fontWeight: '600',
+  },
+  buttonContainer: {
+    paddingHorizontal: spacing.xl,
+    paddingTop: spacing.md,
+    backgroundColor: 'transparent',
   },
   button: {
     width: '100%',

@@ -36,7 +36,7 @@ export const SampleQuizIntroScreen: React.FC<Props> = ({ navigation }) => {
         <Icon name="arrow-left" size={24} color={colors.text.primary} />
       </TouchableOpacity>
 
-      <View style={styles.content}>
+      <View style={[styles.content, { paddingTop: insets.top + spacing['2xl'] }]}>
         {/* Icon */}
         <View style={[styles.iconContainer, { backgroundColor: colors.success.container }]}>
           <Icon name="play-circle" size={64} color={colors.success.main} />
@@ -90,8 +90,10 @@ export const SampleQuizIntroScreen: React.FC<Props> = ({ navigation }) => {
             </View>
           </View>
         </View>
+      </View>
 
-        {/* CTA Button */}
+      {/* CTA Button - Anchored at bottom */}
+      <View style={[styles.buttonContainer, { paddingBottom: insets.bottom + spacing.lg }]}>
         <Button
           mode="contained"
           onPress={handleStartQuiz}
@@ -120,7 +122,6 @@ const styles = StyleSheet.create({
   },
   content: {
     flex: 1,
-    justifyContent: 'center',
     alignItems: 'center',
     paddingHorizontal: spacing.xl,
   },
@@ -144,7 +145,6 @@ const styles = StyleSheet.create({
   },
   infoContainer: {
     width: '100%',
-    marginBottom: spacing['2xl'],
     gap: spacing.md,
   },
   infoCard: {
@@ -156,6 +156,11 @@ const styles = StyleSheet.create({
   infoTextContainer: {
     marginLeft: spacing.md,
     flex: 1,
+  },
+  buttonContainer: {
+    paddingHorizontal: spacing.xl,
+    paddingTop: spacing.md,
+    backgroundColor: 'transparent',
   },
   button: {
     width: '100%',

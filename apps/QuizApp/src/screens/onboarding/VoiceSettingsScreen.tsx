@@ -167,7 +167,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
       <ScrollView
         contentContainerStyle={[
           styles.scrollContent,
-          { paddingTop: insets.top + spacing.xl }
+          { paddingTop: insets.top + spacing['2xl'] }
         ]}
         showsVerticalScrollIndicator={false}
       >

@@ -81,7 +81,7 @@ export const DifficultySettingsScreen: React.FC<Props> = ({ navigation }) => {
       <ScrollView
         contentContainerStyle={[
           styles.scrollContent,
-          { paddingTop: insets.top + spacing.xl }
+          { paddingTop: insets.top + spacing['2xl'] }
         ]}
         showsVerticalScrollIndicator={false}
       >
@@ -171,8 +171,8 @@ export const DifficultySettingsScreen: React.FC<Props> = ({ navigation }) => {
         <View style={[styles.noteContainer, { backgroundColor: colors.surface.variant }]}>
           <Icon name="lightbulb-outline" size={20} color={colors.primary.main} />
           <Text variant="bodySmall" style={[styles.noteText, { color: colors.text.secondary }]}>
-            You can change this anytime in Settings. We recommend starting with Varsity if you're
-            new to quiz bowl.
+            You can change this anytime in Settings. We recommend starting with Middle School if
+            you're new to quiz bowl.
           </Text>
         </View>
       </ScrollView>

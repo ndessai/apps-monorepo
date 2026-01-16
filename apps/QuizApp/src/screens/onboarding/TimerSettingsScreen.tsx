@@ -113,7 +113,13 @@ export const TimerSettingsScreen: React.FC<Props> = ({ navigation }) => {
         <Icon name="arrow-left" size={24} color={colors.text.primary} />
       </TouchableOpacity>
 
-      <ScrollView contentContainerStyle={[styles.scrollContent, { paddingTop: insets.top + spacing.xl }]}>
+      <ScrollView
+        contentContainerStyle={[
+          styles.scrollContent,
+          { paddingTop: insets.top + spacing['2xl'] }
+        ]}
+        showsVerticalScrollIndicator={false}
+      >
         {/* Title */}
         <Text variant="headlineMedium" style={[styles.title, { color: colors.text.primary }]}>
           Customize Timers
@@ -174,8 +180,10 @@ export const TimerSettingsScreen: React.FC<Props> = ({ navigation }) => {
             </Card.Content>
           </Card>
         ))}
+      </ScrollView>
 
-        {/* CTA Button */}
+      {/* CTA Button - Anchored at bottom */}
+      <View style={[styles.buttonContainer, { paddingBottom: insets.bottom + spacing.lg }]}>
         <Button
           mode="contained"
           onPress={handleContinue}
@@ -186,7 +194,7 @@ export const TimerSettingsScreen: React.FC<Props> = ({ navigation }) => {
         >
           Continue
         </Button>
-      </ScrollView>
+      </View>
     </View>
   );
 };
@@ -202,7 +210,8 @@ const styles = StyleSheet.create({
     padding: spacing.sm,
   },
   scrollContent: {
-    padding: spacing.xl,
+    flexGrow: 1,
+    paddingHorizontal: spacing.xl,
   },
   title: {
     textAlign: 'center',
@@ -253,8 +262,13 @@ const styles = StyleSheet.create({
     marginTop: spacing.xs,
     fontStyle: 'italic',
   },
+  buttonContainer: {
+    paddingHorizontal: spacing.xl,
+    paddingTop: spacing.md,
+    backgroundColor: 'transparent',
+  },
   button: {
-    marginTop: spacing.lg,
+    width: '100%',
   },
   buttonContent: {
     paddingVertical: spacing.sm,

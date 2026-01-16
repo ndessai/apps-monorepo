@@ -76,7 +76,7 @@ export const DEFAULT_QUIZ_SETTINGS: QuizSettingsData = {
   readQuestions: true, // Read questions aloud by default
   provideAudioFeedback: false, // Audio feedback disabled by default
   audioFeedbackTone: 'Positive', // Positive tone by default
-  difficulty: 'varsity',
+  difficulty: 'middle_school',
   theme: 'light',
 };
 
