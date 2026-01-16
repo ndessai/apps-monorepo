@@ -65,10 +65,10 @@ export const AudioFeedbackScreen: React.FC<Props> = ({ navigation }) => {
       >
         {/* Title */}
         <Text variant="headlineMedium" style={[styles.title, { color: colors.text.primary }]}>
-          Audio Support
+          Talk to me!
         </Text>
         <Text variant="bodyLarge" style={[styles.subtitle, { color: colors.text.secondary }]}>
-          Configure how questions are read aloud
+          Customize how app talks to you.
         </Text>
 
         {/* Read Questions Card */}

@@ -173,10 +173,10 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
       >
         {/* Title */}
         <Text variant="headlineMedium" style={[styles.title, { color: colors.text.primary }]}>
-          Voice Support
+          Listen to me!
         </Text>
         <Text variant="bodyLarge" style={[styles.subtitle, { color: colors.text.secondary }]}>
-          Answer questions hands-free by speaking
+          Customize how the app listens to your voice commands.
         </Text>
 
         {/* Toggle Card */}
@@ -290,7 +290,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
                       Hands-Free Mode
                     </Text>
                     <Text variant="bodySmall" style={{ color: colors.text.secondary }}>
-                      Say "Buzz" to interrupt questions and answer by voice
+                      Say "Buzz" on toss-up and "Pause" or "Stop" on other questions to interrupt questions and answer by voice
                     </Text>
                   </View>
                 </View>

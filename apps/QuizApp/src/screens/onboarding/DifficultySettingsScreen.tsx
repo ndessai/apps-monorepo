@@ -90,7 +90,7 @@ export const DifficultySettingsScreen: React.FC<Props> = ({ navigation }) => {
           Choose Difficulty
         </Text>
         <Text variant="bodyLarge" style={[styles.subtitle, { color: colors.text.secondary }]}>
-          Select the level that matches your experience
+          Select quiz level
         </Text>
 
         {/* Difficulty Options */}
