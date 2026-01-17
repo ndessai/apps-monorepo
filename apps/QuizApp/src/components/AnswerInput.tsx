@@ -240,7 +240,7 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     const success = await voiceService.startListening(
       {
         continuous: false,
-        filterTTSEcho: true,
+        filterTTSEcho: false, // Disabled - TTS is stopped before answer tray opens, no echo to filter
         language: 'en-US',
       },
       {
@@ -259,11 +259,22 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
           if (isMountedRef.current) {
             setAnswer(text);
             answerRef.current = text;
+            // Track partial results too for auto-submit
+            // In case final result isn't received before end event
+            if (text.trim().length > 0) {
+              lastSpeechResultRef.current = text;
+              hasSpeechResultRef.current = true;
+            }
           }
         },
         onError: (error) => {
           console.log('[AnswerInput] voiceService onError:', error);
-          if (isMountedRef.current) setIsListening(false);
+          if (isMountedRef.current) {
+            setIsListening(false);
+            // Treat error as speech end for auto-submit purposes
+            // This handles cases like timeout or no speech detected
+            handleSpeechEnd();
+          }
         },
       }
     );

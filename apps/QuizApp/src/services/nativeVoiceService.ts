@@ -22,6 +22,7 @@ import * as tts from './nativeTtsService';
 export interface VoiceConfig {
   continuous?: boolean;        // Auto-restart when speech ends
   filterTTSEcho?: boolean;     // Filter text matching TTS output
+  preserveCommandWords?: boolean; // If true, command words (buzz, stop) bypass TTS filter
   language?: string;           // Default: 'en-US'
 }
 
@@ -120,14 +121,14 @@ function containsCommandWord(speechText: string): boolean {
 /**
  * Filter out TTS echo from speech text
  * Returns empty string if >50% of words match TTS text
- * IMPORTANT: Always preserves speech containing command words (buzz, stop, pause)
+ * If preserveCommandWords is true in config, command words (buzz, stop, pause) bypass filter
  */
 function filterTTSEcho(speechText: string): string {
-  // CRITICAL: Check for command words FIRST - never filter these out
-  // This ensures "buzz" or "stop" commands are always detected even if
-  // the cumulative speech contains TTS echo words
-  if (containsCommandWord(speechText)) {
-    console.log('[NativeVoiceService] Speech contains command word - bypassing TTS filter');
+  // Check for command words FIRST if preserveCommandWords is enabled
+  // This is used by audioActionsService to detect "buzz"/"stop" during TTS playback
+  // AnswerInput sets preserveCommandWords: false so user answers aren't bypassed
+  if (currentConfig.preserveCommandWords && containsCommandWord(speechText)) {
+    console.log('[NativeVoiceService] Speech contains command word - bypassing TTS filter (preserveCommandWords=true)');
     return speechText;
   }
 

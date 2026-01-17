@@ -146,10 +146,12 @@ export async function startAudioActions(
     console.log(`[AudioActions] Starting session ${sessionId}`);
 
     // Start listening via voiceService with TTS filtering enabled
+    // preserveCommandWords ensures "buzz"/"stop" are detected even with TTS echo
     const success = await voiceService.startListening(
       {
         continuous: true,
         filterTTSEcho: true,
+        preserveCommandWords: true,
         language: 'en-US',
       },
       {

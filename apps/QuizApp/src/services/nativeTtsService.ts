@@ -80,6 +80,7 @@ let isStopping = false; // Flag to ignore all events during stop sequence
 let currentProgressCallback: ProgressCallback | null = null;
 let currentFinishCallback: FinishCallback | null = null;
 let currentText = '';
+let lastReadText = ''; // Persists after stopReading() for echo filtering in answer tray
 let lastReportedCharIndex = 0;
 let currentVoiceType: VoiceType = 'standard';
 
@@ -213,6 +214,7 @@ async function speakText(
 
   // Set up fresh state for this question
   currentText = text;
+  lastReadText = text; // Persist for echo filtering even after stop
   currentVoiceType = voiceType;
   // For non-standard voice types, don't track progress (no highlighting needed)
   currentProgressCallback = voiceType === 'standard' ? (onProgress || null) : null;
@@ -431,6 +433,7 @@ export function startReadingWithoutTTS(
 
   // Set up state
   currentText = text;
+  lastReadText = text; // Persist for echo filtering even after stop
   currentProgressCallback = onProgress;
   currentFinishCallback = onFinish;
   lastReportedCharIndex = 0;
@@ -561,10 +564,21 @@ export function isReading(): boolean {
 }
 
 /**
- * Get the current text being read (for voice filtering)
+ * Get the current or last read text (for voice echo filtering)
+ * Returns currentText if TTS is active, otherwise returns lastReadText
+ * This allows answer tray to filter echoes even after TTS has stopped
  */
 export function getCurrentText(): string {
-  return currentText;
+  return currentText || lastReadText;
+}
+
+/**
+ * Clear the last read text (call when moving to next question)
+ * This prevents filtering against stale question text
+ */
+export function clearLastReadText(): void {
+  lastReadText = '';
+  console.log('NativeTTS: Cleared lastReadText for new question');
 }
 
 /**
