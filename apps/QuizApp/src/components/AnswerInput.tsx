@@ -240,7 +240,7 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     const success = await voiceService.startListening(
       {
         continuous: false,
-        filterTTSEcho: false,
+        filterTTSEcho: true,
         language: 'en-US',
       },
       {

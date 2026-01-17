@@ -182,18 +182,21 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         return;
       }
 
-      // Start audio actions during reading or buzz_window for tossups
-      const shouldBeActive = quizState === 'reading' || quizState === 'buzz_window';
+      // Start audio actions during reading, buzz_window, or bonus (for voice-stop)
+      const shouldBeActive = quizState === 'reading' || quizState === 'buzz_window' || quizState === 'bonus';
 
       if (shouldBeActive && !audioActionsActiveRef.current) {
-        // Start listening for "Buzz" command
+        // Start listening for "Buzz" or "Stop" command
         const started = await audioActionsService.startAudioActions({
           onBuzzDetected: () => {
-            console.log('[QuizScreen] Voice buzz detected!');
-            // Trigger buzz if in valid state - use ref to get current state
+            console.log('[QuizScreen] Voice command detected!');
+            // Trigger action based on current state - use ref to get current state
             const currentState = quizStateRef.current;
             if (currentState === 'reading' || currentState === 'buzz_window') {
               handleBuzz();
+            } else if (currentState === 'bonus') {
+              // For bonus: stop TTS but reveal full text
+              handleBonusVoiceStop();
             }
           },
           onSpeechResult: (text: string) => {
@@ -320,6 +323,27 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         handleTimeout();
       }
     }, 1000);
+  };
+
+  // Handle voice-stop during bonus question reading
+  // Stops TTS immediately but reveals full text
+  const handleBonusVoiceStop = () => {
+    console.log('[QuizScreen] Voice stop during bonus - stopping TTS, revealing full text');
+
+    // Stop TTS audio immediately
+    tts.stopReading();
+
+    // Reveal full text by setting char index to full length
+    if (currentQuestion && 'parts' in currentQuestion) {
+      const bonus = currentQuestion as BonusQuestion;
+      const part = bonus.parts[currentBonusPartIndex];
+      if (part) {
+        setCurrentCharIndex(part.text.length);
+      }
+    }
+
+    // Note: Don't change quiz state or show answer sheet yet
+    // The TTS onFinish callback will handle starting the answer timer
   };
 
   // Handle buzz button press

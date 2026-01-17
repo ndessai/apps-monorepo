@@ -15,7 +15,7 @@
 import * as voiceService from './nativeVoiceService';
 
 // Words that trigger a buzz action (case-insensitive)
-const BUZZ_TRIGGER_WORDS = ['buzz', 'bus', 'buz', 'buds', 'buzzer', 'pause'];
+const BUZZ_TRIGGER_WORDS = ['buzz', 'bus', 'buz', 'buds', 'buzzer', 'pause', 'stop'];
 
 // Minimum similarity threshold for fuzzy matching (0-1)
 const FUZZY_MATCH_THRESHOLD = 0.7;
