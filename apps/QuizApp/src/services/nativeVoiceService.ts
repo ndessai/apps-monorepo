@@ -49,6 +49,10 @@ let lastResult = '';
 let ttsFilterText = '';
 let ttsFilterEnabled = false;
 
+// Command words that should never be filtered out by TTS echo filtering
+// These are voice commands that need to be detected even if spoken during TTS playback
+const PRESERVED_COMMAND_WORDS = ['buzz', 'bus', 'buz', 'buds', 'buzzer', 'pause', 'stop'];
+
 // Listener registration tracking (registered once for app lifetime)
 let listenersRegistered = false;
 
@@ -88,10 +92,45 @@ function calculateSimilarity(str1: string, str2: string): number {
 }
 
 /**
+ * Check if speech contains a preserved command word (buzz, stop, pause, etc.)
+ * Uses fuzzy matching to catch variations like "bus" for "buzz"
+ */
+function containsCommandWord(speechText: string): boolean {
+  const words = speechText.toLowerCase().split(/\s+/);
+
+  for (const word of words) {
+    // Exact match check
+    if (PRESERVED_COMMAND_WORDS.includes(word)) {
+      console.log(`[NativeVoiceService] Command word detected (exact): "${word}"`);
+      return true;
+    }
+
+    // Fuzzy match check (0.7 threshold for variations like "bus" -> "buzz")
+    for (const command of PRESERVED_COMMAND_WORDS) {
+      if (calculateSimilarity(word, command) >= 0.7) {
+        console.log(`[NativeVoiceService] Command word detected (fuzzy): "${word}" ~ "${command}"`);
+        return true;
+      }
+    }
+  }
+
+  return false;
+}
+
+/**
  * Filter out TTS echo from speech text
  * Returns empty string if >50% of words match TTS text
+ * IMPORTANT: Always preserves speech containing command words (buzz, stop, pause)
  */
 function filterTTSEcho(speechText: string): string {
+  // CRITICAL: Check for command words FIRST - never filter these out
+  // This ensures "buzz" or "stop" commands are always detected even if
+  // the cumulative speech contains TTS echo words
+  if (containsCommandWord(speechText)) {
+    console.log('[NativeVoiceService] Speech contains command word - bypassing TTS filter');
+    return speechText;
+  }
+
   // Get current TTS text from nativeTtsService - this is the primary source
   const currentTTSText = tts.getCurrentText();
   // Use the dynamically fetched TTS text, or fall back to manually set filter text
