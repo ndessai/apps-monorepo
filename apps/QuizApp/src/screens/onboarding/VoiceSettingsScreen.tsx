@@ -196,7 +196,7 @@ export const VoiceSettingsScreen: React.FC<Props> = ({ navigation }) => {
       console.error('Failed to save voice settings:', error);
     }
 
-    navigation.navigate('SampleQuizIntro');
+    navigation.navigate('TimerSettings');
   };
 
   return (
