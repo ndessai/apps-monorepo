@@ -3,6 +3,7 @@
  *
  * Wraps AnswerInput with a countdown timer.
  * Timer can be in 'idle' (shows "--") or 'counting' (shows countdown) state.
+ * Voice recognition state is passed through to AnswerInput from parent.
  */
 
 import React, { useEffect, useState, useRef } from 'react';
@@ -11,9 +12,10 @@ import { Text } from 'react-native-paper';
 import { spacing, radius } from '@monorepo/ui-components';
 import { useTheme } from '../providers/ThemeProvider';
 import { AnswerInput } from './AnswerInput';
+import type { QuestionTypeKey } from '../types/quizFormat';
 
 export type TimerState = 'idle' | 'counting';
-export type QuestionType = 'tossup' | 'bonus';
+export type { QuestionTypeKey };
 
 // Use ReturnType to get the correct timer type for React Native
 type TimerRef = ReturnType<typeof setInterval> | null;
@@ -21,10 +23,18 @@ type TimerRef = ReturnType<typeof setInterval> | null;
 interface AnswerSubmitterProps {
   onSubmit: (answer: string) => void;
   onTimeUp: () => void;
-  questionType: QuestionType;
+  questionType: QuestionTypeKey;
   timerState: TimerState;
   answerTimeMs: number;
-  microphoneEnabledByDefault?: boolean;
+  /** Text from voice recognition (managed by parent) */
+  voiceText?: string;
+  /** Whether voice recognition is currently active */
+  isVoiceListening?: boolean;
+  /** Whether voice recognition is available on this device */
+  isVoiceAvailable?: boolean;
+  /** Callback when microphone button is pressed */
+  onMicrophonePress?: () => void;
+  /** Auto-submit after silence (used with voice input) */
   autoSubmitOnSilence?: boolean;
   autoSubmitSilenceMs?: number;
   testID?: string;
@@ -36,7 +46,10 @@ export const AnswerSubmitter: React.FC<AnswerSubmitterProps> = ({
   questionType: _questionType,
   timerState,
   answerTimeMs,
-  microphoneEnabledByDefault = false,
+  voiceText,
+  isVoiceListening = false,
+  isVoiceAvailable = true,
+  onMicrophonePress,
   autoSubmitOnSilence = false,
   autoSubmitSilenceMs = 1500,
   testID = 'answer-submitter',
@@ -166,9 +179,10 @@ export const AnswerSubmitter: React.FC<AnswerSubmitterProps> = ({
 
       <AnswerInput
         onSubmit={handleSubmit}
-        microphoneEnabledByDefault={microphoneEnabledByDefault}
-        autoSubmitOnSilence={autoSubmitOnSilence}
-        autoSubmitSilenceMs={autoSubmitSilenceMs}
+        voiceText={voiceText}
+        isVoiceListening={isVoiceListening}
+        isVoiceAvailable={isVoiceAvailable}
+        onMicrophonePress={onMicrophonePress}
         autoSubmitOnIdle={autoSubmitOnSilence}
         autoSubmitIdleMs={autoSubmitSilenceMs}
         testID={`${testID}-input`}

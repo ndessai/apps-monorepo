@@ -88,6 +88,17 @@ let currentVoiceType: VoiceType = 'standard';
 let silentReadingTimerId: ReturnType<typeof setInterval> | null = null;
 let isSilentReading = false;
 
+// Pause state for Learn mode
+let isPaused = false;
+let pausedCharIndex = 0;
+let pausedText = '';
+let pausedWpm = 150;
+let pausedProgressCallback: ProgressCallback | null = null;
+let pausedFinishCallback: FinishCallback | null = null;
+let pausedVoiceType: VoiceType = 'standard';
+let pausedWordBoundaries: number[] = [];
+let pausedCurrentWordIndex = 0;
+
 // Track if listeners are registered (they stay registered for app lifetime)
 let listenersRegistered = false;
 
@@ -530,11 +541,19 @@ export function stopReading(): void {
   // Invalidate session immediately
   activeSessionId = null;
 
-  // Reset ALL state
+  // Reset ALL state including paused state
   lastReportedCharIndex = 0;
   currentText = '';
   currentProgressCallback = null;
   currentFinishCallback = null;
+  isPaused = false;
+  pausedCharIndex = 0;
+  pausedText = '';
+  pausedProgressCallback = null;
+  pausedFinishCallback = null;
+  pausedVoiceType = 'standard';
+  pausedWordBoundaries = [];
+  pausedCurrentWordIndex = 0;
 
   // Stop silent reading timer if active
   if (silentReadingTimerId) {
@@ -586,6 +605,150 @@ export function clearLastReadText(): void {
  */
 export function cleanup(): void {
   stopReading();
+}
+
+/**
+ * Pause reading (for Learn mode)
+ * Stores current position and state so reading can be resumed later
+ */
+export function pauseReading(): void {
+  if (!isSpeaking && !isSilentReading) {
+    console.log('NativeTTS: pauseReading called but not reading');
+    return;
+  }
+
+  if (isPaused) {
+    console.log('NativeTTS: Already paused');
+    return;
+  }
+
+  console.log(`NativeTTS: Pausing at character ${lastReportedCharIndex}`);
+
+  // Save current state for resume
+  isPaused = true;
+  pausedCharIndex = lastReportedCharIndex;
+  pausedText = currentText;
+  pausedProgressCallback = currentProgressCallback;
+  pausedFinishCallback = currentFinishCallback;
+  pausedVoiceType = currentVoiceType;
+
+  // Stop silent reading timer if active
+  if (silentReadingTimerId) {
+    clearInterval(silentReadingTimerId);
+    silentReadingTimerId = null;
+  }
+
+  // Stop native TTS if speaking (fire and forget)
+  if (isSpeaking) {
+    isSpeaking = false;
+    NativeTTS.stop().catch(() => {});
+  }
+
+  isSilentReading = false;
+
+  // Clear callbacks to prevent any late events from firing
+  currentProgressCallback = null;
+  currentFinishCallback = null;
+}
+
+/**
+ * Resume reading from paused position (for Learn mode)
+ * Continues TTS from where it was paused
+ */
+export function resumeReading(): void {
+  if (!isPaused) {
+    console.log('NativeTTS: resumeReading called but not paused');
+    return;
+  }
+
+  console.log(`NativeTTS: Resuming from character ${pausedCharIndex}`);
+
+  // Get remaining text from paused position
+  const remainingText = pausedText.slice(pausedCharIndex);
+
+  if (remainingText.trim().length === 0) {
+    // Nothing left to read, call finish callback
+    console.log('NativeTTS: No remaining text, calling finish');
+    isPaused = false;
+    const finishCallback = pausedFinishCallback;
+    clearPausedState();
+    if (finishCallback) {
+      finishCallback();
+    }
+    return;
+  }
+
+  // Restore callbacks
+  const progressCallback = pausedProgressCallback;
+  const finishCallback = pausedFinishCallback;
+  const baseCharIndex = pausedCharIndex;
+  const voiceType = pausedVoiceType;
+
+  // Clear paused state
+  isPaused = false;
+  clearPausedState();
+
+  // Create wrapper callbacks that adjust for the offset
+  const adjustedProgressCallback: ProgressCallback = (charIndex) => {
+    // Add base offset to report correct position in full text
+    const adjustedIndex = baseCharIndex + charIndex;
+    lastReportedCharIndex = adjustedIndex;
+    if (progressCallback) {
+      progressCallback(adjustedIndex);
+    }
+  };
+
+  const adjustedFinishCallback: FinishCallback = () => {
+    if (finishCallback) {
+      finishCallback();
+    }
+  };
+
+  // Start reading the remaining text
+  // Use speakText internal function via startReading
+  currentText = pausedText; // Keep full text for reference
+  lastReadText = pausedText;
+  currentProgressCallback = adjustedProgressCallback;
+  currentFinishCallback = adjustedFinishCallback;
+  currentVoiceType = voiceType;
+  lastReportedCharIndex = baseCharIndex;
+
+  // Create new session
+  currentSessionId++;
+  activeSessionId = currentSessionId;
+  isSpeaking = true;
+
+  // Get voice ID and speak remaining text
+  const voiceId = getVoiceIdForType(voiceType);
+  const speakOptions: Record<string, unknown> = {};
+  if (voiceId) {
+    speakOptions.voiceId = voiceId;
+  }
+
+  NativeTTS.speak(remainingText, speakOptions).catch((error) => {
+    console.error('NativeTTS: Resume speak failed:', error);
+    resetState();
+  });
+}
+
+/**
+ * Check if reading is paused
+ */
+export function getIsPaused(): boolean {
+  return isPaused;
+}
+
+/**
+ * Clear paused state
+ */
+function clearPausedState(): void {
+  pausedCharIndex = 0;
+  pausedText = '';
+  pausedProgressCallback = null;
+  pausedFinishCallback = null;
+  pausedVoiceType = 'standard';
+  pausedWordBoundaries = [];
+  pausedCurrentWordIndex = 0;
 }
 
 /**

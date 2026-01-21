@@ -72,7 +72,7 @@ export const DEFAULT_QUIZ_SETTINGS: QuizSettingsData = {
   microphoneEnabled: true, // Microphone enabled by default
   autoSubmitOnSilence: true, // Auto-submit spoken answers by default
   autoSubmitSilenceMs: 1500, // 1.5 seconds of silence before auto-submit
-  audioActionsEnabled: false, // Hands-free mode disabled by default
+  audioActionsEnabled: true, // Hands-free mode disabled by default
   readQuestions: true, // Read questions aloud by default
   provideAudioFeedback: false, // Audio feedback disabled by default
   audioFeedbackTone: 'Positive', // Positive tone by default

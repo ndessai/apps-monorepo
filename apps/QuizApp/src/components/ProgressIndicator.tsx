@@ -10,11 +10,12 @@ import { Text } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { spacing } from '@monorepo/ui-components';
 import { useTheme } from '../providers/ThemeProvider';
+import type { QuestionTypeKey } from '../types/quizFormat';
 
 interface ProgressIndicatorProps {
   currentQuestion: number;
   totalQuestions: number;
-  questionType: 'tossup' | 'bonus';
+  questionType: QuestionTypeKey;
   bonusPartIndex?: number;
   totalBonusParts?: number;
   testID?: string;
@@ -29,9 +30,9 @@ export const ProgressIndicator: React.FC<ProgressIndicatorProps> = ({
   testID = 'progress-indicator',
 }) => {
   const { colors } = useTheme();
-  const iconName = questionType === 'tossup' ? 'bell-ring' : 'star-three-points';
+  const iconName = questionType === 'Tossup' ? 'bell-ring' : 'star-three-points';
   const label =
-    questionType === 'tossup'
+    questionType === 'Tossup'
       ? `Question ${currentQuestion} of ${totalQuestions}`
       : `Q${currentQuestion} Bonus (Part ${(bonusPartIndex ?? 0) + 1}${totalBonusParts ? `/${totalBonusParts}` : ''})`;
 

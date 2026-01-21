@@ -3,6 +3,7 @@
  *
  * Animated bottom sheet containing AnswerSubmitter.
  * Slides up from bottom with spring animation.
+ * Voice recognition state is passed through from parent (QuizScreen).
  */
 
 import React, { useEffect, useRef } from 'react';
@@ -15,7 +16,7 @@ import {
 } from 'react-native';
 import { spacing, elevation, radius } from '@monorepo/ui-components';
 import { useTheme } from '../providers/ThemeProvider';
-import { AnswerSubmitter, TimerState, QuestionType } from './AnswerSubmitter';
+import { AnswerSubmitter, TimerState, QuestionTypeKey } from './AnswerSubmitter';
 
 const SHEET_HEIGHT = 220;
 
@@ -23,10 +24,18 @@ interface AnswerBottomSheetProps {
   visible: boolean;
   onSubmit: (answer: string) => void;
   onTimeUp: () => void;
-  questionType: QuestionType;
+  questionType: QuestionTypeKey;
   timerState: TimerState;
   answerTimeMs: number;
-  microphoneEnabledByDefault?: boolean;
+  /** Text from voice recognition (managed by parent) */
+  voiceText?: string;
+  /** Whether voice recognition is currently active */
+  isVoiceListening?: boolean;
+  /** Whether voice recognition is available on this device */
+  isVoiceAvailable?: boolean;
+  /** Callback when microphone button is pressed */
+  onMicrophonePress?: () => void;
+  /** Auto-submit after silence (used with voice input) */
   autoSubmitOnSilence?: boolean;
   autoSubmitSilenceMs?: number;
   testID?: string;
@@ -39,7 +48,10 @@ export const AnswerBottomSheet: React.FC<AnswerBottomSheetProps> = ({
   questionType,
   timerState,
   answerTimeMs,
-  microphoneEnabledByDefault = false,
+  voiceText,
+  isVoiceListening = false,
+  isVoiceAvailable = true,
+  onMicrophonePress,
   autoSubmitOnSilence = false,
   autoSubmitSilenceMs = 1500,
   testID = 'answer-bottom-sheet',
@@ -91,7 +103,10 @@ export const AnswerBottomSheet: React.FC<AnswerBottomSheetProps> = ({
             questionType={questionType}
             timerState={timerState}
             answerTimeMs={answerTimeMs}
-            microphoneEnabledByDefault={microphoneEnabledByDefault}
+            voiceText={voiceText}
+            isVoiceListening={isVoiceListening}
+            isVoiceAvailable={isVoiceAvailable}
+            onMicrophonePress={onMicrophonePress}
             autoSubmitOnSilence={autoSubmitOnSilence}
             autoSubmitSilenceMs={autoSubmitSilenceMs}
             testID={`${testID}-submitter`}

@@ -5,8 +5,9 @@
  * Handles toss-up and bonus questions following NAQT rules
  */
 
-import React, { useEffect, useRef, useState } from 'react';
+import React, { useCallback, useEffect, useRef, useState } from 'react';
 import { StyleSheet, View, Alert, TouchableOpacity } from 'react-native';
+import { Button, Text } from 'react-native-paper';
 import type { NativeStackScreenProps } from '@react-navigation/native-stack';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { useTheme } from '../providers/ThemeProvider';
@@ -18,9 +19,9 @@ import type {
   BonusQuestion,
   TossupResult,
   BonusResult,
-  QuizSession,
+  QuizMode,
 } from '../types/quiz';
-import type { QuizSettingsData } from '../types/settings';
+import type { QuestionTypeKey, AudioActionResult } from '../types/quizFormat';
 import {
   BuzzButton,
   TossupReader,
@@ -29,7 +30,8 @@ import {
   ScoreDisplay,
   ProgressIndicator,
 } from '../components';
-import type { TimerState, QuestionType } from '../components';
+import type { TimerState } from '../components';
+import type { QuestionTypeKey as QuestionType } from '../types/quizFormat';
 import { loadQuestions } from '../services/questionService';
 import * as tts from '../services/nativeTtsService';
 import { validateAnswer } from '../services/answerValidator';
@@ -38,7 +40,7 @@ import {
   calculateBonusPoints,
 } from '../services/quizScoring';
 import { useSettings } from '../providers/SettingsProvider';
-import * as audioActionsService from '../services/audioActionsService';
+import { useQuizVoice } from '../hooks/useQuizVoice';
 import * as audioFeedbackService from '../services/audioFeedbackService';
 
 type Props = NativeStackScreenProps<QuizStackParamList, 'Quiz'>;
@@ -52,6 +54,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
   const { colors } = useTheme();
   const { settings } = useSettings();
   const isOnboarding = route.params?.isOnboarding ?? false;
+  const quizMode: QuizMode = route.params?.mode ?? 'pro';
 
   // Quiz data
   const [quizData, setQuizData] = useState<QuizData | null>(null);
@@ -83,7 +86,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
   // Bottom sheet state
   const [bottomSheetVisible, setBottomSheetVisible] = useState(false);
   const [bottomSheetTimerState, setBottomSheetTimerState] = useState<TimerState>('idle');
-  const [bottomSheetQuestionType, setBottomSheetQuestionType] = useState<QuestionType>('tossup');
+  const [bottomSheetQuestionType, setBottomSheetQuestionType] = useState<QuestionType>('Tossup');
 
   // Answer feedback state
   const [feedbackVisible, setFeedbackVisible] = useState(false);
@@ -100,10 +103,17 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
   // Pending action after feedback review completes
   const pendingActionRef = useRef<(() => void) | null>(null);
 
-  // Audio actions state
-  const audioActionsActiveRef = useRef(false);
-  const pendingVoiceAnswerRef = useRef<string | null>(null);
+  // Voice/audio actions state
   const quizStateRef = useRef<QuizState>('idle');
+  const [currentQuestionType, setCurrentQuestionType] = useState<QuestionTypeKey>('Tossup');
+  const [voiceAnswerText, setVoiceAnswerText] = useState<string | undefined>(undefined);
+  const voiceAnswerTextRef = useRef<string | undefined>(undefined);
+  const restartVoiceRef = useRef<(() => Promise<void>) | null>(null);
+  const bottomSheetTimerStateRef = useRef<TimerState>('idle');
+
+  // Pause state for Learn mode
+  const [isPaused, setIsPaused] = useState(false);
+  const pausedTimeRemainingRef = useRef<number>(0);
 
   // Ref to track current question for use in interval callbacks (avoids stale closures)
   const currentQuestionRef = useRef<TossupQuestion | BonusQuestion | null>(null);
@@ -141,11 +151,6 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
     return () => {
       tts.cleanup();
       clearAllTimers();
-      // Stop audio actions on cleanup
-      if (audioActionsActiveRef.current) {
-        audioActionsService.stopAudioActions();
-        audioActionsActiveRef.current = false;
-      }
       // Stop any ongoing audio feedback
       audioFeedbackService.stopFeedback();
     };
@@ -168,69 +173,122 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
     currentQuestionRef.current = currentQuestion;
   }, [currentQuestion]);
 
-  // Manage audio actions based on settings and quiz state
+  // Keep voiceAnswerTextRef in sync with voiceAnswerText
   useEffect(() => {
-    const manageAudioActions = async () => {
-      console.log('[QuizScreen] manageAudioActions - audioActionsEnabled:', settings.audioActionsEnabled, 'quizState:', quizState);
-      // Only activate if audioActionsEnabled setting is on
-      if (!settings.audioActionsEnabled) {
-        console.log('[QuizScreen] audioActionsEnabled is false, skipping audio actions');
-        if (audioActionsActiveRef.current) {
-          await audioActionsService.stopAudioActions();
-          audioActionsActiveRef.current = false;
+    voiceAnswerTextRef.current = voiceAnswerText;
+  }, [voiceAnswerText]);
+
+  // Keep bottomSheetTimerStateRef in sync with bottomSheetTimerState
+  useEffect(() => {
+    bottomSheetTimerStateRef.current = bottomSheetTimerState;
+  }, [bottomSheetTimerState]);
+
+  // Get current question text for TTS echo filtering
+  const getQuestionTextForFiltering = useCallback((): string | undefined => {
+    if (!currentQuestion) return undefined;
+    if ('text' in currentQuestion) {
+      return currentQuestion.text;
+    } else if ('parts' in currentQuestion) {
+      const bonus = currentQuestion as BonusQuestion;
+      return bonus.parts[currentBonusPartIndex]?.text;
+    }
+    return undefined;
+  }, [currentQuestion, currentBonusPartIndex]);
+
+  // Handle voice actions from useQuizVoice hook
+  const handleVoiceAction = useCallback((action: AudioActionResult) => {
+    const currentState = quizStateRef.current;
+    const timerState = bottomSheetTimerStateRef.current;
+
+    switch (action.type) {
+      case 'interrupt':
+        // Buzz/interrupt during tossup reading
+        if (currentState === 'reading' || currentState === 'buzz_window') {
+          handleBuzz();
+          // Restart voice session to clear buffer after processing command
+          restartVoiceRef.current?.();
         }
-        return;
-      }
-
-      // Start audio actions during reading, buzz_window, or bonus (for voice-stop)
-      const shouldBeActive = quizState === 'reading' || quizState === 'buzz_window' || quizState === 'bonus';
-
-      if (shouldBeActive && !audioActionsActiveRef.current) {
-        // Start listening for "Buzz" or "Stop" command
-        const started = await audioActionsService.startAudioActions({
-          onBuzzDetected: () => {
-            console.log('[QuizScreen] Voice command detected!');
-            // Trigger action based on current state - use ref to get current state
-            const currentState = quizStateRef.current;
-            if (currentState === 'reading' || currentState === 'buzz_window') {
-              handleBuzz();
-            } else if (currentState === 'bonus') {
-              // For bonus: stop TTS but reveal full text
-              handleBonusVoiceStop();
-            }
-          },
-          onSpeechResult: (text: string) => {
-            console.log('[QuizScreen] Voice speech result:', text);
-            // Store the speech result for when bottom sheet is shown
-            // This handles the case where user speaks answer right after buzzing
-            const currentState = quizStateRef.current;
-            if (currentState === 'answering' || currentState === 'buzzed') {
-              pendingVoiceAnswerRef.current = text;
-            }
-          },
-          onError: (error: string) => {
-            console.error('[QuizScreen] Audio actions error:', error);
-          },
-        });
-
-        if (started) {
-          audioActionsActiveRef.current = true;
-
-          // Set question text for filtering if we have a current question
-          if (currentQuestion && 'text' in currentQuestion) {
-            audioActionsService.setQuestionTextForFiltering(currentQuestion.text);
+        break;
+      case 'pause':
+      case 'stop':
+        // In Learn mode: pause the entire quiz (TTS + timers)
+        if (quizMode === 'learn' && (currentState === 'reading' || currentState === 'buzz_window' || currentState === 'bonus')) {
+          handlePause();
+          // Restart voice session to clear buffer after processing command
+          restartVoiceRef.current?.();
+        } else if (currentState === 'bonus') {
+          // In Pro mode: stop/pause during bonus reading - stop TTS immediately
+          handleBonusVoiceStop();
+          // Restart voice session to clear buffer after processing command
+          restartVoiceRef.current?.();
+        }
+        break;
+      case 'answer':
+        // Speech result that's not a command - update voice text for AnswerInput
+        // For tossup: when buzzed or answering
+        // For bonus: when timer is counting (after reading finishes)
+        if (action.text) {
+          const isTossupAnswering = currentState === 'answering' || currentState === 'buzzed';
+          const isBonusAnswering = currentState === 'bonus' && timerState === 'counting';
+          if (isTossupAnswering || isBonusAnswering) {
+            setVoiceAnswerText(action.text);
           }
         }
-      } else if (!shouldBeActive && audioActionsActiveRef.current) {
-        // Stop audio actions when not in reading/buzz_window state
-        // Also stop during answering/buzzed so AnswerInput can use voice recognition
-        await audioActionsService.stopAudioActions();
-        audioActionsActiveRef.current = false;
-      }
-    };
+        break;
+      case 'submit':
+        // Submit command - trigger answer submission if we have answer text
+        {
+          const pendingAnswer = voiceAnswerTextRef.current;
+          const isTossupAnswering = currentState === 'answering' || currentState === 'buzzed';
+          const isBonusAnswering = currentState === 'bonus' && timerState === 'counting';
+          if (pendingAnswer && pendingAnswer.trim().length > 0 && (isTossupAnswering || isBonusAnswering)) {
+            handleAnswerSubmit(pendingAnswer.trim());
+            // Restart voice session after submit
+            restartVoiceRef.current?.();
+          }
+        }
+        break;
+      case 'quit':
+        handleQuit();
+        break;
+    }
+  }, []);
 
-    manageAudioActions();
-  }, [settings.audioActionsEnabled, quizState, currentQuestion]);
+  // Determine if voice should be active based on quiz state
+  // Include 'buzzed' and 'answering' states so voice can capture answer text
+  const shouldVoiceBeActive = settings.audioActionsEnabled &&
+    (quizState === 'reading' || quizState === 'buzz_window' || quizState === 'bonus' ||
+     quizState === 'buzzed' || quizState === 'answering');
+
+  // Determine if we're reading (for TTS echo filtering context)
+  const isReading = quizState === 'reading' || quizState === 'bonus';
+
+  // Use the quiz voice hook for voice recognition
+  const quizVoice = useQuizVoice({
+    enabled: shouldVoiceBeActive,
+    questionType: currentQuestionType,
+    quizMode,
+    isReading,
+    questionText: getQuestionTextForFiltering(),
+    onAction: handleVoiceAction,
+    onError: (error) => console.error('[QuizScreen] Voice error:', error),
+  });
+
+  // Store restartListening in ref so handleVoiceAction can access it
+  useEffect(() => {
+    restartVoiceRef.current = quizVoice.restartListening;
+  }, [quizVoice.restartListening]);
+
+  // Update question type when question changes
+  useEffect(() => {
+    if (currentQuestion) {
+      if ('powerMarkPosition' in currentQuestion) {
+        setCurrentQuestionType('Tossup');
+      } else if ('parts' in currentQuestion) {
+        setCurrentQuestionType('Bonus');
+      }
+    }
+  }, [currentQuestion]);
 
   // Clear all timers
   const clearAllTimers = () => {
@@ -262,11 +320,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
     setCurrentCharIndex(0);
     setQuizState('reading');
 
-    // Set question text for filtering in audio actions mode
-    // This prevents the TTS audio from being picked up as user speech
-    if (settings.audioActionsEnabled) {
-      audioActionsService.setQuestionTextForFiltering(nextQuestion.text);
-    }
+    // Note: Question text for TTS echo filtering is now handled by useQuizVoice hook
 
     // Progress and finish callbacks for text reveal
     const onProgress = (charIndex: number) => {
@@ -326,9 +380,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
   };
 
   // Handle voice-stop during bonus question reading
-  // Stops TTS immediately but reveals full text
+  // Stops TTS immediately, reveals full text, and starts answer timer
   const handleBonusVoiceStop = () => {
-    console.log('[QuizScreen] Voice stop during bonus - stopping TTS, revealing full text');
+    console.log('[QuizScreen] Voice stop during bonus - stopping TTS, revealing full text, starting timer');
 
     // Stop TTS audio immediately
     tts.stopReading();
@@ -342,13 +396,104 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
       }
     }
 
-    // Note: Don't change quiz state or show answer sheet yet
-    // The TTS onFinish callback will handle starting the answer timer
+    // Start the answer timer immediately (don't wait for TTS onFinish)
+    // Only if timer is not already counting
+    if (bottomSheetTimerState !== 'counting') {
+      setBottomSheetTimerState('counting');
+
+      const bonusAnswerSeconds = Math.ceil(settings.bonusAnswerTimeMs / 1000);
+      setTimeRemaining(bonusAnswerSeconds);
+      let remaining = bonusAnswerSeconds;
+
+      // Clear any existing timer first
+      if (timerRef.current) {
+        clearInterval(timerRef.current);
+      }
+
+      timerRef.current = setInterval(() => {
+        remaining -= 1;
+        setTimeRemaining(remaining);
+
+        if (remaining <= 0) {
+          if (timerRef.current) {
+            clearInterval(timerRef.current);
+            timerRef.current = null;
+          }
+          if (currentQuestion && 'parts' in currentQuestion) {
+            handleBonusTimeout(currentQuestion as BonusQuestion, currentBonusPartIndex);
+          }
+        }
+      }, 1000);
+    }
   };
+
+  // Handle pause for Learn mode - pauses TTS and timers
+  const handlePause = useCallback(() => {
+    if (quizMode !== 'learn') return;
+    if (isPaused) return;
+
+    console.log('[QuizScreen] Pausing quiz (Learn mode)');
+    setIsPaused(true);
+
+    // Pause TTS
+    tts.pauseReading();
+
+    // Store current time remaining and pause timer
+    if (timerRef.current) {
+      pausedTimeRemainingRef.current = timeRemaining;
+      clearInterval(timerRef.current);
+      timerRef.current = null;
+    }
+  }, [quizMode, isPaused, timeRemaining]);
+
+  // Handle resume for Learn mode - resumes TTS and timers
+  const handleResume = useCallback(() => {
+    if (!isPaused) return;
+
+    console.log('[QuizScreen] Resuming quiz (Learn mode)');
+    setIsPaused(false);
+
+    // Resume TTS
+    tts.resumeReading();
+
+    // Resume timer if there was time remaining
+    const remainingTime = pausedTimeRemainingRef.current;
+    if (remainingTime > 0) {
+      let remaining = remainingTime;
+      setTimeRemaining(remaining);
+
+      timerRef.current = setInterval(() => {
+        remaining -= 1;
+        setTimeRemaining(remaining);
+
+        if (remaining <= 0) {
+          if (timerRef.current) {
+            clearInterval(timerRef.current);
+            timerRef.current = null;
+          }
+          // Handle timeout based on current state
+          const currentState = quizStateRef.current;
+          if (currentState === 'buzz_window') {
+            handleTimeout();
+          } else if (currentState === 'answering') {
+            handleAnswerTimeout();
+          } else if (currentState === 'bonus' && currentQuestion && 'parts' in currentQuestion) {
+            handleBonusTimeout(currentQuestion as BonusQuestion, currentBonusPartIndex);
+          }
+        }
+      }, 1000);
+    }
+
+    pausedTimeRemainingRef.current = 0;
+  }, [isPaused, currentQuestion, currentBonusPartIndex]);
 
   // Handle buzz button press
   const handleBuzz = async () => {
-    if (quizState !== 'reading' && quizState !== 'buzz_window') return;
+    // Use ref to get current state (avoids stale closure when called from voice callback)
+    const currentState = quizStateRef.current;
+    console.log('[QuizScreen] User buzzed in state:', currentState);
+    if (currentState !== 'reading' && currentState !== 'buzz_window') return;
+    console.log('[QuizScreen] handling User buzzed in');
 
     // IMMEDIATELY update the ref to stop any pending TTS callbacks
     // This must happen BEFORE stopReading() to prevent race conditions
@@ -357,12 +502,8 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
     clearAllTimers();
     tts.stopReading();
 
-    // Stop audio actions IMMEDIATELY so AnswerInput can use voice recognition
-    // This must happen BEFORE showing the bottom sheet
-    if (audioActionsActiveRef.current) {
-      await audioActionsService.stopAudioActions();
-      audioActionsActiveRef.current = false;
-    }
+    // Note: Voice recognition is now managed by useQuizVoice hook
+    // It will automatically stop when quizState changes away from reading/buzz_window
 
     // Capture the current char index at buzz time for power mark calculation
     const buzzedAtCharIndex = currentCharIndex;
@@ -379,7 +520,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
     setQuizState('buzzed');
 
     // Show bottom sheet with timer counting for tossup
-    setBottomSheetQuestionType('tossup');
+    // Clear any previous voice answer text
+    setVoiceAnswerText(undefined);
+    setBottomSheetQuestionType('Tossup');
     setBottomSheetVisible(true);
     setBottomSheetTimerState('counting');
 
@@ -415,8 +558,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
     // Stop and reset TTS completely
     tts.stopReading();
 
-    // Hide bottom sheet on submit
+    // Hide bottom sheet on submit and clear voice text
     setBottomSheetVisible(false);
+    setVoiceAnswerText(undefined);
 
     if (!currentQuestion) return;
 
@@ -436,7 +580,9 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
     // Stop and reset TTS completely
     tts.stopReading();
 
+    // Hide bottom sheet and clear voice text
     setBottomSheetVisible(false);
+    setVoiceAnswerText(undefined);
 
     if (!currentQuestion) return;
 
@@ -485,7 +631,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
       points,
       userAnswer: answer || null,
       acceptableAnswers: question.acceptableAnswers,
-      questionType: 'tossup',
+      questionType: 'Tossup',
       correctAnswer: question.answer,
     });
     setFeedbackTimerStarted(false); // Don't start timer yet
@@ -498,7 +644,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         isCorrect,
         isTimeUp: false,
         points,
-        questionType: 'tossup',
+        questionType: 'Tossup',
         tone: settings.audioFeedbackTone,
         userAnswer: answer,
         correctAnswer: question.answer,
@@ -563,22 +709,13 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
     quizStateRef.current = 'bonus';
 
     // Show bottom sheet for bonus with idle timer (shows "--")
-    setBottomSheetQuestionType('bonus');
+    // Clear any previous voice answer text
+    setVoiceAnswerText(undefined);
+    setBottomSheetQuestionType('Bonus');
     setBottomSheetVisible(true);
     setBottomSheetTimerState('idle');
 
-    // Set bonus part text for filtering in audio actions mode
-    if (settings.audioActionsEnabled) {
-      audioActionsService.setQuestionTextForFiltering(part.text);
-    }
-
-    // Progress and finish callbacks for text reveal
-    const onProgress = (charIndex: number) => {
-      // Only update char index if still in bonus state (not answering)
-      if (quizStateRef.current === 'bonus') {
-        setCurrentCharIndex(charIndex);
-      }
-    };
+    // Note: Bonus part text for TTS echo filtering is now handled by useQuizVoice hook
 
     const onFinish = () => {
       // Only proceed if still in bonus state
@@ -586,13 +723,10 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         return;
       }
       console.log('Bonus Reading Finished - starting answer timer');
-      // When reading finishes, start countdown timer and clear filter
+      // When reading finishes, start countdown timer
+      // Note: TTS filter is now managed by useQuizVoice hook
       setBottomSheetTimerState('counting');
-
-      // Clear filter when reading finishes - user can now speak answer
-      if (settings.audioActionsEnabled) {
-        audioActionsService.clearQuestionTextFilter();
-      }
+      restartVoiceRef.current?.();
 
       const bonusAnswerSeconds = Math.ceil(settings.bonusAnswerTimeMs / 1000);
       setTimeRemaining(bonusAnswerSeconds);
@@ -612,12 +746,16 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
       }, 1000);
     };
 
+    //for bonus part show entire question:
+    setCurrentCharIndex(part.text.length);
+
+    restartVoiceRef.current?.();
     // Start reading - with TTS if enabled, or silent text reveal if disabled
     if (settings.readQuestions) {
       tts.startReading(
         part.text,
         settings.readingSpeedWpm,
-        onProgress,
+        (charIndex: number) => {}, // progress not needed for bonus
         onFinish
       );
     } else {
@@ -625,7 +763,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
       tts.startReadingWithoutTTS(
         part.text,
         settings.readingSpeedWpm,
-        onProgress,
+        (charIndex: number) => {}, // progress not needed for bonus
         onFinish
       );
     }
@@ -682,7 +820,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
       points: partPoints,
       userAnswer: answer || null,
       acceptableAnswers: part.acceptableAnswers,
-      questionType: 'bonus',
+      questionType: 'Bonus',
       correctAnswer: part.answer,
     });
     setFeedbackTimerStarted(false); // Don't start timer yet
@@ -695,7 +833,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         isCorrect,
         isTimeUp: false,
         points: partPoints,
-        questionType: 'bonus',
+        questionType: 'Bonus',
         tone: settings.audioFeedbackTone,
         userAnswer: answer,
         correctAnswer: part.answer,
@@ -746,7 +884,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         points: 0,
         userAnswer: null,
         acceptableAnswers: tossupQuestion.acceptableAnswers,
-        questionType: 'tossup',
+        questionType: 'Tossup',
         correctAnswer: tossupQuestion.answer,
       });
       setFeedbackTimerStarted(false); // Don't start timer yet
@@ -759,7 +897,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
           isCorrect: false,
           isTimeUp: true,
           points: 0,
-          questionType: 'tossup',
+          questionType: 'Tossup',
           tone: settings.audioFeedbackTone,
           userAnswer: null,
           correctAnswer: tossupQuestion.answer,
@@ -834,7 +972,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
       points: 0,
       userAnswer: null,
       acceptableAnswers: part.acceptableAnswers,
-      questionType: 'bonus',
+      questionType: 'Bonus',
       correctAnswer: part.answer,
     });
     setFeedbackTimerStarted(false); // Don't start timer yet
@@ -847,7 +985,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         isCorrect: false,
         isTimeUp: true,
         points: 0,
-        questionType: 'bonus',
+        questionType: 'Bonus',
         tone: settings.audioFeedbackTone,
         userAnswer: null,
         correctAnswer: part.answer,
@@ -896,11 +1034,8 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
             tts.stopReading();
             setBottomSheetVisible(false);
 
-            // Stop audio actions
-            if (audioActionsActiveRef.current) {
-              audioActionsService.stopAudioActions();
-              audioActionsActiveRef.current = false;
-            }
+            // Note: Voice recognition is now managed by useQuizVoice hook
+            // It will automatically stop when component unmounts
 
             // Stop any ongoing audio feedback
             audioFeedbackService.stopFeedback();
@@ -974,11 +1109,11 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
   };
 
   // Get question type
-  const getQuestionType = (): 'tossup' | 'bonus' => {
+  const getQuestionType = (): 'Tossup' | 'Bonus' => {
     if (currentQuestion && 'powerMarkPosition' in currentQuestion) {
-      return 'tossup';
+      return 'Tossup';
     }
-    return 'bonus';
+    return 'Bonus';
   };
 
   if (!quizData || !currentQuestion) {
@@ -989,17 +1124,24 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
     <View style={[styles.container, { backgroundColor: colors.background.default }]}>
       {/* Header */}
       <View style={[styles.header, { backgroundColor: colors.surface.default, borderBottomColor: colors.divider }]}>
-        <ProgressIndicator
-          currentQuestion={currentQuestionIndex + 1}
-          totalQuestions={getTotalQuestions()}
-          questionType={getQuestionType()}
-          bonusPartIndex={currentBonusPartIndex}
-          totalBonusParts={
-            currentQuestion && 'parts' in currentQuestion
-              ? (currentQuestion as BonusQuestion).parts.length
-              : undefined
-          }
-        />
+        <View style={styles.headerLeft}>
+          <ProgressIndicator
+            currentQuestion={currentQuestionIndex + 1}
+            totalQuestions={getTotalQuestions()}
+            questionType={getQuestionType()}
+            bonusPartIndex={currentBonusPartIndex}
+            totalBonusParts={
+              currentQuestion && 'parts' in currentQuestion
+                ? (currentQuestion as BonusQuestion).parts.length
+                : undefined
+            }
+          />
+          {quizMode === 'learn' && (
+            <View style={[styles.modeBadge, { backgroundColor: colors.primary.light }]}>
+              <Text style={[styles.modeBadgeText, { color: colors.primary.onPrimary }]}>LEARN</Text>
+            </View>
+          )}
+        </View>
         <View style={styles.headerRight}>
           <ScoreDisplay currentScore={currentScore} maxScore={calculateMaxScore()} />
           {!isOnboarding && (
@@ -1023,7 +1165,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
           questionType={getQuestionType()}
           bonusPartIndex={currentBonusPartIndex}
           showMicrophoneIndicator={settings.audioActionsEnabled}
-          isVoiceListening={audioActionsService.isAudioActionsActive()}
+          isVoiceListening={quizVoice.isListening}
         />
       </View>
 
@@ -1050,11 +1192,13 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
         questionType={bottomSheetQuestionType}
         timerState={bottomSheetTimerState}
         answerTimeMs={
-          bottomSheetQuestionType === 'tossup'
+          bottomSheetQuestionType === 'Tossup'
             ? settings.tossupAnswerTimeMs
             : settings.bonusAnswerTimeMs
         }
-        microphoneEnabledByDefault={settings.microphoneEnabled}
+        voiceText={voiceAnswerText}
+        isVoiceListening={quizVoice.isListening}
+        isVoiceAvailable={settings.audioActionsEnabled}
         autoSubmitOnSilence={settings.autoSubmitOnSilence}
         autoSubmitSilenceMs={settings.autoSubmitSilenceMs}
         testID="quiz-answer-bottom-sheet"
@@ -1071,7 +1215,7 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
           acceptableAnswers={feedbackData.acceptableAnswers}
           questionType={feedbackData.questionType}
           reviewTimeMs={
-            feedbackData.questionType === 'tossup'
+            feedbackData.questionType === 'Tossup'
               ? settings.tossupReviewTimeMs
               : settings.bonusReviewTimeMs
           }
@@ -1080,6 +1224,29 @@ export const QuizScreen: React.FC<Props> = ({ navigation, route }) => {
           startTimer={feedbackTimerStarted}
           testID="quiz-answer-feedback"
         />
+      )}
+
+      {/* Pause Overlay for Learn Mode */}
+      {isPaused && (
+        <View style={[styles.pauseOverlay, { backgroundColor: 'rgba(0, 0, 0, 0.7)' }]}>
+          <View style={[styles.pauseContent, { backgroundColor: colors.surface.default }]}>
+            <Icon name="pause-circle" size={64} color={colors.primary.main} />
+            <Text variant="headlineMedium" style={[styles.pauseTitle, { color: colors.text.primary }]}>
+              PAUSED
+            </Text>
+            <Text variant="bodyMedium" style={[styles.pauseSubtitle, { color: colors.text.secondary }]}>
+              Take your time to review the question
+            </Text>
+            <Button
+              mode="contained"
+              onPress={handleResume}
+              style={styles.resumeButton}
+              testID="resume-button"
+            >
+              Resume
+            </Button>
+          </View>
+        </View>
       )}
     </View>
   );
@@ -1097,10 +1264,24 @@ const styles = StyleSheet.create({
     paddingVertical: 12,
     borderBottomWidth: 1,
   },
+  headerLeft: {
+    flexDirection: 'row',
+    alignItems: 'center',
+    gap: 8,
+  },
   headerRight: {
     flexDirection: 'row',
     alignItems: 'center',
     gap: 12,
+  },
+  modeBadge: {
+    paddingHorizontal: 8,
+    paddingVertical: 4,
+    borderRadius: 4,
+  },
+  modeBadgeText: {
+    fontSize: 10,
+    fontWeight: '700',
   },
   quitButton: {
     padding: 8,
@@ -1115,5 +1296,32 @@ const styles = StyleSheet.create({
     left: 0,
     right: 0,
     alignItems: 'center',
+  },
+  pauseOverlay: {
+    position: 'absolute',
+    top: 0,
+    left: 0,
+    right: 0,
+    bottom: 0,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
+  pauseContent: {
+    padding: 32,
+    borderRadius: 16,
+    alignItems: 'center',
+    minWidth: 280,
+  },
+  pauseTitle: {
+    marginTop: 16,
+    fontWeight: '700',
+  },
+  pauseSubtitle: {
+    marginTop: 8,
+    textAlign: 'center',
+  },
+  resumeButton: {
+    marginTop: 24,
+    minWidth: 140,
   },
 });

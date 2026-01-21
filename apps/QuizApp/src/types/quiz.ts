@@ -4,6 +4,11 @@
  * Types for NAQT-format quiz bowl questions, answers, and scoring
  */
 
+import type { QuizFormat } from './quizFormat';
+
+// Quiz mode - determines behavior like timer enforcement and pause capability
+export type QuizMode = 'pro' | 'learn';
+
 // Question categories
 export type QuestionCategory =
   | 'Science'
@@ -81,6 +86,7 @@ export interface BonusQuestion {
 
 // Complete quiz data
 export interface QuizData {
+  format?: QuizFormat;  // Quiz format type (defaults to TossupBonus)
   tossups: TossupQuestion[];
   bonuses: BonusQuestion[];
 }

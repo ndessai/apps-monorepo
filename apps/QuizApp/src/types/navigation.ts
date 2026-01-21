@@ -1,5 +1,5 @@
 import { NavigatorScreenParams } from '@react-navigation/native';
-import { TossupResult, BonusResult } from './quiz';
+import { TossupResult, BonusResult, QuizMode } from './quiz';
 
 // Serializable version of QuizSession for navigation
 export interface SerializableQuizSession {
@@ -22,7 +22,10 @@ export type SettingsTabParamList = {
 // Quiz Stack navigation
 export type QuizStackParamList = {
   QuizLaunch: undefined;
-  Quiz: { isOnboarding?: boolean } | undefined;
+  Quiz: {
+    isOnboarding?: boolean;
+    mode?: QuizMode;  // Quiz mode: 'pro' (default) or 'learn'
+  } | undefined;
   QuizResults: {
     session: SerializableQuizSession;
     isOnboarding?: boolean;

@@ -425,7 +425,7 @@ export async function startListening(
     registerListeners();
 
     // Check availability
-    const isAvailable = await NativeVoice.isAvailable();
+    const isAvailable = await checkAvailability();
     if (!isAvailable) {
       console.warn('[NativeVoiceService] Voice recognition not available');
       // Try to initialize/request permission using cross-platform function

@@ -1,25 +1,33 @@
 /**
  * AnswerInput Component
  *
- * Text input with microphone button and Submit CTA for entering answers.
- * Supports speech-to-text for voice input with auto-submit on silence.
- * Uses nativeVoiceService directly for voice recognition.
+ * Text input with microphone indicator and Submit CTA for entering answers.
+ * Voice recognition is handled externally via props - this component
+ * only displays the input field and handles text entry.
+ *
+ * Voice text is passed in via the `voiceText` prop from the parent component
+ * which manages voice recognition through useQuizVoice hook.
  */
 
 import React, { useEffect, useRef, useCallback, useState } from 'react';
-import { StyleSheet, View, TextInput as RNTextInput, TouchableOpacity, Alert } from 'react-native';
+import { StyleSheet, View, TextInput as RNTextInput, TouchableOpacity } from 'react-native';
 import { TextInput, Button } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { spacing } from '@monorepo/ui-components';
 import { useTheme } from '../providers/ThemeProvider';
-import * as voiceService from '../services/nativeVoiceService';
 
 interface AnswerInputProps {
   onSubmit: (answer: string) => void;
   placeholder?: string;
-  microphoneEnabledByDefault?: boolean;
-  autoSubmitOnSilence?: boolean;
-  autoSubmitSilenceMs?: number;
+  /** Text from voice recognition (managed by parent) */
+  voiceText?: string;
+  /** Whether voice recognition is currently active (managed by parent) */
+  isVoiceListening?: boolean;
+  /** Whether voice recognition is available on this device */
+  isVoiceAvailable?: boolean;
+  /** Callback when microphone button is pressed */
+  onMicrophonePress?: () => void;
+  /** Auto-submit after typing inactivity */
   autoSubmitOnIdle?: boolean;
   autoSubmitIdleMs?: number;
   testID?: string;
@@ -28,47 +36,23 @@ interface AnswerInputProps {
 export const AnswerInput: React.FC<AnswerInputProps> = ({
   onSubmit,
   placeholder = 'Enter your answer...',
-  microphoneEnabledByDefault = false,
-  autoSubmitOnSilence = false,
-  autoSubmitSilenceMs = 1500,
+  voiceText,
+  isVoiceListening = false,
+  isVoiceAvailable = true,
+  onMicrophonePress,
   autoSubmitOnIdle = false,
   autoSubmitIdleMs = 1500,
   testID = 'answer-input',
 }) => {
   const { colors } = useTheme();
 
-  // Voice state - managed locally instead of via VoiceProvider
-  const [isListening, setIsListening] = useState(false);
-  const [isAvailable, setIsAvailable] = useState(false);
-
-  console.log('[AnswerInput] Render - isAvailable:', isAvailable, 'isListening:', isListening);
-
-  const [answer, setAnswer] = React.useState('');
+  const [answer, setAnswer] = useState('');
   const inputRef = useRef<RNTextInput>(null);
-  const hasAutoStartedRef = useRef(false);
-  const silenceTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const idleTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
-  const lastSpeechResultRef = useRef<string>('');
-  const hasSpeechResultRef = useRef(false);
   const hasAutoSubmittedRef = useRef(false);
-  const speechEndedRef = useRef(false);
   const onSubmitRef = useRef(onSubmit);
   const answerRef = useRef(answer);
   const isMountedRef = useRef(true);
-
-  // Log props on mount for debugging
-  useEffect(() => {
-    console.log('[AnswerInput] Mounted with props:', {
-      microphoneEnabledByDefault,
-      autoSubmitOnSilence,
-      autoSubmitSilenceMs,
-      autoSubmitOnIdle,
-      autoSubmitIdleMs,
-    });
-    return () => {
-      console.log('[AnswerInput] Unmounting');
-    };
-  }, []);
 
   // Keep refs updated to avoid stale closures
   useEffect(() => {
@@ -79,39 +63,27 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     answerRef.current = answer;
   }, [answer]);
 
-  // Initialize voice service on mount
+  // Track mounted state
   useEffect(() => {
     isMountedRef.current = true;
-
-    const initVoice = async () => {
-      const available = await voiceService.checkAvailability();
-      if (available) {
-        const initialized = await voiceService.initialize();
-        if (isMountedRef.current) {
-          setIsAvailable(initialized);
-        }
-      } else {
-        const granted = await voiceService.requestPermission();
-        if (isMountedRef.current) {
-          setIsAvailable(granted);
-        }
-      }
-    };
-
-    initVoice();
-
     return () => {
       isMountedRef.current = false;
     };
   }, []);
 
-  // Clear silence timer
-  const clearSilenceTimer = useCallback(() => {
-    if (silenceTimerRef.current) {
-      clearTimeout(silenceTimerRef.current);
-      silenceTimerRef.current = null;
+  // Update answer when voiceText prop changes
+  useEffect(() => {
+    if (voiceText !== undefined && voiceText !== answer) {
+      console.log('[AnswerInput] Voice text received:', voiceText);
+      setAnswer(voiceText);
+      answerRef.current = voiceText;
+
+      // Start idle timer for auto-submit if enabled
+      if (autoSubmitOnIdle && voiceText.trim().length > 0) {
+        startIdleTimer(voiceText);
+      }
     }
-  }, []);
+  }, [voiceText]);
 
   // Clear idle timer
   const clearIdleTimer = useCallback(() => {
@@ -144,55 +116,6 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     }, autoSubmitIdleMs);
   }, [autoSubmitOnIdle, autoSubmitIdleMs, clearIdleTimer]);
 
-  // Start silence timer for auto-submit after speech ends
-  const startSilenceTimer = useCallback(() => {
-    clearSilenceTimer();
-
-    if (!autoSubmitOnSilence || !hasSpeechResultRef.current || hasAutoSubmittedRef.current) {
-      console.log('[AnswerInput] Skipping silence timer:', {
-        autoSubmitOnSilence,
-        hasSpeechResult: hasSpeechResultRef.current,
-        hasAutoSubmitted: hasAutoSubmittedRef.current,
-      });
-      return;
-    }
-
-    console.log('[AnswerInput] Starting silence timer for:', lastSpeechResultRef.current);
-    silenceTimerRef.current = setTimeout(() => {
-      if (lastSpeechResultRef.current.trim().length > 0 && !hasAutoSubmittedRef.current) {
-        hasAutoSubmittedRef.current = true;
-        console.log('[AnswerInput] Auto-submitting after silence:', lastSpeechResultRef.current);
-        onSubmitRef.current(lastSpeechResultRef.current.trim());
-      }
-    }, autoSubmitSilenceMs);
-  }, [autoSubmitOnSilence, autoSubmitSilenceMs, clearSilenceTimer]);
-
-  // Handle speech result from voice service
-  const handleSpeechResult = useCallback((result: string) => {
-    console.log('[AnswerInput] Speech result received:', result);
-    setAnswer(result);
-    answerRef.current = result;
-    lastSpeechResultRef.current = result;
-    hasSpeechResultRef.current = true;
-    clearSilenceTimer();
-
-    if (speechEndedRef.current && autoSubmitOnSilence && result.trim().length > 0) {
-      console.log('[AnswerInput] Speech already ended - starting silence timer immediately');
-      startSilenceTimer();
-    }
-  }, [clearSilenceTimer, autoSubmitOnSilence, startSilenceTimer]);
-
-  // Handle speech end - start silence timer
-  const handleSpeechEnd = useCallback(() => {
-    console.log('[AnswerInput] Speech ended');
-    speechEndedRef.current = true;
-
-    if (hasSpeechResultRef.current && autoSubmitOnSilence && lastSpeechResultRef.current.trim().length > 0) {
-      console.log('[AnswerInput] Starting silence timer for auto-submit');
-      startSilenceTimer();
-    }
-  }, [autoSubmitOnSilence, startSilenceTimer]);
-
   // Auto-focus input when component mounts
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -201,113 +124,17 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     return () => clearTimeout(timer);
   }, []);
 
-  // Auto-start microphone if enabled by default
-  useEffect(() => {
-    if (microphoneEnabledByDefault && isAvailable && !isListening && !hasAutoStartedRef.current) {
-      console.log('[AnswerInput] Auto-starting microphone (isListening:', isListening, ')');
-      const timer = setTimeout(() => {
-        if (!hasAutoStartedRef.current && isMountedRef.current) {
-          hasAutoStartedRef.current = true;
-          startListeningHandler();
-        }
-      }, 400);
-      return () => clearTimeout(timer);
-    }
-  }, [microphoneEnabledByDefault, isAvailable, isListening]);
-
   // Cleanup on unmount
   useEffect(() => {
     return () => {
-      clearSilenceTimer();
       clearIdleTimer();
-      voiceService.stopListening();
     };
-  }, [clearSilenceTimer, clearIdleTimer]);
-
-  const startListeningHandler = async () => {
-    if (!isAvailable) {
-      Alert.alert('Not Available', 'Speech recognition is not available on this device.');
-      return;
-    }
-
-    hasSpeechResultRef.current = false;
-    hasAutoSubmittedRef.current = false;
-    speechEndedRef.current = false;
-    lastSpeechResultRef.current = '';
-    clearSilenceTimer();
-
-    console.log('[AnswerInput] Starting listening...');
-    const success = await voiceService.startListening(
-      {
-        continuous: false,
-        filterTTSEcho: false, // Disabled - TTS is stopped before answer tray opens, no echo to filter
-        language: 'en-US',
-      },
-      {
-        onStart: () => {
-          console.log('[AnswerInput] voiceService onStart');
-          if (isMountedRef.current) setIsListening(true);
-        },
-        onEnd: () => {
-          console.log('[AnswerInput] voiceService onEnd');
-          if (isMountedRef.current) setIsListening(false);
-          handleSpeechEnd();
-        },
-        onResult: handleSpeechResult,
-        onPartialResult: (text) => {
-          console.log('[AnswerInput] voiceService onPartialResult:', text);
-          if (isMountedRef.current) {
-            setAnswer(text);
-            answerRef.current = text;
-            // Track partial results too for auto-submit
-            // In case final result isn't received before end event
-            if (text.trim().length > 0) {
-              lastSpeechResultRef.current = text;
-              hasSpeechResultRef.current = true;
-            }
-          }
-        },
-        onError: (error) => {
-          console.log('[AnswerInput] voiceService onError:', error);
-          if (isMountedRef.current) {
-            setIsListening(false);
-            // Treat error as speech end for auto-submit purposes
-            // This handles cases like timeout or no speech detected
-            handleSpeechEnd();
-          }
-        },
-      }
-    );
-
-    if (success && isMountedRef.current) {
-      setIsListening(true);
-    }
-  };
-
-  const stopListeningHandler = async () => {
-    await voiceService.stopListening();
-    if (isMountedRef.current) {
-      setIsListening(false);
-    }
-  };
-
-  const toggleListening = () => {
-    if (isListening) {
-      stopListeningHandler();
-    } else {
-      startListeningHandler();
-    }
-  };
+  }, [clearIdleTimer]);
 
   const handleSubmit = () => {
     if (answer.trim().length > 0) {
-      clearSilenceTimer();
       clearIdleTimer();
       hasAutoSubmittedRef.current = true;
-
-      if (isListening) {
-        stopListeningHandler();
-      }
       onSubmit(answer.trim());
       setAnswer('');
     }
@@ -322,6 +149,10 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
     } else {
       clearIdleTimer();
     }
+  };
+
+  const handleMicrophonePress = () => {
+    onMicrophonePress?.();
   };
 
   const isSubmitDisabled = answer.trim().length === 0;
@@ -345,17 +176,17 @@ export const AnswerInput: React.FC<AnswerInputProps> = ({
             <TextInput.Icon
               icon={() => (
                 <TouchableOpacity
-                  onPress={toggleListening}
+                  onPress={handleMicrophonePress}
                   testID={`${testID}-mic-button`}
-                  disabled={!isAvailable}
+                  disabled={!isVoiceAvailable || !onMicrophonePress}
                 >
                   <Icon
-                    name={isListening ? 'microphone' : 'microphone-outline'}
+                    name={isVoiceListening ? 'microphone' : 'microphone-outline'}
                     size={24}
                     color={
-                      !isAvailable
+                      !isVoiceAvailable
                         ? colors.text.disabled
-                        : isListening
+                        : isVoiceListening
                         ? colors.error.main
                         : colors.primary.main
                     }

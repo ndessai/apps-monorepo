@@ -1,35 +1,36 @@
 /**
  * Audio Actions Service
  *
- * Handles hands-free voice commands during quiz:
- * - Detects "Buzz" command during tossup questions
- * - Uses nativeVoiceService for speech recognition
- * - Coordinates TTS filtering through nativeVoiceService
+ * Pure classifier for voice commands during quiz.
+ * Does NOT manage voice service - that is now owned by useQuizVoice hook.
  *
- * Key design decisions:
- * - Delegates voice handling to nativeVoiceService
- * - Keeps buzz detection logic (fuzzy matching) local
- * - Uses session tracking to prevent stale events
+ * Key features:
+ * - classifyAction: Pure function that classifies speech into actions
+ * - Question-type aware command detection
+ * - Fuzzy matching for command word detection
+ *
+ * ARCHITECTURE NOTE:
+ * This service was refactored from a stateful service to pure functions.
+ * Voice service lifecycle is now managed by useQuizVoice hook in QuizScreen.
  */
 
-import * as voiceService from './nativeVoiceService';
+import type {
+  QuestionTypeKey,
+  AudioActionResult,
+  AudioActionContext,
+  AudioCommand,
+} from '../types/quizFormat';
+import { isCommandSupported, getCommandsForMode } from '../types/quizFormat';
 
-// Words that trigger a buzz action (case-insensitive)
-const BUZZ_TRIGGER_WORDS = ['buzz', 'bus', 'buz', 'buds', 'buzzer', 'pause', 'stop'];
+// Command trigger words for different actions
+const BUZZ_TRIGGER_WORDS = ['buzz', 'bus', 'buz', 'buds', 'buzzer'];
+const PAUSE_TRIGGER_WORDS = ['pause', 'paws', 'pos'];
+const STOP_TRIGGER_WORDS = ['stop', 'top', 'stap'];
+const QUIT_TRIGGER_WORDS = ['quit', 'exit', 'leave'];
+const SUBMIT_TRIGGER_WORDS = ['submit', 'done', 'finish', 'send'];
 
 // Minimum similarity threshold for fuzzy matching (0-1)
 const FUZZY_MATCH_THRESHOLD = 0.7;
-
-export type AudioActionCallback = {
-  onBuzzDetected: () => void;
-  onSpeechResult: (text: string) => void;
-  onError?: (error: string) => void;
-};
-
-// Session tracking
-let sessionId = 0;
-let activeSessionId: number | null = null;
-let currentCallback: AudioActionCallback | null = null;
 
 /**
  * Calculate similarity between two strings using Levenshtein distance
@@ -67,173 +68,139 @@ function calculateSimilarity(str1: string, str2: string): number {
 }
 
 /**
- * Check if text contains a buzz trigger word
+ * Check if text matches any trigger words (exact or fuzzy)
  */
-function containsBuzzTrigger(text: string): boolean {
+function matchesTriggerWords(text: string, triggerWords: string[]): { matches: boolean; confidence: number } {
   const words = text.toLowerCase().split(/\s+/);
+  let bestConfidence = 0;
 
   for (const word of words) {
     // Exact match check
-    if (BUZZ_TRIGGER_WORDS.includes(word)) {
-      return true;
+    if (triggerWords.includes(word)) {
+      return { matches: true, confidence: 1.0 };
     }
 
-    // Fuzzy match check for each trigger word
-    for (const trigger of BUZZ_TRIGGER_WORDS) {
-      if (calculateSimilarity(word, trigger) >= FUZZY_MATCH_THRESHOLD) {
-        return true;
+    // Fuzzy match check
+    for (const trigger of triggerWords) {
+      const similarity = calculateSimilarity(word, trigger);
+      if (similarity >= FUZZY_MATCH_THRESHOLD) {
+        bestConfidence = Math.max(bestConfidence, similarity);
       }
     }
   }
 
-  return false;
+  return { matches: bestConfidence >= FUZZY_MATCH_THRESHOLD, confidence: bestConfidence };
 }
 
 /**
- * Handle speech results from voiceService
+ * Check if text contains any command word (buzz, pause, stop, quit, submit)
+ * Used by TTS echo filtering to preserve command words
  */
-function handleSpeechResult(text: string): void {
-  if (activeSessionId === null || !currentCallback) {
-    return;
+export function containsCommandWord(text: string): boolean {
+  const allTriggers = [...BUZZ_TRIGGER_WORDS, ...PAUSE_TRIGGER_WORDS, ...STOP_TRIGGER_WORDS, ...QUIT_TRIGGER_WORDS, ...SUBMIT_TRIGGER_WORDS];
+  const { matches } = matchesTriggerWords(text, allTriggers);
+  return matches;
+}
+
+/**
+ * Helper to check if a command is supported based on context
+ * Uses mode-aware checking if quizMode is provided, otherwise falls back to standard check
+ */
+function isCommandSupportedInContext(
+  questionType: QuestionTypeKey,
+  command: AudioCommand,
+  quizMode?: 'pro' | 'learn'
+): boolean {
+  if (quizMode) {
+    const supportedCommands = getCommandsForMode(questionType, quizMode);
+    return supportedCommands.includes(command);
+  }
+  return isCommandSupported(questionType, command);
+}
+
+/**
+ * Pure function: Classify speech into an action based on context
+ *
+ * @param speech - The speech text to classify
+ * @param context - The current quiz context (question type, reading state, etc.)
+ * @returns AudioActionResult with the classified action type
+ */
+export function classifyAction(speech: string, context: AudioActionContext): AudioActionResult {
+  const { questionType, quizMode, isReading, allowCommands } = context;
+
+  if (!allowCommands || speech.trim().length === 0) {
+    return { type: 'none', rawSpeech: speech };
   }
 
-  console.log('[AudioActions] Speech result:', text);
-
-  // Check for buzz command first
-  if (containsBuzzTrigger(text)) {
-    console.log('[AudioActions] Buzz detected!');
-    currentCallback.onBuzzDetected();
-    return;
+  // Check for buzz/interrupt command
+  const buzzMatch = matchesTriggerWords(speech, BUZZ_TRIGGER_WORDS);
+  if (buzzMatch.matches && isCommandSupportedInContext(questionType, 'Buzz', quizMode)) {
+    return {
+      type: 'interrupt',
+      confidence: buzzMatch.confidence,
+      rawSpeech: speech,
+    };
   }
 
-  // Pass through filtered speech result
-  if (text.trim().length > 0) {
-    currentCallback.onSpeechResult(text);
-  }
-}
-
-/**
- * Handle speech errors from voiceService
- */
-function handleSpeechError(error: string): void {
-  if (activeSessionId === null) {
-    return;
+  // Check for pause command
+  const pauseMatch = matchesTriggerWords(speech, PAUSE_TRIGGER_WORDS);
+  if (pauseMatch.matches && isCommandSupportedInContext(questionType, 'Pause', quizMode)) {
+    return {
+      type: 'pause',
+      confidence: pauseMatch.confidence,
+      rawSpeech: speech,
+    };
   }
 
-  console.error('[AudioActions] Speech error:', error);
-  currentCallback?.onError?.(error);
-}
-
-/**
- * Start continuous listening for voice commands
- */
-export async function startAudioActions(
-  callback: AudioActionCallback
-): Promise<boolean> {
-  try {
-    // If already listening, just update the callback and return
-    if (activeSessionId !== null && voiceService.isListening()) {
-      console.log('[AudioActions] Already listening, updating callback');
-      currentCallback = callback;
-      return true;
-    }
-
-    // Create new session
-    sessionId++;
-    activeSessionId = sessionId;
-    currentCallback = callback;
-
-    console.log(`[AudioActions] Starting session ${sessionId}`);
-
-    // Start listening via voiceService with TTS filtering enabled
-    // preserveCommandWords ensures "buzz"/"stop" are detected even with TTS echo
-    const success = await voiceService.startListening(
-      {
-        continuous: true,
-        filterTTSEcho: true,
-        preserveCommandWords: true,
-        language: 'en-US',
-      },
-      {
-        onResult: handleSpeechResult,
-        onError: handleSpeechError,
-        onEnd: () => {
-          console.log('[AudioActions] Voice session ended');
-        },
-      }
-    );
-
-    if (!success) {
-      console.warn('[AudioActions] Failed to start voiceService');
-      activeSessionId = null;
-      currentCallback = null;
-      return false;
-    }
-
-    console.log('[AudioActions] Started listening');
-    return true;
-  } catch (error) {
-    console.error('[AudioActions] Failed to start:', error);
-    activeSessionId = null;
-    currentCallback = null;
-    return false;
+  // Check for stop command
+  const stopMatch = matchesTriggerWords(speech, STOP_TRIGGER_WORDS);
+  if (stopMatch.matches && isCommandSupportedInContext(questionType, 'Stop', quizMode)) {
+    return {
+      type: 'stop',
+      confidence: stopMatch.confidence,
+      rawSpeech: speech,
+    };
   }
+
+  // Check for quit command (supported for all question types)
+  const quitMatch = matchesTriggerWords(speech, QUIT_TRIGGER_WORDS);
+  if (quitMatch.matches) {
+    return {
+      type: 'quit',
+      confidence: quitMatch.confidence,
+      rawSpeech: speech,
+    };
+  }
+
+  // Check for submit command
+  const submitMatch = matchesTriggerWords(speech, SUBMIT_TRIGGER_WORDS);
+  if (submitMatch.matches && isCommandSupportedInContext(questionType, 'Submit', quizMode)) {
+    return {
+      type: 'submit',
+      confidence: submitMatch.confidence,
+      rawSpeech: speech,
+    };
+  }
+
+  // Not a command - treat as answer text
+  return {
+    type: 'answer',
+    text: speech,
+    rawSpeech: speech,
+  };
 }
 
 /**
- * Stop listening for voice commands
+ * Create an AudioActionContext from quiz state
  */
-export async function stopAudioActions(): Promise<void> {
-  const wasSession = activeSessionId;
-
-  // Invalidate session first
-  activeSessionId = null;
-  currentCallback = null;
-
-  console.log(`[AudioActions] Stopping session ${wasSession}`);
-
-  // Stop voiceService
-  await voiceService.stopListening();
-
-  console.log('[AudioActions] Stopped');
-}
-
-/**
- * Set the current question text for filtering
- * This tells voiceService to filter out TTS echo
- */
-export function setQuestionTextForFiltering(questionText: string): void {
-  voiceService.setTTSFilterText(questionText);
-}
-
-/**
- * Clear the question text filter
- */
-export function clearQuestionTextFilter(): void {
-  voiceService.clearTTSFilter();
-}
-
-/**
- * Check if audio actions are active
- */
-export function isAudioActionsActive(): boolean {
-  return activeSessionId !== null && voiceService.isListening();
-}
-
-/**
- * Pause listening (enable filtering)
- * @deprecated Use setQuestionTextForFiltering instead
- */
-export function pauseListening(): void {
-  // TTS filtering is already handled by voiceService
-  // This is kept for API compatibility
-}
-
-/**
- * Resume listening (disable filtering)
- * @deprecated Use clearQuestionTextFilter instead
- */
-export function resumeListening(): void {
-  // TTS filtering is already handled by voiceService
-  // This is kept for API compatibility
+export function createActionContext(
+  questionType: QuestionTypeKey,
+  isReading: boolean,
+  allowCommands: boolean
+): AudioActionContext {
+  return {
+    questionType,
+    isReading,
+    allowCommands,
+  };
 }

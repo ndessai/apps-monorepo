@@ -10,12 +10,13 @@ import { Card, Text } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { spacing, elevation, radius } from '@monorepo/ui-components';
 import { useTheme } from '../providers/ThemeProvider';
+import type { QuestionTypeKey } from '../types/quizFormat';
 
 interface TossupReaderProps {
   text: string;
   currentCharIndex: number;
   powerMarkPosition?: number;
-  questionType?: 'tossup' | 'bonus';
+  questionType?: QuestionTypeKey;
   bonusPartIndex?: number;
   showMicrophoneIndicator?: boolean;
   isVoiceListening?: boolean;
@@ -26,7 +27,7 @@ export const TossupReader: React.FC<TossupReaderProps> = ({
   text,
   currentCharIndex,
   powerMarkPosition,
-  questionType = 'tossup',
+  questionType = 'Tossup',
   bonusPartIndex,
   showMicrophoneIndicator = false,
   isVoiceListening = false,
@@ -63,7 +64,7 @@ export const TossupReader: React.FC<TossupReaderProps> = ({
         <View style={[styles.header, { borderBottomColor: colors.divider }]}>
           <Icon name="book-open-variant" size={20} color={colors.primary.main} />
           <Text variant="labelMedium" style={[styles.headerText, { color: colors.text.secondary }]}>
-            {questionType === 'bonus'
+            {questionType === 'Bonus'
               ? `Bonus Part ${(bonusPartIndex ?? 0) + 1}`
               : 'Toss-up Question'}
           </Text>

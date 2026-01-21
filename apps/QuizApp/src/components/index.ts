@@ -12,4 +12,4 @@ export { TimerDisplay } from './TimerDisplay';
 export { QuestionBreakdown } from './QuestionBreakdown';
 
 // Re-export types
-export type { TimerState, QuestionType } from './AnswerSubmitter';
+export type { TimerState, QuestionTypeKey } from './AnswerSubmitter';

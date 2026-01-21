@@ -20,10 +20,9 @@ import { Text } from 'react-native-paper';
 import Icon from 'react-native-vector-icons/MaterialCommunityIcons';
 import { spacing, elevation, radius } from '@monorepo/ui-components';
 import { useTheme } from '../providers/ThemeProvider';
+import type { QuestionTypeKey } from '../types/quizFormat';
 
 type TimerRef = ReturnType<typeof setInterval> | null;
-
-export type QuestionType = 'tossup' | 'bonus';
 
 interface AnswerFeedbackProps {
   visible: boolean;
@@ -31,7 +30,7 @@ interface AnswerFeedbackProps {
   points: number;
   userAnswer: string | null;
   acceptableAnswers: string[];
-  questionType: QuestionType;
+  questionType: QuestionTypeKey;
   reviewTimeMs: number;
   onReviewComplete: () => void;
   /** When true, delays countdown timer start until startTimer is called */
@@ -258,7 +257,7 @@ export const AnswerFeedback: React.FC<AnswerFeedbackProps> = ({
           {/* Timer */}
           <View style={styles.timerRow}>
             <Text variant="bodySmall" style={[styles.timerLabel, { color: colors.text.secondary }]}>
-              {questionType === 'tossup' ? 'Next question in' : 'Next part in'}
+              {questionType === 'Tossup' ? 'Next question in' : 'Next part in'}
             </Text>
             <Animated.View
               style={[styles.timerBadge, { backgroundColor: colors.primary.main, transform: [{ scale: pulseAnim }] }]}

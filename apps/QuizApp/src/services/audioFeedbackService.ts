@@ -8,6 +8,7 @@
 import * as nativeTtsService from './nativeTtsService';
 import type { VoiceType } from './nativeTtsService';
 import type { AudioFeedbackTone } from '../types/settings';
+import type { QuestionTypeKey } from '../types/quizFormat';
 
 /**
  * Map AudioFeedbackTone to VoiceType for TTS
@@ -28,7 +29,7 @@ export interface FeedbackContext {
   isCorrect: boolean;
   isTimeUp: boolean;
   points: number;
-  questionType: 'tossup' | 'bonus';
+  questionType: QuestionTypeKey;
   tone: AudioFeedbackTone;
   userAnswer?: string | null;
   correctAnswer?: string;

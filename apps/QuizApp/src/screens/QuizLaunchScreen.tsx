@@ -35,8 +35,12 @@ export const QuizLaunchScreen: React.FC<Props> = ({ navigation }) => {
     });
   }, [navigation, colors]);
 
-  const handleStartQuiz = () => {
-    navigation.navigate('Quiz');
+  const handleStartProQuiz = () => {
+    navigation.navigate('Quiz', { mode: 'pro' });
+  };
+
+  const handleStartLearnQuiz = () => {
+    navigation.navigate('Quiz', { mode: 'learn' });
   };
 
   return (
@@ -54,13 +58,23 @@ export const QuizLaunchScreen: React.FC<Props> = ({ navigation }) => {
         <View style={styles.buttonContainer}>
           <Button
             mode="contained"
-            onPress={handleStartQuiz}
+            onPress={handleStartProQuiz}
             style={styles.button}
             contentStyle={styles.buttonContent}
             labelStyle={styles.buttonLabel}
-            testID="start-quiz-button"
+            testID="start-quiz-pro-button"
           >
-            Start Quiz
+            Start Quiz (Pro)
+          </Button>
+          <Button
+            mode="outlined"
+            onPress={handleStartLearnQuiz}
+            style={styles.button}
+            contentStyle={styles.buttonContent}
+            labelStyle={styles.buttonLabel}
+            testID="start-quiz-learn-button"
+          >
+            Start Quiz (Learn)
           </Button>
         </View>
       </View>
