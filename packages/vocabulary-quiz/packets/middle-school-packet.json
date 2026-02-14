@@ -1,0 +1,1334 @@
+{
+  "tossups": [
+    {
+      "id": "vocab-tossup-add73224-3b25-49cb-a8d3-82c95ed0d2b5",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "Diseases",
+      "difficulty": "middle_school",
+      "targetWord": {
+        "id": "vocab-prognosis",
+        "word": "prognosis",
+        "pronunciation": "/prɒɡˈnoʊsɪs/",
+        "partOfSpeech": "noun",
+        "definition": "the likely course or outcome of a disease; a forecast",
+        "category": "MedicalScientific",
+        "subcategory": "Diseases",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Greek",
+          "roots": [
+            {
+              "id": "grk-gnosis",
+              "root": "gnosis",
+              "meaning": "knowledge",
+              "language": "Greek",
+              "variants": [
+                "gno"
+              ],
+              "examples": [
+                "prognosis",
+                "diagnosis",
+                "agnostic"
+              ]
+            }
+          ],
+          "prefix": {
+            "id": "pre-pro",
+            "prefix": "pro-",
+            "meaning": "before",
+            "language": "Greek",
+            "examples": [
+              "prognosis",
+              "prophecy",
+              "prologue"
+            ]
+          },
+          "narrative": "From Greek prognosis (foreknowledge), from pro- (before) + gignoskein (to know)."
+        },
+        "exampleSentences": [
+          "The doctor gave a favorable prognosis for recovery.",
+          "The prognosis for the economy is uncertain."
+        ],
+        "synonyms": [
+          "forecast",
+          "prediction",
+          "outlook",
+          "projection"
+        ],
+        "relatedWords": [
+          "diagnosis",
+          "prognosticate",
+          "agnostic"
+        ],
+        "mnemonic": "PRO-gnosis = knowing (gnosis) BEFORE (pro) = predicting outcome",
+        "acceptableAnswers": [
+          "prognosis"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"projection\", this noun describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in clinical or pathological discussions",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"the likely course or outcome of a disease; a forecast\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Sometimes described as \"projection\", this noun describes a particular quality. Often used in clinical or pathological discussions For ten points, name this noun meaning \"the likely course or outcome of a disease; a forecast\".",
+      "powerMarkPosition": 78,
+      "answer": "prognosis",
+      "acceptableAnswers": [
+        "prognosis"
+      ],
+      "explanation": "PROGNOSIS (/prɒɡˈnoʊsɪs/)\n\nDefinition: the likely course or outcome of a disease; a forecast\n\nEtymology: From Greek prognosis (foreknowledge), from pro- (before) + gignoskein (to know).\n\nExample: \"The doctor gave a favorable prognosis for recovery.\"\n\nMemory tip: PRO-gnosis = knowing (gnosis) BEFORE (pro) = predicting outcome",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-de95c389-a6be-4fa7-98e8-b837961474f5",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "Virtues",
+      "difficulty": "middle_school",
+      "targetWord": {
+        "id": "vocab-magnanimous",
+        "word": "magnanimous",
+        "pronunciation": "/mæɡˈnænɪməs/",
+        "partOfSpeech": "adjective",
+        "definition": "generous or forgiving, especially toward a rival or less powerful person",
+        "category": "HumanBehavior",
+        "subcategory": "Virtues",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-magnus",
+              "root": "magnus",
+              "meaning": "great",
+              "language": "Latin",
+              "variants": [
+                "magn"
+              ],
+              "examples": [
+                "magnify",
+                "magnificent",
+                "magnanimous",
+                "magnitude"
+              ]
+            },
+            {
+              "id": "lat-anima",
+              "root": "anima",
+              "meaning": "soul, spirit",
+              "language": "Latin",
+              "variants": [
+                "anim"
+              ],
+              "examples": [
+                "animate",
+                "animosity",
+                "magnanimous",
+                "pusillanimous"
+              ]
+            }
+          ],
+          "narrative": "From Latin magnanimus (great-souled), from magnus (great) + animus (soul, spirit)."
+        },
+        "exampleSentences": [
+          "In a magnanimous gesture, the winner shared the prize with the runner-up.",
+          "The magnanimous queen pardoned her enemies after the war."
+        ],
+        "synonyms": [
+          "generous",
+          "noble",
+          "forgiving",
+          "benevolent",
+          "gracious"
+        ],
+        "antonyms": [
+          "petty",
+          "vindictive",
+          "mean-spirited",
+          "small-minded"
+        ],
+        "relatedWords": [
+          "magnanimity",
+          "pusillanimous",
+          "equanimity",
+          "unanimous"
+        ],
+        "mnemonic": "MAGN (big) + ANIM (spirit) = big-spirited, generous person",
+        "acceptableAnswers": [
+          "magnanimous"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"gracious\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe positive moral qualities",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"generous or forgiving, especially toward a rival or less powerful person\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Sometimes described as \"gracious\", this adjective describes a particular quality. Often used to describe positive moral qualities For ten points, name this adjective meaning \"generous or forgiving, especially toward a rival or less powerful person\".",
+      "powerMarkPosition": 87,
+      "answer": "magnanimous",
+      "acceptableAnswers": [
+        "magnanimous"
+      ],
+      "explanation": "MAGNANIMOUS (/mæɡˈnænɪməs/)\n\nDefinition: generous or forgiving, especially toward a rival or less powerful person\n\nEtymology: From Latin magnanimus (great-souled), from magnus (great) + animus (soul, spirit).\n\nExample: \"In a magnanimous gesture, the winner shared the prize with the runner-up.\"\n\nMemory tip: MAGN (big) + ANIM (spirit) = big-spirited, generous person",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-2ce1eb1a-d226-4616-8685-df79f6bc983f",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "Diseases",
+      "difficulty": "middle_school",
+      "targetWord": {
+        "id": "vocab-acute",
+        "word": "acute",
+        "pronunciation": "/əˈkjuːt/",
+        "partOfSpeech": "adjective",
+        "definition": "(of a disease) severe but of short duration; sharp or intense",
+        "category": "MedicalScientific",
+        "subcategory": "Diseases",
+        "difficulty": "middle_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-acuere",
+              "root": "acuere",
+              "meaning": "to sharpen",
+              "language": "Latin",
+              "variants": [
+                "acu"
+              ],
+              "examples": [
+                "acute",
+                "acumen",
+                "acuity"
+              ]
+            }
+          ],
+          "narrative": "From Latin acutus (sharpened, pointed), past participle of acuere (to sharpen)."
+        },
+        "exampleSentences": [
+          "He was hospitalized with acute appendicitis.",
+          "She has an acute sense of hearing."
+        ],
+        "synonyms": [
+          "severe",
+          "intense",
+          "sharp",
+          "critical"
+        ],
+        "antonyms": [
+          "chronic",
+          "mild",
+          "dull"
+        ],
+        "relatedWords": [
+          "acumen",
+          "acuity",
+          "acupuncture"
+        ],
+        "mnemonic": "ACUTE = like an ACUTE angle, sharp and pointed",
+        "acceptableAnswers": [
+          "acute"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"critical\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in clinical or pathological discussions",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"(of a disease) severe but of short duration; sharp or intense\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Sometimes described as \"critical\", this adjective describes a particular quality. Often used in clinical or pathological discussions For ten points, name this adjective meaning \"(of a disease) severe but of short duration; sharp or intense\".",
+      "powerMarkPosition": 84,
+      "answer": "acute",
+      "acceptableAnswers": [
+        "acute"
+      ],
+      "explanation": "ACUTE (/əˈkjuːt/)\n\nDefinition: (of a disease) severe but of short duration; sharp or intense\n\nEtymology: From Latin acutus (sharpened, pointed), past participle of acuere (to sharpen).\n\nExample: \"He was hospitalized with acute appendicitis.\"\n\nMemory tip: ACUTE = like an ACUTE angle, sharp and pointed",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-8e02bc2a-2b56-4477-8b49-991ca264c967",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "GenreTerms",
+      "difficulty": "middle_school",
+      "targetWord": {
+        "id": "vocab-elegy",
+        "word": "elegy",
+        "pronunciation": "/ˈelədʒi/",
+        "partOfSpeech": "noun",
+        "definition": "a poem of serious reflection, typically a lament for the dead",
+        "category": "LiteraryArtistic",
+        "subcategory": "GenreTerms",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Greek",
+          "roots": [
+            {
+              "id": "grk-elegeia",
+              "root": "elegeia",
+              "meaning": "song of mourning",
+              "language": "Greek",
+              "examples": [
+                "elegy",
+                "elegiac"
+              ]
+            }
+          ],
+          "narrative": "From Greek elegeia (a song of mourning), from elegos (mournful poem)."
+        },
+        "exampleSentences": [
+          "Milton wrote an elegy for his deceased friend.",
+          "The elegies honored those who had passed."
+        ],
+        "synonyms": [
+          "lament",
+          "dirge",
+          "requiem",
+          "threnody"
+        ],
+        "antonyms": [
+          "epithalamium",
+          "ode"
+        ],
+        "relatedWords": [
+          "elegiac",
+          "elegize"
+        ],
+        "mnemonic": "ELEGY = a song of mourning, expressing GRIEF",
+        "acceptableAnswers": [
+          "elegy"
+        ],
+        "source": "Literary genre studies"
+      },
+      "clues": [
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"threnody\", this noun describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe literary forms and genres",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"a poem of serious reflection, typically a lament for the dead\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Sometimes described as \"threnody\", this noun describes a particular quality. Often used to describe literary forms and genres For ten points, name this noun meaning \"a poem of serious reflection, typically a lament for the dead\".",
+      "powerMarkPosition": 80,
+      "answer": "elegy",
+      "acceptableAnswers": [
+        "elegy"
+      ],
+      "explanation": "ELEGY (/ˈelədʒi/)\n\nDefinition: a poem of serious reflection, typically a lament for the dead\n\nEtymology: From Greek elegeia (a song of mourning), from elegos (mournful poem).\n\nExample: \"Milton wrote an elegy for his deceased friend.\"\n\nMemory tip: ELEGY = a song of mourning, expressing GRIEF",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-7b7a01b9-12e4-4aa9-9188-a4066950a238",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "PersonalityTraits",
+      "difficulty": "middle_school",
+      "targetWord": {
+        "id": "vocab-pragmatist",
+        "word": "pragmatist",
+        "pronunciation": "/ˈpræɡmətɪst/",
+        "partOfSpeech": "noun",
+        "definition": "a person who deals with things sensibly and realistically based on practical considerations",
+        "category": "HumanBehavior",
+        "subcategory": "PersonalityTraits",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Greek",
+          "roots": [
+            {
+              "id": "grk-pragma2",
+              "root": "pragma",
+              "meaning": "deed, act",
+              "language": "Greek",
+              "variants": [
+                "pragmat"
+              ],
+              "examples": [
+                "pragmatist",
+                "pragmatic"
+              ]
+            }
+          ],
+          "narrative": "From Greek pragma (deed, act), from prassein (to do)."
+        },
+        "exampleSentences": [
+          "As a pragmatist, she focused on what would actually work.",
+          "The pragmatist in him wanted results, not theories."
+        ],
+        "synonyms": [
+          "realist",
+          "practical person",
+          "utilitarian"
+        ],
+        "antonyms": [
+          "idealist",
+          "dreamer",
+          "theorist"
+        ],
+        "relatedWords": [
+          "pragmatic",
+          "pragmatism"
+        ],
+        "mnemonic": "PRAGMAT-ist = focused on DEEDS (pragma), what works",
+        "acceptableAnswers": [
+          "pragmatist"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"utilitarian\", this noun describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe inherent character traits",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"a person who deals with things sensibly and realistically based on practical considerations\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Sometimes described as \"utilitarian\", this noun describes a particular quality. Often used to describe inherent character traits For ten points, name this noun meaning \"a person who deals with things sensibly and realistically based on practical considerations\".",
+      "powerMarkPosition": 91,
+      "answer": "pragmatist",
+      "acceptableAnswers": [
+        "pragmatist"
+      ],
+      "explanation": "PRAGMATIST (/ˈpræɡmətɪst/)\n\nDefinition: a person who deals with things sensibly and realistically based on practical considerations\n\nEtymology: From Greek pragma (deed, act), from prassein (to do).\n\nExample: \"As a pragmatist, she focused on what would actually work.\"\n\nMemory tip: PRAGMAT-ist = focused on DEEDS (pragma), what works",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-465c7ad9-bafb-47b2-88fb-3df4437ca584",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "TransformativeActions",
+      "difficulty": "middle_school",
+      "targetWord": {
+        "id": "vocab-mitigate",
+        "word": "mitigate",
+        "pronunciation": "/ˈmɪtɪɡeɪt/",
+        "partOfSpeech": "verb",
+        "definition": "to make less severe, serious, or painful",
+        "category": "ActionsVerbs",
+        "subcategory": "TransformativeActions",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-mitis",
+              "root": "mitis",
+              "meaning": "mild, soft",
+              "language": "Latin",
+              "examples": [
+                "mitigate"
+              ]
+            }
+          ],
+          "narrative": "From Latin mitigare (to soften, make mild), from mitis (mild) + agere (to drive)."
+        },
+        "exampleSentences": [
+          "Steps were taken to mitigate the environmental damage.",
+          "Nothing could mitigate the severity of the punishment."
+        ],
+        "synonyms": [
+          "alleviate",
+          "lessen",
+          "diminish",
+          "ease"
+        ],
+        "antonyms": [
+          "aggravate",
+          "intensify",
+          "worsen"
+        ],
+        "relatedWords": [
+          "mitigation",
+          "mitigating"
+        ],
+        "mnemonic": "MITIG-ate = make MILD (mitis)",
+        "acceptableAnswers": [
+          "mitigate"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"ease\", this verb describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe processes of change",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this verb meaning \"to make less severe, serious, or painful\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Sometimes described as \"ease\", this verb describes a particular quality. Often used to describe processes of change For ten points, name this verb meaning \"to make less severe, serious, or painful\".",
+      "powerMarkPosition": 69,
+      "answer": "mitigate",
+      "acceptableAnswers": [
+        "mitigate"
+      ],
+      "explanation": "MITIGATE (/ˈmɪtɪɡeɪt/)\n\nDefinition: to make less severe, serious, or painful\n\nEtymology: From Latin mitigare (to soften, make mild), from mitis (mild) + agere (to drive).\n\nExample: \"Steps were taken to mitigate the environmental damage.\"\n\nMemory tip: MITIG-ate = make MILD (mitis)",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-446a9561-84e6-4424-aedc-5311c0e91a39",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "SocialBehaviors",
+      "difficulty": "middle_school",
+      "targetWord": {
+        "id": "vocab-affable",
+        "word": "affable",
+        "pronunciation": "/ˈæfəbl/",
+        "partOfSpeech": "adjective",
+        "definition": "friendly, good-natured, or easy to talk to",
+        "category": "HumanBehavior",
+        "subcategory": "SocialBehaviors",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-affari",
+              "root": "affari",
+              "meaning": "to speak to",
+              "language": "Latin",
+              "examples": [
+                "affable"
+              ]
+            }
+          ],
+          "prefix": {
+            "id": "pre-ad",
+            "prefix": "ad-",
+            "meaning": "to",
+            "language": "Latin",
+            "variants": [
+              "af-"
+            ],
+            "examples": [
+              "affect",
+              "affirm",
+              "affable"
+            ]
+          },
+          "narrative": "From Latin affabilis (easy to speak to), from affari (to speak to), from ad- (to) + fari (to speak)."
+        },
+        "exampleSentences": [
+          "The affable host made everyone feel welcome at the party.",
+          "Despite his fame, he remained affable and approachable."
+        ],
+        "synonyms": [
+          "friendly",
+          "amiable",
+          "genial",
+          "cordial",
+          "approachable"
+        ],
+        "antonyms": [
+          "unfriendly",
+          "cold",
+          "aloof",
+          "standoffish",
+          "hostile"
+        ],
+        "relatedWords": [
+          "affability"
+        ],
+        "mnemonic": "AFF-ABLE = able to be approached (aff = to + speak) = friendly",
+        "acceptableAnswers": [
+          "affable"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"approachable\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe interpersonal conduct",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"friendly, good-natured, or easy to talk to\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Sometimes described as \"approachable\", this adjective describes a particular quality. Often used to describe interpersonal conduct For ten points, name this adjective meaning \"friendly, good-natured, or easy to talk to\".",
+      "powerMarkPosition": 77,
+      "answer": "affable",
+      "acceptableAnswers": [
+        "affable"
+      ],
+      "explanation": "AFFABLE (/ˈæfəbl/)\n\nDefinition: friendly, good-natured, or easy to talk to\n\nEtymology: From Latin affabilis (easy to speak to), from affari (to speak to), from ad- (to) + fari (to speak).\n\nExample: \"The affable host made everyone feel welcome at the party.\"\n\nMemory tip: AFF-ABLE = able to be approached (aff = to + speak) = friendly",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-1983babe-266b-4989-add5-4fd93daeee51",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "CognitiveActions",
+      "difficulty": "middle_school",
+      "targetWord": {
+        "id": "vocab-apprehend",
+        "word": "apprehend",
+        "pronunciation": "/ˌæprɪˈhend/",
+        "partOfSpeech": "verb",
+        "definition": "to understand or perceive; to arrest someone",
+        "category": "ActionsVerbs",
+        "subcategory": "CognitiveActions",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-prehendere",
+              "root": "prehendere",
+              "meaning": "to grasp, seize",
+              "language": "Latin",
+              "variants": [
+                "prehens"
+              ],
+              "examples": [
+                "apprehend",
+                "comprehend",
+                "prehensile"
+              ]
+            }
+          ],
+          "prefix": {
+            "id": "pre-ad4",
+            "prefix": "ad-",
+            "meaning": "to, toward",
+            "language": "Latin",
+            "examples": [
+              "apprehend",
+              "approach"
+            ]
+          },
+          "narrative": "From Latin apprehendere (to seize), from ad- (to) + prehendere (to grasp)."
+        },
+        "exampleSentences": [
+          "Do you apprehend the significance of this discovery?",
+          "The police apprehended the suspect."
+        ],
+        "synonyms": [
+          "understand",
+          "grasp",
+          "comprehend",
+          "arrest"
+        ],
+        "antonyms": [
+          "misunderstand",
+          "release"
+        ],
+        "relatedWords": [
+          "apprehension",
+          "apprehensive",
+          "comprehend"
+        ],
+        "mnemonic": "AP-PREHEND = GRASP (prehendere) toward understanding",
+        "acceptableAnswers": [
+          "apprehend"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"arrest\", this verb describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe mental processes",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this verb meaning \"to understand or perceive; to arrest someone\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Sometimes described as \"arrest\", this verb describes a particular quality. Often used to describe mental processes For ten points, name this verb meaning \"to understand or perceive; to arrest someone\".",
+      "powerMarkPosition": 70,
+      "answer": "apprehend",
+      "acceptableAnswers": [
+        "apprehend"
+      ],
+      "explanation": "APPREHEND (/ˌæprɪˈhend/)\n\nDefinition: to understand or perceive; to arrest someone\n\nEtymology: From Latin apprehendere (to seize), from ad- (to) + prehendere (to grasp).\n\nExample: \"Do you apprehend the significance of this discovery?\"\n\nMemory tip: AP-PREHEND = GRASP (prehendere) toward understanding",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-ec254d1c-319d-431b-ad13-75254cbc0826",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "IntellectualQualities",
+      "difficulty": "middle_school",
+      "targetWord": {
+        "id": "vocab-naive",
+        "word": "naive",
+        "pronunciation": "/naɪˈiːv/",
+        "partOfSpeech": "adjective",
+        "definition": "showing a lack of experience, wisdom, or judgment",
+        "category": "HumanBehavior",
+        "subcategory": "IntellectualQualities",
+        "difficulty": "middle_school",
+        "etymology": {
+          "language": "Old French",
+          "roots": [
+            {
+              "id": "lat-nativus",
+              "root": "nativus",
+              "meaning": "native, natural",
+              "language": "Latin",
+              "variants": [
+                "nativ"
+              ],
+              "examples": [
+                "naive",
+                "native"
+              ]
+            }
+          ],
+          "narrative": "From French naïve (natural, innocent), from Latin nativus (native, natural)."
+        },
+        "exampleSentences": [
+          "It was naive of her to trust him so easily.",
+          "His naive enthusiasm was both charming and concerning."
+        ],
+        "synonyms": [
+          "innocent",
+          "ingenuous",
+          "gullible",
+          "unsophisticated",
+          "artless"
+        ],
+        "antonyms": [
+          "worldly",
+          "sophisticated",
+          "cynical",
+          "experienced"
+        ],
+        "relatedWords": [
+          "naivety",
+          "native"
+        ],
+        "mnemonic": "NAIVE = like a NATIVE newborn, inexperienced",
+        "acceptableAnswers": [
+          "naive",
+          "naïve"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"artless\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in academic or intellectual contexts",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"showing a lack of experience, wisdom, or judgment\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Sometimes described as \"artless\", this adjective describes a particular quality. Often used in academic or intellectual contexts For ten points, name this adjective meaning \"showing a lack of experience, wisdom, or judgment\".",
+      "powerMarkPosition": 78,
+      "answer": "naive",
+      "acceptableAnswers": [
+        "naive",
+        "naïve"
+      ],
+      "explanation": "NAIVE (/naɪˈiːv/)\n\nDefinition: showing a lack of experience, wisdom, or judgment\n\nEtymology: From French naïve (natural, innocent), from Latin nativus (native, natural).\n\nExample: \"It was naive of her to trust him so easily.\"\n\nMemory tip: NAIVE = like a NATIVE newborn, inexperienced",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-97779cd2-fa6d-4f7f-9449-e06a20abb920",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "TransformativeActions",
+      "difficulty": "middle_school",
+      "targetWord": {
+        "id": "vocab-mitigate",
+        "word": "mitigate",
+        "pronunciation": "/ˈmɪtɪɡeɪt/",
+        "partOfSpeech": "verb",
+        "definition": "to make less severe, serious, or painful",
+        "category": "ActionsVerbs",
+        "subcategory": "TransformativeActions",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-mitis",
+              "root": "mitis",
+              "meaning": "soft, mild",
+              "language": "Latin",
+              "examples": [
+                "mitigate",
+                "mitigation"
+              ]
+            }
+          ],
+          "narrative": "From Latin mitigare (to soften), from mitis (soft, mild)."
+        },
+        "exampleSentences": [
+          "Measures were taken to mitigate the damage.",
+          "Nothing could mitigate her grief."
+        ],
+        "synonyms": [
+          "alleviate",
+          "reduce",
+          "lessen",
+          "moderate"
+        ],
+        "antonyms": [
+          "aggravate",
+          "exacerbate",
+          "intensify"
+        ],
+        "relatedWords": [
+          "mitigation",
+          "mitigating"
+        ],
+        "mnemonic": "MIT-IGATE = make MILD (mitis), soften the blow",
+        "acceptableAnswers": [
+          "mitigate"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"moderate\", this verb describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe processes of change",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this verb meaning \"to make less severe, serious, or painful\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Sometimes described as \"moderate\", this verb describes a particular quality. Often used to describe processes of change For ten points, name this verb meaning \"to make less severe, serious, or painful\".",
+      "powerMarkPosition": 70,
+      "answer": "mitigate",
+      "acceptableAnswers": [
+        "mitigate"
+      ],
+      "explanation": "MITIGATE (/ˈmɪtɪɡeɪt/)\n\nDefinition: to make less severe, serious, or painful\n\nEtymology: From Latin mitigare (to soften), from mitis (soft, mild).\n\nExample: \"Measures were taken to mitigate the damage.\"\n\nMemory tip: MIT-IGATE = make MILD (mitis), soften the blow",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "vocab-bonus-3b9219ff-a5bf-43c3-b2eb-28848af3076e",
+      "linkedTossupId": "vocab-tossup-add73224-3b25-49cb-a8d3-82c95ed0d2b5",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "Diseases",
+      "difficulty": "middle_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of diseases.",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"a general feeling of discomfort, illness, or unease\".",
+          "answer": "malaise",
+          "acceptableAnswers": [
+            "malaise"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This noun, synonymous with \"causation\", means \"the cause or origin of a disease; the study of causation\".",
+          "answer": "etiology",
+          "acceptableAnswers": [
+            "etiology",
+            "aetiology"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"She suffers from [BLANK] back pain.\"",
+          "answer": "chronic",
+          "acceptableAnswers": [
+            "chronic"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-a4bc2d96-8810-4205-b265-4e1d50d0ac39",
+      "linkedTossupId": "vocab-tossup-de95c389-a6be-4fa7-98e8-b837961474f5",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "Virtues",
+      "difficulty": "middle_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of virtues.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"well-meaning and kindly; showing goodwill\".",
+          "answer": "benevolent",
+          "acceptableAnswers": [
+            "benevolent"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"selfless\", means \"showing a disinterested and selfless concern for the well-being of others\".",
+          "answer": "altruistic",
+          "acceptableAnswers": [
+            "altruistic"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The [BLANK] foundation supports education in underserved communities.\"",
+          "answer": "philanthropic",
+          "acceptableAnswers": [
+            "philanthropic"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-44df8fa9-4c53-4234-b212-97de85ebe974",
+      "linkedTossupId": "vocab-tossup-2ce1eb1a-d226-4616-8685-df79f6bc983f",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "Diseases",
+      "difficulty": "middle_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of diseases.",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"a general feeling of discomfort, illness, or unease\".",
+          "answer": "malaise",
+          "acceptableAnswers": [
+            "malaise"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This noun, synonymous with \"causation\", means \"the cause or origin of a disease; the study of causation\".",
+          "answer": "etiology",
+          "acceptableAnswers": [
+            "etiology",
+            "aetiology"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The doctor gave a favorable [BLANK] for recovery.\"",
+          "answer": "prognosis",
+          "acceptableAnswers": [
+            "prognosis"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-4bded82c-e4b8-4186-8d4d-f0e7274fbf11",
+      "linkedTossupId": "vocab-tossup-8e02bc2a-2b56-4477-8b49-991ca264c967",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "GenreTerms",
+      "difficulty": "middle_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of genre terms.",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"a novel dealing with one person's formative years or spiritual education\".",
+          "answer": "bildungsroman",
+          "acceptableAnswers": [
+            "bildungsroman",
+            "BILDUNGSROMAN"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"roguish\", means \"relating to an episodic style of fiction dealing with the adventures of a rough and dishonest but appealing hero\".",
+          "answer": "picaresque",
+          "acceptableAnswers": [
+            "picaresque",
+            "PICARESQUE"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The novel was a [BLANK] of Victorian Gothic fiction.\"",
+          "answer": "pastiche",
+          "acceptableAnswers": [
+            "pastiche",
+            "PASTICHE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-072055f2-6825-4e10-bc4f-9f62048a62a2",
+      "linkedTossupId": "vocab-tossup-7b7a01b9-12e4-4aa9-9188-a4066950a238",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "PersonalityTraits",
+      "difficulty": "middle_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of personality traits.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"excessively talkative, especially on trivial matters\".",
+          "answer": "garrulous",
+          "acceptableAnswers": [
+            "garrulous"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"reticent\", means \"reserved or uncommunicative in speech; saying little\".",
+          "answer": "taciturn",
+          "acceptableAnswers": [
+            "taciturn"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The [BLANK] professor often ran over the allotted class time.\"",
+          "answer": "loquacious",
+          "acceptableAnswers": [
+            "loquacious"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-6791a859-720a-4c10-8aeb-5f4b2172dec7",
+      "linkedTossupId": "vocab-tossup-465c7ad9-bafb-47b2-88fb-3df4437ca584",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "TransformativeActions",
+      "difficulty": "middle_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of transformative actions.",
+      "parts": [
+        {
+          "text": "Name this verb meaning \"to make something bad or unsatisfactory better\".",
+          "answer": "ameliorate",
+          "acceptableAnswers": [
+            "ameliorate",
+            "AMELIORATE"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This verb, synonymous with \"worsen\", means \"to make a problem, bad situation, or negative feeling worse\".",
+          "answer": "exacerbate",
+          "acceptableAnswers": [
+            "exacerbate",
+            "EXACERBATE"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The caterpillar [BLANK]d into a beautiful butterfly.\"",
+          "answer": "metamorphose",
+          "acceptableAnswers": [
+            "metamorphose",
+            "METAMORPHOSE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-33a22939-1ad3-4e37-a33e-68923938902f",
+      "linkedTossupId": "vocab-tossup-446a9561-84e6-4424-aedc-5311c0e91a39",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "SocialBehaviors",
+      "difficulty": "middle_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of social behaviors.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"obedient or attentive to an excessive degree; servile and fawning\".",
+          "answer": "obsequious",
+          "acceptableAnswers": [
+            "obsequious"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"arrogant\", means \"behaving or looking as though one thinks one is superior to others\".",
+          "answer": "supercilious",
+          "acceptableAnswers": [
+            "supercilious"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The [BLANK] assistant agreed with everything the boss said.\"",
+          "answer": "sycophantic",
+          "acceptableAnswers": [
+            "sycophantic"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-38a821f1-db2b-4a00-a843-95522063e50e",
+      "linkedTossupId": "vocab-tossup-1983babe-266b-4989-add5-4fd93daeee51",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "CognitiveActions",
+      "difficulty": "middle_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of cognitive actions.",
+      "parts": [
+        {
+          "text": "Name this verb meaning \"to think deeply about something; to chew the cud (for ruminant animals)\".",
+          "answer": "ruminate",
+          "acceptableAnswers": [
+            "ruminate",
+            "RUMINATE"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This verb, synonymous with \"ponder\", means \"to think deeply about something; to ponder or meditate\".",
+          "answer": "cogitate",
+          "acceptableAnswers": [
+            "cogitate",
+            "COGITATE"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The detective [BLANK]d the evidence for any overlooked clues.\"",
+          "answer": "scrutinize",
+          "acceptableAnswers": [
+            "scrutinize",
+            "SCRUTINIZE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-8a455416-d46e-4202-9b37-1ad743f65c2a",
+      "linkedTossupId": "vocab-tossup-ec254d1c-319d-431b-ad13-75254cbc0826",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "IntellectualQualities",
+      "difficulty": "middle_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of intellectual qualities.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"having a ready insight into and understanding of things; shrewd\".",
+          "answer": "perspicacious",
+          "acceptableAnswers": [
+            "perspicacious"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"wise\", means \"having or showing keen mental discernment and good judgment; wise\".",
+          "answer": "sagacious",
+          "acceptableAnswers": [
+            "sagacious"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The [BLANK] businessman recognized the opportunity before his competitors.\"",
+          "answer": "astute",
+          "acceptableAnswers": [
+            "astute"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-2bd9ebe1-ccab-4e17-b643-cc4747d3baf8",
+      "linkedTossupId": "vocab-tossup-97779cd2-fa6d-4f7f-9449-e06a20abb920",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "TransformativeActions",
+      "difficulty": "middle_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of transformative actions.",
+      "parts": [
+        {
+          "text": "Name this verb meaning \"to make something bad or unsatisfactory better\".",
+          "answer": "ameliorate",
+          "acceptableAnswers": [
+            "ameliorate",
+            "AMELIORATE"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This verb, synonymous with \"worsen\", means \"to make a problem, bad situation, or negative feeling worse\".",
+          "answer": "exacerbate",
+          "acceptableAnswers": [
+            "exacerbate",
+            "EXACERBATE"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The caterpillar [BLANK]d into a beautiful butterfly.\"",
+          "answer": "metamorphose",
+          "acceptableAnswers": [
+            "metamorphose",
+            "METAMORPHOSE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-01-31T19:15:21.412Z",
+    "wordCount": 10,
+    "categoryBreakdown": {
+      "HumanBehavior": 4,
+      "EmotionsFeelings": 0,
+      "MedicalScientific": 2,
+      "LiteraryArtistic": 1,
+      "AbstractConcepts": 0,
+      "ActionsVerbs": 3
+    },
+    "difficultyBreakdown": {
+      "middle_school": 10,
+      "high_school": 0,
+      "college": 0,
+      "open": 0
+    }
+  }
+}

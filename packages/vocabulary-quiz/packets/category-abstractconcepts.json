@@ -1,0 +1,715 @@
+{
+  "tossups": [
+    {
+      "id": "vocab-tossup-e5c8c300-d096-46a2-8cfa-4fd330b95629",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "StateOfBeing",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-liminal",
+        "word": "liminal",
+        "pronunciation": "/ˈlɪmɪnəl/",
+        "partOfSpeech": "adjective",
+        "definition": "occupying a position at, or on both sides of, a boundary or threshold",
+        "category": "AbstractConcepts",
+        "subcategory": "StateOfBeing",
+        "difficulty": "college",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "latin-limen",
+              "root": "limen",
+              "meaning": "threshold",
+              "language": "Latin",
+              "examples": [
+                "liminal",
+                "subliminal",
+                "eliminate"
+              ]
+            }
+          ],
+          "narrative": "From Latin liminalis, from limen (threshold), describing the transitional state at a boundary."
+        },
+        "exampleSentences": [
+          "The liminal space between wakefulness and sleep is where dreams begin.",
+          "Adolescence is a liminal period between childhood and adulthood."
+        ],
+        "synonyms": [
+          "transitional",
+          "threshold",
+          "intermediate",
+          "in-between"
+        ],
+        "relatedWords": [
+          "liminality",
+          "subliminal",
+          "preliminary",
+          "eliminate"
+        ],
+        "mnemonic": "LIMIN-al = at the LIMEN (threshold) - in a transitional state.",
+        "acceptableAnswers": [
+          "liminal",
+          "LIMINAL"
+        ],
+        "usageNotes": "Common in anthropology and psychology for transitional states.",
+        "source": "Anthropological vocabulary"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"liminality\" and \"subliminal\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"in-between\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe conditions of existence. Common in anthropology and psychology for transitional states.",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"occupying a position at, or on both sides of, a boundary or threshold\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"liminality\" and \"subliminal\". Sometimes described as \"in-between\", this adjective describes a particular quality. Often used to describe conditions of existence. Common in anthropology and psychology for transitional states. For ten points, name this adjective meaning \"occupying a position at, or on both sides of, a boundary or threshold\".",
+      "powerMarkPosition": 130,
+      "answer": "liminal",
+      "acceptableAnswers": [
+        "liminal",
+        "LIMINAL"
+      ],
+      "explanation": "LIMINAL (/ˈlɪmɪnəl/)\n\nDefinition: occupying a position at, or on both sides of, a boundary or threshold\n\nEtymology: From Latin liminalis, from limen (threshold), describing the transitional state at a boundary.\n\nExample: \"The liminal space between wakefulness and sleep is where dreams begin.\"\n\nMemory tip: LIMIN-al = at the LIMEN (threshold) - in a transitional state.",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-dc0ea0b8-3b8c-4bd1-81d0-4b5f8023036f",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "TimeRelated",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-transient",
+        "word": "transient",
+        "pronunciation": "/ˈtrænziənt/",
+        "partOfSpeech": "adjective",
+        "definition": "lasting only for a short time; impermanent",
+        "category": "AbstractConcepts",
+        "subcategory": "TimeRelated",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-transire",
+              "root": "transire",
+              "meaning": "to go across",
+              "language": "Latin",
+              "examples": [
+                "transient",
+                "transit",
+                "transition"
+              ]
+            }
+          ],
+          "narrative": "From Latin transiens, present participle of transire (to go across), from trans- (across) + ire (to go)."
+        },
+        "exampleSentences": [
+          "The transient nature of fame was evident.",
+          "They were transient guests, staying only one night."
+        ],
+        "synonyms": [
+          "temporary",
+          "fleeting",
+          "brief",
+          "passing"
+        ],
+        "antonyms": [
+          "permanent",
+          "lasting",
+          "enduring"
+        ],
+        "relatedWords": [
+          "transience",
+          "transit",
+          "transition"
+        ],
+        "mnemonic": "TRANS-ient = PASSING (trans) through briefly",
+        "acceptableAnswers": [
+          "transient"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"transience\" and \"transit\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"passing\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe temporal concepts",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"lasting only for a short time; impermanent\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"transience\" and \"transit\". Sometimes described as \"passing\", this adjective describes a particular quality. Often used to describe temporal concepts For ten points, name this adjective meaning \"lasting only for a short time; impermanent\".",
+      "powerMarkPosition": 94,
+      "answer": "transient",
+      "acceptableAnswers": [
+        "transient"
+      ],
+      "explanation": "TRANSIENT (/ˈtrænziənt/)\n\nDefinition: lasting only for a short time; impermanent\n\nEtymology: From Latin transiens, present participle of transire (to go across), from trans- (across) + ire (to go).\n\nExample: \"The transient nature of fame was evident.\"\n\nMemory tip: TRANS-ient = PASSING (trans) through briefly",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-fa246aab-bf43-4e69-8739-ba89354fd521",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "QualityDescriptors",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-tangible",
+        "word": "tangible",
+        "pronunciation": "/ˈtændʒɪbəl/",
+        "partOfSpeech": "adjective",
+        "definition": "perceptible by touch; clear and definite; real",
+        "category": "AbstractConcepts",
+        "subcategory": "QualityDescriptors",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "latin-tangere",
+              "root": "tangere",
+              "meaning": "to touch",
+              "language": "Latin",
+              "examples": [
+                "tangible",
+                "tangent",
+                "contact"
+              ]
+            }
+          ],
+          "suffix": {
+            "id": "suf-ible",
+            "suffix": "-ible",
+            "meaning": "capable of being",
+            "language": "Latin",
+            "partOfSpeechResult": "adjective",
+            "examples": [
+              "visible",
+              "tangible",
+              "possible"
+            ]
+          },
+          "narrative": "From Latin tangibilis, from tangere (to touch), meaning capable of being touched."
+        },
+        "exampleSentences": [
+          "The project produced tangible results within the first month.",
+          "She needed tangible evidence before making accusations."
+        ],
+        "synonyms": [
+          "concrete",
+          "palpable",
+          "material",
+          "real"
+        ],
+        "antonyms": [
+          "intangible",
+          "abstract",
+          "immaterial",
+          "ethereal"
+        ],
+        "relatedWords": [
+          "tangibility",
+          "tangibly",
+          "intangible"
+        ],
+        "mnemonic": "TANG-ible = capable of being TOUCHed (tangere).",
+        "acceptableAnswers": [
+          "tangible",
+          "TANGIBLE"
+        ],
+        "usageNotes": "Often contrasted with intangible to distinguish concrete from abstract.",
+        "source": "General vocabulary"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"tangibility\" and \"tangibly\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"real\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe essential qualities. Often contrasted with intangible to distinguish concrete from abstract.",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"perceptible by touch; clear and definite; real\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"tangibility\" and \"tangibly\". Sometimes described as \"real\", this adjective describes a particular quality. Often used to describe essential qualities. Often contrasted with intangible to distinguish concrete from abstract. For ten points, name this adjective meaning \"perceptible by touch; clear and definite; real\".",
+      "powerMarkPosition": 121,
+      "answer": "tangible",
+      "acceptableAnswers": [
+        "tangible",
+        "TANGIBLE"
+      ],
+      "explanation": "TANGIBLE (/ˈtændʒɪbəl/)\n\nDefinition: perceptible by touch; clear and definite; real\n\nEtymology: From Latin tangibilis, from tangere (to touch), meaning capable of being touched.\n\nExample: \"The project produced tangible results within the first month.\"\n\nMemory tip: TANG-ible = capable of being TOUCHed (tangere).",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-dbaeac98-2b7a-44b9-8c2b-9751bbbf8c71",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "TimeRelated",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-ephemeral",
+        "word": "ephemeral",
+        "pronunciation": "/ɪˈfem(ə)rəl/",
+        "partOfSpeech": "adjective",
+        "definition": "lasting for a very short time; transitory",
+        "category": "AbstractConcepts",
+        "subcategory": "TimeRelated",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Greek",
+          "roots": [
+            {
+              "id": "greek-ephemeros",
+              "root": "ephēmeros",
+              "meaning": "lasting only a day",
+              "language": "Greek",
+              "examples": [
+                "ephemeral",
+                "ephemera"
+              ]
+            }
+          ],
+          "prefix": {
+            "id": "pre-epi",
+            "prefix": "epi-",
+            "meaning": "on, for",
+            "language": "Greek",
+            "examples": [
+              "epidemic",
+              "ephemeral",
+              "epilogue"
+            ]
+          },
+          "narrative": "From Greek ephēmeros (lasting only a day), from epi- (on) + hēmera (day)."
+        },
+        "exampleSentences": [
+          "The ephemeral beauty of cherry blossoms draws visitors each spring.",
+          "Social media fame is often ephemeral, fading as quickly as it came."
+        ],
+        "synonyms": [
+          "transitory",
+          "fleeting",
+          "momentary",
+          "short-lived"
+        ],
+        "antonyms": [
+          "permanent",
+          "eternal",
+          "enduring",
+          "lasting"
+        ],
+        "relatedWords": [
+          "ephemera",
+          "ephemerally",
+          "ephemerality"
+        ],
+        "mnemonic": "EPH-emeral = lasting only for the EPI (on) HEMERA (day) - just one day.",
+        "acceptableAnswers": [
+          "ephemeral",
+          "EPHEMERAL"
+        ],
+        "usageNotes": "Often used poetically to describe fleeting beauty.",
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"ephemera\" and \"ephemerally\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"short-lived\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe temporal concepts. Often used poetically to describe fleeting beauty.",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"lasting for a very short time; transitory\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"ephemera\" and \"ephemerally\". Sometimes described as \"short-lived\", this adjective describes a particular quality. Often used to describe temporal concepts. Often used poetically to describe fleeting beauty. For ten points, name this adjective meaning \"lasting for a very short time; transitory\".",
+      "powerMarkPosition": 114,
+      "answer": "ephemeral",
+      "acceptableAnswers": [
+        "ephemeral",
+        "EPHEMERAL"
+      ],
+      "explanation": "EPHEMERAL (/ɪˈfem(ə)rəl/)\n\nDefinition: lasting for a very short time; transitory\n\nEtymology: From Greek ephēmeros (lasting only a day), from epi- (on) + hēmera (day).\n\nExample: \"The ephemeral beauty of cherry blossoms draws visitors each spring.\"\n\nMemory tip: EPH-emeral = lasting only for the EPI (on) HEMERA (day) - just one day.",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-5ca1e981-63fb-4662-9aba-f29a80039bd8",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "StateOfBeing",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-latent",
+        "word": "latent",
+        "pronunciation": "/ˈleɪtənt/",
+        "partOfSpeech": "adjective",
+        "definition": "existing but not yet developed or manifest; hidden or concealed",
+        "category": "AbstractConcepts",
+        "subcategory": "StateOfBeing",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "latin-latere",
+              "root": "latere",
+              "meaning": "to lie hidden",
+              "language": "Latin",
+              "examples": [
+                "latent",
+                "latency"
+              ]
+            }
+          ],
+          "narrative": "From Latin latens, present participle of latere (to lie hidden), describing something hidden but present."
+        },
+        "exampleSentences": [
+          "The latent talent emerged once she received proper training.",
+          "The disease can remain latent for years before symptoms appear."
+        ],
+        "synonyms": [
+          "dormant",
+          "hidden",
+          "concealed",
+          "potential"
+        ],
+        "antonyms": [
+          "manifest",
+          "overt",
+          "apparent",
+          "active"
+        ],
+        "relatedWords": [
+          "latency",
+          "latently"
+        ],
+        "mnemonic": "LATENT = lying HIDDEN (latere), waiting to emerge.",
+        "acceptableAnswers": [
+          "latent",
+          "LATENT"
+        ],
+        "usageNotes": "Common in psychology (latent content) and medicine (latent infection).",
+        "source": "Scientific vocabulary"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"latency\" and \"latently\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"potential\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe conditions of existence. Common in psychology (latent content) and medicine (latent infection).",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"existing but not yet developed or manifest; hidden or concealed\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"latency\" and \"latently\". Sometimes described as \"potential\", this adjective describes a particular quality. Often used to describe conditions of existence. Common in psychology (latent content) and medicine (latent infection). For ten points, name this adjective meaning \"existing but not yet developed or manifest; hidden or concealed\".",
+      "powerMarkPosition": 129,
+      "answer": "latent",
+      "acceptableAnswers": [
+        "latent",
+        "LATENT"
+      ],
+      "explanation": "LATENT (/ˈleɪtənt/)\n\nDefinition: existing but not yet developed or manifest; hidden or concealed\n\nEtymology: From Latin latens, present participle of latere (to lie hidden), describing something hidden but present.\n\nExample: \"The latent talent emerged once she received proper training.\"\n\nMemory tip: LATENT = lying HIDDEN (latere), waiting to emerge.",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "vocab-bonus-b39448f6-2c06-4199-8099-015c9caff4f1",
+      "linkedTossupId": "vocab-tossup-e5c8c300-d096-46a2-8cfa-4fd330b95629",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "StateOfBeing",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of state of being.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"in a state or period of inactivity or dormancy\".",
+          "answer": "quiescent",
+          "acceptableAnswers": [
+            "quiescent",
+            "QUIESCENT"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"dormant\", means \"existing but not yet developed or manifest; hidden or concealed\".",
+          "answer": "latent",
+          "acceptableAnswers": [
+            "latent",
+            "LATENT"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The plan was still [BLANK], lacking specific details.\"",
+          "answer": "inchoate",
+          "acceptableAnswers": [
+            "inchoate",
+            "INCHOATE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-613daf2e-2102-4ddc-b3a4-e5e144df0906",
+      "linkedTossupId": "vocab-tossup-dc0ea0b8-3b8c-4bd1-81d0-4b5f8023036f",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "TimeRelated",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of time related.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"lasting for a very short time; transitory\".",
+          "answer": "ephemeral",
+          "acceptableAnswers": [
+            "ephemeral",
+            "EPHEMERAL"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"enduring\", means \"lasting for an indefinitely long time; enduring or continually recurring\".",
+          "answer": "perennial",
+          "acceptableAnswers": [
+            "perennial",
+            "PERENNIAL"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The [BLANK] technology industry was just beginning to show its potential.\"",
+          "answer": "nascent",
+          "acceptableAnswers": [
+            "nascent",
+            "NASCENT"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-84bb7a2d-1460-4da2-8e24-79ac255bb314",
+      "linkedTossupId": "vocab-tossup-fa246aab-bf43-4e69-8739-ba89354fd521",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "QualityDescriptors",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of quality descriptors.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"representing the most perfect or typical example of a quality or class\".",
+          "answer": "quintessential",
+          "acceptableAnswers": [
+            "quintessential",
+            "QUINTESSENTIAL"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"omnipresent\", means \"present, appearing, or found everywhere\".",
+          "answer": "ubiquitous",
+          "acceptableAnswers": [
+            "ubiquitous",
+            "UBIQUITOUS"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"She felt an [BLANK] joy upon seeing her newborn child.\"",
+          "answer": "ineffable",
+          "acceptableAnswers": [
+            "ineffable",
+            "INEFFABLE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-428bb268-a842-477a-890f-feb2433c770e",
+      "linkedTossupId": "vocab-tossup-dbaeac98-2b7a-44b9-8c2b-9751bbbf8c71",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "TimeRelated",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of time related.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"lasting for an indefinitely long time; enduring or continually recurring\".",
+          "answer": "perennial",
+          "acceptableAnswers": [
+            "perennial",
+            "PERENNIAL"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"emerging\", means \"just beginning to develop; not yet fully formed\".",
+          "answer": "nascent",
+          "acceptableAnswers": [
+            "nascent",
+            "NASCENT"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The wristwatch in the medieval film was an obvious [BLANK].\"",
+          "answer": "anachronism",
+          "acceptableAnswers": [
+            "anachronism",
+            "ANACHRONISM"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-e33ca2ad-6711-4e4c-8b9d-8c5daffe144c",
+      "linkedTossupId": "vocab-tossup-5ca1e981-63fb-4662-9aba-f29a80039bd8",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "StateOfBeing",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of state of being.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"in a state or period of inactivity or dormancy\".",
+          "answer": "quiescent",
+          "acceptableAnswers": [
+            "quiescent",
+            "QUIESCENT"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"transitional\", means \"occupying a position at, or on both sides of, a boundary or threshold\".",
+          "answer": "liminal",
+          "acceptableAnswers": [
+            "liminal",
+            "LIMINAL"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The plan was still [BLANK], lacking specific details.\"",
+          "answer": "inchoate",
+          "acceptableAnswers": [
+            "inchoate",
+            "INCHOATE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-01-31T19:15:21.417Z",
+    "wordCount": 5,
+    "categoryBreakdown": {
+      "HumanBehavior": 0,
+      "EmotionsFeelings": 0,
+      "MedicalScientific": 0,
+      "LiteraryArtistic": 0,
+      "AbstractConcepts": 5,
+      "ActionsVerbs": 0
+    },
+    "difficultyBreakdown": {
+      "middle_school": 0,
+      "high_school": 5,
+      "college": 0,
+      "open": 0
+    }
+  }
+}

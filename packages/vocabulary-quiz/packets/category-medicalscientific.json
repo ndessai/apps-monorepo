@@ -1,0 +1,672 @@
+{
+  "tossups": [
+    {
+      "id": "vocab-tossup-dfa1e74a-45d6-4284-b06b-0690f4e61e8e",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "Diseases",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-pathogen",
+        "word": "pathogen",
+        "pronunciation": "/ˈpæθədʒən/",
+        "partOfSpeech": "noun",
+        "definition": "a microorganism that can cause disease",
+        "category": "MedicalScientific",
+        "subcategory": "Diseases",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Greek",
+          "roots": [
+            {
+              "id": "grk-pathos",
+              "root": "pathos",
+              "meaning": "suffering, disease",
+              "language": "Greek",
+              "variants": [
+                "path"
+              ],
+              "examples": [
+                "pathogen",
+                "pathology"
+              ]
+            },
+            {
+              "id": "grk-genes",
+              "root": "genes",
+              "meaning": "born, producing",
+              "language": "Greek",
+              "variants": [
+                "gen"
+              ],
+              "examples": [
+                "pathogen",
+                "oxygen",
+                "hydrogen"
+              ]
+            }
+          ],
+          "narrative": "From Greek pathos (disease) + genes (producing)."
+        },
+        "exampleSentences": [
+          "Bacteria and viruses are common pathogens.",
+          "The water was contaminated with dangerous pathogens."
+        ],
+        "synonyms": [
+          "germ",
+          "microbe",
+          "bacterium",
+          "virus"
+        ],
+        "relatedWords": [
+          "pathogenic",
+          "pathology"
+        ],
+        "mnemonic": "PATHO-GEN = DISEASE (patho) PRODUCER (gen)",
+        "acceptableAnswers": [
+          "pathogen"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"pathogenic\" and \"pathology\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"virus\", this noun describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in clinical or pathological discussions",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"a microorganism that can cause disease\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"pathogenic\" and \"pathology\". Sometimes described as \"virus\", this noun describes a particular quality. Often used in clinical or pathological discussions For ten points, name this noun meaning \"a microorganism that can cause disease\".",
+      "powerMarkPosition": 93,
+      "answer": "pathogen",
+      "acceptableAnswers": [
+        "pathogen"
+      ],
+      "explanation": "PATHOGEN (/ˈpæθədʒən/)\n\nDefinition: a microorganism that can cause disease\n\nEtymology: From Greek pathos (disease) + genes (producing).\n\nExample: \"Bacteria and viruses are common pathogens.\"\n\nMemory tip: PATHO-GEN = DISEASE (patho) PRODUCER (gen)",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-503f7898-65e2-443b-845b-535316569841",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "Diseases",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-endemic",
+        "word": "endemic",
+        "pronunciation": "/enˈdemɪk/",
+        "partOfSpeech": "adjective",
+        "definition": "regularly found among particular people or in a certain area; native",
+        "category": "MedicalScientific",
+        "subcategory": "Diseases",
+        "difficulty": "college",
+        "etymology": {
+          "language": "Greek",
+          "roots": [
+            {
+              "id": "grk-demos",
+              "root": "demos",
+              "meaning": "people",
+              "language": "Greek",
+              "examples": [
+                "endemic",
+                "epidemic",
+                "pandemic"
+              ]
+            }
+          ],
+          "prefix": {
+            "id": "pre-en",
+            "prefix": "en-",
+            "meaning": "in",
+            "language": "Greek",
+            "examples": [
+              "endemic",
+              "energy"
+            ]
+          },
+          "narrative": "From Greek endemos (native), from en- (in) + demos (people)."
+        },
+        "exampleSentences": [
+          "Malaria is endemic to tropical regions.",
+          "Corruption has become endemic in that government."
+        ],
+        "synonyms": [
+          "native",
+          "indigenous",
+          "prevalent",
+          "widespread"
+        ],
+        "antonyms": [
+          "foreign",
+          "exotic",
+          "introduced"
+        ],
+        "relatedWords": [
+          "epidemic",
+          "pandemic"
+        ],
+        "mnemonic": "EN-demic = disease IN (en) the PEOPLE (demos) = always present there",
+        "acceptableAnswers": [
+          "endemic"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"epidemic\" and \"pandemic\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"widespread\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in clinical or pathological discussions",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"regularly found among particular people or in a certain area; native\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"epidemic\" and \"pandemic\". Sometimes described as \"widespread\", this adjective describes a particular quality. Often used in clinical or pathological discussions For ten points, name this adjective meaning \"regularly found among particular people or in a certain area; native\".",
+      "powerMarkPosition": 107,
+      "answer": "endemic",
+      "acceptableAnswers": [
+        "endemic"
+      ],
+      "explanation": "ENDEMIC (/enˈdemɪk/)\n\nDefinition: regularly found among particular people or in a certain area; native\n\nEtymology: From Greek endemos (native), from en- (in) + demos (people).\n\nExample: \"Malaria is endemic to tropical regions.\"\n\nMemory tip: EN-demic = disease IN (en) the PEOPLE (demos) = always present there",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-676bd3dd-736b-40b5-83e4-45ca931875cb",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "ScientificTerms",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-inductive",
+        "word": "inductive",
+        "pronunciation": "/ɪnˈdʌktɪv/",
+        "partOfSpeech": "adjective",
+        "definition": "characterized by reasoning from specific observations to broader generalizations",
+        "category": "MedicalScientific",
+        "subcategory": "ScientificTerms",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-ducere",
+              "root": "ducere",
+              "meaning": "to lead",
+              "language": "Latin",
+              "variants": [
+                "duc",
+                "duct"
+              ],
+              "examples": [
+                "inductive",
+                "deductive",
+                "conduct",
+                "produce"
+              ]
+            }
+          ],
+          "prefix": {
+            "id": "pre-in",
+            "prefix": "in-",
+            "meaning": "into",
+            "language": "Latin",
+            "examples": [
+              "inductive",
+              "introduce"
+            ]
+          },
+          "narrative": "From Latin inductivus, from inducere (to lead in), from in- (into) + ducere (to lead)."
+        },
+        "exampleSentences": [
+          "Inductive reasoning moves from specific cases to general principles.",
+          "Scientists use inductive methods to form hypotheses."
+        ],
+        "synonyms": [
+          "inferential",
+          "empirical"
+        ],
+        "antonyms": [
+          "deductive"
+        ],
+        "relatedWords": [
+          "induction",
+          "deductive",
+          "conduct"
+        ],
+        "mnemonic": "IN-DUCTIVE = leading INTO (in) general conclusions from specifics",
+        "acceptableAnswers": [
+          "inductive"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"induction\" and \"deductive\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in scientific literature",
+          "difficultyRank": 4
+        },
+        {
+          "type": "common_synonym",
+          "text": "This adjective is synonymous with \"inferential\" and antonymous with \"deductive\".",
+          "difficultyRank": 5
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"characterized by reasoning from specific observations to broader generalizations\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"induction\" and \"deductive\". Often used in scientific literature This adjective is synonymous with \"inferential\" and antonymous with \"deductive\". For ten points, name this adjective meaning \"characterized by reasoning from specific observations to broader generalizations\".",
+      "powerMarkPosition": 106,
+      "answer": "inductive",
+      "acceptableAnswers": [
+        "inductive"
+      ],
+      "explanation": "INDUCTIVE (/ɪnˈdʌktɪv/)\n\nDefinition: characterized by reasoning from specific observations to broader generalizations\n\nEtymology: From Latin inductivus, from inducere (to lead in), from in- (into) + ducere (to lead).\n\nExample: \"Inductive reasoning moves from specific cases to general principles.\"\n\nMemory tip: IN-DUCTIVE = leading INTO (in) general conclusions from specifics",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-2880846c-05bf-4c00-9f22-416295445ea3",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "AnatomicalTerms",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-visceral",
+        "word": "visceral",
+        "pronunciation": "/ˈvɪsərəl/",
+        "partOfSpeech": "adjective",
+        "definition": "relating to the internal organs; deeply felt or instinctive",
+        "category": "MedicalScientific",
+        "subcategory": "AnatomicalTerms",
+        "difficulty": "college",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-viscera",
+              "root": "viscera",
+              "meaning": "internal organs",
+              "language": "Latin",
+              "examples": [
+                "visceral",
+                "eviscerate"
+              ]
+            }
+          ],
+          "narrative": "From Latin visceralis (of the internal organs), from viscera (internal organs)."
+        },
+        "exampleSentences": [
+          "She had a visceral reaction to the news.",
+          "The visceral organs include the heart, lungs, and intestines."
+        ],
+        "synonyms": [
+          "gut",
+          "instinctive",
+          "deep-seated",
+          "emotional"
+        ],
+        "antonyms": [
+          "cerebral",
+          "intellectual",
+          "rational"
+        ],
+        "relatedWords": [
+          "viscera",
+          "eviscerate"
+        ],
+        "mnemonic": "VISCERAL = from the VISCERA (guts) = gut feeling",
+        "acceptableAnswers": [
+          "visceral"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"viscera\" and \"eviscerate\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"emotional\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in anatomical or medical contexts",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"relating to the internal organs; deeply felt or instinctive\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"viscera\" and \"eviscerate\". Sometimes described as \"emotional\", this adjective describes a particular quality. Often used in anatomical or medical contexts For ten points, name this adjective meaning \"relating to the internal organs; deeply felt or instinctive\".",
+      "powerMarkPosition": 102,
+      "answer": "visceral",
+      "acceptableAnswers": [
+        "visceral"
+      ],
+      "explanation": "VISCERAL (/ˈvɪsərəl/)\n\nDefinition: relating to the internal organs; deeply felt or instinctive\n\nEtymology: From Latin visceralis (of the internal organs), from viscera (internal organs).\n\nExample: \"She had a visceral reaction to the news.\"\n\nMemory tip: VISCERAL = from the VISCERA (guts) = gut feeling",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-9a8d371d-882f-46db-b3a9-492bb65cf599",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "MedicalPractitioners",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-podiatrist",
+        "word": "podiatrist",
+        "pronunciation": "/pəˈdaɪətrɪst/",
+        "partOfSpeech": "noun",
+        "definition": "a medical specialist who treats disorders of the feet",
+        "category": "MedicalScientific",
+        "subcategory": "MedicalPractitioners",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Greek",
+          "roots": [
+            {
+              "id": "grk-pous",
+              "root": "pous",
+              "meaning": "foot",
+              "language": "Greek",
+              "variants": [
+                "pod",
+                "ped"
+              ],
+              "examples": [
+                "podiatrist",
+                "podium",
+                "tripod"
+              ]
+            },
+            {
+              "id": "grk-iatros",
+              "root": "iatros",
+              "meaning": "physician",
+              "language": "Greek",
+              "variants": [
+                "iatr"
+              ],
+              "examples": [
+                "podiatrist",
+                "psychiatrist"
+              ]
+            }
+          ],
+          "narrative": "From Greek pous, podos (foot) + iatros (physician)."
+        },
+        "exampleSentences": [
+          "The podiatrist treated her bunions.",
+          "Diabetics should see a podiatrist regularly."
+        ],
+        "synonyms": [
+          "foot doctor",
+          "chiropodist"
+        ],
+        "relatedWords": [
+          "podiatry",
+          "podium",
+          "tripod"
+        ],
+        "mnemonic": "POD-iatrist = foot (pod) doctor - think of PODium where you stand",
+        "acceptableAnswers": [
+          "podiatrist"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"podiatry\" and \"podium\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in medical and healthcare contexts",
+          "difficultyRank": 4
+        },
+        {
+          "type": "common_synonym",
+          "text": "This noun is synonymous with \"foot doctor\".",
+          "difficultyRank": 5
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"a medical specialist who treats disorders of the feet\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"podiatry\" and \"podium\". Often used in medical and healthcare contexts This noun is synonymous with \"foot doctor\". For ten points, name this noun meaning \"a medical specialist who treats disorders of the feet\".",
+      "powerMarkPosition": 84,
+      "answer": "podiatrist",
+      "acceptableAnswers": [
+        "podiatrist"
+      ],
+      "explanation": "PODIATRIST (/pəˈdaɪətrɪst/)\n\nDefinition: a medical specialist who treats disorders of the feet\n\nEtymology: From Greek pous, podos (foot) + iatros (physician).\n\nExample: \"The podiatrist treated her bunions.\"\n\nMemory tip: POD-iatrist = foot (pod) doctor - think of PODium where you stand",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "vocab-bonus-741db02a-7cde-4023-a6a5-3a67c33357c3",
+      "linkedTossupId": "vocab-tossup-dfa1e74a-45d6-4284-b06b-0690f4e61e8e",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "Diseases",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, answer these questions about words derived from the Greek root \"pathos\" meaning \"suffering, disease\".",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"a medical doctor who diagnoses diseases by examining tissues, cells, and body fluids\".",
+          "answer": "pathologist",
+          "acceptableAnswers": [
+            "pathologist"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"of unknown cause\", means \"arising from an unknown cause (of a disease)\".",
+          "answer": "idiopathic",
+          "acceptableAnswers": [
+            "idiopathic"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The scene was full of [BLANK].\"",
+          "answer": "pathos",
+          "acceptableAnswers": [
+            "pathos"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "etymology",
+      "etymologyFocus": {
+        "root": "pathos",
+        "meaning": "suffering, disease",
+        "language": "Greek"
+      },
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-b632e62d-9a0a-4da9-8805-163b12135ed2",
+      "linkedTossupId": "vocab-tossup-676bd3dd-736b-40b5-83e4-45ca931875cb",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "ScientificTerms",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of scientific terms.",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"a proposed explanation for a phenomenon, made as a starting point for investigation\".",
+          "answer": "hypothesis",
+          "acceptableAnswers": [
+            "hypothesis"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"observational\", means \"based on observation or experience rather than theory or logic\".",
+          "answer": "empirical",
+          "acceptableAnswers": [
+            "empirical"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The discovery caused a [BLANK] shift in physics.\"",
+          "answer": "paradigm",
+          "acceptableAnswers": [
+            "paradigm"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-7a99e107-25cf-4a5b-ae44-f3cc9c1b5dd0",
+      "linkedTossupId": "vocab-tossup-2880846c-05bf-4c00-9f22-416295445ea3",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "AnatomicalTerms",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of anatomical terms.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"relating to the heart\".",
+          "answer": "cardiac",
+          "acceptableAnswers": [
+            "cardiac"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"lung-related\", means \"relating to the lungs\".",
+          "answer": "pulmonary",
+          "acceptableAnswers": [
+            "pulmonary"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"[BLANK] failure requires dialysis treatment.\"",
+          "answer": "renal",
+          "acceptableAnswers": [
+            "renal"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-08b1f6d1-8fdd-4da5-8f4c-bd5e005875a8",
+      "linkedTossupId": "vocab-tossup-9a8d371d-882f-46db-b3a9-492bb65cf599",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "MedicalPractitioners",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of medical practitioners.",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"a medical doctor who specializes in the care of infants, children, and adolescents\".",
+          "answer": "pediatrician",
+          "acceptableAnswers": [
+            "pediatrician"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This noun, synonymous with \"skin specialist\", means \"a medical doctor who specializes in conditions of the skin\".",
+          "answer": "dermatologist",
+          "acceptableAnswers": [
+            "dermatologist"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The [BLANK] performed cataract surgery.\"",
+          "answer": "ophthalmologist",
+          "acceptableAnswers": [
+            "ophthalmologist"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-01-31T19:15:21.415Z",
+    "wordCount": 5,
+    "categoryBreakdown": {
+      "HumanBehavior": 0,
+      "EmotionsFeelings": 0,
+      "MedicalScientific": 5,
+      "LiteraryArtistic": 0,
+      "AbstractConcepts": 0,
+      "ActionsVerbs": 0
+    },
+    "difficultyBreakdown": {
+      "middle_school": 0,
+      "high_school": 5,
+      "college": 0,
+      "open": 0
+    }
+  }
+}

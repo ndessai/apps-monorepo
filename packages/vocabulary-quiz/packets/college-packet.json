@@ -1,0 +1,1327 @@
+{
+  "tossups": [
+    {
+      "id": "vocab-tossup-18dbe62e-53dd-44c3-b8d9-264d0c077d6f",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "QualityDescriptors",
+      "difficulty": "college",
+      "targetWord": {
+        "id": "vocab-anomaly",
+        "word": "anomaly",
+        "pronunciation": "/əˈnɒməli/",
+        "partOfSpeech": "noun",
+        "definition": "something that deviates from what is standard, normal, or expected",
+        "category": "AbstractConcepts",
+        "subcategory": "QualityDescriptors",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Greek",
+          "roots": [
+            {
+              "id": "grk-anomalos",
+              "root": "anomalos",
+              "meaning": "uneven",
+              "language": "Greek",
+              "examples": [
+                "anomaly",
+                "anomalous"
+              ]
+            }
+          ],
+          "narrative": "From Greek anomalia (unevenness), from an- (not) + homalos (even)."
+        },
+        "exampleSentences": [
+          "The warm winter was a weather anomaly.",
+          "Scientists studied the anomaly in the data."
+        ],
+        "synonyms": [
+          "irregularity",
+          "deviation",
+          "aberration",
+          "oddity"
+        ],
+        "antonyms": [
+          "norm",
+          "regularity",
+          "standard"
+        ],
+        "relatedWords": [
+          "anomalous",
+          "anomalously"
+        ],
+        "mnemonic": "AN-OMAL-y = NOT (an-) EVEN (homalos), something irregular",
+        "acceptableAnswers": [
+          "anomaly"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "etymology",
+          "text": "Derived from the Greek \"anomalos\" meaning \"uneven\".",
+          "difficultyRank": 1
+        },
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"anomalous\" and \"anomalously\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"oddity\", this noun describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe essential qualities",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"something that deviates from what is standard, normal, or expected\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Derived from the Greek \"anomalos\" meaning \"uneven\". This word shares its root with \"anomalous\" and \"anomalously\". Sometimes described as \"oddity\", this noun describes a particular quality. Often used to describe essential qualities For ten points, name this noun meaning \"something that deviates from what is standard, normal, or expected\".",
+      "powerMarkPosition": 118,
+      "answer": "anomaly",
+      "acceptableAnswers": [
+        "anomaly"
+      ],
+      "explanation": "ANOMALY (/əˈnɒməli/)\n\nDefinition: something that deviates from what is standard, normal, or expected\n\nEtymology: From Greek anomalia (unevenness), from an- (not) + homalos (even).\n\nExample: \"The warm winter was a weather anomaly.\"\n\nMemory tip: AN-OMAL-y = NOT (an-) EVEN (homalos), something irregular",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-39656fa6-36b9-4602-b897-a87048a7fcc7",
+      "category": "Vocabulary",
+      "subcategory": "EmotionsFeelings",
+      "detailedCategory": "EmotionalStates",
+      "difficulty": "college",
+      "targetWord": {
+        "id": "vocab-equanimity",
+        "word": "equanimity",
+        "pronunciation": "/ˌekwəˈnɪmɪti/",
+        "partOfSpeech": "noun",
+        "definition": "mental calmness and composure, especially in difficult situations",
+        "category": "EmotionsFeelings",
+        "subcategory": "EmotionalStates",
+        "difficulty": "college",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-aequus",
+              "root": "aequus",
+              "meaning": "equal, even",
+              "language": "Latin",
+              "examples": [
+                "equanimity",
+                "equal",
+                "equate"
+              ]
+            },
+            {
+              "id": "lat-anima",
+              "root": "anima",
+              "meaning": "mind, soul",
+              "language": "Latin",
+              "variants": [
+                "anim"
+              ],
+              "examples": [
+                "equanimity",
+                "animosity",
+                "magnanimous"
+              ]
+            }
+          ],
+          "narrative": "From Latin aequanimitas (evenness of mind), from aequus (equal) + animus (mind)."
+        },
+        "exampleSentences": [
+          "She faced the crisis with remarkable equanimity.",
+          "His equanimity in the face of criticism was admirable."
+        ],
+        "synonyms": [
+          "composure",
+          "calmness",
+          "serenity",
+          "poise",
+          "self-possession"
+        ],
+        "antonyms": [
+          "agitation",
+          "anxiety",
+          "distress",
+          "perturbation"
+        ],
+        "relatedWords": [
+          "equal",
+          "magnanimous",
+          "pusillanimous"
+        ],
+        "mnemonic": "EQUA-NIMITY = EQUAL (equa) MIND (nim) = even-minded, calm",
+        "acceptableAnswers": [
+          "equanimity"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "etymology",
+          "text": "Derived from the Latin \"aequus\" meaning \"equal, even\".",
+          "difficultyRank": 1
+        },
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"equal\" and \"magnanimous\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"self-possession\", this noun describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe general emotional conditions",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"mental calmness and composure, especially in difficult situations\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Derived from the Latin \"aequus\" meaning \"equal, even\". This word shares its root with \"equal\" and \"magnanimous\". Sometimes described as \"self-possession\", this noun describes a particular quality. Often used to describe general emotional conditions For ten points, name this noun meaning \"mental calmness and composure, especially in difficult situations\".",
+      "powerMarkPosition": 124,
+      "answer": "equanimity",
+      "acceptableAnswers": [
+        "equanimity"
+      ],
+      "explanation": "EQUANIMITY (/ˌekwəˈnɪmɪti/)\n\nDefinition: mental calmness and composure, especially in difficult situations\n\nEtymology: From Latin aequanimitas (evenness of mind), from aequus (equal) + animus (mind).\n\nExample: \"She faced the crisis with remarkable equanimity.\"\n\nMemory tip: EQUA-NIMITY = EQUAL (equa) MIND (nim) = even-minded, calm",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-3b535af5-66bd-4f38-9f16-2c43aea2242f",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "MedicalPractitioners",
+      "difficulty": "college",
+      "targetWord": {
+        "id": "vocab-cardiologist",
+        "word": "cardiologist",
+        "pronunciation": "/ˌkɑːdiˈɒlədʒɪst/",
+        "partOfSpeech": "noun",
+        "definition": "a medical doctor who specializes in diseases of the heart",
+        "category": "MedicalScientific",
+        "subcategory": "MedicalPractitioners",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Greek",
+          "roots": [
+            {
+              "id": "grk-kardia",
+              "root": "kardia",
+              "meaning": "heart",
+              "language": "Greek",
+              "variants": [
+                "cardi"
+              ],
+              "examples": [
+                "cardiologist",
+                "cardiac",
+                "cardiology"
+              ]
+            },
+            {
+              "id": "grk-logos",
+              "root": "logos",
+              "meaning": "study",
+              "language": "Greek",
+              "variants": [
+                "log",
+                "logy"
+              ],
+              "examples": [
+                "cardiology",
+                "biology"
+              ]
+            }
+          ],
+          "narrative": "From Greek kardia (heart) + logos (study)."
+        },
+        "exampleSentences": [
+          "The cardiologist ordered an echocardiogram.",
+          "After the heart attack, he was referred to a cardiologist."
+        ],
+        "synonyms": [
+          "heart specialist",
+          "heart doctor"
+        ],
+        "relatedWords": [
+          "cardiology",
+          "cardiac",
+          "cardiovascular"
+        ],
+        "mnemonic": "CARDIO-logist = specialist in CARDIO (heart)",
+        "acceptableAnswers": [
+          "cardiologist"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "etymology",
+          "text": "Derived from the Greek \"kardia\" meaning \"heart\".",
+          "difficultyRank": 1
+        },
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"cardiology\" and \"cardiac\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in medical and healthcare contexts",
+          "difficultyRank": 4
+        },
+        {
+          "type": "common_synonym",
+          "text": "This noun is synonymous with \"heart specialist\".",
+          "difficultyRank": 5
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"a medical doctor who specializes in diseases of the heart\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Derived from the Greek \"kardia\" meaning \"heart\". This word shares its root with \"cardiology\" and \"cardiac\". Often used in medical and healthcare contexts This noun is synonymous with \"heart specialist\". For ten points, name this noun meaning \"a medical doctor who specializes in diseases of the heart\".",
+      "powerMarkPosition": 105,
+      "answer": "cardiologist",
+      "acceptableAnswers": [
+        "cardiologist"
+      ],
+      "explanation": "CARDIOLOGIST (/ˌkɑːdiˈɒlədʒɪst/)\n\nDefinition: a medical doctor who specializes in diseases of the heart\n\nEtymology: From Greek kardia (heart) + logos (study).\n\nExample: \"The cardiologist ordered an echocardiogram.\"\n\nMemory tip: CARDIO-logist = specialist in CARDIO (heart)",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-67cb4085-cf15-4615-ae29-f5d5766c29ee",
+      "category": "Vocabulary",
+      "subcategory": "EmotionsFeelings",
+      "detailedCategory": "Moods",
+      "difficulty": "college",
+      "targetWord": {
+        "id": "vocab-morose",
+        "word": "morose",
+        "pronunciation": "/məˈroʊs/",
+        "partOfSpeech": "adjective",
+        "definition": "sullen and ill-tempered; gloomy",
+        "category": "EmotionsFeelings",
+        "subcategory": "Moods",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-morosus",
+              "root": "morosus",
+              "meaning": "peevish",
+              "language": "Latin",
+              "examples": [
+                "morose"
+              ]
+            }
+          ],
+          "narrative": "From Latin morosus (peevish, fastidious), from mos (manner, custom)."
+        },
+        "exampleSentences": [
+          "He became morose after hearing the bad news.",
+          "The morose teenager refused to talk to anyone."
+        ],
+        "synonyms": [
+          "sullen",
+          "gloomy",
+          "sulky",
+          "glum",
+          "melancholic"
+        ],
+        "antonyms": [
+          "cheerful",
+          "happy",
+          "sunny",
+          "jovial"
+        ],
+        "relatedWords": [
+          "moroseness"
+        ],
+        "mnemonic": "MOROSE sounds like \"MORE SAD\" = gloomy",
+        "acceptableAnswers": [
+          "morose"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "etymology",
+          "text": "Derived from the Latin \"morosus\" meaning \"peevish\".",
+          "difficultyRank": 1
+        },
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"moroseness\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"melancholic\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe extended emotional states",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"sullen and ill-tempered; gloomy\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Derived from the Latin \"morosus\" meaning \"peevish\". This word shares its root with \"moroseness\". Sometimes described as \"melancholic\", this adjective describes a particular quality. Often used to describe extended emotional states For ten points, name this adjective meaning \"sullen and ill-tempered; gloomy\".",
+      "powerMarkPosition": 108,
+      "answer": "morose",
+      "acceptableAnswers": [
+        "morose"
+      ],
+      "explanation": "MOROSE (/məˈroʊs/)\n\nDefinition: sullen and ill-tempered; gloomy\n\nEtymology: From Latin morosus (peevish, fastidious), from mos (manner, custom).\n\nExample: \"He became morose after hearing the bad news.\"\n\nMemory tip: MOROSE sounds like \"MORE SAD\" = gloomy",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-082083d4-eb67-41a6-8314-e41ffa18cf3b",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "Movement",
+      "difficulty": "college",
+      "targetWord": {
+        "id": "vocab-traverse",
+        "word": "traverse",
+        "pronunciation": "/trəˈvɜːrs/",
+        "partOfSpeech": "verb",
+        "definition": "to travel across or through",
+        "category": "ActionsVerbs",
+        "subcategory": "Movement",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-transversus",
+              "root": "transversus",
+              "meaning": "turned across",
+              "language": "Latin",
+              "examples": [
+                "traverse",
+                "transverse"
+              ]
+            }
+          ],
+          "narrative": "From Latin transversare (to cross), from trans- (across) + vertere (to turn)."
+        },
+        "exampleSentences": [
+          "They traversed the mountain range on foot.",
+          "The highway traverses the entire state."
+        ],
+        "synonyms": [
+          "cross",
+          "travel across",
+          "pass through",
+          "span"
+        ],
+        "relatedWords": [
+          "traversal",
+          "transverse"
+        ],
+        "mnemonic": "TRAV-ERSE = turn (vertere) ACROSS (trans)",
+        "acceptableAnswers": [
+          "traverse"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "etymology",
+          "text": "Derived from the Latin \"transversus\" meaning \"turned across\".",
+          "difficultyRank": 1
+        },
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"traversal\" and \"transverse\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"span\", this verb describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe physical actions or motion",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this verb meaning \"to travel across or through\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Derived from the Latin \"transversus\" meaning \"turned across\". This word shares its root with \"traversal\" and \"transverse\". Sometimes described as \"span\", this verb describes a particular quality. Often used to describe physical actions or motion For ten points, name this verb meaning \"to travel across or through\".",
+      "powerMarkPosition": 110,
+      "answer": "traverse",
+      "acceptableAnswers": [
+        "traverse"
+      ],
+      "explanation": "TRAVERSE (/trəˈvɜːrs/)\n\nDefinition: to travel across or through\n\nEtymology: From Latin transversare (to cross), from trans- (across) + vertere (to turn).\n\nExample: \"They traversed the mountain range on foot.\"\n\nMemory tip: TRAV-ERSE = turn (vertere) ACROSS (trans)",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-28135cb3-439b-417f-842c-c7c4236f0f67",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "PersonalityTraits",
+      "difficulty": "college",
+      "targetWord": {
+        "id": "vocab-verbose",
+        "word": "verbose",
+        "pronunciation": "/vɜːrˈboʊs/",
+        "partOfSpeech": "adjective",
+        "definition": "using or expressed in more words than are needed",
+        "category": "HumanBehavior",
+        "subcategory": "PersonalityTraits",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-verbum",
+              "root": "verbum",
+              "meaning": "word",
+              "language": "Latin",
+              "variants": [
+                "verb"
+              ],
+              "examples": [
+                "verbose",
+                "verbal",
+                "verbatim"
+              ]
+            }
+          ],
+          "narrative": "From Latin verbosus (full of words), from verbum (word)."
+        },
+        "exampleSentences": [
+          "His verbose writing style made the report twice as long as necessary.",
+          "The verbose speaker tested the audience's patience."
+        ],
+        "synonyms": [
+          "wordy",
+          "long-winded",
+          "loquacious",
+          "prolix",
+          "rambling"
+        ],
+        "antonyms": [
+          "concise",
+          "terse",
+          "laconic",
+          "succinct"
+        ],
+        "relatedWords": [
+          "verbosity",
+          "verbal",
+          "verbatim"
+        ],
+        "mnemonic": "VERB-ose = full of WORDS (verbum)",
+        "acceptableAnswers": [
+          "verbose"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "etymology",
+          "text": "Derived from the Latin \"verbum\" meaning \"word\".",
+          "difficultyRank": 1
+        },
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"verbosity\" and \"verbal\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"rambling\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe inherent character traits",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"using or expressed in more words than are needed\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Derived from the Latin \"verbum\" meaning \"word\". This word shares its root with \"verbosity\" and \"verbal\". Sometimes described as \"rambling\", this adjective describes a particular quality. Often used to describe inherent character traits For ten points, name this adjective meaning \"using or expressed in more words than are needed\".",
+      "powerMarkPosition": 115,
+      "answer": "verbose",
+      "acceptableAnswers": [
+        "verbose"
+      ],
+      "explanation": "VERBOSE (/vɜːrˈboʊs/)\n\nDefinition: using or expressed in more words than are needed\n\nEtymology: From Latin verbosus (full of words), from verbum (word).\n\nExample: \"His verbose writing style made the report twice as long as necessary.\"\n\nMemory tip: VERB-ose = full of WORDS (verbum)",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-f2169b0a-063d-4a52-a9d8-3ae8ddb99104",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "ScientificTerms",
+      "difficulty": "college",
+      "targetWord": {
+        "id": "vocab-qualitative",
+        "word": "qualitative",
+        "pronunciation": "/ˈkwɒlɪtətɪv/",
+        "partOfSpeech": "adjective",
+        "definition": "relating to, measuring, or described by quality or kind rather than quantity",
+        "category": "MedicalScientific",
+        "subcategory": "ScientificTerms",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-qualitas",
+              "root": "qualitas",
+              "meaning": "what kind",
+              "language": "Latin",
+              "variants": [
+                "qual"
+              ],
+              "examples": [
+                "qualitative",
+                "quality",
+                "qualify"
+              ]
+            }
+          ],
+          "narrative": "From Latin qualitas (what kind), from qualis (of what kind)."
+        },
+        "exampleSentences": [
+          "Qualitative research explores experiences and perceptions.",
+          "The study included both quantitative and qualitative data."
+        ],
+        "synonyms": [
+          "descriptive",
+          "non-numerical"
+        ],
+        "antonyms": [
+          "quantitative"
+        ],
+        "relatedWords": [
+          "quality",
+          "qualify"
+        ],
+        "mnemonic": "QUALI-tative = about QUALITY (characteristics, not numbers)",
+        "acceptableAnswers": [
+          "qualitative"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "etymology",
+          "text": "Derived from the Latin \"qualitas\" meaning \"what kind\".",
+          "difficultyRank": 1
+        },
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"quality\" and \"qualify\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in scientific literature",
+          "difficultyRank": 4
+        },
+        {
+          "type": "common_synonym",
+          "text": "This adjective is synonymous with \"descriptive\" and antonymous with \"quantitative\".",
+          "difficultyRank": 5
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"relating to, measuring, or described by quality or kind rather than quantity\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Derived from the Latin \"qualitas\" meaning \"what kind\". This word shares its root with \"quality\" and \"qualify\". Often used in scientific literature This adjective is synonymous with \"descriptive\" and antonymous with \"quantitative\". For ten points, name this adjective meaning \"relating to, measuring, or described by quality or kind rather than quantity\".",
+      "powerMarkPosition": 123,
+      "answer": "qualitative",
+      "acceptableAnswers": [
+        "qualitative"
+      ],
+      "explanation": "QUALITATIVE (/ˈkwɒlɪtətɪv/)\n\nDefinition: relating to, measuring, or described by quality or kind rather than quantity\n\nEtymology: From Latin qualitas (what kind), from qualis (of what kind).\n\nExample: \"Qualitative research explores experiences and perceptions.\"\n\nMemory tip: QUALI-tative = about QUALITY (characteristics, not numbers)",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-05ca8529-f11b-4a59-980a-212234bd5ea9",
+      "category": "Vocabulary",
+      "subcategory": "EmotionsFeelings",
+      "detailedCategory": "PositiveEmotions",
+      "difficulty": "college",
+      "targetWord": {
+        "id": "vocab-euphoria",
+        "word": "euphoria",
+        "pronunciation": "/juːˈfɔːriə/",
+        "partOfSpeech": "noun",
+        "definition": "a feeling of intense happiness and well-being",
+        "category": "EmotionsFeelings",
+        "subcategory": "PositiveEmotions",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Greek",
+          "roots": [
+            {
+              "id": "grk-eu",
+              "root": "eu",
+              "meaning": "good, well",
+              "language": "Greek",
+              "examples": [
+                "euphoria",
+                "eulogy",
+                "euphemism"
+              ]
+            }
+          ],
+          "narrative": "From Greek euphoria (power of bearing easily), from eu (well) + pherein (to bear)."
+        },
+        "exampleSentences": [
+          "The team was filled with euphoria after winning the championship.",
+          "The drug induced a state of euphoria that lasted several hours."
+        ],
+        "synonyms": [
+          "elation",
+          "ecstasy",
+          "bliss",
+          "rapture",
+          "exhilaration"
+        ],
+        "antonyms": [
+          "despair",
+          "misery",
+          "depression",
+          "dysphoria"
+        ],
+        "relatedWords": [
+          "euphoric",
+          "dysphoria"
+        ],
+        "mnemonic": "EU-PHORIA = EU (good) + PHORIA (carrying) = carrying a good feeling",
+        "acceptableAnswers": [
+          "euphoria"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "etymology",
+          "text": "Derived from the Greek \"eu\" meaning \"good, well\".",
+          "difficultyRank": 1
+        },
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"euphoric\" and \"dysphoria\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"exhilaration\", this noun describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe pleasant emotional states",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"a feeling of intense happiness and well-being\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Derived from the Greek \"eu\" meaning \"good, well\". This word shares its root with \"euphoric\" and \"dysphoria\". Sometimes described as \"exhilaration\", this noun describes a particular quality. Often used to describe pleasant emotional states For ten points, name this noun meaning \"a feeling of intense happiness and well-being\".",
+      "powerMarkPosition": 114,
+      "answer": "euphoria",
+      "acceptableAnswers": [
+        "euphoria"
+      ],
+      "explanation": "EUPHORIA (/juːˈfɔːriə/)\n\nDefinition: a feeling of intense happiness and well-being\n\nEtymology: From Greek euphoria (power of bearing easily), from eu (well) + pherein (to bear).\n\nExample: \"The team was filled with euphoria after winning the championship.\"\n\nMemory tip: EU-PHORIA = EU (good) + PHORIA (carrying) = carrying a good feeling",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-d6178ecd-0889-4a3d-9f5e-cb61475acb3b",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "CharacterFlaws",
+      "difficulty": "college",
+      "targetWord": {
+        "id": "vocab-querulous",
+        "word": "querulous",
+        "pronunciation": "/ˈkwerʊləs/",
+        "partOfSpeech": "adjective",
+        "definition": "complaining in a petulant or whining manner",
+        "category": "HumanBehavior",
+        "subcategory": "CharacterFlaws",
+        "difficulty": "college",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-queri",
+              "root": "queri",
+              "meaning": "to complain",
+              "language": "Latin",
+              "variants": [
+                "quer"
+              ],
+              "examples": [
+                "querulous",
+                "query"
+              ]
+            }
+          ],
+          "narrative": "From Latin querulus (complaining), from queri (to complain)."
+        },
+        "exampleSentences": [
+          "The querulous patient complained about everything.",
+          "His querulous tone annoyed his coworkers."
+        ],
+        "synonyms": [
+          "complaining",
+          "whining",
+          "petulant",
+          "peevish",
+          "grumbling"
+        ],
+        "antonyms": [
+          "content",
+          "uncomplaining",
+          "stoic"
+        ],
+        "relatedWords": [
+          "query",
+          "quarrel"
+        ],
+        "mnemonic": "QUER-ulous = constantly COMPLAINING (queri)",
+        "acceptableAnswers": [
+          "querulous"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "etymology",
+          "text": "Derived from the Latin \"queri\" meaning \"to complain\".",
+          "difficultyRank": 1
+        },
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"query\" and \"quarrel\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"grumbling\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe negative moral qualities",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"complaining in a petulant or whining manner\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Derived from the Latin \"queri\" meaning \"to complain\". This word shares its root with \"query\" and \"quarrel\". Sometimes described as \"grumbling\", this adjective describes a particular quality. Often used to describe negative moral qualities For ten points, name this adjective meaning \"complaining in a petulant or whining manner\".",
+      "powerMarkPosition": 115,
+      "answer": "querulous",
+      "acceptableAnswers": [
+        "querulous"
+      ],
+      "explanation": "QUERULOUS (/ˈkwerʊləs/)\n\nDefinition: complaining in a petulant or whining manner\n\nEtymology: From Latin querulus (complaining), from queri (to complain).\n\nExample: \"The querulous patient complained about everything.\"\n\nMemory tip: QUER-ulous = constantly COMPLAINING (queri)",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-30a276b1-4e63-4b2f-99e6-8f6f6022e345",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "QualityDescriptors",
+      "difficulty": "college",
+      "targetWord": {
+        "id": "vocab-tangible",
+        "word": "tangible",
+        "pronunciation": "/ˈtændʒɪbəl/",
+        "partOfSpeech": "adjective",
+        "definition": "perceptible by touch; clear and definite; real",
+        "category": "AbstractConcepts",
+        "subcategory": "QualityDescriptors",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "latin-tangere",
+              "root": "tangere",
+              "meaning": "to touch",
+              "language": "Latin",
+              "examples": [
+                "tangible",
+                "tangent",
+                "contact"
+              ]
+            }
+          ],
+          "suffix": {
+            "id": "suf-ible",
+            "suffix": "-ible",
+            "meaning": "capable of being",
+            "language": "Latin",
+            "partOfSpeechResult": "adjective",
+            "examples": [
+              "visible",
+              "tangible",
+              "possible"
+            ]
+          },
+          "narrative": "From Latin tangibilis, from tangere (to touch), meaning capable of being touched."
+        },
+        "exampleSentences": [
+          "The project produced tangible results within the first month.",
+          "She needed tangible evidence before making accusations."
+        ],
+        "synonyms": [
+          "concrete",
+          "palpable",
+          "material",
+          "real"
+        ],
+        "antonyms": [
+          "intangible",
+          "abstract",
+          "immaterial",
+          "ethereal"
+        ],
+        "relatedWords": [
+          "tangibility",
+          "tangibly",
+          "intangible"
+        ],
+        "mnemonic": "TANG-ible = capable of being TOUCHed (tangere).",
+        "acceptableAnswers": [
+          "tangible",
+          "TANGIBLE"
+        ],
+        "usageNotes": "Often contrasted with intangible to distinguish concrete from abstract.",
+        "source": "General vocabulary"
+      },
+      "clues": [
+        {
+          "type": "etymology",
+          "text": "Derived from the Latin \"tangere\" meaning \"to touch\", this word uses the suffix \"-ible\".",
+          "difficultyRank": 1
+        },
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"tangibility\" and \"tangibly\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"real\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe essential qualities. Often contrasted with intangible to distinguish concrete from abstract.",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"perceptible by touch; clear and definite; real\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "Derived from the Latin \"tangere\" meaning \"to touch\", this word uses the suffix \"-ible\". This word shares its root with \"tangibility\" and \"tangibly\". Sometimes described as \"real\", this adjective describes a particular quality. Often used to describe essential qualities. Often contrasted with intangible to distinguish concrete from abstract. For ten points, name this adjective meaning \"perceptible by touch; clear and definite; real\".",
+      "powerMarkPosition": 152,
+      "answer": "tangible",
+      "acceptableAnswers": [
+        "tangible",
+        "TANGIBLE"
+      ],
+      "explanation": "TANGIBLE (/ˈtændʒɪbəl/)\n\nDefinition: perceptible by touch; clear and definite; real\n\nEtymology: From Latin tangibilis, from tangere (to touch), meaning capable of being touched.\n\nExample: \"The project produced tangible results within the first month.\"\n\nMemory tip: TANG-ible = capable of being TOUCHed (tangere).",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "vocab-bonus-5eb167a3-4ad3-4a4a-bcba-247028bd8b67",
+      "linkedTossupId": "vocab-tossup-3b535af5-66bd-4f38-9f16-2c43aea2242f",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "MedicalPractitioners",
+      "difficulty": "college",
+      "leadin": "For 10 points each, name these vocabulary words from the category of medical practitioners.",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"a medical doctor who specializes in the care of infants, children, and adolescents\".",
+          "answer": "pediatrician",
+          "acceptableAnswers": [
+            "pediatrician"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This noun, synonymous with \"skin specialist\", means \"a medical doctor who specializes in conditions of the skin\".",
+          "answer": "dermatologist",
+          "acceptableAnswers": [
+            "dermatologist"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The [BLANK] performed cataract surgery.\"",
+          "answer": "ophthalmologist",
+          "acceptableAnswers": [
+            "ophthalmologist"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-568c0c2d-6801-40ab-ae85-0c4a9863a11d",
+      "linkedTossupId": "vocab-tossup-67cb4085-cf15-4615-ae29-f5d5766c29ee",
+      "category": "Vocabulary",
+      "subcategory": "EmotionsFeelings",
+      "detailedCategory": "Moods",
+      "difficulty": "college",
+      "leadin": "For 10 points each, name these vocabulary words from the category of moods.",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"a deep, pensive, and long-lasting sadness\".",
+          "answer": "melancholy",
+          "acceptableAnswers": [
+            "melancholy"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This noun, synonymous with \"exuberance\", means \"the quality of being cheerful and full of energy; exuberance\".",
+          "answer": "ebullience",
+          "acceptableAnswers": [
+            "ebullience"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The tropical heat induced a pleasant [BLANK].\"",
+          "answer": "languor",
+          "acceptableAnswers": [
+            "languor"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-f36959c1-55e7-402a-948b-7d659cff8314",
+      "linkedTossupId": "vocab-tossup-082083d4-eb67-41a6-8314-e41ffa18cf3b",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "Movement",
+      "difficulty": "college",
+      "leadin": "For 10 points each, name these vocabulary words from the category of movement.",
+      "parts": [
+        {
+          "text": "Name this verb meaning \"to follow a winding course; to wander aimlessly or casually\".",
+          "answer": "meander",
+          "acceptableAnswers": [
+            "meander",
+            "MEANDER"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This verb, synonymous with \"swing\", means \"to move or swing back and forth in a regular rhythm; to waver between opinions or courses of action\".",
+          "answer": "oscillate",
+          "acceptableAnswers": [
+            "oscillate",
+            "OSCILLATE"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"We [BLANK]d through the gardens, enjoying the spring flowers.\"",
+          "answer": "perambulate",
+          "acceptableAnswers": [
+            "perambulate",
+            "PERAMBULATE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-fd4da2d2-6b01-4e57-bd81-025596379f11",
+      "linkedTossupId": "vocab-tossup-28135cb3-439b-417f-842c-c7c4236f0f67",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "PersonalityTraits",
+      "difficulty": "college",
+      "leadin": "For 10 points each, name these vocabulary words from the category of personality traits.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"excessively talkative, especially on trivial matters\".",
+          "answer": "garrulous",
+          "acceptableAnswers": [
+            "garrulous"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"reticent\", means \"reserved or uncommunicative in speech; saying little\".",
+          "answer": "taciturn",
+          "acceptableAnswers": [
+            "taciturn"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The [BLANK] professor often ran over the allotted class time.\"",
+          "answer": "loquacious",
+          "acceptableAnswers": [
+            "loquacious"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-f5c43edc-4d7a-4f8f-a9b3-dd0e8ccc7cda",
+      "linkedTossupId": "vocab-tossup-f2169b0a-063d-4a52-a9d8-3ae8ddb99104",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "ScientificTerms",
+      "difficulty": "college",
+      "leadin": "For 10 points each, name these vocabulary words from the category of scientific terms.",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"a proposed explanation for a phenomenon, made as a starting point for investigation\".",
+          "answer": "hypothesis",
+          "acceptableAnswers": [
+            "hypothesis"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"observational\", means \"based on observation or experience rather than theory or logic\".",
+          "answer": "empirical",
+          "acceptableAnswers": [
+            "empirical"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The discovery caused a [BLANK] shift in physics.\"",
+          "answer": "paradigm",
+          "acceptableAnswers": [
+            "paradigm"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-9de5fedf-b569-43f5-b9a7-4399eaee8070",
+      "linkedTossupId": "vocab-tossup-05ca8529-f11b-4a59-980a-212234bd5ea9",
+      "category": "Vocabulary",
+      "subcategory": "EmotionsFeelings",
+      "detailedCategory": "PositiveEmotions",
+      "difficulty": "college",
+      "leadin": "For 10 points each, name these vocabulary words from the category of positive emotions.",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"great happiness and exhilaration\".",
+          "answer": "elation",
+          "acceptableAnswers": [
+            "elation"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This noun, synonymous with \"rejoicing\", means \"a feeling of great happiness and triumph\".",
+          "answer": "jubilation",
+          "acceptableAnswers": [
+            "jubilation"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The [BLANK] of skydiving is unlike anything else.\"",
+          "answer": "exhilaration",
+          "acceptableAnswers": [
+            "exhilaration"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-43cce188-214c-4f4e-980a-067a4ea780d0",
+      "linkedTossupId": "vocab-tossup-d6178ecd-0889-4a3d-9f5e-cb61475acb3b",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "CharacterFlaws",
+      "difficulty": "college",
+      "leadin": "For 10 points each, name these vocabulary words from the category of character flaws.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"deceitful and untrustworthy; deliberately treacherous\".",
+          "answer": "perfidious",
+          "acceptableAnswers": [
+            "perfidious"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"lying\", means \"not telling the truth; lying habitually\".",
+          "answer": "mendacious",
+          "acceptableAnswers": [
+            "mendacious"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"His [BLANK] response to the crisis disappointed his supporters.\"",
+          "answer": "pusillanimous",
+          "acceptableAnswers": [
+            "pusillanimous"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-d0b3e7ed-aa37-4a36-b54f-ad65a4b3080b",
+      "linkedTossupId": "vocab-tossup-30a276b1-4e63-4b2f-99e6-8f6f6022e345",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "QualityDescriptors",
+      "difficulty": "college",
+      "leadin": "For 10 points each, name these vocabulary words from the category of quality descriptors.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"representing the most perfect or typical example of a quality or class\".",
+          "answer": "quintessential",
+          "acceptableAnswers": [
+            "quintessential",
+            "QUINTESSENTIAL"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"omnipresent\", means \"present, appearing, or found everywhere\".",
+          "answer": "ubiquitous",
+          "acceptableAnswers": [
+            "ubiquitous",
+            "UBIQUITOUS"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"She felt an [BLANK] joy upon seeing her newborn child.\"",
+          "answer": "ineffable",
+          "acceptableAnswers": [
+            "ineffable",
+            "INEFFABLE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-01-31T19:15:21.411Z",
+    "wordCount": 10,
+    "categoryBreakdown": {
+      "HumanBehavior": 2,
+      "EmotionsFeelings": 3,
+      "MedicalScientific": 2,
+      "LiteraryArtistic": 0,
+      "AbstractConcepts": 2,
+      "ActionsVerbs": 1
+    },
+    "difficultyBreakdown": {
+      "middle_school": 0,
+      "high_school": 0,
+      "college": 10,
+      "open": 0
+    }
+  }
+}

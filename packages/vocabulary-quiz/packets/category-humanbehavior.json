@@ -1,0 +1,675 @@
+{
+  "tossups": [
+    {
+      "id": "vocab-tossup-28b9656f-0d65-448f-bc94-24b50d83b9b4",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "Virtues",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-magnanimous",
+        "word": "magnanimous",
+        "pronunciation": "/mæɡˈnænɪməs/",
+        "partOfSpeech": "adjective",
+        "definition": "very generous or forgiving, especially toward a rival or less powerful person",
+        "category": "HumanBehavior",
+        "subcategory": "Virtues",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-magnus",
+              "root": "magnus",
+              "meaning": "great",
+              "language": "Latin",
+              "examples": [
+                "magnanimous",
+                "magnificent",
+                "magnify"
+              ]
+            },
+            {
+              "id": "lat-animus2",
+              "root": "animus",
+              "meaning": "soul, spirit",
+              "language": "Latin",
+              "examples": [
+                "magnanimous",
+                "animate",
+                "unanimous"
+              ]
+            }
+          ],
+          "narrative": "From Latin magnanimis (great-souled), from magnus (great) + animus (soul)."
+        },
+        "exampleSentences": [
+          "The magnanimous victor showed mercy to the defeated.",
+          "It was magnanimous of her to forgive such a betrayal."
+        ],
+        "synonyms": [
+          "generous",
+          "noble",
+          "forgiving",
+          "charitable",
+          "benevolent"
+        ],
+        "antonyms": [
+          "petty",
+          "mean-spirited",
+          "vindictive",
+          "spiteful"
+        ],
+        "relatedWords": [
+          "magnanimity",
+          "magnificent"
+        ],
+        "mnemonic": "MAGNA-NIMOUS = having a GREAT (magnus) SOUL (animus)",
+        "acceptableAnswers": [
+          "magnanimous"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"magnanimity\" and \"magnificent\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"benevolent\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe positive moral qualities",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"very generous or forgiving, especially toward a rival or less powerful person\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"magnanimity\" and \"magnificent\". Sometimes described as \"benevolent\", this adjective describes a particular quality. Often used to describe positive moral qualities For ten points, name this adjective meaning \"very generous or forgiving, especially toward a rival or less powerful person\".",
+      "powerMarkPosition": 112,
+      "answer": "magnanimous",
+      "acceptableAnswers": [
+        "magnanimous"
+      ],
+      "explanation": "MAGNANIMOUS (/mæɡˈnænɪməs/)\n\nDefinition: very generous or forgiving, especially toward a rival or less powerful person\n\nEtymology: From Latin magnanimis (great-souled), from magnus (great) + animus (soul).\n\nExample: \"The magnanimous victor showed mercy to the defeated.\"\n\nMemory tip: MAGNA-NIMOUS = having a GREAT (magnus) SOUL (animus)",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-c270b296-1da4-4d57-9e9b-677b1b9496c2",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "CharacterFlaws",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-parsimonious",
+        "word": "parsimonious",
+        "pronunciation": "/ˌpɑːrsɪˈmoʊniəs/",
+        "partOfSpeech": "adjective",
+        "definition": "excessively unwilling to spend money or use resources; stingy",
+        "category": "HumanBehavior",
+        "subcategory": "CharacterFlaws",
+        "difficulty": "college",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-parcere",
+              "root": "parcere",
+              "meaning": "to spare",
+              "language": "Latin",
+              "examples": [
+                "parsimonious",
+                "parsimony"
+              ]
+            }
+          ],
+          "narrative": "From Latin parsimonia (frugality, thrift), from parcere (to spare, be sparing)."
+        },
+        "exampleSentences": [
+          "The parsimonious millionaire refused to tip.",
+          "His parsimonious habits extended to turning off all lights."
+        ],
+        "synonyms": [
+          "stingy",
+          "miserly",
+          "cheap",
+          "frugal",
+          "tight-fisted"
+        ],
+        "antonyms": [
+          "generous",
+          "lavish",
+          "munificent",
+          "prodigal"
+        ],
+        "relatedWords": [
+          "parsimony"
+        ],
+        "mnemonic": "PARSIM-onious = excessively SPARING (parcere) with money",
+        "acceptableAnswers": [
+          "parsimonious"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"parsimony\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"tight-fisted\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe negative moral qualities",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"excessively unwilling to spend money or use resources; stingy\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"parsimony\". Sometimes described as \"tight-fisted\", this adjective describes a particular quality. Often used to describe negative moral qualities For ten points, name this adjective meaning \"excessively unwilling to spend money or use resources; stingy\".",
+      "powerMarkPosition": 100,
+      "answer": "parsimonious",
+      "acceptableAnswers": [
+        "parsimonious"
+      ],
+      "explanation": "PARSIMONIOUS (/ˌpɑːrsɪˈmoʊniəs/)\n\nDefinition: excessively unwilling to spend money or use resources; stingy\n\nEtymology: From Latin parsimonia (frugality, thrift), from parcere (to spare, be sparing).\n\nExample: \"The parsimonious millionaire refused to tip.\"\n\nMemory tip: PARSIM-onious = excessively SPARING (parcere) with money",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-c4e3ca23-626d-4fab-9ccd-6e8c8988b0b0",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "Virtues",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-scrupulous",
+        "word": "scrupulous",
+        "pronunciation": "/ˈskruːpjʊləs/",
+        "partOfSpeech": "adjective",
+        "definition": "diligent and attentive; very careful about doing what is right",
+        "category": "HumanBehavior",
+        "subcategory": "Virtues",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-scrupulus",
+              "root": "scrupulus",
+              "meaning": "small sharp stone",
+              "language": "Latin",
+              "examples": [
+                "scrupulous",
+                "scruple"
+              ]
+            }
+          ],
+          "narrative": "From Latin scrupulosus (anxious, cautious), from scrupulus (small sharp stone). Like a pebble in the shoe causing discomfort."
+        },
+        "exampleSentences": [
+          "The scrupulous accountant checked every figure twice.",
+          "She was scrupulous about following ethical guidelines."
+        ],
+        "synonyms": [
+          "meticulous",
+          "careful",
+          "conscientious",
+          "thorough",
+          "painstaking"
+        ],
+        "antonyms": [
+          "careless",
+          "negligent",
+          "unscrupulous"
+        ],
+        "relatedWords": [
+          "scruple",
+          "unscrupulous"
+        ],
+        "mnemonic": "SCRUP-ulous = careful like a pebble (scrupulus) in your shoe makes you careful where you step",
+        "acceptableAnswers": [
+          "scrupulous"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"scruple\" and \"unscrupulous\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"painstaking\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe positive moral qualities",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"diligent and attentive; very careful about doing what is right\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"scruple\" and \"unscrupulous\". Sometimes described as \"painstaking\", this adjective describes a particular quality. Often used to describe positive moral qualities For ten points, name this adjective meaning \"diligent and attentive; very careful about doing what is right\".",
+      "powerMarkPosition": 106,
+      "answer": "scrupulous",
+      "acceptableAnswers": [
+        "scrupulous"
+      ],
+      "explanation": "SCRUPULOUS (/ˈskruːpjʊləs/)\n\nDefinition: diligent and attentive; very careful about doing what is right\n\nEtymology: From Latin scrupulosus (anxious, cautious), from scrupulus (small sharp stone). Like a pebble in the shoe causing discomfort.\n\nExample: \"The scrupulous accountant checked every figure twice.\"\n\nMemory tip: SCRUP-ulous = careful like a pebble (scrupulus) in your shoe makes you careful where you step",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-16d3274f-a8dd-4366-961b-57acf58a8ffe",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "CharacterFlaws",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-craven",
+        "word": "craven",
+        "pronunciation": "/ˈkreɪvən/",
+        "partOfSpeech": "adjective",
+        "definition": "contemptibly lacking in courage; cowardly",
+        "category": "HumanBehavior",
+        "subcategory": "CharacterFlaws",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Old French",
+          "roots": [
+            {
+              "id": "of-cravante",
+              "root": "cravante",
+              "meaning": "defeated",
+              "language": "Old French",
+              "examples": [
+                "craven"
+              ]
+            }
+          ],
+          "narrative": "From Middle English cravant, from Old French cravante (defeated), past participle of cravanter (to crush, defeat)."
+        },
+        "exampleSentences": [
+          "The craven soldier fled before the battle even began.",
+          "His craven surrender without a fight shamed his family."
+        ],
+        "synonyms": [
+          "cowardly",
+          "pusillanimous",
+          "timorous",
+          "faint-hearted",
+          "gutless"
+        ],
+        "antonyms": [
+          "brave",
+          "courageous",
+          "bold",
+          "valiant",
+          "heroic"
+        ],
+        "relatedWords": [
+          "cravenness"
+        ],
+        "mnemonic": "CRAVEN sounds like \"cave in\" - a craven person caves in under pressure",
+        "acceptableAnswers": [
+          "craven"
+        ],
+        "source": "Six Weeks to Words of Power"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"cravenness\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"gutless\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe negative moral qualities",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"contemptibly lacking in courage; cowardly\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"cravenness\". Sometimes described as \"gutless\", this adjective describes a particular quality. Often used to describe negative moral qualities For ten points, name this adjective meaning \"contemptibly lacking in courage; cowardly\".",
+      "powerMarkPosition": 91,
+      "answer": "craven",
+      "acceptableAnswers": [
+        "craven"
+      ],
+      "explanation": "CRAVEN (/ˈkreɪvən/)\n\nDefinition: contemptibly lacking in courage; cowardly\n\nEtymology: From Middle English cravant, from Old French cravante (defeated), past participle of cravanter (to crush, defeat).\n\nExample: \"The craven soldier fled before the battle even began.\"\n\nMemory tip: CRAVEN sounds like \"cave in\" - a craven person caves in under pressure",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-892e0c9f-2e77-4e9a-a66d-3a1e3ef827e0",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "IntellectualQualities",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-astute",
+        "word": "astute",
+        "pronunciation": "/əˈstjuːt/",
+        "partOfSpeech": "adjective",
+        "definition": "having or showing an ability to accurately assess situations and turn them to one's advantage",
+        "category": "HumanBehavior",
+        "subcategory": "IntellectualQualities",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-astutus",
+              "root": "astutus",
+              "meaning": "crafty",
+              "language": "Latin",
+              "examples": [
+                "astute"
+              ]
+            }
+          ],
+          "narrative": "From Latin astutus (crafty), from astus (craft, cunning)."
+        },
+        "exampleSentences": [
+          "The astute businessman recognized the opportunity before his competitors.",
+          "Her astute observations helped solve the mystery."
+        ],
+        "synonyms": [
+          "shrewd",
+          "sharp",
+          "clever",
+          "perceptive",
+          "canny"
+        ],
+        "antonyms": [
+          "naive",
+          "gullible",
+          "obtuse",
+          "foolish"
+        ],
+        "relatedWords": [
+          "astuteness"
+        ],
+        "acceptableAnswers": [
+          "astute"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"astuteness\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"canny\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in academic or intellectual contexts",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"having or showing an ability to accurately assess situations and turn them to one's advantage\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"astuteness\". Sometimes described as \"canny\", this adjective describes a particular quality. Often used in academic or intellectual contexts For ten points, name this adjective meaning \"having or showing an ability to accurately assess situations and turn them to one's advantage\".",
+      "powerMarkPosition": 109,
+      "answer": "astute",
+      "acceptableAnswers": [
+        "astute"
+      ],
+      "explanation": "ASTUTE (/əˈstjuːt/)\n\nDefinition: having or showing an ability to accurately assess situations and turn them to one's advantage\n\nEtymology: From Latin astutus (crafty), from astus (craft, cunning).\n\nExample: \"The astute businessman recognized the opportunity before his competitors.\"",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "vocab-bonus-79fdcbe2-c1e6-4621-8bee-5f0dd2021a99",
+      "linkedTossupId": "vocab-tossup-28b9656f-0d65-448f-bc94-24b50d83b9b4",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "Virtues",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of virtues.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"well-meaning and kindly; showing goodwill\".",
+          "answer": "benevolent",
+          "acceptableAnswers": [
+            "benevolent"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"selfless\", means \"showing a disinterested and selfless concern for the well-being of others\".",
+          "answer": "altruistic",
+          "acceptableAnswers": [
+            "altruistic"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The [BLANK] foundation supports education in underserved communities.\"",
+          "answer": "philanthropic",
+          "acceptableAnswers": [
+            "philanthropic"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-43059ec7-6cd5-4aa4-af4a-cca929fc21c7",
+      "linkedTossupId": "vocab-tossup-c270b296-1da4-4d57-9e9b-677b1b9496c2",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "CharacterFlaws",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of character flaws.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"deceitful and untrustworthy; deliberately treacherous\".",
+          "answer": "perfidious",
+          "acceptableAnswers": [
+            "perfidious"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"lying\", means \"not telling the truth; lying habitually\".",
+          "answer": "mendacious",
+          "acceptableAnswers": [
+            "mendacious"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"His [BLANK] response to the crisis disappointed his supporters.\"",
+          "answer": "pusillanimous",
+          "acceptableAnswers": [
+            "pusillanimous"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-c248eaab-c9f4-41fe-8ce0-fc9ebd617ca7",
+      "linkedTossupId": "vocab-tossup-c4e3ca23-626d-4fab-9ccd-6e8c8988b0b0",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "Virtues",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of virtues.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"generous or forgiving, especially toward a rival or less powerful person\".",
+          "answer": "magnanimous",
+          "acceptableAnswers": [
+            "magnanimous"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"kind\", means \"well-meaning and kindly; showing goodwill\".",
+          "answer": "benevolent",
+          "acceptableAnswers": [
+            "benevolent"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"His [BLANK] nature led him to volunteer at homeless shelters.\"",
+          "answer": "altruistic",
+          "acceptableAnswers": [
+            "altruistic"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-8c85db09-8d52-4648-9f72-12236368d827",
+      "linkedTossupId": "vocab-tossup-16d3274f-a8dd-4366-961b-57acf58a8ffe",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "CharacterFlaws",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of character flaws.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"deceitful and untrustworthy; deliberately treacherous\".",
+          "answer": "perfidious",
+          "acceptableAnswers": [
+            "perfidious"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"lying\", means \"not telling the truth; lying habitually\".",
+          "answer": "mendacious",
+          "acceptableAnswers": [
+            "mendacious"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"His [BLANK] response to the crisis disappointed his supporters.\"",
+          "answer": "pusillanimous",
+          "acceptableAnswers": [
+            "pusillanimous"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-fc1613e4-43b2-4428-85f8-56ee42f572a2",
+      "linkedTossupId": "vocab-tossup-892e0c9f-2e77-4e9a-a66d-3a1e3ef827e0",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "IntellectualQualities",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of intellectual qualities.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"having a ready insight into and understanding of things; shrewd\".",
+          "answer": "perspicacious",
+          "acceptableAnswers": [
+            "perspicacious"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"wise\", means \"having or showing keen mental discernment and good judgment; wise\".",
+          "answer": "sagacious",
+          "acceptableAnswers": [
+            "sagacious"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The [BLANK] professor could speak on any topic with authority.\"",
+          "answer": "erudite",
+          "acceptableAnswers": [
+            "erudite"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-01-31T19:15:21.413Z",
+    "wordCount": 5,
+    "categoryBreakdown": {
+      "HumanBehavior": 5,
+      "EmotionsFeelings": 0,
+      "MedicalScientific": 0,
+      "LiteraryArtistic": 0,
+      "AbstractConcepts": 0,
+      "ActionsVerbs": 0
+    },
+    "difficultyBreakdown": {
+      "middle_school": 0,
+      "high_school": 5,
+      "college": 0,
+      "open": 0
+    }
+  }
+}

@@ -1,0 +1,703 @@
+{
+  "tossups": [
+    {
+      "id": "vocab-tossup-310a7030-24ed-4dd5-8632-e4815feb951f",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "CriticalTerms",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-verbose",
+        "word": "verbose",
+        "pronunciation": "/vɜːrˈboʊs/",
+        "partOfSpeech": "adjective",
+        "definition": "using or expressed in more words than are needed",
+        "category": "LiteraryArtistic",
+        "subcategory": "CriticalTerms",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-verbum2",
+              "root": "verbum",
+              "meaning": "word",
+              "language": "Latin",
+              "variants": [
+                "verb"
+              ],
+              "examples": [
+                "verbose",
+                "verbal",
+                "verbatim"
+              ]
+            }
+          ],
+          "narrative": "From Latin verbosus (full of words), from verbum (word)."
+        },
+        "exampleSentences": [
+          "The verbose manuscript needed heavy editing.",
+          "Critics found the novel unnecessarily verbose."
+        ],
+        "synonyms": [
+          "wordy",
+          "long-winded",
+          "prolix",
+          "rambling"
+        ],
+        "antonyms": [
+          "concise",
+          "terse",
+          "laconic",
+          "succinct"
+        ],
+        "relatedWords": [
+          "verbosity",
+          "verbal",
+          "verbatim"
+        ],
+        "mnemonic": "VERB-ose = full of WORDS (verbum)",
+        "acceptableAnswers": [
+          "verbose"
+        ],
+        "source": "Literary criticism"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"verbosity\" and \"verbal\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"rambling\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in literary and cultural criticism",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"using or expressed in more words than are needed\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"verbosity\" and \"verbal\". Sometimes described as \"rambling\", this adjective describes a particular quality. Often used in literary and cultural criticism For ten points, name this adjective meaning \"using or expressed in more words than are needed\".",
+      "powerMarkPosition": 98,
+      "answer": "verbose",
+      "acceptableAnswers": [
+        "verbose"
+      ],
+      "explanation": "VERBOSE (/vɜːrˈboʊs/)\n\nDefinition: using or expressed in more words than are needed\n\nEtymology: From Latin verbosus (full of words), from verbum (word).\n\nExample: \"The verbose manuscript needed heavy editing.\"\n\nMemory tip: VERB-ose = full of WORDS (verbum)",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-5a6379aa-ba78-495e-8265-d4a37c54cad2",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "ArtisticStyles",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-baroque",
+        "word": "baroque",
+        "pronunciation": "/bəˈrɒk/",
+        "partOfSpeech": "adjective",
+        "definition": "highly ornate and extravagant in style; relating to the 17th-18th century European artistic style",
+        "category": "LiteraryArtistic",
+        "subcategory": "ArtisticStyles",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Other",
+          "roots": [
+            {
+              "id": "port-barroco",
+              "root": "barroco",
+              "meaning": "irregular pearl",
+              "language": "Other",
+              "examples": [
+                "baroque"
+              ]
+            }
+          ],
+          "narrative": "From Portuguese barroco, meaning \"irregular pearl,\" originally describing imperfect pearls, later applied to elaborate artistic styles."
+        },
+        "exampleSentences": [
+          "The baroque architecture featured ornate carvings and gilded decorations.",
+          "Her baroque prose style was filled with elaborate metaphors."
+        ],
+        "synonyms": [
+          "ornate",
+          "elaborate",
+          "extravagant",
+          "florid"
+        ],
+        "antonyms": [
+          "plain",
+          "simple",
+          "austere",
+          "minimalist"
+        ],
+        "relatedWords": [
+          "baroqueness"
+        ],
+        "mnemonic": "BAROQUE = broken/irregular like an imperfect pearl, but beautifully so.",
+        "acceptableAnswers": [
+          "baroque",
+          "BAROQUE"
+        ],
+        "usageNotes": "Used both as art historical term and general descriptor of elaborate style.",
+        "source": "Art history"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"baroqueness\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"florid\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in art history and criticism. Used both as art historical term and general descriptor of elaborate style.",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"highly ornate and extravagant in style; relating to the 17th-18th century European artistic style\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"baroqueness\". Sometimes described as \"florid\", this adjective describes a particular quality. Often used in art history and criticism. Used both as art historical term and general descriptor of elaborate style. For ten points, name this adjective meaning \"highly ornate and extravagant in style; relating to the 17th-18th century European artistic style\".",
+      "powerMarkPosition": 135,
+      "answer": "baroque",
+      "acceptableAnswers": [
+        "baroque",
+        "BAROQUE"
+      ],
+      "explanation": "BAROQUE (/bəˈrɒk/)\n\nDefinition: highly ornate and extravagant in style; relating to the 17th-18th century European artistic style\n\nEtymology: From Portuguese barroco, meaning \"irregular pearl,\" originally describing imperfect pearls, later applied to elaborate artistic styles.\n\nExample: \"The baroque architecture featured ornate carvings and gilded decorations.\"\n\nMemory tip: BAROQUE = broken/irregular like an imperfect pearl, but beautifully so.",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-36b6d155-296f-4251-a309-90f16900859e",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "CriticalTerms",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-protagonist",
+        "word": "protagonist",
+        "pronunciation": "/prəˈtæɡənɪst/",
+        "partOfSpeech": "noun",
+        "definition": "the leading character in a story, drama, or other literary work",
+        "category": "LiteraryArtistic",
+        "subcategory": "CriticalTerms",
+        "difficulty": "middle_school",
+        "etymology": {
+          "language": "Greek",
+          "roots": [
+            {
+              "id": "grk-protos",
+              "root": "protos",
+              "meaning": "first",
+              "language": "Greek",
+              "examples": [
+                "protagonist",
+                "prototype",
+                "protocol"
+              ]
+            },
+            {
+              "id": "grk-agonistes",
+              "root": "agonistes",
+              "meaning": "actor, combatant",
+              "language": "Greek",
+              "examples": [
+                "protagonist",
+                "antagonist",
+                "agony"
+              ]
+            }
+          ],
+          "narrative": "From Greek protagonistes (first actor), from protos (first) + agonistes (actor)."
+        },
+        "exampleSentences": [
+          "The protagonist faces many challenges on her journey.",
+          "Every story needs a compelling protagonist."
+        ],
+        "synonyms": [
+          "hero",
+          "lead character",
+          "main character",
+          "central figure"
+        ],
+        "antonyms": [
+          "antagonist",
+          "villain"
+        ],
+        "relatedWords": [
+          "antagonist",
+          "agonist",
+          "agony"
+        ],
+        "mnemonic": "PROT-AGONIST = the FIRST (protos) ACTOR (agonistes) on stage",
+        "acceptableAnswers": [
+          "protagonist"
+        ],
+        "source": "Literary analysis"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"antagonist\" and \"agonist\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"central figure\", this noun describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in literary and cultural criticism",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"the leading character in a story, drama, or other literary work\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"antagonist\" and \"agonist\". Sometimes described as \"central figure\", this noun describes a particular quality. Often used in literary and cultural criticism For ten points, name this noun meaning \"the leading character in a story, drama, or other literary work\".",
+      "powerMarkPosition": 102,
+      "answer": "protagonist",
+      "acceptableAnswers": [
+        "protagonist"
+      ],
+      "explanation": "PROTAGONIST (/prəˈtæɡənɪst/)\n\nDefinition: the leading character in a story, drama, or other literary work\n\nEtymology: From Greek protagonistes (first actor), from protos (first) + agonistes (actor).\n\nExample: \"The protagonist faces many challenges on her journey.\"\n\nMemory tip: PROT-AGONIST = the FIRST (protos) ACTOR (agonistes) on stage",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-a01a9262-d1a6-4684-98b0-a39d6745129e",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "LiteraryDevices",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-prosody",
+        "word": "prosody",
+        "pronunciation": "/ˈprɒsədi/",
+        "partOfSpeech": "noun",
+        "definition": "the patterns of rhythm and sound in poetry; the study of versification",
+        "category": "LiteraryArtistic",
+        "subcategory": "LiteraryDevices",
+        "difficulty": "college",
+        "etymology": {
+          "language": "Greek",
+          "roots": [
+            {
+              "id": "grk-prosodia",
+              "root": "prosodia",
+              "meaning": "song sung to music",
+              "language": "Greek",
+              "examples": [
+                "prosody",
+                "prosodic"
+              ]
+            }
+          ],
+          "narrative": "From Greek prosodia (song, accent), from pros (toward) + oide (song)."
+        },
+        "exampleSentences": [
+          "The professor analyzed the prosody of the sonnets.",
+          "Understanding prosody helps in reading poetry aloud."
+        ],
+        "synonyms": [
+          "versification",
+          "meter",
+          "rhythm"
+        ],
+        "relatedWords": [
+          "prosodic",
+          "melody",
+          "ode"
+        ],
+        "mnemonic": "PROS-ODY = the SONG (oide) aspects of poetry",
+        "acceptableAnswers": [
+          "prosody"
+        ],
+        "source": "Literary analysis"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"prosodic\" and \"melody\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"rhythm\", this noun describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in literary analysis and criticism",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"the patterns of rhythm and sound in poetry; the study of versification\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"prosodic\" and \"melody\". Sometimes described as \"rhythm\", this noun describes a particular quality. Often used in literary analysis and criticism For ten points, name this noun meaning \"the patterns of rhythm and sound in poetry; the study of versification\".",
+      "powerMarkPosition": 101,
+      "answer": "prosody",
+      "acceptableAnswers": [
+        "prosody"
+      ],
+      "explanation": "PROSODY (/ˈprɒsədi/)\n\nDefinition: the patterns of rhythm and sound in poetry; the study of versification\n\nEtymology: From Greek prosodia (song, accent), from pros (toward) + oide (song).\n\nExample: \"The professor analyzed the prosody of the sonnets.\"\n\nMemory tip: PROS-ODY = the SONG (oide) aspects of poetry",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-00be1905-a480-4a64-aef2-2e46db75eab2",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "RhetoricalTerms",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-euphemism",
+        "word": "euphemism",
+        "pronunciation": "/ˈjuːfəmɪzəm/",
+        "partOfSpeech": "noun",
+        "definition": "a mild or indirect word or expression substituted for one considered to be too harsh or blunt",
+        "category": "LiteraryArtistic",
+        "subcategory": "RhetoricalTerms",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Greek",
+          "roots": [
+            {
+              "id": "greek-eu",
+              "root": "eu",
+              "meaning": "good, well",
+              "language": "Greek",
+              "examples": [
+                "euphemism",
+                "euphoria",
+                "eulogy"
+              ]
+            },
+            {
+              "id": "greek-pheme",
+              "root": "phēmē",
+              "meaning": "speaking",
+              "language": "Greek",
+              "examples": [
+                "euphemism",
+                "blaspheme",
+                "prophet"
+              ]
+            }
+          ],
+          "narrative": "From Greek euphēmismos, from euphēmos (auspicious), combining eu (good) with phēmē (speaking), meaning \"good speech.\""
+        },
+        "exampleSentences": [
+          "'Passed away' is a euphemism for 'died.'",
+          "The report used euphemisms to downplay the severity of the situation."
+        ],
+        "synonyms": [
+          "polite term",
+          "understatement",
+          "gentilism"
+        ],
+        "antonyms": [
+          "dysphemism"
+        ],
+        "relatedWords": [
+          "euphemistic",
+          "euphemistically",
+          "euphemize"
+        ],
+        "mnemonic": "EU (good) + PHEM (speech) = speaking in a nice/good way about unpleasant things.",
+        "acceptableAnswers": [
+          "euphemism",
+          "EUPHEMISM"
+        ],
+        "usageNotes": "Often used to avoid offense or soften harsh realities.",
+        "source": "Rhetoric"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"euphemistic\" and \"euphemistically\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"gentilism\", this noun describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in rhetoric and persuasive writing. Often used to avoid offense or soften harsh realities.",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"a mild or indirect word or expression substituted for one considered to be too harsh or blunt\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"euphemistic\" and \"euphemistically\". Sometimes described as \"gentilism\", this noun describes a particular quality. Often used in rhetoric and persuasive writing. Often used to avoid offense or soften harsh realities. For ten points, name this noun meaning \"a mild or indirect word or expression substituted for one considered to be too harsh or blunt\".",
+      "powerMarkPosition": 134,
+      "answer": "euphemism",
+      "acceptableAnswers": [
+        "euphemism",
+        "EUPHEMISM"
+      ],
+      "explanation": "EUPHEMISM (/ˈjuːfəmɪzəm/)\n\nDefinition: a mild or indirect word or expression substituted for one considered to be too harsh or blunt\n\nEtymology: From Greek euphēmismos, from euphēmos (auspicious), combining eu (good) with phēmē (speaking), meaning \"good speech.\"\n\nExample: \"'Passed away' is a euphemism for 'died.'\"\n\nMemory tip: EU (good) + PHEM (speech) = speaking in a nice/good way about unpleasant things.",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "vocab-bonus-abaf4141-9a01-4a42-ab5c-293200342b36",
+      "linkedTossupId": "vocab-tossup-310a7030-24ed-4dd5-8632-e4815feb951f",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "CriticalTerms",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of critical terms.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"intended to teach, particularly in having moral instruction as an ulterior motive\".",
+          "answer": "didactic",
+          "acceptableAnswers": [
+            "didactic",
+            "DIDACTIC"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"controversial\", means \"of or involving strongly critical, controversial, or disputatious writing or speech\".",
+          "answer": "polemical",
+          "acceptableAnswers": [
+            "polemical",
+            "POLEMICAL"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"His [BLANK] insistence on grammar rules annoyed his colleagues.\"",
+          "answer": "pedantic",
+          "acceptableAnswers": [
+            "pedantic",
+            "PEDANTIC"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-9db19498-19fb-4e0c-ab29-d4476cc84b0d",
+      "linkedTossupId": "vocab-tossup-5a6379aa-ba78-495e-8265-d4a37c54cad2",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "ArtisticStyles",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of artistic styles.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"new and experimental ideas and methods in art, music, or literature\".",
+          "answer": "avant-garde",
+          "acceptableAnswers": [
+            "avant-garde",
+            "AVANT-GARDE",
+            "avant garde"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This noun, synonymous with \"realism\", means \"the appearance of being true or real; the quality of seeming realistic\".",
+          "answer": "verisimilitude",
+          "acceptableAnswers": [
+            "verisimilitude",
+            "VERISIMILITUDE"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"Rembrandt was a master of [BLANK], using dramatic contrasts of light and shadow.\"",
+          "answer": "chiaroscuro",
+          "acceptableAnswers": [
+            "chiaroscuro",
+            "CHIAROSCURO"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-5058c317-b95c-4469-ada5-e02fef4e40e6",
+      "linkedTossupId": "vocab-tossup-36b6d155-296f-4251-a309-90f16900859e",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "CriticalTerms",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of critical terms.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"intended to teach, particularly in having moral instruction as an ulterior motive\".",
+          "answer": "didactic",
+          "acceptableAnswers": [
+            "didactic",
+            "DIDACTIC"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"controversial\", means \"of or involving strongly critical, controversial, or disputatious writing or speech\".",
+          "answer": "polemical",
+          "acceptableAnswers": [
+            "polemical",
+            "POLEMICAL"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"His [BLANK] insistence on grammar rules annoyed his colleagues.\"",
+          "answer": "pedantic",
+          "acceptableAnswers": [
+            "pedantic",
+            "PEDANTIC"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-cad5ed07-1ef7-4203-8e03-602e45045da8",
+      "linkedTossupId": "vocab-tossup-a01a9262-d1a6-4684-98b0-a39d6745129e",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "LiteraryDevices",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of literary devices.",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"exaggerated statements or claims not meant to be taken literally\".",
+          "answer": "hyperbole",
+          "acceptableAnswers": [
+            "hyperbole",
+            "HYPERBOLE"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This noun, synonymous with \"figure of speech\", means \"a figure of speech in which a word or phrase is applied to something to which it is not literally applicable\".",
+          "answer": "metaphor",
+          "acceptableAnswers": [
+            "metaphor",
+            "METAPHOR"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"Referring to workers as 'hands' is an example of [BLANK].\"",
+          "answer": "synecdoche",
+          "acceptableAnswers": [
+            "synecdoche",
+            "SYNECDOCHE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-5da72126-e330-4325-b8c2-347949715b4a",
+      "linkedTossupId": "vocab-tossup-00be1905-a480-4a64-aef2-2e46db75eab2",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "RhetoricalTerms",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of rhetorical terms.",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"a person or thing that is the direct opposite of someone or something else; a rhetorical contrast of ideas by parallel arrangement of words or clauses\".",
+          "answer": "antithesis",
+          "acceptableAnswers": [
+            "antithesis",
+            "ANTITHESIS"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This noun, synonymous with \"repetition\", means \"the repetition of a word or phrase at the beginning of successive clauses\".",
+          "answer": "anaphora",
+          "acceptableAnswers": [
+            "anaphora",
+            "ANAPHORA"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"'All men are mortal; Socrates is a man; therefore Socrates is mortal' is a classic [BLANK].\"",
+          "answer": "syllogism",
+          "acceptableAnswers": [
+            "syllogism",
+            "SYLLOGISM"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-01-31T19:15:21.415Z",
+    "wordCount": 5,
+    "categoryBreakdown": {
+      "HumanBehavior": 0,
+      "EmotionsFeelings": 0,
+      "MedicalScientific": 0,
+      "LiteraryArtistic": 5,
+      "AbstractConcepts": 0,
+      "ActionsVerbs": 0
+    },
+    "difficultyBreakdown": {
+      "middle_school": 0,
+      "high_school": 5,
+      "college": 0,
+      "open": 0
+    }
+  }
+}

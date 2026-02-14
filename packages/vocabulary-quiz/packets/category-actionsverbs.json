@@ -1,0 +1,716 @@
+{
+  "tossups": [
+    {
+      "id": "vocab-tossup-23e925c5-3a8b-4b5b-836e-638d07383bb3",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "CognitiveActions",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-ruminate",
+        "word": "ruminate",
+        "pronunciation": "/ˈruːmɪneɪt/",
+        "partOfSpeech": "verb",
+        "definition": "to think deeply about something; to chew the cud (for ruminant animals)",
+        "category": "ActionsVerbs",
+        "subcategory": "CognitiveActions",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "latin-rumen",
+              "root": "rumen",
+              "meaning": "throat, gullet",
+              "language": "Latin",
+              "examples": [
+                "ruminate",
+                "ruminant",
+                "rumination"
+              ]
+            }
+          ],
+          "narrative": "From Latin ruminari (to chew the cud), from rumen (throat), metaphorically extended to mental \"chewing over\" of ideas."
+        },
+        "exampleSentences": [
+          "She ruminated on the problem for days before finding a solution.",
+          "Stop ruminating on past mistakes and focus on the future."
+        ],
+        "synonyms": [
+          "ponder",
+          "contemplate",
+          "muse",
+          "meditate"
+        ],
+        "antonyms": [
+          "ignore",
+          "disregard",
+          "neglect"
+        ],
+        "relatedWords": [
+          "rumination",
+          "ruminative",
+          "ruminant"
+        ],
+        "mnemonic": "RUMIN-ate = mentally chew over ideas like a RUMINANT chews cud.",
+        "acceptableAnswers": [
+          "ruminate",
+          "RUMINATE"
+        ],
+        "usageNotes": "In psychology, often refers to unhealthy repetitive negative thinking.",
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"rumination\" and \"ruminative\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"meditate\", this verb describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe mental processes. In psychology, often refers to unhealthy repetitive negative thinking.",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this verb meaning \"to think deeply about something; to chew the cud (for ruminant animals)\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"rumination\" and \"ruminative\". Sometimes described as \"meditate\", this verb describes a particular quality. Often used to describe mental processes. In psychology, often refers to unhealthy repetitive negative thinking. For ten points, name this verb meaning \"to think deeply about something; to chew the cud (for ruminant animals)\".",
+      "powerMarkPosition": 127,
+      "answer": "ruminate",
+      "acceptableAnswers": [
+        "ruminate",
+        "RUMINATE"
+      ],
+      "explanation": "RUMINATE (/ˈruːmɪneɪt/)\n\nDefinition: to think deeply about something; to chew the cud (for ruminant animals)\n\nEtymology: From Latin ruminari (to chew the cud), from rumen (throat), metaphorically extended to mental \"chewing over\" of ideas.\n\nExample: \"She ruminated on the problem for days before finding a solution.\"\n\nMemory tip: RUMIN-ate = mentally chew over ideas like a RUMINANT chews cud.",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-5edd7ccb-a7a7-4662-8939-7347c5ef9d71",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "Movement",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-gravitate",
+        "word": "gravitate",
+        "pronunciation": "/ˈɡrævɪteɪt/",
+        "partOfSpeech": "verb",
+        "definition": "to be drawn toward something; to move under the influence of gravity",
+        "category": "ActionsVerbs",
+        "subcategory": "Movement",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-gravis",
+              "root": "gravis",
+              "meaning": "heavy",
+              "language": "Latin",
+              "examples": [
+                "gravitate",
+                "gravity",
+                "grave",
+                "aggravate"
+              ]
+            }
+          ],
+          "narrative": "From Latin gravitare (to weigh down), from gravis (heavy)."
+        },
+        "exampleSentences": [
+          "People naturally gravitate toward those who share their interests.",
+          "The conversation gravitated toward politics."
+        ],
+        "synonyms": [
+          "tend",
+          "incline",
+          "lean",
+          "drift"
+        ],
+        "antonyms": [
+          "repel",
+          "diverge"
+        ],
+        "relatedWords": [
+          "gravity",
+          "gravitation",
+          "gravitational"
+        ],
+        "mnemonic": "GRAVIT-ate = be pulled like GRAVITY (gravis = heavy)",
+        "acceptableAnswers": [
+          "gravitate"
+        ],
+        "source": "Scientific vocabulary"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"gravity\" and \"gravitation\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"drift\", this verb describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe physical actions or motion",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this verb meaning \"to be drawn toward something; to move under the influence of gravity\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"gravity\" and \"gravitation\". Sometimes described as \"drift\", this verb describes a particular quality. Often used to describe physical actions or motion For ten points, name this verb meaning \"to be drawn toward something; to move under the influence of gravity\".",
+      "powerMarkPosition": 102,
+      "answer": "gravitate",
+      "acceptableAnswers": [
+        "gravitate"
+      ],
+      "explanation": "GRAVITATE (/ˈɡrævɪteɪt/)\n\nDefinition: to be drawn toward something; to move under the influence of gravity\n\nEtymology: From Latin gravitare (to weigh down), from gravis (heavy).\n\nExample: \"People naturally gravitate toward those who share their interests.\"\n\nMemory tip: GRAVIT-ate = be pulled like GRAVITY (gravis = heavy)",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-ba3a7d2b-06e9-4456-90f7-03e3eb8ba985",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "InterpersonalActions",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-rebuff",
+        "word": "rebuff",
+        "pronunciation": "/rɪˈbʌf/",
+        "partOfSpeech": "verb",
+        "definition": "to reject or snub someone or their offer bluntly",
+        "category": "ActionsVerbs",
+        "subcategory": "InterpersonalActions",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Italian",
+          "roots": [
+            {
+              "id": "ital-buffo",
+              "root": "buffo",
+              "meaning": "a puff, gust",
+              "language": "Italian",
+              "examples": [
+                "rebuff",
+                "buffet"
+              ]
+            }
+          ],
+          "prefix": {
+            "id": "pre-re2",
+            "prefix": "re-",
+            "meaning": "back",
+            "language": "Latin",
+            "examples": [
+              "rebuff",
+              "reject",
+              "repel"
+            ]
+          },
+          "narrative": "From Italian ribuffare (to repulse), from ri- (back) + buffo (a puff), suggesting pushing back."
+        },
+        "exampleSentences": [
+          "His attempts at friendship were rebuffed.",
+          "The company rebuffed the takeover bid."
+        ],
+        "synonyms": [
+          "reject",
+          "snub",
+          "spurn",
+          "dismiss"
+        ],
+        "antonyms": [
+          "accept",
+          "welcome",
+          "embrace"
+        ],
+        "relatedWords": [
+          "rebuff (noun)"
+        ],
+        "mnemonic": "RE-BUFF = PUFF (buffo) BACK (re-) - push away",
+        "acceptableAnswers": [
+          "rebuff"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"rebuff (noun)\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"dismiss\", this verb describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe social interactions",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this verb meaning \"to reject or snub someone or their offer bluntly\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"rebuff (noun)\". Sometimes described as \"dismiss\", this verb describes a particular quality. Often used to describe social interactions For ten points, name this verb meaning \"to reject or snub someone or their offer bluntly\".",
+      "powerMarkPosition": 89,
+      "answer": "rebuff",
+      "acceptableAnswers": [
+        "rebuff"
+      ],
+      "explanation": "REBUFF (/rɪˈbʌf/)\n\nDefinition: to reject or snub someone or their offer bluntly\n\nEtymology: From Italian ribuffare (to repulse), from ri- (back) + buffo (a puff), suggesting pushing back.\n\nExample: \"His attempts at friendship were rebuffed.\"\n\nMemory tip: RE-BUFF = PUFF (buffo) BACK (re-) - push away",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-51a4c1f9-90b9-4bae-9105-e53ddeaf36e2",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "InterpersonalActions",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-berate",
+        "word": "berate",
+        "pronunciation": "/bɪˈreɪt/",
+        "partOfSpeech": "verb",
+        "definition": "to scold or criticize someone angrily",
+        "category": "ActionsVerbs",
+        "subcategory": "InterpersonalActions",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Old English",
+          "roots": [
+            {
+              "id": "oe-raetan",
+              "root": "rǣtan",
+              "meaning": "to rebuke",
+              "language": "Old English",
+              "examples": [
+                "berate",
+                "rate"
+              ]
+            }
+          ],
+          "prefix": {
+            "id": "pre-be",
+            "prefix": "be-",
+            "meaning": "thoroughly",
+            "language": "Old English",
+            "examples": [
+              "berate",
+              "belittle",
+              "besmirch"
+            ]
+          },
+          "narrative": "From be- (thoroughly) + rate (to scold), meaning to scold thoroughly."
+        },
+        "exampleSentences": [
+          "The manager berated the employee for the costly mistake.",
+          "She berated herself for forgetting the appointment."
+        ],
+        "synonyms": [
+          "scold",
+          "rebuke",
+          "reprimand",
+          "upbraid"
+        ],
+        "antonyms": [
+          "praise",
+          "commend",
+          "compliment"
+        ],
+        "relatedWords": [
+          "beration"
+        ],
+        "mnemonic": "BE-RATE = thoroughly RATE (scold) someone",
+        "acceptableAnswers": [
+          "berate"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"beration\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"upbraid\", this verb describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe social interactions",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this verb meaning \"to scold or criticize someone angrily\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"beration\". Sometimes described as \"upbraid\", this verb describes a particular quality. Often used to describe social interactions For ten points, name this verb meaning \"to scold or criticize someone angrily\".",
+      "powerMarkPosition": 84,
+      "answer": "berate",
+      "acceptableAnswers": [
+        "berate"
+      ],
+      "explanation": "BERATE (/bɪˈreɪt/)\n\nDefinition: to scold or criticize someone angrily\n\nEtymology: From be- (thoroughly) + rate (to scold), meaning to scold thoroughly.\n\nExample: \"The manager berated the employee for the costly mistake.\"\n\nMemory tip: BE-RATE = thoroughly RATE (scold) someone",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-0edba9ae-3fc6-44b2-bdef-14225eccdf4c",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "CognitiveActions",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-discern",
+        "word": "discern",
+        "pronunciation": "/dɪˈsɜːrn/",
+        "partOfSpeech": "verb",
+        "definition": "to perceive or recognize something; to distinguish with difficulty",
+        "category": "ActionsVerbs",
+        "subcategory": "CognitiveActions",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-cernere",
+              "root": "cernere",
+              "meaning": "to separate, sift",
+              "language": "Latin",
+              "variants": [
+                "cern"
+              ],
+              "examples": [
+                "discern",
+                "concern",
+                "certain"
+              ]
+            }
+          ],
+          "prefix": {
+            "id": "pre-dis2",
+            "prefix": "dis-",
+            "meaning": "apart",
+            "language": "Latin",
+            "examples": [
+              "discern",
+              "distinguish"
+            ]
+          },
+          "narrative": "From Latin discernere (to separate, distinguish), from dis- (apart) + cernere (to separate)."
+        },
+        "exampleSentences": [
+          "I could discern a figure in the fog.",
+          "She could discern the truth from his lies."
+        ],
+        "synonyms": [
+          "perceive",
+          "distinguish",
+          "detect",
+          "recognize"
+        ],
+        "antonyms": [
+          "overlook",
+          "miss",
+          "confuse"
+        ],
+        "relatedWords": [
+          "discernment",
+          "discerning",
+          "discernible"
+        ],
+        "mnemonic": "DIS-CERN = SEPARATE (cernere) APART (dis) to distinguish",
+        "acceptableAnswers": [
+          "discern"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"discernment\" and \"discerning\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"recognize\", this verb describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe mental processes",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this verb meaning \"to perceive or recognize something; to distinguish with difficulty\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"discernment\" and \"discerning\". Sometimes described as \"recognize\", this verb describes a particular quality. Often used to describe mental processes For ten points, name this verb meaning \"to perceive or recognize something; to distinguish with difficulty\".",
+      "powerMarkPosition": 101,
+      "answer": "discern",
+      "acceptableAnswers": [
+        "discern"
+      ],
+      "explanation": "DISCERN (/dɪˈsɜːrn/)\n\nDefinition: to perceive or recognize something; to distinguish with difficulty\n\nEtymology: From Latin discernere (to separate, distinguish), from dis- (apart) + cernere (to separate).\n\nExample: \"I could discern a figure in the fog.\"\n\nMemory tip: DIS-CERN = SEPARATE (cernere) APART (dis) to distinguish",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "vocab-bonus-b2322eff-e5e9-47a6-942c-3883cd2bcc66",
+      "linkedTossupId": "vocab-tossup-23e925c5-3a8b-4b5b-836e-638d07383bb3",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "CognitiveActions",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of cognitive actions.",
+      "parts": [
+        {
+          "text": "Name this verb meaning \"to think deeply about something; to ponder or meditate\".",
+          "answer": "cogitate",
+          "acceptableAnswers": [
+            "cogitate",
+            "COGITATE"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This verb, synonymous with \"examine\", means \"to examine or inspect closely and thoroughly\".",
+          "answer": "scrutinize",
+          "acceptableAnswers": [
+            "scrutinize",
+            "SCRUTINIZE"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"Scientists [BLANK]d from the data to predict future climate patterns.\"",
+          "answer": "extrapolate",
+          "acceptableAnswers": [
+            "extrapolate",
+            "EXTRAPOLATE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-907e9160-5881-487b-b756-f268a9f82e74",
+      "linkedTossupId": "vocab-tossup-5edd7ccb-a7a7-4662-8939-7347c5ef9d71",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "Movement",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of movement.",
+      "parts": [
+        {
+          "text": "Name this verb meaning \"to follow a winding course; to wander aimlessly or casually\".",
+          "answer": "meander",
+          "acceptableAnswers": [
+            "meander",
+            "MEANDER"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This verb, synonymous with \"swing\", means \"to move or swing back and forth in a regular rhythm; to waver between opinions or courses of action\".",
+          "answer": "oscillate",
+          "acceptableAnswers": [
+            "oscillate",
+            "OSCILLATE"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"We [BLANK]d through the gardens, enjoying the spring flowers.\"",
+          "answer": "perambulate",
+          "acceptableAnswers": [
+            "perambulate",
+            "PERAMBULATE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-18ab347a-9213-427e-9e50-d3e323de675a",
+      "linkedTossupId": "vocab-tossup-ba3a7d2b-06e9-4456-90f7-03e3eb8ba985",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "InterpersonalActions",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of interpersonal actions.",
+      "parts": [
+        {
+          "text": "Name this verb meaning \"to make someone less angry or hostile; to appease or pacify\".",
+          "answer": "placate",
+          "acceptableAnswers": [
+            "placate",
+            "PLACATE"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This verb, synonymous with \"absolve\", means \"to absolve someone from blame for a fault or wrongdoing; to release from a duty or obligation\".",
+          "answer": "exonerate",
+          "acceptableAnswers": [
+            "exonerate",
+            "EXONERATE"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The editorial [BLANK]d the government for its handling of the crisis.\"",
+          "answer": "castigate",
+          "acceptableAnswers": [
+            "castigate",
+            "CASTIGATE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-61880f12-d481-4fca-9b4d-17c05cb2771c",
+      "linkedTossupId": "vocab-tossup-51a4c1f9-90b9-4bae-9105-e53ddeaf36e2",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "InterpersonalActions",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of interpersonal actions.",
+      "parts": [
+        {
+          "text": "Name this verb meaning \"to make someone less angry or hostile; to appease or pacify\".",
+          "answer": "placate",
+          "acceptableAnswers": [
+            "placate",
+            "PLACATE"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This verb, synonymous with \"absolve\", means \"to absolve someone from blame for a fault or wrongdoing; to release from a duty or obligation\".",
+          "answer": "exonerate",
+          "acceptableAnswers": [
+            "exonerate",
+            "EXONERATE"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The editorial [BLANK]d the government for its handling of the crisis.\"",
+          "answer": "castigate",
+          "acceptableAnswers": [
+            "castigate",
+            "CASTIGATE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-1693017f-748f-4aab-8380-c3d81521241a",
+      "linkedTossupId": "vocab-tossup-0edba9ae-3fc6-44b2-bdef-14225eccdf4c",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "CognitiveActions",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of cognitive actions.",
+      "parts": [
+        {
+          "text": "Name this verb meaning \"to think deeply about something; to chew the cud (for ruminant animals)\".",
+          "answer": "ruminate",
+          "acceptableAnswers": [
+            "ruminate",
+            "RUMINATE"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This verb, synonymous with \"ponder\", means \"to think deeply about something; to ponder or meditate\".",
+          "answer": "cogitate",
+          "acceptableAnswers": [
+            "cogitate",
+            "COGITATE"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The detective [BLANK]d the evidence for any overlooked clues.\"",
+          "answer": "scrutinize",
+          "acceptableAnswers": [
+            "scrutinize",
+            "SCRUTINIZE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-01-31T19:15:21.417Z",
+    "wordCount": 5,
+    "categoryBreakdown": {
+      "HumanBehavior": 0,
+      "EmotionsFeelings": 0,
+      "MedicalScientific": 0,
+      "LiteraryArtistic": 0,
+      "AbstractConcepts": 0,
+      "ActionsVerbs": 5
+    },
+    "difficultyBreakdown": {
+      "middle_school": 0,
+      "high_school": 5,
+      "college": 0,
+      "open": 0
+    }
+  }
+}

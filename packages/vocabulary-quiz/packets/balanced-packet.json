@@ -1,0 +1,1665 @@
+{
+  "tossups": [
+    {
+      "id": "vocab-tossup-b32cf59f-fab9-40e8-8523-e827158099e8",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "StateOfBeing",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-malleable",
+        "word": "malleable",
+        "pronunciation": "/ˈmæliəbəl/",
+        "partOfSpeech": "adjective",
+        "definition": "able to be hammered or pressed into shape without breaking; easily influenced",
+        "category": "AbstractConcepts",
+        "subcategory": "StateOfBeing",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-malleare",
+              "root": "malleare",
+              "meaning": "to hammer",
+              "language": "Latin",
+              "examples": [
+                "malleable",
+                "mallet"
+              ]
+            }
+          ],
+          "narrative": "From Latin malleabilis, from malleare (to hammer), from malleus (hammer)."
+        },
+        "exampleSentences": [
+          "Gold is one of the most malleable metals.",
+          "Young minds are malleable and open to new ideas."
+        ],
+        "synonyms": [
+          "pliable",
+          "flexible",
+          "adaptable",
+          "impressionable"
+        ],
+        "antonyms": [
+          "rigid",
+          "inflexible",
+          "unyielding"
+        ],
+        "relatedWords": [
+          "malleability",
+          "mallet"
+        ],
+        "mnemonic": "MALLE-able = can be shaped by a MALLET (malleus)",
+        "acceptableAnswers": [
+          "malleable"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"malleability\" and \"mallet\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"impressionable\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe conditions of existence",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"able to be hammered or pressed into shape without breaking; easily influenced\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"malleability\" and \"mallet\". Sometimes described as \"impressionable\", this adjective describes a particular quality. Often used to describe conditions of existence For ten points, name this adjective meaning \"able to be hammered or pressed into shape without breaking; easily influenced\".",
+      "powerMarkPosition": 111,
+      "answer": "malleable",
+      "acceptableAnswers": [
+        "malleable"
+      ],
+      "explanation": "MALLEABLE (/ˈmæliəbəl/)\n\nDefinition: able to be hammered or pressed into shape without breaking; easily influenced\n\nEtymology: From Latin malleabilis, from malleare (to hammer), from malleus (hammer).\n\nExample: \"Gold is one of the most malleable metals.\"\n\nMemory tip: MALLE-able = can be shaped by a MALLET (malleus)",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-89946e3f-69db-4f79-94a6-0dd7965b0337",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "Virtues",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-venerable",
+        "word": "venerable",
+        "pronunciation": "/ˈvenərəbl/",
+        "partOfSpeech": "adjective",
+        "definition": "accorded great respect because of age, wisdom, or character",
+        "category": "HumanBehavior",
+        "subcategory": "Virtues",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-venerari",
+              "root": "venerari",
+              "meaning": "to worship",
+              "language": "Latin",
+              "variants": [
+                "vener"
+              ],
+              "examples": [
+                "venerable",
+                "venerate",
+                "reverence"
+              ]
+            }
+          ],
+          "narrative": "From Latin venerabilis (worthy of reverence), from venerari (to worship)."
+        },
+        "exampleSentences": [
+          "The venerable professor had taught for fifty years.",
+          "They consulted the venerable elder for advice."
+        ],
+        "synonyms": [
+          "respected",
+          "revered",
+          "esteemed",
+          "honored",
+          "august"
+        ],
+        "antonyms": [
+          "disreputable",
+          "dishonored"
+        ],
+        "relatedWords": [
+          "venerate",
+          "reverence"
+        ],
+        "mnemonic": "VENER-able = worthy of VENERATION (worship)",
+        "acceptableAnswers": [
+          "venerable"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"venerate\" and \"reverence\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"august\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe positive moral qualities",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"accorded great respect because of age, wisdom, or character\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"venerate\" and \"reverence\". Sometimes described as \"august\", this adjective describes a particular quality. Often used to describe positive moral qualities For ten points, name this adjective meaning \"accorded great respect because of age, wisdom, or character\".",
+      "powerMarkPosition": 102,
+      "answer": "venerable",
+      "acceptableAnswers": [
+        "venerable"
+      ],
+      "explanation": "VENERABLE (/ˈvenərəbl/)\n\nDefinition: accorded great respect because of age, wisdom, or character\n\nEtymology: From Latin venerabilis (worthy of reverence), from venerari (to worship).\n\nExample: \"The venerable professor had taught for fifty years.\"\n\nMemory tip: VENER-able = worthy of VENERATION (worship)",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-054627fb-32d3-4853-98c5-760763c999a0",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "QualityDescriptors",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-arbitrary",
+        "word": "arbitrary",
+        "pronunciation": "/ˈɑːrbɪtreri/",
+        "partOfSpeech": "adjective",
+        "definition": "based on random choice or personal whim, rather than any reason or system",
+        "category": "AbstractConcepts",
+        "subcategory": "QualityDescriptors",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-arbitrarius",
+              "root": "arbitrarius",
+              "meaning": "depending on the will",
+              "language": "Latin",
+              "examples": [
+                "arbitrary",
+                "arbitrate"
+              ]
+            }
+          ],
+          "narrative": "From Latin arbitrarius (depending on the will), from arbiter (judge, witness)."
+        },
+        "exampleSentences": [
+          "The decision seemed arbitrary and unfair.",
+          "The boundaries were arbitrary lines on a map."
+        ],
+        "synonyms": [
+          "random",
+          "capricious",
+          "whimsical",
+          "subjective"
+        ],
+        "antonyms": [
+          "reasoned",
+          "rational",
+          "systematic"
+        ],
+        "relatedWords": [
+          "arbitrarily",
+          "arbitrariness",
+          "arbitrate"
+        ],
+        "mnemonic": "ARBITR-ary = depending on the ARBITER (judge's whim)",
+        "acceptableAnswers": [
+          "arbitrary"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"arbitrarily\" and \"arbitrariness\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"subjective\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe essential qualities",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"based on random choice or personal whim, rather than any reason or system\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"arbitrarily\" and \"arbitrariness\". Sometimes described as \"subjective\", this adjective describes a particular quality. Often used to describe essential qualities For ten points, name this adjective meaning \"based on random choice or personal whim, rather than any reason or system\".",
+      "powerMarkPosition": 109,
+      "answer": "arbitrary",
+      "acceptableAnswers": [
+        "arbitrary"
+      ],
+      "explanation": "ARBITRARY (/ˈɑːrbɪtreri/)\n\nDefinition: based on random choice or personal whim, rather than any reason or system\n\nEtymology: From Latin arbitrarius (depending on the will), from arbiter (judge, witness).\n\nExample: \"The decision seemed arbitrary and unfair.\"\n\nMemory tip: ARBITR-ary = depending on the ARBITER (judge's whim)",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-37b38a51-bc9a-47ff-a12d-45b290a452f2",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "ArtisticStyles",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-surrealism",
+        "word": "surrealism",
+        "pronunciation": "/səˈriːəlɪzəm/",
+        "partOfSpeech": "noun",
+        "definition": "a 20th-century avant-garde movement that sought to release the creative potential of the unconscious mind",
+        "category": "LiteraryArtistic",
+        "subcategory": "ArtisticStyles",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Old French",
+          "roots": [
+            {
+              "id": "lat-realis",
+              "root": "realis",
+              "meaning": "real",
+              "language": "Latin",
+              "examples": [
+                "surrealism",
+                "reality",
+                "realism"
+              ]
+            }
+          ],
+          "prefix": {
+            "id": "pre-sur",
+            "prefix": "sur-",
+            "meaning": "above, beyond",
+            "language": "Old French",
+            "examples": [
+              "surrealism",
+              "surpass"
+            ]
+          },
+          "narrative": "From French surréalisme, from sur- (above) + réalisme (realism)."
+        },
+        "exampleSentences": [
+          "Dalí was a leading figure in surrealism.",
+          "The film was praised for its surrealism and dreamlike imagery."
+        ],
+        "synonyms": [
+          "dreamlike art",
+          "fantastical style"
+        ],
+        "relatedWords": [
+          "surreal",
+          "surrealist",
+          "surrealistically"
+        ],
+        "mnemonic": "SUR-REALISM = ABOVE (sur) REALITY = dreamlike",
+        "acceptableAnswers": [
+          "surrealism"
+        ],
+        "source": "Art history"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"surreal\" and \"surrealist\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in art history and criticism",
+          "difficultyRank": 4
+        },
+        {
+          "type": "common_synonym",
+          "text": "This noun is synonymous with \"dreamlike art\".",
+          "difficultyRank": 5
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"a 20th-century avant-garde movement that sought to release the creative potential of the unconscious mind\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"surreal\" and \"surrealist\". Often used in art history and criticism This noun is synonymous with \"dreamlike art\". For ten points, name this noun meaning \"a 20th-century avant-garde movement that sought to release the creative potential of the unconscious mind\".",
+      "powerMarkPosition": 102,
+      "answer": "surrealism",
+      "acceptableAnswers": [
+        "surrealism"
+      ],
+      "explanation": "SURREALISM (/səˈriːəlɪzəm/)\n\nDefinition: a 20th-century avant-garde movement that sought to release the creative potential of the unconscious mind\n\nEtymology: From French surréalisme, from sur- (above) + réalisme (realism).\n\nExample: \"Dalí was a leading figure in surrealism.\"\n\nMemory tip: SUR-REALISM = ABOVE (sur) REALITY = dreamlike",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-3f261225-275c-45aa-a918-e46c122010be",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "CriticalTerms",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-trite",
+        "word": "trite",
+        "pronunciation": "/traɪt/",
+        "partOfSpeech": "adjective",
+        "definition": "lacking originality or freshness; dull on account of overuse",
+        "category": "LiteraryArtistic",
+        "subcategory": "CriticalTerms",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-tritus",
+              "root": "tritus",
+              "meaning": "worn",
+              "language": "Latin",
+              "examples": [
+                "trite",
+                "attrition",
+                "contrite"
+              ]
+            }
+          ],
+          "narrative": "From Latin tritus, past participle of terere (to rub, wear away)."
+        },
+        "exampleSentences": [
+          "The essay was filled with trite observations.",
+          "Avoid trite phrases in your writing."
+        ],
+        "synonyms": [
+          "hackneyed",
+          "clichéd",
+          "banal",
+          "commonplace"
+        ],
+        "antonyms": [
+          "original",
+          "fresh",
+          "innovative"
+        ],
+        "relatedWords": [
+          "triteness",
+          "attrition"
+        ],
+        "mnemonic": "TRITE = worn (tritus) out from overuse",
+        "acceptableAnswers": [
+          "trite"
+        ],
+        "source": "Literary criticism"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"triteness\" and \"attrition\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"commonplace\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in literary and cultural criticism",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"lacking originality or freshness; dull on account of overuse\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"triteness\" and \"attrition\". Sometimes described as \"commonplace\", this adjective describes a particular quality. Often used in literary and cultural criticism For ten points, name this adjective meaning \"lacking originality or freshness; dull on account of overuse\".",
+      "powerMarkPosition": 104,
+      "answer": "trite",
+      "acceptableAnswers": [
+        "trite"
+      ],
+      "explanation": "TRITE (/traɪt/)\n\nDefinition: lacking originality or freshness; dull on account of overuse\n\nEtymology: From Latin tritus, past participle of terere (to rub, wear away).\n\nExample: \"The essay was filled with trite observations.\"\n\nMemory tip: TRITE = worn (tritus) out from overuse",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-9bec65c1-7a88-44fc-86a5-bf8926ad05f7",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "Diseases",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-atrophy",
+        "word": "atrophy",
+        "pronunciation": "/ˈætrəfi/",
+        "partOfSpeech": "noun",
+        "definition": "the wasting away or decrease in size of a body part or tissue",
+        "category": "MedicalScientific",
+        "subcategory": "Diseases",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Greek",
+          "roots": [
+            {
+              "id": "grk-trophe",
+              "root": "trophe",
+              "meaning": "nourishment",
+              "language": "Greek",
+              "variants": [
+                "troph"
+              ],
+              "examples": [
+                "atrophy",
+                "hypertrophy",
+                "dystrophy"
+              ]
+            }
+          ],
+          "prefix": {
+            "id": "pre-a",
+            "prefix": "a-",
+            "meaning": "without",
+            "language": "Greek",
+            "examples": [
+              "atrophy",
+              "atypical",
+              "amoral"
+            ]
+          },
+          "narrative": "From Greek atrophia (a wasting away), from a- (without) + trophe (nourishment)."
+        },
+        "exampleSentences": [
+          "Muscle atrophy occurs when muscles are not used.",
+          "The injury caused atrophy in his left leg."
+        ],
+        "synonyms": [
+          "wasting",
+          "withering",
+          "degeneration",
+          "decline"
+        ],
+        "antonyms": [
+          "hypertrophy",
+          "growth",
+          "development"
+        ],
+        "relatedWords": [
+          "hypertrophy",
+          "dystrophy"
+        ],
+        "mnemonic": "A-TROPHY = WITHOUT (a) NOURISHMENT (trophy) = wasting away",
+        "acceptableAnswers": [
+          "atrophy"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"hypertrophy\" and \"dystrophy\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"decline\", this noun describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in clinical or pathological discussions",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"the wasting away or decrease in size of a body part or tissue\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"hypertrophy\" and \"dystrophy\". Sometimes described as \"decline\", this noun describes a particular quality. Often used in clinical or pathological discussions For ten points, name this noun meaning \"the wasting away or decrease in size of a body part or tissue\".",
+      "powerMarkPosition": 102,
+      "answer": "atrophy",
+      "acceptableAnswers": [
+        "atrophy"
+      ],
+      "explanation": "ATROPHY (/ˈætrəfi/)\n\nDefinition: the wasting away or decrease in size of a body part or tissue\n\nEtymology: From Greek atrophia (a wasting away), from a- (without) + trophe (nourishment).\n\nExample: \"Muscle atrophy occurs when muscles are not used.\"\n\nMemory tip: A-TROPHY = WITHOUT (a) NOURISHMENT (trophy) = wasting away",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-0599c794-5c1e-4356-97e0-485fdbc1b6e8",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "AnatomicalTerms",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-vascular",
+        "word": "vascular",
+        "pronunciation": "/ˈvæskjʊlər/",
+        "partOfSpeech": "adjective",
+        "definition": "relating to blood vessels",
+        "category": "MedicalScientific",
+        "subcategory": "AnatomicalTerms",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-vasculum",
+              "root": "vasculum",
+              "meaning": "small vessel",
+              "language": "Latin",
+              "variants": [
+                "vasc"
+              ],
+              "examples": [
+                "vascular",
+                "cardiovascular"
+              ]
+            }
+          ],
+          "narrative": "From Latin vascularis, from vasculum (small vessel), diminutive of vas (vessel)."
+        },
+        "exampleSentences": [
+          "The vascular system carries blood throughout the body.",
+          "He specializes in vascular surgery."
+        ],
+        "synonyms": [
+          "circulatory",
+          "blood vessel-related"
+        ],
+        "relatedWords": [
+          "cardiovascular",
+          "vasculature"
+        ],
+        "mnemonic": "VASCUL-ar = relating to vessels (vasculum)",
+        "acceptableAnswers": [
+          "vascular"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"cardiovascular\" and \"vasculature\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used in anatomical or medical contexts",
+          "difficultyRank": 4
+        },
+        {
+          "type": "common_synonym",
+          "text": "This adjective is synonymous with \"circulatory\".",
+          "difficultyRank": 5
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"relating to blood vessels\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"cardiovascular\" and \"vasculature\". Often used in anatomical or medical contexts This adjective is synonymous with \"circulatory\". For ten points, name this adjective meaning \"relating to blood vessels\".",
+      "powerMarkPosition": 81,
+      "answer": "vascular",
+      "acceptableAnswers": [
+        "vascular"
+      ],
+      "explanation": "VASCULAR (/ˈvæskjʊlər/)\n\nDefinition: relating to blood vessels\n\nEtymology: From Latin vascularis, from vasculum (small vessel), diminutive of vas (vessel).\n\nExample: \"The vascular system carries blood throughout the body.\"\n\nMemory tip: VASCUL-ar = relating to vessels (vasculum)",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-0ab549da-c595-4db5-aa44-c493bda991cf",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "Virtues",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-magnanimous",
+        "word": "magnanimous",
+        "pronunciation": "/mæɡˈnænɪməs/",
+        "partOfSpeech": "adjective",
+        "definition": "generous or forgiving, especially toward a rival or less powerful person",
+        "category": "HumanBehavior",
+        "subcategory": "Virtues",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-magnus",
+              "root": "magnus",
+              "meaning": "great",
+              "language": "Latin",
+              "variants": [
+                "magn"
+              ],
+              "examples": [
+                "magnify",
+                "magnificent",
+                "magnanimous",
+                "magnitude"
+              ]
+            },
+            {
+              "id": "lat-anima",
+              "root": "anima",
+              "meaning": "soul, spirit",
+              "language": "Latin",
+              "variants": [
+                "anim"
+              ],
+              "examples": [
+                "animate",
+                "animosity",
+                "magnanimous",
+                "pusillanimous"
+              ]
+            }
+          ],
+          "narrative": "From Latin magnanimus (great-souled), from magnus (great) + animus (soul, spirit)."
+        },
+        "exampleSentences": [
+          "In a magnanimous gesture, the winner shared the prize with the runner-up.",
+          "The magnanimous queen pardoned her enemies after the war."
+        ],
+        "synonyms": [
+          "generous",
+          "noble",
+          "forgiving",
+          "benevolent",
+          "gracious"
+        ],
+        "antonyms": [
+          "petty",
+          "vindictive",
+          "mean-spirited",
+          "small-minded"
+        ],
+        "relatedWords": [
+          "magnanimity",
+          "pusillanimous",
+          "equanimity",
+          "unanimous"
+        ],
+        "mnemonic": "MAGN (big) + ANIM (spirit) = big-spirited, generous person",
+        "acceptableAnswers": [
+          "magnanimous"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"magnanimity\" and \"pusillanimous\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"gracious\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe positive moral qualities",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"generous or forgiving, especially toward a rival or less powerful person\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"magnanimity\" and \"pusillanimous\". Sometimes described as \"gracious\", this adjective describes a particular quality. Often used to describe positive moral qualities For ten points, name this adjective meaning \"generous or forgiving, especially toward a rival or less powerful person\".",
+      "powerMarkPosition": 110,
+      "answer": "magnanimous",
+      "acceptableAnswers": [
+        "magnanimous"
+      ],
+      "explanation": "MAGNANIMOUS (/mæɡˈnænɪməs/)\n\nDefinition: generous or forgiving, especially toward a rival or less powerful person\n\nEtymology: From Latin magnanimus (great-souled), from magnus (great) + animus (soul, spirit).\n\nExample: \"In a magnanimous gesture, the winner shared the prize with the runner-up.\"\n\nMemory tip: MAGN (big) + ANIM (spirit) = big-spirited, generous person",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-832006c7-205b-4006-971b-23f4c6708e61",
+      "category": "Vocabulary",
+      "subcategory": "EmotionsFeelings",
+      "detailedCategory": "PositiveEmotions",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-rapture",
+        "word": "rapture",
+        "pronunciation": "/ˈræptʃər/",
+        "partOfSpeech": "noun",
+        "definition": "a feeling of intense pleasure or joy",
+        "category": "EmotionsFeelings",
+        "subcategory": "PositiveEmotions",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-rapere",
+              "root": "rapere",
+              "meaning": "to seize",
+              "language": "Latin",
+              "variants": [
+                "rapt"
+              ],
+              "examples": [
+                "rapture",
+                "rapt",
+                "raptor"
+              ]
+            }
+          ],
+          "narrative": "From Latin raptus (a carrying off), past participle of rapere (to seize). The sense of being \"seized\" by emotion."
+        },
+        "exampleSentences": [
+          "She listened to the music in rapture.",
+          "The rapture on his face was evident when he saw the gift."
+        ],
+        "synonyms": [
+          "ecstasy",
+          "bliss",
+          "euphoria",
+          "elation",
+          "delight"
+        ],
+        "antonyms": [
+          "despair",
+          "misery",
+          "anguish"
+        ],
+        "relatedWords": [
+          "rapturous",
+          "rapt",
+          "raptor"
+        ],
+        "mnemonic": "RAPT-ure = being SEIZED (rapere) by joy",
+        "acceptableAnswers": [
+          "rapture"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"rapturous\" and \"rapt\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"delight\", this noun describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe pleasant emotional states",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this noun meaning \"a feeling of intense pleasure or joy\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"rapturous\" and \"rapt\". Sometimes described as \"delight\", this noun describes a particular quality. Often used to describe pleasant emotional states For ten points, name this noun meaning \"a feeling of intense pleasure or joy\".",
+      "powerMarkPosition": 90,
+      "answer": "rapture",
+      "acceptableAnswers": [
+        "rapture"
+      ],
+      "explanation": "RAPTURE (/ˈræptʃər/)\n\nDefinition: a feeling of intense pleasure or joy\n\nEtymology: From Latin raptus (a carrying off), past participle of rapere (to seize). The sense of being \"seized\" by emotion.\n\nExample: \"She listened to the music in rapture.\"\n\nMemory tip: RAPT-ure = being SEIZED (rapere) by joy",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-739f9411-4996-480a-ae3d-328a86613392",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "TransformativeActions",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-obliterate",
+        "word": "obliterate",
+        "pronunciation": "/əˈblɪtəreɪt/",
+        "partOfSpeech": "verb",
+        "definition": "to destroy utterly; to wipe out all traces of",
+        "category": "ActionsVerbs",
+        "subcategory": "TransformativeActions",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-littera",
+              "root": "littera",
+              "meaning": "letter",
+              "language": "Latin",
+              "variants": [
+                "liter"
+              ],
+              "examples": [
+                "obliterate",
+                "literal",
+                "literature"
+              ]
+            }
+          ],
+          "prefix": {
+            "id": "pre-ob2",
+            "prefix": "ob-",
+            "meaning": "against, over",
+            "language": "Latin",
+            "examples": [
+              "obliterate",
+              "obstruct"
+            ]
+          },
+          "narrative": "From Latin obliterare (to erase), from ob- (against) + littera (letter), originally meaning to erase letters."
+        },
+        "exampleSentences": [
+          "The explosion obliterated the building.",
+          "Time had obliterated any trace of the ancient settlement."
+        ],
+        "synonyms": [
+          "destroy",
+          "annihilate",
+          "eradicate",
+          "erase"
+        ],
+        "antonyms": [
+          "create",
+          "preserve",
+          "restore"
+        ],
+        "relatedWords": [
+          "obliteration",
+          "literal"
+        ],
+        "mnemonic": "OB-LITER-ate = erase LETTERS (littera) - wipe out completely",
+        "acceptableAnswers": [
+          "obliterate"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"obliteration\" and \"literal\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"erase\", this verb describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe processes of change",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this verb meaning \"to destroy utterly; to wipe out all traces of\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"obliteration\" and \"literal\". Sometimes described as \"erase\", this verb describes a particular quality. Often used to describe processes of change For ten points, name this verb meaning \"to destroy utterly; to wipe out all traces of\".",
+      "powerMarkPosition": 92,
+      "answer": "obliterate",
+      "acceptableAnswers": [
+        "obliterate"
+      ],
+      "explanation": "OBLITERATE (/əˈblɪtəreɪt/)\n\nDefinition: to destroy utterly; to wipe out all traces of\n\nEtymology: From Latin obliterare (to erase), from ob- (against) + littera (letter), originally meaning to erase letters.\n\nExample: \"The explosion obliterated the building.\"\n\nMemory tip: OB-LITER-ate = erase LETTERS (littera) - wipe out completely",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-61f68e28-9d6b-4e5f-a567-b0ac3999698b",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "Communication",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-obfuscate",
+        "word": "obfuscate",
+        "pronunciation": "/ˈɒbfəskeɪt/",
+        "partOfSpeech": "verb",
+        "definition": "to make obscure, unclear, or unintelligible; to confuse or bewilder",
+        "category": "ActionsVerbs",
+        "subcategory": "Communication",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "latin-fuscus",
+              "root": "fuscus",
+              "meaning": "dark",
+              "language": "Latin",
+              "examples": [
+                "obfuscate",
+                "fuscous"
+              ]
+            }
+          ],
+          "prefix": {
+            "id": "pre-ob",
+            "prefix": "ob-",
+            "meaning": "over, completely",
+            "language": "Latin",
+            "examples": [
+              "obstruct",
+              "obfuscate",
+              "obscure"
+            ]
+          },
+          "narrative": "From Latin obfuscare (to darken), from ob- (over) + fuscus (dark), meaning to make dark or obscure."
+        },
+        "exampleSentences": [
+          "The politician tried to obfuscate the issue with complicated jargon.",
+          "Technical language can obfuscate rather than clarify."
+        ],
+        "synonyms": [
+          "confuse",
+          "obscure",
+          "muddle",
+          "bewilder"
+        ],
+        "antonyms": [
+          "clarify",
+          "illuminate",
+          "elucidate",
+          "explain"
+        ],
+        "relatedWords": [
+          "obfuscation",
+          "obfuscatory"
+        ],
+        "mnemonic": "OB-FUSC-ate = to make completely (ob-) DARK (fuscus) - to obscure.",
+        "acceptableAnswers": [
+          "obfuscate",
+          "OBFUSCATE"
+        ],
+        "usageNotes": "Often used pejoratively to describe deliberate confusion.",
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"obfuscation\" and \"obfuscatory\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"bewilder\", this verb describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe acts of speaking or expressing. Often used pejoratively to describe deliberate confusion.",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this verb meaning \"to make obscure, unclear, or unintelligible; to confuse or bewilder\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"obfuscation\" and \"obfuscatory\". Sometimes described as \"bewilder\", this verb describes a particular quality. Often used to describe acts of speaking or expressing. Often used pejoratively to describe deliberate confusion. For ten points, name this verb meaning \"to make obscure, unclear, or unintelligible; to confuse or bewilder\".",
+      "powerMarkPosition": 127,
+      "answer": "obfuscate",
+      "acceptableAnswers": [
+        "obfuscate",
+        "OBFUSCATE"
+      ],
+      "explanation": "OBFUSCATE (/ˈɒbfəskeɪt/)\n\nDefinition: to make obscure, unclear, or unintelligible; to confuse or bewilder\n\nEtymology: From Latin obfuscare (to darken), from ob- (over) + fuscus (dark), meaning to make dark or obscure.\n\nExample: \"The politician tried to obfuscate the issue with complicated jargon.\"\n\nMemory tip: OB-FUSC-ate = to make completely (ob-) DARK (fuscus) - to obscure.",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-tossup-85c6a738-7b8d-4f59-8891-8d41d656c635",
+      "category": "Vocabulary",
+      "subcategory": "EmotionsFeelings",
+      "detailedCategory": "EmotionalStates",
+      "difficulty": "high_school",
+      "targetWord": {
+        "id": "vocab-distraught",
+        "word": "distraught",
+        "pronunciation": "/dɪˈstrɔːt/",
+        "partOfSpeech": "adjective",
+        "definition": "deeply upset and agitated",
+        "category": "EmotionsFeelings",
+        "subcategory": "EmotionalStates",
+        "difficulty": "high_school",
+        "etymology": {
+          "language": "Latin",
+          "roots": [
+            {
+              "id": "lat-trahere",
+              "root": "trahere",
+              "meaning": "to pull",
+              "language": "Latin",
+              "variants": [
+                "tract"
+              ],
+              "examples": [
+                "distraught",
+                "distract",
+                "attract"
+              ]
+            }
+          ],
+          "prefix": {
+            "id": "pre-dis",
+            "prefix": "dis-",
+            "meaning": "apart",
+            "language": "Latin",
+            "examples": [
+              "distraught",
+              "distract"
+            ]
+          },
+          "narrative": "Alteration of distract, from Latin distractus (pulled apart)."
+        },
+        "exampleSentences": [
+          "She was distraught over the loss of her pet.",
+          "The distraught parent searched for the missing child."
+        ],
+        "synonyms": [
+          "distressed",
+          "upset",
+          "agitated",
+          "frantic",
+          "overwrought"
+        ],
+        "antonyms": [
+          "calm",
+          "composed",
+          "collected",
+          "serene"
+        ],
+        "relatedWords": [
+          "distract",
+          "distraction"
+        ],
+        "mnemonic": "DIS-TRAUGHT = PULLED APART (trahere) emotionally",
+        "acceptableAnswers": [
+          "distraught"
+        ],
+        "source": "Word Power Made Easy"
+      },
+      "clues": [
+        {
+          "type": "word_family",
+          "text": "This word shares its root with \"distract\" and \"distraction\".",
+          "difficultyRank": 2
+        },
+        {
+          "type": "obscure_synonym",
+          "text": "Sometimes described as \"overwrought\", this adjective describes a particular quality.",
+          "difficultyRank": 3
+        },
+        {
+          "type": "usage_context",
+          "text": "Often used to describe general emotional conditions",
+          "difficultyRank": 4
+        },
+        {
+          "type": "definition",
+          "text": "For ten points, name this adjective meaning \"deeply upset and agitated\".",
+          "difficultyRank": 8
+        }
+      ],
+      "text": "This word shares its root with \"distract\" and \"distraction\". Sometimes described as \"overwrought\", this adjective describes a particular quality. Often used to describe general emotional conditions For ten points, name this adjective meaning \"deeply upset and agitated\".",
+      "powerMarkPosition": 94,
+      "answer": "distraught",
+      "acceptableAnswers": [
+        "distraught"
+      ],
+      "explanation": "DISTRAUGHT (/dɪˈstrɔːt/)\n\nDefinition: deeply upset and agitated\n\nEtymology: Alteration of distract, from Latin distractus (pulled apart).\n\nExample: \"She was distraught over the loss of her pet.\"\n\nMemory tip: DIS-TRAUGHT = PULLED APART (trahere) emotionally",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "bonuses": [
+    {
+      "id": "vocab-bonus-11b04f60-9fdb-4bef-9d64-a3b5a155f8bc",
+      "linkedTossupId": "vocab-tossup-0ab549da-c595-4db5-aa44-c493bda991cf",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "Virtues",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of virtues.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"well-meaning and kindly; showing goodwill\".",
+          "answer": "benevolent",
+          "acceptableAnswers": [
+            "benevolent"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"selfless\", means \"showing a disinterested and selfless concern for the well-being of others\".",
+          "answer": "altruistic",
+          "acceptableAnswers": [
+            "altruistic"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The [BLANK] foundation supports education in underserved communities.\"",
+          "answer": "philanthropic",
+          "acceptableAnswers": [
+            "philanthropic"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-1a379e40-5f65-448f-84dd-54dc0432cfc2",
+      "linkedTossupId": "vocab-tossup-89946e3f-69db-4f79-94a6-0dd7965b0337",
+      "category": "Vocabulary",
+      "subcategory": "HumanBehavior",
+      "detailedCategory": "Virtues",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of virtues.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"generous or forgiving, especially toward a rival or less powerful person\".",
+          "answer": "magnanimous",
+          "acceptableAnswers": [
+            "magnanimous"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"kind\", means \"well-meaning and kindly; showing goodwill\".",
+          "answer": "benevolent",
+          "acceptableAnswers": [
+            "benevolent"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"His [BLANK] nature led him to volunteer at homeless shelters.\"",
+          "answer": "altruistic",
+          "acceptableAnswers": [
+            "altruistic"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-6bbbce2e-e908-4ba9-902a-06145714c457",
+      "linkedTossupId": "vocab-tossup-85c6a738-7b8d-4f59-8891-8d41d656c635",
+      "category": "Vocabulary",
+      "subcategory": "EmotionsFeelings",
+      "detailedCategory": "EmotionalStates",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of emotional states.",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"mental calmness and composure, especially in difficult situations\".",
+          "answer": "equanimity",
+          "acceptableAnswers": [
+            "equanimity"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This noun, synonymous with \"agitation\", means \"anxiety or mental uneasiness; a state of being disturbed\".",
+          "answer": "perturbation",
+          "acceptableAnswers": [
+            "perturbation"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"She maintained her [BLANK] despite the chaos around her.\"",
+          "answer": "composure",
+          "acceptableAnswers": [
+            "composure"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-e3d8e766-cedf-405c-9d19-e573ec4241ba",
+      "linkedTossupId": "vocab-tossup-832006c7-205b-4006-971b-23f4c6708e61",
+      "category": "Vocabulary",
+      "subcategory": "EmotionsFeelings",
+      "detailedCategory": "PositiveEmotions",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of positive emotions.",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"a feeling of intense happiness and well-being\".",
+          "answer": "euphoria",
+          "acceptableAnswers": [
+            "euphoria"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This noun, synonymous with \"joy\", means \"great happiness and exhilaration\".",
+          "answer": "elation",
+          "acceptableAnswers": [
+            "elation"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"There was [BLANK] in the streets when peace was declared.\"",
+          "answer": "jubilation",
+          "acceptableAnswers": [
+            "jubilation"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-5bb59805-5a1e-4795-a230-5d858744cb73",
+      "linkedTossupId": "vocab-tossup-9bec65c1-7a88-44fc-86a5-bf8926ad05f7",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "Diseases",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of diseases.",
+      "parts": [
+        {
+          "text": "Name this noun meaning \"a general feeling of discomfort, illness, or unease\".",
+          "answer": "malaise",
+          "acceptableAnswers": [
+            "malaise"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This noun, synonymous with \"causation\", means \"the cause or origin of a disease; the study of causation\".",
+          "answer": "etiology",
+          "acceptableAnswers": [
+            "etiology",
+            "aetiology"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The doctor gave a favorable [BLANK] for recovery.\"",
+          "answer": "prognosis",
+          "acceptableAnswers": [
+            "prognosis"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-9cf00f55-1594-438f-92b4-fe3dcd05f8a8",
+      "linkedTossupId": "vocab-tossup-0599c794-5c1e-4356-97e0-485fdbc1b6e8",
+      "category": "Vocabulary",
+      "subcategory": "MedicalScientific",
+      "detailedCategory": "AnatomicalTerms",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of anatomical terms.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"relating to the heart\".",
+          "answer": "cardiac",
+          "acceptableAnswers": [
+            "cardiac"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"lung-related\", means \"relating to the lungs\".",
+          "answer": "pulmonary",
+          "acceptableAnswers": [
+            "pulmonary"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"[BLANK] failure requires dialysis treatment.\"",
+          "answer": "renal",
+          "acceptableAnswers": [
+            "renal"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-cdd5eef7-6027-468e-9e2f-fb0e599d097a",
+      "linkedTossupId": "vocab-tossup-3f261225-275c-45aa-a918-e46c122010be",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "CriticalTerms",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of critical terms.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"intended to teach, particularly in having moral instruction as an ulterior motive\".",
+          "answer": "didactic",
+          "acceptableAnswers": [
+            "didactic",
+            "DIDACTIC"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"controversial\", means \"of or involving strongly critical, controversial, or disputatious writing or speech\".",
+          "answer": "polemical",
+          "acceptableAnswers": [
+            "polemical",
+            "POLEMICAL"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"His [BLANK] insistence on grammar rules annoyed his colleagues.\"",
+          "answer": "pedantic",
+          "acceptableAnswers": [
+            "pedantic",
+            "PEDANTIC"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-cfae6e81-e38f-4ddb-a5e7-3aabe62217f6",
+      "linkedTossupId": "vocab-tossup-37b38a51-bc9a-47ff-a12d-45b290a452f2",
+      "category": "Vocabulary",
+      "subcategory": "LiteraryArtistic",
+      "detailedCategory": "ArtisticStyles",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of artistic styles.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"highly ornate and extravagant in style; relating to the 17th-18th century European artistic style\".",
+          "answer": "baroque",
+          "acceptableAnswers": [
+            "baroque",
+            "BAROQUE"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"experimental\", means \"new and experimental ideas and methods in art, music, or literature\".",
+          "answer": "avant-garde",
+          "acceptableAnswers": [
+            "avant-garde",
+            "AVANT-GARDE",
+            "avant garde"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The historical novel achieved remarkable [BLANK] in its depiction of medieval life.\"",
+          "answer": "verisimilitude",
+          "acceptableAnswers": [
+            "verisimilitude",
+            "VERISIMILITUDE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-59d3d9e2-3842-41af-b681-2241989f18cf",
+      "linkedTossupId": "vocab-tossup-b32cf59f-fab9-40e8-8523-e827158099e8",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "StateOfBeing",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of state of being.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"in a state or period of inactivity or dormancy\".",
+          "answer": "quiescent",
+          "acceptableAnswers": [
+            "quiescent",
+            "QUIESCENT"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"transitional\", means \"occupying a position at, or on both sides of, a boundary or threshold\".",
+          "answer": "liminal",
+          "acceptableAnswers": [
+            "liminal",
+            "LIMINAL"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The [BLANK] talent emerged once she received proper training.\"",
+          "answer": "latent",
+          "acceptableAnswers": [
+            "latent",
+            "LATENT"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-03ddbe7a-c6d4-40b3-9a29-600a0771e701",
+      "linkedTossupId": "vocab-tossup-054627fb-32d3-4853-98c5-760763c999a0",
+      "category": "Vocabulary",
+      "subcategory": "AbstractConcepts",
+      "detailedCategory": "QualityDescriptors",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of quality descriptors.",
+      "parts": [
+        {
+          "text": "Name this adjective meaning \"representing the most perfect or typical example of a quality or class\".",
+          "answer": "quintessential",
+          "acceptableAnswers": [
+            "quintessential",
+            "QUINTESSENTIAL"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This adjective, synonymous with \"omnipresent\", means \"present, appearing, or found everywhere\".",
+          "answer": "ubiquitous",
+          "acceptableAnswers": [
+            "ubiquitous",
+            "UBIQUITOUS"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"She felt an [BLANK] joy upon seeing her newborn child.\"",
+          "answer": "ineffable",
+          "acceptableAnswers": [
+            "ineffable",
+            "INEFFABLE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-9397dcae-f2a4-490d-9064-dd71ab096acf",
+      "linkedTossupId": "vocab-tossup-739f9411-4996-480a-ae3d-328a86613392",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "TransformativeActions",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of transformative actions.",
+      "parts": [
+        {
+          "text": "Name this verb meaning \"to make something bad or unsatisfactory better\".",
+          "answer": "ameliorate",
+          "acceptableAnswers": [
+            "ameliorate",
+            "AMELIORATE"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This verb, synonymous with \"worsen\", means \"to make a problem, bad situation, or negative feeling worse\".",
+          "answer": "exacerbate",
+          "acceptableAnswers": [
+            "exacerbate",
+            "EXACERBATE"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"The caterpillar [BLANK]d into a beautiful butterfly.\"",
+          "answer": "metamorphose",
+          "acceptableAnswers": [
+            "metamorphose",
+            "METAMORPHOSE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    },
+    {
+      "id": "vocab-bonus-8340fbcc-c5eb-41e9-9a72-74785706a5bc",
+      "linkedTossupId": "vocab-tossup-61f68e28-9d6b-4e5f-a567-b0ac3999698b",
+      "category": "Vocabulary",
+      "subcategory": "ActionsVerbs",
+      "detailedCategory": "Communication",
+      "difficulty": "high_school",
+      "leadin": "For 10 points each, name these vocabulary words from the category of communication.",
+      "parts": [
+        {
+          "text": "Name this verb meaning \"to make clear; to throw light on; to explain\".",
+          "answer": "elucidate",
+          "acceptableAnswers": [
+            "elucidate",
+            "ELUCIDATE"
+          ],
+          "pointValue": 10,
+          "clueType": "definition"
+        },
+        {
+          "text": "This verb, synonymous with \"preach\", means \"to speak or express opinions in a pompous or dogmatic way\".",
+          "answer": "pontificate",
+          "acceptableAnswers": [
+            "pontificate",
+            "PONTIFICATE"
+          ],
+          "pointValue": 10,
+          "clueType": "common_synonym"
+        },
+        {
+          "text": "Fill in the blank: \"She [BLANK]d her vision for the company with precision.\"",
+          "answer": "articulate",
+          "acceptableAnswers": [
+            "articulate",
+            "ARTICULATE"
+          ],
+          "pointValue": 10,
+          "clueType": "usage_context"
+        }
+      ],
+      "pattern": "category",
+      "source": "vocabulary-quiz"
+    }
+  ],
+  "metadata": {
+    "generatedAt": "2026-01-31T19:15:21.409Z",
+    "wordCount": 12,
+    "categoryBreakdown": {
+      "HumanBehavior": 2,
+      "EmotionsFeelings": 2,
+      "MedicalScientific": 2,
+      "LiteraryArtistic": 2,
+      "AbstractConcepts": 2,
+      "ActionsVerbs": 2
+    },
+    "difficultyBreakdown": {
+      "middle_school": 0,
+      "high_school": 12,
+      "college": 0,
+      "open": 0
+    }
+  }
+}
