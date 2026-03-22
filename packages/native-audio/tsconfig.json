@@ -1,0 +1,9 @@
+{
+  "extends": "@monorepo/config/tsconfig-react-native.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "declaration": true,
+    "declarationMap": true
+  },
+  "include": ["src/**/*"]
+}

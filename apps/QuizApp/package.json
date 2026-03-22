@@ -15,6 +15,7 @@
     "e2e:test:android": "node ../../node_modules/detox/local-cli/cli.js test --configuration android.emu.debug"
   },
   "dependencies": {
+    "@monorepo/native-audio": "*",
     "@monorepo/types": "*",
     "@monorepo/ui-components": "*",
     "@monorepo/utils": "*",
